@@ -20,9 +20,9 @@ jobs:
     - name: Install dependencies
       run: |
         pip install --upgrade --upgrade-strategy eager -r requirements.txt
-    - name: Download Work
+    - name: Collate Work
       run: |
         python collate_work.py
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        commit_message: Downloaded/Updated Data
+        commit_message: Collated Work
