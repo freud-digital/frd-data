@@ -4,8 +4,8 @@ on:
   workflow_dispatch
 
 jobs:
-  test:
-    name: Test Application
+  download:
+    name: Download Work
     runs-on: ubuntu-latest
     env:
       FRD_USER: ${{secrets.FRD_USER}}
