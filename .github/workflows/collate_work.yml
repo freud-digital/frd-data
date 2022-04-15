@@ -7,9 +7,6 @@ jobs:
   collate:
     name: Collate Work
     runs-on: ubuntu-latest
-    env:
-      FRD_USER: ${{secrets.FRD_USER}}
-      FRD_PW: ${{secrets.FRD_PW}}
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
