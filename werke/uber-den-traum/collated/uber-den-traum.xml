@@ -1,4 +1,20 @@
-<ab xmlns="http://www.tei-c.org/ns/1.0"><app>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit><witness xml:id="uber-den-traum__druckversion-0.xml">uber-den-traum__druckversion-0.xml</witness><witness xml:id="uber-den-traum__druckversion-1.xml">uber-den-traum__druckversion-1.xml</witness><witness xml:id="uber-den-traum__druckversion-2.xml">uber-den-traum__druckversion-2.xml</witness><witness xml:id="uber-den-traum__druckversion-3.xml">uber-den-traum__druckversion-3.xml</witness><witness xml:id="uber-den-traum__druckversion-4.xml">uber-den-traum__druckversion-4.xml</witness><witness xml:id="uber-den-traum__druckversion-5.xml">uber-den-traum__druckversion-5.xml</witness><witness xml:id="uber-den-traum__druckversion-6.xml">uber-den-traum__druckversion-6.xml</witness><witness xml:id="uber-den-traum__druckversion.xml">uber-den-traum__druckversion.xml</witness></listWit>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <ab><app>
 		<rdg wit="#uber-den-traum__druckversion-2.xml">GRENZFRAGEN DES NERVEN- UND SEELENLEBENS. EINZEL-DARSTELLUNGEN FÜR GEBILDETE ALLER STÄNDE</rdg>
 		<rdg wit="#uber-den-traum__druckversion-3.xml #uber-den-traum__druckversion-5.xml #uber-den-traum__druckversion-6.xml">ÜBER DEN TRAUM</rdg>
 	</app>
@@ -10438,3 +10454,6 @@
 	 
 	und zur Verdrängung knüpfen die weiteren, für die Psychologie bedeutsamen Fragen an, deren Erledigung wohl aufzuschieben ist, bis die Analyse die Entstehung anderer psychopathischer Bildungen, wie der hysterischen Symptome und der Zwangsideen, klargelegt hat.
 </ab>
+      </body>
+  </text>
+</TEI>
