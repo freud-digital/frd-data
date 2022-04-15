@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__3410850f-50f8-40bb-b492-97fb74989523">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="manifestation">Schmutztitel</title>
+            <title type="publication"><rs type="bibl" ref="#bibl__3410850f-50f8-40bb-b492-97fb74989523">3410850f-50f8-40bb-b492-97fb74989523</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</rs></title>
+            <title type="sub"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><div xml:id="page__035e9059-5537-4c7f-8acd-1f76a07bff6f"><pb n="1" facs="http://www.freud-edition.net/jsonapi/file/file/2a80e482-a42a-488d-8ed2-847c1e095c5a" xml:id="faks__2a80e482-a42a-488d-8ed2-847c1e095c5a"/><p>SIGM. FREUD</p> <p>JENSEITS DES LUSTPRINZIPS</p> </div><div xml:id="page__9b4ee227-4de6-4972-988a-c31f844e08d5"><pb n="2" facs="http://www.freud-edition.net/jsonapi/file/file/a3291387-0198-4009-aec4-04e44247f902" xml:id="faks__a3291387-0198-4009-aec4-04e44247f902"/><p> </p> <p> </p> </div></body>
+   </text>
+</TEI>

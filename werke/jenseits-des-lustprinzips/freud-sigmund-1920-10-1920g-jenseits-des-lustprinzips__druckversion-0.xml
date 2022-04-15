@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__5ed19fa4-5524-4d46-989d-8a4ffa01bde6">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="manifestation">Freud, Sigmund  (1920-10; 1920g): Jenseits des Lustprinzips</title>
+            <title type="publication"><rs type="bibl" ref="#bibl__5ed19fa4-5524-4d46-989d-8a4ffa01bde6">5ed19fa4-5524-4d46-989d-8a4ffa01bde6</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</rs></title>
+            <title type="sub"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><div xml:id="page__7d1c8860-5953-453b-8f7d-22f9b85836ad"><pb n="1" facs="http://www.freud-edition.net/jsonapi/file/file/9bd2cbcc-e49b-4141-8a65-4e6b6b81f476" xml:id="faks__9bd2cbcc-e49b-4141-8a65-4e6b6b81f476"/><p>JENSEITS DES LUSTPRINZIPS</p> </div></body>
+   </text>
+</TEI>

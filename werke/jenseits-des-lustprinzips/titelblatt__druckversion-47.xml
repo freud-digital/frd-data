@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__7e45a34f-1934-4099-954b-5c729fd513e1">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="manifestation">Titelblatt</title>
+            <title type="publication"><rs type="bibl" ref="#bibl__7e45a34f-1934-4099-954b-5c729fd513e1">7e45a34f-1934-4099-954b-5c729fd513e1</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</rs></title>
+            <title type="sub"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><div xml:id="page__c863b408-5d71-497a-8fdb-6f85398ee832"><pb n="1" facs="http://www.freud-edition.net/jsonapi/file/file/e2eb8a04-ed65-4a8c-abcc-d3a153492d31" xml:id="faks__e2eb8a04-ed65-4a8c-abcc-d3a153492d31"/><p>BEIHEFTE<lb/> DER<lb/> INTERNATIONALEN ZEITSCHRIFT FÜR PSVCHOANALYSE<lb/> HERAUSGEGEBEN VON PROF. DR. SIGM. FREUD.<lb/> Nr. II</p> <p>JENSEITS<lb/> DES<lb/> LUSTPRINZIPS</p> <p>VON<lb/> SIGM. FREUD</p> <p>2. DURCHGESEHENE AUFLAGE<lb/> (2.-4. TAUSEND)</p> <p>IPV</p> <p>1 9 2 1<lb/> INTERNATIONALER PSYCHOANALYTISCHER VERLAG, G.M.B.H<lb/> LEIPZIG WIEN ZÜRICH<lb/> </p> <p> </p> </div><div xml:id="page__a5e79785-e5d4-4d2f-a51d-b793eceef477"><pb n="2" facs="http://www.freud-edition.net/jsonapi/file/file/5cf5b1b2-c9c6-4bc9-a06d-e87eb14a711d" xml:id="faks__5cf5b1b2-c9c6-4bc9-a06d-e87eb14a711d"/><p>Alle Rechte, bensonders das der Übersetzung in alle Sprachen vorbehalten.<lb/> Copyright 1921 by „Internationaler Psychoanalyllscher Verlag Ges. m. b. H."<lb/> Wien, I.</p> <p>Gesellschaft für graphische Industrie, III. Rüdengasse 11.</p> <p> </p> </div></body>
+   </text>
+</TEI>

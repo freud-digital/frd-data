@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="manifestation">[Notizen über die Natur der Sexualität und des Todestriebes]</title>
+            <title type="publication"><rs type="bibl" ref="#bibl__8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5">8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</rs></title>
+            <title type="sub"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><div xml:id="page__67f028be-d1f2-43ae-9a52-e303a57886a3"><pb n="1" facs="http://www.freud-edition.net/jsonapi/file/file/2b1b387a-a2da-4207-a203-9810c97dc506" xml:id="faks__2b1b387a-a2da-4207-a203-9810c97dc506"/><p>15 Juli<lb/> MÁJUS<lb/> 12</p> <p>In sex Vereinigg wiederholt sich<lb/> in Andeutung des Urereignis<lb/> der Belebung des Leblosen.<lb/> --<lb break="no"/>Todestriebe maskirt als Lebens<lb break="no"/>triebe, Sextr schienen zu Tod<lb/> zu führen. Gegenteil tat<lb break="no"/>sächlich<lb/> --<lb break="no"/>Ein <span class="unclear">Optimum</span> d. Vitaldifferenz<lb/> --<lb break="no"/>Das <span class="unclear">sich</span> Sträuben der Triebe gegen<lb/> Spannungszuwachs folgt aus<lb/> Natur der Triebe, die auf<lb/> Abgelichung arbeiten</p> <p>[aditorische Anmerkung: rechts ober dem "M" bei "MÁJUS " findet sich ein Punkt, aber ein entsprechendes diakritisches Zeichen im Ungarischen findet sich nicht.]</p> <p> </p> <p> </p> <p>[Transkription fußt auf der diplomtischen Umschrift von Christfreid Töge, Katalog Uchtspringen 2001. ]</p> <p> </p> <p> </p> </div></body>
+   </text>
+</TEI>
