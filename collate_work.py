@@ -4,7 +4,8 @@ import lxml.etree as ET
 from acdh_collatex_utils.acdh_collatex_utils import CxCollate
 from acdh_collatex_utils.post_process import (
     merge_tei_fragments,
-    make_full_tei_doc
+    make_full_tei_doc,
+    make_html_table_file
 )
 
 from config import WERK_PATH
@@ -12,6 +13,7 @@ from config import WERK_PATH
 input_glob = f"./werke/{WERK_PATH}/{WERK_PATH}__*.xml"
 output_dir = f"./werke/{WERK_PATH}/collated"
 result_file = f'{output_dir}/{WERK_PATH}.xml'
+result_html = f'{output_dir}/{WERK_PATH}.html'
 
 print("starting...")
 out = CxCollate(
@@ -32,8 +34,13 @@ root = full_tei.tree
 full_tei.tree_to_file(result_file)
 
 
+files = glob.glob(f"{output_dir}/*.html")
+full_doc = make_html_table_file(files)
+full_doc.tree_to_file(result_html)
+
+
 for x in files:
     print(f"removing {x}")
     os.remove(x)
-    print(f"removing {x.replace('.tei', '.html')}")
-    os.remove(x.replace('.tei', '.html'))
+    print(f"removing {x.replace('.html', '.tei')}")
+    os.remove(x.replace('.html', '.tei'))
