@@ -40,7 +40,15 @@ full_doc.tree_to_file(result_html)
 
 
 for x in files:
-    print(f"removing {x}")
-    os.remove(x)
-    print(f"removing {x.replace('.html', '.tei')}")
-    os.remove(x.replace('.html', '.tei'))
+    if f"{WERK_PATH}.xml" not in x:
+        print(f"removing {x}")
+        os.remove(x)
+        print(f"removing {x.replace('.html', '.tei')}")
+        os.remove(x.replace('.html', '.tei'))   
+    elif f"{WERK_PATH}.html" not in x:
+        print(f"removing {x}")
+        os.remove(x)
+        print(f"removing {x.replace('.html', '.tei')}")
+        os.remove(x.replace('.html', '.tei'))        
+    else:
+        print(f"not removing {x}")
