@@ -2,5 +2,5 @@ import os
 
 FRD_USER = os.environ.get('FRD_USER')
 FRD_PW = os.environ.get('FRD_PW')
-WERK_ID = "2da622da-de12-46e4-bb1d-c9c4a7ae877e"
-WERK_PATH = "uber-den-traum"
+WERK_ID = "9d035a03-28d7-4013-adaf-63337d78ece4"
+WERK_PATH = "drei-abhandlungen-zur-sexualtheorie"
