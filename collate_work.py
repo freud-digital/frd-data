@@ -5,7 +5,7 @@ from acdh_collatex_utils.acdh_collatex_utils import CxCollate
 from acdh_collatex_utils.post_process import (
     merge_tei_fragments,
     make_full_tei_doc,
-    make_html_table_file
+    merge_html_fragments
 )
 
 from config import WERK_PATH
@@ -35,20 +35,11 @@ full_tei.tree_to_file(result_file)
 
 
 files = glob.glob(f"{output_dir}/*.html")
-full_doc = make_html_table_file(files)
-full_doc.tree_to_file(result_html)
+full_doc = merge_html_fragments(files)
+with open(result_html, 'w') as f:
+    f.write(full_doc.prettify("utf-8").decode('utf-8'))
 
 
-for x in files:
-    if f"{WERK_PATH}.xml" not in x:
-        print(f"removing {x}")
-        os.remove(x)
-        print(f"removing {x.replace('.html', '.tei')}")
-        os.remove(x.replace('.html', '.tei'))   
-    elif f"{WERK_PATH}.html" not in x:
-        print(f"removing {x}")
-        os.remove(x)
-        print(f"removing {x.replace('.html', '.tei')}")
-        os.remove(x.replace('.html', '.tei'))        
-    else:
-        print(f"not removing {x}")
+for x in glob.glob(f"{output_dir}/out__*"):
+    print(f"removing {x}")
+    os.remove(x)

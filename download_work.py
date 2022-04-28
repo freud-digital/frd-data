@@ -1,6 +1,8 @@
 import click
 import freud_api_crawler.freud_api_crawler as frd
-from config import WERK_ID, FRD_USER, FRD_PW
+from config import (
+    WERK_ID, FRD_USER, FRD_PW, MANIFEST_DEFAULT_FILTER
+)
 
 
 out_dir = "."
@@ -10,9 +12,10 @@ auth_items = frd.get_auth_items(FRD_USER, FRD_PW)
 werk_obj = frd.FrdWerk(
     auth_items=auth_items, werk_id=WERK_ID
 )
-rel_manifestations = werk_obj.get_manifestations(filters=frd.MANIFEST_DEFAULT_FILTER)
+rel_manifestations = werk_obj.get_manifestations(filters=MANIFEST_DEFAULT_FILTER)
 print(
-    f"found {len(rel_manifestations)} manifestion with settings {frd.MANIFEST_DEFAULT_FILTER}")
+    f"found {len(rel_manifestations)} manifestion with settings {MANIFEST_DEFAULT_FILTER}"
+)
 
 for x in rel_manifestations:
     try:
