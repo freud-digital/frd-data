@@ -9,5 +9,5 @@ WERK_PATH = "josef-popper-lynkeus-und-die-theorie-des-traumes"
 
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,
-    "field_status_umschrift": 1
+    # "field_status_umschrift": 1
 }
