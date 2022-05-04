@@ -10,7 +10,7 @@ from acdh_collatex_utils.post_process import (
 
 from config import WERK_PATH
 
-input_glob = f"./werke/{WERK_PATH}/{WERK_PATH}__*.xml"
+input_glob = f"./werke/{WERK_PATH}/*.xml"
 output_dir = f"./werke/{WERK_PATH}/collated"
 result_file = f'{output_dir}/{WERK_PATH}.xml'
 result_html = f'{output_dir}/{WERK_PATH}.html'
@@ -21,7 +21,7 @@ out = CxCollate(
     glob_recursive=False,
     output_dir=output_dir,
     char_limit=False,
-    chunk_size=5000,
+    chunk_size=7000,
 ).collate()
 
 files = glob.glob(f"{output_dir}/*.tei")
