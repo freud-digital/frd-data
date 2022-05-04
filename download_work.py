@@ -5,7 +5,7 @@ from config import (
 )
 
 
-out_dir = "."
+out_dir = "./werke"
 
 
 auth_items = frd.get_auth_items(FRD_USER, FRD_PW)
