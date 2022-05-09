@@ -6,7 +6,7 @@ FRD_USER = os.environ.get('FRD_USER')
 FRD_PW = os.environ.get('FRD_PW')
 
 WERK_ID = "aa05f7aa-fb44-41bc-893a-e5cf0ea95255"
-WERK_PATH = "1923"
+WERK_PATH = "1923-05"
 
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,
