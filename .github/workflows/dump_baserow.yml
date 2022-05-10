@@ -5,7 +5,7 @@ on:
 
 jobs:
   download:
-    name: Download Work
+    name: dump baserow
     runs-on: ubuntu-latest
     env:
       BASEROW_TOKEN: ${{secrets.BASEROW_TOKEN}}
