@@ -1,0 +1,28 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Personenregister</title>
+            <title type="sub">Freud-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPerson>{%- for x in items %}
+            <person xml:id="{{ x.frd_id }}">
+               <persName>{{ x.name }}</persName>{%- for y in x.profession_labels %}       
+               <occupation key="prof__{{ y.id }}">{{ y.value }}</occupation>{% endfor %}
+               <idno type="gnd">{{ x.gnd_id }}</idno>{% if x.bio %}
+               <note type="bio">{{ x.bio }}</note>{% endif %}
+            </person>{% endfor %}
+         </listPerson>
+      </body>
+   </text>
+</TEI>
