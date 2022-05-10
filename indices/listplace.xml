@@ -1,0 +1,50 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+            <title type="sub">Freud-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>
+            <place xml:id="frd_place_id_1">
+               <placeName>Příbor</placeName>
+               <location>
+                  <geo decls="#LatLng">49.6409 18.1450</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/3067544</idno>
+            </place>
+            <place xml:id="frd_place_id_2">
+               <placeName>London</placeName>
+               <location>
+                  <geo decls="#LatLng">51.5085 -0.1257</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2643743</idno>
+            </place>
+            <place xml:id="frd_place_id_3">
+               <placeName>Kravaře ve Slezsku</placeName>
+               <location>
+                  <geo decls="#LatLng">49.9361 18.0103</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/11496609</idno>
+            </place>
+            <place xml:id="frd_place_id_4">
+               <placeName>Wrocław</placeName>
+               <location>
+                  <geo decls="#LatLng">51.1000 17.0333</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/3081368</idno>
+            </place>
+         </listPlace>
+      </body>
+   </text>
+</TEI>
