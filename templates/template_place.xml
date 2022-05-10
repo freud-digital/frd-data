@@ -1,0 +1,29 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Ortsregister</title>
+            <title type="sub">Freud-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listPlace>{%- for x in items %}
+            <place xml:id="{{ x.frd_id }}">
+               <placeName>{{ x.name }}</placeName>{% if x.lat %}
+               <location>
+                  <geo decls="#LatLng">{{ x.lat}} {{ x.lng }}</geo>
+               </location>{% endif %}{% if x.geonames_id %}
+               <idno type="geonames">{{ x.geonames_id }}</idno>{% endif %}
+            </place>{% endfor %}
+         </listPlace>
+      </body>
+   </text>
+</TEI>

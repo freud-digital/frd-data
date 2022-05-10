@@ -6,6 +6,7 @@ BASEROW_TOKEN = os.environ.get('BASEROW_TOKEN')
 BASEROW_TABLE_MAPPING = {
     "keywords": "62157",
     "persons": "62168",
+    "places": "63334",
 }
 BASEROW_API = "https://api.baserow.io/api/database/rows/table/"
 
