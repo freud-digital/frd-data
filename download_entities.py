@@ -4,6 +4,7 @@ import jinja2
 from baserow_utils import (
     yield_rows, BASEROW_TOKEN, BASEROW_TABLE_MAPPING, PERSON_GND_FILTER
 )
+os.makedirs('./indices', exist_ok=True)
 BASE_URI = "https://vocabs.acdh.oeaw.ac.at/freud-hka"
 templateLoader = jinja2.FileSystemLoader(searchpath="./templates/")
 templateEnv = jinja2.Environment(loader=templateLoader)
