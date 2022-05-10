@@ -1,4 +1,4 @@
-name: Download Work
+name: Dump Entities from Baserow
 
 on:
   workflow_dispatch
