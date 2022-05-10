@@ -18,7 +18,13 @@
          <listPerson>{%- for x in items %}
             <person xml:id="{{ x.frd_id }}">
                <persName>{{ x.name }}</persName>{%- for y in x.profession_labels %}       
-               <occupation key="prof__{{ y.id }}">{{ y.value }}</occupation>{% endfor %}
+               <occupation key="prof__{{ y.id }}">{{ y.value }}</occupation>{% endfor %}{% if x.birth_year or x.place_of_birth %}
+               <birth>{% if x.birth_year %}
+                  <date>{{ x.birth_year }}</date>{% endif %}{% if x.place_of_birth %}{%- for p in x.place_of_birth %}
+                  <placeName key="frd_place_id_{{ p.id }}">
+                     <settlement>{{ p.value }}</settlement>
+                  </placeName>{% endfor %}{% endif %}
+               </birth>{% endif %}
                <idno type="gnd">{{ x.gnd_id }}</idno>{% if x.bio %}
                <note type="bio">{{ x.bio }}</note>{% endif %}
             </person>{% endfor %}
