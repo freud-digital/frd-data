@@ -16,39 +16,38 @@
    <text>
       <body>
          <listPerson>
-            <person xml:id="frd_person_03502">
-               <persName>Binz, Carl</persName>       
-               <occupation key="prof__472">Pharmakologe/Pharmakologin</occupation>
+            <person xml:id="frd_person_1">
+               <persName>Binz, Carl</persName>
                <idno type="gnd">https://d-nb.info/gnd/116184280</idno>
             </person>
-            <person xml:id="frd_person_03501">
-               <persName>Volkelt, Johannes</persName>       
-               <occupation key="prof__680">Philosoph/Philosophin</occupation>
+            <person xml:id="frd_person_2">
+               <persName>Volkelt, Johannes</persName>
                <idno type="gnd">https://d-nb.info/gnd/118627724</idno>
             </person>
-            <person xml:id="frd_person_03500">
-               <persName>Scherner, Karl Albert</persName>       
-               <occupation key="prof__498">Psychologe/Psychologin</occupation>       
-               <occupation key="prof__680">Philosoph/Philosophin</occupation>
+            <person xml:id="frd_person_3">
+               <persName>Scherner, Karl Albert</persName>
                <birth>
                   <date>1825</date>
-                  <placeName key="frd_place_id_3">
-                     <settlement>Kravaře ve Slezsku</settlement>
-                  </placeName>
                </birth>
                <death>
                    <date>1889</date>
-                   <placeName key="frd_place_id_4">
-                       <settlement>Wrocław</settlement>
-                   </placeName>
                </death>
                <idno type="gnd">https://d-nb.info/gnd/104330236</idno>
                <note type="bio">(1825-1889), deutscher Philosoph und Psychologe.</note>
             </person>
-            <person xml:id="frd_person_00001">
-               <persName>Freud, Sigmund</persName>       
-               <occupation key="prof__38">Arzt/Ärztin</occupation>       
-               <occupation key="prof__498">Psychologe/Psychologin</occupation>
+            <person xml:id="frd_person_4">
+               <persName>Schubert, Gotthilf Heinrich</persName>
+               <birth>
+                  <date>1780</date>
+               </birth>
+               <death>
+                   <date>1860</date>
+               </death>
+               <idno type="gnd">http://lobid.org/gnd/118610937</idno>
+               <note type="bio">(1780-1860) deutscher Arzt, Naturforscher, Mystiker und Naturphilosoph</note>
+            </person>
+            <person xml:id="frd_person_5">
+               <persName>Freud, Sigmund</persName>
                <birth>
                   <date>1856</date>
                   <placeName key="frd_place_id_1">
@@ -62,78 +61,6 @@
                    </placeName>
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118535315</idno>
-            </person>
-            <person xml:id="frd_person_00004">
-               <persName>Brill, Abraham Arden</persName>
-               <idno type="gnd">https://d-nb.info/gnd/124677851</idno>
-            </person>
-            <person xml:id="frd_person_00005">
-               <persName>Ferenczi, Sándor</persName>
-               <idno type="gnd">https://d-nb.info/gnd/11868678X</idno>
-            </person>
-            <person xml:id="frd_person_00006">
-               <persName>Delgado, Honorio</persName>
-               <idno type="gnd">https://d-nb.info/gnd/119361841</idno>
-            </person>
-            <person xml:id="frd_person_00007">
-               <persName>Mack Brunswick, Ruth</persName>
-               <idno type="gnd">https://d-nb.info/gnd/126238022</idno>
-            </person>
-            <person xml:id="frd_person_00009">
-               <persName>Meng, Heinrich</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118732900</idno>
-            </person>
-            <person xml:id="frd_person_00014">
-               <persName>Fischer-Colbrie, Arthur</persName>
-               <idno type="gnd">https://d-nb.info/gnd/11658405X</idno>
-            </person>
-            <person xml:id="frd_person_00016">
-               <persName>Abraham, Karl</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118500228</idno>
-            </person>
-            <person xml:id="frd_person_00017">
-               <persName>Binswanger, Ludwig</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118511076</idno>
-            </person>
-            <person xml:id="frd_person_00019">
-               <persName>Freud, Anna</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118535307</idno>
-            </person>
-            <person xml:id="frd_person_00021">
-               <persName>Eitingon, Max</persName>
-               <idno type="gnd">https://d-nb.info/gnd/128995432</idno>
-            </person>
-            <person xml:id="frd_person_00022">
-               <persName>Sachs, Hanns</persName>
-               <idno type="gnd">https://d-nb.info/gnd/100259723</idno>
-            </person>
-            <person xml:id="frd_person_00024">
-               <persName>Jones, Ernest</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118558269</idno>
-            </person>
-            <person xml:id="frd_person_00026">
-               <persName>Burrow, Trigant</persName>
-               <idno type="gnd">https://d-nb.info/gnd/128517670</idno>
-            </person>
-            <person xml:id="frd_person_00027">
-               <persName>Einstein, Albert</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118529579</idno>
-            </person>
-            <person xml:id="frd_person_00028">
-               <persName>Carossa, Hans</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118519182</idno>
-            </person>
-            <person xml:id="frd_person_00030">
-               <persName>Claparede, Edouard</persName>
-               <idno type="gnd">https://d-nb.info/gnd/128908599</idno>
-            </person>
-            <person xml:id="frd_person_00031">
-               <persName>Cyril, Clemens</persName>
-               <idno type="gnd">https://d-nb.info/gnd/1202971237</idno>
-            </person>
-            <person xml:id="frd_person_03477">
-               <persName>Aristoteles</persName>
-               <idno type="gnd">https://d-nb.info/gnd/118650130</idno>
             </person>
          </listPerson>
       </body>

@@ -4,14 +4,17 @@ import requests
 
 BASEROW_TOKEN = os.environ.get('BASEROW_TOKEN')
 BASEROW_TABLE_MAPPING = {
-    "keywords": "62157",
-    "persons": "62168",
+    "keywords": "63650",
+    "persons": "63642",
     "places": "63334",
 }
 BASEROW_API = "https://api.baserow.io/api/database/rows/table/"
 
-PERSON_GND_FILTER = {
-    "filter__field_363950__contains": "d-nb"
+PERSON_IN_USE_FILTER = {
+    "filter__field_374371__boolean": "true"
+}
+KEYWORD_IN_USE_FILTER = {
+    "filter__field_374411__boolean": "true"
 }
 
 
