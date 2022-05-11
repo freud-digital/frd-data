@@ -44,6 +44,13 @@
                </location>
                <idno type="geonames">https://www.geonames.org/3081368</idno>
             </place>
+            <place xml:id="frd_place_id_5">
+               <placeName>Dachstein</placeName>
+               <location>
+                  <geo decls="#LatLng">47.4753 13.6058</geo>
+               </location>
+               <idno type="geonames">https://www.geonames.org/2781124</idno>
+            </place>
          </listPlace>
       </body>
    </text>
