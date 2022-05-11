@@ -30,6 +30,12 @@
                <persName>Scherner, Karl Albert</persName>       
                <occupation key="prof__498">Psychologe/Psychologin</occupation>       
                <occupation key="prof__680">Philosoph/Philosophin</occupation>
+               <birth>
+                  <date>1825</date>
+                  <placeName key="frd_place_id_3">
+                     <settlement>Kravaře ve Slezsku</settlement>
+                  </placeName>
+               </birth>
                <idno type="gnd">https://d-nb.info/gnd/104330236</idno>
                <note type="bio">(1825-1889), deutscher Philosoph und Psychologe.</note>
             </person>
@@ -37,6 +43,12 @@
                <persName>Freud, Sigmund</persName>       
                <occupation key="prof__38">Arzt/Ärztin</occupation>       
                <occupation key="prof__498">Psychologe/Psychologin</occupation>
+               <birth>
+                  <date>1856</date>
+                  <placeName key="frd_place_id_1">
+                     <settlement>Příbor</settlement>
+                  </placeName>
+               </birth>
                <idno type="gnd">https://d-nb.info/gnd/118535315</idno>
             </person>
             <person xml:id="frd_person_00004">
