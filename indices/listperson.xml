@@ -36,6 +36,12 @@
                      <settlement>Kravaře ve Slezsku</settlement>
                   </placeName>
                </birth>
+               <death>
+                   <date>1889</date>
+                   <placeName key="frd_place_id_4">
+                       <settlement>Wrocław</settlement>
+                   </placeName>
+               </death>
                <idno type="gnd">https://d-nb.info/gnd/104330236</idno>
                <note type="bio">(1825-1889), deutscher Philosoph und Psychologe.</note>
             </person>
@@ -49,6 +55,12 @@
                      <settlement>Příbor</settlement>
                   </placeName>
                </birth>
+               <death>
+                   <date>1939</date>
+                   <placeName key="frd_place_id_2">
+                       <settlement>London</settlement>
+                   </placeName>
+               </death>
                <idno type="gnd">https://d-nb.info/gnd/118535315</idno>
             </person>
             <person xml:id="frd_person_00004">
