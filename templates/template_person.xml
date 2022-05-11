@@ -24,7 +24,13 @@
                   <placeName key="frd_place_id_{{ p.id }}">
                      <settlement>{{ p.value }}</settlement>
                   </placeName>{% endfor %}{% endif %}
-               </birth>{% endif %}
+               </birth>{% endif %}{% if x.death_year or x.place_of_death %}
+               <death>{% if x.death_year %}
+                   <date>{{ x.death_year }}</date>{% endif %}{% if x.place_of_death %}{%- for p in x.place_of_death %}
+                   <placeName key="frd_place_id_{{ p.id }}">
+                       <settlement>{{ p.value }}</settlement>
+                   </placeName>{% endfor %}{% endif %}
+               </death>{% endif %}
                <idno type="gnd">{{ x.gnd_id }}</idno>{% if x.bio %}
                <note type="bio">{{ x.bio }}</note>{% endif %}
             </person>{% endfor %}
