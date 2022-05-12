@@ -7,6 +7,7 @@ FRD_PW = os.environ.get('FRD_PW')
 
 WERK_ID = "2da622da-de12-46e4-bb1d-c9c4a7ae877e"
 WERK_PATH = "1901-01"
+READING_WIT = "sfe-1901-01__1925.xml"
 
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,

@@ -5,10 +5,11 @@ from acdh_collatex_utils.acdh_collatex_utils import CxCollate
 from acdh_collatex_utils.post_process import (
     merge_tei_fragments,
     make_full_tei_doc,
-    merge_html_fragments
+    merge_html_fragments,
+    define_readings
 )
 
-from config import WERK_PATH
+from config import WERK_PATH, READING_WIT
 
 input_glob = f"./werke/{WERK_PATH}/*.xml"
 output_dir = f"./werke/{WERK_PATH}/collated"
@@ -33,12 +34,20 @@ full_tei = make_full_tei_doc(result_file)
 root = full_tei.tree
 full_tei.tree_to_file(result_file)
 
+rdg_wit_id = 'sfe-1901-01__1925.xml'
+crit_ap_with_rdgs = define_readings(result_file, READING_WIT)
+with open(result_file, 'w') as f:
+    f.write(
+        ET.tostring(
+            crit_ap_with_rdgs,
+            encoding='UTF-8'
+        ).decode('utf-8')
+    )
 
 files = glob.glob(f"{output_dir}/*.html")
 full_doc = merge_html_fragments(files)
 with open(result_html, 'w') as f:
     f.write(full_doc.prettify("utf-8").decode('utf-8'))
-
 
 for x in glob.glob(f"{output_dir}/out__*"):
     print(f"removing {x}")
