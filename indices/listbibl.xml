@@ -16,6 +16,62 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="bookSection" xml:id="Chang2009" corresp="http://zotero.org/groups/4690432/items/P8ERJI96">
+          <analytic>
+            <title level="a">Reading Tea Leaves: How Humans Interpret Topic Models</title>
+            <title type="short">Reading Tea Leaves</title>
+            <author>
+              <forename>Jonathan</forename>
+              <surname>Chang</surname>
+            </author>
+            <author>
+              <forename>Sean</forename>
+              <surname>Gerrish</surname>
+            </author>
+            <author>
+              <forename>Chong</forename>
+              <surname>Wang</surname>
+            </author>
+            <author>
+              <forename>Jordan L.</forename>
+              <surname>Boyd-graber</surname>
+            </author>
+            <author>
+              <forename>David M.</forename>
+              <surname>Blei</surname>
+            </author>
+          </analytic>
+          <monogr>
+            <title level="m">Advances in Neural Information Processing Systems 22</title>
+            <editor>
+              <forename>Y.</forename>
+              <surname>Bengio</surname>
+            </editor>
+            <editor>
+              <forename>D.</forename>
+              <surname>Schuurmans</surname>
+            </editor>
+            <editor>
+              <forename>J. D.</forename>
+              <surname>Lafferty</surname>
+            </editor>
+            <editor>
+              <forename>C. K. I.</forename>
+              <surname>Williams</surname>
+            </editor>
+            <editor>
+              <forename>A.</forename>
+              <surname>Culotta</surname>
+            </editor>
+            <imprint>
+              <biblScope unit="page">288–296</biblScope>
+              <publisher>Curran Associates, Inc.</publisher>
+              <date>2009</date>
+              <note type="accessed">2015-10-13T14:59:18Z</note>
+              <note type="url">http://papers.nips.cc/paper/3700-reading-tea-leaves-how-humans-interpret-topic-models.pdf</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="Sophokles2003" corresp="http://zotero.org/groups/4690432/items/P26IK3MA">
           <monogr>
             <title level="m">Ödipus in Kolonos. Vom Altgriechischen ins Deutsche übertragen von Peter Handke</title>
