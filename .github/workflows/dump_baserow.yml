@@ -1,4 +1,4 @@
-name: Dump Entities from Baserow
+name: Dump Entities from Baserow and Zotoro
 
 on:
   workflow_dispatch
@@ -25,6 +25,9 @@ jobs:
     - name: Download Work
       run: |
         python download_entities.py
+    - name: Dump Zotero
+      run: |
+        python download_zotero.py
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Downloaded/Updated Data

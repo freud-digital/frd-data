@@ -16,6 +16,23 @@
    <text>
       <body>
          <listPerson>
+            <person xml:id="frd_person_3504">
+               <persName>Röhrich, Lutz</persName>
+               <birth>
+                  <date>1922</date>
+               </birth>
+               <death>
+                   <date>2006</date>
+               </death>
+               <idno type="gnd">https://d-nb.info/gnd/118960008</idno>
+            </person>
+            <person xml:id="frd_person_3503">
+               <persName>Goethe, Johann Wolfgang von</persName>
+               <birth>
+                  <date>1749</date>
+               </birth>
+               <idno type="gnd">https://d-nb.info/gnd/118540238</idno>
+            </person>
             <person xml:id="frd_person_1">
                <persName>Binz, Carl</persName>
                <idno type="gnd">https://d-nb.info/gnd/116184280</idno>
@@ -61,6 +78,16 @@
                    </placeName>
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118535315</idno>
+            </person>
+            <person xml:id="frd_person_450">
+               <persName>Fließ, Wilhelm</persName>
+               <birth>
+                  <date>1858</date>
+               </birth>
+               <death>
+                   <date>1928</date>
+               </death>
+               <idno type="gnd">https://d-nb.info/gnd/118533975</idno>
             </person>
          </listPerson>
       </body>
