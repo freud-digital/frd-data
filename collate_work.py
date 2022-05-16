@@ -37,7 +37,6 @@ full_tei.tree_to_file(result_file)
 positive_doc = make_positive_app(result_file)
 positive_doc.tree_to_file(result_file)
 
-rdg_wit_id = 'sfe-1901-01__1925.xml'
 crit_ap_with_rdgs = define_readings(result_file, READING_WIT)
 with open(result_file, 'w') as f:
     f.write(
