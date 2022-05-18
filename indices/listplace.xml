@@ -55,6 +55,10 @@
                <placeName>Wien</placeName>
                <idno type="geonames">http://www.geonames.org/2761369/vienna.html</idno>
             </place>
+            <place xml:id="frd_place_id_7">
+               <placeName>New York</placeName>
+               <idno type="geonames">http://www.geonames.org/5128581/new-york-city.html</idno>
+            </place>
          </listPlace>
       </body>
    </text>

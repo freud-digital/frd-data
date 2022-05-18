@@ -16,6 +16,73 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="zotero__FX9X6H5U" corresp="http://zotero.org/groups/4690432/items/FX9X6H5U">
+          <monogr>
+            <title level="m">Das Ich und die Abwehrmechanismen</title>
+            <idno type="callNumber">647486-B</idno>
+            <author>
+              <forename>Anna</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Internat. Psychoanalyt. Verl.</publisher>
+              <date>1936</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__U3GJ678G" corresp="http://zotero.org/groups/4690432/items/U3GJ678G">
+          <monogr>
+            <title level="m">Viertausend Kilometer im Ballon.</title>
+            <idno type="callNumber">430791-B</idno>
+            <author>
+              <forename>Herbert</forename>
+              <surname>Silberer</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Spamer</publisher>
+              <date/>
+              <note type="accessed">2022-05-18T13:47:51Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00916658SZ00080645</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__25GFAWZT" corresp="http://zotero.org/groups/4690432/items/25GFAWZT">
+          <monogr>
+            <title level="m">Das Trauma der Geburt und seine Bedeutung für die Psychoanalyse</title>
+            <idno type="callNumber">535994-B.14</idno>
+            <author>
+              <forename>Otto</forename>
+              <surname>Rank</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <date>1924</date>
+              <note type="accessed">2022-05-18T13:32:40Z</note>
+              <note type="url">http://data.onb.ac.at/imgk/AZ00796018SZ00378691SZ00972234</note>
+            </imprint>
+          </monogr>
+          <series>
+            <title level="s">Internationale Psychoanalytische Bibliothek. 14</title>
+          </series>
+        </biblStruct>
+        <biblStruct type="book" xml:id="zotero__HNIAX3HM" corresp="http://zotero.org/groups/4690432/items/HNIAX3HM">
+          <monogr>
+            <title level="m">Charakteranalyse: Technik und Grundlagen für Studierende und praktizierende Analytiker</title>
+            <title type="short">Charakteranalyse</title>
+            <idno type="callNumber">634271-B</idno>
+            <author>
+              <forename>Wilhelm</forename>
+              <surname>Reich</surname>
+            </author>
+            <imprint>
+              <pubPlace>Wien</pubPlace>
+              <publisher>Selbstverlag des Verfassers</publisher>
+              <date>1933</date>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__BUZ5JRXN" corresp="http://zotero.org/groups/4690432/items/BUZ5JRXN">
           <monogr>
             <title level="m">Probleme der Mystik und ihrer Symbolik.</title>

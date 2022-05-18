@@ -79,6 +79,22 @@
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118535315</idno>
             </person>
+            <person xml:id="frd_person_173">
+               <persName>Rank, Otto</persName>
+               <birth>
+                  <date>1881</date>
+                  <placeName key="frd_place_id_6">
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </birth>
+               <death>
+                   <date>1939</date>
+                   <placeName key="frd_place_id_7">
+                       <settlement>New York</settlement>
+                   </placeName>
+               </death>
+               <idno type="gnd">https://d-nb.info/gnd/118598260</idno>
+            </person>
             <person xml:id="frd_person_450">
                <persName>Fließ, Wilhelm</persName>
                <birth>
