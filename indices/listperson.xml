@@ -89,6 +89,22 @@
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118533975</idno>
             </person>
+            <person xml:id="frd_person_545">
+               <persName>Silberer, Herbert</persName>
+               <birth>
+                  <date>1882</date>
+                  <placeName key="frd_place_id_6">
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </birth>
+               <death>
+                   <date>1923</date>
+                   <placeName key="frd_place_id_6">
+                       <settlement>Wien</settlement>
+                   </placeName>
+               </death>
+               <idno type="gnd">https://d-nb.info/gnd/118834258</idno>
+            </person>
          </listPerson>
       </body>
    </text>

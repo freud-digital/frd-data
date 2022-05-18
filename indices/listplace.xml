@@ -51,6 +51,10 @@
                </location>
                <idno type="geonames">https://www.geonames.org/2781124</idno>
             </place>
+            <place xml:id="frd_place_id_6">
+               <placeName>Wien</placeName>
+               <idno type="geonames">http://www.geonames.org/2761369/vienna.html</idno>
+            </place>
          </listPlace>
       </body>
    </text>
