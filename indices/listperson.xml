@@ -121,6 +121,10 @@
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118834258</idno>
             </person>
+            <person xml:id="frd_person_3485">
+               <persName>Artemidoros aus Daldis</persName>
+               <idno type="gnd">https://d-nb.info/gnd/1089126093</idno>
+            </person>
          </listPerson>
       </body>
    </text>
