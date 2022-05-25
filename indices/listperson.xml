@@ -293,6 +293,10 @@
                </death>
                <idno type="gnd">https://d-nb.info/gnd/118543466</idno>
             </person>
+            <person xml:id="frd_person_113">
+               <persName>Hammerschlag, Samuel</persName>
+               <idno type="gnd">https://d-nb.info/gnd/1020741325</idno>
+            </person>
             <person xml:id="frd_person_173">
                <persName>Rank, Otto</persName>
                <birth>
@@ -338,6 +342,27 @@
             <person xml:id="frd_person_3485">
                <persName>Artemidoros aus Daldis</persName>
                <idno type="gnd">https://d-nb.info/gnd/1089126093</idno>
+            </person>
+            <person xml:id="frd_person_3499">
+               <persName>Bigelow, John</persName>
+               <idno type="gnd">https://d-nb.info/gnd/171977521</idno>
+            </person>
+            <person xml:id="frd_person_3500">
+               <persName>Baumgarten, Alfred</persName>
+               <idno type="gnd">https://d-nb.info/gnd/135629969</idno>
+               <note type="bio">Beziehungen zu Sebastian Kneipp</note>
+            </person>
+            <person xml:id="frd_person_3501">
+               <persName>Beer, Theodor</persName>
+               <idno type="gnd">https://d-nb.info/gnd/1056819022</idno>
+            </person>
+            <person xml:id="frd_person_3507">
+               <persName>Wichmann, Ralf</persName>
+               <idno type="gnd">https://d-nb.info/gnd/1055370242</idno>
+            </person>
+            <person xml:id="frd_person_3508">
+               <persName>Biedenkapp, Georg</persName>
+               <idno type="gnd">https://d-nb.info/gnd/116163151</idno>
             </person>
          </listPerson>
       </body>
