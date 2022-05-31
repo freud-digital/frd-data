@@ -18,7 +18,8 @@
          <listOrg>
             <org xml:id="frd_org_1">
                <orgName>Wiener Psychonanalytische Vereinigung</orgName>
-               <idno type="geonames">https://d-nb.info/gnd/15360-6</idno>
+               <placeName>[{'id': 6, 'value': 'Wien'}]</placeName>
+               <idno type="GND">https://d-nb.info/gnd/15360-6</idno>
             </org>
          </listOrg>
       </body>
