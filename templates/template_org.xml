@@ -17,9 +17,9 @@
       <body>
          <listOrg>{%- for x in items %}
             <org xml:id="{{ x.frd_id }}">
-               <orgName>{{ x.name }}</orgName>{% if x.lat %}
+               <orgName>{{ x.name }}</orgName>{% if x.located_in %}
                <placeName>{{ x.located_in }}</placeName>{% endif %}{% if x.gnd_id %}
-               <idno type="geonames">{{ x.gnd_id }}</idno>{% endif %}
+               <idno type="GND">{{ x.gnd_id }}</idno>{% endif %}
             </org>{% endfor %}
          </listOrg>
       </body>
