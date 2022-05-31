@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Institutionen Register</title>
+            <title type="sub">Freud-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>
+            <org xml:id="frd_org_1">
+               <orgName>Wiener Psychonanalytische Vereinigung</orgName>
+               <idno type="geonames">https://d-nb.info/gnd/15360-6</idno>
+            </org>
+         </listOrg>
+      </body>
+   </text>
+</TEI>
