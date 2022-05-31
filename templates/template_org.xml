@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Institutionen Register</title>
+            <title type="sub">Freud-Edition</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listOrg>{%- for x in items %}
+            <org xml:id="{{ x.frd_id }}">
+               <orgName>{{ x.name }}</orgName>{% if x.lat %}
+               <placeName>{{ x.located_in }}</placeName>{% endif %}{% if x.gnd_id %}
+               <idno type="geonames">{{ x.gnd_id }}</idno>{% endif %}
+            </org>{% endfor %}
+         </listOrg>
+      </body>
+   </text>
+</TEI>

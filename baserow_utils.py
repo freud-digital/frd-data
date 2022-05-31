@@ -7,6 +7,7 @@ BASEROW_TABLE_MAPPING = {
     "keywords": "63650",
     "persons": "63642",
     "places": "63334",
+    "orgs": "66452",
 }
 BASEROW_API = "https://api.baserow.io/api/database/rows/table/"
 
@@ -15,6 +16,9 @@ PERSON_IN_USE_FILTER = {
 }
 KEYWORD_IN_USE_FILTER = {
     "filter__field_374411__boolean": "true"
+}
+ORGS_IN_USE_FILTER = {
+    "filter__field_392883__boolean": "true"
 }
 
 
