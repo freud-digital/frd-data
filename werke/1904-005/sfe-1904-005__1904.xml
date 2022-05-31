@@ -1,0 +1,21 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__6edd4373-e791-4d09-b0d0-dbdba8ac8fdf">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="manifestation">Professor S. Hammerschlag [Nachruf]</title>
+            <title type="publication"><rs type="bibl" ref="#bibl__6edd4373-e791-4d09-b0d0-dbdba8ac8fdf">6edd4373-e791-4d09-b0d0-dbdba8ac8fdf</rs></title>
+            <title type="work"><rs type="bibl" ref="#bibl__5bc81966-09a5-4a2d-afcd-93946b96052a">Freud, Sigmund  (1904-005; 1904e): Professor S. Hammerschlag [Nachruf]</rs></title>
+            <title type="sub"/>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body><div xml:id="page__4a250861-f912-405f-b593-fc3589fcf444"><pb n="1" facs="https://www.freud-edition.net/sites/default/files/manifestationen/node-48781/images/page-1-202201251732.jpg" xml:id="faks__724be4a6-7161-4a85-9325-271dd921646e"/><p><strong>Seite <span class="pagenumber">8</span> </strong></p> <p>Wien, Freitag <strong>Neue Freie Presse.</strong> 11. November 1904 Nr. 14446</p> <p>[<hi rendition="#smallcaps">Professor S. Hammerschlag</hi>.] Ueber den<lb/> heute unter großer Teilnahme beerdigten emeritierten Religions<lb break="no"/>lehrer der Wiener israelitischen Gymnasialjugend, Professor<lb/> S. <hi rendition="#smallcaps">Hammerschlag</hi>, schreibt uns ein ehemaliger Schüler,<lb/> Professor Siegmund <hi rendition="#smallcaps">Freud</hi>: „S. Hammerschlag, der vor<lb/> etwa 30 Jahren seine Tätigkeit als israelitischer Religions<lb break="no"/>lehrer eingestellt hatte, gehörte zu den Persönlichkeiten, denen<lb/> es möglich war, unverwischbare Eindrücke in der Entwicklung<lb/> seiner Schüler zu hinterlassen. In seiner Seele glühte ein<lb/> starker Funken von dem Geiste der großen jüdischen Wahr<lb break="no"/>heitsbekenner und Propheten, der nicht eher erlosch, als bis<lb/> hohes Alter seine Kräfte schwächte. Aber die Leidenschaftlichkeit<lb/> seines Wesens war glücklich gemildert durch das ihn beherr<lb break="no"/>schende Humanitätsideal unserer deutschen klassischen Periode,<lb/> und seine Bildung ruhte auf dem Grunde philologischer und<lb/> altklassischer Studien, denen er seine eigene Jugend gewidmet<lb/> hatte. Der Religionsunterricht diente ihm als ein Weg der<lb/> Erziehung zur Humanität, und aus dem Material der jüdi<lb break="no"/>schen Geschichte wußte er die Mittel zu finden, um die im <lb/> Herzen der Jugend sich bergenden Quellen der Begeisterung<lb/> anzuschlagen und sie weit hinaus über nationale oder dogma<lb break="no"/>tische Beschränktheit sprudeln zu lassen. Wer von seinen<lb/> Schülern ihn dann in seiner Häuslichkeit aufsuchen durfte,<lb/> der erwarb einen väterlich fürsorglichen Freund an ihm und<lb/> konnte inne werden, daß eine verständige Zärtlichkeit der<lb/> Grundzug seines Wesens war. Den Empfindungen einer durch<lb/> Jahrzehnte ungeschwächten Dankbarkeit gegen den verehrten<lb/> Lehrer hat an seiner Bahre der Historiker Dr. <hi rendition="#smallcaps">Fried<lb break="no"/>jung</hi> würdigsten Ausdruck gegeben.“</p> </div></body>
+   </text>
+</TEI>

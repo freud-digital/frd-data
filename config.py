@@ -5,9 +5,9 @@ HISTORISCHE_AUSGABE = "5b8d9c77-99d0-4a80-92d8-4a9de06ac7ca"
 FRD_USER = os.environ.get('FRD_USER')
 FRD_PW = os.environ.get('FRD_PW')
 
-WERK_ID = "82a677b1-17c0-4633-b48e-f89016306ee3"
-WERK_PATH = "1920-003"
-READING_WIT = "sfe-1904-002__1920.xml"
+WERK_ID = "7f1ce2ef-dc26-45e2-b90a-85d866403b1c"
+WERK_PATH = "1923-007"
+READING_WIT = "sfe-1923-007__1923.xml"
 
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,
