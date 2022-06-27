@@ -2,20 +2,131 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
-            <title type="publication"><rs type="bibl" ref="#bibl__70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5">70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5</rs></title>
-            <title type="work"><rs type="bibl" ref="#bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</rs></title>
-            <title type="sub"/>
+            <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1928)</title>
+            <title type="manifestation_short">GS 11</title>
+            <title type="publication">
+               <rs type="bibl" ref="#node__bibliography__54757885-1655-4135-8f63-933953645edc">
+                  Freud, Anna; Storfer, A.J. (Hg.): Gesammelte Schriften von Sigm. Freud. 11. Band, Leipzig, Wien, Zürich:  Internationaler Psychoanalytischer Verlag 1928
+               </rs>
+            </title>               
+            <title type="work">
+               <rs type="bibl" ref="#bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
+                  Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes
+               </rs>
+            </title>
+            <author>Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
          </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Blatow, Arkadi</name>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen. 
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
+         <seriesStmt>
+            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         </seriesStmt>
          <sourceDesc>
-            <p/>
+            <bibl xml:id="node__bibliography__54757885-1655-4135-8f63-933953645edc">
+               <title type="main">Gesammelte Schriften von Sigm. Freud</title>
+               
+               <title type="short">GS 11</title>
+               <pubPlace>Zürich</pubPlace>
+               <date when="1928-01-01">1928</date>
+               <biblScope>11. Band</biblScope>
+               <publisher key="taxonomy_term/publishers/a3e83b16-58ed-45cd-870b-60f487bdb0a7">Internationaler Psychoanalytischer Verlag (field_publisher)</publisher>
+               
+               <editor key="taxonomy_term/personen/348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J. (field_herausgeber)</editor>
+               
+            </bibl>
+            <msDesc>
+               <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+               </msIdentifier>
+               <msContents>
+                  <msItem>
+                     <title>Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1928)</title>
+                     <author>Freud, Sigmund</author>
+                     <idno>manifestation__70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5</idno>
+                  </msItem>
+               </msContents>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
-      <body><div><pb n="1" xml:id="page__8ea87360-403b-4675-b46d-c301de9d4508"/><fw type="pageNum">[295]</fw> <p rendition="#level_3">JOSEF POPPER-LYNKEUS UND DIE<lb/> THEORIE DES TRAUMES</p><p><hi rendition="#em">Erschien im Juni 1923 in der „Zeitschrift des Vereines Allgemeine Nährpﬂicht“, Wien.</hi><lb break="paragraph"/></p> <p>Über den Anschein wissenschaftlicher Originalität ist viel Interessantes<lb/> zu sagen. Wenn in der Wissenschaft eine neue Idee auftaucht, die zunächst<lb/> als Entdeckung gewertet und in der Regel als solche auch bekämpft wird,<lb/> so weist die objektive Erforschung bald nach, daß sie eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt gemacht und dann wieder<lb/> vergessen worden, oft zu sehr weit voneinander entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde undeutlich geahnt oder unvoll<lb break="no"/>kommen ausgesprochen. Das ist zu genau bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"/></p> <p>Aber auch die subjektive Seite der Originalität ist der Verfolgung würdig.<lb/> Ein wissenschaftlicher Arbeiter mag sich einmal die Frage stellen, woher<lb/> die ihm eigentümlichen Ideen kommen, die er an sein Material heran<lb break="no"/>gebracht hat. Dann findet er von einem Teil derselben ohne viel Besinnen,<lb/> auf welche Anregungen er zurückgeht, welche Angaben von anderer Seite<lb/> er dabei aufgegriffen, modifiziert und in ihre Konsequenzen ausgeführt hat.<lb/> Von einem anderen Anteil seiner Ideen kann er nichts Ähnliches bekennen,<lb/> er muß annehmen, diese Gedanken und Gesichtspunkte seien in seiner<lb/> eigenen Denktätigkeit — er weiß nicht wie — entstanden, durch sie stützt<lb/> er seinen Anspruch auf Originalität.<lb break="paragraph"/></p> <p>Sorgfältige psychologische Untersuchung schränkt diesen Anspruch dann<lb/> noch weiter ein. Sie deckt verborgene, längst vergessene Quellen auf, aus<lb/> denen die Anregung der anscheinend originellen Ideen erflossen ist, und<lb/> setzt an Stelle der vermeintlichen Neuschöpfung eine Wiederbelebung des<lb break="paragraph"/><pb n="2" xml:id="page__6064b06d-6c14-4951-aac1-c7e413510f82"/><fw type="pageNum">296</fw>Vergessenen in der Anwendung auf einen neuen Stoff. Daran ist nichts zu<lb/> bedauern; man hatte ja kein Recht zu erwarten, daß das „Originelle“ etwas<lb/> Unableitbares, Indeterminiertes sein würde. Auf solche Weise hat sich auch<lb/> für meinen Fall die Originalität vieler neuer Gedanken, die ich in der<lb/> Traumdeutung und in der Psychoanalyse verwendet hatte, verflüchtigt. Nur<lb/> von einem dieser Gedanken kenne ich die Herkunft nicht. Er ist geradezu<lb/> der Schlüssel meiner Auffassung des Traumes geworden und hat mir dazu<lb/> verholfen, seine Rätsel zu lösen, soweit sie bis heute lösbar geworden sind.<lb/> Ich knüpfte an den fremdartigen, verworrenen, unsinnigen Charakter so<lb/> vieler Träume an und kam auf die Idee, daß der Traum so werden müsse,<lb/> weil in ihm etwas nach Ausdruck ringt, was den Widerstand anderer<lb/> Mächte des Seelenlebens gegen sich hat. Im Traume rühren sich geheime<lb/> Regungen, die mit dem sozusagen offiziellen ethischen und ästhetischen<lb/> Bekenntnis des Träumers im Widerspruch stehen; darum schämt sich der<lb/> Träumer dieser Regungen, wendet sich tagsüber von ihnen ab, will nichts<lb/> von ihnen wissen, und wenn er ihnen zur Nachtzeit nicht jede Art von<lb/> Ausdruck verwehren kann, zwingt er sie zur <hi rendition="#smallcaps">Traumentstellung</hi>, durch<lb/> die der Trauminhalt verworren und unsinnig erscheint. Die seelische Macht<lb/> im Menschen, die diesem inneren Widerspruch Rechnung trägt und zu<lb break="no"/>gunsten der konventionellen oder auch der höheren sittlichen Ansprüche<lb/> die primitiven Triebregungen des Traumes entstellt, nannte ich die <hi rendition="#smallcaps">Traum<lb break="no"/>zensur</hi>.<lb break="paragraph"/></p>   <p>Gerade dieses wesentliche Stück meiner Traumtheorie hat aber <hi rendition="#smallcaps">Popper<lb break="no"/>Lynkeus</hi> selbst gefunden. Man vergleiche das nachstehende Zitat aus seiner<lb/> Erzählung „Träumen wie Wachen“ in den „Phantasien eines Realisten“,<lb/> die sicherlich ohne Kenntnis meiner 1900 veröffentlichten „Traumtheorie“<lb/> geschrieben worden sind, wie ich auch damals Lynkeus’ Phantasien noch<lb/> nicht kannte:<lb break="paragraph"/></p> <p><span class="inlinequote">„Von einem Manne, der die merkwürdige Eigenschaft hat, niemals Unsinn<lb/> zu träumen“ ... „Diese herrliche Eigenschaft, zu träumen wie zu wachen,<lb/> beruht auf Deinen Tugenden, auf Deiner Güte, Deiner Gerechtigkeit, Deiner<lb/> Wahrheitsliebe: es ist die moralische Klarheit Deiner Natur, die mir alles<lb/> an Dir verständlich macht.“</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Wenn ich aber recht bedenke,“ erwiderte der Andere, „so glaube ich<lb/> beinahe, alle Menschen seien so wie ich beschaffen, und gar niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deutlich erinnert, daß man<lb/> ihn nacherzählen kann, der also kein Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann gar nicht anders sein! Denn was miteinander im Widerspruch steht,<lb/> könnte sich ja nicht zu einem Ganzen gruppieren. Daß Zeit und Ort oft</span><lb break="paragraph"/><pb n="3" xml:id="page__551152a2-6bad-481c-b52a-768c89bc4aa6"/><fw type="pageNum">297</fw><span class="inlinequote">durcheinander gerüttelt werden, benimmt dem wahren Gehalt des Traumes<lb/> gar nichts, denn sie beide sind gewiß ohne Bedeutung für seinen wesentlichen<lb/> Inhalt gewesen. Wir machen es ja oft im Wachen auch so: denke an das<lb/> Märchen, an so viele sinnvolle Phantasiegebilde, zu denen nur ein Unverstän<lb break="no"/>diger sagen würde: Das ist widersinnig! denn das ist nicht möglich!“</span><lb break="paragraph"/></p>   <p><span class="inlinequote">„Wenn man nur die Träume immer richtig zu deuten wüßte, so wie Du<lb/> es eben mit dem meinem getan hast“, sagte der Freund.</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es müßte bei einiger Aufmerk<lb break="no"/>samkeit dem Träumenden wohl immer gelingen. Warum es meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in den Träumen zu liegen, etwas<lb/> Unkeusches eigener und höherer Art, eine gewisse Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum scheint Euer Träumen so oft<lb/> ohne Sinn, sogar ein Widersinn zu sein. Es ist aber im tiefsten Grunde nicht<lb/> so; ja, es kann gar nicht anders sein, denn es ist immer derselbe Mensch,<lb/> ob er wacht oder träumt.“</span><lb break="paragraph"/></p> <p>Ich glaube, was mich dazu befähigt hat, die Ursache der Traumentstel<lb break="no"/>lung aufzufinden, war mein moralischer Mut. Bei <hi rendition="#smallcaps">Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit seines Wesens.<lb break="paragraph"/></p> </div></body>
+      <body><div>
+
+            <pb n="1" xml:id="page__8ea87360-403b-4675-b46d-c301de9d4508"/>
+            <fw type="pageNum">[295]</fw> <p rendition="#level_3">JOSEF POPPER-LYNKEUS UND DIE<lb/> THEORIE DES TRAUMES</p><p><hi rendition="#em">Erschien im Juni 1923 in der „Zeitschrift des Vereines Allgemeine Nährpﬂicht“, Wien.</hi><lb break="paragraph"/></p> <p>Über den Anschein wissenschaftlicher Originalität ist viel Interessantes<lb/> zu sagen. Wenn in der Wissenschaft eine neue Idee auftaucht, die zunächst<lb/> als Entdeckung gewertet und in der Regel als solche auch bekämpft wird,<lb/> so weist die objektive Erforschung bald nach, daß sie eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt gemacht und dann wieder<lb/> vergessen worden, oft zu sehr weit voneinander entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde undeutlich geahnt oder unvoll<lb break="no"/>kommen ausgesprochen. Das ist zu genau bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"/></p> <p>Aber auch die subjektive Seite der Originalität ist der Verfolgung würdig.<lb/> Ein wissenschaftlicher Arbeiter mag sich einmal die Frage stellen, woher<lb/> die ihm eigentümlichen Ideen kommen, die er an sein Material heran<lb break="no"/>gebracht hat. Dann findet er von einem Teil derselben ohne viel Besinnen,<lb/> auf welche Anregungen er zurückgeht, welche Angaben von anderer Seite<lb/> er dabei aufgegriffen, modifiziert und in ihre Konsequenzen ausgeführt hat.<lb/> Von einem anderen Anteil seiner Ideen kann er nichts Ähnliches bekennen,<lb/> er muß annehmen, diese Gedanken und Gesichtspunkte seien in seiner<lb/> eigenen Denktätigkeit — er weiß nicht wie — entstanden, durch sie stützt<lb/> er seinen Anspruch auf Originalität.<lb break="paragraph"/></p> <p>Sorgfältige psychologische Untersuchung schränkt diesen Anspruch dann<lb/> noch weiter ein. Sie deckt verborgene, längst vergessene Quellen auf, aus<lb/> denen die Anregung der anscheinend originellen Ideen erflossen ist, und<lb/> setzt an Stelle der vermeintlichen Neuschöpfung eine Wiederbelebung des<lb break="paragraph"/><pb n="2" xml:id="page__6064b06d-6c14-4951-aac1-c7e413510f82"/><fw type="pageNum">296</fw>Vergessenen in der Anwendung auf einen neuen Stoff. Daran ist nichts zu<lb/> bedauern; man hatte ja kein Recht zu erwarten, daß das „Originelle“ etwas<lb/> Unableitbares, Indeterminiertes sein würde. Auf solche Weise hat sich auch<lb/> für meinen Fall die Originalität vieler neuer Gedanken, die ich in der<lb/> Traumdeutung und in der Psychoanalyse verwendet hatte, verflüchtigt. Nur<lb/> von einem dieser Gedanken kenne ich die Herkunft nicht. Er ist geradezu<lb/> der Schlüssel meiner Auffassung des Traumes geworden und hat mir dazu<lb/> verholfen, seine Rätsel zu lösen, soweit sie bis heute lösbar geworden sind.<lb/> Ich knüpfte an den fremdartigen, verworrenen, unsinnigen Charakter so<lb/> vieler Träume an und kam auf die Idee, daß der Traum so werden müsse,<lb/> weil in ihm etwas nach Ausdruck ringt, was den Widerstand anderer<lb/> Mächte des Seelenlebens gegen sich hat. Im Traume rühren sich geheime<lb/> Regungen, die mit dem sozusagen offiziellen ethischen und ästhetischen<lb/> Bekenntnis des Träumers im Widerspruch stehen; darum schämt sich der<lb/> Träumer dieser Regungen, wendet sich tagsüber von ihnen ab, will nichts<lb/> von ihnen wissen, und wenn er ihnen zur Nachtzeit nicht jede Art von<lb/> Ausdruck verwehren kann, zwingt er sie zur <hi rendition="#smallcaps">Traumentstellung</hi>, durch<lb/> die der Trauminhalt verworren und unsinnig erscheint. Die seelische Macht<lb/> im Menschen, die diesem inneren Widerspruch Rechnung trägt und zu<lb break="no"/>gunsten der konventionellen oder auch der höheren sittlichen Ansprüche<lb/> die primitiven Triebregungen des Traumes entstellt, nannte ich die <hi rendition="#smallcaps">Traum<lb break="no"/>zensur</hi>.<lb break="paragraph"/></p>
+         
+            
+              <p>Gerade dieses wesentliche Stück meiner Traumtheorie hat aber <hi rendition="#smallcaps">Popper<lb break="no"/>Lynkeus</hi> selbst gefunden. Man vergleiche das nachstehende Zitat aus seiner<lb/> Erzählung „Träumen wie Wachen“ in den „Phantasien eines Realisten“,<lb/> die sicherlich ohne Kenntnis meiner 1900 veröffentlichten „Traumtheorie“<lb/> geschrieben worden sind, wie ich auch damals Lynkeus’ Phantasien noch<lb/> nicht kannte:<lb break="paragraph"/></p> <p><span class="inlinequote">„Von einem Manne, der die merkwürdige Eigenschaft hat, niemals Unsinn<lb/> zu träumen“ ... „Diese herrliche Eigenschaft, zu träumen wie zu wachen,<lb/> beruht auf Deinen Tugenden, auf Deiner Güte, Deiner Gerechtigkeit, Deiner<lb/> Wahrheitsliebe: es ist die moralische Klarheit Deiner Natur, die mir alles<lb/> an Dir verständlich macht.“</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Wenn ich aber recht bedenke,“ erwiderte der Andere, „so glaube ich<lb/> beinahe, alle Menschen seien so wie ich beschaffen, und gar niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deutlich erinnert, daß man<lb/> ihn nacherzählen kann, der also kein Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann gar nicht anders sein! Denn was miteinander im Widerspruch steht,<lb/> könnte sich ja nicht zu einem Ganzen gruppieren. Daß Zeit und Ort oft</span><lb break="paragraph"/><pb n="3" xml:id="page__551152a2-6bad-481c-b52a-768c89bc4aa6"/><fw type="pageNum">297</fw><span class="inlinequote">durcheinander gerüttelt werden, benimmt dem wahren Gehalt des Traumes<lb/> gar nichts, denn sie beide sind gewiß ohne Bedeutung für seinen wesentlichen<lb/> Inhalt gewesen. Wir machen es ja oft im Wachen auch so: denke an das<lb/> Märchen, an so viele sinnvolle Phantasiegebilde, zu denen nur ein Unverstän<lb break="no"/>diger sagen würde: Das ist widersinnig! denn das ist nicht möglich!“</span><lb break="paragraph"/></p>
+         
+            
+              <p><span class="inlinequote">„Wenn man nur die Träume immer richtig zu deuten wüßte, so wie Du<lb/> es eben mit dem meinem getan hast“, sagte der Freund.</span><lb break="paragraph"/></p> <p><span class="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es müßte bei einiger Aufmerk<lb break="no"/>samkeit dem Träumenden wohl immer gelingen. Warum es meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in den Träumen zu liegen, etwas<lb/> Unkeusches eigener und höherer Art, eine gewisse Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum scheint Euer Träumen so oft<lb/> ohne Sinn, sogar ein Widersinn zu sein. Es ist aber im tiefsten Grunde nicht<lb/> so; ja, es kann gar nicht anders sein, denn es ist immer derselbe Mensch,<lb/> ob er wacht oder träumt.“</span><lb break="paragraph"/></p> <p>Ich glaube, was mich dazu befähigt hat, die Ursache der Traumentstel<lb break="no"/>lung aufzufinden, war mein moralischer Mut. Bei <hi rendition="#smallcaps">Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit seines Wesens.<lb break="paragraph"/></p>
+         
+      </div></body>
    </text>
 </TEI>

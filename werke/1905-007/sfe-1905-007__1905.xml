@@ -2,20 +2,122 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
-            <title type="publication"><rs type="bibl" ref="#bibl__9be2b10c-4b9f-4b97-bdff-bf5c3319e798">9be2b10c-4b9f-4b97-bdff-bf5c3319e798</rs></title>
-            <title type="work"><rs type="bibl" ref="#bibl__0292d121-4925-4316-aab3-af0c9e67ba0e">Freud, Sigmund  (1905-007; 1905f): Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</rs></title>
-            <title type="sub"/>
+            <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹ (1905-007/1905)</title>
+            <title type="manifestation_short">Erstveröffentlichung</title>
+            <title type="publication">
+               <rs type="bibl" ref="#node__bibliography__7353c814-81a4-4fa7-a9d5-0e36e0acaeb3">
+                  Neue Freie Presse. Morgenblatt, 42, 1905,  Nr. 14735
+               </rs>
+            </title>               
+            <title type="work">
+               <rs type="bibl" ref="#bibl__0292d121-4925-4316-aab3-af0c9e67ba0e">
+                  Freud, Sigmund  (1905-007; 1905f): Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹
+               </rs>
+            </title>
+            <author>Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                     <street>Sensengasse 1</street>
+                     <postCode>1090 Wien</postCode>
+                     <placeName>
+                        <country>Österreich</country>
+                        <settlement>Wien</settlement>
+                     </placeName>
+               </address>
+            </funder>
          </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Blatow, Arkadi</name>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
          <publicationStmt>
-            <p>Publication Information</p>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen. 
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
          </publicationStmt>
+         <seriesStmt>
+            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         </seriesStmt>
          <sourceDesc>
-            <p/>
+            <bibl xml:id="node__bibliography__7353c814-81a4-4fa7-a9d5-0e36e0acaeb3">
+               <title type="main">Neue Freie Presse</title>
+               <title type="sub">Morgenblatt</title>
+               
+               <pubPlace>Wien</pubPlace>
+               <date when="1905-08-31">1905</date>
+               <biblScope>Nr. 14735</biblScope>
+               <publisher key="taxonomy_term/publishers/f2810f30-7e54-4dd2-b3d3-e160d32fff84">Oesterr. Journal A.G. (field_publisher)</publisher>
+               
+               <editor key="taxonomy_term/personen/e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard (field_herausgeber)</editor>
+               
+            </bibl>
+            <msDesc>
+               
+               <msContents>
+                  <msItem>
+                     <title>Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹ (1905-007/1905)</title>
+                     <author>Freud, Sigmund</author>
+                     <idno>manifestation__9be2b10c-4b9f-4b97-bdff-bf5c3319e798</idno>
+                  </msItem>
+               </msContents>
+            </msDesc>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
    <text>
-      <body><div><pb n="1" xml:id="page__5fcc2568-e941-4613-bd53-11aa2d0feaeb"/><fw type="pageNum">Seite 21</fw> <p>Neue Freie Presse. 31. August 1905<lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">Lebensregeln für Neurastheniker</hi>.“ Von<lb/> Dr. R. Wichmann. 1903.] In vierter Auflage liegt hier ein<lb/> kleines Büchlein vor, welches in Form eines Frage- und Antwort<lb break="no"/>spieles dem „Neurastheniker“ recht verständige Dinge über sein Leiden<lb/> mitteilt und ihm Ratschläge gibt, deren Wert für die Heilung der<lb break="no"/>selben übrigens nicht überschätzt werden soll. Der Autor verwahrt<lb/> sich selbst gegen die Absicht, die persönliche Leistung des Arztes bei<lb/> dem Kranken durch diese Schrift überflüssig zu machen, und da Ge<lb break="no"/>sunde solche Bücher nicht zu lesen pflegen, so könnte man wohl dieser<lb/> ganzen Gattung populär-ärztlicher Literatur die Existenzberechtigung<lb/> bestreiten. In manchen Punkten, über welche theoretische Aufklärung<lb/> und praktische Belehrung besonders wichtig wären, hat sich der Ver<lb break="no"/>fasser die Aufgabe recht leicht gemacht; auch das über Angst- und<lb/> Zwangszustände Vorgebrachte ist völlig unzureichend.<lb/> Professor S. Fr.<lb break="paragraph"/></p> </div></body>
+      <body><div>
+
+            <pb n="1" xml:id="page__5fcc2568-e941-4613-bd53-11aa2d0feaeb"/>
+            <fw type="pageNum">Seite 21</fw> <p>Neue Freie Presse. 31. August 1905<lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">Lebensregeln für Neurastheniker</hi>.“ Von<lb/> Dr. R. Wichmann. 1903.] In vierter Auflage liegt hier ein<lb/> kleines Büchlein vor, welches in Form eines Frage- und Antwort<lb break="no"/>spieles dem „Neurastheniker“ recht verständige Dinge über sein Leiden<lb/> mitteilt und ihm Ratschläge gibt, deren Wert für die Heilung der<lb break="no"/>selben übrigens nicht überschätzt werden soll. Der Autor verwahrt<lb/> sich selbst gegen die Absicht, die persönliche Leistung des Arztes bei<lb/> dem Kranken durch diese Schrift überflüssig zu machen, und da Ge<lb break="no"/>sunde solche Bücher nicht zu lesen pflegen, so könnte man wohl dieser<lb/> ganzen Gattung populär-ärztlicher Literatur die Existenzberechtigung<lb/> bestreiten. In manchen Punkten, über welche theoretische Aufklärung<lb/> und praktische Belehrung besonders wichtig wären, hat sich der Ver<lb break="no"/>fasser die Aufgabe recht leicht gemacht; auch das über Angst- und<lb/> Zwangszustände Vorgebrachte ist völlig unzureichend.<lb/> Professor S. Fr.<lb break="paragraph"/></p>
+         
+      </div></body>
    </text>
 </TEI>
