@@ -24,7 +24,7 @@ for x in rel_manifestations:
             manifestation_id=x['man_id'],
             auth_items=auth_items
         )
-        frd_man.make_xml(save=True, limit=False, dump=True)
+        frd_man.make_xml(save=True, limit=False, dump=False)
     except Exception as e:
         click.echo(
             click.style(
