@@ -16,6 +16,27 @@
   <text>
     <body>
       <listBibl>
+        <biblStruct type="book" xml:id="zotero__V9N337QB" corresp="http://zotero.org/groups/4690432/items/V9N337QB">
+          <monogr>
+            <title level="m">Studien über Hysterie</title>
+            <idno type="callNumber">I-176203</idno>
+            <author>
+              <forename>Josef</forename>
+              <surname>Breuer</surname>
+            </author>
+            <author>
+              <forename>Sigmund</forename>
+              <surname>Freud</surname>
+            </author>
+            <imprint>
+              <pubPlace>Leipzig Wien</pubPlace>
+              <publisher>Deuticke</publisher>
+              <date>1895</date>
+              <note type="accessed">2022-07-19T11:05:41Z</note>
+              <note type="url">http://phaidra.univie.ac.at/o:350215</note>
+            </imprint>
+          </monogr>
+        </biblStruct>
         <biblStruct type="book" xml:id="zotero__M9TAGAWQ" corresp="http://zotero.org/groups/4690432/items/M9TAGAWQ">
           <monogr>
             <title level="m">Die psychischen Zwangserscheinungen: auf klinischer Grundlage dargestellt</title>
