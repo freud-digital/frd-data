@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__fb34eb4f-549f-4ed4-9ed0-104c75e82373">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Die Freud’sche psychoanalytische Methode (1904-002/1904)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__e5785ad4-ed60-43c5-9ab2-8465a6e7398a">
-                  Loewenfeld, L. (1904-002; 1904a): Die psychischen Zwangserscheinungen. Auf klinischer Grundlage dargestellt. Wiesbaden:  J. F. Bergmann 1904
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-                  Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Die Freud’sche psychoanalytische Methode (1904-002/1904)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,92 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__e5785ad4-ed60-43c5-9ab2-8465a6e7398a">
-               <title type="main">Die psychischen Zwangserscheinungen</title>
-               <title type="sub">Auf klinischer Grundlage dargestellt</title>
-               
-               <pubPlace>Wiesbaden</pubPlace>
-               <date when="1904-01-01">1904</date>
-               
-               <publisher key="taxonomy_term/publishers/ba64a1ea-a592-43a5-8dcb-82111d7b41df">J. F. Bergmann (field_publisher)</publisher>
-               <author key="taxonomy_term/personen/eac537be-514c-41b8-b009-4ee4397a523b">Loewenfeld, L. (field_authors)</author>
-               
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__fb34eb4f-549f-4ed4-9ed0-104c75e82373">
+                  <title type="manifestation">Die Freud’sche psychoanalytische Methode</title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1904-002/1904</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-0</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fb34eb4f-549f-4ed4-9ed0-104c75e82373</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>Sammlung Arkadi Blatow</repository>
-                  <idno>taxonomy_term--archive__1f75c48e-48a8-4b22-bdb7-b2e0e81ee2de</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/1f75c48e-48a8-4b22-bdb7-b2e0e81ee2de</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Die Freud’sche psychoanalytische Methode (1904-002/1904)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__fb34eb4f-549f-4ed4-9ed0-104c75e82373</idno>
+                     <bibl>
+                        <title>Die Freud’sche psychoanalytische Methode</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1904-01-01">1904-01-01</date>
+                        <name>Text in Monographie</name>
+                        <bibl xml:id="bibl__e5785ad4-ed60-43c5-9ab2-8465a6e7398a">
+                           <title type="main">Die psychischen Zwangserscheinungen</title>
+                           <title type="sub">Auf klinischer Grundlage dargestellt</title>
+                           <pubPlace>Wiesbaden</pubPlace>
+                           <date when="1904-01-01">1904-01-01</date>
+                           <biblScope unit="page" to="551">551</biblScope>
+                           <author ref="#p__eac537be-514c-41b8-b009-4ee4397a523b">Loewenfeld, L.</author>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/e5785ad4-ed60-43c5-9ab2-8465a6e7398a</idno>
+                           <name>Monographie</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>

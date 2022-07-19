@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__b973fb31-a413-4c3a-9793-67e634cc3c9c">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
-            <title type="manifestation_short">GS 6</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__0a4abdfe-7148-4e6e-a367-91194009eb1c">
-                  Freud, Sigmund; Freud, Anna; Storfer, A.J. (Hg.): Gesammelte Schriften von Sigm. Freud. 6. Band, Leipzig, Wien, Zürich:  Internationaler Psychoanalytischer Verlag 1925
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-                  Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
+            <title type="short">GS 6</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,55 +62,99 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__0a4abdfe-7148-4e6e-a367-91194009eb1c">
-               <title type="main">Gesammelte Schriften von Sigm. Freud</title>
-               
-               <title type="short">GS 6</title>
-               <pubPlace>Zürich</pubPlace>
-               <date when="1925-01-01">1925</date>
-               <biblScope>6. Band</biblScope>
-               <publisher key="taxonomy_term/publishers/a3e83b16-58ed-45cd-870b-60f487bdb0a7">Internationaler Psychoanalytischer Verlag (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J. (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__b973fb31-a413-4c3a-9793-67e634cc3c9c">
+                  <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                  <title type="short">GS 6</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1904-002/1925</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-6</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Die Freudsche psychoanalytische Methode (1904-002/1925)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
+                     <bibl>
+                        <title>Die Freudsche psychoanalytische Methode</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1925-01-01">1925-01-01</date>
+                        <name>Text in Werkausgabe</name>
+                        <bibl xml:id="bibl__0a4abdfe-7148-4e6e-a367-91194009eb1c">
+                           <title type="main">Gesammelte Schriften von Sigm. Freud</title>
+                           <title type="short">GS 6</title>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                           <biblScope unit="volume">6. Band</biblScope>
+                           <biblScope unit="page" to="10">10</biblScope>
+                           <editor ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/0a4abdfe-7148-4e6e-a367-91194009eb1c</idno>
+                           <name>Werkausgabe</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
 
             <pb n="1" xml:id="page__577272aa-1034-469d-9681-6fc381cb43d0"/>
-            <fw type="pageNum">[3]</fw> <p class="h1">DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb break="paragraph"/></p> <p><hi rendition="#em">Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung des Verfassers); dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</hi><lb break="paragraph"/></p> <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps">Freud</hi><lb/> ausübt und als Psychoanalyse bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über Hysterie“ 1895 in Gemeinschaft mit<lb/> J. <hi rendition="#smallcaps">Breuer</hi> berichtet hat. Die kathartische Therapie war eine<lb/> Erfindung <hi rendition="#smallcaps">Breuers</hi>, der mit ihrer Hilfe zuerst etwa ein Dezen<lb break="no"/>nium vorher eine hysterische Kranke hergestellt und dabei Ein<lb break="no"/>sicht in die Pathogenese ihrer Symptome gewonnen hatte. Infolge<lb/> einer persönlichen Anregung <hi rendition="#smallcaps">Breuers</hi> nahm dann <hi rendition="#smallcaps">Freud</hi> das<lb/> Verfahren wieder auf und erprobte es an einer größeren Anzahl<lb/> von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, daß der Patient hyp<lb break="no"/>notisierbar sei, und beruhte auf der Erweiterung des Bewußtseins,<lb/> die in der Hypnose eintritt. Es setzte sich die Beseitigung der<lb/> Krankheitssymptome zum Ziele und erreichte dies, indem es den<lb/> Patienten sich in den psychischen Zustand zurückversetzen ließ,<lb/> in welchem das Symptom zum erstenmal aufgetreten war. Es<lb/> tauchten dann bei dem hypnotisierten Kranken Erinnerungen,<lb/> Gedanken und Impulse auf, die in seinem Bewußtsein bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge<lb break="paragraph"/><pb n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"/><fw type="pageNum">4</fw>unter intensiven Affektäußerungen dem Arzte mitgeteilt hatte,<lb/> war das Symptom überwunden, die Wiederkehr desselben auf<lb break="no"/>gehoben. Diese regelmäßig zu wiederholende Erfahrung erläuterten<lb/> die beiden Autoren in ihrer gemeinsamen Arbeit dahin, daß das<lb/> Symptom an Stelle von unterdrückten und nicht zum Bewußtsein<lb/> gelangten psychischen Vorgängen stehe, also eine Umwandlung<lb/> („Konversion“) der letzteren darstelle. Die therapeutische Wirk<lb break="no"/>samkeit ihres Verfahrens erklärten sie sich aus der Abfuhr des<lb/> bis dahin gleichsam „eingeklemmten“ Affektes, der an den unter<lb break="no"/>drückten seelischen Aktionen gehaftet hatte („Abreagieren“). Das<lb/> einfache Schema des therapeutischen Eingriffes komplizierte sich<lb/> aber nahezu allemal, indem sich zeigte, daß nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/> beteiligt sei.<lb break="paragraph"/></p>
+            <fw type="pageNum">[3]</fw> <p rendition="h1"><title>DIE FREUDSCHE PSYCHOANALYTISCHE<lb/> METHODE<lb break="paragraph"/></title></p> <p><hi rendition="#em">Zuerst erschienen in: Löwenfeld, Psychische Zwangserscheinungen, 1904 (ohne Nennung des Verfassers); dann in der Ersten Folge der „Sammlung kleiner Schriften zur Neurosenlehre“.</hi><lb break="paragraph"/></p> <p>„Die eigentümliche Methode der Psychotherapie, die <hi rendition="#smallcaps">Freud</hi><lb/> ausübt und als Psychoanalyse bezeichnet, ist aus dem sogenannten<lb/> kathartischen Verfahren hervorgegangen, über welches er seiner<lb break="no"/>zeit in den „Studien über Hysterie“ 1895 in Gemeinschaft mit<lb/> J. <hi rendition="#smallcaps">Breuer</hi> berichtet hat. Die kathartische Therapie war eine<lb/> Erfindung <hi rendition="#smallcaps">Breuers</hi>, der mit ihrer Hilfe zuerst etwa ein Dezen<lb break="no"/>nium vorher eine hysterische Kranke hergestellt und dabei Ein<lb break="no"/>sicht in die Pathogenese ihrer Symptome gewonnen hatte. Infolge<lb/> einer persönlichen Anregung <hi rendition="#smallcaps">Breuers</hi> nahm dann <hi rendition="#smallcaps">Freud</hi> das<lb/> Verfahren wieder auf und erprobte es an einer größeren Anzahl<lb/> von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, daß der Patient hyp<lb break="no"/>notisierbar sei, und beruhte auf der Erweiterung des Bewußtseins,<lb/> die in der Hypnose eintritt. Es setzte sich die Beseitigung der<lb/> Krankheitssymptome zum Ziele und erreichte dies, indem es den<lb/> Patienten sich in den psychischen Zustand zurückversetzen ließ,<lb/> in welchem das Symptom zum erstenmal aufgetreten war. Es<lb/> tauchten dann bei dem hypnotisierten Kranken Erinnerungen,<lb/> Gedanken und Impulse auf, die in seinem Bewußtsein bisher<lb/> ausgefallen waren, und wenn er diese seine seelischen Vorgänge<lb break="paragraph"/><pb n="2" xml:id="page__7e4855dc-ea7c-4a7b-916e-25d621460232"/><fw type="pageNum">4</fw>unter intensiven Affektäußerungen dem Arzte mitgeteilt hatte,<lb/> war das Symptom überwunden, die Wiederkehr desselben auf<lb break="no"/>gehoben. Diese regelmäßig zu wiederholende Erfahrung erläuterten<lb/> die beiden Autoren in ihrer gemeinsamen Arbeit dahin, daß das<lb/> Symptom an Stelle von unterdrückten und nicht zum Bewußtsein<lb/> gelangten psychischen Vorgängen stehe, also eine Umwandlung<lb/> („Konversion“) der letzteren darstelle. Die therapeutische Wirk<lb break="no"/>samkeit ihres Verfahrens erklärten sie sich aus der Abfuhr des<lb/> bis dahin gleichsam „eingeklemmten“ Affektes, der an den unter<lb break="no"/>drückten seelischen Aktionen gehaftet hatte („Abreagieren“). Das<lb/> einfache Schema des therapeutischen Eingriffes komplizierte sich<lb/> aber nahezu allemal, indem sich zeigte, daß nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/> beteiligt sei.<lb break="paragraph"/></p>
          
             
               <p>Der Hauptcharakter der kathartischen Methode, der sie in<lb/> Gegensatz zu allen anderen Verfahren der Psychotherapie setzt,<lb/> liegt also darin, daß bei ihr die therapeutische Wirksamkeit<lb/> nicht einem suggestiven Verbot des Arztes übertragen wird. Sie<lb/> erwartet vielmehr, daß die Symptome von selbst verschwinden<lb/> werden, wenn es dem Eingriff, der sich auf gewisse Voraus<lb break="no"/>setzungen über den psychischen Mechanismus beruft, gelungen<lb/> ist, seelische Vorgänge zu einem andern als dem bisherigen Ver<lb break="no"/>laufe zu bringen, der in die Symptombildung eingemündet hat.<lb break="paragraph"/></p> <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen Ver<lb break="no"/>fahren <hi rendition="#smallcaps">Breuers</hi> vornahm, waren zunächst Änderungen der<lb/> Technik; diese brachten aber neue Ergebnisse und haben in<lb/> weiterer Folge zu einer andersartigen, wiewohl der früheren<lb/> nicht widersprechenden Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"/></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose aufzugeben. Er behandelt gegenwärtig seine Kranken,<lb break="paragraph"/><pb n="3" xml:id="page__2e11f984-bba9-4fa4-bbc9-4b9faf02db24"/><fw type="pageNum">5</fw>indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf einem Ruhebett einnehmen läßt, während er<lb/> selbst, ihrem Anblick entzogen, auf einem Stuhle hinter ihnen<lb/> sitzt. Auch den Verschluß der Augen fordert er von ihnen nicht<lb/> und vermeidet jede Berührung sowie jede andere Prozedur, die<lb/> an Hypnose mahnen könnte. Eine solche Sitzung verläuft also<lb/> wie ein Gespräch zwischen zwei gleich wachen Personen, von<lb/> denen die eine sich jede Muskelanstrengung und jeden ablenken<lb break="no"/>den Sinneseindruck erspart, die sie in der Konzentration ihrer<lb/> Aufmerksamkeit auf ihre eigene seelische Tätigkeit stören könnten.<lb break="paragraph"/></p>
