@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Über Psychotherapie (1905-001/1925)</title>
-            <title type="manifestation_short">GS 6</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__0a4abdfe-7148-4e6e-a367-91194009eb1c">
-                  Freud, Sigmund; Freud, Anna; Storfer, A.J. (Hg.): Gesammelte Schriften von Sigm. Freud. 6. Band, Leipzig, Wien, Zürich:  Internationaler Psychoanalytischer Verlag 1925
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                  Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Über Psychotherapie (1905-001/1925)</title>
+            <title type="short">GS 6</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,93 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__0a4abdfe-7148-4e6e-a367-91194009eb1c">
-               <title type="main">Gesammelte Schriften von Sigm. Freud</title>
-               
-               <title type="short">GS 6</title>
-               <pubPlace>Zürich</pubPlace>
-               <date when="1925-01-01">1925</date>
-               <biblScope>6. Band</biblScope>
-               <publisher key="taxonomy_term/publishers/a3e83b16-58ed-45cd-870b-60f487bdb0a7">Internationaler Psychoanalytischer Verlag (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J. (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
+                  <title type="manifestation">Über Psychotherapie</title>
+                  <title type="short">GS 6</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-001/1925</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-4</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Über Psychotherapie (1905-001/1925)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
+                     <bibl>
+                        <title>Über Psychotherapie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1925-01-01">1925-01-01</date>
+                        <name>Text in Werkausgabe</name>
+                        <bibl xml:id="bibl__0a4abdfe-7148-4e6e-a367-91194009eb1c">
+                           <title type="main">Gesammelte Schriften von Sigm. Freud</title>
+                           <title type="short">GS 6</title>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                           <biblScope unit="volume">6. Band</biblScope>
+                           <biblScope unit="page" to="24">24</biblScope>
+                           <editor ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/0a4abdfe-7148-4e6e-a367-91194009eb1c</idno>
+                           <name>Werkausgabe</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
