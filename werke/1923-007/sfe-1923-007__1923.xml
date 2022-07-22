@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__4c35f75b-310a-477b-9913-00e5cf802d02">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1923)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__8c791aca-b5c0-461a-85ff-e71b070a3ec2">
-                  Zeitschrift des Vereines Allgemeine Nährpflicht, 1923, 6,  21
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
-                  Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1923)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,92 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
+            <title type="work">Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__8c791aca-b5c0-461a-85ff-e71b070a3ec2">
-               <title type="main">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
-               
-               
-               
-               <date when="1923-06-01">1923</date>
-               <biblScope>21</biblScope>
-               
-               
-               <editor key="taxonomy_term/personen/f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__4c35f75b-310a-477b-9913-00e5cf802d02">
+                  <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1923-007/1923</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/memoriam-josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/4c35f75b-310a-477b-9913-00e5cf802d02</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>Privatarchiv Christfried Tögel</repository>
-                  <idno>taxonomy_term--archive__7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1923)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__4c35f75b-310a-477b-9913-00e5cf802d02</idno>
+                     <bibl>
+                        <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1923-06-01">1923-06-01</date>
+                        <name>Text in Periodikum</name>
+                        <bibl xml:id="bibl__8c791aca-b5c0-461a-85ff-e71b070a3ec2">
+                           <title type="main">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
+                           <date when="1923-06-01">1923-06-01</date>
+                           <biblScope unit="volume">21</biblScope>
+                           <biblScope unit="year">6</biblScope>
+                           <biblScope unit="page" to="XI - 3">XI - 3</biblScope>
+                           <editor ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/8c791aca-b5c0-461a-85ff-e71b070a3ec2</idno>
+                           <name>Periodikum (Heft)</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>

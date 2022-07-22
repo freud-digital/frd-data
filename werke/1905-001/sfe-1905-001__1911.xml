@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Über Psychotherapie  (1905-001/1911)</title>
-            <title type="manifestation_short">SKSN 1 (2. Auflage)</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__690a7b1a-efb2-49cf-8c5c-63fcc49f07d9">
-                  Freud, Sigmund (Hg.): Sammlung kleiner Schriften zur Neurosenlehre. [Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]. 1. Folge, 2. unveränderte Auflage,  Leipzig, Wien:  Franz Deuticke 1911
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                  Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Über Psychotherapie  (1905-001/1911)</title>
+            <title type="short">SKSN 1 (2. Auflage)</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,95 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__690a7b1a-efb2-49cf-8c5c-63fcc49f07d9">
-               <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-               <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-               <title type="short">SKSN 1 (2. Auflage)</title>
-               <pubPlace>Wien</pubPlace>
-               <date when="1911-01-01">1911</date>
-               <biblScope>1. Folge</biblScope>
-               <publisher key="taxonomy_term/publishers/448703a7-1d5e-4ba6-891f-dc789893f388">Franz Deuticke (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9">
+                  <title type="manifestation">Über Psychotherapie </title>
+                  <title type="short">SKSN 1 (2. Auflage)</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-001/1911</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-3</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Über Psychotherapie  (1905-001/1911)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9</idno>
+                     <bibl>
+                        <title>Über Psychotherapie </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1911-01-01">1911-01-01</date>
+                        <name>Text in Werkausgabe</name>
+                        <bibl xml:id="bibl__690a7b1a-efb2-49cf-8c5c-63fcc49f07d9">
+                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                           <title type="short">SKSN 1 (2. Auflage)</title>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1911-01-01">1911-01-01</date>
+                           <biblScope unit="volume">1. Folge</biblScope>
+                           <biblScope unit="issue">2. unveränderte Auflage</biblScope>
+                           <biblScope unit="page" to="212">212</biblScope>
+                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/690a7b1a-efb2-49cf-8c5c-63fcc49f07d9</idno>
+                           <name>Werkausgabe</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
@@ -122,7 +159,7 @@
             <fw type="pageNum">[201]</fw> <p rendition="#level_2">XII.<lb/> Über Psychotherapie<hi rendition="#footnote-index">1)</hi>.</p><p>Meine Herren! Es sind ungefähr acht Jahre her, seitdem<lb/> ich über Aufforderung Ihres betrauerten Vorsitzenden Professor<lb/> v. <hi rendition="#smallcaps">Reder</hi> in Ihrem Kreise über das Thema der Hysterie spre<lb break="no"/>chen durfte. Ich hatte kurz zuvor (1895) in Gemeinschaft mit<lb/> Dr. <hi rendition="#smallcaps">Josef Breuer</hi> die „Studien über Hysterie“ veröffentlicht<lb/> und den Versuch unternommen, auf Grund der neuen Erkenntnis,<lb/> welche wir diesem Forscher verdanken, eine neuartige Behand<lb break="no"/>lungsweise der Neurose einzuführen. Erfreulicherweise, darf ich<lb/> sagen, haben die Bemühungen unserer „Studien“ Erfolg gehabt;<lb/> die in ihnen vertretenen Ideen von der Wirkungsweise psychi<lb break="no"/>scher Traumen durch Zurückhaltung von Affekt und die Auf<lb break="no"/>fassung der hysterischen Symptome als Erfolge einer aus dem<lb/> Seelischen ins Körperliche versetzten Erregung, Ideen, für<lb/> welche wir die Termini „Abreagieren“ und „Konversion“ ge<lb break="no"/>schaffen hatten, sind heute allgemein bekannt und verstanden.<lb/> Es gibt — wenigstens in deutschen Landen — keine Darstellung<lb/> der Hysterie, die ihnen nicht bis zu einem gewissen Grade<lb/> Rechnung tragen würde, und keinen Fachgenossen, der nicht<lb/> zum mindesten ein Stück weit mit dieser Lehre ginge. Und doch<lb/> mögen diese Sätze und diese Termini, solange sie noch frisch<lb/> waren, befremdend genug geklungen haben!<lb break="paragraph"/></p> <p>Ich kann nicht dasselbe von dem therapeutischen Verfahren<lb/> sagen, das gleichzeitig mit unserer Lehre den Fachgenossen<lb/> vorgeschlagen wurde. Dasselbe kämpft noch heute um seine<lb/> Anerkennung. Man mag spezielle Gründe dafür anrufen. Die<lb break="paragraph"/><pb n="2" xml:id="page__fddd82d5-d25e-498e-a48f-347bf2726fae"/><fw type="pageNum">202</fw>Technik des Verfahrens war damals noch unausgebildet; ich<lb/> vermochte es nicht, dem ärztlichen Leser des Buches jene An<lb break="no"/>weisungen zu geben, welche ihn befähigt hätten, eine derartige<lb/> Behandlung vollständig durchzuführen. Aber gewiß wirken auch<lb/> Gründe allgemeiner Natur mit. Vielen Ärzten erscheint noch<lb/> heute die Psychotherapie als ein Produkt des modernen Mysti<lb break="no"/>zismus und im Vergleiche mit unseren physikalisch-chemischen<lb/> Heilmitteln, deren Anwendung auf physiologische Einsichten<lb/> gegründet ist, als geradezu unwissenschaftlich, des Interesses<lb/> eines Naturforschers unwürdig. Gestatten Sie mir nun, vor<lb/> Ihnen die Sache der Psychotherapie zu führen und hervorzuheben,<lb/> was an dieser Verurteilung als Unrecht oder Irrtum bezeichnet<lb/> werden kann.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Wiener Medizinische Presse, 1905, Nr. 1. (Vortrag, gehalten im<lb/> Wiener mediz. Doktorenkollegium am 12. Dezember 1904.)<lb break="paragraph"/></note>
          
             
-              <p>Lassen Sie mich also fürs erste daran mahnen, daß die<lb/> Psychotherapie kein modernes Heilverfahren ist. Im Gegenteile,<lb/> sie ist die älteste Therapie, deren sich die Medizin bedient hat.<lb/> In dem lehrreichen Werke von <hi rendition="#smallcaps">Löwenfeld</hi> (Lehrbuch der ge<lb break="no"/>samten Psychotherapie) können Sie nachlesen, welches die Me<lb break="no"/>thoden der primitiven und der antiken Medizin waren. Sie<lb/> werden dieselben zum größten Teil der Psychotherapie zuordnen<lb/> müssen; man versetzte die Kranken zum Zwecke der Heilung<lb/> in den Zustand der „gläubigen Erwartung“, der uns heute noch<lb/> das nämliche leistet. Auch nachdem die Ärzte andere Heil<lb break="no"/>mittel aufgefunden haben, sind psychotherapeutische Bestre<lb break="no"/>bungen der einen oder der anderen Art in der Medizin niemals<lb/> untergegangen.<lb break="paragraph"/></p> <p>Fürs zweite mache ich Sie darauf aufmerksam, daß wir<lb/> Arzte auf die Psychotherapie schon darum nicht verzichten<lb/> können, weil eine andere beim Heilungsvorgang sehr in Betracht<lb/> kommende Partei — nämlich die Kranken — nicht die Absicht<lb/> hat, auf sie zu verzichten. Sie wissen, welche Aufklärungen wir<lb/> hierüber der Schule von Nancy (<hi rendition="#smallcaps">Liébault, Bernheim</hi>) ver<lb break="no"/>danken. Ein von der psychischen Disposition der Kranken ab<lb break="no"/>hängiger Faktor tritt, ohne daß wir es beabsichtigen, zur Wir<lb break="no"/>kung eines jeden vom Arzte eingeleiteten Heilverfahrens hinzu,<lb/> meist im begünstigenden, oft auch im hemmenden Sinne. Wir<lb/> haben für diese Tatsache das Wort „Suggestion“ anzuwenden<lb/> gelernt, und <hi rendition="#smallcaps">Moebius</hi> hat uns gelehrt, daß die Unverläßlich<lb break="no"/><pb n="3" xml:id="page__6a28b696-17d1-4f86-b9af-98e1619ac85b"/><fw type="pageNum">203</fw>keit, die wir an so manchen unserer Heilmethoden beklagen,<lb/> gerade auf die störende Einwirkung dieses übermächtigen Mo<lb break="no"/>mentes zurückzuführen ist. Wir Ärzte, Sie alle, treiben also<lb/> beständig Psychotherapie, auch wo Sie es nicht wissen und<lb/> nicht beabsichtigen; nur hat es einen Nachteil, daß Sie den<lb/> psychischen Faktor in Ihrer Einwirkung auf den Kranken so<lb/> ganz dem Kranken überlassen. Er wird auf diese Weise un<lb break="no"/>kontrollierbar, undosierbar, der Steigerung unfähig. Ist es dann<lb/> nicht ein berechtigtes Streben des Arztes, sich dieses Faktors<lb/> zu bemächtigen, sich seiner mit Absicht zu bedienen, ihn zu<lb/> lenken und zu verstärken? Nichts anderes als dies ist es, was<lb/> die wissenschaftliche Psychotherapie Ihnen zumutet.<lb break="paragraph"/></p>
+              <p>Lassen Sie mich also fürs erste daran mahnen, daß die<lb/> Psychotherapie kein modernes Heilverfahren ist. Im Gegenteile,<lb/> sie ist die älteste Therapie, deren sich die Medizin bedient hat.<lb/> In dem lehrreichen Werke von <hi rendition="#smallcaps">Löwenfeld</hi> (Lehrbuch der ge<lb break="no"/>samten Psychotherapie) können Sie nachlesen, welches die Me<lb break="no"/>thoden der primitiven und der antiken Medizin waren. Sie<lb/> werden dieselben zum größten Teil der Psychotherapie zuordnen<lb/> müssen; man versetzte die Kranken zum Zwecke der Heilung<lb/> in den Zustand der „gläubigen Erwartung“, der uns heute noch<lb/> das nämliche leistet. Auch nachdem die Ärzte andere Heil<lb break="no"/>mittel aufgefunden haben, sind psychotherapeutische Bestre<lb break="no"/>bungen der einen oder der anderen Art in der Medizin niemals<lb/> untergegangen.<lb break="paragraph"/></p> <p>Fürs zweite mache ich Sie darauf aufmerksam, daß wir<lb/> Ärzte auf die Psychotherapie schon darum nicht verzichten<lb/> können, weil eine andere beim Heilungsvorgang sehr in Betracht<lb/> kommende Partei — nämlich die Kranken — nicht die Absicht<lb/> hat, auf sie zu verzichten. Sie wissen, welche Aufklärungen wir<lb/> hierüber der Schule von Nancy (<hi rendition="#smallcaps">Liébault, Bernheim</hi>) ver<lb break="no"/>danken. Ein von der psychischen Disposition der Kranken ab<lb break="no"/>hängiger Faktor tritt, ohne daß wir es beabsichtigen, zur Wir<lb break="no"/>kung eines jeden vom Arzte eingeleiteten Heilverfahrens hinzu,<lb/> meist im begünstigenden, oft auch im hemmenden Sinne. Wir<lb/> haben für diese Tatsache das Wort „Suggestion“ anzuwenden<lb/> gelernt, und <hi rendition="#smallcaps">Moebius</hi> hat uns gelehrt, daß die Unverläßlich<lb break="no"/><pb n="3" xml:id="page__6a28b696-17d1-4f86-b9af-98e1619ac85b"/><fw type="pageNum">203</fw>keit, die wir an so manchen unserer Heilmethoden beklagen,<lb/> gerade auf die störende Einwirkung dieses übermächtigen Mo<lb break="no"/>mentes zurückzuführen ist. Wir Ärzte, Sie alle, treiben also<lb/> beständig Psychotherapie, auch wo Sie es nicht wissen und<lb/> nicht beabsichtigen; nur hat es einen Nachteil, daß Sie den<lb/> psychischen Faktor in Ihrer Einwirkung auf den Kranken so<lb/> ganz dem Kranken überlassen. Er wird auf diese Weise un<lb break="no"/>kontrollierbar, undosierbar, der Steigerung unfähig. Ist es dann<lb/> nicht ein berechtigtes Streben des Arztes, sich dieses Faktors<lb/> zu bemächtigen, sich seiner mit Absicht zu bedienen, ihn zu<lb/> lenken und zu verstärken? Nichts anderes als dies ist es, was<lb/> die wissenschaftliche Psychotherapie Ihnen zumutet.<lb break="paragraph"/></p>
          
             
               <p>Zu dritt, meine Herren Kollegen, will ich Sie auf die alt<lb break="no"/>bekannte Erfahrung verweisen, daß gewisse Leiden und ganz<lb/> besonders die Psychoneurosen, seelischen Einflüssen weit zu<lb break="no"/>gänglicher sind als jeder anderen Medikation. Es ist keine<lb/> moderne Rede, sondern ein Ausspruch alter Ärzte, daß diese<lb/> Krankheiten nicht das Medikament heilt, sondern der Arzt, d. h.<lb/> wohl die Persönlichkeit des Arztes, insofern er psychischen Ein<lb break="no"/>fluß durch sie ausübt. Ich weiß wohl, meine Herren Kollegen,<lb/> daß bei Ihnen jene Anschauung sehr beliebt ist, welcher der<lb/> Ästhetiker <hi rendition="#smallcaps">Vischer</hi> in seiner Faustparodie (Faust, der Tragödie<lb/> III. Teil) klassischen Ausdruck geliehen hat:<lb break="paragraph"/></p> <q><p><span class="inlinequote">„Ich weiß, das Physikalische<lb/> Wirkt öfters aufs Moralische.“</span><lb break="paragraph"/></p> </q><p>Aber sollte es nicht adäquater sein und häufiger zutreffen,<lb/> daß man aufs Moralische eines Menschen mit moralischen, d. h.<lb/> psychischen Mitteln einwirken kann?<lb break="paragraph"/></p> <p>Es gibt viele Arten und Wege der Psychotherapie. Alle<lb/> sind gut, die zum Ziel der Heilung führen. Unsere gewöhnliche<lb/> Tröstung: Es wird schon wieder gut werden! mit der wir den<lb/> Kranken gegenüber so freigebig sind, entspricht einer der<lb/> psychotherapeutischen Methoden; nur sind wir bei tieferer Ein<lb break="no"/>sicht in das Wesen der Neurosen nicht genötigt gewesen, uns<lb/> auf die Tröstung einzuschränken. Wir haben die Technik der<lb/> hypnotischen Suggestion, der Psychotherapie durch Ablenkung,<lb/> durch Übung, durch Hervorrufung zweckdienlicher Affekte ent<lb break="no"/>wickelt. Ich verachte keine derselben und würde sie alle unter<lb break="paragraph"/><pb n="4" xml:id="page__78145a56-7c60-4f06-9796-d8bced983095"/><fw type="pageNum">204</fw>geeigneten Bedingungen ausüben. Wenn ich in Wirklichkeit mich<lb/> auf ein einziges Heilverfahren beschränkt habe, auf die von<lb/> <hi rendition="#smallcaps">Breuer</hi> „<hi rendition="#smallcaps">kathartisch</hi>“ genannte Methode, die ich lieber die<lb/> „<hi rendition="#smallcaps">analytische</hi>“ heiße, so sind bloß subjektive Motive für mich<lb/> maßgebend gewesen. Infolge meines Anteiles an der Aufstellung<lb/> dieser Therapie fühle ich die persönliche Verpflichtung, mich<lb/> ihrer Erforschung und dem Ausbau ihrer Technik zu widmen.<lb/> Ich darf behaupten, die analytische Methode der Psychotherapie<lb/> ist diejenige, welche am eindringlichsten wirkt, am weitesten<lb/> trägt, durch welche man die ausgiebigste Veränderung des<lb/> Kranken erzielt. Wenn ich für einen Moment den therapeuti<lb break="no"/>schen Standpunkt verlasse, kann ich für sie geltend machen,<lb/> daß sie die interessanteste ist, uns allein etwas über die Ent<lb break="no"/>stehung und den Zusammenhang der Krankheitserscheinungen<lb/> lehrt. Infolge der Einsichten in den Mechanismus des seelischen<lb/> Krankseins, die sie uns eröffnet, könnte sie allein imstande<lb/> sein, über sich selbst hinauszuführen und uns den Weg zu noch<lb/> anderen Arten therapeutischer Beeinflussung zu weisen.<lb break="paragraph"/></p>

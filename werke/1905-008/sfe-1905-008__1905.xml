@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer (1905-008/1905)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__be7e77fa-da9e-4053-8ff1-3555d739c9db">
-                  Die Zeit. Morgenblatt, 4, 1905,  Nr. 1110
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
-                  Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Stellungnahme zum Fall Prof. Dr. Beer (1905-008/1905)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,94 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
+            <title type="work">Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zum-fall-prof-dr-beer</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/92ef542d-8b7e-451f-9db2-468e0006caa7</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__be7e77fa-da9e-4053-8ff1-3555d739c9db">
-               <title type="main">Die Zeit</title>
-               <title type="sub">Morgenblatt</title>
-               
-               <pubPlace>Wien</pubPlace>
-               <date when="1905-10-27">1905</date>
-               <biblScope>Nr. 1110</biblScope>
-               <publisher key="taxonomy_term/publishers/797536da-fa8d-4d24-99d4-d00b1b7b7c8b">I. Singer &amp; Cie (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
+                  <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-008/1905</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zum-fall-prof-dr-beer/druckversion</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Stellungnahme zum Fall Prof. Dr. Beer (1905-008/1905)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
+                     <bibl>
+                        <title>Stellungnahme zum Fall Prof. Dr. Beer</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1905-10-27">1905-10-27</date>
+                        <name>Text in Periodikum</name>
+                        <bibl xml:id="bibl__be7e77fa-da9e-4053-8ff1-3555d739c9db">
+                           <title type="main">Die Zeit</title>
+                           <title type="sub">Morgenblatt</title>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1905-10-27">1905-10-27</date>
+                           <biblScope unit="volume">Nr. 1110</biblScope>
+                           <biblScope unit="year">4</biblScope>
+                           <biblScope unit="page" from="5">5-</biblScope>
+                           <editor ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/be7e77fa-da9e-4053-8ff1-3555d739c9db</idno>
+                           <name>Periodikum (Heft)</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>

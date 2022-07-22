@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__ef3c9447-4f68-406a-a916-afcbb7576665">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834">
-                  Koßmann, R.; Weiß, Jul.  (Hg.): Die Gesundheit. Ihre Erhaltung, ihre Störungen ihre Wiederherstellung. I. Band, Stuttgart, Berlin, Leipzig:  Union Deutsche Verlagsgesellschaft 1905
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
-                  Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,55 +62,99 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
+            <title type="work">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834">
-               <title type="main">Die Gesundheit</title>
-               <title type="sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
-               
-               <pubPlace>Leipzig</pubPlace>
-               <date when="1905-01-01">1905</date>
-               <biblScope>I. Band</biblScope>
-               <publisher key="taxonomy_term/publishers/9895fc43-feca-400b-8653-61f5fca8636f">Union Deutsche Verlagsgesellschaft (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul. (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__ef3c9447-4f68-406a-a916-afcbb7576665">
+                  <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-002/1905</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion-1</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ef3c9447-4f68-406a-a916-afcbb7576665</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Psychische Behandlung (Seelenbehandlung)  (1905-002/1905)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__ef3c9447-4f68-406a-a916-afcbb7576665</idno>
+                     <bibl>
+                        <title>Psychische Behandlung (Seelenbehandlung) </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1905-01-01">1905-01-01</date>
+                        <name>Text in Sammelband</name>
+                        <bibl xml:id="bibl__61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834">
+                           <title type="main">Die Gesundheit</title>
+                           <title type="sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1905-01-01">1905-01-01</date>
+                           <biblScope unit="volume">I. Band</biblScope>
+                           <biblScope unit="page" to="384">384</biblScope>
+                           <editor ref="#p__56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul.</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834</idno>
+                           <name>Sammelband</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
 
             <pb n="1" xml:id="page__a8c67d92-7f5f-4a77-b584-a03672524144"/>
-            <fw type="pageNum">368</fw> <p class="h1">6.<lb/> Psychische Behandlung (Seelenbehandlung).<lb break="paragraph"/></p> <p rendition="#level_2">Von<lb/> Professor Dr. Sigmund Freud in Wien.</p><p>Psyche ist ein griechisches Wort und lautet<lb/> in deutscher Übersetzung <hi rendition="#smallcaps">Seele</hi>. Psy<lb break="no"/>chische Behandlung heißt demnach <hi rendition="#smallcaps">Seelen<lb break="no"/>behandlung</hi>. Man könnte also meinen,<lb/> daß darunter verstanden wird: Behandlung<lb/> der krankhaften Erscheinungen des Seelen<lb break="no"/>lebens. Dies ist aber nicht die Bedeutung<lb/> dieses Wortes. Psychische Behandlung will<lb/> vielmehr besagen: Behandlung von der Seele<lb/> aus, Behandlung — seelischer oder körper<lb break="no"/>licher Störungen — mit Mitteln, welche<lb/> zunächst und unmittelbar auf das Seelische<lb/> des Menschen einwirken.<lb break="paragraph"/></p> <p>Ein solches Mittel ist vor allem das<lb/> Wort, und Worte sind auch das wesentliche<lb/> Handwerkszeug der Seelenbehandlung. Der<lb/> Laie wird es wohl schwer begreiflich fin<lb break="no"/>den, daß krankhafte Störungen des Leibes und der Seele durch „bloße“<lb/> Worte des Arztes beseitigt werden sollen. Er wird meinen, man mute<lb/> ihm zu, an Zauberei zu glauben. Er hat damit nicht so unrecht; die<lb/> Worte unserer täglichen Reden sind nichts anderes als abgeblaßter Zauber.<lb break="paragraph"/><pb n="2" xml:id="page__8bad8b89-c67b-42a5-99d3-e49ddee09747"/><fw type="pageNum">369</fw>Es wird aber notwendig sein, einen weiteren Umweg einzuschlagen, um<lb/> verständlich zu machen, wie die Wissenschaft es anstellt, dem Worte wenig<lb break="no"/>stens einen Teil seiner früheren Zauberkraft wiederzugeben.<lb break="paragraph"/></p>
+            <fw type="pageNum">368</fw> <p rendition="h1"><title>6.<lb/> Psychische Behandlung (Seelenbehandlung).<lb break="paragraph"/></title></p> <p rendition="#level_2">Von<lb/> Professor Dr. Sigmund Freud in Wien.</p><p>Psyche ist ein griechisches Wort und lautet<lb/> in deutscher Übersetzung <hi rendition="#smallcaps">Seele</hi>. Psy<lb break="no"/>chische Behandlung heißt demnach <hi rendition="#smallcaps">Seelen<lb break="no"/>behandlung</hi>. Man könnte also meinen,<lb/> daß darunter verstanden wird: Behandlung<lb/> der krankhaften Erscheinungen des Seelen<lb break="no"/>lebens. Dies ist aber nicht die Bedeutung<lb/> dieses Wortes. Psychische Behandlung will<lb/> vielmehr besagen: Behandlung von der Seele<lb/> aus, Behandlung — seelischer oder körper<lb break="no"/>licher Störungen — mit Mitteln, welche<lb/> zunächst und unmittelbar auf das Seelische<lb/> des Menschen einwirken.<lb break="paragraph"/></p> <p>Ein solches Mittel ist vor allem das<lb/> Wort, und Worte sind auch das wesentliche<lb/> Handwerkszeug der Seelenbehandlung. Der<lb/> Laie wird es wohl schwer begreiflich fin<lb break="no"/>den, daß krankhafte Störungen des Leibes und der Seele durch „bloße“<lb/> Worte des Arztes beseitigt werden sollen. Er wird meinen, man mute<lb/> ihm zu, an Zauberei zu glauben. Er hat damit nicht so unrecht; die<lb/> Worte unserer täglichen Reden sind nichts anderes als abgeblaßter Zauber.<lb break="paragraph"/><pb n="2" xml:id="page__8bad8b89-c67b-42a5-99d3-e49ddee09747"/><fw type="pageNum">369</fw>Es wird aber notwendig sein, einen weiteren Umweg einzuschlagen, um<lb/> verständlich zu machen, wie die Wissenschaft es anstellt, dem Worte wenig<lb break="no"/>stens einen Teil seiner früheren Zauberkraft wiederzugeben.<lb break="paragraph"/></p>
          
             
               <p>Auch die wissenschaftlich geschulten Ärzte haben den Wert der Seelen<lb break="no"/>behandlung erst in neuerer Zeit schätzen gelernt. Dies erklärt sich leicht, wenn<lb/> man an den Entwicklungsgang der Medizin im letzten Halbjahrhundert<lb/> denkt. Nach einer ziemlich unfruchtbaren Zeit der Abhängigkeit von der<lb/> sogenannten Naturphilosophie hat die Medizin unter dem glücklichen Einfluß<lb/> der Naturwissenschaften die größten Fortschritte als Wissenschaft wie<lb/> als Kunst gemacht, den Aufbau des Organismus aus mikroskopisch kleinen<lb/> Einheiten (den Zellen) ergründet, die einzelnen Lebensverrichtungen (Funk<lb break="no"/>tionen) physikalisch und chemisch verstehen gelernt, die sichtbaren und greif<lb break="no"/>baren Veränderungen der Körperteile, welche Folgen der verschiedenen<lb/> Krankheitsprozesse sind, unterschieden, anderseits auch die Zeichen gefunden,<lb/> durch welche sich tiefliegende Krankheitsvorgänge noch an Lebenden ver<lb break="no"/>raten, hat ferner eine große Anzahl der belebten Krankheitserreger entdeckt<lb/> und mit Hilfe der neugewonnenen Einsichten die Gefahren schwerer opera<lb break="no"/>tiver Eingriffe ganz außerordentlich herabgesetzt. Alle diese Fortschritte<lb/> und Entdeckungen betrafen das Leibliche des Menschen, und so kam es in<lb break="no"/>folge einer nicht richtigen, aber leicht begreiflichen Urteilsrichtung dazu, daß<lb/> die Ärzte ihr Interesse auf das Körperliche einschränkten und die Be<lb break="no"/>schäftigung mit dem Seelischen den von ihnen mißachteten Philosophen gerne<lb/> überließen.<lb break="paragraph"/></p> <p>Zwar hatte die moderne Medizin genug Anlaß, den unleugbar vor<lb break="no"/>handenen Zusammenhang zwischen Körperlichem und Seelischem zu studieren,<lb/> aber dann versäumte sie niemals, das Seelische als bestimmt durch das<lb/> Körperliche und abhängig von diesem darzustellen. So wurde hervor<lb break="no"/>gehoben, daß die geistigen Leistungen an das Vorhandensein eines normal<lb/> entwickelten und hinreichend ernährten Gehirns gebunden sind und bei jeder<lb/> Erkrankung dieses Organs in Störungen verfallen; daß die Einführung<lb/> von Giftstoffen in den Kreislauf gewisse Zustände von Geisteskrankheit zu<lb/> erzeugen gestattet, oder im Kleinen, daß die Träume des Schlafenden je<lb/> nach den Reizen verändert werden, welche man zum Zwecke des Versuches<lb/> auf ihn einwirken läßt.<lb break="paragraph"/></p> <p>Das Verhältnis zwischen Leiblichem und Seelischem (beim Tier wie<lb/> beim Menschen) ist eines der Wechselwirkung, aber die andere Seite dieses<lb/> Verhältnisses, die Wirkung des Seelischen auf den Körper, fand in früheren<lb/> Zeiten wenig Gnade vor den Augen der Ärzte. Sie schienen es zu scheuen,<lb/> dem Seelenleben eine gewisse Selbständigkeit einzuräumen, als ob sie da<lb break="no"/>mit den Boden der Wissenschaftlichkeit verlassen würden.<lb break="paragraph"/></p> <p>Diese einseitige Richtung der Medizin auf das Körperliche hat in den<lb break="paragraph"/><pb n="3" xml:id="page__f0ce8172-1e6e-47e9-b372-6ea599184f61"/><fw type="pageNum">370</fw>letzten anderthalb Jahrzehnten allmählich eine Änderung erfahren, welche<lb/> unmittelbar von der ärztlichen Tätigkeit ausgegangen ist. Es gibt nämlich<lb/> eine große Anzahl von leichter und schwerer Kranken, welche durch ihre<lb/> Störungen und Klagen große Anforderungen an die Kunst der Ärzte<lb/> stellen, bei denen aber sichtbare und greifbare Zeichen des Krankheits<lb break="no"/>prozesses weder im Leben noch nach dem Tode aufzufinden sind, trotz aller<lb/> Fortschritte in den Untersuchungsmethoden der wissenschaftlichen Medizin.<lb/> Eine Gruppe dieser Kranken wird durch die Reichhaltigkeit und Viel<lb break="no"/>gestaltigkeit des Krankheitsbildes auffällig; sie können nicht geistig arbeiten<lb/> infolge von Kopfschmerz oder von Versagen der Aufmerksamkeit, ihre Augen<lb/> schmerzen beim Lesen, ihre Beine ermüden beim Gehen, sind dumpf schmerz<lb break="no"/>haft oder eingeschlafen, ihre Verdauung ist gestört durch peinliche Empfin<lb break="no"/>dungen, Aufstoßen oder Magenkrämpfe, der Stuhlgang erfolgt nicht ohne<lb/> Nachhilfe, der Schlaf ist aufgehoben u. s. w. Sie können alle diese Leiden<lb/> gleichzeitig haben oder nacheinander oder nur eine Auswahl derselben; es<lb/> ist offenbar in allen Fällen dieselbe Krankheit. Dabei sind die Zeichen der<lb/> Krankheit oftmals veränderlicher Art, sie lösen einander ab und ersetzen ein<lb break="no"/>ander; derselbe Kranke, der bisher leistungsunfähig war wegen Kopfschmerzen,<lb/> aber eine ziemlich gute Verdauung hatte, kann am nächsten Tag sich eines<lb/> freien Kopfes erfreuen, aber von da an die meisten Speisen schlecht ver<lb break="no"/>tragen. Auch verlassen ihn seine Leiden plötzlich bei einer eingreifenden<lb/> Veränderung seiner Lebensverhältnisse; auf einer Reise kann er sich ganz<lb/> wohl fühlen und die verschiedenartigste Kost ohne Schaden genießen, nach<lb/> Hause zurückgekehrt muß er sich vielleicht wieder auf Sauermilch ein<lb break="no"/>schränken. Bei einigen dieser Kranken kann die Störung — ein Schmerz<lb/> oder eine lähmungsartige Schwäche — sogar plötzlich die Körperseite<lb/> wechseln, von rechts auf das entsprechende Körpergebiet links überspringen.<lb/> Bei allen aber kann man die Beobachtung machen, daß die Leidenszeichen<lb/> sehr deutlich unter dem Einfluß von Aufregungen, Gemütsbewegungen,<lb/> Sorgen u. s. w. stehen, sowie daß sie verschwinden, der vollen Gesundheit<lb/> Platz machen können, ohne selbst nach langem Bestand Spuren zu hinter<lb break="no"/>lassen.<lb break="paragraph"/></p>
@@ -170,7 +205,7 @@
               <p>Der Suggestion ist also nicht von vornherein der Sieg über die<lb/> Krankheit sicher, wenn einmal die Hypnose und selbst eine tiefe Hypnose<lb/> gelungen ist. Es bedarf dann noch immer eines Kampfes, und der Aus<lb break="no"/>gang ist sehr häufig ungewiß. Gegen ernstliche Störungen seelischer Her<lb break="no"/>kunft richtet man daher mit einmaliger Hypnose nichts aus. Mit der<lb/> Wiederholung der Hypnose fällt aber der Eindruck des Wunders, auf das<lb/> sich der Kranke vielleicht gefaßt gemacht hat. Man kann es dann erzielen,<lb/> daß bei wiederholten Hypnosen die anfänglich mangelnde Beeinflussung der<lb/> Krankheit immer deutlicher wird, bis sich ein befriedigender Erfolg herstellt.<lb/> Aber eine solche hypnotische Behandlung kann ebenso mühselig und zeit<lb break="no"/>raubend verlaufen wie nur irgend eine andere.<lb break="paragraph"/></p> <p>Eine andere Art, wie sich die relative Schwäche der Suggestion im<lb/> Vergleich mit dem zu bekämpfenden Leiden verrät, ist die, daß die Suggestion<lb/> zwar die Aufhebung der Krankheitserscheinungen zu stande bringt, aber nur<lb/> für kurze Zeit. Nach Ablauf dieser Zeit sind die Leidenszeichen wieder<lb/> da und müssen durch neuerliche Hypnose mit Suggestion wieder vertrieben<lb/> werden. Wiederholt sich dieser Ablauf oft genug, so erschöpft er gewöhnlich<lb/> die Geduld des Kranken wie die des Arztes und hat das Aufgeben der<lb/> hypnotischen Behandlung zur Folge. Auch sind dies die Fälle, in denen<lb/> sich bei dem Kranken die Abhängigkeit vom Arzt und eine Art Sucht nach<lb/> der Hypnose herzustellen pflegen.<lb break="paragraph"/></p> <p>Es ist gut, wenn der Kranke diese Mängel der hypnotischen Heilmethode<lb/> und die Möglichkeiten der Enttäuschung bei ihrer Anwendung kennt. Die<lb/> Heilkraft der hypnotischen Suggestion ist ja etwas Tatsächliches, sie bedarf der<lb/> übertreibenden Anpreisung nicht. Anderseits ist es leicht verständlich, wenn<lb/> die Ärzte, denen die hypnotische Seelenbehandlung soviel mehr versprochen<lb/> hatte, als sie halten konnte, nicht müde werden, nach anderen Verfahren<lb/> zu suchen, welche eine eingreifendere oder minder unberechenbare Einwirkung<lb/> auf die Seele des Kranken ermöglichen. Man darf sich der sicheren Er<lb break="no"/>wartung hingeben, daß die zielbewußte moderne Seelenbehandlung, welche<lb/> ja eine ganz junge Wiederbelebung alter Heilmethoden darstellt, den Ärzten<lb/> noch weit kräftigere Waffen zum Kampfe gegen die Krankheit in die Hände<lb/> geben wird. Eine tiefere Einsicht in die Vorgänge des Seelenlebens, deren<lb/> erste Anfänge gerade auf den hypnotischen Erfahrungen ruhen, wird Mittel<lb/> und Wege dazu weisen.<lb break="paragraph"/></p>
          
             <pb n="18" xml:id="page__14b2c78f-8e16-4e1b-98d3-78057a002813"/>
-            <p class="h1">Die Gesundheit<lb break="paragraph"/></p> <p rendition="#level_2">ihre Erhaltung, ihre Störungen<lb/> ihre Wiederherstellung</p><p>Ein Hausbuch, unter Mitwirkung von [...]<lb/> herausgegeben von<lb break="paragraph"/></p> <p>Professor Dr. R. Koßmann, Berlin und Privatdocent Dr. Jul. Weiß, Wien<lb break="paragraph"/></p> <p>I. Band<lb break="paragraph"/></p> <p>Mit 158 Abbildungen im Text, 6 mehrfarbigen und 4 einfarbigen Tafeln<lb break="paragraph"/></p> <p>Union Deutsche Verlagsgesellschaft<lb/> Stuttgart, Berlin, Leipzig<lb break="paragraph"/></p>
+            <p rendition="h1"><title>Die Gesundheit<lb break="paragraph"/></title></p> <p rendition="#level_2">ihre Erhaltung, ihre Störungen<lb/> ihre Wiederherstellung</p><p>Ein Hausbuch, unter Mitwirkung von [...]<lb/> herausgegeben von<lb break="paragraph"/></p> <p>Professor Dr. R. Koßmann, Berlin und Privatdocent Dr. Jul. Weiß, Wien<lb break="paragraph"/></p> <p>I. Band<lb break="paragraph"/></p> <p>Mit 158 Abbildungen im Text, 6 mehrfarbigen und 4 einfarbigen Tafeln<lb break="paragraph"/></p> <p>Union Deutsche Verlagsgesellschaft<lb/> Stuttgart, Berlin, Leipzig<lb break="paragraph"/></p>
          
       </div></body>
    </text>

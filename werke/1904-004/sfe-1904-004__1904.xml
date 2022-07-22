@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__26fab394-f61b-4555-9ce5-1068cf57ab19">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__cec83598-d5ab-4b32-ad8b-78eac731083c">
-                  Neue Freie Presse. Morgenblatt, 41, 1904,  Nr. 14168
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
-                  Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,93 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
+            <title type="work">Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__cec83598-d5ab-4b32-ad8b-78eac731083c">
-               <title type="main">Neue Freie Presse</title>
-               <title type="sub">Morgenblatt</title>
-               
-               <pubPlace>Wien</pubPlace>
-               <date when="1904-02-04">1904</date>
-               <biblScope>Nr. 14168</biblScope>
-               <publisher key="taxonomy_term/publishers/f2810f30-7e54-4dd2-b3d3-e160d32fff84">Oesterr. Journal A.G. (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__26fab394-f61b-4555-9ce5-1068cf57ab19">
+                  <title type="manifestation">Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1904-004/1904</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/rezension-von-baumgarten-alfred-neurasthenie/druckversion</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
+                     <bibl>
+                        <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1904-02-04">1904-02-04</date>
+                        <name>Text in Periodikum</name>
+                        <bibl xml:id="bibl__cec83598-d5ab-4b32-ad8b-78eac731083c">
+                           <title type="main">Neue Freie Presse</title>
+                           <title type="sub">Morgenblatt</title>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1904-02-04">1904-02-04</date>
+                           <biblScope unit="volume">Nr. 14168</biblScope>
+                           <biblScope unit="page" from="22">22-</biblScope>
+                           <editor ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/cec83598-d5ab-4b32-ad8b-78eac731083c</idno>
+                           <name>Periodikum (Heft)</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>

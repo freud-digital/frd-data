@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__1c64feeb-dee5-4442-8f6b-68173a8a20d5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Über Psychotherapie  (1905-001/1920)</title>
-            <title type="manifestation_short">SKSN 1 (3. Auflage)</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__5a608c6f-9ffd-49ef-8d69-2b5cf88adec1">
-                  Freud, Sigmund (Hg.): Sammlung kleiner Schriften zur Neurosenlehre. [Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]. 1. Folge, 3. unveränderte Auflage,  Leipzig, Wien:  Franz Deuticke 1920
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                  Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Über Psychotherapie  (1905-001/1920)</title>
+            <title type="short">SKSN 1 (3. Auflage)</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,95 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__5a608c6f-9ffd-49ef-8d69-2b5cf88adec1">
-               <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-               <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-               <title type="short">SKSN 1 (3. Auflage)</title>
-               <pubPlace>Wien</pubPlace>
-               <date when="1920-01-01">1920</date>
-               <biblScope>1. Folge</biblScope>
-               <publisher key="taxonomy_term/publishers/448703a7-1d5e-4ba6-891f-dc789893f388">Franz Deuticke (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__1c64feeb-dee5-4442-8f6b-68173a8a20d5">
+                  <title type="manifestation">Über Psychotherapie </title>
+                  <title type="short">SKSN 1 (3. Auflage)</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-001/1920</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-0</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1c64feeb-dee5-4442-8f6b-68173a8a20d5</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Über Psychotherapie  (1905-001/1920)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__1c64feeb-dee5-4442-8f6b-68173a8a20d5</idno>
+                     <bibl>
+                        <title>Über Psychotherapie </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1920-01-01">1920-01-01</date>
+                        <name>Text in Werkausgabe</name>
+                        <bibl xml:id="bibl__5a608c6f-9ffd-49ef-8d69-2b5cf88adec1">
+                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                           <title type="short">SKSN 1 (3. Auflage)</title>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-01-01">1920-01-01</date>
+                           <biblScope unit="volume">1. Folge</biblScope>
+                           <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                           <biblScope unit="page" to="212">212</biblScope>
+                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/5a608c6f-9ffd-49ef-8d69-2b5cf88adec1</idno>
+                           <name>Werkausgabe</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>

@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__37bd5e7f-5f49-4df4-8356-4c026c0e0ef5">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Psychische Behandlung (Seelenbehandlung)  (1905-002/1937)</title>
-            <title type="manifestation_short">Wiederabdruck in: Zeitschrift für psychoanalytische Pädagogik</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__3f408bc9-8838-4664-ada0-e3466bdb8963">
-                  Zeitschrift für psychoanalytische Pädagogik, 11, 1937,  2
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
-                  Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Psychische Behandlung (Seelenbehandlung)  (1905-002/1937)</title>
+            <title type="short">Wiederabdruck in: Zeitschrift für psychoanalytische Pädagogik</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,55 +62,100 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
+            <title type="work">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__3f408bc9-8838-4664-ada0-e3466bdb8963">
-               <title type="main">Zeitschrift für psychoanalytische Pädagogik</title>
-               
-               <title type="short">Zeitschrift für psychoanalytische Pädagogik</title>
-               <pubPlace>Wien</pubPlace>
-               <date when="1937-01-01">1937</date>
-               <biblScope>2</biblScope>
-               <publisher key="taxonomy_term/publishers/a3e83b16-58ed-45cd-870b-60f487bdb0a7">Internationaler Psychoanalytischer Verlag (field_publisher)</publisher>
-               
-               <editor key="taxonomy_term/personen/857715a3-f621-438b-958e-2c0fc876275d">Zulliger, Hans (field_herausgeber)</editor>
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__37bd5e7f-5f49-4df4-8356-4c026c0e0ef5">
+                  <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
+                  <title type="short">Wiederabdruck in: Zeitschrift für psychoanalytische Pädagogik</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-002/1937</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion-0</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/37bd5e7f-5f49-4df4-8356-4c026c0e0ef5</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Psychische Behandlung (Seelenbehandlung)  (1905-002/1937)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__37bd5e7f-5f49-4df4-8356-4c026c0e0ef5</idno>
+                     <bibl>
+                        <title>Psychische Behandlung (Seelenbehandlung) </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1937-01-01">1937-01-01</date>
+                        <name>Text in Periodikum</name>
+                        <bibl xml:id="bibl__3f408bc9-8838-4664-ada0-e3466bdb8963">
+                           <title type="main">Zeitschrift für psychoanalytische Pädagogik</title>
+                           <title type="short">Zeitschrift für psychoanalytische Pädagogik</title>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1937-01-01">1937-01-01</date>
+                           <biblScope unit="volume">2</biblScope>
+                           <biblScope unit="year">11</biblScope>
+                           <biblScope unit="page" to="147">147</biblScope>
+                           <editor ref="#p__857715a3-f621-438b-958e-2c0fc876275d">Zulliger, Hans</editor>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/3f408bc9-8838-4664-ada0-e3466bdb8963</idno>
+                           <name>Periodikum (Heft)</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
 
             <pb n="1" xml:id="page__1000d5b0-7205-499f-8b68-d262286177f5"/>
-            <fw type="pageNum">[133]</fw> <p class="h1">Psychische Behandlung (Seelenbehandlung)<lb break="paragraph"/></p> <p rendition="#level_2">Von <hi rendition="#smallcaps">Sigm. Freud</hi>, Wien</p><p><hi rendition="#em">Aus dem im Jahre 1905 erschienenen Sammelwerk „Die Gesundheit, ihre Erhaltung, ihre Störungen, ihre Wiederherstellung“, herausgegeben von Prof. Dr. R. Koßmann in Berlin und Priv. Doz. Dr. Jul. Weiß in Wien, bringen wir mit Erlaubnis des Verlags Union Deutsche Verlagsgesellschaft, Stuttgart, folgenden Beitrag von Prof. Freud; er ist in den bisher erschienenen 12 Bänden der „Gesammelten Schriften“ noch nicht aufgenommen.</hi><lb break="paragraph"/></p> <p>Psyche ist ein griechisches Wort und lautet in deutscher Übersetzung<lb/> <hi rendition="#smallcaps">Seele</hi>. Psychische Behandlung heißt demnach <hi rendition="#smallcaps">Seelenbehandlung</hi>.<lb/> Man könnte also meinen, daß darunter verstanden wird: Behandlung der<lb/> krankhaften Erscheinungen des Seelenlebens. Dies ist aber nicht die Bedeu<lb break="no"/>tung dieses Wortes. Psychische Behandlung will vielmehr besagen: Behand<lb break="no"/>lung von der Seele aus, Behandlung — seelischer oder körperlicher Störungen<lb/> — mit Mitteln, welche zunächst und unmittelbar auf das Seelische des Men<lb break="no"/>schen einwirken.<lb break="paragraph"/></p> <p>Ein solches Mittel ist vor allem das Wort, und Worte sind auch das<lb/> wesentliche Handwerkszeug der Seelenbehandlung. Der Laie wird es wohl<lb/> schwer begreiflich finden, daß krankhafte Störungen des Leibes und der<lb/> Seele durch „bloße“ Worte des Arztes beseitigt werden sollen. Er wird meinen,<lb/> man mute ihm zu, an Zauberei zu glauben. Er hat damit nicht so unrecht;<lb/> die Worte unserer täglichen Reden sind nichts anderes als abgeblaßter Zauber.<lb/> Es wird aber notwendig sein, einen weiteren Umweg einzuschlagen, um ver<lb break="no"/>ständlich zu machen, wie die Wissenschaft es anstellt, dem Worte wenig<lb break="no"/>stens einen Teil seiner früheren Zauberkraft wiederzugeben.<lb break="paragraph"/></p> <p>Auch die wissenschaftlich geschulten Ärzte haben den Wert der Seelen<lb break="no"/>behandlung erst in neuerer Zeit schätzen gelernt. Dies erklärt sich leicht,<lb/> wenn man an den Entwicklungsgang der Medizin im letzten Halbjahrhundert<lb/> denkt. Nach einer ziemlich unfruchtbaren Zeit der Abhängigkeit von der<lb/> sogenannten Naturphilosophie hat die Medizin unter dem glücklichen Einfluß<lb/> der Naturwissenschaften die größten Fortschritte als Wissenschaft wie als<lb/> Kunst gemacht, den Aufbau des Organismus aus mikroskopisch kleinen Ein<lb break="no"/>heiten (den Zellen) ergründet, die einzelnen Lebensverrichtungen (Funk<lb break="no"/>tionen) physikalisch und chemisch verstehen gelernt, die sichtbaren und<lb/> greifbaren Veränderungen der Körperteile, welche Folgen der verschiedenen<lb/> Krankheitsprozesse sind, unterschieden, anderseits auch die Zeichen gefunden,<lb/> durch welche sich tiefliegende Krankheitsvorgänge noch an Lebenden ver<lb break="no"/>raten, hat ferner eine große Anzahl der belebten Krankheitserreger entdeckt<lb/> und mit Hilfe der neugewonnenen Einsichten die Gefahren schwerer operativer<lb/> Eingriffe ganz außerordentlich herabgesetzt. Alle diese Fortschritte und Ent<lb break="no"/>deckungen betrafen das Leibliche des Menschen, und so kam es infolge einer<lb/> nicht richtigen, aber leicht begreiflichen Urteilsrichtung dazu, daß die Ärzte<lb break="paragraph"/><pb n="2" xml:id="page__7141f5a5-e221-4072-a5d5-fdfe75db412f"/><fw type="pageNum">134</fw>ihr Interesse auf das Körperliche einschränkten und die Beschäftigung mit<lb/> dem Seelischen den von ihnen mißachteten Philosophen gerne überließen.<lb break="paragraph"/></p>
+            <fw type="pageNum">[133]</fw> <p rendition="h1"><title>Psychische Behandlung (Seelenbehandlung)<lb break="paragraph"/></title></p> <p rendition="#level_2">Von <hi rendition="#smallcaps">Sigm. Freud</hi>, Wien</p><p><hi rendition="#em">Aus dem im Jahre 1905 erschienenen Sammelwerk „Die Gesundheit, ihre Erhaltung, ihre Störungen, ihre Wiederherstellung“, herausgegeben von Prof. Dr. R. Koßmann in Berlin und Priv. Doz. Dr. Jul. Weiß in Wien, bringen wir mit Erlaubnis des Verlags Union Deutsche Verlagsgesellschaft, Stuttgart, folgenden Beitrag von Prof. Freud; er ist in den bisher erschienenen 12 Bänden der „Gesammelten Schriften“ noch nicht aufgenommen.</hi><lb break="paragraph"/></p> <p>Psyche ist ein griechisches Wort und lautet in deutscher Übersetzung<lb/> <hi rendition="#smallcaps">Seele</hi>. Psychische Behandlung heißt demnach <hi rendition="#smallcaps">Seelenbehandlung</hi>.<lb/> Man könnte also meinen, daß darunter verstanden wird: Behandlung der<lb/> krankhaften Erscheinungen des Seelenlebens. Dies ist aber nicht die Bedeu<lb break="no"/>tung dieses Wortes. Psychische Behandlung will vielmehr besagen: Behand<lb break="no"/>lung von der Seele aus, Behandlung — seelischer oder körperlicher Störungen<lb/> — mit Mitteln, welche zunächst und unmittelbar auf das Seelische des Men<lb break="no"/>schen einwirken.<lb break="paragraph"/></p> <p>Ein solches Mittel ist vor allem das Wort, und Worte sind auch das<lb/> wesentliche Handwerkszeug der Seelenbehandlung. Der Laie wird es wohl<lb/> schwer begreiflich finden, daß krankhafte Störungen des Leibes und der<lb/> Seele durch „bloße“ Worte des Arztes beseitigt werden sollen. Er wird meinen,<lb/> man mute ihm zu, an Zauberei zu glauben. Er hat damit nicht so unrecht;<lb/> die Worte unserer täglichen Reden sind nichts anderes als abgeblaßter Zauber.<lb/> Es wird aber notwendig sein, einen weiteren Umweg einzuschlagen, um ver<lb break="no"/>ständlich zu machen, wie die Wissenschaft es anstellt, dem Worte wenig<lb break="no"/>stens einen Teil seiner früheren Zauberkraft wiederzugeben.<lb break="paragraph"/></p> <p>Auch die wissenschaftlich geschulten Ärzte haben den Wert der Seelen<lb break="no"/>behandlung erst in neuerer Zeit schätzen gelernt. Dies erklärt sich leicht,<lb/> wenn man an den Entwicklungsgang der Medizin im letzten Halbjahrhundert<lb/> denkt. Nach einer ziemlich unfruchtbaren Zeit der Abhängigkeit von der<lb/> sogenannten Naturphilosophie hat die Medizin unter dem glücklichen Einfluß<lb/> der Naturwissenschaften die größten Fortschritte als Wissenschaft wie als<lb/> Kunst gemacht, den Aufbau des Organismus aus mikroskopisch kleinen Ein<lb break="no"/>heiten (den Zellen) ergründet, die einzelnen Lebensverrichtungen (Funk<lb break="no"/>tionen) physikalisch und chemisch verstehen gelernt, die sichtbaren und<lb/> greifbaren Veränderungen der Körperteile, welche Folgen der verschiedenen<lb/> Krankheitsprozesse sind, unterschieden, anderseits auch die Zeichen gefunden,<lb/> durch welche sich tiefliegende Krankheitsvorgänge noch an Lebenden ver<lb break="no"/>raten, hat ferner eine große Anzahl der belebten Krankheitserreger entdeckt<lb/> und mit Hilfe der neugewonnenen Einsichten die Gefahren schwerer operativer<lb/> Eingriffe ganz außerordentlich herabgesetzt. Alle diese Fortschritte und Ent<lb break="no"/>deckungen betrafen das Leibliche des Menschen, und so kam es infolge einer<lb/> nicht richtigen, aber leicht begreiflichen Urteilsrichtung dazu, daß die Ärzte<lb break="paragraph"/><pb n="2" xml:id="page__7141f5a5-e221-4072-a5d5-fdfe75db412f"/><fw type="pageNum">134</fw>ihr Interesse auf das Körperliche einschränkten und die Beschäftigung mit<lb/> dem Seelischen den von ihnen mißachteten Philosophen gerne überließen.<lb break="paragraph"/></p>
          
             
               <p>Zwar hatte die moderne Medizin genug Anlaß, den unleugbar vorhandenen<lb/> Zusammenhang zwischen Körperlichem und Seelischem zu studieren, aber<lb/> dann versäumte sie niemals, das Seelische als bestimmt durch das Körper<lb break="no"/>liche und abhängig von diesem darzustellen. So wurde hervorgehoben, daß<lb/> die geistigen Leistungen an das Vorhandensein eines normal entwickelten<lb/> und hinreichend ernährten Gehirns gebunden sind und bei jeder Erkrankung<lb/> dieses Organs in Störungen verfallen; daß die Einführung von Giftstoffen in<lb/> den Kreislauf gewisse Zustände von Geisteskrankheit zu erzeugen gestattet,<lb/> oder im Kleinen, daß die Träume des Schlafenden je nach den Reizen ver<lb break="no"/>ändert werden, welche man zum Zwecke des Versuches auf ihn einwirken<lb/> läßt.<lb break="paragraph"/></p> <p>Das Verhältnis zwischen Leiblichem und Seelischem (beim Tier wie<lb/> beim Menschen) ist eines der Wechselwirkung, aber die andere Seite dieses<lb/> Verhältnisses, die Wirkung des Seelischen auf den Körper, fand in früheren<lb/> Zeiten wenig Gnade vor den Augen der Ärzte. Sie schienen es zu scheuen,<lb/> dem Seelenleben eine gewisse Selbständigkeit einzuräumen, als ob sie damit<lb/> den Boden der Wissenschaftlichkeit verlassen würden.<lb break="paragraph"/></p> <p>Diese einseitige Richtung der Medizin auf das Körperliche hat in den<lb/> letzten anderthalb Jahrzehnten allmählich eine Änderung erfahren, welche<lb/> unmittelbar von der ärztlichen Tätigkeit ausgegangen ist. Es gibt nämlich<lb/> eine große Anzahl von leichter und schwerer Kranken, welche durch ihre<lb/> Störungen und Klagen große Anforderungen an die Kunst der Ärzte stellen,<lb/> bei denen aber sichtbare und greifbare Zeichen des Krankheitsprozesses weder<lb/> im Leben noch nach dem Tode aufzufinden sind, trotz aller Fortschritte in<lb/> den Untersuchungsmethoden der wissenschaftlichen Medizin. Eine Gruppe<lb/> dieser Kranken wird durch die Reichhaltigkeit und Vielgestaltigkeit des<lb/> Krankheitsbildes auffällig; sie können nicht geistig arbeiten infolge von<lb/> Kopfschmerz oder von Versagen der Aufmerksamkeit, ihre Augen schmerzen<lb/> beim Lesen, ihre Beine ermüden beim Gehen, sind dumpf schmerzhaft oder<lb/> eingeschlafen, ihre Verdauung ist gestört durch peinliche Empfindungen,<lb/> Aufstoßen oder Magenkrämpfe, der Stuhlgang erfolgt nicht ohne Nachhilfe,<lb/> der Schlaf ist aufgehoben usw. Sie können alle diese Leiden gleichzeitig haben<lb/> oder nacheinander oder nur eine Auswahl derselben; es ist offenbar in allen<lb/> Fällen dieselbe Krankheit. Dabei sind die Zeichen der Krankheit oftmals<lb/> veränderlicher Art, sie lösen einander ab und ersetzen einander; derselbe<lb/> Kranke, der bisher leistungsunfähig war wegen Kopfschmerzen, aber eine<lb/> ziemlich gute Verdauung hatte, kann am nächsten Tag sich eines freien<lb/> Kopfes erfreuen, aber von da an die meisten Speisen schlecht vertragen.<lb/> Auch verlassen ihn seine Leiden plötzlich bei einer eingreifenden Veränderung<lb/> seiner Lebensverhältnisse; auf einer Reise kann er sich ganz wohl fühlen<lb/> und die verschiedenartigste Kost ohne Schaden genießen, nach Hause zurück<lb break="no"/>gekehrt muß er sich vielleicht wieder auf Sauermilch einschränken. Bei<lb/> einigen dieser Kranken kann die Störung – ein Schmerz oder eine lähmungs<lb break="no"/>artige Schwäche – sogar plötzlich die Körperseite wechseln, von rechts auf<lb break="paragraph"/><pb n="3" xml:id="page__f60a2365-ff8b-491f-ba38-c3bf92dccd9d"/><fw type="pageNum">135</fw>das entsprechende Körpergebiet links überspringen. Bei allen aber kann<lb/> man die Beobachtung machen, daß die Leidenszeichen sehr deutlich unter dem<lb/> Einfluß von Aufregungen, Gemütsbewegungen, Sorgen usw. stehen, sowie<lb/> daß sie verschwinden, der vollen Gesundheit Platz machen können, ohne<lb/> selbst nach langem Bestand Spuren zu hinterlassen.<lb break="paragraph"/></p>
@@ -164,10 +200,10 @@
               <p>Eine andere Art, wie sich die relative Schwäche der Suggestion im Ver<lb break="no"/>gleich mit dem zu bekämpfenden Leiden verrät, ist die, daß die Suggestion<lb/> zwar die Aufhebung der Krankheitserscheinungen zustande bringt, aber nur<lb/> für kurze Zeit. Nach Ablauf dieser Zeit sind die Leidenszeichen wieder da und<lb/> müssen durch neuerliche Hypnose mit Suggestion wieder vertrieben werden.<lb/> Wiederholt sich dieser Ablauf oft genug, so erschöpft er gewöhnlich die<lb/> Geduld des Kranken wie die des Arztes und hat das Aufgeben der hypnoti<lb break="no"/>schen Behandlung zur Folge. Auch sind dies die Fälle, in denen sich bei dem<lb/> Kranken die Abhängigkeit vom Arzt und eine Art Sucht nach der Hypnose<lb/> herzustellen pflegen.<lb break="paragraph"/></p> <p>Es ist gut, wenn der Kranke diese Mängel der hypnotischen Heilmethode<lb/> und die Möglichkeiten der Enttäuschung bei ihrer Anwendung kennt. Die<lb/> Heilkraft der hypnotischen Suggestion ist ja etwas Tatsächliches, sie bedarf<lb/> der übertreibenden Anpreisung nicht. Anderseits ist es leicht verständlich,<lb/> wenn die Ärzte, denen die hypnotische Seelenbehandlung soviel mehr ver<lb break="no"/>sprochen hatte, als sie halten konnte, nicht müde werden, nach anderen Ver<lb break="no"/>fahren zu suchen, welche eine eingreifendere oder minder unberechenbare<lb/> Einwirkung auf die Seele des Kranken ermöglichen. Man darf sich der<lb/> sicheren Erwartung hingeben, daß die zielbewußte moderne Seelenbehandlung,<lb/> welche ja eine ganz junge Wiederbelebung alter Heilmethoden darstellt, den<lb/> Ärzten noch weit kräftigere Waffen zum Kampfe gegen die Krankheit in die<lb/> Hände geben wird. Eine tiefere Einsicht in die Vorgänge des Seelenlebens,<lb/> deren erste Anfänge gerade auf den hypnotischen Erfahrungen ruhen, wird<lb/> Mittel und Wege dazu weisen.<lb break="paragraph"/></p>
          
             <pb n="16" xml:id="page__0d6bf793-78e5-4d9d-9930-1c284c8cf266"/>
-            <p>XI. Jahrg. 1937 Heft 2<lb break="paragraph"/></p> <p class="h1">Zeitschrift für<lb/> psychoanalytische<lb/> Pädagogik<lb break="paragraph"/></p>
+            <p>XI. Jahrg. 1937 Heft 2<lb break="paragraph"/></p> <p rendition="h1"><title>Zeitschrift für<lb/> psychoanalytische<lb/> Pädagogik<lb break="paragraph"/></title></p>
          
             <pb n="17" xml:id="page__dd3d7425-ccbd-4bae-9b32-91971292fcfb"/>
-            <p class="h1">BÜCHER DES WERDENDEN<lb break="paragraph"/></p> <p>Herausgegeben von Paul Federn, Wien, und Heinrich Meng, Basel<lb break="paragraph"/></p> <p rendition="#level_2">BAND IX</p><p>Soeben erschienen in 2. erweiterter Auflage<lb break="paragraph"/></p> <p class="h1">STRAFEN UND ERZIEHEN<lb break="paragraph"/></p> <p>von<lb/> Dr. med. Heinrich Meng<lb break="paragraph"/></p> <p>Die Presse urteilt:<lb break="paragraph"/></p> <p>Ein außerordentlich gehaltvolles und anregendes Buch, dem<lb/> recht weite Verbreitung zu wünschen ist.<lb/> „Eltern-Zeitschrift, Zürich“.<lb break="paragraph"/></p> <p>Eine Darstellung der Strafe in der Erziehung vom psycho<lb break="no"/>analytischen Gesichtspunkt aus, eine klare Arbeit in allgemein<lb break="no"/>verständlicher Sprache...<lb/> „Zeitschrift für Kinderforschung“.<lb break="paragraph"/></p> <p>Den Forschungen des Verfassers durch sein Buch zu folgen,<lb/> ist für jedermann lehrreich. Mit wachsender Spannung liest<lb/> sich Kapitel um Kapitel...<lb/> „Der Bund, Bern“.<lb break="paragraph"/></p> <p>Wer Meng aus seinen Basler Vorlesungen kennt, für den<lb/> bedarf das vorliegende reichhaltige und übersichtliche Buch<lb/> keiner besonderen Empfehlung mehr.<lb/> „Basler Nachrichten“.<lb break="paragraph"/></p> <p>Das Buch des Lektors für Psychohygiene an der Basler Uni<lb break="no"/>versität, erscheint soeben in zweiter Auflage, erweitert durch<lb/> ein Kapitel, „Forderung und Ratschlag“... Heinrich Meng<lb/> sieht diesen philosophischen Hintergrund der Frage nach Sinn<lb/> und Maß der Strafe überhaupt sehr klar... Der Verfasser<lb/> bietet eine durch Klarheit der Darstellung und reife Abgewo<lb break="no"/>genheit des Urteils ausgezeichnete Übersicht der Geschichte<lb/> und Psychologie des Strafens überhaupt und der erzieherischen<lb/> Strafe insbesonders.<lb/> „National-Zeitung, Basel“.<lb break="paragraph"/></p> <p>Für die Eltern, Lehrer, Führer, scheinen mir seine Darlegungen<lb/> über Erziehen und Strafen, Autorität und Verantwortung be<lb break="no"/>sonders wichtig zu sein. Das Buch beruht auf jahrelangen,<lb/> eingehenden Beobachtungen und zeugt von ebenso liebevoller<lb/> wie scharfsinniger Vertiefung in den Stoff.<lb/> „Die Umschau, Frankfurt“.<lb break="paragraph"/></p> <p rendition="#level_2">VERLAG HANS HUBER IN BERN</p><p>Eigentümer, Herausgeber und Verleger: Internationaler Psychoanalytischer Verlag, Gesellschaft m. b. H., Wien IX, Berggasse 7. — Verantwortlicher Redakteur: Dr. Wilhelm Hoffer, Wien I, Dorotheerg. 7. Druck von Emil M. Engel, Druckerei und Verlagsanstalt, Wien I, In der Börse.<lb/> Printed in Austria<lb break="paragraph"/></p>
+            <p rendition="h1"><title>BÜCHER DES WERDENDEN<lb break="paragraph"/></title></p> <p>Herausgegeben von Paul Federn, Wien, und Heinrich Meng, Basel<lb break="paragraph"/></p> <p rendition="#level_2">BAND IX</p><p>Soeben erschienen in 2. erweiterter Auflage<lb break="paragraph"/></p> <p rendition="h1"><title>STRAFEN UND ERZIEHEN<lb break="paragraph"/></title></p> <p>von<lb/> Dr. med. Heinrich Meng<lb break="paragraph"/></p> <p>Die Presse urteilt:<lb break="paragraph"/></p> <p>Ein außerordentlich gehaltvolles und anregendes Buch, dem<lb/> recht weite Verbreitung zu wünschen ist.<lb/> „Eltern-Zeitschrift, Zürich“.<lb break="paragraph"/></p> <p>Eine Darstellung der Strafe in der Erziehung vom psycho<lb break="no"/>analytischen Gesichtspunkt aus, eine klare Arbeit in allgemein<lb break="no"/>verständlicher Sprache...<lb/> „Zeitschrift für Kinderforschung“.<lb break="paragraph"/></p> <p>Den Forschungen des Verfassers durch sein Buch zu folgen,<lb/> ist für jedermann lehrreich. Mit wachsender Spannung liest<lb/> sich Kapitel um Kapitel...<lb/> „Der Bund, Bern“.<lb break="paragraph"/></p> <p>Wer Meng aus seinen Basler Vorlesungen kennt, für den<lb/> bedarf das vorliegende reichhaltige und übersichtliche Buch<lb/> keiner besonderen Empfehlung mehr.<lb/> „Basler Nachrichten“.<lb break="paragraph"/></p> <p>Das Buch des Lektors für Psychohygiene an der Basler Uni<lb break="no"/>versität, erscheint soeben in zweiter Auflage, erweitert durch<lb/> ein Kapitel, „Forderung und Ratschlag“... Heinrich Meng<lb/> sieht diesen philosophischen Hintergrund der Frage nach Sinn<lb/> und Maß der Strafe überhaupt sehr klar... Der Verfasser<lb/> bietet eine durch Klarheit der Darstellung und reife Abgewo<lb break="no"/>genheit des Urteils ausgezeichnete Übersicht der Geschichte<lb/> und Psychologie des Strafens überhaupt und der erzieherischen<lb/> Strafe insbesonders.<lb/> „National-Zeitung, Basel“.<lb break="paragraph"/></p> <p>Für die Eltern, Lehrer, Führer, scheinen mir seine Darlegungen<lb/> über Erziehen und Strafen, Autorität und Verantwortung be<lb break="no"/>sonders wichtig zu sein. Das Buch beruht auf jahrelangen,<lb/> eingehenden Beobachtungen und zeugt von ebenso liebevoller<lb/> wie scharfsinniger Vertiefung in den Stoff.<lb/> „Die Umschau, Frankfurt“.<lb break="paragraph"/></p> <p rendition="#level_2">VERLAG HANS HUBER IN BERN</p><p>Eigentümer, Herausgeber und Verleger: Internationaler Psychoanalytischer Verlag, Gesellschaft m. b. H., Wien IX, Berggasse 7. — Verantwortlicher Redakteur: Dr. Wilhelm Hoffer, Wien I, Dorotheerg. 7. Druck von Emil M. Engel, Druckerei und Verlagsanstalt, Wien I, In der Börse.<lb/> Printed in Austria<lb break="paragraph"/></p>
          
       </div></body>
    </text>

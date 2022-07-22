@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__1d377a06-1508-4e62-87c2-ef264a39d522">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
-            <title type="manifestation_short">Erstveröffentlichung</title>
-            <title type="publication">
-               <rs type="bibl" ref="#node__bibliography__8b634f80-9b2b-4aa7-b594-66bd65d5a860">
-                  Journal für Psychologie und Neurologie, 3, 1904,  4
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__4b6869f3-e463-4498-9fa2-b0a6e55b7882">
-                  Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
+            <title type="short">Erstveröffentlichung</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,55 +62,97 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__4b6869f3-e463-4498-9fa2-b0a6e55b7882">
+            <title type="work">Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/4b6869f3-e463-4498-9fa2-b0a6e55b7882</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="node__bibliography__8b634f80-9b2b-4aa7-b594-66bd65d5a860">
-               <title type="main">Journal für Psychologie und Neurologie</title>
-               
-               
-               
-               <date when="1904-01-01">1904</date>
-               <biblScope>4</biblScope>
-               
-               
-               
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__1d377a06-1508-4e62-87c2-ef264a39d522">
+                  <title type="manifestation">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+                  <title type="short">Erstveröffentlichung</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1904-006/1904</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen/druckversion</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1d377a06-1508-4e62-87c2-ef264a39d522</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>IPU</repository>
-                  <idno>taxonomy_term--archive__0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__1d377a06-1508-4e62-87c2-ef264a39d522</idno>
+                     <bibl>
+                        <title>Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <date when="1904-01-01">1904-01-01</date>
+                        <name>Text in Periodikum</name>
+                        <bibl xml:id="bibl__8b634f80-9b2b-4aa7-b594-66bd65d5a860">
+                           <title type="main">Journal für Psychologie und Neurologie</title>
+                           <date when="1904-01-01">1904-01-01</date>
+                           <biblScope unit="volume">4</biblScope>
+                           <biblScope unit="year">3</biblScope>
+                           <biblScope unit="page" to="191">191</biblScope>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/8b634f80-9b2b-4aa7-b594-66bd65d5a860</idno>
+                           <name>Periodikum (Heft)</name>
+                        </bibl>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
 
             <pb n="1" xml:id="page__1ad9f2fe-736e-4fec-8115-70b81251c7a6"/>
-            <fw type="pageNum">190</fw> <p class="h1">REFERATE ÜBER BÜCHER UND AUFSÄTZE.<lb break="paragraph"/></p> <p><hi rendition="#bold">Löwenfeld</hi>. <hi rendition="#smallcaps">Die psychischen Zwangs<lb break="no"/>erscheinungen.</hi> J. F. Bergmann, 1904.<lb break="paragraph"/></p> <p>Das vorliegende Werk von <hi rendition="#smallcaps">Löwenfeld</hi>,<lb/> das unter dem Titel „Die psychischen Zwangs<lb break="no"/>erscheinungen“ einen ansehnlichen Ausschnitt<lb/> aus der Klinik und Symptomatologie der<lb/> Neurosen behandelt, vereinigt von neuem<lb/> alle die Vorzüge, durch welche die zu<lb break="no"/>sammenfassenden Darstellungen des Münche<lb break="no"/>ner Neuropathologen allen Fachgenossen<lb/> wertvoll, ja unentbehrlich geworden sind.<lb/> Die ganz außerordentliche Beherrschung der<lb/> Literatur des Gegenstandes, der Reichtum<lb/> an eigenen Beobachtungen, die Klarheit des<lb/> Stils sollen aber den Leser nicht vergessen<lb/> lassen, daß der Hauptwert des Buches nicht<lb/> in diesen Eigenschaften des Kompilators,<lb/> sondern in der unparteiisch besonnenen<lb/> Kritik und in der durchaus selbständigen<lb/> Auffassung des Autors gelegen ist. Als be<lb break="no"/>sonders dankenswert erscheint mir, daß<lb/> <hi rendition="#smallcaps">Löwenfeld</hi> nicht seine Arbeitskraft an die<lb/> Darstellung eines schon ungezählte Male<lb/> behandelten Gegenstandes gewandt, sondern<lb/> ein noch wenig erforschtes Gebiet ordnend<lb/> und sichtend in Angriff genommen hat.<lb break="paragraph"/></p> <p>Die Schwierigkeiten, die sich unter<lb/> solchen Umständen dem Bearbeiter entgegen<lb break="no"/>stellen, sind von nicht gewöhnlicher Art.<lb/> Alle Definitionen sind schwankend, über die<lb/> Abgrenzungen ist Einigkeit noch nicht erzielt<lb/> worden. Was <hi rendition="#smallcaps">Löwenfeld</hi> als „psychischen<lb/> Zwang“ behandelt, geht weit über den Um<lb break="no"/>fang der sog. Zwangsvorstellungskrankheit<lb/> hinaus und schließt noch die Phobien, einen<lb/> Teil der Abulien und sämtliche neurotische<lb/> Angstzustände, auch die Anfälle von „in<lb break="no"/>haltsloser“ Angst, mit ein. Für den Leser<lb/> des Buches ergibt sich so ein unerwarteter<lb/> Gewinn, für den Autor aber stellt sich die<lb/> Unmöglichkeit her, über Mechanismus, Ätio<lb break="no"/>logie und Verlauf der „psychischen Zwangs<lb break="no"/>erscheinungen“ etwas allgemein Zutreffendes<lb/> auszusagen, da die in ihrem Wesen dispa<lb break="no"/>raten Affektionen sich auch in all diesen<lb/> Momenten weit von einander entfernen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Löwenfeld</hi> hält seine, nach des Ref.<lb/> Meinung künstliche, Einheit durch die De<lb break="no"/>finition des psychischen Zwanges zusammen,<lb/> als dessen Grundcharakter er die „Immobi<lb break="no"/>lität“, den Mangel der Verdrängbarkeit durch<lb/> Willenseinflüsse betrachtet. Aber er aner<lb break="no"/>kennt auch — gewiß mit Recht — Zwangs<lb break="no"/>empfindungen und Zwangsaffekte, während<lb/> wir gewohnt sind, von unserer normalen<lb/> Willenstätigkeit nur die Verdrängung von<lb/> Vorstellungen und Vorstellungskomplexen,<lb/> nicht auch die Aufhebung von Empfindungen<lb/> oder Gefühlen zu fordern. Wer an einem<lb/> Angstanfall leidet, pflegt zu klagen, daß er<lb/> sich so schlecht fühlt, nicht aber sich zu<lb/> verwundern, daß er einen „Zwang“ nicht<lb/> beseitigen kann. Bei konsequenter Anwen<lb break="no"/>dung seines Kriteriums hätte der Autor<lb/> übrigens auch ein gutes Stück der hysteri<lb break="no"/>schen Symptomatologie mitbehandeln müssen,<lb/> welchem der Charakter der Immobilität, der<lb/> Unverdrängbarkeit durch Willenseinflüsse in<lb/> ausgeprägtester Weise zukommt.<lb break="paragraph"/></p> <p>Es war daher vielleicht nicht zweck<lb break="no"/>mäßig, den Begriff „Zwang“ in seinem logi<lb break="no"/>schen Sinne zur Abgrenzung zu benützen. Es<lb/> ist aber schwierig, derzeit etwas Besseres an<lb/> die Stelle zu setzen. In Wirklichkeit ist die<lb/> innere Verschiedenheit der vom Autor zu<lb break="no"/>sammengefaßten Affektionen leichter zu<lb/> ahnen und aus gewissen Anzeichen zu er<lb break="no"/>raten als klarzulegen. Die richtigen Unter<lb break="no"/>scheidungen dürften sich erst angeben lassen,<lb/> wenn der psychologische Mechanismus der<lb/> einzelnen Formen genauer bekannt ge<lb break="no"/>worden ist. Im Mittelpunkte aller auf die<lb/> Auffassung der Zwangsphänomene bezüg<lb break="no"/>lichen Fragen steht das Problem der neuro<lb break="no"/>tischen Angst. Mit der Aufklärung, woher<lb/> diese Angst stammt, und unter welchen Be<lb break="no"/>dingungen sie auftritt, wäre der Schüssel<lb/> zum Verständnis der Psychoneurosen ge<lb break="no"/>wonnen. Ref. kann nur bedauern, daß der<lb/> Autor auch diesmal der von ihm [Ref.] auf<lb break="no"/>gestellten Formel nicht beigetreten ist, welche<lb/> aussagt, daß die neurotische Angst somati<lb break="no"/>scher Herkunft ist, aus dem Sexualleben<lb/> stammt und einer verwandelten Libido ent<lb break="no"/>spricht. Die Richtigkeit oder wenigstens<lb/> den heuristischen Wert dieser Aufstellung<lb/> versuchte Ref. seinerzeit [1895] an dem Bei<lb break="no"/>spiel seiner „Angstneurose“ zu erweisen.<lb/> <hi rendition="#smallcaps">Löwenfeld</hi> wendet gegen diese Ableitung<lb/> der Angst ein, daß sich sexuelle Schädlich<lb break="no"/>keiten nicht in der Ätiologie aller Fälle von<lb/> Angstneurose, sondern nur bei etwa 75%<lb break="paragraph"/><pb n="2" xml:id="page__3cc111da-0b8e-4bbf-b78f-bdb161a90dc5"/><fw type="pageNum">191</fw>nachweisen lassen. Ref. akzeptiert diese<lb/> Zahl; er möchte sich aber gegen den nahe<lb break="no"/>liegenden Vorwurf verwahren, daß er einer<lb/> Theorie zuliebe gegen die Beobachtung ver<lb break="no"/>blendet wurde. Ref. hat die Fälle von Angst<lb break="no"/>neurose ohne sexuelle Ätiologie bereits 1895<lb/> gekannt und gewürdigt, denn er sagt aus<lb break="no"/>drücklich in dem erwähnten Aufsatz über<lb/> die Angstneurose: „Die letzte der anzu<lb break="no"/>führenden ätiologischen Bedingungen scheint<lb/> zunächst überhaupt nicht sexueller Natur zu<lb/> sein. Die Angstneurose entsteht, und zwar<lb/> bei beiden Geschlechtern, auch durch das<lb/> Moment der Überarbeitung, erschöpfender<lb/> Anstrengung z. B. nach Nachtwachen, Kranken<lb break="no"/>pflegen und selbst nach schweren Krank<lb break="no"/>heiten.“ Diese Stelle pflegen Kritiker im<lb/> Interesse der Vereinfachung zu übersehen.<lb break="paragraph"/></p>
+            <fw type="pageNum">190</fw> <p rendition="h1"><title>REFERATE ÜBER BÜCHER UND AUFSÄTZE.<lb break="paragraph"/></title></p> <p><hi rendition="#bold">Löwenfeld</hi>. <hi rendition="#smallcaps">Die psychischen Zwangs<lb break="no"/>erscheinungen.</hi> J. F. Bergmann, 1904.<lb break="paragraph"/></p> <p>Das vorliegende Werk von <hi rendition="#smallcaps">Löwenfeld</hi>,<lb/> das unter dem Titel „Die psychischen Zwangs<lb break="no"/>erscheinungen“ einen ansehnlichen Ausschnitt<lb/> aus der Klinik und Symptomatologie der<lb/> Neurosen behandelt, vereinigt von neuem<lb/> alle die Vorzüge, durch welche die zu<lb break="no"/>sammenfassenden Darstellungen des Münche<lb break="no"/>ner Neuropathologen allen Fachgenossen<lb/> wertvoll, ja unentbehrlich geworden sind.<lb/> Die ganz außerordentliche Beherrschung der<lb/> Literatur des Gegenstandes, der Reichtum<lb/> an eigenen Beobachtungen, die Klarheit des<lb/> Stils sollen aber den Leser nicht vergessen<lb/> lassen, daß der Hauptwert des Buches nicht<lb/> in diesen Eigenschaften des Kompilators,<lb/> sondern in der unparteiisch besonnenen<lb/> Kritik und in der durchaus selbständigen<lb/> Auffassung des Autors gelegen ist. Als be<lb break="no"/>sonders dankenswert erscheint mir, daß<lb/> <hi rendition="#smallcaps">Löwenfeld</hi> nicht seine Arbeitskraft an die<lb/> Darstellung eines schon ungezählte Male<lb/> behandelten Gegenstandes gewandt, sondern<lb/> ein noch wenig erforschtes Gebiet ordnend<lb/> und sichtend in Angriff genommen hat.<lb break="paragraph"/></p> <p>Die Schwierigkeiten, die sich unter<lb/> solchen Umständen dem Bearbeiter entgegen<lb break="no"/>stellen, sind von nicht gewöhnlicher Art.<lb/> Alle Definitionen sind schwankend, über die<lb/> Abgrenzungen ist Einigkeit noch nicht erzielt<lb/> worden. Was <hi rendition="#smallcaps">Löwenfeld</hi> als „psychischen<lb/> Zwang“ behandelt, geht weit über den Um<lb break="no"/>fang der sog. Zwangsvorstellungskrankheit<lb/> hinaus und schließt noch die Phobien, einen<lb/> Teil der Abulien und sämtliche neurotische<lb/> Angstzustände, auch die Anfälle von „in<lb break="no"/>haltsloser“ Angst, mit ein. Für den Leser<lb/> des Buches ergibt sich so ein unerwarteter<lb/> Gewinn, für den Autor aber stellt sich die<lb/> Unmöglichkeit her, über Mechanismus, Ätio<lb break="no"/>logie und Verlauf der „psychischen Zwangs<lb break="no"/>erscheinungen“ etwas allgemein Zutreffendes<lb/> auszusagen, da die in ihrem Wesen dispa<lb break="no"/>raten Affektionen sich auch in all diesen<lb/> Momenten weit von einander entfernen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Löwenfeld</hi> hält seine, nach des Ref.<lb/> Meinung künstliche, Einheit durch die De<lb break="no"/>finition des psychischen Zwanges zusammen,<lb/> als dessen Grundcharakter er die „Immobi<lb break="no"/>lität“, den Mangel der Verdrängbarkeit durch<lb/> Willenseinflüsse betrachtet. Aber er aner<lb break="no"/>kennt auch — gewiß mit Recht — Zwangs<lb break="no"/>empfindungen und Zwangsaffekte, während<lb/> wir gewohnt sind, von unserer normalen<lb/> Willenstätigkeit nur die Verdrängung von<lb/> Vorstellungen und Vorstellungskomplexen,<lb/> nicht auch die Aufhebung von Empfindungen<lb/> oder Gefühlen zu fordern. Wer an einem<lb/> Angstanfall leidet, pflegt zu klagen, daß er<lb/> sich so schlecht fühlt, nicht aber sich zu<lb/> verwundern, daß er einen „Zwang“ nicht<lb/> beseitigen kann. Bei konsequenter Anwen<lb break="no"/>dung seines Kriteriums hätte der Autor<lb/> übrigens auch ein gutes Stück der hysteri<lb break="no"/>schen Symptomatologie mitbehandeln müssen,<lb/> welchem der Charakter der Immobilität, der<lb/> Unverdrängbarkeit durch Willenseinflüsse in<lb/> ausgeprägtester Weise zukommt.<lb break="paragraph"/></p> <p>Es war daher vielleicht nicht zweck<lb break="no"/>mäßig, den Begriff „Zwang“ in seinem logi<lb break="no"/>schen Sinne zur Abgrenzung zu benützen. Es<lb/> ist aber schwierig, derzeit etwas Besseres an<lb/> die Stelle zu setzen. In Wirklichkeit ist die<lb/> innere Verschiedenheit der vom Autor zu<lb break="no"/>sammengefaßten Affektionen leichter zu<lb/> ahnen und aus gewissen Anzeichen zu er<lb break="no"/>raten als klarzulegen. Die richtigen Unter<lb break="no"/>scheidungen dürften sich erst angeben lassen,<lb/> wenn der psychologische Mechanismus der<lb/> einzelnen Formen genauer bekannt ge<lb break="no"/>worden ist. Im Mittelpunkte aller auf die<lb/> Auffassung der Zwangsphänomene bezüg<lb break="no"/>lichen Fragen steht das Problem der neuro<lb break="no"/>tischen Angst. Mit der Aufklärung, woher<lb/> diese Angst stammt, und unter welchen Be<lb break="no"/>dingungen sie auftritt, wäre der Schüssel<lb/> zum Verständnis der Psychoneurosen ge<lb break="no"/>wonnen. Ref. kann nur bedauern, daß der<lb/> Autor auch diesmal der von ihm [Ref.] auf<lb break="no"/>gestellten Formel nicht beigetreten ist, welche<lb/> aussagt, daß die neurotische Angst somati<lb break="no"/>scher Herkunft ist, aus dem Sexualleben<lb/> stammt und einer verwandelten Libido ent<lb break="no"/>spricht. Die Richtigkeit oder wenigstens<lb/> den heuristischen Wert dieser Aufstellung<lb/> versuchte Ref. seinerzeit [1895] an dem Bei<lb break="no"/>spiel seiner „Angstneurose“ zu erweisen.<lb/> <hi rendition="#smallcaps">Löwenfeld</hi> wendet gegen diese Ableitung<lb/> der Angst ein, daß sich sexuelle Schädlich<lb break="no"/>keiten nicht in der Ätiologie aller Fälle von<lb/> Angstneurose, sondern nur bei etwa 75%<lb break="paragraph"/><pb n="2" xml:id="page__3cc111da-0b8e-4bbf-b78f-bdb161a90dc5"/><fw type="pageNum">191</fw>nachweisen lassen. Ref. akzeptiert diese<lb/> Zahl; er möchte sich aber gegen den nahe<lb break="no"/>liegenden Vorwurf verwahren, daß er einer<lb/> Theorie zuliebe gegen die Beobachtung ver<lb break="no"/>blendet wurde. Ref. hat die Fälle von Angst<lb break="no"/>neurose ohne sexuelle Ätiologie bereits 1895<lb/> gekannt und gewürdigt, denn er sagt aus<lb break="no"/>drücklich in dem erwähnten Aufsatz über<lb/> die Angstneurose: „Die letzte der anzu<lb break="no"/>führenden ätiologischen Bedingungen scheint<lb/> zunächst überhaupt nicht sexueller Natur zu<lb/> sein. Die Angstneurose entsteht, und zwar<lb/> bei beiden Geschlechtern, auch durch das<lb/> Moment der Überarbeitung, erschöpfender<lb/> Anstrengung z. B. nach Nachtwachen, Kranken<lb break="no"/>pflegen und selbst nach schweren Krank<lb break="no"/>heiten.“ Diese Stelle pflegen Kritiker im<lb/> Interesse der Vereinfachung zu übersehen.<lb break="paragraph"/></p>
          
             
               <p>Wenn die Theorie des Ref. trotzdem die<lb/> neurotische Angst ganz allgemein [also auch<lb/> in diesen Fällen] von der Libido ableitet,<lb/> so scheint entweder eine Inkonsequenz des<lb/> Ref. oder ein Mißverständnis seiner Kritiker<lb/> unausweichlich. Es ist nicht schwer, das<lb/> letztere aufzuzeigen. Ref. hat Ätiologie und<lb/> Mechanismus begrifflich scharf geschieden,<lb/> was seine Kritiker nicht tun. Er meint, bei<lb/> der Angstneurose sei die <hi rendition="#smallcaps">Ätiologie</hi> des<lb/> Krankheitsfalles nicht durchwegs eine sexu<lb break="no"/>elle Schädlichkeit, wohl aber betreffe der<lb/> <hi rendition="#smallcaps">Mechanismus</hi> der Störung regelmäßig die<lb/> Sexualität. Diese Unterscheidung läuft auf<lb/> die gewiß nicht unwahrscheinliche Annahme<lb/> hinaus, daß die organisch-sexuellen Vor<lb break="no"/>gänge ebensowohl durch Schädlichkeiten<lb/> aus dem Sexualleben selbst wie auch durch<lb/> tiefgreifende allgemeine Noxen eine Störung<lb/> erfahren können, ähnlich wie z. B. die Vor<lb break="no"/>gänge der Verdauungstätigkeit einerseits von<lb/> den Ingesten aus, andererseits durch allge<lb break="no"/>meine toxische Erkrankungen, Kachexien<lb/> und Blutveränderungen krankhaft verändert<lb/> werden können.<lb break="paragraph"/></p> <p>Ref. kennt auch die von <hi rendition="#smallcaps">Löwenfeld</hi><lb/> gegen ihn angeführten Fälle von Angst<lb break="no"/>neurose mit erheblicher Steigerung anstatt<lb/> einer Abnahme der Libido; er weiß aber,<lb/> daß bei diesen nichts anderes als ein<lb/> Oszillieren zwischen libidinöser und in Angst<lb/> (teilweise) verwandelter Erregung vorliegt.<lb break="paragraph"/></p> <p>Unter den Ursachen der Angstneurose<lb/> hebt <hi rendition="#smallcaps">Löwenfeld</hi> ferner Schrecken und<lb/> andere emotionelle Noxen hervor. Ref. muß<lb/> nach seinen Untersuchungsergebnissen viel<lb break="no"/>mehr behaupten, daß diese sehr häufig vor<lb/> kommenden Fälle durchwegs die Reaktionen<lb/> der Hysterie ergeben, also dieser Neurose<lb/> zuzurechnen sind.<lb break="paragraph"/></p> <p>Es ist unmöglich im Rahmen eines Re<lb break="no"/>ferates auszuführen, welche Fülle von Mit<lb break="no"/>teilungen und Anregungen das Buch von<lb/> <hi rendition="#smallcaps">Löwenfeld</hi> über die psychischen Zwangs<lb break="no"/>erscheinungen enthält. Wir dürfen hoffen,<lb/> daß seine Veröffentlichung eine außer<lb break="no"/>ordentliche Steigerung des Interesses für<lb/> diese merkwürdigen und praktisch bedeut<lb break="no"/>samen Erkrankungsformen zur Folge haben<lb/> wird. Sigm. <hi rendition="#smallcaps">Freud</hi> (Wien).<lb break="paragraph"/></p>

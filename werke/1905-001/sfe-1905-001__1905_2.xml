@@ -1,20 +1,11 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:base="https://whatever.com" xml:id="manifestation__ddc0f2c2-2e11-4c43-b506-2b67f2609f6b">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="manifestation">Über Psychotherapie (1905-001/1905)</title>
-            <title type="manifestation_short">Separatabdruck</title>
-            <title type="publication">
-               <rs type="bibl" ref="#bibl__ddc0f2c2-2e11-4c43-b506-2b67f2609f6b">
-                  ddc0f2c2-2e11-4c43-b506-2b67f2609f6b
-               </rs>
-            </title>               
-            <title type="work">
-               <rs type="bibl" ref="#bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                  Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie
-               </rs>
-            </title>
-            <author>Freud, Sigmund</author>
+            <title type="main">Über Psychotherapie (1905-001/1905.2)</title>
+            <title type="short">Separatabdruck</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
                <name>Rohrwasser, Michael</name>
@@ -22,12 +13,12 @@
             <funder>
                <name>FWF Der Wissenschaftsfond.</name>
                <address>
-                     <street>Sensengasse 1</street>
-                     <postCode>1090 Wien</postCode>
-                     <placeName>
-                        <country>Österreich</country>
-                        <settlement>Wien</settlement>
-                     </placeName>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
                </address>
             </funder>
          </titleStmt>
@@ -71,49 +62,81 @@
                   <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen, 
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
                   <p>Hinweise:</p>
                   <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
                   <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen. 
+                     die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt>
-            <p>Maschinenlesbare Transkription der Publikationen von Sigmund Freud.</p>
+         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
          </seriesStmt>
          <sourceDesc>
-            <bibl xml:id="bibl__ddc0f2c2-2e11-4c43-b506-2b67f2609f6b">
-               
-               
-               
-               
-               
-               
-               
-               
-               
-               
-            </bibl>
+            <listBibl>
+               <bibl xml:id="bibl__ddc0f2c2-2e11-4c43-b506-2b67f2609f6b">
+                  <title type="manifestation">Über Psychotherapie</title>
+                  <title type="short">Separatabdruck</title>
+                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <editor>
+                     <name>Blatow, Arkadi</name>
+                     <name>Diercks, Christine</name>
+                     <name>Huber, Christian</name>
+                     <name>Kaufmann, Kira</name>
+                     <name>Rohrwasser, Michael</name>
+                  </editor>
+                  <date when="2022">2022</date>
+                  <idno type="signature">1905-001/1905.2</idno>
+                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-5</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ddc0f2c2-2e11-4c43-b506-2b67f2609f6b</idno>
+               </bibl>
+            </listBibl>
             <msDesc>
                <msIdentifier>
                   <repository>Archiv Sigmund Freud Museum Wien</repository>
-                  <idno>taxonomy_term--archive__9b59f685-1c10-43e7-8125-302a44fb4001</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/9b59f685-1c10-43e7-8125-302a44fb4001</idno>
                </msIdentifier>
                <msContents>
                   <msItem>
-                     <title>Über Psychotherapie (1905-001/1905)</title>
-                     <author>Freud, Sigmund</author>
-                     <idno>manifestation__ddc0f2c2-2e11-4c43-b506-2b67f2609f6b</idno>
+                     <bibl>
+                        <title>Über Psychotherapie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <name>Text in Periodikum</name>
+                     </bibl>
                   </msItem>
                </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           Buch aus <material>Papier</material> in Druckschrift .
+                        </support>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                     <p>Druckversion</p>
+                  </typeDesc>
+               </physDesc>
             </msDesc>
          </sourceDesc>
       </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
    </teiHeader>
    <text>
       <body><div>
@@ -128,7 +151,7 @@
             <p>BLANK<lb break="paragraph"/></p>
          
             <pb n="4" xml:id="page__0f4a3669-9658-4349-934d-af482b57e200"/>
-            <p>Wiener <lb break="paragraph"/></p> <p>Medizinische Presse.<lb break="paragraph"/></p> <p>Organ für praktische Ärzte.<lb break="paragraph"/></p> <p>Redigiert von<lb break="paragraph"/></p> <p>Doz. Dr. Anton Bum<lb break="paragraph"/></p> <p>Separat-Abrduck aus Nr. 1, 1905<lb break="paragraph"/></p> <p class="h1">ÜBER<lb break="paragraph"/></p> <p class="h1"><hi rendition="#bold">PSYCHOTHERAPIE.</hi><lb break="paragraph"/></p> <p>VORTRAG<lb break="paragraph"/></p> <p>GEHALTEN IN DER<lb break="paragraph"/></p> <p>WISSENSCHAFTLICHEN VERSAMMLUNG DES WIENER<lb break="paragraph"/></p> <p>MEDIZINISCHEN DOKTORENKOLLEGIUMS AM 12. DEZEMBER 1904<lb break="paragraph"/></p> <p>VON<lb break="paragraph"/></p> <p>PROF. SIGM. FREUD<lb break="paragraph"/></p> <p>IN WIEN.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>URBAN &amp; SCHWARZENBERG<lb break="paragraph"/></p> <p>BERLIN WIEN<lb break="paragraph"/></p> <p>N. FRIEDRICHSTRASSE 105b I. MAXIMILIANSTRASSE 4<lb break="paragraph"/></p> <p>1905<lb break="paragraph"/></p>
+            <p>Wiener <lb break="paragraph"/></p> <p>Medizinische Presse.<lb break="paragraph"/></p> <p>Organ für praktische Ärzte.<lb break="paragraph"/></p> <p>Redigiert von<lb break="paragraph"/></p> <p>Doz. Dr. Anton Bum<lb break="paragraph"/></p> <p>Separat-Abrduck aus Nr. 1, 1905<lb break="paragraph"/></p> <p rendition="h1"><title>ÜBER<lb break="paragraph"/></title></p> <p rendition="h1"><title><hi rendition="#bold">PSYCHOTHERAPIE.</hi><lb break="paragraph"/></title></p> <p>VORTRAG<lb break="paragraph"/></p> <p>GEHALTEN IN DER<lb break="paragraph"/></p> <p>WISSENSCHAFTLICHEN VERSAMMLUNG DES WIENER<lb break="paragraph"/></p> <p>MEDIZINISCHEN DOKTORENKOLLEGIUMS AM 12. DEZEMBER 1904<lb break="paragraph"/></p> <p>VON<lb break="paragraph"/></p> <p>PROF. SIGM. FREUD<lb break="paragraph"/></p> <p>IN WIEN.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>URBAN &amp; SCHWARZENBERG<lb break="paragraph"/></p> <p>BERLIN WIEN<lb break="paragraph"/></p> <p>N. FRIEDRICHSTRASSE 105b I. MAXIMILIANSTRASSE 4<lb break="paragraph"/></p> <p>1905<lb break="paragraph"/></p>
          
             <pb n="5" xml:id="page__9967fa8f-27b9-4db4-9773-7ba7d9fca643"/>
             <fw type="pageNum">[3]</fw> <p>M. H.! Es sind ungefähr 8 Jahre her, seitdem ich über<lb/> Aufforderung Ihres betrauerten Vorsitzenden Prof. v. REDER<lb/> in Ihrem Kreise über das Thema der Hysterie sprechen durfte.<lb/> Ich hatte kurz zuvor (1895) in Gemeinschaft mit Dr. JOSEF<lb/> BREUER die „Studien über Hysterie“ veröffentlicht und den<lb/> Versuch unternommen, auf Grund der neuen Erkenntnis,<lb/> welche wir diesem Forscher verdanken, eine neuartige Be<lb break="no"/>handlungsweise der Neurose einzuführen. Erfreulicherweise,<lb/> darf ich sagen, haben die Bemühungen unserer „Studien“<lb/> Erfolg gehabt; die in ihnen vertretenen Ideen von der Wir<lb break="no"/>kungsweise psychischer Traumen durch Zurückhaltung von<lb/> Affekt und die Auffassung der hysterischen Symptome als<lb/> Erfolge einer aus dem Seelischen ins Körperliche versetzten<lb/> Erregung, Ideen, für welche wir die Termini „Abreagieren“ <lb/> und „Konversion“ geschaffen hatten, sind heute allgemein<lb/> bekannt und verstanden. Es gibt — wenigstens in deutschen<lb/> Landen — keine Darstellung der Hysterie, die ihnen nicht<lb/> bis zu einem gewissen Grade Rechnung tragen würde, und<lb/> keinen Fachgenossen, der nicht zum mindesten ein Stück weit<lb/> mit dieser Lehre ginge. Und doch mögen diese Sätze und<lb/> diese Termini, solange sie noch frisch waren, befremdend<lb/> genug geklungen haben!<lb break="paragraph"/></p> <p>Ich kann nicht dasselbe von dem therapeutischen Ver<lb break="no"/>fahren sagen, das gleichzeitig mit unserer Lehre den Fach<lb break="no"/>genossen vorgeschlagen wurde. Dasselbe kämpft noch heute um<lb/> seine Anerkennung. Man mag spezielle Gründe dafür anrufen.<lb/> Die Technik des Verfahrens war damals noch unausgebildet;<lb/> ich vermochte es nicht, dem ärztlichen Leser des Buches jene<lb/> Anweisungen zu geben, welche ihn befähigt hätten, eine<lb/> derartige Behandlung vollständig durchzuführen. Aber gewiß<lb/> wirken auch Gründe allgemeiner Natur mit. Vielen Ärzten<lb/> erscheint noch heute die Psychotherapie als ein Produkt des<lb/> modernen Mystizismus und im Vergleiche mit unseren physi<lb break="no"/>kalisch-chemischen Heilmitteln, deren Anwendung auf physio<lb break="no"/>logische Einsichten gegründet ist, als geradezu unwissen<lb break="no"/><pb n="6" xml:id="page__0f8145e9-8f1d-475e-b411-70e1ec45520e"/><fw type="pageNum">4</fw>schaftlich, des Interesses eines Naturforschers unwürdig. Ge<lb break="no"/>statten Sie mir nun, vor Ihnen die Sache der Psychotherapie<lb/> zu führen und hervorzuheben, was an dieser Verurteilung<lb/> als Unrecht oder Irrtum bezeichnet werden kann<lb break="paragraph"/></p>
