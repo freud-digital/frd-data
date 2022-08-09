@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905.2)</title>
-            <title type="short">Separatabdruck</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+            <title type="manifestation" level="a">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905.2)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,62 +74,62 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
-            <title type="work">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__95413731-594c-4f3f-8935-9237d9b04c85">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
-                  <title type="short">Separatabdruck</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-002/1905.2</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/95413731-594c-4f3f-8935-9237d9b04c85</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>Archiv Sigmund Freud Museum Wien</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/9b59f685-1c10-43e7-8125-302a44fb4001</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Psychische Behandlung (Seelenbehandlung) </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <name>Text in Sammelband</name>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                  <name>Text in Sammelband</name>
+               </analytic>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__95413731-594c-4f3f-8935-9237d9b04c85">
+                     <title>Psychische Behandlung (Seelenbehandlung) </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-002/1905.2</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/95413731-594c-4f3f-8935-9237d9b04c85</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
+                           <title>Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+                           <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
+                        </bibl>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Archiv Sigmund Freud Museum Wien</repository>
+                        <idno type="Archiv-Sigmund-Freud-Museum-Wien">26.721-VS</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/9b59f685-1c10-43e7-8125-302a44fb4001</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
