@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Die Freud’sche psychoanalytische Methode (1904-002/1904)</title>
-            <title type="short">Erstveröffentlichung</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="manifestation" level="a">Die Freud’sche psychoanalytische Methode (1904-002/1904)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,73 +74,72 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__fb34eb4f-549f-4ed4-9ed0-104c75e82373">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Die Freud’sche psychoanalytische Methode</title>
-                  <title type="short">Erstveröffentlichung</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-002/1904</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-0</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fb34eb4f-549f-4ed4-9ed0-104c75e82373</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>Sammlung Arkadi Blatow</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/1f75c48e-48a8-4b22-bdb7-b2e0e81ee2de</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Die Freud’sche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1904-01-01">1904-01-01</date>
-                        <name>Text in Monographie</name>
-                        <bibl xml:id="bibl__e5785ad4-ed60-43c5-9ab2-8465a6e7398a">
-                           <title type="main">Die psychischen Zwangserscheinungen</title>
-                           <title type="sub">Auf klinischer Grundlage dargestellt</title>
-                           <pubPlace>Wiesbaden</pubPlace>
-                           <date when="1904-01-01">1904-01-01</date>
-                           <biblScope unit="page" to="551">551</biblScope>
-                           <author ref="#p__eac537be-514c-41b8-b009-4ee4397a523b">Loewenfeld, L.</author>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/e5785ad4-ed60-43c5-9ab2-8465a6e7398a</idno>
-                           <name>Monographie</name>
+                  <name>Text in Monographie</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Die psychischen Zwangserscheinungen</title>
+                  <title type="publication-sub">Auf klinischer Grundlage dargestellt</title>
+                  <title type="publication-short"/>
+                  <imprint>
+                     <pubPlace>Wiesbaden</pubPlace>
+                     <date when="1904-01-01">1904-01-01</date>
+                  </imprint>
+                  <extent>551 Seiten</extent>
+                  <name>Monographie</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__fb34eb4f-549f-4ed4-9ed0-104c75e82373">
+                     <title>Die Freud’sche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-002/1904</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-0</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fb34eb4f-549f-4ed4-9ed0-104c75e82373</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                           <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Sammlung Arkadi Blatow</repository>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/1f75c48e-48a8-4b22-bdb7-b2e0e81ee2de</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
