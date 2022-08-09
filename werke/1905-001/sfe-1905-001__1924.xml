@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über Psychotherapie (1905-001/1924)</title>
-            <title type="short">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="manifestation" level="a">Über Psychotherapie (1905-001/1924)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,72 +74,77 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__8c6fd73b-4aad-48f3-bfc0-d5b621e7b908">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Über Psychotherapie</title>
-                  <title type="short">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-001/1924</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8c6fd73b-4aad-48f3-bfc0-d5b621e7b908</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Über Psychotherapie</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1924-01-01">1924-01-01</date>
-                        <name>Text in Sammelband</name>
-                        <bibl xml:id="bibl__4493b1c5-5013-4226-98f0-2a5c40cf405c">
-                           <title type="main">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1924-01-01">1924-01-01</date>
-                           <biblScope unit="page" to="24">24</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/4493b1c5-5013-4226-98f0-2a5c40cf405c</idno>
-                           <name>Sammelband</name>
+                  <name>Text in Sammelband</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
+                  <title type="publication-sub"/>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Zürich</pubPlace>
+                     <date when="1924-01-01">1924-01-01</date>
+                  </imprint>
+                  <extent>24 Seiten</extent>
+                  <name>Sammelband</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__8c6fd73b-4aad-48f3-bfc0-d5b621e7b908">
+                     <title>Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-001/1924</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8c6fd73b-4aad-48f3-bfc0-d5b621e7b908</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1924_Zur_Technik_der_Psa_und_zur_Metapsychologie_k</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -170,7 +175,7 @@
               <p><hi rendition="#em">b)</hi> Es scheint mir der Irrtum unter den Kollegen weit ver<lb break="no"/>breitet zu sein, daß die Technik der Forschung nach den Krank<lb break="no"/>heitsanlässen und die Beseitigung der Erscheinungen durch diese<lb/> Erforschung leicht und selbstverständlich sei. Ich schließe dies<lb/> daraus, daß noch keiner von den vielen, die sich für meine<lb/> Therapie interessieren und sichere Urteile über dieselbe von sich<lb/> geben, mich je gefragt hat, wie ich es eigentlich mache. Das<lb/> kann doch nur den einzigen Grund haben, daß sie meinen, es<lb/> sei nichts zu fragen, es verstehe sich ganz von selbst. Auch höre<lb/> ich mitunter mit Erstaunen, daß auf dieser oder jener Abteilung<lb/> eines Spitals ein junger Arzt von seinem Chef den Auftrag<lb/> erhalten hat, bei einer Hysterischen eine „Psychoanalyse“ zu<lb/> unternehmen. Ich bin überzeugt, man würde ihm nicht einen<lb/> exstirpierten Tumor zur Untersuchung überlassen, ohne sich<lb/> vorher versichert zu haben, daß er mit der histologischen Technik<lb/> vertraut ist. Ebenso erreicht mich die Nachricht, dieser oder<lb/> jener Kollege richte sich Sprechstunden mit einem Patienten<lb/> ein, um eine psychische Kur mit ihm zu machen, während ich<lb/> sicher bin, daß er die Technik einer solchen Kur nicht kennt.<lb/> Er muß also erwarten, daß ihm der Kranke seine Geheimnisse<lb/> entgegenbringen wird, oder sucht das Heil in irgendeiner Art<lb/> von Beichte oder Anvertrauen. Es würde mich nicht wundern,<lb/> wenn der so behandelte Kranke dabei eher zu Schaden als zum<lb/> Vorteil käme. Das seelische Instrument ist nämlich nicht gar<lb/> leicht zu spielen. Ich muß bei solchen Anlässen an die Rede<lb/> eines weltberühmten Neurotikers denken, der freilich nie in der<lb break="paragraph"/><pb n="7" xml:id="page__ecba8b72-80c3-4ef6-b906-c208b148e55e"/><fw type="pageNum">17</fw>Behandlung eines Arztes gestanden, der nur in der Phantasie<lb/> eines Dichters gelebt hat. Ich meine den Prinzen <hi rendition="#smallcaps">Hamlet</hi> von<lb/> Dänemark. Der König hat die beiden Höflinge Rosenkranz und<lb/> Güldenstern über ihn geschickt, um ihn auszuforschen, ihm das<lb/> Geheimnis seiner Verstimmung zu entreißen. Er wehrt sie ab;<lb/> da werden Flöten auf die Bühne gebracht. Hamlet nimmt eine<lb/> Flöte und bittet den einen seiner Quäler, auf ihr zu spielen, es<lb/> sei so leicht wie lügen. Der Höfling weigert sich, denn er kennt<lb/> keinen Griff, und da er zu dem Versuch des Flötenspiels nicht<lb/> zu bewegen ist, bricht Hamlet endlich los: „<span class="inlinequote">Nun seht ihr, welch<lb/> ein nichtswürdiges Ding ihr aus mir macht? Ihr wollt auf mir<lb/> spielen; ihr wollt in das Herz meines Geheimnisses dringen; ihr<lb/> wollt mich von meiner tiefsten Note bis zum Gipfel meiner<lb/> Stimme hinauf prüfen, und in diesem kleinen Instrument hier<lb/> ist viel Musik, eine vortreffliche Stimme, dennoch könnt ihr es<lb/> nicht zum Sprechen bringen. <hi rendition="#smallcaps">Wetter, denkt ihr, daß ich<lb/> leichter zu spielen bin, als eine Flöte? Nennt mich<lb/> was für ein Instrument ihr wollt, ihr könnt mich<lb/> zwar verstimmen, aber nicht auf mir spielen</hi>.</span>“<lb/> (III. Akt, 2.)<lb break="paragraph"/></p>
          
             
-              <p><hi rendition="#em">c)</hi> Sie werden aus gewissen meiner Bemerkungen erraten<lb/> haben, daß der analytischen Kur manche Eigenschaften anhaften,<lb/> die sie von dem Ideal einer Therapie ferne halten. <hi rendition="#em">Tuto, cito,</hi><lb/> <hi rendition="#em">iucunde</hi>; das Forschen und Suchen deutet nicht eben auf Raschheit<lb/> des Erfolges, und die Erwähnung des Widerstandes bereitet Sie<lb/> auf die Erwartung von Unannehmlichkeiten vor. Gewiß, die<lb/> psychoanalytische Behandlung stellt an den Kranken wie an den<lb/> Arzt hohe Ansprüche; von ersterem verlangt sie das Opfer voller<lb/> Aufrichtigkeit, gestaltet sich für ihn zeitraubend und daher auch<lb/> kostspielig; für den Arzt ist sie gleichfalls zeitraubend und wegen<lb/> der Technik, die er zu erlernen und auszuüben hat, ziemlich<lb/> mühselig. Ich finde es auch selbst ganz berechtigt, daß man<lb/> bequemere Heilmethoden in Anwendung bringt, so lange man<lb break="paragraph"/><pb n="8" xml:id="page__4ab5b861-f031-42ba-9dbb-ad97ef18e8a2"/><fw type="pageNum">18</fw>eben die Aussicht hat, mit diesen letzteren etwas zu erreichen.<lb/> Auf diesen Punkt kommt es allein an; erzielt man mit dem<lb/> mühevolleren und Iangwierigeren Verfahren erheblich mehr als<lb/> mit dem kurzen und leichten, so ist das erstere trotz alledem<lb/> gerechtfertigt. Denken Sie, meine Herren, um wieviel die<lb/> <hi rendition="#smallcaps">Finsen</hi>therapie des Lupus unbequemer und kostspieliger ist als<lb/> das früher gebräuchliche Ätzen und Schaben, und doch bedeutet<lb/> es einen großen Fortschritt, bloß weil es mehr leistet; es heilt<lb/> nämlich den Lupus radikal. Nun will ich den Vergleich nicht<lb/> gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die<lb/> psychoanalytische Methode für sich in Anspruch nehmen. In<lb/> Wirklichkeit habe ich meine therapeutische Methode nur an<lb/> schweren und schwersten Fällen ausarbeiten und versuchen<lb/> können; mein Material waren zuerst nur Kranke, die alles erfolglos<lb/> versucht und durch Jahre in Anstalten geweilt hatten. Ich habe<lb/> kaum Erfahrung genug gesammelt, um Ihnen sagen zu können,<lb/> wie sich meine Therapie bei jenen leichteren, episodisch auf<lb break="no"/>tretenden Erkrankungen verhält, die wir unter den verschieden<lb break="no"/>artigsten Einflüssen und auch spontan abheilen sehen. Die<lb/> psychoanalytische Therapie ist an dauernd existenzunfähigen<lb/> Kranken und für solche geschaffen worden, und ihr Triumph<lb/> ist es, daß sie eine befriedigende Anzahl von solchen dauernd<lb/> existenzfähig macht. Gegen diesen Erfolg erscheint dann aller Auf<lb break="no"/>wand geringfügig. Wir können uns nicht verhehlen, daß wir vor<lb/> dem Kranken zu verleugnen pflegen, daß eine schwere Neurose in<lb/> ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner<lb/> Kachexie, keinem der gefürchteten Allgemeinleiden zurücksteht.<lb break="paragraph"/></p>
+              <p><hi rendition="#em">c)</hi> Sie werden aus gewissen meiner Bemerkungen erraten<lb/> haben, daß der analytischen Kur manche Eigenschaften anhaften,<lb/> die sie von dem Ideal einer Therapie ferne halten. <hi rendition="#em">Tuto, cito,</hi><lb/> <hi rendition="#em">iucunde</hi>; das Forschen und Suchen deutet nicht eben auf Raschheit<lb/> des Erfolges, und die Erwähnung des Widerstandes bereitet Sie<lb/> auf die Erwartung von Unannehmlichkeiten vor. Gewiß, die<lb/> psychoanalytische Behandlung stellt an den Kranken wie an den<lb/> Arzt hohe Ansprüche; von ersterem verlangt sie das Opfer voller<lb/> Aufrichtigkeit, gestaltet sich für ihn zeitraubend und daher auch<lb/> kostspielig; für den Arzt ist sie gleichfalls zeitraubend und wegen<lb/> der Technik, die er zu erlernen und auszuüben hat, ziemlich<lb/> mühselig. Ich finde es auch selbst ganz berechtigt, daß man<lb/> bequemere Heilmethoden in Anwendung bringt, so lange man<lb break="paragraph"/><pb n="8" xml:id="page__4ab5b861-f031-42ba-9dbb-ad97ef18e8a2"/><fw type="pageNum">18</fw>eben die Aussicht hat, mit diesen letzteren etwas zu erreichen.<lb/> Auf diesen Punkt kommt es allein an; erzielt man mit dem<lb/> mühevolleren und langwierigeren Verfahren erheblich mehr als<lb/> mit dem kurzen und leichten, so ist das erstere trotz alledem<lb/> gerechtfertigt. Denken Sie, meine Herren, um wieviel die<lb/> <hi rendition="#smallcaps">Finsen</hi>therapie des Lupus unbequemer und kostspieliger ist als<lb/> das früher gebräuchliche Ätzen und Schaben, und doch bedeutet<lb/> es einen großen Fortschritt, bloß weil es mehr leistet; es heilt<lb/> nämlich den Lupus radikal. Nun will ich den Vergleich nicht<lb/> gerade durchsetzen; aber ein ähnliches Vorrecht darf doch die<lb/> psychoanalytische Methode für sich in Anspruch nehmen. In<lb/> Wirklichkeit habe ich meine therapeutische Methode nur an<lb/> schweren und schwersten Fällen ausarbeiten und versuchen<lb/> können; mein Material waren zuerst nur Kranke, die alles erfolglos<lb/> versucht und durch Jahre in Anstalten geweilt hatten. Ich habe<lb/> kaum Erfahrung genug gesammelt, um Ihnen sagen zu können,<lb/> wie sich meine Therapie bei jenen leichteren, episodisch auf<lb break="no"/>tretenden Erkrankungen verhält, die wir unter den verschieden<lb break="no"/>artigsten Einflüssen und auch spontan abheilen sehen. Die<lb/> psychoanalytische Therapie ist an dauernd existenzunfähigen<lb/> Kranken und für solche geschaffen worden, und ihr Triumph<lb/> ist es, daß sie eine befriedigende Anzahl von solchen dauernd<lb/> existenzfähig macht. Gegen diesen Erfolg erscheint dann aller Auf<lb break="no"/>wand geringfügig. Wir können uns nicht verhehlen, daß wir vor<lb/> dem Kranken zu verleugnen pflegen, daß eine schwere Neurose in<lb/> ihrer Bedeutung für das ihr unterworfene Individuum hinter keiner<lb/> Kachexie, keinem der gefürchteten Allgemeinleiden zurücksteht.<lb break="paragraph"/></p>
          
             
               <p><hi rendition="#em">d)</hi> Die Indikationen und Gegenanzeigen dieser Behandlung sind<lb/> infolge der vielen praktischen Beschränkungen, die meine Tätigkeit<lb/> betroffen haben, kaum endgültig anzugeben. Indes will ich ver<lb break="no"/>suchen, einige Punkte mit Ihnen zu erörtern:<lb break="paragraph"/></p> <p>1) Man übersehe nicht über die Krankheit den sonstigen<lb/> Wert einer Person und weise Kranke zurück, welche nicht einen<lb break="paragraph"/><pb n="9" xml:id="page__80d0173e-1ad6-4084-b115-09550e29d042"/><fw type="pageNum">19</fw>gewissen Bildungsgrad und einen einigermaßen verläßlichen<lb/> Charakter besitzen. Man darf nicht vergessen, daß es auch Gesunde<lb/> gibt, die nichts taugen, und daß man nur allzu leicht geneigt<lb/> ist, bei solchen minderwertigen Personen alles, was sie existenz<lb break="no"/>unfähig macht, auf die Krankheit zu schieben, wenn sie irgend<lb break="no"/>einen Anflug von Neurose zeigen. Ich stehe auf dem Standpunkt,<lb/> daß die Neurose ihren Träger keineswegs zum <hi rendition="#em">dégéneré</hi> stempelt,<lb/> daß sie sich aber häufig genug mit den Erscheinungen der<lb/> Degeneration vergesellschaftet an demselben Individuum findet.<lb/> Die analytische Psychotherapie ist nun kein Verfahren zur<lb/> Behandlung der neuropathischen Degeneration, sie findet im Gegen<lb break="no"/>teil an derselben ihre Schranke. Sie ist auch bei Personen nicht<lb/> anwendbar, die sich nicht selbst durch ihre Leiden zur Therapie<lb/> gedrängt fühlen, sondern sich einer solchen nur infolge des<lb/> Machtgebotes ihrer Angehörigen unterziehen. Die Eigenschaft,<lb/> auf die es für die Brauchbarkeit zur psychoanalytischen Behandlung<lb/> ankommt, die Erziehbarkeit, werden wir noch von einem anderen<lb/> Gesichtspunkte würdigen müssen.<lb break="paragraph"/></p>
