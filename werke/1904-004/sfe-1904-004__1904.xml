@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
-            <title type="short">Erstveröffentlichung</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
+            <title type="manifestation" level="a">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,74 +74,77 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
-            <title type="work">Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__26fab394-f61b-4555-9ce5-1068cf57ab19">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
-                  <title type="short">Erstveröffentlichung</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-004/1904</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/rezension-von-baumgarten-alfred-neurasthenie/druckversion</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1904-02-04">1904-02-04</date>
-                        <name>Text in Periodikum</name>
-                        <bibl xml:id="bibl__cec83598-d5ab-4b32-ad8b-78eac731083c">
-                           <title type="main">Neue Freie Presse</title>
-                           <title type="sub">Morgenblatt</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1904-02-04">1904-02-04</date>
-                           <biblScope unit="volume">Nr. 14168</biblScope>
-                           <biblScope unit="page" from="22">22-</biblScope>
-                           <editor ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/cec83598-d5ab-4b32-ad8b-78eac731083c</idno>
-                           <name>Periodikum (Heft)</name>
+                  <name>Text in Periodikum</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Neue Freie Presse</title>
+                  <title type="publication-sub">Morgenblatt</title>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1904-02-04">1904-02-04</date>
+                  </imprint>
+                  <extent>22</extent>
+                  <biblScope unit="volume">Nr. 14168</biblScope>
+                  <name>Periodikum (Heft)</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__26fab394-f61b-4555-9ce5-1068cf57ab19">
+                     <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-004/1904</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/rezension-von-baumgarten-alfred-neurasthenie/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
+                           <title>Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
