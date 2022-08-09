@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
-            <title type="short">Erstveröffentlichung</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+            <title type="manifestation" level="a">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹ (1904-006/1904)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,72 +74,73 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__4b6869f3-e463-4498-9fa2-b0a6e55b7882">
-            <title type="work">Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/4b6869f3-e463-4498-9fa2-b0a6e55b7882</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__1d377a06-1508-4e62-87c2-ef264a39d522">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
-                  <title type="short">Erstveröffentlichung</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-006/1904</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen/druckversion</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1d377a06-1508-4e62-87c2-ef264a39d522</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1904-01-01">1904-01-01</date>
-                        <name>Text in Periodikum</name>
-                        <bibl xml:id="bibl__8b634f80-9b2b-4aa7-b594-66bd65d5a860">
-                           <title type="main">Journal für Psychologie und Neurologie</title>
-                           <date when="1904-01-01">1904-01-01</date>
-                           <biblScope unit="volume">4</biblScope>
-                           <biblScope unit="year">3</biblScope>
-                           <biblScope unit="page" to="191">191</biblScope>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/8b634f80-9b2b-4aa7-b594-66bd65d5a860</idno>
-                           <name>Periodikum (Heft)</name>
+                  <name>Text in Periodikum</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Journal für Psychologie und Neurologie</title>
+                  <title type="publication-sub"/>
+                  <title type="publication-short"/>
+                  <imprint>
+                     <date when="1904-01-01">1904-01-01</date>
+                  </imprint>
+                  <extent>191 Seiten</extent>
+                  <biblScope unit="volume">4</biblScope>
+                  <biblScope unit="year">3</biblScope>
+                  <name>Periodikum (Heft)</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__1d377a06-1508-4e62-87c2-ef264a39d522">
+                     <title>Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-006/1904</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1d377a06-1508-4e62-87c2-ef264a39d522</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__4b6869f3-e463-4498-9fa2-b0a6e55b7882">
+                           <title>Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/4b6869f3-e463-4498-9fa2-b0a6e55b7882</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
