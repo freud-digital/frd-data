@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Die Freudsche psychoanalytische Methode (1904-002/1906)</title>
-            <title type="short">SKSN 1</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1906)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,75 +74,78 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__ccb07301-fe13-4872-9855-5ad74eba261a">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                  <title type="short">SKSN 1</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-002/1906</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-5</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ccb07301-fe13-4872-9855-5ad74eba261a</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1906-01-01">1906-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__1bf647f0-4f62-4146-bdeb-34f696288cec">
-                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                           <title type="short">SKSN 1</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1906-01-01">1906-01-01</date>
-                           <biblScope unit="volume">1. Folge</biblScope>
-                           <biblScope unit="page" to="224">224</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/1bf647f0-4f62-4146-bdeb-34f696288cec</idno>
-                           <name>Werkausgabe</name>
+                  <name>Text in Werkausgabe</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                  <title type="publication-short">SKSN 1</title>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1906-01-01">1906-01-01</date>
+                  </imprint>
+                  <extent>224 Seiten</extent>
+                  <biblScope unit="volume">1. Folge</biblScope>
+                  <name>Werkausgabe</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__ccb07301-fe13-4872-9855-5ad74eba261a">
+                     <title>Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-002/1906</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-5</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ccb07301-fe13-4872-9855-5ad74eba261a</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                           <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1906_Sammlung</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -164,7 +167,7 @@
             <fw type="pageNum">220</fw> <p>Da das Hypnotisiertwerden, trotz aller Geschicklichkeit<lb/> des Arztes, bekanntlich in der Willkür des Patienten liegt,<lb/> und eine große Anzahl neurotischer Personen durch kein<lb/> Verfahren in Hypnose zu versetzen ist, so war durch den<lb/> Verzicht auf die Hypnose die Anwendbarkeit des Verfahrens<lb/> auf eine uneingeschränkte Anzahl von Kranken gesichert.<lb/> Andererseits fiel die Erweiterung des Bewußtseins weg,<lb/> welche dem Arzt gerade jenes psychische Material an Er<lb break="no"/>innerungen und Vorstellungen geliefert hatte, mit dessen<lb/> Hilfe sich die Umsetzung der Symptome und die Befreiung<lb/> der Affekte vollziehen ließ. Wenn für diesen Ausfall kein<lb/> Ersatz zu schaffen war, konnte auch von einer therapeutischen<lb/> Einwirkung keine Rede sein.<lb break="paragraph"/></p> <p>Einen solchen völlig ausreichenden Ersatz fand nun<lb/> <hi rendition="#smallcaps">Freud</hi> in den Einfällen der Kranken, d. h. in den ungewollten,<lb/> meist als störend empfundenen und darum unter gewöhnlichen<lb/> Verhältnissen beseitigten Gedanken, die den Zusammenhang<lb/> einer beabsichtigten Darstellung zu durchkreuzen pflegen. Um<lb/> sich dieser Einfälle zu bemächtigen, fordert er die Kranken<lb/> auf, sich in ihren Mitteilungen gehen zu lassen, „wie man<lb/> es etwa in einem Gespräch tut, bei welchem man aus dem<lb/> Hundertsten in das Tausendste gerät“. Er schärft ihnen, ehe<lb/> er sie zur detaillierten Erzählung ihrer Krankengeschichte<lb/> auffordert, ein, alles mit zu sagen, was ihnen dabei durch<lb/> den Kopf geht, auch wenn sie meinen, es sei unwichtig, oder<lb/> es gehöre nicht dazu, oder es sei unsinnig. Mit besonderem<lb/> Nachdruck aber wird von ihnen verlangt, daß sie keinen<lb/> Gedanken oder Einfall darum von der Mitteilung ausschließen,<lb/> weil ihnen diese Mitteilung beschämend oder peinlich ist. Bei<lb/> den Bemühungen, dieses Material an sonst vernachlässigten<lb/> Einfällen zu sammeln, machte nun <hi rendition="#smallcaps">Freud</hi> die Beobachtungen,<lb/> die für seine ganze Auffassung bestimmend geworden sind. Schon<lb/> bei der Erzählung der Krankengeschichte stellen sich bei den<lb/> Kranken Lücken der Erinnerung heraus, sei es, daß, tatsächliche<lb/> Vorgänge vergessen worden, sei es, daß zeitliche Beziehungen<lb/> verwirrt oder Kausalzusammenhänge zerrissen worden sind,<lb/> so daß sich unbegreifliche Effekte ergeben. Ohne Amnesie<lb/> irgend einer Art gibt es keine neurotische Krankengeschichte.<lb break="paragraph"/><pb n="4" xml:id="page__a5ec5b56-5568-4cc2-9c1a-eb525095b9ad"/><fw type="pageNum">221</fw>Drängt man den Erzählenden, diese Lücken seines Gedächt<lb break="no"/>nisses durch angestrengte Arbeit der Aufmerksamkeit auszu<lb break="no"/>füllen, so merkt man, daß die hierzu sich einstellenden Ein<lb break="no"/>falle von ihm mit allen Mitteln der Kritik zurückgedrängt<lb/> werden, bis er endlich das direkte Unbehagen verspürt, wenn<lb/> sich die Erinnerung wirklich eingestellt hat. Aus dieser Erfahrung<lb/> schließt <hi rendition="#smallcaps">Freud</hi>, daß die Amnesien das Ergebnis eines Vorgangs<lb/> sind, den er <hi rendition="#smallcaps">Verdrängung</hi> heißt, und als dessen Motiv er<lb/> Unlustgefühle erkennt. Die psychischen Kräfte, welche diese Ver<lb break="no"/>drängung herbeigeführt haben, meint. er in dem <hi rendition="#smallcaps">Widerstand</hi>,<lb/> der sich gegen die Wiederherstellung erhebt, zu verspüren.<lb break="paragraph"/></p>
          
             
-              <p>Das Moment des Widerstandes ist eines der Fundamente<lb/> seiner Theorie geworden. Die sonst unter allerlei Vorwänden<lb/> (wie sie die obige Formel aufzählt) beseitigten Einfälle be<lb break="no"/>trachtet er aber als Abkömmlinge der verdrängten psychischen<lb/> Gebilde (Gedanken und Regungen), als Entstellungen derselben<lb/> infolge des gegen ihre Reproduktion bestehenden Widerstandes.<lb break="paragraph"/></p> <p>Je größer der Widerstand, desto ausgiebiger diese Ent<lb break="no"/>stellung. In dieser Beziehung der unbeabsichtigten Einfälle<lb/> zum verdrängten psychischen Material ruht nun ihr Wert für<lb/> die therapeutische Technik. Wenn man ein Verfahren besitzt,<lb/> welches ermöglicht, von den Einfällen aus zu dem Verdrängten,<lb/> von den Entstellungen zum Entstellten zu gelangen, so kann<lb/> man auch ohne Hypnose das früher Unbewußte im Seelenleben<lb/> dem Bewußtsein zugänglich machen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps">Deutungskunst</hi> ausgebildet,<lb/> welcher diese Leistung zufällt, die gleichsam aus den Erzen<lb/> der unbeabsichtigten Einfälle den Metallgehalt an verdrängten<lb/> Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind<lb/> nicht allein die Einfalle der Kranken, sondern auch seine<lb/> Träume, die den direktesten Zugang zur Kenntnis des Un<lb break="no"/>bewußten eröffnen, seine unbeabsichtigten, wie planlosen<lb/> Handlungen (Symptomhandlungen) und die Irrungen seiner<lb/> Leistungen im Alltagsleben (Versprechen, Vergreifen u. dgl..)<lb/> Die Details dieser Deutungs- oder Übersetzungstechnik sind<lb/> von <hi rendition="#smallcaps">Freud</hi> noch nicht veröffentlicht worden. Es sind nach<lb/> seinen Andeutungen eine Reihe von empirisch gewonnenen<lb/> Regeln, wie aus den Einfällen das unbewußte Material zu<lb break="paragraph"/><pb n="5" xml:id="page__759f90f1-c5ed-4a8a-9add-c5b1baa3600c"/><fw type="pageNum">222</fw>konstruieren ist, Anweisungen, wie man es zu verstehen habe,<lb/> wenn die Einfälle des Patienten versagen, und Erfahrungen<lb/> über die wichtigsten typischen Widerstände, die sich im Laufe<lb/> einer solchen Behandlung einstellen. Ein umfangreiches Buch<lb/> über „Traumdeutung“, 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als<lb/> Vorläufer einer solchen Einführung in die Technik anzusehen.<lb break="paragraph"/></p>
+              <p>Das Moment des Widerstandes ist eines der Fundamente<lb/> seiner Theorie geworden. Die sonst unter allerlei Vorwänden<lb/> (wie sie die obige Formel aufzählt) beseitigten Einfälle be<lb break="no"/>trachtet er aber als Abkömmlinge der verdrängten psychischen<lb/> Gebilde (Gedanken und Regungen), als Entstellungen derselben<lb/> infolge des gegen ihre Reproduktion bestehenden Widerstandes.<lb break="paragraph"/></p> <p>Je größer der Widerstand, desto ausgiebiger diese Ent<lb break="no"/>stellung. In dieser Beziehung der unbeabsichtigten Einfälle<lb/> zum verdrängten psychischen Material ruht nun ihr Wert für<lb/> die therapeutische Technik. Wenn man ein Verfahren besitzt,<lb/> welches ermöglicht, von den Einfällen aus zu dem Verdrängten,<lb/> von den Entstellungen zum Entstellten zu gelangen, so kann<lb/> man auch ohne Hypnose das früher Unbewußte im Seelenleben<lb/> dem Bewußtsein zugänglich machen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps">Deutungskunst</hi> ausgebildet,<lb/> welcher diese Leistung zufällt, die gleichsam aus den Erzen<lb/> der unbeabsichtigten Einfälle den Metallgehalt an verdrängten<lb/> Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind<lb/> nicht allein die Einfalle der Kranken, sondern auch seine<lb/> Träume, die den direktesten Zugang zur Kenntnis des Un<lb break="no"/>bewußten eröffnen, seine unbeabsichtigten, wie planlosen<lb/> Handlungen (Symptomhandlungen) und die Irrungen seiner<lb/> Leistungen im Alltagsleben (Versprechen, Vergreifen u. dgl.).<lb/> Die Details dieser Deutungs- oder Übersetzungstechnik sind<lb/> von <hi rendition="#smallcaps">Freud</hi> noch nicht veröffentlicht worden. Es sind nach<lb/> seinen Andeutungen eine Reihe von empirisch gewonnenen<lb/> Regeln, wie aus den Einfällen das unbewußte Material zu<lb break="paragraph"/><pb n="5" xml:id="page__759f90f1-c5ed-4a8a-9add-c5b1baa3600c"/><fw type="pageNum">222</fw>konstruieren ist, Anweisungen, wie man es zu verstehen habe,<lb/> wenn die Einfälle des Patienten versagen, und Erfahrungen<lb/> über die wichtigsten typischen Widerstände, die sich im Laufe<lb/> einer solchen Behandlung einstellen. Ein umfangreiches Buch<lb/> über „Traumdeutung“, 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als<lb/> Vorläufer einer solchen Einführung in die Technik anzusehen.<lb break="paragraph"/></p>
          
             
               <p>Man könnte aus diesen Andeutungen über die Technik<lb/> der psychoanalytischen Methode schließen, daß deren Erfinder<lb/> sich überflüssige Mühe verursacht und Unrecht getan hat,<lb/> das wenig komplizierte hypnotische Verfahren zu verlassen.<lb/> Aber einerseits ist die Technik der Psychoanalyse viel leichter<lb/> auszuüben, wenn man sie einmal erlernt hat, als es bei einer<lb/> Beschreibung den Anschein hat, anderseits führt kein<lb/> anderer Weg zum Ziele, und darum ist der mühselige Weg<lb/> noch der kürzeste. Der Hypnose ist vorzuwerfen, daß sie<lb/> den Widerstand verdeckt und dadurch dem Arzt den Einblick<lb/> in das Spiel der psychischen Kräfte verwehrt hat. Sie räumt<lb/> aber mit dem Widerstande nicht auf, sondern weicht ihm<lb/> nur aus und ergibt dagegen nur unvollständige Auskünfte<lb/> und nur vorübergehende Erfolge.<lb break="paragraph"/></p> <p>Die Aufgabe, welche die psychoanalytische Methode zu<lb/> lösen bestrebt ist, läßt sich in verschiedenen Formeln aus<lb break="no"/>drücken, die aber ihrem Wesen nach äquivalent sind. Man<lb/> kann sagen: Aufgabe der Kur sei, die Amnesien aufzuheben.<lb/> Wenn alle Erinnerungslücken ausgefüllt, alle rätselhaften<lb/> Effekte des psychischen Lebens aufgeklärt sind, ist der Fort<lb break="no"/>bestand, ja eine Neubildung des Leidens unmöglich gemacht.<lb/> Man kann die Bedingung anders fassen: es seien alle Ver<lb break="no"/>drängungen rückgängig zu machen; der psychische Zustand<lb/> ist dann derselbe, in dem alle Amnesien ausgefüllt sind.<lb/> Weittragender ist eine andere Fassung: es handle sich darum,<lb/> das Unbewußte dem Bewußtsein zugänglich zu machen, was<lb/> durch Überwindung der Widerstände geschieht. Man darf<lb/> aber dabei nicht vergessen, daß ein solcher Idealzustand<lb/> auch beim normalen Menschen nicht besteht, und daß man<lb/> nur selten in die Lage kommen kann, die Behandlung an<lb break="no"/>nähernd so weit zu treiben. So wie Gesundheit und Krankheit<lb/> nicht prinzipiell geschieden, sondern nur durch eine praktisch<lb break="paragraph"/><pb n="6" xml:id="page__799d5a03-bf42-487b-a04d-c620d6864192"/><fw type="pageNum">223</fw>bestimmbare Summationsgrenze gesondert sind, so wird man<lb/> sich auch nie etwas anderes zum Ziel der Behandlung setzen<lb/> als die praktische Genesung des Kranken, die Herstellung<lb/> seiner Leistungs- und Genußfähigkeit. Bei unvollständiger<lb/> Kur oder unvollkommenem Erfolge derselben erreicht man<lb/> vor allem eine bedeutende Hebung des psychischen Allgemein<lb break="no"/>zustandes, während die Symptome, aber mit geminderter Be<lb break="no"/>deutung für den Kranken, fortbestehen können, ohne ihn zu<lb/> einem Kranken zu stempeln.<lb break="paragraph"/></p>

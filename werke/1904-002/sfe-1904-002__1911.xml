@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Die Freudsche psychoanalytische Methode (1904-002/1911)</title>
-            <title type="short">SKSN 1 (2. Auflage)</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1911)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,76 +74,79 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__8aa18cde-e8f5-4e98-b547-471460e0fa25">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                  <title type="short">SKSN 1 (2. Auflage)</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-002/1911</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-4</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8aa18cde-e8f5-4e98-b547-471460e0fa25</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1911-01-01">1911-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__690a7b1a-efb2-49cf-8c5c-63fcc49f07d9">
-                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                           <title type="short">SKSN 1 (2. Auflage)</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1911-01-01">1911-01-01</date>
-                           <biblScope unit="volume">1. Folge</biblScope>
-                           <biblScope unit="issue">2. unveränderte Auflage</biblScope>
-                           <biblScope unit="page" to="219">219</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/690a7b1a-efb2-49cf-8c5c-63fcc49f07d9</idno>
-                           <name>Werkausgabe</name>
+                  <name>Text in Werkausgabe</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                  <title type="publication-short">SKSN 1 (2. Auflage)</title>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1911-01-01">1911-01-01</date>
+                  </imprint>
+                  <extent>219 Seiten</extent>
+                  <biblScope unit="volume">1. Folge</biblScope>
+                  <biblScope unit="issue">2. unveränderte Auflage</biblScope>
+                  <name>Werkausgabe</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__8aa18cde-e8f5-4e98-b547-471460e0fa25">
+                     <title>Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-002/1911</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-4</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8aa18cde-e8f5-4e98-b547-471460e0fa25</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                           <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1911_Sammlung_kleiner_Schriften_2te</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

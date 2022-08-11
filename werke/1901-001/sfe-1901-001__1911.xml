@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über den Traum (1901-001/1911)</title>
-            <title type="short">2. Auflage</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1901-001; 1901a): Über den Traum</title>
+            <title type="manifestation" level="a">Über den Traum (1901-001/1911)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,62 +74,64 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__2da622da-de12-46e4-bb1d-c9c4a7ae877e">
-            <title type="work">Freud, Sigmund  (1901-001; 1901a): Über den Traum</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/uber-den-traum</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/2da622da-de12-46e4-bb1d-c9c4a7ae877e</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__e15a37ee-b0bc-4ff6-99c6-fd0e98292598">
+            <biblStruct xml:id="guiding_manifestation">
+               <monogr>
                   <title type="manifestation">Über den Traum</title>
-                  <title type="short">2. Auflage</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+                  <title type="manifestation-short">2. Auflage</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1901-001/1911</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/uber-den-traum/druckversion-5</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/e15a37ee-b0bc-4ff6-99c6-fd0e98292598</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Über den Traum</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <name>Monographie</name>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                  <extent>44 Seiten</extent>
+                  <name>Monographie</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__e15a37ee-b0bc-4ff6-99c6-fd0e98292598">
+                     <title>Über den Traum</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1901-001/1911</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/uber-den-traum/druckversion-5</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/e15a37ee-b0bc-4ff6-99c6-fd0e98292598</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__2da622da-de12-46e4-bb1d-c9c4a7ae877e">
+                           <title>Freud, Sigmund  (1901-001; 1901a): Über den Traum</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/uber-den-traum</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/2da622da-de12-46e4-bb1d-c9c4a7ae877e</idno>
+                        </bibl>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">freud-1911-traum-2</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

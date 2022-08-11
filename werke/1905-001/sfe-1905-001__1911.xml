@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über Psychotherapie  (1905-001/1911)</title>
-            <title type="short">SKSN 1 (2. Auflage)</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="manifestation" level="a">Über Psychotherapie  (1905-001/1911)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,76 +74,79 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Über Psychotherapie </title>
-                  <title type="short">SKSN 1 (2. Auflage)</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-001/1911</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-3</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Über Psychotherapie </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1911-01-01">1911-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__690a7b1a-efb2-49cf-8c5c-63fcc49f07d9">
-                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                           <title type="short">SKSN 1 (2. Auflage)</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1911-01-01">1911-01-01</date>
-                           <biblScope unit="volume">1. Folge</biblScope>
-                           <biblScope unit="issue">2. unveränderte Auflage</biblScope>
-                           <biblScope unit="page" to="212">212</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/690a7b1a-efb2-49cf-8c5c-63fcc49f07d9</idno>
-                           <name>Werkausgabe</name>
+                  <name>Text in Werkausgabe</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                  <title type="publication-short">SKSN 1 (2. Auflage)</title>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1911-01-01">1911-01-01</date>
+                  </imprint>
+                  <extent>212 Seiten</extent>
+                  <biblScope unit="volume">1. Folge</biblScope>
+                  <biblScope unit="issue">2. unveränderte Auflage</biblScope>
+                  <name>Werkausgabe</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9">
+                     <title>Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-001/1911</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-3</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8eb10eaf-4e3d-4a4b-b53f-a15d3b06bec9</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1911_Sammlung_kleiner_Schriften_2te</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -189,7 +192,7 @@
               <p>Sie können aber auch einen anderen Gesichtspunkt für<lb/> das Verständnis der psychoanalytischen Behandlung wählen.<lb/> Die Aufdeckung und Übersetzung des Unbewußten geht unter<lb/> beständigem <hi rendition="#smallcaps">Widerstand</hi> von seiten der Kranken vor sich.<lb/> Das Auftauchen dieses Unbewußten ist mit Unlust verbunden,<lb/> und wegen dieser Unlust wird es von ihm immer wieder zurück<lb break="no"/>gewiesen. In diesen Konflikt im Seelenleben des Kranken greifen<lb/> Sie nun ein; gelingt es Ihnen, den Kranken dazu zu bringen,<lb/> daß er aus Motiven besserer Einsicht etwas akzeptiert, was er<lb/> zufolge der automatischen Unlustregulierung bisher zurück<lb break="no"/>gewiesen (verdrängt) hat, so haben Sie ein Stück Erziehungs<lb break="no"/>arbeit an ihm geleistet. Es ist ja schon Erziehung, wenn Sie<lb/> einen Menschen, der nicht gern früh morgens das Bett verläßt,<lb/> dazu bewegen, es doch zu tun. Als eine solche <hi rendition="#smallcaps">Nacherziehung<lb/> zur Überwindung innerer Widerstände</hi> können Sie nun<lb/> die psychoanalytische Behandlung ganz allgemein auffassen. In<lb/> keinem Punkte aber ist solche Nacherziehung bei den Nervösen<lb/> mehr vonnöten als betreffs des seelischen Elementes in ihrem<lb/> Sexualleben. Nirgends haben ja Kultur und Erziehung so großen<lb/> Schaden gestiftet wie gerade hier, und hier sind auch, wie Ihnen<lb/> die Erfahrung zeigen wird, die beherrschbaren Ätiologien der<lb/> Neurosen zu finden; das andere ätiologische Element, der<lb/> konstitutionelle Beitrag, ist uns ja als etwas Unabänderliches<lb/> gegeben. Hieraus erwächst aber eine wichtige an den Arzt zu<lb/> stellende Anforderung. Er muß nicht nur selbst ein integrer<lb/> Charakter sein — „<span class="inlinequote">das Moralische versteht sich ja von selbst</span>“,<lb/> wie die Hauptperson in Th. <hi rendition="#smallcaps">Vischers</hi> „Auch Einer“ zu sagen<lb/> pflegt —; er muß auch für seine eigene Person die Mischung<lb break="paragraph"/><pb n="12" xml:id="page__d9667c36-128a-4842-8182-d72329968800"/><fw type="pageNum">212</fw>von Lüsternheit und Prüderie überwunden haben, mit welcher<lb/> leider so viele andere den sexuellen Problemen entgegenzutreten<lb/> gewohnt sind.<lb break="paragraph"/></p>
          
             
-              <p>Hier ist vielleicht der Platz für eine weitere Bemerkung.<lb/> Ich weiß, daß meine Betonung der Rolle des Sexuellen für die<lb/> Entstehung der Psychoneurosen in weiteren Kreisen bekannt<lb/> geworden ist. Ich weiß aber auch, daß Einschränkungen und<lb/> nähere Bestimmungen beim großen Publikum wenig nützen; die<lb/> Menge hat für wenig Raum in ihrem Gedächtnis und behält<lb/> von einer Behauptung doch nur den rohen Kern, schafft sich<lb/> ein leicht zu merkendes Extrem. Es mag auch manchen Ärzten<lb/> so ergangen sein, daß ihnen als Inhalt meiner Lehre vorschwebt<lb/> ich führe die Neurosen in letzter Linie auf sexuelle Entbehrung<lb/> zurück. An dieser fehlt es nicht unter den Lebensbedingungen<lb/> unserer Gesellschaft. Wie nahe mag es nun bei solcher Vor<lb break="no"/>aussetzung liegen, den mühseligen Umweg über die psychische<lb/> Kur zu vermeiden und direkt die Heilung anzustreben, indem<lb/> man die sexuelle Betätigung als Heilmittel empfiehlt? Ich weiß<lb/> nun nicht, was mich bewegen könnte, diese Folgerung zu unter<lb break="no"/>drücken, wenn sie berechtigt wäre. Die Suche liegt aber anders.<lb/> Die sexuelle Bedürftigkeit und Entbehrung, das ist bloß der<lb/> eine Faktor, der beim Mechanismus der Neurose ins Spiel tritt<lb/> bestünde er allein, so würde nicht Krankheit, sondern Aus<lb break="no"/>schweifung die Folge sein. Der andere, ebenso unerläßliche<lb/> Faktor, an den man allzu bereitwillig vergißt, ist die Sexual<lb break="no"/>abneigung der Neurotiker, ihre Unfähigkeit zum Lieben, jener<lb/> psychische Zug, den ich „Verdrängung“ genannt habe. Erst aus<lb/> dem Konflikt zwischen beiden Strebungen geht die neurotische<lb/> Erkrankung hervor, und darum kann der Rat der sexuellen<lb/> Betätigung bei den Psychoneurosen eigentlich nur selten als<lb/> guter Rat bezeichnet werden.<lb break="paragraph"/></p> <p>Lassen Sie mich mit dieser abwehrenden Bemerkung<lb/> schließen. Wir wollen hoffen, daß Ihr von jedem feindseligen<lb/> Vorurteil gereinigtes Interesse für die Psychotherapie uns darin<lb/> unterstützen wird, auch in der Behandlung der schweren Fälle<lb/> von Psychoneurosen Erfreuliches zu leisten.<lb break="paragraph"/></p>
+              <p>Hier ist vielleicht der Platz für eine weitere Bemerkung.<lb/> Ich weiß, daß meine Betonung der Rolle des Sexuellen für die<lb/> Entstehung der Psychoneurosen in weiteren Kreisen bekannt<lb/> geworden ist. Ich weiß aber auch, daß Einschränkungen und<lb/> nähere Bestimmungen beim großen Publikum wenig nützen; die<lb/> Menge hat für wenig Raum in ihrem Gedächtnis und behält<lb/> von einer Behauptung doch nur den rohen Kern, schafft sich<lb/> ein leicht zu merkendes Extrem. Es mag auch manchen Ärzten<lb/> so ergangen sein, daß ihnen als Inhalt meiner Lehre vorschwebt<lb/> ich führe die Neurosen in letzter Linie auf sexuelle Entbehrung<lb/> zurück. An dieser fehlt es nicht unter den Lebensbedingungen<lb/> unserer Gesellschaft. Wie nahe mag es nun bei solcher Vor<lb break="no"/>aussetzung liegen, den mühseligen Umweg über die psychische<lb/> Kur zu vermeiden und direkt die Heilung anzustreben, indem<lb/> man die sexuelle Betätigung als Heilmittel empfiehlt? Ich weiß<lb/> nun nicht, was mich bewegen könnte, diese Folgerung zu unter<lb break="no"/>drücken, wenn sie berechtigt wäre. Die Sache liegt aber anders.<lb/> Die sexuelle Bedürftigkeit und Entbehrung, das ist bloß der<lb/> eine Faktor, der beim Mechanismus der Neurose ins Spiel tritt<lb/> bestünde er allein, so würde nicht Krankheit, sondern Aus<lb break="no"/>schweifung die Folge sein. Der andere, ebenso unerläßliche<lb/> Faktor, an den man allzu bereitwillig vergißt, ist die Sexual<lb break="no"/>abneigung der Neurotiker, ihre Unfähigkeit zum Lieben, jener<lb/> psychische Zug, den ich „Verdrängung“ genannt habe. Erst aus<lb/> dem Konflikt zwischen beiden Strebungen geht die neurotische<lb/> Erkrankung hervor, und darum kann der Rat der sexuellen<lb/> Betätigung bei den Psychoneurosen eigentlich nur selten als<lb/> guter Rat bezeichnet werden.<lb break="paragraph"/></p> <p>Lassen Sie mich mit dieser abwehrenden Bemerkung<lb/> schließen. Wir wollen hoffen, daß Ihr von jedem feindseligen<lb/> Vorurteil gereinigtes Interesse für die Psychotherapie uns darin<lb/> unterstützen wird, auch in der Behandlung der schweren Fälle<lb/> von Psychoneurosen Erfreuliches zu leisten.<lb break="paragraph"/></p>
          
       </div></body>
    </text>

@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Dr. Anton von Freund † (1920-003/1920)</title>
-            <title type="short">Erstveröffentlichung</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1920-003; 1920c): Dr. Anton von Freund †</title>
+            <title type="manifestation" level="a">Dr. Anton von Freund † (1920-003/1920)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,75 +74,79 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__82a677b1-17c0-4633-b48e-f89016306ee3">
-            <title type="work">Freud, Sigmund  (1920-003; 1920c): Dr. Anton von Freund †</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/dr-anton-von-freund</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/82a677b1-17c0-4633-b48e-f89016306ee3</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__3bbbd13a-5d49-430a-82d7-b4cb003e67c2">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Dr. Anton von Freund †</title>
-                  <title type="short">Erstveröffentlichung</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1920-003/1920</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/dr-anton-von-freund/druckversion</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bbbd13a-5d49-430a-82d7-b4cb003e67c2</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Dr. Anton von Freund †</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1920-01-01">1920-01-01</date>
-                        <name>Text in Periodikum</name>
-                        <bibl xml:id="bibl__c3a32f90-0849-4250-8233-95e900a69076">
-                           <title type="main">Internationale Zeitschrift für Psychoanalyse</title>
-                           <title type="sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1920-01-01">1920-01-01</date>
-                           <biblScope unit="volume">1</biblScope>
-                           <biblScope unit="year">6</biblScope>
-                           <biblScope unit="page" to="96">96</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/c3a32f90-0849-4250-8233-95e900a69076</idno>
-                           <name>Periodikum (Heft)</name>
+                  <name>Text in Periodikum</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                  <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1920-01-01">1920-01-01</date>
+                  </imprint>
+                  <extent>96 Seiten</extent>
+                  <biblScope unit="volume">1</biblScope>
+                  <biblScope unit="year">6</biblScope>
+                  <name>Periodikum (Heft)</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__3bbbd13a-5d49-430a-82d7-b4cb003e67c2">
+                     <title>Dr. Anton von Freund †</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1920-003/1920</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/dr-anton-von-freund/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bbbd13a-5d49-430a-82d7-b4cb003e67c2</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__82a677b1-17c0-4633-b48e-f89016306ee3">
+                           <title>Freud, Sigmund  (1920-003; 1920c): Dr. Anton von Freund †</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/dr-anton-von-freund</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/82a677b1-17c0-4633-b48e-f89016306ee3</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">InternationaleZeitschriftFuumlrPsychoanalyseVi1920Heft1</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

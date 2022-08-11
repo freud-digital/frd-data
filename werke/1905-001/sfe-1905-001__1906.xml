@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Über Psychotherapie  (1905-001/1906)</title>
-            <title type="short">SKSN 1</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+            <title type="manifestation" level="a">Über Psychotherapie  (1905-001/1906)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,75 +74,78 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-            <title type="work">Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__367fc1cf-f19a-4d9f-8e65-50c41f997a75">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Über Psychotherapie </title>
-                  <title type="short">SKSN 1</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-001/1906</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-1</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/367fc1cf-f19a-4d9f-8e65-50c41f997a75</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Über Psychotherapie </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1906-01-01">1906-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__1bf647f0-4f62-4146-bdeb-34f696288cec">
-                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                           <title type="short">SKSN 1</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1906-01-01">1906-01-01</date>
-                           <biblScope unit="volume">1. Folge</biblScope>
-                           <biblScope unit="page" to="217">217</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/1bf647f0-4f62-4146-bdeb-34f696288cec</idno>
-                           <name>Werkausgabe</name>
+                  <name>Text in Werkausgabe</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                  <title type="publication-short">SKSN 1</title>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1906-01-01">1906-01-01</date>
+                  </imprint>
+                  <extent>217 Seiten</extent>
+                  <biblScope unit="volume">1. Folge</biblScope>
+                  <name>Werkausgabe</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__367fc1cf-f19a-4d9f-8e65-50c41f997a75">
+                     <title>Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-001/1906</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-1</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/367fc1cf-f19a-4d9f-8e65-50c41f997a75</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1906_Sammlung</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -173,10 +176,10 @@
              
          
             <pb n="7" xml:id="page__9a86179e-e521-4657-b0da-2fcb028f3e8d"/>
-            <fw type="pageNum">211</fw> <p><hi rendition="#em">c)</hi> Sie werden aus gewissen meiner Bemerkungen er<lb break="no"/>raten haben, daß der analytischen Kur manche Eigen<lb break="no"/>schaften anhaften, die sie von dem Ideal einer Therapie<lb/> ferne halten. Tuto, cito, iucunde; das Forschen und Suchen<lb/> deutet nicht eben auf Raschheit des Erfolges, und die Er<lb break="no"/>wähnung des Widerstandes bereitet Sie auf die Erwartung<lb/> von Unannehmlichkeiten vor. Gewiß, die psychoanalytische<lb/> Behandlung stellt an den Kranken wie an den Arzt hohe<lb/> Ansprüche; von ersterem verlangt sie das Opfer voller<lb/> Aufrichtigkeit, gestaltet sich für ihn zeitraubend und daher<lb/> auch kostspielig; für den Arzt ist sie gleichfalls zeitraubend<lb/> und wegen der Technik, die er zu erlernen und auszuüben<lb/> hat, ziemlich mühselig. Ich finde es auch selbst ganz be<lb break="no"/>rechtigt, daß man bequemere Heilmethoden in Anwendung<lb/> bringt, solange man eben die Aussicht hat, mit diesen letz—<lb/> teren etwas zu erreichen. Auf diesen Punkt kommt es allein<lb/> an; erzielt man mit dem mühevolleren und langwierigeren<lb/> Verfahren erheblich mehr als mit dem kurzen und leichten,<lb/> so ist das erstere trotz alledem gerechtfertigt. Denken Sie,<lb/> meine Herren, um wieviel die <hi rendition="#smallcaps">Finsen</hi>therapie des Lupus<lb/> unbequemer und kostspieliger ist als das früher gebräuchliche<lb/> Ätzen und Schaben, und doch bedeutet es einen großen Fort<lb break="no"/>schritt, bloß weil es mehr leistet; es heilt nämlich den Lupus<lb/> radikal. Nun will ich den Vergleich nicht gerade durchsetzen;<lb/> aber ein ähnliches Vorrecht darf doch die psychoanalytische<lb/> Methode für sich in Anspruch nehmen. In Wirklichkeit habe<lb/> ich meine therapeutische Methode nur an schweren und<lb/> schwersten Fällen ausarbeiten und versuchen können; mein<lb/> Material waren zuerst nur Kranke, die alles erfolglos ver<lb break="no"/>sucht und durch Jahre in Anstalten geweilt hatten. Ich habe<lb/> kaum Erfahrung genug gesammelt, um Ihnen sagen zu können,<lb/> wie sich meine Therapie bei jenen leichteren, episodisch auf<lb break="no"/>tretenden Erkrankungen verhält, die wir unter den verschieden<lb break="no"/>artigsten Einflüssen und auch spontan abheilen sehen. Die<lb/> psychoanalytische Therapie ist an dauernd existenzunfähigen<lb/> Kranken und für solche geschaffen worden, und ihr Triumph<lb/> ist es, daß sie eine befriedigende Anzahl von solchen dauernd<lb/> existenzfähig macht. Gegen diesen Erfolg erscheint dann<lb break="paragraph"/><pb n="8" xml:id="page__d6029507-b8ba-469a-909d-2ebfe438230a"/><fw type="pageNum">212</fw>aller Aufwand geringfügig. Wir können uns nicht verhehlen,<lb/> was wir vor den Kranken zu verleugnen pflegen, daß eine<lb/> schwere Neurose in ihrer Bedeutung für das ihr unterworfene<lb/> Individuum hinter keiner Kachexie, keinem der gefürchteten<lb/> Allgemeinleiden zurücksteht.<lb break="paragraph"/></p>
+            <fw type="pageNum">211</fw> <p><hi rendition="#em">c)</hi> Sie werden aus gewissen meiner Bemerkungen er<lb break="no"/>raten haben, daß der analytischen Kur manche Eigen<lb break="no"/>schaften anhaften, die sie von dem Ideal einer Therapie<lb/> ferne halten. Tuto, cito, iucunde; das Forschen und Suchen<lb/> deutet nicht eben auf Raschheit des Erfolges, und die Er<lb break="no"/>wähnung des Widerstandes bereitet Sie auf die Erwartung<lb/> von Unannehmlichkeiten vor. Gewiß, die psychoanalytische<lb/> Behandlung stellt an den Kranken wie an den Arzt hohe<lb/> Ansprüche; von ersterem verlangt sie das Opfer voller<lb/> Aufrichtigkeit, gestaltet sich für ihn zeitraubend und daher<lb/> auch kostspielig; für den Arzt ist sie gleichfalls zeitraubend<lb/> und wegen der Technik, die er zu erlernen und auszuüben<lb/> hat, ziemlich mühselig. Ich finde es auch selbst ganz be<lb break="no"/>rechtigt, daß man bequemere Heilmethoden in Anwendung<lb/> bringt, solange man eben die Aussicht hat, mit diesen letz<lb break="no"/>teren etwas zu erreichen. Auf diesen Punkt kommt es allein<lb/> an; erzielt man mit dem mühevolleren und langwierigeren<lb/> Verfahren erheblich mehr als mit dem kurzen und leichten,<lb/> so ist das erstere trotz alledem gerechtfertigt. Denken Sie,<lb/> meine Herren, um wieviel die <hi rendition="#smallcaps">Finsen</hi>therapie des Lupus<lb/> unbequemer und kostspieliger ist als das früher gebräuchliche<lb/> Ätzen und Schaben, und doch bedeutet es einen großen Fort<lb break="no"/>schritt, bloß weil es mehr leistet; es heilt nämlich den Lupus<lb/> radikal. Nun will ich den Vergleich nicht gerade durchsetzen;<lb/> aber ein ähnliches Vorrecht darf doch die psychoanalytische<lb/> Methode für sich in Anspruch nehmen. In Wirklichkeit habe<lb/> ich meine therapeutische Methode nur an schweren und<lb/> schwersten Fällen ausarbeiten und versuchen können; mein<lb/> Material waren zuerst nur Kranke, die alles erfolglos ver<lb break="no"/>sucht und durch Jahre in Anstalten geweilt hatten. Ich habe<lb/> kaum Erfahrung genug gesammelt, um Ihnen sagen zu können,<lb/> wie sich meine Therapie bei jenen leichteren, episodisch auf<lb break="no"/>tretenden Erkrankungen verhält, die wir unter den verschieden<lb break="no"/>artigsten Einflüssen und auch spontan abheilen sehen. Die<lb/> psychoanalytische Therapie ist an dauernd existenzunfähigen<lb/> Kranken und für solche geschaffen worden, und ihr Triumph<lb/> ist es, daß sie eine befriedigende Anzahl von solchen dauernd<lb/> existenzfähig macht. Gegen diesen Erfolg erscheint dann<lb break="paragraph"/><pb n="8" xml:id="page__d6029507-b8ba-469a-909d-2ebfe438230a"/><fw type="pageNum">212</fw>aller Aufwand geringfügig. Wir können uns nicht verhehlen,<lb/> was wir vor den Kranken zu verleugnen pflegen, daß eine<lb/> schwere Neurose in ihrer Bedeutung für das ihr unterworfene<lb/> Individuum hinter keiner Kachexie, keinem der gefürchteten<lb/> Allgemeinleiden zurücksteht.<lb break="paragraph"/></p>
          
             
-              <p><hi rendition="#em">d)</hi> Die Indikationen und Gegenanzeigen dieser Behand<lb break="no"/>lung sind infolge der vielen praktischen Beschränkungen, die<lb/> meine Tätigkeit betroffen haben, kaum endgiltig anzugeben.<lb/> Indes will ich versuchen, einige Punkte mit Ihnen zu erörtern:<lb break="paragraph"/></p> <p>1. Man übersehe nicht über die Krankheit den sonstigen<lb/> Wert einer Person und weise Kranke zurück, welche nicht<lb/> einen gewissen Bildungsgrad und einen einigermaßen verläß<lb break="no"/>lichen Charakter besitzen. Man darf nicht vergessen, daß es<lb/> auch Gesunde gibt, die nichts taugen, und daß man nur allzu<lb/> leicht geneigt ist, bei solchen minderwertigen Personen alles,<lb/> was sie existenzunfähig macht, auf die Krankheit zu schieben,<lb/> wenn sie irgend einen Anflug von Neurose zeigen. Ich stehe<lb/> auf dem Standpunkt, daß die Neurose ihren Träger keines<lb break="no"/>wegs zum Dégéneré stempelt, daß sie sich aber häufig genug<lb/> mit den Erscheinungen der Degeneration vergesellschaftet an<lb/> demselben Individuum findet. Die analytische Psychotherapie<lb/> ist nun kein Verfahren zur Behandlung der neuropathischen<lb/> Degeneration, sie findet im Gegenteile an derselben ihre<lb/> Schranke. Sie ist auch bei Personen nicht anwendbar, die<lb/> sich nicht selbst durch ihre Leiden zur Therapie gedrängt<lb/> fühlen, sondern sich einer solchen nur infolge des Macht<lb break="no"/>gebotes ihrer Angehörigen unterziehen. Die Eigenschaft, auf<lb/> die es für die Brauchbarkeit zur psychoanalytischen Behand<lb break="no"/>lung ankommt, die Erziehbarkeit, werden wir noch von einem<lb/> anderen Gesichtspunkte würdigen müssen.<lb break="paragraph"/></p> <p>2. Wenn man sicher gehen will, beschränke man seine<lb/> Auswahl auf Personen, die einen Normalzustand haben, da<lb/> man sich im psychoanalytischen Verfahren von diesem aus<lb/> des Krankhaften bemächtigt. Psychosen, Zustände von Ver<lb break="no"/>worrenheit und tiefgreifender (ich möchte sagen: toxischer)<lb/> Verstimmung sind also für die Psychoanalyse, wenigstens wie<lb/> sie bis jetzt ausgeübt wird, ungeeignet. Ich halte es für<lb/> durchaus nicht ausgeschlossenen, daß man bei geeigneter Ab<lb break="no"/><pb n="9" xml:id="page__289dded9-cdc2-4246-940d-42b8632c27e0"/><fw type="pageNum">213</fw>änderung des Verfahrens sich über diese Gegenindikation<lb/> hinaussetzen und so eine Psychotherapie der Psychosen in<lb/> Angriff nehmen könne.<lb break="paragraph"/></p>
+              <p><hi rendition="#em">d)</hi> Die Indikationen und Gegenanzeigen dieser Behand<lb break="no"/>lung sind infolge der vielen praktischen Beschränkungen, die<lb/> meine Tätigkeit betroffen haben, kaum endgiltig anzugeben.<lb/> Indes will ich versuchen, einige Punkte mit Ihnen zu erörtern:<lb break="paragraph"/></p> <p>1. Man übersehe nicht über die Krankheit den sonstigen<lb/> Wert einer Person und weise Kranke zurück, welche nicht<lb/> einen gewissen Bildungsgrad und einen einigermaßen verläß<lb break="no"/>lichen Charakter besitzen. Man darf nicht vergessen, daß es<lb/> auch Gesunde gibt, die nichts taugen, und daß man nur allzu<lb/> leicht geneigt ist, bei solchen minderwertigen Personen alles,<lb/> was sie existenzunfähig macht, auf die Krankheit zu schieben,<lb/> wenn sie irgend einen Anflug von Neurose zeigen. Ich stehe<lb/> auf dem Standpunkt, daß die Neurose ihren Träger keines<lb break="no"/>wegs zum Dégéneré stempelt, daß sie sich aber häufig genug<lb/> mit den Erscheinungen der Degeneration vergesellschaftet an<lb/> demselben Individuum findet. Die analytische Psychotherapie<lb/> ist nun kein Verfahren zur Behandlung der neuropathischen<lb/> Degeneration, sie findet im Gegenteile an derselben ihre<lb/> Schranke. Sie ist auch bei Personen nicht anwendbar, die<lb/> sich nicht selbst durch ihre Leiden zur Therapie gedrängt<lb/> fühlen, sondern sich einer solchen nur infolge des Macht<lb break="no"/>gebotes ihrer Angehörigen unterziehen. Die Eigenschaft, auf<lb/> die es für die Brauchbarkeit zur psychoanalytischen Behand<lb break="no"/>lung ankommt, die Erziehbarkeit, werden wir noch von einem<lb/> anderen Gesichtspunkte würdigen müssen.<lb break="paragraph"/></p> <p>2. Wenn man sicher gehen will, beschränke man seine<lb/> Auswahl auf Personen, die einen Normalzustand haben, da<lb/> man sich im psychoanalytischen Verfahren von diesem aus<lb/> des Krankhaften bemächtigt. Psychosen, Zustände von Ver<lb break="no"/>worrenheit und tiefgreifender (ich möchte sagen: toxischer)<lb/> Verstimmung sind also für die Psychoanalyse, wenigstens wie<lb/> sie bis jetzt ausgeübt wird, ungeeignet. Ich halte es für<lb/> durchaus nicht ausgeschlossen, daß man bei geeigneter Ab<lb break="no"/><pb n="9" xml:id="page__289dded9-cdc2-4246-940d-42b8632c27e0"/><fw type="pageNum">213</fw>änderung des Verfahrens sich über diese Gegenindikation<lb/> hinaussetzen und so eine Psychotherapie der Psychosen in<lb/> Angriff nehmen könne.<lb break="paragraph"/></p>
          
             
               <p>3. Das Alter der Kranken spielt bei der Auswahl zur<lb/> psychoanalytischen Behandlung insoferne eine Rolle als bei<lb/> Personen nahe an oder über 50 Jahre einerseits die Plastizität<lb/> der seelischen Vorgänge zu fehlen pflegt, auf welche die<lb/> Therapie rechnet — alte Leute sind nicht mehr erziehbar<lb/> und als anderseits das Material, welches durchzuarbeiten ist,<lb/> die Behandlungsdauer ins Unabsehbare verlängert. Die Alters<lb break="no"/>grenze nach unten ist nur individuell zu bestimmen; jugend<lb break="no"/>liche Personen noch vor der Pubertät sind oft ausgezeichnet<lb/> zu beeinflussen.<lb break="paragraph"/></p> <p>4. Man wird nicht zur Psychoanalyse greifen, wenn es<lb/> sich um die rasche Beseitigung drohender Erscheinungen<lb/> handelt, also z. B. bei einer hysterischen Anorexie.<lb break="paragraph"/></p> <p>Sie werden nun den Eindruck gewonnen haben, daß das<lb/> Anwendungsgebiet der analytischen Psychotherapie ein sehr<lb/> beschränktes ist, da Sie eigentlich nichts anders als Gegen<lb break="no"/>anzeigen von mir gehört haben. Nichtsdestoweniger bleiben<lb/> Fälle und Krankheitsformen genug übrig, an denen diese<lb/> Therapie sich erproben kann, alle chronischen Formen von<lb/> Hysterie mit Resterscheinungen, das große Gebiet der Zwangs<lb break="no"/>zustände und Abulien u. dgl.<lb break="paragraph"/></p> <p>Erfreulich ist es, daß man gerade den wertvollsten und<lb/> sonst höchstentwickelten Personen auf solche Weise am<lb/> ehesten Hilfe bringen kann. Wo aber mit der analytischen<lb/> Psychotherapie nur wenig auszurichten war, da, darf man<lb/> getrost behaupten, hätte irgend welche andere Behandlung<lb/> sicherlich gar nichts zustande gebracht.<lb break="paragraph"/></p> <p><hi rendition="#em">e)</hi> Sie werden mich gewiß fragen wollen, wie es bei<lb/> Anwendung der Psychoanalyse mit der Möglichkeit, Schaden<lb/> zu stiften, bestellt ist. Ich kann Ihnen darauf erwidern, wenn<lb/> Sie nur billig urteilen wollen, diesem Verfahren dasselbe<lb/> kritische Wohlwollen entgegenbringen, das Sie für unsere<lb/> anderen therapeutischen Methoden bereit haben, so werden<lb/> Sie meiner Meinung zustimmen müssen, daß bei einer mit<lb/> Verständnis geleiteten analytischen Kur ein Schaden für den<lb break="paragraph"/><pb n="10" xml:id="page__81fce9ee-7a2c-40df-80fa-0566ce9857bb"/><fw type="pageNum">214</fw>Kranken nicht zu befürchten ist. Anders wird vielleicht<lb/> urteilen, wer als Laie gewohnt ist, alles, was sich in einem<lb/> Krankheitsfalle begibt, der Behandlung zur Last zu legen.<lb/> Es ist ja nicht lange her, daß unseren Wasserheilanstalten<lb/> ein ähnliches Vorurteil entgegenstand. So mancher, dem man<lb/> riet, eine solche Anstalt aufzusuchen, wurde bedenklich, weil<lb/> er einen Bekannten gehabt hatte, der als Nervöser in die<lb/> Anstalt kam und dort verrückt wurde. Es handelte sich, wie<lb/> Sie erraten, um Fälle von beginnender allgemeiner Paralyse,<lb/> die man im Anfangsstadium noch in einer Wasserheilanstalt<lb/> unterbringen konnte, und die dort ihren unaufhaltsamen Ver<lb break="no"/>lauf bis zur manifesten Geistesstörung genommen hatten; für<lb/> die Laien war das Wasser Schuld und Urheber dieser trau<lb break="no"/>rigen Veränderung. Wo es sich um neuartige Beeinflussungen<lb/> handelt, halten sich auch Ärzte nicht immer von solchen<lb/> Urteilsfehlern frei. Ich erinnere mich, einmal bei einer Frau<lb/> den Versuch mit Psychotherapie gemacht zu haben, bei der<lb/> ein gutes Stück ihrer Existenz in der Abwechslung von Manie<lb/> und Melancholie verflossen war. Ich übernahm sie zu Ende<lb/> einer Melancholie; es schien zwei Wochen lang gut zu gehen;<lb/> in der dritten standen wir bereits zu Beginn der neuen Manie.<lb/> Es war dies sicherlich eine spontane Veränderung des Krank<lb break="no"/>heitsbildes, denn zwei Wochen sind keine Zeit, in welcher<lb/> die analytische Psychotherapie irgend etwas zu leisten unter<lb break="no"/>nehmen kann, aber der hervorragende — jetzt schon ver<lb break="no"/>storbene — Arzt, der mit mir die Kranke zu sehen bekam,<lb/> konnte sich doch nicht der Bemerkung enthalten, daß an<lb/> dieser „Verschlechterung“ die Psychotherapie Schuld sein<lb/> dürfte. Ich bin ganz überzeugt, daß er sich unter anderen<lb/> Bedingungen kritischer erwiesen hätte.<lb break="paragraph"/></p>

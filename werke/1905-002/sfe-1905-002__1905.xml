@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905)</title>
-            <title type="short">Erstveröffentlichung</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+            <title type="manifestation" level="a">Psychische Behandlung (Seelenbehandlung)  (1905-002/1905)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,74 +74,77 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
-            <title type="work">Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__ef3c9447-4f68-406a-a916-afcbb7576665">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
-                  <title type="short">Erstveröffentlichung</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1905-002/1905</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion-1</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ef3c9447-4f68-406a-a916-afcbb7576665</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Psychische Behandlung (Seelenbehandlung) </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1905-01-01">1905-01-01</date>
-                        <name>Text in Sammelband</name>
-                        <bibl xml:id="bibl__61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834">
-                           <title type="main">Die Gesundheit</title>
-                           <title type="sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
-                           <pubPlace>Leipzig</pubPlace>
-                           <date when="1905-01-01">1905-01-01</date>
-                           <biblScope unit="volume">I. Band</biblScope>
-                           <biblScope unit="page" to="384">384</biblScope>
-                           <editor ref="#p__56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul.</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/61d7a8b3-f6f7-4e19-9fd5-ac32bccc3834</idno>
-                           <name>Sammelband</name>
+                  <name>Text in Sammelband</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Die Gesundheit</title>
+                  <title type="publication-sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul.</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <date when="1905-01-01">1905-01-01</date>
+                  </imprint>
+                  <extent>384 Seiten</extent>
+                  <biblScope unit="volume">I. Band</biblScope>
+                  <name>Sammelband</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__ef3c9447-4f68-406a-a916-afcbb7576665">
+                     <title>Psychische Behandlung (Seelenbehandlung) </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-002/1905</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/psychische-behandlung-seelenbehandlung/druckversion-1</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ef3c9447-4f68-406a-a916-afcbb7576665</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
+                           <title>Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
+                           <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

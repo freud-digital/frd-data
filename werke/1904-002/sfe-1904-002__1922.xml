@@ -2,9 +2,9 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title type="main">Die Freudsche psychoanalytische Methode (1904-002/1922)</title>
-            <title type="short">SKSN 1 (4. Auflage)</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+            <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1922)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
             <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             <editor>
                <name>Diercks, Christine</name>
@@ -74,76 +74,79 @@
                </licence>
             </availability>
          </publicationStmt>
-         <seriesStmt xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-            <title type="work">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-            <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-         </seriesStmt>
          <sourceDesc>
-            <listBibl>
-               <bibl xml:id="bibl__aeda1c94-849f-4997-87e8-382b731c8e95">
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
                   <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                  <title type="short">SKSN 1 (4. Auflage)</title>
-                  <title type="sub">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
                   <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <editor>
-                     <name>Blatow, Arkadi</name>
-                     <name>Diercks, Christine</name>
-                     <name>Huber, Christian</name>
-                     <name>Kaufmann, Kira</name>
-                     <name>Rohrwasser, Michael</name>
-                  </editor>
-                  <date when="2022">2022</date>
-                  <idno type="signature">1904-002/1922</idno>
-                  <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-3</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/aeda1c94-849f-4997-87e8-382b731c8e95</idno>
-               </bibl>
-            </listBibl>
-            <msDesc>
-               <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-               </msIdentifier>
-               <msContents>
-                  <msItem>
-                     <bibl>
-                        <title>Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <date when="1922-01-01">1922-01-01</date>
-                        <name>Text in Werkausgabe</name>
-                        <bibl xml:id="bibl__9a971e5d-16c1-44ec-a51d-0b403c52045a">
-                           <title type="main">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                           <title type="sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                           <title type="short">SKSN 1 (4. Auflage)</title>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1922-01-01">1922-01-01</date>
-                           <biblScope unit="volume">1. Folge</biblScope>
-                           <biblScope unit="issue">4. unveränderte Auflage</biblScope>
-                           <biblScope unit="page" to="219">219</biblScope>
-                           <editor ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</editor>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/bibliography/9a971e5d-16c1-44ec-a51d-0b403c52045a</idno>
-                           <name>Werkausgabe</name>
+                  <name>Text in Werkausgabe</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                  <title type="publication-short">SKSN 1 (4. Auflage)</title>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Wien</pubPlace>
+                     <date when="1922-01-01">1922-01-01</date>
+                  </imprint>
+                  <extent>219 Seiten</extent>
+                  <biblScope unit="volume">1. Folge</biblScope>
+                  <biblScope unit="issue">4. unveränderte Auflage</biblScope>
+                  <name>Werkausgabe</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__aeda1c94-849f-4997-87e8-382b731c8e95">
+                     <title>Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1904-002/1922</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-3</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/aeda1c94-849f-4997-87e8-382b731c8e95</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                           <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
                         </bibl>
-                     </bibl>
-                  </msItem>
-               </msContents>
-               <physDesc>
-                  <objectDesc>
-                     <supportDesc>
-                        <support>
-                           Buch aus <material>Papier</material> in Druckschrift .
-                        </support>
-                     </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                     <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                     <p>Druckversion</p>
-                  </typeDesc>
-               </physDesc>
-            </msDesc>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>IPU</repository>
+                        <idno type="IPU">Freud_1922_Sammlung_kleiner_Schriften_4te_k</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
@@ -174,7 +177,7 @@
               <p>Das therapeutische Verfahren bleibt, von geringen Mo<lb break="no"/>difikationen abgesehen, das nämliche für alle Symptombilder<lb/> der vielgestaltigen Hysterie und ebenso für alle Ausbildungen<lb/> der Zwangsneurose. Von einer unbeschränkten Anwendbarkeit<lb/> desselben ist aber keine Rede. Die Natur der psychoanaly<lb break="no"/>tischen Methode schafft Indikationen und Gegenanzeigen so<lb break="no"/>wohl von seiten der zu behandelnden Personen, als auch<lb/> mit Rücksicht auf das Krankheitsbild. Am günstigsten für<lb/> die Psychoanalyse sind die chronischen Fälle von Psycho<lb break="no"/>neurosen mit wenig stürmischen oder gefahrdrohenden Sym<lb break="no"/>ptomen, also zunächst alle Arten der Zwangsneurose, Zwangs<lb break="no"/>denken mid Zwangshandeln, und Fälle von Hysterie, in denen<lb/> Phobien und Abulien die Hauptrolle spielen, weiterhin aber<lb/> auch alle somatischen Ausprägungen der Hysterie, insoferne<lb/> nicht, wie bei der Anorexie, rasche Beseitigung der Symptome<lb/> zur Hauptaufgabe des Arztes wird. Bei akuten Fällen von<lb/> Hysterie wird man den Eintritt eines ruhigeren Stadiums abzu<lb break="no"/>warten haben; in allen Fällen, bei denen die nervöse Er<lb break="no"/>schöpfung obenan steht, wird man ein Verfahren vermeiden,<lb/> welches selbst Anstrengung erfordert, nur langsame Fortschritte<lb/> zeitigt und auf die Fortdauer der Symptome eine Zeitlang keine<lb/> Rücksicht nehmen kann.<lb break="paragraph"/></p> <p>An die Person, die man mit Vorteil der Psychoanalyse<lb/> unterziehen soll, sind mehrfache Forderungen zu stellen. Sie<lb/> muß erstens eines psychischen Normalzustandes fähig sein; in<lb/> Zeiten der Verworrenheit oder melancholischer Depression<lb/> ist auch bei einer Hysterie nichts auszurichten. Man darf<lb/> ferner ein gewisses Maß natürlicher Intelligenz und ethischer<lb/> Entwicklung fördern; bei wertlosen Personen läßt den Arzt<lb break="paragraph"/><pb n="7" xml:id="page__31d9978c-18b0-448a-9fc8-e62fd1007938"/><fw type="pageNum">219</fw>bald das Interesse im Stiche, welches ihn zur Vertiefung in<lb/> das Seelenleben des Kranken befähigt. Ausgeprägte Charakter<lb break="no"/>verbildungen, Züge von wirklich degenerativer Konstitution<lb/> äußern sich bei der Kur als Quelle von kaum zu überwindenden<lb/> Widerständen. Insoweit setzt überhaupt die Konstitution eine<lb/> Grenze für die Heilbarkeit durch Psychotherapie. Auch eine<lb/> Altersstufe in der Nähe des fünften Dezenniums schafft un<lb break="no"/>günstige Bedingungen für die Psychoanalyse. Die Masse des<lb/> psychischen Materials ist dann nicht mehr zu bewältigen, die<lb/> zur Herstellung erforderliche Zeit wird zu lang, und die<lb/> Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt<lb/> zu erlahmen.<lb break="paragraph"/></p>
          
             
-              <p>Trotz aller dieser Einschränkungen ist die Anzahl der<lb/> für die Psychoanalyse geeigneten Personen eine außerordentlich<lb/> große, und die Erweiterung unseres therapeutischen Könnens<lb/> durch dieses Verfahren nach den Behauptungen <hi rendition="#smallcaps">Freuds</hi> eine<lb/> sehr beträchtliche. <hi rendition="#smallcaps">Freud</hi> beansprucht lange Zeiträume, ½ Jahr<lb/> bis 3 Jahre für eine wirksame Behandlung; er gibt aber die<lb/> Auskunft, daß er bisher infolge verschiedener leicht zu erratender<lb/> Umstände meist nur in die Lage gekommen ist, seine Behandlung<lb/> an sehr schweren Fällen zu erproben, Personen mit vieljähriger<lb/> Krankheitsdauer und völliger Leistungsunfähigkeit, die, durch<lb/> alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei<lb/> seinem neuen und viel angezweifelten Verfahren gesucht haben<lb/> In Fällen leichterer Erkrankung dürfte sich die Behandlungs<lb break="no"/>dauer sehr verkürzen und ein außerodentlicher Gewinn an<lb/> Vorbeugung für die Zukunft erzielen lassen.“<lb break="paragraph"/></p>
+              <p>Trotz aller dieser Einschränkungen ist die Anzahl der<lb/> für die Psychoanalyse geeigneten Personen eine außerordentlich<lb/> große, und die Erweiterung unseres therapeutischen Könnens<lb/> durch dieses Verfahren nach den Behauptungen <hi rendition="#smallcaps">Freuds</hi> eine<lb/> sehr beträchtliche. <hi rendition="#smallcaps">Freud</hi> beansprucht lange Zeiträume, ½ Jahr<lb/> bis 3 Jahre für eine wirksame Behandlung; er gibt aber die<lb/> Auskunft, daß er bisher infolge verschiedener leicht zu erratender<lb/> Umstände meist nur in die Lage gekommen ist, seine Behandlung<lb/> an sehr schweren Fällen zu erproben, Personen mit vieljähriger<lb/> Krankheitsdauer und völliger Leistungsunfähigkeit, die, durch<lb/> alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei<lb/> seinem neuen und viel angezweifelten Verfahren gesucht haben<lb/> In Fällen leichterer Erkrankung dürfte sich die Behandlungs<lb break="no"/>dauer sehr verkürzen und ein außerordentlicher Gewinn an<lb/> Vorbeugung für die Zukunft erzielen lassen.“<lb break="paragraph"/></p>
          
       </div></body>
    </text>
