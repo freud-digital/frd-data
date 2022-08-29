@@ -74,6 +74,15 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. OCR Korr KK</p>
+<p>Anmerkung: Seite in Metadaten falsch; S. 41 ist korrekt. Vgl. anno <a href="https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030208&amp;seite=41&amp;zoom=33">https://anno.onb.ac.at/cgi-content/anno?aid=nfp&amp;datum=19030208&amp;seite=41…</a></p>
+<p>2. OCR korr KK</p>
+<p>3. Korr. CH</p>
+<p> </p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -117,7 +126,7 @@
                         <bibl xml:id="bibl__9771658d-e34f-4b8e-9f1c-9c126e5eef01">
                            <title>Freud, Sigmund  (1903-001; 1903a): Rezension von: Biedenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
                            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-biedenkapp-georg-im-kampfe-gegen-hirnbacillen</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/9771658d-e34f-4b8e-9f1c-9c126e5eef01</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9771658d-e34f-4b8e-9f1c-9c126e5eef01</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>
