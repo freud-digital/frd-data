@@ -74,6 +74,13 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. OCR korr KK</p>
+<p>2. OCR Korr. KK</p>
+<p>3. Korr. CH</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -116,7 +123,7 @@
                         <bibl xml:id="bibl__0292d121-4925-4316-aab3-af0c9e67ba0e">
                            <title>Freud, Sigmund  (1905-007; 1905f): Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
                            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/0292d121-4925-4316-aab3-af0c9e67ba0e</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0292d121-4925-4316-aab3-af0c9e67ba0e</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>
