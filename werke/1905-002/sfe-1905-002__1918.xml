@@ -74,6 +74,12 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR Korr. LF</p>
+<p>2. Korr. CH</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -117,7 +123,7 @@
                         <bibl xml:id="bibl__38bda5e0-b14a-4250-9379-eef0a9bae370">
                            <title>Freud, Sigmund  (1905-002; 1890a): Psychische Behandlung (Seelenbehandlung)</title>
                            <idno type="url">https://www.freud-edition.net/psychische-behandlung-seelenbehandlung-0</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/38bda5e0-b14a-4250-9379-eef0a9bae370</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>
