@@ -74,6 +74,13 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. OCR Korr. KK</p>
+<p>2. OCR Korr. LF</p>
+<p>3. Korr. CH</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -112,7 +119,7 @@
                         <bibl xml:id="bibl__4b6869f3-e463-4498-9fa2-b0a6e55b7882">
                            <title>Freud, Sigmund  (1904-006; 1904f): Rezension von: Löwenfeld, L[eopold] ›Die psychischen Zwangserscheinungen‹</title>
                            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-lowenfeld-leopold-die-psychischen-zwangserscheinungen</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/4b6869f3-e463-4498-9fa2-b0a6e55b7882</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4b6869f3-e463-4498-9fa2-b0a6e55b7882</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>
