@@ -74,6 +74,11 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. Korr. OCR KK</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -116,7 +121,7 @@
                         <bibl xml:id="bibl__0be5ce0c-6784-432a-bfb2-089cf5969f22">
                            <title>Freud, Sigmund  (1904-003; 1904b): Rezension von: Bigelow, John ›The Mystery of Sleep‹</title>
                            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-bigelow-john-mystery-sleep</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/0be5ce0c-6784-432a-bfb2-089cf5969f22</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0be5ce0c-6784-432a-bfb2-089cf5969f22</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>
