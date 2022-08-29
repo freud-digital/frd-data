@@ -74,6 +74,12 @@
                </licence>
             </availability>
          </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. u. 2. OCR Korr KK</p>
+<p>3. Korr. CH</p>
+            </note>
+         </notesStmt>
          <sourceDesc>
             <biblStruct xml:id="guiding_manifestation">
                <analytic>
@@ -116,7 +122,7 @@
                         <bibl xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
                            <title>Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
                            <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
                         </bibl>
                      </relatedItem>
                   </bibl>

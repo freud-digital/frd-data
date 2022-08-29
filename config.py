@@ -5,8 +5,8 @@ HISTORISCHE_AUSGABE = "5b8d9c77-99d0-4a80-92d8-4a9de06ac7ca"
 FRD_USER = os.environ.get('FRD_USER')
 FRD_PW = os.environ.get('FRD_PW')
 
-WERK_ID = "0be5ce0c-6784-432a-bfb2-089cf5969f22"
-WERK_PATH = "1904-003"
+WERK_ID = "13526efa-f9a8-40ee-91e7-efb8e45f7fd0"
+WERK_PATH = "1904-004"
 # READING_WIT = "sfe-1904-006__1904.xml"
 
 MANIFEST_DEFAULT_FILTER = {
