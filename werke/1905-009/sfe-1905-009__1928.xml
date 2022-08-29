@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+            <title type="manifestation" level="a">Freud, Sigmund (1905-009/1928)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Blatow, Arkadi</name>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR KK</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
+                  <title type="manifestation">Freud, Sigmund</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <name>Text in Sammelband</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Wer ist’s?</title>
+                  <title type="publication-sub">Unsere Zeitgenossen</title>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <date when="1928-01-01">1928-01-01</date>
+                  </imprint>
+                  <extent>433</extent>
+                  <biblScope unit="issue">9. Auflage</biblScope>
+                  <name>Sammelband</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__6244d5b5-c64f-4d64-8098-0a3ae9e41aec">
+                     <title>Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-009/1928</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-9</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6244d5b5-c64f-4d64-8098-0a3ae9e41aec</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
+                           <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
+                        </bibl>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+
+            <pb n="1" xml:id="page__38f80e95-e1e5-4242-95e4-993e7799c5c4"/>
+            <fw type="pageNum">Wer ist’s? </fw> <p><hi rendition="#bold">FREUD, Sigmund, Dr., Arzt, Tit. o, ö.</hi><lb/> Prof. d. Neuropathol., Univ. Wien. — *6. V <lb/> 56 Freiberg, in Mähr. — V: Jacob Freud<lb/> Kfm.; M: Amalia gb. Nathanson. — Gymn.<lb/> u. Univ. Wien. — Verh: 86 m. M. Bernays.<lb/> — K: 6. — Nach Promot. Demonstr. a. phy<lb break="no"/>siol. Inst., dann Sekdararzt im allg. Kran<lb break="no"/>kenh., habilit. f. Nerv.-Krankh. 85, Schül. v. Char<lb break="no"/>cot, Paris 85—86, Prof. 02, o. Prof. 20; E.-Dr.<lb/> (L.L.D.) Clark, Univ. 09; erhielt 27 v. d. Psycho<lb break="no"/>analyt. Ges. i. New York e. E.-Geschenk v.<lb/> 100000 Dollars, damit er s. Leb.-Abend, frei v.<lb/> Mat.-Sorg., s. Forsch. widm. kann. — W: Fach<lb break="no"/>wiss. Schrift. i. Journ. s. 77, Üb. Aphasie 91, üb.<lb/> Kinderlähmgn. 91, 93, 97, Stud. üb. Hysterie<lb/> (m. Breuer) 3. A. 16; Traumdeutg. 7. A. 22; <lb/> Psychopathol. d. Alltagsleb. 10. A. 24; D. Witz<lb/> u. seine Beziehg. z. Unbewußten 4. A. 24; <lb/> 3 Abhandlgn. z. Sexualtheorie 6. A. 26; Sammlg. <lb/> kl. Schr. zur Neurosenlehre 2. A. 11; Zweite<lb/> Folge 2. A. 12; 3. Folge 13; 4. Folge 18; 5. Folge<lb/> 22; Wahn u. Träume in Jensens Gradiva 3. A.<lb/> 24; Kindheitserinng. d. Leonardo da Vinci 2. A.<lb/> 19; Totem u. Tabu 13, 3. A. 22; 5 Vorlesgn. üb.<lb/> Psycho-Analyse 7. A. 24; Vorlesgn. z. Einfhrg.<lb/> i. d. Psycho-Anal. 4. A. 22; Jenseits d. Lust<lb break="no"/>prinzips 3. A. 23; Massenpsych. u. Ich-Analyse<lb/> D. Ich u. d. Es, 23; Hemmg., Synt. u. Angst 26;<lb/> D. Frage d. Laienanal. 26; Selbstdarstellg. i.<lb/> Grote’s Mediz. d. Gegenw. IV, 25; Hrsgb. Jahrb.<lb/> f. psychoanalyt. u. psychopath. Forschgn.,<lb/> Internat. Zeitschr. für Psychoanal., Imago,<lb/> Schriften zur angew. Seelenkde.; Public. da<lb break="no"/>selbst — Wien IX, Berggasse 19.<lb break="paragraph"/></p>
+         
+            <pb n="2" xml:id="page__de0af855-f47e-4930-b505-f99094971766"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+            <pb n="3" xml:id="page__92d7eff6-e3a3-4b8d-8f0f-108b3c1cd884"/>
+            <p><lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

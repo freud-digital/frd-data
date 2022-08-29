@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+            <title type="manifestation" level="a">Freud, Sigmund (1905-009/1905)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Blatow, Arkadi</name>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct xml:id="guiding_manifestation">
+               <analytic>
+                  <title type="manifestation">Freud, Sigmund</title>
+                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  <name>Text in Sammelband</name>
+               </analytic>
+               <monogr>
+                  <title type="publication">Wer ist’s? </title>
+                  <title type="publication-sub">Unsere Zeitgenossen</title>
+                  <title type="publication-short"/>
+                  <respStmt>
+                     <resp>Herausgegeben von</resp>
+                     <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                  </respStmt>
+                  <imprint>
+                     <pubPlace>Leipzig</pubPlace>
+                     <date when="1905-01-01">1905-01-01</date>
+                  </imprint>
+                  <extent>230 Seiten</extent>
+                  <name>Sammelband</name>
+               </monogr>
+               <relatedItem type="digitisedVersion">
+                  <bibl xml:id="bibl__3a34b80e-4768-45f6-983d-e998bf272279">
+                     <title>Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <editor>
+                        <name>Blatow, Arkadi</name>
+                        <name>Diercks, Christine</name>
+                        <name>Huber, Christian</name>
+                        <name>Kaufmann, Kira</name>
+                        <name>Rohrwasser, Michael</name>
+                     </editor>
+                     <date when="2022">2022</date>
+                     <idno type="signature">1905-009/1905</idno>
+                     <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion</idno>
+                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3a34b80e-4768-45f6-983d-e998bf272279</idno>
+                     <relatedItem type="work">
+                        <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
+                           <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
+                        </bibl>
+                     </relatedItem>
+                  </bibl>
+               </relatedItem>
+               <relatedItem type="exemplar">
+                  <msDesc>
+                     <msIdentifier>
+                        <repository>Hathitrust</repository>
+                        <idno type="Hathitrust">mdp.39015011033662</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/d42df202-4719-458f-8fac-519de7cb4003</idno>
+                     </msIdentifier>
+                     <physDesc>
+                        <objectDesc>
+                           <supportDesc>
+                              <support>
+                                 Buch aus <material>Papier</material> in Druckschrift .
+                              </support>
+                           </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                           <p>Druckschrift </p>
+                        </handDesc>
+                        <typeDesc>
+                           <p>Druckversion</p>
+                        </typeDesc>
+                     </physDesc>
+                  </msDesc>
+               </relatedItem>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+
+            <pb n="1" xml:id="page__f66ba167-ae6f-4254-a270-021a60990a7b"/>
+            <p>Wer ist’s?<lb/> UNSERE ZEITGENOSSEN<lb break="paragraph"/></p> <p>Zeitgenossenlexikon<lb break="paragraph"/></p> <p>enthaltend<lb break="paragraph"/></p> <p>Biographien nebst Bibliographien. Angaben<lb/> über Herkunft, Familie, Lebenslauf, Werke,<lb/> Lieblingsbeschäftigungen, Parteiangehörigkeit,<lb/> Mitgliedschaft bei Gesellschaften, Adresse.<lb/> Andere Mitteilungen von allgemeinem<lb/> Interesse<lb break="paragraph"/></p> <p>Zusammengestellt und herausgegeben<lb break="paragraph"/></p> <p>von<lb break="paragraph"/></p> <p>Herrmann A. L. Degener<lb break="paragraph"/></p> <p>II. Jahrgang * 1906<lb/> <lb break="paragraph"/></p> <p>Verlag von<lb/> H. A. LUDWIG DEGENER<lb break="paragraph"/></p> <p>LEIPZIG<lb/> 1906<lb break="paragraph"/></p> <p>Vertreter für Amerika:<lb/> G. E. STECHERT &amp; Co. 129—133 W. 20<hi rendition="#sub">th</hi> St., New-York.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>
