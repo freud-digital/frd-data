@@ -82,78 +82,273 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Über Psychotherapie</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Wiener Medizinische Presse</title>
-                  <title type="publication-sub">Organ für praktische Ärzte</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1905-01-01">1905-01-01</date>
-                  </imprint>
-                  <extent>16 Seiten</extent>
-                  <biblScope unit="volume">1</biblScope>
-                  <biblScope unit="year">46</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__5f0829b1-003d-4df7-9ebf-cff0782f96f4">
-                     <title>Über Psychotherapie</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-001-1922">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-001/1905</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-6</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/5f0829b1-003d-4df7-9ebf-cff0782f96f4</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>Hathitrust</repository>
-                        <idno type="Hathitrust">mdp.39015082603534</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/d42df202-4719-458f-8fac-519de7cb4003</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1925">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1906">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1924">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1911">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905.2">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1920">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wiener Medizinische Presse</title>
+                     <title type="publication-sub">Organ für praktische Ärzte</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__0d516366-f075-42af-96db-8ff19680b170">Bum, Anton</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>16 Seiten</extent>
+                     <biblScope unit="volume">1</biblScope>
+                     <biblScope unit="year">46</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__5f0829b1-003d-4df7-9ebf-cff0782f96f4">
+                        <title>Über Psychotherapie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-001/1905</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-6</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/5f0829b1-003d-4df7-9ebf-cff0782f96f4</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                              <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                              <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Hathitrust</repository>
+                           <idno type="Hathitrust">mdp.39015082603534</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/d42df202-4719-458f-8fac-519de7cb4003</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

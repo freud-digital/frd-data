@@ -80,76 +80,102 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Neue Freie Presse</title>
-                  <title type="publication-sub">Morgenblatt</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1904-02-04">1904-02-04</date>
-                  </imprint>
-                  <extent>22</extent>
-                  <biblScope unit="volume">Nr. 14168</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__ac60ea36-6444-4f7a-ac77-85e848e81324">
-                     <title>Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1904-003-1904">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1904-003/1904</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/rezension-von-bigelow-john-1903-mystery-sleep/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ac60ea36-6444-4f7a-ac77-85e848e81324</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__0be5ce0c-6784-432a-bfb2-089cf5969f22">
-                           <title>Freud, Sigmund  (1904-003; 1904b): Rezension von: Bigelow, John ›The Mystery of Sleep‹</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-bigelow-john-mystery-sleep</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0be5ce0c-6784-432a-bfb2-089cf5969f22</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1904-02-04">1904-02-04</date>
+                     </imprint>
+                     <extent>22</extent>
+                     <biblScope unit="volume">Nr. 14168</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1904-02-04">1904-02-04</date>
+                     </imprint>
+                     <extent>22</extent>
+                     <biblScope unit="volume">Nr. 14168</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__ac60ea36-6444-4f7a-ac77-85e848e81324">
+                        <title>Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1904-003/1904</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/rezension-von-bigelow-john-1903-mystery-sleep/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ac60ea36-6444-4f7a-ac77-85e848e81324</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__0be5ce0c-6784-432a-bfb2-089cf5969f22">
+                              <title>Freud, Sigmund  (1904-003; 1904b): Rezension von: Bigelow, John ›The Mystery of Sleep‹</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-bigelow-john-mystery-sleep</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0be5ce0c-6784-432a-bfb2-089cf5969f22</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

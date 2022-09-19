@@ -82,72 +82,98 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Neue Freie Presse</title>
-                  <title type="publication-sub">Morgenblatt</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1905-08-31">1905-08-31</date>
-                  </imprint>
-                  <extent>21</extent>
-                  <biblScope unit="volume">Nr. 14735</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__9be2b10c-4b9f-4b97-bdff-bf5c3319e798">
-                     <title>Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-007-1905">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-007/1905</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9be2b10c-4b9f-4b97-bdff-bf5c3319e798</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__0292d121-4925-4316-aab3-af0c9e67ba0e">
-                           <title>Freud, Sigmund  (1905-007; 1905f): Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0292d121-4925-4316-aab3-af0c9e67ba0e</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-08-31">1905-08-31</date>
+                     </imprint>
+                     <extent>21</extent>
+                     <biblScope unit="volume">Nr. 14735</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-08-31">1905-08-31</date>
+                     </imprint>
+                     <extent>21</extent>
+                     <biblScope unit="volume">Nr. 14735</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__9be2b10c-4b9f-4b97-bdff-bf5c3319e798">
+                        <title>Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-007/1905</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9be2b10c-4b9f-4b97-bdff-bf5c3319e798</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__0292d121-4925-4316-aab3-af0c9e67ba0e">
+                              <title>Freud, Sigmund  (1905-007; 1905f): Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0292d121-4925-4316-aab3-af0c9e67ba0e</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

@@ -81,76 +81,125 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short">GS 11</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1928-01-01">1928-01-01</date>
-                  </imprint>
-                  <extent>297 Seiten</extent>
-                  <biblScope unit="volume">11. Band</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5">
-                     <title>Josef Popper-Lynkeus und die Theorie des Traumes</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1923-007-1928">
+                  <analytic>
+                     <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1923-007/1928</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
-                           <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>297 Seiten</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1923-007-1923">
+                  <analytic>
+                     <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>297 Seiten</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>297 Seiten</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5">
+                        <title>Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-007/1928</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/70a3a8ae-5921-4b3b-a78f-de3a5d3fe9a5</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
+                              <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

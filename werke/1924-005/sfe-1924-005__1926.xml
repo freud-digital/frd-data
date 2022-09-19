@@ -81,76 +81,167 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Sammelband</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1926-01-01">1926-01-01</date>
-                  </imprint>
-                  <extent>184 Seiten</extent>
-                  <name>Sammelband</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__76d5fb0a-a809-4175-bbf1-9e0b7aaa9ef0">
-                     <title>Der Realitätsverlust bei Neurose und Psychose</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1924-005-1926">
+                  <analytic>
+                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1924-005/1926</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/der-realitatsverlust-bei-neurose-und-psychose/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/76d5fb0a-a809-4175-bbf1-9e0b7aaa9ef0</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__7ed4a279-0d7a-4b4e-b321-365a670506b7">
-                           <title>Freud, Sigmund  (1924-005; 1924e): Der Realitätsverlust bei Neurose und Psychose</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/der-realitatsverlust-bei-neurose-und-psychose</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7ed4a279-0d7a-4b4e-b321-365a670506b7</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="IPU">Freud_1926_Studien_zur_Psychoanalyse_der_Neurosen_k</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>184 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1924-005-1925">
+                  <analytic>
+                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>184 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1924-005-1931">
+                  <analytic>
+                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>184 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1924-005-1924">
+                  <analytic>
+                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>184 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>184 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__76d5fb0a-a809-4175-bbf1-9e0b7aaa9ef0">
+                        <title>Der Realitätsverlust bei Neurose und Psychose</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1924-005/1926</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/der-realitatsverlust-bei-neurose-und-psychose/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/76d5fb0a-a809-4175-bbf1-9e0b7aaa9ef0</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__7ed4a279-0d7a-4b4e-b321-365a670506b7">
+                              <title>Freud, Sigmund  (1924-005; 1924e): Der Realitätsverlust bei Neurose und Psychose</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/der-realitatsverlust-bei-neurose-und-psychose</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7ed4a279-0d7a-4b4e-b321-365a670506b7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1926_Studien_zur_Psychoanalyse_der_Neurosen_k</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

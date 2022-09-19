@@ -82,77 +82,241 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short">GS 6</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1925-01-01">1925-01-01</date>
-                  </imprint>
-                  <extent>10 Seiten</extent>
-                  <biblScope unit="volume">6. Band</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__b973fb31-a413-4c3a-9793-67e634cc3c9c">
-                     <title>Die Freudsche psychoanalytische Methode</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1904-002-1920">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1904-002/1925</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-6</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-                           <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="IPU">Freud_1925_Gesammelte_Schriften_VI_Ich_Psychologie</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1906">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1904">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1911">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1924">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1925">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1904-002-1922">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>10 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__b973fb31-a413-4c3a-9793-67e634cc3c9c">
+                        <title>Die Freudsche psychoanalytische Methode</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1904-002/1925</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-6</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b973fb31-a413-4c3a-9793-67e634cc3c9c</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                              <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1925_Gesammelte_Schriften_VI_Ich_Psychologie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

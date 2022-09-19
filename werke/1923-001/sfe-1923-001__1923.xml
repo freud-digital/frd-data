@@ -80,75 +80,144 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Libidotheorie</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Sammelband</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-                  <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Bonn</pubPlace>
-                     <date when="1923-01-01">1923-01-01</date>
-                  </imprint>
-                  <extent>298 Seiten</extent>
-                  <name>Sammelband</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__18c806f5-dcad-46de-8ca4-79e174279194">
-                     <title>Libidotheorie</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1923-001-1923">
+                  <analytic>
+                     <title type="manifestation">Libidotheorie</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1923-001/1923</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/libidotheorie/druckversion-1</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/18c806f5-dcad-46de-8ca4-79e174279194</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__f7c42032-fa71-4592-84c7-b265fb93ac36">
-                           <title>Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/libidotheorie</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f7c42032-fa71-4592-84c7-b265fb93ac36</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+                     <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Bonn</pubPlace>
+                        <date when="1923-01-01">1923-01-01</date>
+                     </imprint>
+                     <extent>298 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1923-001-1928">
+                  <analytic>
+                     <title type="manifestation">Libidotheorie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+                     <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Bonn</pubPlace>
+                        <date when="1923-01-01">1923-01-01</date>
+                     </imprint>
+                     <extent>298 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1923-001-1926">
+                  <analytic>
+                     <title type="manifestation">Libidotheorie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+                     <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Bonn</pubPlace>
+                        <date when="1923-01-01">1923-01-01</date>
+                     </imprint>
+                     <extent>298 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Libidotheorie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+                     <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Bonn</pubPlace>
+                        <date when="1923-01-01">1923-01-01</date>
+                     </imprint>
+                     <extent>298 Seiten</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__18c806f5-dcad-46de-8ca4-79e174279194">
+                        <title>Libidotheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-001/1923</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/libidotheorie/druckversion-1</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/18c806f5-dcad-46de-8ca4-79e174279194</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__f7c42032-fa71-4592-84c7-b265fb93ac36">
+                              <title>Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/libidotheorie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f7c42032-fa71-4592-84c7-b265fb93ac36</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

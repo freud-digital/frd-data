@@ -81,77 +81,264 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Über Psychotherapie</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short">GS 6</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1925-01-01">1925-01-01</date>
-                  </imprint>
-                  <extent>24 Seiten</extent>
-                  <biblScope unit="volume">6. Band</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
-                     <title>Über Psychotherapie</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-001-1922">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-001/1925</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-4</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="IPU">Freud_1925_Gesammelte_Schriften_VI_Ich_Psychologie</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1925">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1906">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1924">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1911">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905.2">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1920">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 6</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1925-01-01">1925-01-01</date>
+                     </imprint>
+                     <extent>24 Seiten</extent>
+                     <biblScope unit="volume">6. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__62258388-9c35-4aed-b7e4-d0088ff3e6e8">
+                        <title>Über Psychotherapie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-001/1925</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-4</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/62258388-9c35-4aed-b7e4-d0088ff3e6e8</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                              <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                              <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1925_Gesammelte_Schriften_VI_Ich_Psychologie</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

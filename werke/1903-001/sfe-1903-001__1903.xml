@@ -84,77 +84,104 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Neue Freie Presse</title>
-                  <title type="publication-sub">Morgenblatt</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1903-02-08">1903-02-08</date>
-                  </imprint>
-                  <extent>41</extent>
-                  <biblScope unit="volume">Nr. 13812</biblScope>
-                  <biblScope unit="year">40</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__24ba6291-4994-4bca-883f-eca7f731de7c">
-                     <title>Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1903-001-1903">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1903-001/1903</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/rezension-von-bidenkapp-georg-im-kampfe-gegen-hirnbacillen/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/24ba6291-4994-4bca-883f-eca7f731de7c</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__9771658d-e34f-4b8e-9f1c-9c126e5eef01">
-                           <title>Freud, Sigmund  (1903-001; 1903a): Rezension von: Biedenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-biedenkapp-georg-im-kampfe-gegen-hirnbacillen</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9771658d-e34f-4b8e-9f1c-9c126e5eef01</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1903-02-08">1903-02-08</date>
+                     </imprint>
+                     <extent>41</extent>
+                     <biblScope unit="volume">Nr. 13812</biblScope>
+                     <biblScope unit="year">40</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1903-02-08">1903-02-08</date>
+                     </imprint>
+                     <extent>41</extent>
+                     <biblScope unit="volume">Nr. 13812</biblScope>
+                     <biblScope unit="year">40</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__24ba6291-4994-4bca-883f-eca7f731de7c">
+                        <title>Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1903-001/1903</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/rezension-von-bidenkapp-georg-im-kampfe-gegen-hirnbacillen/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/24ba6291-4994-4bca-883f-eca7f731de7c</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__9771658d-e34f-4b8e-9f1c-9c126e5eef01">
+                              <title>Freud, Sigmund  (1903-001; 1903a): Rezension von: Biedenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-biedenkapp-georg-im-kampfe-gegen-hirnbacillen</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9771658d-e34f-4b8e-9f1c-9c126e5eef01</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

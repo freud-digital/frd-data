@@ -1,7 +1,7 @@
 import click
 import freud_api_crawler.freud_api_crawler as frd
 from config import (
-    WERK_ID, FRD_USER, FRD_PW, MANIFEST_DEFAULT_FILTER
+    WERK_ID, FRD_USER, FRD_PW, MANIFEST_DEFAULT_FILTER, WERK_PATH
 )
 
 
@@ -17,21 +17,31 @@ print(
     f"found {len(rel_manifestations)} manifestion with settings {MANIFEST_DEFAULT_FILTER}"
 )
 
-for x in rel_manifestations:
-    try:
-        frd_man = frd.FrdManifestation(
-            out_dir=out_dir,
-            manifestation_id=x['man_id'],
-            auth_items=auth_items
+# for x in rel_manifestations:
+#     try:
+#         frd_man = frd.FrdManifestation(
+#             out_dir=out_dir,
+#             manifestation_id=x['man_id'],
+#             auth_items=auth_items
+#         )
+#         frd_man.get_man_json_dump(lmt=False)
+#     except Exception as e:
+#         click.echo(
+#             click.style(
+#                 f"processing Manifestation {x} did not not work due to Error {e}",
+#                 fg='red'
+#             )
+#         )
+try:
+    frd.make_xml(save=True, out_dir=out_dir, workpath=WERK_PATH, test=False, dump={})
+except FileNotFoundError as e:
+    click.echo(
+        click.style(
+            f"processing TEI/XML did not work due to Error {e}. Run get_jsom_dump first",
+            fg='red'
         )
-        frd_man.make_xml(save=True, limit=False, dump=True)
-    except Exception as e:
-        click.echo(
-            click.style(
-                f"processing Manifestation {x} did not not work due to Error {e}",
-                fg='red'
-            )
-        )
+    )
+
 click.echo(
     click.style(
         f"finished download\n{werk_obj.manifestations_count} Manifestations for {werk_obj.md__title}",

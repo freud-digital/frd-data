@@ -82,77 +82,104 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Die Zeit</title>
-                  <title type="publication-sub">Morgenblatt</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1905-10-27">1905-10-27</date>
-                  </imprint>
-                  <extent>5</extent>
-                  <biblScope unit="volume">Nr. 1110</biblScope>
-                  <biblScope unit="year">4</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
-                     <title>Stellungnahme zum Fall Prof. Dr. Beer</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-008-1905">
+                  <analytic>
+                     <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-008/1905</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zum-fall-prof-dr-beer/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
-                           <title>Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zum-fall-prof-dr-beer</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/92ef542d-8b7e-451f-9db2-468e0006caa7</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Die Zeit</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-10-27">1905-10-27</date>
+                     </imprint>
+                     <extent>5</extent>
+                     <biblScope unit="volume">Nr. 1110</biblScope>
+                     <biblScope unit="year">4</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Die Zeit</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-10-27">1905-10-27</date>
+                     </imprint>
+                     <extent>5</extent>
+                     <biblScope unit="volume">Nr. 1110</biblScope>
+                     <biblScope unit="year">4</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
+                        <title>Stellungnahme zum Fall Prof. Dr. Beer</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-008/1905</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zum-fall-prof-dr-beer/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
+                              <title>Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zum-fall-prof-dr-beer</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/92ef542d-8b7e-451f-9db2-468e0006caa7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

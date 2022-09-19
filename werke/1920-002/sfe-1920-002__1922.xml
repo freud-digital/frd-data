@@ -80,76 +80,194 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short">SKSN 5</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1922-01-01">1922-01-01</date>
-                  </imprint>
-                  <extent>145 Seiten</extent>
-                  <biblScope unit="volume">5. Folge</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__6b5e0302-96b9-4160-8865-a628e103f99f">
-                     <title>Zur Vorgeschichte der analytischen Technik</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1920-002-1924">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1920-002/1922</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/zur-vorgeschichte-der-analytischen-technik/druckversion-4</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b5e0302-96b9-4160-8865-a628e103f99f</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302">
-                           <title>Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-vorgeschichte-der-analytischen-technik</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1920-002-1924.2">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1920-002-1920">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1920-002-1922">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1920-002-1920.2">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">SKSN 5</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>145 Seiten</extent>
+                     <biblScope unit="volume">5. Folge</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__6b5e0302-96b9-4160-8865-a628e103f99f">
+                        <title>Zur Vorgeschichte der analytischen Technik</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1920-002/1922</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/zur-vorgeschichte-der-analytischen-technik/druckversion-4</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b5e0302-96b9-4160-8865-a628e103f99f</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302">
+                              <title>Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-vorgeschichte-der-analytischen-technik</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

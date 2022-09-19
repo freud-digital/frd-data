@@ -81,78 +81,273 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Über Psychotherapie </title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                  <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                  <title type="publication-short">SKSN 1 (3. Auflage)</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1920-01-01">1920-01-01</date>
-                  </imprint>
-                  <extent>212 Seiten</extent>
-                  <biblScope unit="volume">1. Folge</biblScope>
-                  <biblScope unit="issue">3. unveränderte Auflage</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__1c64feeb-dee5-4442-8f6b-68173a8a20d5">
-                     <title>Über Psychotherapie </title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-001-1922">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-001/1920</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-0</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1c64feeb-dee5-4442-8f6b-68173a8a20d5</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
-                           <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
-                           <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="IPU">Freud_1920_Sammlung_1teFolge_3te_k</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1925">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1906">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1924">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1911">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1905.2">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-001-1920">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Über Psychotherapie </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+                     <title type="publication-short">SKSN 1 (3. Auflage)</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>212 Seiten</extent>
+                     <biblScope unit="volume">1. Folge</biblScope>
+                     <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__1c64feeb-dee5-4442-8f6b-68173a8a20d5">
+                        <title>Über Psychotherapie </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-001/1920</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-psychotherapie/druckversion-0</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1c64feeb-dee5-4442-8f6b-68173a8a20d5</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba">
+                              <title>Freud, Sigmund  (1905-001; 1905a [1904]): Über Psychotherapie</title>
+                              <idno type="url">https://www.freud-edition.net/ueber-psychotherapie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/240e92d7-cdf2-4502-b6ff-7a1cbdbdfcba</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1920_Sammlung_1teFolge_3te_k</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

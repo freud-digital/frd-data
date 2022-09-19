@@ -80,75 +80,100 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Sammelband</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
-                  <title type="publication-sub">Mit einer historischen Einleitung</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1901-01-01">1901-01-01</date>
-                  </imprint>
-                  <extent>545</extent>
-                  <name>Sammelband</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__81ed2a14-0c9c-4800-b220-e6e408de6141">
-                     <title>Freud, Sigm. [autobiographischer Artikel]</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1901-003-1901">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1901-003/1901</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/freud-sigm-autobiographischer-artikel/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/81ed2a14-0c9c-4800-b220-e6e408de6141</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__15142ffb-3fac-4fce-90ba-050e63102267">
-                           <title>Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigm-biographisches-lexikon-hervorragender-arzte-des-neunzehnten</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/15142ffb-3fac-4fce-90ba-050e63102267</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
+                     <title type="publication-sub">Mit einer historischen Einleitung</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1901-01-01">1901-01-01</date>
+                     </imprint>
+                     <extent>545</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
+                     <title type="publication-sub">Mit einer historischen Einleitung</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1901-01-01">1901-01-01</date>
+                     </imprint>
+                     <extent>545</extent>
+                     <note>Sammelband</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__81ed2a14-0c9c-4800-b220-e6e408de6141">
+                        <title>Freud, Sigm. [autobiographischer Artikel]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1901-003/1901</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/freud-sigm-autobiographischer-artikel/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/81ed2a14-0c9c-4800-b220-e6e408de6141</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__15142ffb-3fac-4fce-90ba-050e63102267">
+                              <title>Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigm-biographisches-lexikon-hervorragender-arzte-des-neunzehnten</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/15142ffb-3fac-4fce-90ba-050e63102267</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

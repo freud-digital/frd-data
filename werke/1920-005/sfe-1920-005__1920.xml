@@ -81,78 +81,105 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Ergänzungen zur Traumlehre</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                  <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                  <title type="publication-short">IZP</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1920-01-01">1920-01-01</date>
-                  </imprint>
-                  <extent>398 Seiten</extent>
-                  <biblScope unit="volume">4</biblScope>
-                  <biblScope unit="year">6</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__78affc9d-74ad-4f49-9748-e27b8e59edf5">
-                     <title>Ergänzungen zur Traumlehre</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1920-005-1920">
+                  <analytic>
+                     <title type="manifestation">Ergänzungen zur Traumlehre</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1920-005/1920</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/erganzungen-zur-traumlehre/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/78affc9d-74ad-4f49-9748-e27b8e59edf5</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__e842dc8e-c79b-4256-a641-8fd415175348">
-                           <title>Freud, Sigmund  (1920-005; 1920f): Ergänzungen zur Traumlehre</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/erganzungen-zur-traumlehre</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/e842dc8e-c79b-4256-a641-8fd415175348</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="IPU">InternationaleZeitschriftFuumlrPsychoanalyseVi1920Heft4</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                     <title type="publication-short">IZP</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>398 Seiten</extent>
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Ergänzungen zur Traumlehre</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                     <title type="publication-short">IZP</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1920-01-01">1920-01-01</date>
+                     </imprint>
+                     <extent>398 Seiten</extent>
+                     <biblScope unit="volume">4</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__78affc9d-74ad-4f49-9748-e27b8e59edf5">
+                        <title>Ergänzungen zur Traumlehre</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1920-005/1920</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/erganzungen-zur-traumlehre/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/78affc9d-74ad-4f49-9748-e27b8e59edf5</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__e842dc8e-c79b-4256-a641-8fd415175348">
+                              <title>Freud, Sigmund  (1920-005; 1920f): Ergänzungen zur Traumlehre</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/erganzungen-zur-traumlehre</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/e842dc8e-c79b-4256-a641-8fd415175348</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">InternationaleZeitschriftFuumlrPsychoanalyseVi1920Heft4</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

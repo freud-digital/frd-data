@@ -80,76 +80,102 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Stellungnahme zur Eherechtsenquete</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Monographie</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Protokolle der Enquete betreffend die Reform des österreichischen Eherechts</title>
-                  <title type="publication-sub">(vom 27. Jänner bis 24. Februar 1905)</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__7d583043-a910-4a46-ba25-d822352a33c8">Kulturpolitische Gesellschaft</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Wien</pubPlace>
-                     <date when="1905-01-01">1905-01-01</date>
-                  </imprint>
-                  <extent>77 Seiten</extent>
-                  <biblScope unit="series">Mitteilungen der Kulturpolitischen Gesellschaft</biblScope>
-                  <name>Sammelband</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__3bfaa092-b808-46d4-ab90-e7cf6b783cc4">
-                     <title>Stellungnahme zur Eherechtsenquete</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-006-1905">
+                  <analytic>
+                     <title type="manifestation">Stellungnahme zur Eherechtsenquete</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-006/1905</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zur-eherechtsenquete/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bfaa092-b808-46d4-ab90-e7cf6b783cc4</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0">
-                           <title>Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zur-eherechtsenquete</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Monographie</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Protokolle der Enquete betreffend die Reform des österreichischen Eherechts</title>
+                     <title type="publication-sub">(vom 27. Jänner bis 24. Februar 1905)</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__7d583043-a910-4a46-ba25-d822352a33c8">Kulturpolitische Gesellschaft</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>77 Seiten</extent>
+                     <biblScope unit="series">Mitteilungen der Kulturpolitischen Gesellschaft</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Stellungnahme zur Eherechtsenquete</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Monographie</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Protokolle der Enquete betreffend die Reform des österreichischen Eherechts</title>
+                     <title type="publication-sub">(vom 27. Jänner bis 24. Februar 1905)</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__7d583043-a910-4a46-ba25-d822352a33c8">Kulturpolitische Gesellschaft</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1905-01-01">1905-01-01</date>
+                     </imprint>
+                     <extent>77 Seiten</extent>
+                     <biblScope unit="series">Mitteilungen der Kulturpolitischen Gesellschaft</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__3bfaa092-b808-46d4-ab90-e7cf6b783cc4">
+                        <title>Stellungnahme zur Eherechtsenquete</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-006/1905</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zur-eherechtsenquete/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bfaa092-b808-46d4-ab90-e7cf6b783cc4</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0">
+                              <title>Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zur-eherechtsenquete</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

@@ -80,72 +80,259 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">Freud, Sigmund</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Sammelband</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Wer ist’s?</title>
-                  <title type="publication-sub">Unsere Zeitgenossen</title>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Leipzig</pubPlace>
-                     <date when="1928-01-01">1928-01-01</date>
-                  </imprint>
-                  <extent>433</extent>
-                  <biblScope unit="issue">9. Auflage</biblScope>
-                  <name>Sammelband</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__6244d5b5-c64f-4d64-8098-0a3ae9e41aec">
-                     <title>Freud, Sigmund</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1905-009-1912">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1905-009/1928</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-9</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6244d5b5-c64f-4d64-8098-0a3ae9e41aec</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
-                           <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1911">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1909">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1908">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1906">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1905">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1928">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1922">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Sammelband</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s?</title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>433</extent>
+                     <biblScope unit="issue">9. Auflage</biblScope>
+                     <note>Sammelband</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__6244d5b5-c64f-4d64-8098-0a3ae9e41aec">
+                        <title>Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-009/1928</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-9</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6244d5b5-c64f-4d64-8098-0a3ae9e41aec</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
+                              <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

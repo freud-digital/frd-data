@@ -81,76 +81,125 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Werkausgabe</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short">GS 11</title>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                  </respStmt>
-                  <imprint>
-                     <pubPlace>Zürich</pubPlace>
-                     <date when="1928-01-01">1928-01-01</date>
-                  </imprint>
-                  <extent>265</extent>
-                  <biblScope unit="volume">11. Band</biblScope>
-                  <name>Werkausgabe</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__ba1b29ac-0b2e-491d-9c86-743c8fb0765e">
-                     <title> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1923-008-1928">
+                  <analytic>
+                     <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1923-008/1928</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/vorwort-zu-eitingon-max-1923-bericht-uber-die-berliner-psychoanalytische-poliklinik-marz-1920</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ba1b29ac-0b2e-491d-9c86-743c8fb0765e</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__2a3944b4-3ff5-472f-8da9-9951f8b57301">
-                           <title>Freud, Sigmund  (1923-008; 1923g): Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/2a3944b4-3ff5-472f-8da9-9951f8b57301</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>IPU</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>265</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1923-008-1923">
+                  <analytic>
+                     <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>265</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Werkausgabe</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">GS 11</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Zürich</pubPlace>
+                        <date when="1928-01-01">1928-01-01</date>
+                     </imprint>
+                     <extent>265</extent>
+                     <biblScope unit="volume">11. Band</biblScope>
+                     <note>Werkausgabe</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__ba1b29ac-0b2e-491d-9c86-743c8fb0765e">
+                        <title> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-008/1928</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/vorwort-zu-eitingon-max-1923-bericht-uber-die-berliner-psychoanalytische-poliklinik-marz-1920</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ba1b29ac-0b2e-491d-9c86-743c8fb0765e</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__2a3944b4-3ff5-472f-8da9-9951f8b57301">
+                              <title>Freud, Sigmund  (1923-008; 1923g): Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/2a3944b4-3ff5-472f-8da9-9951f8b57301</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>

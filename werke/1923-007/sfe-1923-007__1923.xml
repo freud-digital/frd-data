@@ -81,76 +81,125 @@
             </note>
          </notesStmt>
          <sourceDesc>
-            <biblStruct xml:id="guiding_manifestation">
-               <analytic>
-                  <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                  <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  <name>Text in Periodikum</name>
-               </analytic>
-               <monogr>
-                  <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
-                  <title type="publication-sub"/>
-                  <title type="publication-short"/>
-                  <respStmt>
-                     <resp>Herausgegeben von</resp>
-                     <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
-                  </respStmt>
-                  <imprint>
-                     <date when="1923-06-01">1923-06-01</date>
-                  </imprint>
-                  <extent>XI - 3 Seiten</extent>
-                  <biblScope unit="volume">21</biblScope>
-                  <biblScope unit="year">6</biblScope>
-                  <name>Periodikum (Heft)</name>
-               </monogr>
-               <relatedItem type="digitisedVersion">
-                  <bibl xml:id="bibl__4c35f75b-310a-477b-9913-00e5cf802d02">
-                     <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1923-007-1928">
+                  <analytic>
+                     <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <editor>
-                        <name>Blatow, Arkadi</name>
-                        <name>Diercks, Christine</name>
-                        <name>Huber, Christian</name>
-                        <name>Kaufmann, Kira</name>
-                        <name>Rohrwasser, Michael</name>
-                     </editor>
-                     <date when="2022">2022</date>
-                     <idno type="signature">1923-007/1923</idno>
-                     <idno type="url">https://www.freud-edition.net/werke/memoriam-josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
-                     <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/4c35f75b-310a-477b-9913-00e5cf802d02</idno>
-                     <relatedItem type="work">
-                        <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
-                           <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                           <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
-                        </bibl>
-                     </relatedItem>
-                  </bibl>
-               </relatedItem>
-               <relatedItem type="exemplar">
-                  <msDesc>
-                     <msIdentifier>
-                        <repository>Privatarchiv Christfried Tögel</repository>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
-                     </msIdentifier>
-                     <physDesc>
-                        <objectDesc>
-                           <supportDesc>
-                              <support>
-                                 Buch aus <material>Papier</material> in Druckschrift .
-                              </support>
-                           </supportDesc>
-                        </objectDesc>
-                        <handDesc>
-                           <p>Druckschrift </p>
-                        </handDesc>
-                        <typeDesc>
-                           <p>Druckversion</p>
-                        </typeDesc>
-                     </physDesc>
-                  </msDesc>
-               </relatedItem>
-            </biblStruct>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
+                     </respStmt>
+                     <imprint>
+                        <date when="1923-06-01">1923-06-01</date>
+                     </imprint>
+                     <extent>XI - 3 Seiten</extent>
+                     <biblScope unit="volume">21</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="bibl-1923-007-1923">
+                  <analytic>
+                     <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
+                     </respStmt>
+                     <imprint>
+                        <date when="1923-06-01">1923-06-01</date>
+                     </imprint>
+                     <extent>XI - 3 Seiten</extent>
+                     <biblScope unit="volume">21</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="guiding_manifestation">
+                  <analytic>
+                     <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <note>Text in Periodikum</note>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
+                     </respStmt>
+                     <imprint>
+                        <date when="1923-06-01">1923-06-01</date>
+                     </imprint>
+                     <extent>XI - 3 Seiten</extent>
+                     <biblScope unit="volume">21</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                     <note>Periodikum (Heft)</note>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__4c35f75b-310a-477b-9913-00e5cf802d02">
+                        <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <editor>
+                           <name>Blatow, Arkadi</name>
+                           <name>Diercks, Christine</name>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Rohrwasser, Michael</name>
+                        </editor>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-007/1923</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/memoriam-josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/4c35f75b-310a-477b-9913-00e5cf802d02</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
+                              <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Privatarchiv Christfried Tögel</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+                                    Buch aus <material>Papier</material> in Druckschrift .
+                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
          </sourceDesc>
       </fileDesc>
       <profileDesc>
