@@ -21,6 +21,15 @@
                <placeName>Wien</placeName>
                <idno type="GND">https://d-nb.info/gnd/15360-6</idno>
             </org>
+            <org xml:id="frd_org_2">
+               <orgName>Universität Wien</orgName>
+               <placeName>Wien</placeName>
+               <idno type="GND">https://d-nb.info/gnd/2024703-5</idno>
+            </org>
+            <org xml:id="frd_org_4">
+               <orgName>Schule von Nancy</orgName>
+               <placeName>Nancy</placeName>
+            </org>
          </listOrg>
       </body>
    </text>

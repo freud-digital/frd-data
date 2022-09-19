@@ -4,7 +4,7 @@
       <dc:title>Schlagwortregister</dc:title>
    </void:Dataset>{%- for x in items %}
    <skos:Concept rdf:about="http://{{ base_uri }}/{{ x.frd_id }}">
-      <skos:prefLabel xml:lang="de">{{ x.keyword }}</skos:prefLabel>{% if x.note %}
+      <skos:prefLabel xml:lang="de">{{ x.name }}</skos:prefLabel>{% if x.note %}
       <skos:note xml:lang="de">{{ x.note }}</skos:note>{% endif %}
    </skos:Concept>{% endfor %}
 </rdf:RDF>

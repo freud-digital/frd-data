@@ -4,21 +4,24 @@ import requests
 
 BASEROW_TOKEN = os.environ.get('BASEROW_TOKEN')
 BASEROW_TABLE_MAPPING = {
-    "keywords": "63650",
-    "persons": "63642",
-    "places": "63334",
-    "orgs": "66452",
+    "keywords": "1470",
+    "persons": "1474",
+    "places": "1468",
+    "orgs": "1476",
 }
-BASEROW_API = "https://api.baserow.io/api/database/rows/table/"
+BASEROW_API = "https://baserow.acdh-dev.oeaw.ac.at/api/database/rows/table/"
 
 PERSON_IN_USE_FILTER = {
     "filter__field_374371__boolean": "true"
 }
 KEYWORD_IN_USE_FILTER = {
-    "filter__field_374411__boolean": "true"
+    "filter__field_12414__boolean": "true"
 }
 ORGS_IN_USE_FILTER = {
     "filter__field_392883__boolean": "true"
+}
+PLACES_IN_USE_FILTER = {
+    "filter__field_12399__boolean": "true"
 }
 
 

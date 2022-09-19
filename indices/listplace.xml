@@ -59,6 +59,14 @@
                <placeName>New York</placeName>
                <idno type="geonames">http://www.geonames.org/5128581/new-york-city.html</idno>
             </place>
+            <place xml:id="frd_place_id_9">
+               <placeName>Nancy</placeName>
+               <idno type="geonames">https://www.geonames.org/2990999/nancy.html</idno>
+            </place>
+            <place xml:id="frd_place_id_10">
+               <placeName>Paris</placeName>
+               <idno type="geonames">http://www.geonames.org/2988507/paris.html</idno>
+            </place>
          </listPlace>
       </body>
    </text>
