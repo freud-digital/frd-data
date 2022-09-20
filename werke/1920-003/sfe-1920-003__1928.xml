@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -83,11 +87,30 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-003-1920">
+                  <biblStruct xml:id="bibl-1920-003-1920">
+                     <analytic>
+                        <title type="manifestation">Dr. Anton von Freund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+<extent>181 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-003-1928" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Dr. Anton von Freund</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
@@ -103,65 +126,38 @@
                      </imprint>
                      <extent>181 Seiten</extent>
                      <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-003-1928">
-                  <analytic>
-                     <title type="manifestation">Dr. Anton von Freund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>181 Seiten</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Dr. Anton von Freund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>181 Seiten</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__22cc851a-13a8-495b-a4bc-bc328dc37201">
                         <title>Dr. Anton von Freund</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-003/1928</idno>
                         <idno type="url">https://www.freud-edition.net/werke/dr-anton-von-freund/druckversion-0</idno>
@@ -185,8 +181,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -202,6 +197,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -210,9 +217,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__e79fbe76-a2f8-4ee5-b2b5-01de0163fac7"/>
             <fw type="pageNum">280</fw> <p rendition="#level_4">DR. ANTON v. FREUND</p><p>Erschien — gezeichnet von „Redaktion<lb/> und Herausgeber“ — in der „Internationalen<lb/> Zeitschrift für Psychoanalyse“, Bd. VI ( 1920).<lb break="paragraph"/></p> <p>Am 20. Jänner 1920, wenige Tage nach vollendetem vierzigsten Lebens<lb break="no"/>jahr, starb in einem Wiener Sanatorium Dr. Anton v. <hi rendition="#smallcaps">Freund</hi>, seit dem<lb/> Budapester Kongreß im September 1918 Generalsekretär der Internationalen<lb/> Psychoanalytischen Vereinigung. Er war der stärkste Förderer und eine der<lb/> schönsten Hoffnungen unserer Wissenschaft! In Budapest 1880 geboren,<lb/> erwarb er das Doktorat der Philosophie und bestimmte sich selbst zum<lb/> Lehramt, ließ sich aber dann bewegen, in die industriellen Unternehmungen<lb/> seines Vaters einzutreten. Die großen Erfolge, die er als Fabrikant und<lb/> Organisator erzielte, konnten aber die beiden, aus der Tiefe seines Wesens<lb/> drängenden Bedürfnisse nach sozialer Hilfeleistung und nach wissenschaft<lb break="no"/>licher Betätigung nicht befriedigen. Für seine eigene Person anspruchslos,<lb/> mit allen Gaben ausgestattet, durch die man die Menschen bezaubert und<lb/> ihre Liebe gewinnt, verwendete er seine materiellen Machtmittel dazu, um<lb/> andere zu fördern, die Härten ihres Schicksals zu mildern und überall den<lb/> Sinn für soziale Gerechtigkeit zu schärfen. Er erwarb sich so einen großen<lb/> Kreis von Freunden, die seinen Verlust schwer empfinden werden.<lb break="paragraph"/></p> <p>Als er in den letzten Jahren seines Lebens die Psychoanalyse kennen<lb/> lernte, schien ihm die Erfüllung seiner beiden großen Wünsche in einem<lb/> zu winken. Er stellte sich die Aufgabe, den Massen durch die Psychoanalyse<lb/> zu helfen, die Heilwirkung dieser ärztlichen Technik, die bis dahin nur<lb/> wenigen Reichen zugute kommen konnte, zur Linderung des neurotischen<lb/> Elends der Armen zu nützen. Da der Staat sich um die Neurosen der Be<lb break="no"/>völkerung nicht kümmerte, die Kliniken zum größten Teil die psycho<lb break="no"/>analytische Therapie verwarfen, ohne einen Ersatz für dieselbe bieten zu<lb/> können, und die vereinzelten psychoanalytischen Ärzte, an die Notwendig<lb break="no"/>keit der Selbsterhaltung gebunden, einer so riesigen Aufgabe nicht gewachsen<lb/> waren, wollte Anton v. <hi rendition="#smallcaps">Freund</hi> durch seine private Initiative den Weg zur<lb/> Erfüllung einer so wichtigen sozialen Pflicht für alle eröffnen. Während<lb/> der Kriegsjahre hatte er eine damals sehr beträchtliche Summe, mehr als<lb/> 1<hi rendition="#sub">1</hi>/<sub>2</sub> Millionen Kronen, für humanitäre Zwecke der Stadt Budapest ge<lb break="no"/>sammelt. Diesen Betrag bestimmte er nun im Einvernehmen mit dem da<lb break="no"/>maligen Bürgermeister Dr. Stephan v. <hi rendition="#smallcaps">Bárczy</hi> für die Gründung eines<lb break="paragraph"/><pb n="2" xml:id="page__923eb9f1-54b5-4bb3-80bc-6c8298684e89"/><fw type="pageNum">281</fw>psychoanalytischen Instituts in Budapest, in dem die Analyse gepflegt, ge<lb break="no"/>lehrt und dem Volke zugänglich gemacht werden sollte. Es bestand die<lb/> Absicht, daselbst in größerer Zahl Ärzte zur psychoanalytischen Praxis aus<lb break="no"/>zubilden, die dann von der Anstalt für die Behandlung der armen Neurotiker<lb/> aus dem Ambulatorium zu honorieren wären. Außerdem wäre das Institut<lb/> ein Mittelpunkt für die wissenschaftliche Fortbildung in der Analyse ge<lb break="no"/>worden. Dr. <hi rendition="#smallcaps">Ferenczi</hi> war zum wissenschaftlichen Leiter der Anstalt be<lb break="no"/>stimmt, v. <hi rendition="#smallcaps">Freund</hi> selbst hätte seine Organisation und Erhaltung über<lb break="no"/>nommen. Einen entsprechend kleineren Betrag übergab der Stifter Professor<lb/> <hi rendition="#smallcaps">Freud</hi> zur Gründung eines Internationalen Psychoanalytischen Verlags.<lb break="paragraph"/></p>
+         
          
             
               <p>Aber „<quote type="inlinequote">Was sind Hoffnungen, was sind Entwürfe,<lb/> die der Mensch, der vergängliche, baut?</quote>“<lb break="paragraph"/></p> <p>v. <hi rendition="#smallcaps">Freunds</hi> vorzeitiger Tod hat diesen menschenfreundlichen und für<lb/> die Wissenschaft so hoffnungsvollen Plänen ein Ende gesetzt. Obwohl der<lb/> von ihm gesammelte Fonds noch vorhanden ist, läßt doch die Haltung der<lb/> gegenwärtigen Machthaber in der ungarischen Hauptstadt die Verwirklichung<lb/> seiner Absichten nicht erwarten. Nur der psychoanalytische Verlag ist in<lb/> Wien ins Leben getreten.<lb break="paragraph"/></p> <p>Das Beispiel, das der Verstorbene geben wollte, hat trotzdem bereits seine<lb/> Wirkung geübt. Wenige Wochen nach seinem Tode ist in Berlin dank der<lb/> Energie und Liberalität von Dr. Max <hi rendition="#smallcaps">Eitingon</hi> die erste psychoanalytische<lb/> Poliklinik eröffnet werden. So findet <hi rendition="#smallcaps">Freunds</hi> Werk Fortsetzer, seine Person<lb/> bleibt unersetzlich und unvergeßlich.<lb break="paragraph"/></p>

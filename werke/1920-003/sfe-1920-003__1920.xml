@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -83,11 +87,31 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-003-1920">
+                  <biblStruct xml:id="bibl-1920-003-1928">
+                     <analytic>
+                        <title type="manifestation">Dr. Anton von Freund †</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-01-01">1920-01-01</date>
+                        </imprint>
+<extent>96 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-003-1920" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Dr. Anton von Freund †</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
@@ -104,67 +128,38 @@
                      <extent>96 Seiten</extent>
                      <biblScope unit="volume">1</biblScope>
                      <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-003-1928">
-                  <analytic>
-                     <title type="manifestation">Dr. Anton von Freund †</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-01-01">1920-01-01</date>
-                     </imprint>
-                     <extent>96 Seiten</extent>
-                     <biblScope unit="volume">1</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Dr. Anton von Freund †</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-01-01">1920-01-01</date>
-                     </imprint>
-                     <extent>96 Seiten</extent>
-                     <biblScope unit="volume">1</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__3bbbd13a-5d49-430a-82d7-b4cb003e67c2">
                         <title>Dr. Anton von Freund †</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-003/1920</idno>
                         <idno type="url">https://www.freud-edition.net/werke/dr-anton-von-freund/druckversion</idno>
@@ -189,8 +184,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -206,6 +200,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -214,9 +220,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__2e84eefe-7a57-40ff-9290-3806a3f63745"/>
             <fw type="pageNum">[95]</fw> <p rendition="#level_2">Zur psychoanalytischen Bewegung.</p><p><hi rendition="#bold">Dr. Anton v. Freund †.</hi><lb break="paragraph"/></p> <p>Am 20. Jänner 1920, wenige Tage nach vollendetem 40. Lebens<lb break="no"/>jahr, starb in einem Wiener Sanatorium Dr. Anton v. <hi rendition="#smallcaps">Freund</hi>,<lb/> seit dem Budapester Kongreß im September 1918 Generalsekretär<lb/> der Internationalen Psychoanalytischen Vereinigung. Er war der<lb/> stärkste Förderer und eine der schönsten Hoffnungen unserer Wissen<lb break="no"/>schaft! In Budapest 1880 geboren, erwarb er das Doktorat der<lb/> Philosophie und bestimmte sich selbst zum Lehramt, ließ sich aber<lb/> dann bewegen, in die industriellen Unternehmungen seines Vaters<lb/> einzutreten. Die großen Erfolge, die er als Fabrikant und Orga<lb break="no"/>nisator erzielte, konnten aber die beiden, aus der Tiefe seines Wesens<lb/> drängenden Bedürfnisse nach sozialer Hilfeleistung und nach wissen<lb break="no"/>schaftlicher Betätigung nicht befriedigen. Für seine eigene Person<lb/> anspruchslos, mit allen Gaben ausgestattet, durch die man die<lb/> Menschen bezaubert und ihre Liebe gewinnt, verwendete er seine<lb/> materiellen Machtmittel dazu, um andere zu fördern, die Härten<lb/> ihres Schicksals zu mildern und überall den Sinn für soziale Ge<lb break="no"/>rechtigkeit zu schärfen. Er erwarb sich so einen großen Kreis von<lb/> Freunden, die seinen Verlust schwer empfinden werden.<lb break="paragraph"/></p> <p>Als er in den letzten Jahren seines Lebens die Psychoanalyse<lb/> kennen lernte, schien ihm die Erfüllung seiner beiden großen Wün<lb break="no"/>sche in einem zu winken. Er stellte sich die Aufgabe, den Massen<lb/> durch die Psychoanalyse zu helfen, die Heilwirkung dieser ärztlichen<lb/> Technik, die bis dahin nur wenigen Reichen zu gute kommen konnte,<lb/> zur Linderung des neurotischen Elends der Armen zu nützen. Da<lb/> der Staat sich um die Neurosen der Bevölkerung nicht kümmerte,<lb/> die Kliniken zum größten Teil die psychoanalytische Therapie ver<lb break="no"/>warfen, ohne einen Ersatz für dieselbe bieten zu können, und die<lb/> vereinzelten psychoanalytischen Ärzte, an die Notwendigkeit der<lb/> Selbsterhaltung gebunden, einer so riesigen Aufgabe nicht ge<lb break="no"/>wachsen waren, wollte Anton v. <hi rendition="#smallcaps">Freund</hi> durch seine private Ini<lb break="no"/>tiative den Weg zur Erfüllung einer so wichtigen sozialen Pflicht<lb break="paragraph"/><pb n="2" xml:id="page__695f786d-571d-431a-9abb-17c7489b781a"/><fw type="pageNum">96</fw>für alle eröffnen. Während der Kriegsjahre hatte er eine damals<lb/> sehr beträchtliche Summe, mehr als 1<hi rendition="#sub">1</hi>/<sub>2</sub> Millionen Kronen, für<lb/> humanitäre Zwecke der Stadt Budapest gesammelt. Diesen Betrag<lb/> bestimmte er nun im Einvernehmen mit dem damaligen Bürger<lb break="no"/>meister Dr. Stephan v. <hi rendition="#smallcaps">Bárczy</hi> für die Gründung eines psycho<lb break="no"/>analytischen Instituts in Budapest, in dem die Analyse gepflegt,<lb/> gelehrt und dem Volke zugänglich gemacht werden sollte. Es be<lb break="no"/>stand die Absicht, daselbst in größerer Zahl Ärzte zur psycho<lb break="no"/>analytischen Praxis auszubilden, die dann von der Anstalt für die<lb/> Behandlung der armen Neurotiker aus dem Ambulatorium zu hono<lb break="no"/>rieren wären. Außerdem wäre das Institut ein Mittelpunkt für<lb/> die wissenschaftliche Fortbildung in der Analyse geworden. Dr. <hi rendition="#smallcaps">Fe<lb break="no"/>renczi</hi> war zum wissenschaftlichen Leiter der Anstalt bestimmt,<lb/> v. <hi rendition="#smallcaps">Freund </hi>selbst hätte seine Organisation und Erhaltung über<lb break="no"/>nommen. Einen entsprechend kleineren Betrag übergab der Stifter<lb/> Prof. <hi rendition="#smallcaps">Freud </hi>zur Gründung eines Internationalen Psychoanalytischen<lb/> Verlags.<lb break="paragraph"/></p>
+         
          
             
               <p>Aber „<quote type="inlinequote">Was sind Hoffnungen, was sind Entwürfe,<lb/> die der Mensch, der vergängliche, baut?</quote>“<lb break="paragraph"/></p> <p>v. <hi rendition="#smallcaps">Freunds</hi> vorzeitiger Tod hat diesen menschenfreund<lb break="no"/>lichen und für die Wissenschaft so hoffnungsvollen Plänen ein Ende<lb/> gesetzt. Obwohl der von ihm gesammelte Fonds noch vorhanden<lb/> ist, läßt doch die Haltung der gegenwärtigen Machthaber in der<lb/> ungarischen Hauptstadt die Verwirklichung seiner Absichten nicht<lb/> erwarten. Nur der psychoanalytische Verlag ist in Wien ins Leben<lb/> getreten.<lb break="paragraph"/></p> <p>Das Beispiel, das der Verstorbene geben wollte, hat trotzdem<lb/> bereits seine Wirkung geübt. Wenige Wochen nach seinem Tode<lb/> ist in Berlin dank der Energie und Liberalität von Dr. Max <hi rendition="#smallcaps">Eitin<lb break="no"/>gon</hi> die erste psychoanalytische Poliklinik eröffnet worden. So<lb/> findet <hi rendition="#smallcaps">Freunds </hi>Werk Fortsetzer, seine Person bleibt unersetzlich<lb/> und unvergeßlich.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Redaktion und Herausgeber der<lb/> Internationalen Zeitschrift für Psychoanalyse.</hi><lb break="paragraph"/></p>

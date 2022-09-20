@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -83,11 +87,30 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1923-009-1923.1">
+                  <biblStruct xml:id="bibl-1923-009-1923.1">
+                     <analytic>
+                        <title type="manifestation">Dr. Ferenczi Sándor</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+<extent>275 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-009-1928" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Dr. Ferenczi Sándor</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
@@ -103,65 +126,38 @@
                      </imprint>
                      <extent>275 Seiten</extent>
                      <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1923-009-1928">
-                  <analytic>
-                     <title type="manifestation">Dr. Ferenczi Sándor</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>275 Seiten</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Dr. Ferenczi Sándor</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>275 Seiten</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                     <note>Werkausgabe</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__f0b08c18-4e97-4a77-9b71-ed15b90d4f94">
                         <title>Dr. Ferenczi Sándor</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1923-009/1928</idno>
                         <idno type="url">https://www.freud-edition.net/werke/dr-ferenczi-sandor/druckversion</idno>
@@ -185,8 +181,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -202,6 +197,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -210,12 +217,14 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__7950272b-7e23-4c4c-96e3-66a591c8cc28"/>
             <fw type="pageNum">[273]</fw> <p rendition="#level_3">DR. FERENCZI SÁNDOR</p><p><hi rendition="#em">Erschien — gezeichnet von „Herausgeber und<lb/> Redaktion“ — als Einleitung des anläßlich<lb/> seines 50. Geburtstages Ferenczi gewidmeten<lb/> Hefts der „Internationalen Zeitschrift für<lb/> Psychoanalyse“ (Bd. IX, Heft 3, Sommer 1923).</hi><lb break="paragraph"/></p> <p>Wenige Jahre nach ihrem Erscheinen (1900) geriet die „Traumdeutung“<lb/> auch in die Hand eines jungen Budapester Arztes, der Neurologe, Psychiater<lb/> und gerichtlicher Sachverständiger, doch eifrig nach neuem Erwerb in seiner<lb/> Wissenschaft ausschaute. Er kam nicht weit in der Lektüre, bald hatte er<lb/> das Buch von sich geworfen; es ist nicht bekannt, ob mehr gelangweilt<lb/> oder angewidert. Indes kurze Zeit nachher lockte ihn der Ruf von neuen<lb/> Arbeits- und Erkenntnismöglichkeiten nach <hi rendition="#smallcaps">Zürich</hi>, von dort trieb es ihn<lb/> nach Wien, um den Autor des einst verächtlich beseitigten Buches zu sprechen.<lb/> An diesen ersten Besuch knüpfte eine lange, intime und bis heute unge<lb break="no"/>trübte Freundschaft an, in deren Betätigung er auch 1909 die Reise nach<lb/> Amerika zu den Vorlesungen an der <hi rendition="#smallcaps">Clark-University</hi> in <hi rendition="#smallcaps">Worcester</hi>,<lb/> Mass., mitmachte.<lb break="paragraph"/></p> <p>Dies waren die Anfänge <hi rendition="#smallcaps">Ferenczis</hi>, der seither selbst ein Meister und<lb/> Lehrer der Psychoanalyse geworden ist und in diesem Jahre, 1925, gleich<lb break="no"/>zeitig sein fünfzigstes Lebensjahr wie das erste Dezennium in der Führung<lb/> der Budapester Ortsgruppe vollendet.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Ferenczi</hi> hat wiederholt auch in die äußeren Schicksale der Psycho<lb break="no"/>analyse eingegriffen. Bekannt ist sein Auftreten auf dem zweiten Kongreß<lb/> der Analytiker, Nürnberg 1910, wo er die Gründung der Internationalen<lb/> Psychoanalytischen Vereinigung als Abwehrmaßregel gegen die Ächtung der<lb/> Analyse durch die offizielle Medizin in Vorschlag brachte und durchsetzen<lb/> half. Auf dem fünften Analytischen Kongreß in Budapest, September 1918,<lb break="paragraph"/><pb n="2" xml:id="page__3aadf570-5e97-4bf2-89a8-41eec5f77491"/><fw type="pageNum">274</fw>wurde <hi rendition="#smallcaps">Ferenczi</hi> zum Präsidenten der Vereinigung gewählt. Er bestimmte<lb/> Anton v. <hi rendition="#smallcaps">Freund</hi> zu seinem Sekretär und die vereinte Tatkraft beider<lb/> Männer sowie die großzügigen Stiftungsabsichten <hi rendition="#smallcaps">Freunds</hi> hätten Budapest<lb/> sicherlich zur analytischen Hauptstadt Europas erhoben, wenn nicht poli<lb break="no"/>tische Katastrophen und persönliche Schicksale diese schönen Hoffnungen<lb/> erbarmungslos vernichtet hätten. <hi rendition="#smallcaps">Freund</hi> erkrankte und starb im Jänner 1920,<lb/> im Oktober 1919 hatte <hi rendition="#smallcaps">Ferenczi</hi> unter Berufung auf die Isolierung Ungarns<lb/> vom Weltverkehr seine Stelle niedergelegt und das Präsidium der Inter<lb break="no"/>nationalen Vereinigung Ernest <hi rendition="#smallcaps">Jones</hi> in London übertragen. Während der<lb/> Dauer der Sowjetrepublik in Ungarn war <hi rendition="#smallcaps">Ferenczi</hi> mit den Funktionen<lb/> eines Universitätslehrers betraut gewesen und die Hörer hatten sich zu seinen<lb/> Vorlesungen gedrängt. Die Ortsgruppe aber, die er 1913 gegründet hatte,<hi rendition="#footnote-index">1</hi><lb/> überstand alle Stürme, entwickelte sich unter seiner Leitung zu einer Stätte<lb/> intensiver und fruchtbringender Arbeit und glänzte durch eine Häufung<lb/> von Begabungen, wie sie sich an keinem anderen Orte zusammengefunden<lb/> hatten. <hi rendition="#smallcaps">Ferenczi</hi>, der als ein mittleres Kind aus einer großen Geschwister<lb break="no"/>reihe ursprünglich einen starken Bruderkomplex in sich zu bekämpfen hatte,<lb/> war unter der Einwirkung der Analyse ein tadelloser älterer Bruder, ein<lb/> gütiger Erzieher und Förderer junger Talente geworden.<lb break="paragraph"/></p>
          
+         
             
               <p><hi rendition="#smallcaps">Ferenczis</hi> analytische Schriften sind allgemein bekannt und gewürdigt<lb/> worden. Seine „Populären Vorträge über Psychoanalyse“ hat unser Verlag<lb/> erst 1922 als XIII. Band der „Internationalen Psychoanalytischen Bibliothek“<lb/> herausgegeben. Klar und formvollendet, mitunter fesselnd geschrieben, sind<lb/> sie eigentlich die beste „Einführung in die Psychoanalyse“ für den ihr<lb/> ferner Stehenden. Eine Sammlung der rein fachlich-medizinischen Arbeiten,<lb/> von denen eine Anzahl durch E. <hi rendition="#smallcaps">Jones</hi> ins Englische übersetzt worden ist<lb/> (Contributions to Psycho-Analysis 1916), steht noch aus. Der Verlag wird<lb/> diese Aufgabe nachholen, sobald die Ungunst der Zeiten es ihm nicht mehr<lb/> verwehrt. Die in ungarischer Sprache erschienenen Bücher und Broschüren<lb/> haben zahlreiche Auflagen gehabt und die Analyse den gebildeten Kreisen<lb/> Ungarns vertraut gemacht.<lb break="paragraph"/></p> <p>Die wissenschaftliche Leistung <hi rendition="#smallcaps">Ferenczis</hi> imponiert vor allem durch<lb/> ihre Vielseitigkeit. An glückliche kasuistische Funde und scharf beobachtete<lb/> klinische Mitteilungen (Ein kleiner Hahnemann — Passagère Symptom<lb break="no"/>bildungen während der Behandlung — Mitteilungen aus der analytischen<lb break="paragraph"/><pb n="3" xml:id="page__e7b7fff4-0978-4459-979b-50763c3d0383"/><fw type="pageNum">275</fw>Praxis) reihen sich mustergültige kritische Arbeiten, wie die über <hi rendition="#smallcaps">Jungs</hi><lb/> Wandlungen und Symbole der Libido und <hi rendition="#smallcaps">Régis</hi> und <hi rendition="#smallcaps">Hésnards</hi> Beur<lb break="no"/>teilung der Analyse, treffliche Polemiken, wie die gegen <hi rendition="#smallcaps">Bleuler</hi> in der<lb/> Alkoholfrage und gegen <hi rendition="#smallcaps">Putnam</hi> betreffs des Verhältnisses der Psycho<lb break="no"/>analyse zur Philosophie, maßvoll und würdig bei aller Entschiedenheit.<lb/> Ferner die Aufsätze, auf denen <hi rendition="#smallcaps">Ferenczis</hi> Ruhm vorwiegend beruht, in<lb/> denen seine Originalität, sein Gedankenreichtum und seine Verfügung über<lb/> eine wohlgeleitete wissenschaftliche Phantasie so erfreulich zum Ausdruck<lb/> kommen, durch die er wichtige Stücke der psychoanalytischen Theorie aus<lb break="no"/>gebaut und die Erkenntnis fundamentaler Verhältnisse im Seelenleben ge<lb break="no"/>fördert hat (Introjektion und Übertragung — Die Theorie der Hypnose —<lb/> Die Entwicklungsstufen des Wirklichkeitssinnes — Die Arbeiten über Sym<lb break="no"/>bolik u. a.). Endlich die Arbeiten dieser letzten Jahre (Kriegsneurosen —<lb/> Hysterie und Pathoneurosen — Zur Psychoanalyse der paralytischen Geistes<lb break="no"/>störung [mit <hi rendition="#smallcaps">Hollós</hi>]), in denen das ärztliche Interesse vom psychologischen<lb/> Tatbestand zur somatischen Bedingtheit hindrängt, und seine Ansätze zu einer<lb/> „aktiven“ Therapie.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Die konstituierende Generalversammlung wurde am 19. Mai 1913 von <hi rendition="#smallcaps">Ferenczi</hi><lb/> als Obmann, Dr. <hi rendition="#smallcaps">Radó</hi> als Sekretär, <hi rendition="#smallcaps">Hollós</hi>, <hi rendition="#smallcaps">Ignotus</hi> und <hi rendition="#smallcaps">Lévy</hi> als Mitgliedern<lb/> abgehalten.<lb break="paragraph"/></note>
+         
          
             
               <p>So unvollständig diese Aufzählung ausgefallen ist, so wissen doch seine<lb/> Freunde, daß <hi rendition="#smallcaps">Ferenczi</hi> noch mehr für sich behalten hat, als er sich mit<lb break="no"/>zuteilen entschließen konnte. An seinem fünfzigsten Geburtstage vereinigen<lb/> sie sich in dem Wunsch, daß ihm Stimmung, Kraft und Muße gegönnt<lb/> sein mögen, seine wissenschaftlichen Vorsätze in neuen Leistungen zu ver<lb break="no"/>wirklichen.<lb break="paragraph"/></p>

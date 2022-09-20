@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,10 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1904-003-1904">
+               <biblStruct xml:id="bibl-1904-003-1904" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Neue Freie Presse</title>
@@ -102,42 +105,38 @@
                      </imprint>
                      <extent>22</extent>
                      <biblScope unit="volume">Nr. 14168</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Neue Freie Presse</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1904-02-04">1904-02-04</date>
-                     </imprint>
-                     <extent>22</extent>
-                     <biblScope unit="volume">Nr. 14168</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__ac60ea36-6444-4f7a-ac77-85e848e81324">
                         <title>Rezension von: Bigelow, John (1903) ›The Mystery of Sleep‹</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1904-003/1904</idno>
                         <idno type="url">https://www.freud-edition.net/werke/rezension-von-bigelow-john-1903-mystery-sleep/druckversion</idno>
@@ -161,8 +160,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -178,6 +176,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -186,7 +196,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__3b881f3b-edda-41d2-8ff4-a2c1d63518c4"/>
             <fw type="pageNum">Seite 22</fw> <p>Wien, Donnerstag <hi rendition="#bold">Neue Freie Presse</hi>. Februar Nr. 14168<lb break="paragraph"/></p> <p><hi rendition="#bold">Miszellen.</hi><lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">The mystery of sleep</hi>.“ Von John <hi rendition="#smallcaps">Bigelow</hi>. 1903]<lb/> Das Geheimnis des Schlafes zu lösen, sollte wohl der Wissenschaft<lb/> vorbehalten bleiben; der fromme Autor aber operiert mit Bibel<lb break="no"/>argumenten und teleologischen Gründen, wie: es sei eine der gött<lb break="no"/>lichen Vorsehung unwürdige Vorstellung, daß sie den Menschen eine<lb/> volles Drittel seines Lebens in geistiger Untätigkeit verbringen<lb/> lassen sollte. Der Schlaf sei vielmehr jener Zustand, in welchem der<lb/> göttliche Einfluß am freiesten und wirksamsten in das menschliche<lb/> Seelenleben gelange. Wir wollen nicht unterlassen, trotz aller Ab<lb break="no"/>lehnung der Gedankengänge des Autors, den Kern der Wahrheit<lb/> in seiner Behauptung hervorzuheben. Auch wissenschaftliche Studien<lb/> über den Zustand des Seelenlebens während des Schlafens nötigen<lb/> uns, die bisherige Annahme, daß der Schlaf das Spiel der<lb/> geistigen Tätigkeiten bis auf ein Minimum aufhebe, als unzutreffend<lb/> aufzugeben. Die wichtigsten Vorgänge unbewußter Geistes- und selbst<lb/> Denktätigkeit setzen sich, wie die Aufklärung der Träume beweist,<lb/> die Referent gegeben hat, auch in dem tiefen Schlaf fort. Diese un<lb break="no"/>bewußte Seelentätigkeit verdient es, „dämonisch“ genannt zu werden,<lb/> aber kaum göttlich.<lb/> Professor S. Fr.<lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">Neurasthenie, Wesen, Heilung, Vorbeugung</hi>.“<lb/> Von Dr. Alfred <hi rendition="#smallcaps">Baumgarten</hi>. Wörishofen, 1903.] Der Hin<lb break="no"/>weis des Vorwortes auf sechzehnjährige ärztliche Erfahrung in dem<lb/> Studium der Krankheit und die Ankündigung „rückhaltloser und<lb/> rücksichtsloser Wahrheit“ sind geeignet, bei dem Leser Erwartungen<lb/> anzuregen, die dann während der Lektüre des 338 Seiten starken<lb/> Buches in volle Enttäuschung ausgehen. Weder in der Schilderung<lb/> der Symptome noch in deren Aufklärung weiß und der Autor etwas<lb/> anderes zu sagen, als was allgemein bekannt ist. Und doch enthält<lb/> die herrschende Lehre von der Kulturkrankheit, der Neurasthenie,<lb/> übergenug Zweifelhaftes und Irrtümliches, woran ein selbständiger<lb/> Beobachter und nach Wahrheit strebender Mensch hätte rühren<lb/> müssen. Die Tendenz des Buches geht natürlich dahin, die Be<lb break="no"/>deutung der Kneipp-Kur für die Heilung der Neurasthenie ins rechte<lb/> Licht zu rücken. Daß Wörishofen überhaupt für „rückhaltlose und<lb/> rücksichtslose“ Verfolgung der Wahrheit der richtige Ort sei, wird<lb/> einem starken Vorurteil bei dem verständnisvollen Leser begegnen.<lb/> Professor S. Fr.<lb break="paragraph"/></p>
          

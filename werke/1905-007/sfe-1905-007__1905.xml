@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -84,11 +88,10 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1905-007-1905">
+               <biblStruct xml:id="bibl-1905-007-1905" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Neue Freie Presse</title>
@@ -104,42 +107,38 @@
                      </imprint>
                      <extent>21</extent>
                      <biblScope unit="volume">Nr. 14735</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Neue Freie Presse</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1905-08-31">1905-08-31</date>
-                     </imprint>
-                     <extent>21</extent>
-                     <biblScope unit="volume">Nr. 14735</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__9be2b10c-4b9f-4b97-bdff-bf5c3319e798">
                         <title>Rezension von: Wichmann, R[alf] ›Lebensregeln für Neurastheniker‹</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1905-007/1905</idno>
                         <idno type="url">https://www.freud-edition.net/werke/rezension-von-wichmann-ralf-lebensregeln-fur-neurastheniker/druckversion</idno>
@@ -159,8 +158,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -176,6 +174,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -184,7 +194,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__5fcc2568-e941-4613-bd53-11aa2d0feaeb"/>
             <fw type="pageNum">Seite 21</fw> <p>Neue Freie Presse. 31. August 1905<lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">Lebensregeln für Neurastheniker</hi>.“ Von<lb/> Dr. R. Wichmann. 1903.] In vierter Auflage liegt hier ein<lb/> kleines Büchlein vor, welches in Form eines Frage- und Antwort<lb break="no"/>spieles dem „Neurastheniker“ recht verständige Dinge über sein Leiden<lb/> mitteilt und ihm Ratschläge gibt, deren Wert für die Heilung der<lb break="no"/>selben übrigens nicht überschätzt werden soll. Der Autor verwahrt<lb/> sich selbst gegen die Absicht, die persönliche Leistung des Arztes bei<lb/> dem Kranken durch diese Schrift überflüssig zu machen, und da Ge<lb break="no"/>sunde solche Bücher nicht zu lesen pflegen, so könnte man wohl dieser<lb/> ganzen Gattung populär-ärztlicher Literatur die Existenzberechtigung<lb/> bestreiten. In manchen Punkten, über welche theoretische Aufklärung<lb/> und praktische Belehrung besonders wichtig wären, hat sich der Ver<lb break="no"/>fasser die Aufgabe recht leicht gemacht; auch das über Angst- und<lb/> Zwangszustände Vorgebrachte ist völlig unzureichend.<lb/> Professor S. Fr.<lb break="paragraph"/></p>
          

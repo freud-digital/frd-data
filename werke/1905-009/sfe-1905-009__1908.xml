@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,150 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1905-009-1912">
+                  <biblStruct xml:id="bibl-1905-009-1912">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1911">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1909">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1906">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1905">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1928">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1922">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1908" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Freud, Sigmund</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Wer ist’s? </title>
@@ -102,203 +245,38 @@
                      </imprint>
                      <extent>379</extent>
                      <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1911">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1909">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1908">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1906">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1905">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1928">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1922">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Unsere Zeitgenossen</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1908-01-01">1908-01-01</date>
-                     </imprint>
-                     <extent>379</extent>
-                     <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__c4537c7f-078e-4398-a846-20d3d31f6310">
                         <title>Freud, Sigmund</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1905-009/1908</idno>
                         <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-8</idno>
@@ -323,8 +301,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -340,6 +317,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -348,12 +337,14 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__bdb50634-9ef3-4971-b3f2-455d5e47a780"/>
             <fw type="pageNum">379</fw> <p><hi rendition="#bold">FREUD, Sigmund, Dr. Arzt. a. o.</hi><lb/> Prof. d. Neuropathol., Univ. Wien. — *6. V <lb/> 1856 Freiberg in Mähr. — V: Jacob Freud<lb/> Kaufm.; M: Amalia gb. Nathanson. — Gymn.<lb/> u. Univ. Wien. — Verh: 86 m. M. Bernays.<lb/> — K: 6. — Nach Promot. Demonstr. a. phy<lb break="no"/>siol. Inst., dann Sekdararzt im Allg. Kran<lb break="no"/>kenh., habilit. f. Nervenkrankh. 85, Schüler<lb/> v. Charcot, Paris 85-86, Prof. 02. — W:<lb/> Fachwissschftl. Schrift. in Journ. st. 77, Üb.<lb/> Aphasie 91, üb. Kinderlähmgn. 91, 93, 97,<lb/> Stud. üb. Hysterie (m. Breuer) 95, Traum<lb break="no"/>deutg. 00; Psychopathol. d. Alltagsleb., 2. A.<lb/> 07; D. Witz u. seine Beziehg. z. Unbewußten<lb/> 05. 3 Abh. z. Sexualtheorie 05; Hysteriean<lb break="no"/>alyse 05; Sammlg. kl. Schr. z. Neurosen<lb break="no"/>lehre 06; Wahn u. Träume in Jensens Tra<lb break="no"/>diva 07. — Wien IX, Bergg. 19.<lb break="paragraph"/></p>
          
+         
             <pb n="2" xml:id="page__ca1d0856-8b5e-41b3-8d49-609f6aa145f8"/>
             <p>BLANK<lb break="paragraph"/></p>
+         
          
             <pb n="3" xml:id="page__a5176734-fda1-4f92-9595-634ed41a6973"/>
             <p>BLANK<lb break="paragraph"/></p>

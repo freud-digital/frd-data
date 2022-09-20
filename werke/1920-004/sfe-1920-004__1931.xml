@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,70 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-004-1924">
+                  <biblStruct xml:id="bibl-1920-004-1924">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>173 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1920">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>173 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1926">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>173 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-004-1931" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Kleinoktavausgabe</title>
@@ -102,111 +165,38 @@
                      </imprint>
                      <extent>173 Seiten</extent>
                      <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1920">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>173 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1931">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>173 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1926">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>173 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>173 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__94ae9e89-8dfc-41a0-b139-ad4599bed844">
                         <title>Gedankenassoziation eines vierjährigen Kindes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-004/1931</idno>
                         <idno type="url">https://www.freud-edition.net/werke/gedankenassoziation-eines-vierjahrigen-kindes/druckversion-0</idno>
@@ -231,8 +221,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -248,6 +237,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -256,9 +257,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__71a710bb-d97c-4ec7-a590-bb3e0a9c3e32"/>
             <fw type="pageNum">[172]</fw> <p rendition="#level_2">GEDANKENASSOZIATION EINES<lb/> VIERJÄHRIGEN KINDES</p><p>(1920)<lb break="paragraph"/></p> <p>Aus dem Brief einer amerikanischen Mutter: „Ich muß Dir<lb/> erzählen, was die Kleine gestern gesagt hat. Ich kann mich<lb/> noch gar nicht fassen darüber. Cousine Emily sprach davon,<lb/> daß sie sich eine Wohnung nehmen wird. Da sagte das Kind:<lb/> Wenn Emily heiratet, wird sie ein Baby bekommen. Ich war<lb/> sehr überrascht und fragte sie: Ja, woher weißt du denn das?<lb/> Und sie darauf: Ja, wenn jemand heiratet, dann kommt immer<lb/> ein Baby. Ich wiederholte: Aber wie kannst du das wissen?<lb/> Und die Kleine: Oh, ich weiß noch sehr viel, ich weiß auch,<lb/> daß die Bäume in der Erde wachsen (<hi rendition="#em">in the ground</hi>). Denke<lb/> Dir die sonderbare Gedankenverbindung! Das ist ja gerade<lb/> das, was ich ihr eines Tages zur Aufklärung sagen will. Und<lb/> dann setzt sie noch fort: Ich weiß auch, daß der liebe Gott die<lb/> Welt schafft (<hi rendition="#em">makes the world</hi>). Wenn sie solche Reden führt,<lb/> kann ich mir’s kaum glauben, daß sie noch nicht einmal<lb/> vier Jahre alt ist.“<lb break="paragraph"/></p> <p>Es scheint, daß die Mutter den Übergang von der ersten<lb/> Äußerung des Kindes zur zweiten selbst verstanden hat. Das<lb/> Kind will sagen: Ich weiß, daß die Kinder in der Mutter<lb/> wachsen, und drückt dies Wissen nicht direkt, sondern<lb/> symbolisch aus, indem es die Mutter durch die Mutter Erde<lb/> ersetzt. Wir haben bereits aus vielen unzweifelhaften Be<lb break="no"/>obachtungen erfahren, wie frühzeitig sich die Kinder der<lb/> Symbole zu bedienen wissen. Aber auch die dritte Äußerung<lb break="paragraph"/><pb n="2" xml:id="page__81d7f51a-fc7e-4dc2-bf69-1ecebd94160a"/><fw type="pageNum">173</fw>der Kleinen verläßt den Zusammenhang nicht. Wir können<lb/> nur annehmen, daß das Kind als ein weiteres Stück seines<lb/> Wissens über die Herkunft der Kinder mitteilen wollte: Ich<lb/> weiß auch, das ist alles das Werk des Vaters. Aber diesmal<lb/> ersetzt sie den direkten Gedanken durch die dazugehörige<lb/> Sublimierung, daß der liebe Gott die Welt schafft.<lb break="paragraph"/></p>
+         
          
             
              

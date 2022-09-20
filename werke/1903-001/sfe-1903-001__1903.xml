@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -86,11 +90,10 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1903-001-1903">
+               <biblStruct xml:id="bibl-1903-001-1903" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Neue Freie Presse</title>
@@ -107,43 +110,38 @@
                      <extent>41</extent>
                      <biblScope unit="volume">Nr. 13812</biblScope>
                      <biblScope unit="year">40</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Neue Freie Presse</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1903-02-08">1903-02-08</date>
-                     </imprint>
-                     <extent>41</extent>
-                     <biblScope unit="volume">Nr. 13812</biblScope>
-                     <biblScope unit="year">40</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__24ba6291-4994-4bca-883f-eca7f731de7c">
                         <title>Rezension von: Bidenkapp, Georg ›Im Kampfe gegen Hirnbacillen‹</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1903-001/1903</idno>
                         <idno type="url">https://www.freud-edition.net/werke/rezension-von-bidenkapp-georg-im-kampfe-gegen-hirnbacillen/druckversion</idno>
@@ -167,8 +165,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -184,6 +181,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -192,7 +201,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__d050fe82-ff1a-40ee-86e6-72a6dbf4a0d7"/>
             <fw type="pageNum">Seite 41</fw> <p>Neue Freie Presse 8. Februar 1903 <lb break="paragraph"/></p> <p>[<hi rendition="#smallcaps">Dr. Georg Biedenkapp. „Im Kampfe gegen<lb/> Hirnbacillen</hi>“. Berlin, 1902.] Hinter diesem wenig an<lb break="no"/>sprechenden Titel birgt sich das Buch eines tapferen Mannes, der<lb/> dem Leser viel Beherzigenswertes zu sagen weiß. Mehr von dem<lb/> Inhalt verräth der Untertitel des Werkes: „Eine Philosophie der<lb/> kleinen Worte“. Der Autor kämpft nämlich gegen jene „zu Vieles<lb/> aus- oder einschließenden Wörtchen und Wortformen“, welche bei<lb/> denen, die sie mit Vorliebe zu gebrauchen pflegen, eine schädliche<lb/> Neigung zu „exclusiven oder superlativen Urtheilen“ bekunden.<lb/> Selbstverständlich — auch dieses Wort würde unser Autor bean<lb break="no"/>standen — gilt der Kampf nicht jenen harmlosen Worten, sondern<lb/> der Neigung, sich an ihnen zu berauschen und der so gewonnenen<lb/> Hebung der Darstellung zuliebe an die nothwendigen Ein<lb break="no"/>schränkungen seiner Aussage, wie an die unvermeidliche Bedingt<lb break="no"/>heit der eigenen Urtheile zu vergessen. Es dient wirklich zur<lb/> nützlichen Mahnung, wenn Einem vorgehalten wird, wie Vieles als<lb/> „selbstverständlich“ oder als „unsinnig“ von den Menschen einer<lb/> früheren Generation bezeichnet wurde, was uns heute umgekehrt als<lb/> unsinnig oder als selbstverständlich gilt. Oder wenn wir an einer<lb/> Reihe gut gewählter Beispiele ersehen, welche Einengung ihres Ge<lb break="no"/>sichtskreises selbst bedeutende Schriftsteller sich in Folge ihres Miß<lb break="no"/>brauches von Superlativen vorwerfen lassen müssen. Die Mahnung<lb/> zur Nüchternheit in Urtheil und Ausdruck dient unserem Autor<lb/> indeß nur als Ausgangspunkt zu weiteren Erörterungen über<lb/> andere „Denkfehler“ der Menschen, über den Mittelpunktswahn, den<lb/> Glauben, über die atheistische Moral und dergleichen. In all diesen<lb/> Bemerkungen zeigt sich das ehrliche Bestreben des Autors, Ernst zu<lb/> machen mit der Durchführung jener Weltanschauung, die uns durch<lb/> die Ergebnisse der modernen Wissenschaft, im Besonderen der Ent<lb break="no"/>wicklungslehre, aufgenöthigt wird. Es ist sehr viel psychologisch<lb/> Richtiges dabei, und manche Wahrheit von der Art, die schon oft<lb/> gesagt worden ist, aber nicht oft genug wiederholt werden kann.<lb/> Der Autor hat sich die undankbare Aufgabe gestellt, „die Menschen<lb/> zu bessern und zu bekehren“ auf dem Wege nüchterner Beein<lb break="no"/>flussung, ohne sie durch Humor zum Lachen bewegen oder durch<lb/> Leidenschaft mit fortreißen zu wollen. Wünschen wir ihm dazu den<lb/> besten Erfolg! <hi rendition="#smallcaps">Professor Sigmund Freud</hi>.<lb break="paragraph"/></p>
          

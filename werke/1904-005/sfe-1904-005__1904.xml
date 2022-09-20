@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -84,11 +88,10 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1904-005-1904">
+               <biblStruct xml:id="bibl-1904-005-1904" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Professor S. Hammerschlag [Nachruf]</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Neue Freie Presse</title>
@@ -104,42 +107,38 @@
                      </imprint>
                      <extent>8</extent>
                      <biblScope unit="volume">Nr. 14441</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Professor S. Hammerschlag [Nachruf]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Neue Freie Presse</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1904-11-06">1904-11-06</date>
-                     </imprint>
-                     <extent>8</extent>
-                     <biblScope unit="volume">Nr. 14441</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__6edd4373-e791-4d09-b0d0-dbdba8ac8fdf">
                         <title>Professor S. Hammerschlag [Nachruf]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1904-005/1904</idno>
                         <idno type="url">https://www.freud-edition.net/werke/professor-s-hammerschlag-nachruf/druckversion</idno>
@@ -163,8 +162,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -180,6 +178,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -188,7 +198,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__4a250861-f912-405f-b593-fc3589fcf444"/>
             <p><hi rendition="#bold">Seite <span class="pagenumber">8</span> </hi><lb break="paragraph"/></p> <p>Wien, Freitag <hi rendition="#bold">Neue Freie Presse.</hi> 11. November 1904 Nr. 14446<lb break="paragraph"/></p> <p>[<hi rendition="#smallcaps">Professor S. Hammerschlag</hi>.] Ueber den<lb/> heute unter großer Teilnahme beerdigten emeritierten Religions<lb break="no"/>lehrer der Wiener israelitischen Gymnasialjugend, Professor<lb/> S. <hi rendition="#smallcaps">Hammerschlag</hi>, schreibt uns ein ehemaliger Schüler,<lb/> Professor Siegmund <hi rendition="#smallcaps">Freud</hi>: „S. Hammerschlag, der vor<lb/> etwa 30 Jahren seine Tätigkeit als israelitischer Religions<lb break="no"/>lehrer eingestellt hatte, gehörte zu den Persönlichkeiten, denen<lb/> es möglich war, unverwischbare Eindrücke in der Entwicklung<lb/> seiner Schüler zu hinterlassen. In seiner Seele glühte ein<lb/> starker Funken von dem Geiste der großen jüdischen Wahr<lb break="no"/>heitsbekenner und Propheten, der nicht eher erlosch, als bis<lb/> hohes Alter seine Kräfte schwächte. Aber die Leidenschaftlichkeit<lb/> seines Wesens war glücklich gemildert durch das ihn beherr<lb break="no"/>schende Humanitätsideal unserer deutschen klassischen Periode,<lb/> und seine Bildung ruhte auf dem Grunde philologischer und<lb/> altklassischer Studien, denen er seine eigene Jugend gewidmet<lb/> hatte. Der Religionsunterricht diente ihm als ein Weg der<lb/> Erziehung zur Humanität, und aus dem Material der jüdi<lb break="no"/>schen Geschichte wußte er die Mittel zu finden, um die im <lb/> Herzen der Jugend sich bergenden Quellen der Begeisterung<lb/> anzuschlagen und sie weit hinaus über nationale oder dogma<lb break="no"/>tische Beschränktheit sprudeln zu lassen. Wer von seinen<lb/> Schülern ihn dann in seiner Häuslichkeit aufsuchen durfte,<lb/> der erwarb einen väterlich fürsorglichen Freund an ihm und<lb/> konnte inne werden, daß eine verständige Zärtlichkeit der<lb/> Grundzug seines Wesens war. Den Empfindungen einer durch<lb/> Jahrzehnte ungeschwächten Dankbarkeit gegen den verehrten<lb/> Lehrer hat an seiner Bahre der Historiker Dr. <hi rendition="#smallcaps">Fried<lb break="no"/>jung</hi> würdigsten Ausdruck gegeben.“<lb break="paragraph"/></p>
          

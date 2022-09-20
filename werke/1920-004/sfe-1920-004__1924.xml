@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,70 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-004-1924">
+                  <biblStruct xml:id="bibl-1920-004-1920">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>245 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1931">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>245 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1926">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>245 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-004-1924" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
@@ -102,111 +165,38 @@
                      </imprint>
                      <extent>245 Seiten</extent>
                      <biblScope unit="volume">5. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1920">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 5</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1924-01-01">1924-01-01</date>
-                     </imprint>
-                     <extent>245 Seiten</extent>
-                     <biblScope unit="volume">5. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1931">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 5</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1924-01-01">1924-01-01</date>
-                     </imprint>
-                     <extent>245 Seiten</extent>
-                     <biblScope unit="volume">5. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1926">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 5</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1924-01-01">1924-01-01</date>
-                     </imprint>
-                     <extent>245 Seiten</extent>
-                     <biblScope unit="volume">5. Band</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 5</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1924-01-01">1924-01-01</date>
-                     </imprint>
-                     <extent>245 Seiten</extent>
-                     <biblScope unit="volume">5. Band</biblScope>
-                     <note>Werkausgabe</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__d556ac5f-d324-4ac1-91d2-b7b795e8a90e">
                         <title>Gedankenassoziation eines vierjährigen Kindes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-004/1924</idno>
                         <idno type="url">https://www.freud-edition.net/werke/gedankenassoziation-eines-vierjahrigen-kindes/druckversion-1</idno>
@@ -230,8 +220,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -247,6 +236,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -255,9 +256,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__8229e3a4-2f9f-481b-ade1-1d95e5dcd0f8"/>
             <fw type="pageNum">[243]</fw> <p rendition="#level_2">GEDANKENASSOZIATION EINES VIER<lb break="no"/>JÄHRIGEN KINDES</p><p><hi rendition="#em">Zuerst erschienen in der „Internationalen Zeit<lb break="no"/>schrift für Psychoanalyse“, VI, 1920.</hi><lb break="paragraph"/></p> <p>Aus dem Brief einer amerikanischen Mutter: „Ich muß Dir<lb/> erzählen, was die Kleine gestern gesagt hat. Ich kann mich noch<lb/> gar nicht fassen darüber. Cousine Emily sprach davon, daß sie<lb/> sich eine Wohnung nehmen wird. Da sagte das Kind: Wenn<lb/> Emily heiratet, wird sie ein Baby bekommen. Ich war sehr über<lb break="no"/>rascht und fragte sie: Ja, woher weißt du denn das? Und sie<lb/> darauf: Ja, wenn jemand heiratet, dann kommt immer ein Baby.<lb/> Ich wiederholte: Aber wie kannst du das wissen? Und die<lb/> Kleine: Oh, ich weiß noch sehr viel, ich weiß auch, daß die<lb/> Bäume in der Erde wachsen (<hi rendition="#em">in the ground</hi>). Denke Dir die<lb/> sonderbare Gedankenverbindung! Das ist ja gerade das, was ich<lb/> ihr eines Tages zur Aufklärung sagen will. Und dann setzt sie<lb/> noch fort: Ich weiß auch, daß der liebe Gott die Welt schafft<lb/> (<hi rendition="#em">makes the world</hi>). Wenn sie solche Reden führt, kann ich mir’s<lb/> kaum glauben, daß sie noch nicht einmal vier Jahre alt ist.“<lb break="paragraph"/></p> <p>Es scheint, daß die Mutter den Übergang von der ersten<lb/> Äußerung des Kindes zur zweiten selbst verstanden hat. Das<lb/> Kind will sagen: Ich weiß, daß die Kinder in der Mutter<lb/> wachsen, und drückt dies Wissen nicht direkt, sondern symbolisch<lb/> aus, indem es die Mutter durch die Mutter Erde ersetzt. Wir<lb/> haben bereits aus vielen unzweifelhaften Beobachtungen erfahren,<lb/> wie frühzeitig sich die Kinder der Symbole zu bedienen wissen.<lb break="paragraph"/><pb n="2" xml:id="page__ab36aa46-f410-4ac3-abec-badb4a169337"/><fw type="pageNum"/>Aber auch die dritte Äußerung der Kleinen verläßt den Zusammen<lb break="no"/>hang nicht. Wir können nur annehmen, daß das Kind als ein<lb/> weiteres Stück seines Wissens über die Herkunft der Kinder<lb/> mitteilen wollte: Ich weiß auch, das ist alles das Werk des<lb/> Vaters. Aber diesmal ersetzt sie den direkten Gedanken durch<lb/> die dazugehörige Sublimierung, daß der liebe Gott die Welt<lb/> schafft.<lb break="paragraph"/></p>
+         
          
             
             

@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,150 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1905-009-1912">
+                  <biblStruct xml:id="bibl-1905-009-1912">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1911">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1908">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1906">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1905">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1928">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1922">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1909" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Freud, Sigmund</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Wer ist’s? </title>
@@ -102,203 +245,38 @@
                      </imprint>
                      <extent>392</extent>
                      <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1911">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1909">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1908">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1906">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1905">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1928">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1905-009-1922">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Wer ist’s? </title>
-                     <title type="publication-sub">Zeitgenossenlexikon</title>
-                     <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Leipzig</pubPlace>
-                        <date when="1909-01-01">1909-01-01</date>
-                     </imprint>
-                     <extent>392</extent>
-                     <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-                     <note>Sammelband</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__38644589-b76b-4c1c-9774-cf8bfb7baa5b">
                         <title>Freud, Sigmund</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1905-009/1909</idno>
                         <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-7</idno>
@@ -318,8 +296,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -335,6 +312,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -343,9 +332,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__b721eb63-c349-4e0d-8361-6099525744f1"/>
             <fw type="pageNum">392</fw> <p><hi rendition="#bold">FREUD, Sigmund, Dr., Arzt. a. o.</hi><lb/> Prof. d. Neuropathol., Univ. Wien. — *6. V <lb/> 1856 Freiberg, in Mähr. — V: Jacob Freud<lb/> Kfm.; M: Amalia gb. Nathanson. — Gymn.<lb/> u. Univ. Wien. — Verh: 86 m. M. Bernays.<lb/> — K: 6. — Nach Promot. Demonstr. a. phy<lb break="no"/> siol. Inst., dann Sekdararzt im allg. Kran<lb break="no"/>kenh., habilit. f. Nervenkrankh. 85, Schüler<lb/> v. Charcot, Paris 85—86, Prof. 02. — W: Fach<lb break="no"/>wiss. Schrift. in Journ. s. 77, Üb.-Aphasie 91,<lb/> üb. Kinderlähmgn. 91, 93, 97, Stud. üb. Hy<lb break="no"/>sterie (m. Breuer) 95, Traumdeutg. 00; Psy<lb break="no"/>chopathol. d. Alltagsleb., 2. A. 07; D. Witz u.<lb/> seine Beziehg. z. Unbewußten 05. 3 Abhdlgn.<lb/> z. Sexualtheorie 05; Hysterieanalyse 05;<lb/> Sammlg. kl. Schr. z. Neurosenlehre 06; Wahn<lb/> u. Träume in Jensens Gradiva 07. — Wien IX,<lb/> Bergg. 19.<lb break="paragraph"/></p>
+         
          
             <pb n="2" xml:id="page__c6629d89-8247-4415-bd8b-433db0caea75"/>
             <p>Wer ist's?<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Zeitgenossenlexikon<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>enthaltend<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Biographien nebst Bibliographien. Angaben über Herkunft, Familie, Lebenslauf, Werke, Lieblingsbeschäftigungen, Partei angehörigkeit, Mitgliedschaft bei Gesellschaften, Adresse. Andere Mitteilungen von allgemeinem Interesse<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Zusammengestellt und herausgegeben von<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Herrmann A. L. Degener<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>IV. Ausgabe<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Vollkommen neu bearbeitet und wesentlich erweitert<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>LEIPZIG Verlag von H. A. Ludwig Degener 1909<lb break="paragraph"/></p>

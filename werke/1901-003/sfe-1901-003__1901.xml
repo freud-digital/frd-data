@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,10 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1901-003-1901">
+               <biblStruct xml:id="bibl-1901-003-1901" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
@@ -101,41 +104,38 @@
                         <date when="1901-01-01">1901-01-01</date>
                      </imprint>
                      <extent>545</extent>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
-                     <title type="publication-sub">Mit einer historischen Einleitung</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1901-01-01">1901-01-01</date>
-                     </imprint>
-                     <extent>545</extent>
-                     <note>Sammelband</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__81ed2a14-0c9c-4800-b220-e6e408de6141">
                         <title>Freud, Sigm. [autobiographischer Artikel]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1901-003/1901</idno>
                         <idno type="url">https://www.freud-edition.net/werke/freud-sigm-autobiographischer-artikel/druckversion</idno>
@@ -159,8 +159,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -176,6 +175,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -184,7 +195,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__2e687553-363d-42cd-a7a2-5b7b936b2de1"/>
             <fw type="pageNum">545</fw> <p><hi rendition="#bold">Freud</hi>, Sigm., Wien, geb 6. Mai<lb/> 1856 Freiberg, Mähren, studierte in Wien,<lb/> Schüler des Physiologen BRÜCKE, Promo<lb break="no"/>tion 1881, 1885/6 Schüler von CHARCOT in<lb/> Paris, habilitiert f. Neuropathologie 1885<lb/> in Wien, wirkt als Arzt und Dozent an<lb/> der Wiener Universität seit 1886, zum Prof.<lb/> extraord. vorgeschlagen 1897. F. verfasste<lb/> früher histologische und hirnanatom. Ar<lb break="no"/>beiten, dann neuropathol. Kasuistik, über<lb break="no"/>setzte nach CHARCOT und BERNHEIM 1884<lb/> „<hi rendition="#em">Über Coca</hi>“, welche Abhandlung das<lb/> Cocain in die Medizin einführte, 1891<lb/> „<hi rendition="#em">Zur Auffassung der Aphasien</hi>“, 1891 und<lb/> 1893 Monographien über die cerebrale<lb/> Kinderlähmung, die 1897 in dem Buch über<lb/> Infantile Cerebrallähmung in NOTHNAGEL’S<lb/> Handbuch gipfeln, 1895 „<hi rendition="#em">Studien über<lb/> Hysterie</hi>“ (mit Dr. J. BREUER). Seither<lb/> wandte sich F. dem Studium der Psycho<lb break="no"/>neurosen insbes. Hysterie zu und betonte<lb/> in einer Reihe von kleineren Arbeiten die<lb/> aetiologische Bedeutung des Sexuallebens<lb/> für die Neurosen, auch arbeitete er eine<lb/> neue Psychotherapie der Hysterie aus,<lb/> von der erst das Wenigste publiziert ist.<lb/> Ein Buch „<hi rendition="#em">Die Traumdeutung</hi>“ ist unter<lb/> der Presse.<lb break="paragraph"/></p>
          

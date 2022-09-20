@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,67 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-004-1924">
+                  <biblStruct xml:id="bibl-1920-004-1924">
+                     <analytic>
+                        <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>86 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1920">
+                     <analytic>
+                        <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>86 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1931">
+                     <analytic>
+                        <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>86 Seiten</extent>                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-004-1926" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
@@ -101,107 +161,38 @@
                         <date when="1926-01-01">1926-01-01</date>
                      </imprint>
                      <extent>86 Seiten</extent>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1920">
-                  <analytic>
-                     <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1926-01-01">1926-01-01</date>
-                     </imprint>
-                     <extent>86 Seiten</extent>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1931">
-                  <analytic>
-                     <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1926-01-01">1926-01-01</date>
-                     </imprint>
-                     <extent>86 Seiten</extent>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1926">
-                  <analytic>
-                     <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1926-01-01">1926-01-01</date>
-                     </imprint>
-                     <extent>86 Seiten</extent>
-                     <note>Sammelband</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Sammelband</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1926-01-01">1926-01-01</date>
-                     </imprint>
-                     <extent>86 Seiten</extent>
-                     <note>Sammelband</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__4032fc53-ad11-4db1-baa2-52fe73a4d86d">
                         <title>Gedankenassozation eines vierjährigen Kindes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-004/1926</idno>
                         <idno type="url">https://www.freud-edition.net/werke/gedankenassozation-eines-vierjahrigen-kindes/druckversion</idno>
@@ -226,8 +217,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -243,6 +233,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -251,9 +253,10 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__21337b43-b8d8-4d61-a326-0f4c1be8856b"/>
             <fw type="pageNum">[85]</fw> <p rendition="#level_2">GEDANKENASSOZIATION EINES VIER<lb break="no"/>JÄHRIGEN KINDES</p><p><hi rendition="#em">Zuerst erschienen in der „Internatio<lb break="no"/>nalen Zeitschrift für Psychoanalyse“,<lb/> VI, 1920.</hi><lb break="paragraph"/></p> <p>Aus dem Brief einer amerikanischen Mutter: „Ich muß<lb/> Dir erzählen, was die Kleine gestern gesagt hat. Ich kann<lb/> mich noch gar nicht fassen darüber. Cousine Emily sprach<lb/> davon, daß sie sich eine Wohnung nehmen wird. Da sagte<lb/> das Kind: Wenn Emily heiratet, wird sie ein Baby be<lb break="no"/>kommen. Ich war sehr überrascht und fragte sie: Ja, woher<lb/> weißt du denn das? Und sie darauf: Ja, wenn jemand<lb/> heiratet, dann kommt immer ein Baby. Ich wiederholte:<lb/> Aber wie kannst du das wissen? Und die Kleine: Oh, ich<lb/> weiß noch sehr viel, ich weiß auch, daß die Bäume in der<lb/> Erde wachsen (<hi rendition="#em">in the ground</hi>). Denke Dir die sonderbare<lb/> Gedankenverbindung! Das ist ja gerade das, was ich ihr<lb/> eines Tages zur Aufklärung sagen will. Und dann setzt sie<lb/> noch fort: Ich weiß auch, daß der liebe Gott die Welt<lb/> schafft (<hi rendition="#em">makes the world</hi>). Wenn sie solche Reden führt,<lb/> kann ich mir’s kaum glauben, daß sie noch nicht einmal<lb/> vier Jahre alt ist.“<lb break="paragraph"/></p> <p>Es scheint, daß die Mutter den Übergang von der ersten<lb/> Äußerung des Kindes zur zweiten selbst verstanden hat. Das<lb break="paragraph"/><pb n="2" xml:id="page__943eefa9-a5c5-44cd-b407-9b46f4bc12b6"/><fw type="pageNum">86</fw>Kind will sagen: Ich weiß, daß die Kinder in der Mutter<lb/> wachsen, und drückt dies Wissen nicht direkt, sondern<lb/> symbolisch aus, indem es die Mutter durch die Mutter Erde<lb/> ersetzt. Wir haben bereits aus vielen unzweifelhaften Beob<lb break="no"/>achtungen erfahren, wie frühzeitig sich die Kinder der<lb/> Symbole zu bedienen wissen. Aber auch die dritte Äußerung<lb/> der Kleinen verläßt den Zusammenhang nicht. Wir können<lb/> nur annehmen, daß das Kind als ein weiteres Stück seines<lb/> Wissens über die Herkunft der Kinder mitteilen wollte: Ich<lb/> weiß auch, das ist alles das Werk des Vaters. Aber diesmal<lb/> ersetzt sie den direkten Gedanken durch die dazugehörige<lb/> Sublimierung, daß der liebe Gott die Welt schafft.<lb break="paragraph"/></p>
+         
          
             
              

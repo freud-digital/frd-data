@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -82,11 +86,73 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-004-1924">
+                  <biblStruct xml:id="bibl-1920-004-1924">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-04-01">1920-04-01</date>
+                        </imprint>
+<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1931">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-04-01">1920-04-01</date>
+                        </imprint>
+<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1926">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-04-01">1920-04-01</date>
+                        </imprint>
+<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-004-1920" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
@@ -103,115 +169,38 @@
                      <extent>157</extent>
                      <biblScope unit="volume">2</biblScope>
                      <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1920">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short">IZP</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-04-01">1920-04-01</date>
-                     </imprint>
-                     <extent>157</extent>
-                     <biblScope unit="volume">2</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1931">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short">IZP</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-04-01">1920-04-01</date>
-                     </imprint>
-                     <extent>157</extent>
-                     <biblScope unit="volume">2</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1920-004-1926">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short">IZP</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-04-01">1920-04-01</date>
-                     </imprint>
-                     <extent>157</extent>
-                     <biblScope unit="volume">2</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Periodikum</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short">IZP</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-04-01">1920-04-01</date>
-                     </imprint>
-                     <extent>157</extent>
-                     <biblScope unit="volume">2</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                     <note>Periodikum (Heft)</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__6c1e50f6-b033-4d0c-82b1-faf39a730cf0">
                         <title>Gedankenassoziation eines vierjährigen Kindes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1920-004/1920</idno>
                         <idno type="url">https://www.freud-edition.net/werke/gedankenassoziation-eines-vierjahrigen-kindes/druckversion</idno>
@@ -236,8 +225,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -253,6 +241,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -261,7 +261,7 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__02f24e93-ef29-4546-9c33-64c40a9c8300"/>
             <fw type="pageNum">157</fw> <p rendition="#level_3">3.<lb/> Gedankenassoziation eines vierjährigen Kindes.</p><p>Aus dem Brief einer amerikanischen Mutter: „Ich muß Dir er<lb break="no"/>zählen, was die Kleine gestern gesagt hat. Ich kann mich noch gar<lb/> nicht fassen darüber. Kousine Emily sprach davon, daß sie sich eine<lb/> Wohnung nehmen wird. Da sagte das Kind: Wenn Emily heiratet, wird<lb/> sie ein Baby bekommen. Ich war sehr überrascht und fragte sie: Ja,<lb/> woher weißt du denn das? Und sie darauf: Ja, wenn jemand heiratet,<lb/> dann kommt immer ein Baby. Ich wiederholte: Aber wie kannst du<lb/> das wissen? Und die Kleine: Oh, ich weiß noch sehr viel, ich weiß<lb/> auch, daß die Bäume in der Erde wachsen (in the ground). Denke<lb/> Dir die sonderbare Gedankenverbindung! Das ist ja gerade das, was<lb/> ich ihr eines Tages zur Aufklärung sagen will. Und dann setzt sie noch<lb/> fort: Ich weiß auch, daß der liebe Gott die Welt schafft (makes the<lb/> world). Wenn sie solche Reden führt, kann ich mir’s kaum glauben,<lb/> daß sie noch nicht einmal vier Jahre alt ist.“<lb break="paragraph"/></p> <p>Es scheint, daß die Mutter den Übergang von der ersten Äußerung<lb/> des Kindes zur zweiten selbst verstanden hat. Das Kind will sagen:<lb/> ich weiß, daß die Kinder in der Mutter wachsen, und drückt dies Wissen<lb/> nicht direkt, sondern symbolisch aus, indem es die Mutter durch die<lb/> Mutter Erde ersetzt. Wir haben bereits aus vielen unzweifelhaften Be<lb break="no"/>obachtungen erfahren, wie frühzeitig sich die Kinder der Symbole zu<lb/> bedienen wissen. Aber auch die dritte Äußerung der Kleinen verläßt<lb/> den Zusammenhang nicht. Wir können nur annehmen, daß das Kind<lb/> als ein weiteres Stück seines Wissens über die Herkunft der Kinder<lb/> mitteilen wollte: Ich weiß auch, das ist alles das Werk des Vaters.<lb/> Aber diesmal ersetzt sie den direkten Gedanken durch die dazugehörige<lb/> Sublimierung, daß der liebe Gott die Welt schafft. <hi rendition="#smallcaps">Freud</hi>.<lb break="paragraph"/></p>
          

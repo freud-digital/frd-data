@@ -25,6 +25,11 @@
          <editionStmt>
             <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
             <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
                <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
                <name>Diercks, Christine</name>
             </respStmt>
@@ -34,11 +39,10 @@
             </respStmt>
             <respStmt>
                <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Blatow, Arkadi</name>
                <name>Diercks, Christine</name>
                <name>Huber, Christian</name>
                <name>Kaufmann, Kira</name>
-               <name>Rohrwasser, Michael</name>
+               <name>Liepold, Sophie</name>
             </respStmt>
             <respStmt>
                <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
@@ -83,11 +87,70 @@
          <sourceDesc>
             <listBibl>
                <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1924-005-1926">
+                  <biblStruct xml:id="bibl-1924-005-1926">
+                     <analytic>
+                        <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>204 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1924-005-1925">
+                     <analytic>
+                        <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>204 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1924-005-1924">
+                     <analytic>
+                        <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>204 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1924-005-1931" type="guidingManifestation">
                   <analytic>
                      <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
                      <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
                   </analytic>
                   <monogr>
                      <title type="publication">Kleinoktavausgabe</title>
@@ -103,111 +166,38 @@
                      </imprint>
                      <extent>204 Seiten</extent>
                      <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1924-005-1925">
-                  <analytic>
-                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>204 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1924-005-1931">
-                  <analytic>
-                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>204 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="bibl-1924-005-1924">
-                  <analytic>
-                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>204 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
-                  </monogr>
-               </biblStruct>
-               <biblStruct xml:id="guiding_manifestation">
-                  <analytic>
-                     <title type="manifestation">Der Realitätsverlust bei Neurose und Psychose</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     <note>Text in Werkausgabe</note>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Kleinoktavausgabe</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">Kl. 8° [3]</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1931-01-01">1931-01-01</date>
-                     </imprint>
-                     <extent>204 Seiten</extent>
-                     <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
-                     <note>Werkausgabe</note>
                   </monogr>
                   <relatedItem type="digitisedVersion">
                      <bibl xml:id="bibl__aa4027a0-f582-4770-88c8-e51ae060979e">
                         <title>Der Realitätsverlust bei Neurose und Psychose</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <editor>
-                           <name>Blatow, Arkadi</name>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
                            <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
                            <name>Huber, Christian</name>
                            <name>Kaufmann, Kira</name>
-                           <name>Rohrwasser, Michael</name>
-                        </editor>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
                         <date when="2022">2022</date>
                         <idno type="signature">1924-005/1931</idno>
                         <idno type="url">https://www.freud-edition.net/werke/der-realitatsverlust-bei-neurose-und-psychose/druckversion-2</idno>
@@ -232,8 +222,7 @@
                            <objectDesc>
                               <supportDesc>
                                  <support>
-                                    Buch aus <material>Papier</material> in Druckschrift .
-                                 </support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
                               </supportDesc>
                            </objectDesc>
                            <handDesc>
@@ -249,6 +238,18 @@
             </listBibl>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
       <profileDesc>
          <langUsage>
             <language ident="de">Deutsch</language>
@@ -257,21 +258,26 @@
    </teiHeader>
    <text>
       <body><div>
-
+         
             <pb n="1" xml:id="page__90d5a4ae-3c25-4d6a-a800-af7fb1e2e0c8"/>
             <fw type="pageNum">199</fw> <p rendition="h1"><title>Der Realitätsverlust bei<lb/> Neurose und Psychose<lb break="paragraph"/></title></p> <p>(1924)<lb break="paragraph"/></p> <p>Ich habe kürzlich<hi rendition="#footnote-index"><hi rendition="#sub">1</hi></hi> einen der unterscheidenden Züge zwischen<lb/> Neurose und Psychose dahin bestimmt, daß bei ersterer das<lb/> Ich in Abhängigkeit von der Realität ein Stück des Es<lb/> (Trieblebens) unterdrückt, während sich dasselbe Ich bei der<lb/> Psychose im Dienste des Es von einem Stück der Realität<lb/> zurückzieht. Für die Neurose wäre also die Übermacht des<lb/> Realeinflusses, für die Psychose die des Es maßgebend. Der<lb/> Realitätsverlust wäre für die Psychose von vorneherein ge<lb break="no"/>geben; für die Neurose, sollte man meinen, wäre er ver<lb break="no"/>mieden.<lb break="paragraph"/></p> <p>Das stimmt nun aber gar nicht zur Erfahrung, die wir<lb/> alle machen können, daß jede Neurose das Verhältnis des<lb/> Kranken zur Realität irgendwie stört, daß sie ihm ein Mittel<lb/> ist, sich von ihr zurückzuziehen und in ihren schweren Aus<lb break="no"/>bildungen direkt eine Flucht aus dem realen Leben bedeutet.<lb break="paragraph"/><pb n="2" xml:id="page__251d9c16-2171-4565-8dac-cb0f4fa5049e"/><fw type="pageNum">200</fw>Dieser Widerspruch erscheint bedenklich, allein er ist leicht<lb/> zu beseitigen und seine Aufklärung wird unser Verständnis<lb/> der Neurose nur gefördert haben.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Neurose und Psychose. [S. 186 dieses Bandes.]<lb break="paragraph"/></note>
+         
          
             
               <p>Der Widerspruch besteht nämlich nur so lange, als wir<lb/> die Eingangssituation der Neurose ins Auge fassen, in welcher<lb/> das Ich im Dienst der Realität die Verdrängung einer Trieb<lb break="no"/>regung vornimmt. Das ist aber noch nicht die Neurose selbst.<lb/> Diese besteht vielmehr in den Vorgängen, welche dem ge<lb break="no"/>schädigten Anteil des Es eine Entschädigung bringen, also in<lb/> der Reaktion gegen die Verdrängung und im Mißglücken<lb/> derselben. Die Lockerung des Verhältnisses zur Realität ist<lb/> dann die Folge dieses zweiten Schrittes in der Neurosen<lb break="no"/>bildung und es sollte uns nicht verwundern, wenn die<lb/> Detailuntersuchung zeigte, daß der Realitätsverlust gerade<lb/> jenes Stück der Realität betrifft, über dessen Anforderung<lb/> die Triebverdrängung erfolgte.<lb break="paragraph"/></p> <p>Die Charakteristik der Neurose als Erfolg einer mißglück<lb break="no"/>ten Verdrängung ist nichts Neues. Wir haben es immer so<lb/> gesagt und nur infolge des neuen Zusammenhanges war es<lb/> notwendig, es zu wiederholen.<lb break="paragraph"/></p> <p>Das nämliche Bedenken wird übrigens in besonders ein<lb break="no"/>drucksvoller Weise wieder auftreten, wenn es sich um einen<lb/> Fall von Neurose handelt, dessen Veranlassung („die trau<lb break="no"/>matische Szene“) bekannt ist und an dem man sehen kann,<lb/> wie sich die Person von einem solchen Erlebnis abwendet<lb/> und es der Amnesie überantwortet. Ich will zum Beispiel<lb/> auf einen vor langen Jahren analysierten Fall zurück<lb break="no"/>greifen,<hi rendition="#footnote-index"><hi rendition="#sub">2</hi></hi> in dem das in ihren Schwager verliebte Mädchen<lb/> am Totenbett der Schwester durch die Idee erschüttert wird:<lb/> Nun ist er frei und kann dich heiraten. Diese Szene wird<lb/> sofort vergessen und damit der Regressionsvorgang einge<lb break="no"/>leitet, der zu den hysterischen Schmerzen führt. Es ist aber<lb break="paragraph"/><pb n="3" xml:id="page__97860368-8391-4c0c-9148-8ffd4e6af5ff"/><fw type="pageNum">201</fw>gerade hier lehrreich zu sehen, auf welchem Wege die<lb/> Neurose den Konflikt zu erledigen versucht. Sie entwertet<lb/> die reale Veränderung, indem sie den in Betracht kommen<lb break="no"/>den Triebanspruch, also die Liebe zum Schwager, verdrängt.<lb/> Die psychotische Reaktion wäre gewesen, die Tatsache des<lb/> Todes der Schwester zu verleugnen.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">2)</hi> In den „Studien über Hysterie“, 1895. (Ges. Schriften, Bd. I)<lb break="paragraph"/></note>
          
+         
             
               <p>Man könnte nun erwarten, daß sich bei der Entstehung<lb/> der Psychose etwas dem Vorgang bei der Neurose Analoges<lb/> ereignet, natürlich zwischen anderen Instanzen. Also daß<lb/> auch bei der Psychose zwei Schritte deutlich werden, von<lb/> denen der erste das Ich diesmal von der Realität losreißt,<lb/> der zweite aber den Schaden wieder gutmachen will und<lb/> nun die Beziehung zur Realität auf Kosten des Es wieder<lb break="no"/>herstellt. Wirklich ist auch etwas Analoges an der Psychose<lb/> zu beobachten; es gibt auch hier zwei Schritte, von denen<lb/> der zweite den Charakter der Reparation an sich trägt, aber<lb/> dann weicht die Analogie einer viel weiter gehenden Gleich<lb break="no"/>sinnigkeit der Vorgänge. Der zweite Schritt der Psychose<lb/> will auch den Realitätsverlust ausgleichen, aber nicht auf<lb/> Kosten einer Einschränkung des Es, wie bei Neurose auf<lb/> Kosten der Realbeziehung, sondern auf einem anderen, mehr<lb/> selbstherrlichen Weg durch Schöpfung einer neuen Realität,<lb/> welche nicht mehr den nämlichen Anstoß bietet wie die<lb/> verlassene. Der zweite Schritt wird also bei der Neurose wie<lb/> bei der Psychose von denselben Tendenzen getragen, er<lb/> dient in beiden Fällen dem Machtbestreben des Es, das sich<lb/> von der Realität nicht zwingen läßt. Neurose wie Psychose<lb/> sind also beide Ausdruck der Rebellion des Es gegen die<lb/> Außenwelt, seiner Unlust oder, wenn man will, seiner<lb/> Unfähigkeit, sich der realen Not, der 'Ανάγκη, anzupassen.<lb/> Neurose und Psychose unterscheiden sich weit mehr von<lb/> einander in der ersten einleitenden Reaktion als in dem auf<lb/> sie folgenden Reparationsversuch.<lb break="paragraph"/></p>
+         
          
             <pb n="4" xml:id="page__c9aa57f2-1b32-4fe5-92b5-d3883a3b751e"/>
             <fw type="pageNum">202</fw> <p>Der anfängliche Unterschied kommt dann im Endergebnis<lb/> in der Art zum Ausdruck, daß bei der Neurose ein Stück<lb/> der Realität fluchtartig vermieden, bei der Psychose aber<lb/> umgebaut wird. Oder: bei der Psychose folgt auf die anfäng<lb break="no"/>liche Flucht eine aktive Phase des Umbaus, bei der Neurose<lb/> auf den anfänglichen Gehorsam ein nachträglicher Flucht<lb break="no"/>versuch. Oder noch anders ausgedrückt: Die Neurose ver<lb break="no"/>leugnet die Realität nicht, sie will nur nichts von ihr<lb/> wissen; die Psychose verleugnet sie und sucht sie zu ersetzen.<lb/> Normal oder „gesund“ heißen wir ein Verhalten, welches<lb/> bestimmte Züge beider Reaktionen vereinigt, die Realität so<lb/> wenig verleugnet wie die Neurose, sich aber dann wie die<lb/> Psychose um ihre Abänderung bemüht. Dies zweckmäßige,<lb/> normale Verhalten führt natürlich zu einer äußeren Arbeits<lb break="no"/>leistung an der Außenwelt und begnügt sich nicht wie bei<lb/> der Psychose mit der Herstellung innerer Veränderungen;<lb/> es ist nicht mehr <hi rendition="#smallcaps">autoplastisch</hi>, sondern <hi rendition="#smallcaps">allo<lb break="no"/>plastisch</hi>.<lb break="paragraph"/></p> <p>Die Umarbeitung der Realität geschieht bei der Psychose<lb/> an den psychischen Niederschlägen der bisherigen Beziehungen<lb/> zu ihr, also an den Erinnerungsspuren, Vorstellungen und<lb/> Urteilen, die man bisher von ihr gewonnen hatte und durch<lb/> welche sie im Seelenleben vertreten war. Aber diese Beziehung<lb/> war nie eine abgeschlossene, sie wurde fortlaufend durch<lb/> neue Wahrnehmungen bereichert und abgeändert. Somit<lb/> stellt sich auch für die Psychose die Aufgabe her, sich solche<lb/> Wahrnehmungen zu verschaffen, wie sie der neuen Realität<lb/> entsprechen würden, was in gründlichster Weise auf dem<lb/> Wege der Halluzination erreicht wird. Wenn die Erinnerungs<lb break="no"/>täuschungen, Wahnbildungen und Halluzinationen bei so<lb/> vielen Formen und Fällen von Psychose den peinlichsten<lb/> Charakter zeigen und mit Angstentwicklung verbunden sind,<lb/> so ist das wohl ein Anzeichen dafür, daß sich der ganze<lb break="paragraph"/><pb n="5" xml:id="page__6960f124-0350-428f-aa0e-4509bfed953d"/><fw type="pageNum">203</fw>Umbildungsprozeß gegen heftig widerstrebende Kräfte voll<lb break="no"/>zieht. Man darf sich den Vorgang nach dem uns besser<lb/> bekannten Vorbild der Neurose konstruieren. Hier sehen wir,<lb/> daß jedesmal mit Angst reagiert wird, so oft der verdrängte<lb/> Trieb einen Vorstoß macht, und daß das Ergebnis des<lb/> Konflikts doch nur ein Kompromiß und als Befriedigung<lb/> unvollkommen ist. Wahrscheinlich drängt sich bei der Psy<lb break="no"/>chose das abgewiesene Stück der Realität immer wieder dem<lb/> Seelenleben auf, wie bei der Neurose der verdrängte Trieb,<lb/> und darum sind auch die Folgen in beiden Fällen die gleichen.<lb/> Die Erörterung der verschiedenen Mechanismen, welche bei<lb/> den Psychosen die Abwendung von der Realität und den<lb/> Wiederaufbau einer solchen bewerkstelligen sollen, so wie<lb/> des Ausmaßes von Erfolg, das sie erzielen können, ist eine<lb/> noch nicht in Angriff genommene Aufgabe der speziellen<lb/> Psychiatrie.<lb break="paragraph"/></p>
          
+         
             
               <p>Es ist also eine weitere Analogie zwischen Neurose und<lb/> Psychose, daß bei beiden die Aufgabe, die im zweiten Schritt<lb/> in Angriff genommen wird, teilweise mißlingt, indem sich<lb/> der verdrängte Trieb keinen vollen Ersatz schaffen kann<lb/> (Neurose) und die Realitätsvertretung sich nicht in die<lb/> befriedigenden Formen umgießen läßt. (Wenigstens nicht bei<lb/> allen Formen der psychischen Erkrankungen.) Aber die<lb/> Akzente sind in den zwei Fällen anders verteilt. Bei der<lb/> Psychose ruht der Akzent ganz auf dem ersten Schritt, der<lb/> an sich krankhaft ist und nur zu Kranksein führen kann,<lb/> bei der Neurose hingegen auf dem zweiten, dem Mißlingen<lb/> der Verdrängung, während der erste Schritt gelingen kann<lb/> und auch im Rahmen der Gesundheit ungezählte Male<lb/> gelungen ist, wenn auch nicht ganz ohne Kosten zu machen<lb/> und Anzeichen des erforderten psychischen Aufwandes zu<lb/> hinterlassen. Diese Differenzen und vielleicht noch viele<lb/> andere sind die Folge der topischen Verschiedenheit in der<lb break="paragraph"/><pb n="6" xml:id="page__59c65c9b-1dab-4617-a2c3-c20976a10753"/><fw type="pageNum">204</fw>Ausgangssituation des pathogenen Konflikts, ob das Ich darin<lb/> seiner Anhänglichkeit an die reale Welt oder seiner Abhängig<lb break="no"/>keit vom Es nachgegeben hat.<lb break="paragraph"/></p>
+         
          
             
               <p>Die Neurose begnügt sich in der Regel damit, das be<lb break="no"/>treffende Stück der Realität zu vermeiden und sich gegen das<lb/> Zusammentreffen mit ihm zu schützen. Der scharfe Unter<lb break="no"/>schied zwischen Neurose und Psychose wird aber dadurch<lb/> abgeschwächt, daß es auch bei der Neurose an Versuchen<lb/> nicht fehlt, die unerwünschte Realität durch eine wunsch<lb break="no"/>gerechtere zu ersetzen. Die Möglichkeit hiezu gibt die<lb/> Existenz einer <hi rendition="#smallcaps">Phantasiewelt</hi>, eines Gebiets, das seiner<lb break="no"/>zeit bei der Einsetzung des Realitätsprinzips von der realen<lb/> Außenwelt abgesondert wurde, seither nach Art einer<lb/> „Schonung“ von den Anforderungen der Lebensnotwendig<lb break="no"/>keit frei gehalten wird und das dem Ich nicht unzugänglich<lb/> ist, aber ihm nur lose anhängt. Aus dieser Phantasiewelt<lb/> entnimmt die Neurose das Material für ihre Wunschneubil<lb break="no"/>dungen und findet es dort gewöhnlich auf dem Wege der<lb/> Regression in eine befriedigendere reale Vorzeit.<lb break="paragraph"/></p> <p>Es ist kaum zweifelhaft, daß die Phantasiewelt bei der<lb/> Psychose die nämliche Rolle spielt, daß sie auch hier die<lb/> Vorratskammer darstellt, aus der der Stoff oder die Muster<lb/> für den Aufbau der neuen Realität geholt werden. Aber<lb/> die neue phantastische Außenwelt der Psychose will sich an<lb/> die Stelle der äußeren Realität setzen, die der Neurose hin<lb break="no"/>gegen lehnt sich wie das Kinderspiel gern an ein Stück der<lb/> Realität an, — ein anderes als das, wogegen sie sich wehren<lb/> mußte, — verleiht ihm eine besondere Bedeutung und einen<lb/> geheimen Sinn, den wir nicht immer ganz zutreffend einen<lb/> <hi rendition="#smallcaps">symbolischen</hi> heißen. So kommt für beide, Neurose wie<lb/> Psychose, nicht nur die Frage des <hi rendition="#smallcaps">Realitätsverlusts</hi>,<lb/> sondern auch die eines <hi rendition="#smallcaps">Realitätsersatzes</hi> in Betracht.<lb break="paragraph"/></p>
