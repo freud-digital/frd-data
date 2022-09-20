@@ -89,23 +89,23 @@
                <head>Publikationsgeschichte</head>
                   <biblStruct xml:id="bibl-1905-002-1918">
                      <analytic>
-                        <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
+                        <title type="manifestation">Psychische Behandlung (Seelenbehandlung)</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Zeitschrift für psychoanalytische Pädagogik</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">Zeitschrift für psychoanalytische Pädagogik</title>
+                        <title type="publication">Die Gesundheit</title>
+                        <title type="publication-sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
+                        <title type="publication-short"/>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__857715a3-f621-438b-958e-2c0fc876275d">Zulliger, Hans</name>
+                           <name type="person" ref="#p__56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul.</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1937-01-01">1937-01-01</date>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1918-01-01">1918-01-01</date>
                         </imprint>
-<extent>147 Seiten</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">11</biblScope>
+<extent>412 Seiten</extent>                        <biblScope unit="volume">Band 1</biblScope>
+                        <biblScope unit="issue">2., neubearbeitete Auflage</biblScope>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1905-002-1905.2">
@@ -113,21 +113,6 @@
                         <title type="manifestation">Psychische Behandlung (Seelenbehandlung) </title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
-                     <monogr>
-                        <title type="publication">Zeitschrift für psychoanalytische Pädagogik</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">Zeitschrift für psychoanalytische Pädagogik</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__857715a3-f621-438b-958e-2c0fc876275d">Zulliger, Hans</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1937-01-01">1937-01-01</date>
-                        </imprint>
-<extent>147 Seiten</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">11</biblScope>
-                     </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1905-002-1905">
                      <analytic>
@@ -135,19 +120,18 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Zeitschrift für psychoanalytische Pädagogik</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">Zeitschrift für psychoanalytische Pädagogik</title>
+                        <title type="publication">Die Gesundheit</title>
+                        <title type="publication-sub">Ihre Erhaltung, ihre Störungen ihre Wiederherstellung</title>
+                        <title type="publication-short"/>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__857715a3-f621-438b-958e-2c0fc876275d">Zulliger, Hans</name>
+                           <name type="person" ref="#p__56c454b9-b424-4b7b-bc6a-afab36341309">Weiß, Jul.</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1937-01-01">1937-01-01</date>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1905-01-01">1905-01-01</date>
                         </imprint>
-<extent>147 Seiten</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">11</biblScope>
+<extent>384 Seiten</extent>                        <biblScope unit="volume">I. Band</biblScope>
                      </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1905-002-1937" type="guidingManifestation">

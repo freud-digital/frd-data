@@ -92,18 +92,19 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-                        <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
-                        <title type="publication-short"/>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Bonn</pubPlace>
-                           <date when="1923-01-01">1923-01-01</date>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
                         </imprint>
-<extent>298 Seiten</extent>                     </monogr>
+<extent>223 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
+                     </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1923-001-1926">
                      <analytic>
@@ -112,7 +113,7 @@
                      </analytic>
                      <monogr>
                         <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-                        <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+                        <title type="publication-sub">Enzyklopädie der natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
                         <title type="publication-short"/>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
@@ -120,9 +121,10 @@
                         </respStmt>
                         <imprint>
                            <pubPlace>Bonn</pubPlace>
-                           <date when="1923-01-01">1923-01-01</date>
+                           <date when="1926-01-01">1926-01-01</date>
                         </imprint>
-<extent>298 Seiten</extent>                     </monogr>
+<extent>427 Seiten</extent>                        <biblScope unit="issue">Zweite stark vermehrte Auflage mit 140 Abbildungen</biblScope>
+                     </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1923-001-1923" type="guidingManifestation">
                   <analytic>

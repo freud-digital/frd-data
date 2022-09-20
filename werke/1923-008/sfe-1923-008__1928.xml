@@ -89,23 +89,18 @@
                <head>Publikationsgeschichte</head>
                   <biblStruct xml:id="bibl-1923-008-1923">
                      <analytic>
-                        <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+                        <title type="manifestation">Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹]</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication">Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)</title>
                         <title type="publication-sub"/>
-                        <title type="publication-short">GS 11</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
+                        <title type="publication-short"/>
                         <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1928-01-01">1928-01-01</date>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
                         </imprint>
-<extent>265</extent>                        <biblScope unit="volume">11. Band</biblScope>
-                     </monogr>
+<extent>3</extent>                     </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1923-008-1928" type="guidingManifestation">
                   <analytic>

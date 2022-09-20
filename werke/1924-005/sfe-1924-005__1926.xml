@@ -93,18 +93,19 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
                         <title type="publication-sub"/>
-                        <title type="publication-short"/>
+                        <title type="publication-short">GS 6</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
                         </respStmt>
                         <imprint>
                            <pubPlace>Zürich</pubPlace>
-                           <date when="1926-01-01">1926-01-01</date>
+                           <date when="1925-01-01">1925-01-01</date>
                         </imprint>
-<extent>184 Seiten</extent>                     </monogr>
+<extent>414 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
+                     </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1924-005-1931">
                      <analytic>
@@ -112,18 +113,19 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication">Kleinoktavausgabe</title>
                         <title type="publication-sub"/>
-                        <title type="publication-short"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
                            <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1926-01-01">1926-01-01</date>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
                         </imprint>
-<extent>184 Seiten</extent>                     </monogr>
+<extent>204 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1924-005-1924">
                      <analytic>
@@ -131,18 +133,20 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-                        <title type="publication-sub"/>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
                         <title type="publication-short"/>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
                            <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1926-01-01">1926-01-01</date>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
                         </imprint>
-<extent>184 Seiten</extent>                     </monogr>
+<extent>379 Seiten</extent>                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="year">10</biblScope>
+                     </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1924-005-1926" type="guidingManifestation">
                   <analytic>

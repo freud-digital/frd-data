@@ -84,33 +84,57 @@
                   <biblStruct xml:id="bibl-1901-001-1921">
                      <monogr>
                         <title type="manifestation">Über den Traum</title>
-                        <title type="manifestation-short">2. Auflage</title>
+                        <title type="manifestation-short">3. Auflage</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                         <extent>44 Seiten</extent>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1901-001-1931">
-                     <monogr>
+                     <analytic>
                         <title type="manifestation">Über den Traum</title>
-                        <title type="manifestation-short">2. Auflage</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <extent>44 Seiten</extent>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>307 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1901-001-1901">
                      <monogr>
                         <title type="manifestation">Über den Traum</title>
-                        <title type="manifestation-short">2. Auflage</title>
+                        <title type="manifestation-short">Erstausgabe</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <extent>44 Seiten</extent>
+                        <extent>344 Seiten</extent>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1901-001-1925">
-                     <monogr>
+                     <analytic>
                         <title type="manifestation">Über den Traum</title>
-                        <title type="manifestation-short">2. Auflage</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <extent>44 Seiten</extent>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>256 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
                      </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1901-001-1911" type="guidingManifestation">

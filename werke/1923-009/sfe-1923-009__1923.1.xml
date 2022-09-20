@@ -93,19 +93,18 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                        <title type="publication-short">IZP</title>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1923-01-01">1923-01-01</date>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
                         </imprint>
-<extent>259 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
-                        <biblScope unit="year">9</biblScope>
+<extent>275 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
                      </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1923-009-1923.1" type="guidingManifestation">

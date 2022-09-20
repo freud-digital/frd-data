@@ -92,19 +92,18 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                        <title type="publication-short">IZP</title>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1920-04-01">1920-04-01</date>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
                         </imprint>
-<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">6</biblScope>
+<extent>245 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1920-004-1931">
@@ -113,41 +112,38 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                        <title type="publication-short">IZP</title>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
                            <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
                         </respStmt>
                         <imprint>
                            <pubPlace>Wien</pubPlace>
-                           <date when="1920-04-01">1920-04-01</date>
+                           <date when="1931-01-01">1931-01-01</date>
                         </imprint>
-<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">6</biblScope>
+<extent>173 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
                      </monogr>
                   </biblStruct>
                   <biblStruct xml:id="bibl-1920-004-1926">
                      <analytic>
-                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                      </analytic>
                      <monogr>
-                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                        <title type="publication-short">IZP</title>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
                         <respStmt>
                            <resp>Herausgegeben von</resp>
                            <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
                         </respStmt>
                         <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1920-04-01">1920-04-01</date>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
                         </imprint>
-<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
-                        <biblScope unit="year">6</biblScope>
-                     </monogr>
+<extent>86 Seiten</extent>                     </monogr>
                   </biblStruct>
                <biblStruct xml:id="bibl-1920-004-1920" type="guidingManifestation">
                   <analytic>
