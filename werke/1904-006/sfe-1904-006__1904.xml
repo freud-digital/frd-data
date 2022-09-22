@@ -79,6 +79,35 @@
             </availability>
          </publicationStmt>
          <notesStmt>
+            <note type="e">
+               <title>Textentstehung und Publikationsgeschichte</title>
+               <p>Freud rezensierte 1904 Löwenfelds Band über <rs type="bibl" ref="#zotero_97WKPQ66"><hi rendition="#em">Psychische Zwangserscheinungen</hi></rs>
+                  und war zugleich selbst in gewisser Weise Beiträger: Der Text über die
+                  <rs type="bibl" ref="#bibl-1904-002-1"><hi rendition="#em">Freudsche Psychoanalytische Methode</hi></rs> ist eine „Mitteilung des
+                  Autors“, wie in Klammern im Untertitel angeführt wird, und wurde von Freud selbst
+                  verfasst. Zuvor erschien 1901 Freuds Schrift <rs type="bibl" ref="#zotero_7XC58JJ2"><hi rendition="#em">Über den Traum</hi></rs> in der
+                  Reihe <hi rendition="#em">Grenzfragen des Nerven- und Seelenlebens</hi>, welche von <rs
+                     type="person" ref="frd_person_41">Leopold Löwenfeld</rs> und <rs type="person"
+                        ref="frd_person_44">Hans Kurella</rs> herausgegeben wurde. Ein Blick auf das <ref
+                           target="https://archive.org/details/Freud_1901_Ueber_Traum/page/n1/mode/2up"
+                           ><term>Inhaltsverzeichnis</term></ref> der Reihe zeigt die thematischen und
+                  personellen Verschränkungen auf dem Gebiet von Traumforschung, Sexual- und
+                  Psychopathologie, aus welchen sich die Psychoanalyse konsolidierte.</p>
+               <p>Das <hi rendition="#em">Journal für Psychologie und Neurologie</hi> wurde von <rs type="person"
+                  ref="frd_person_42">August Forel</rs> und <rs type="person" ref="frd_person_43"
+                     >Oskar Vogt</rs> seit 1902 herausgegeben und führte anfangs zusätzlich noch die
+                  Bandzählung der Vorgängerzeitschrift unter dem Titel <hi rendition="#em">Zeitschrift für
+                     Hypnotismus</hi> am Titelblatt. Hier hatte Freud bereits 1893 den Artikel
+                  <rs type="bibl" ref="#zotero_T9TAU766"><hi rendition="#em">Ein Fall von hypnotischer Heilung nebst Bemerkungen über die Entstehung
+                     hysterischer Symptome durch den „Gegenwillen“</hi></rs> veröffentlicht. Tögel
+                  zufolge kannten sich Forel und Freud seit 1889. Er verweist auf das Netzwerk
+                  einflussreicher Schweizer Psychiater um August Forel, das Freud bewogen haben soll,
+                  seine Besprechung in einer Zeitschrift aus diesem namhaften Kontext zu publizierten
+                  (<rs type="bibl" ref="#zotero_SPXBCFRG">Tögel, Bd. 9, S. 131</rs> ). Unter Forels
+                  Leitung der Psychiatrischen Universitätsklinik Zürich (sog. „Burghölzli“) - Forel war
+                  Eugen Bleulers Vorgänger - hatte eine Gruppe von Schweizer Psychiatern begonnen, sich
+                  mit Psychoanalyse zu beschäftigen.</p>
+            </note>
             <note type="comment_intern">
                <p>1. OCR Korr. KK</p>
 <p>2. OCR Korr. LF</p>
@@ -173,6 +202,12 @@ Buch aus <material>Papier</material> in Druckschrift .                          
                </biblStruct>
             </listBibl>
          </sourceDesc>
+         <listWit>
+            <witness xml:id="sfe-1904-002__1904.xml"><idno>E</idno>: Löwenfeld. Die psychischen
+               Zwangserscheinungen.In: Journal für Psychologie und Neurologie [zugleich
+               Zeitschrift für Hypnotismus, Bd. 13.], Hg. v. August Forel u. Oskar Vogt, Bd. 3,
+               1904, H. 4, S. 190-191. </witness>
+         </listWit>
       </fileDesc>
       <encodingDesc>
          <tagsDecl>
