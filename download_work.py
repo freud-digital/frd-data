@@ -17,21 +17,21 @@ print(
     f"found {len(rel_manifestations)} manifestion with settings {MANIFEST_DEFAULT_FILTER}"
 )
 
-# for x in rel_manifestations:
-#     try:
-#         frd_man = frd.FrdManifestation(
-#             out_dir=out_dir,
-#             manifestation_id=x['man_id'],
-#             auth_items=auth_items
-#         )
-#         frd_man.get_man_json_dump(lmt=False)
-#     except Exception as e:
-#         click.echo(
-#             click.style(
-#                 f"processing Manifestation {x} did not not work due to Error {e}",
-#                 fg='red'
-#             )
-#         )
+for x in rel_manifestations:
+    try:
+        frd_man = frd.FrdManifestation(
+            out_dir=out_dir,
+            manifestation_id=x['man_id'],
+            auth_items=auth_items
+        )
+        frd_man.get_man_json_dump(lmt=False)
+    except Exception as e:
+        click.echo(
+            click.style(
+                f"processing Manifestation {x} did not not work due to Error {e}",
+                fg='red'
+            )
+        )
 try:
     frd.make_xml(save=True, out_dir=out_dir, workpath=WERK_PATH, test=False, dump={})
 except FileNotFoundError as e:
