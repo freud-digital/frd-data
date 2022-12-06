@@ -1,4 +1,4 @@
-name: Download Work
+name: Download Work all
 
 on:
   workflow_dispatch
