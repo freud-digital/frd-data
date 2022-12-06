@@ -14,3 +14,5 @@ MANIFEST_DEFAULT_FILTER = {
     "field_manifestation_typ.id": HISTORISCHE_AUSGABE,
     "field_status_umschrift": 2
 }
+
+FWF_MANIFESTATIONS = "data-reporting/manifestations.csv"

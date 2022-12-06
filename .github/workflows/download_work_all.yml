@@ -1,0 +1,34 @@
+name: Download Work
+
+on:
+  workflow_dispatch
+
+jobs:
+  download:
+    name: Download Work
+    runs-on: ubuntu-latest
+    env:
+      FRD_USER: ${{secrets.FRD_USER}}
+      FRD_PW: ${{secrets.FRD_PW}}
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}-${{ hashFiles('requirements.txt') }}
+    - name: Install dependencies
+      run: |
+        pip install --upgrade --upgrade-strategy eager -r requirements.txt
+    - name: fetch data reporting
+      run: |
+        ./fetch_report.sh
+    - name: Download all works
+      run: |
+        python download_work_all.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Downloaded/Updated Data
