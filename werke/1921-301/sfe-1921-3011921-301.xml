@@ -1,0 +1,198 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1921-301): Anna´s Vermögen u Mitgift</title>
+            <title type="manifestation" level="a">Freud, Sigmund  (1921-301): Anna´s Vermögen u Mitgift (1921-3011921-301)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1921-3011921-301" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund  (1921-301): Anna´s Vermögen u Mitgift</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__16f8de0f-1c0f-4c5a-adf0-ec9336f5ce5b">
+                        <title>Freud, Sigmund  (1921-301): Anna´s Vermögen u Mitgift</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1921-3011921-301</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/freud-sigmund-1921-301-annas-vermogen-u-mitgift/handschrift</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/16f8de0f-1c0f-4c5a-adf0-ec9336f5ce5b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__cbcacc35-8393-47a4-85df-788d64aba7a9">
+                              <title>Freud, Sigmund  (1921-301): Anna´s Vermögen u Mitgift</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/annas-vermogen-u-mitgift</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/cbcacc35-8393-47a4-85df-788d64aba7a9</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">C2F20</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Handschrift</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__0434751f-1208-4ba0-9b6b-686aa15f5d88"/>
+            <p>Beitrag<lb/> zum Heiratsgut oder zur <lb/> Selbständigkeit.<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__d51a93c5-f33f-4fb7-8daa-ca0bd98090b0"/>
+            <p>1 Hälfte der Mitgift<lb/> £ 500.<lb/> <lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__ce6df46d-99a6-44e6-9ae7-cdab22bb09ed"/>
+            <p>Anna's Vermögen Mitgift<lb break="paragraph"/></p> <p><u>3 Dez 21</u><lb/> £ 556 + lire 1000 + #20 # fl 10 + 2 soverg.<lb/> <u> - 1500</u> Martin <u> - # 20</u><lb/> 0<lb/> 4/<span class="unclear">1</span>22 £ 56<lb/> <u> - 3</u><lb/> 19/2 £ 51 <lb break="no"/> <u>+ £ 200</u><lb/> £ 251<lb/> 24/2 <u> - 7</u><lb/> £ 244<lb/> 8/3 <u> - 2</u> <span class="unclear"> mir</span><lb/> £ 242<lb/> 8/5 <u> - £ 2</u><lb/> £ 240<lb/> 31/5 <u> - 205</u><lb/> 35<lb/> 13/6 <u> - 3</u><lb/> 32<lb/> 29/6. <u> - 5</u><lb break="paragraph"/></p> <p> £ 27<lb break="paragraph"/></p> <p>–––––––––––––––––––––––––––––––––––––––––<lb break="paragraph"/></p> <p>10 <span class="unclear">Oct</span> 22<lb break="paragraph"/></p> <p> £ 27, fl 10. lire 1000.<lb/> 3/X <u> - 2</u><lb/> 25<lb break="paragraph"/></p> <p>– £ dazu fr 1000.<lb break="paragraph"/></p> <p>3/XII <u> -100</u><lb/> 900<lb/> 25/XII <u>-100</u><lb/> 800<lb/> 14/X <u>- 200</u><lb/> 600<lb/> 14/X <u> - 25</u><lb/> 575<lb/> 13/2 <u>- 300</u><lb/> 275<lb/> 21/2 <u>- 250</u><lb/> 25<lb/> 17/4 <u>- 20</u><lb/> 5<lb break="paragraph"/></p> <p>13/3. - fr<span class="unclear"> 9</span><lb/> - fr 10<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__fb2436e4-b8a2-4c2a-beed-40bd670c3e7d"/>
+            <p><u>Depots</u><lb break="paragraph"/></p> <p>4/X Asch # 125<lb break="paragraph"/></p> <p>5/X Blumg # 350. <del>#20. </del><lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

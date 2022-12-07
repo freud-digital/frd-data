@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1902-123; 1903d): Émile Zola [Referat von fremder Hand]</title>
+            <title type="manifestation" level="a">Émile Zola  (1902-123/1903)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1902-123-1903" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Émile Zola </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1903-03-01">1903-03-01</date>
+                     </imprint>
+                     <extent>104</extent>
+                     <biblScope unit="volume">3-4</biblScope>
+                     <biblScope unit="year">5</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__e99b137f-4499-441e-811c-b15be875e105">
+                        <title>Émile Zola </title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1902-123/1903</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/emile-zola/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/e99b137f-4499-441e-811c-b15be875e105</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__8e59f1e5-4aa4-4f04-abc7-b1d79be82df1">
+                              <title>Freud, Sigmund  (1902-123; 1903d): Émile Zola [Referat von fremder Hand]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/emile-zola-referat-von-fremder-hand</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/8e59f1e5-4aa4-4f04-abc7-b1d79be82df1</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__590b44a8-cf0f-4fd0-acea-533835ce20ec"/>
+            <p>&lt;—7—"-_;" ,_____f,<lb/> 'r |<lb break="paragraph"/></p> <p>i..* , *<lb break="paragraph"/></p> <p>_10|_<lb break="paragraph"/></p> <p>einem miissen wir auch fernerhin tatkräftig eingreifen. wo es gilt.<lb/> eine Lücke in den Institutionen humanitären Charakters auszu<lb break="no"/>füllen, wo es gilt, unseren Wahrsprueh in die Tat umzusetzen.<lb break="paragraph"/></p> <p>Anlangend die innere Tätigkeit unserer Vereinigung im<lb/> Jahre 1905 teilen wir mit, dass die Mitgliedernhl von 188 auf<lb/> 9111 gestiegen int: die !? Vollsitzungen im abgelaufenen Jahre<lb/> waren im Durchschnitt von iii) Brüdern besucht.<lb break="paragraph"/></p> <p>An bemerkenswerten Voruägen werden gehalten:<lb break="paragraph"/></p> <p>Dr. Max Grunwald: Sudermann's Johannes"<lb break="paragraph"/></p> <p>Dr. Josef Jerusalem: Häelte1's _Welträtsel'<lb break="paragraph"/></p> <p>Dr. W. Knöpfmaeher: ,Die Ethik des Judentums' von<lb break="paragraph"/></p> <p>Prof. Dr. M. Lazarus<lb break="paragraph"/></p> <p>Dr, Freud: Einleitung der Diskussion ,Ueber die Stellung<lb break="paragraph"/></p> <p>der Frau zu unserer Vereinigung“<lb/> Hals. Rot Schwarz: Hundeispoiltieehe Rewe<lb/> Prof. Ehrmann: Berufswahl der Inden<lb/> Prof. Königstein: Religion und Medizin<lb/> Karl Go! dmann: Erinnerungen und Eindrücke meiner<lb/> Reise in Egypten und Palästina<lb break="paragraph"/></p> <p>Prof. Ehrmnnn: ,Bibel und RafaelIll<lb break="paragraph"/></p> <p>Architekt Fleischer: Einiges über die Kunst im<lb/> Mittelalter<lb break="paragraph"/></p> <p>Prof Freud: Emile Zain.<lb break="paragraph"/></p> <p>Die in Aueeieht genommene Gründung einer zweiten<lb/> Vereinigung in Wien wird voraussichtlich im Herbste d. ]. Zur<lb/> Tat werden und en eine neue Pﬂanzstiitte für die Pﬂege der<lb/> erhaltenen Ziele unseres Bundes geschaffen werden.<lb break="paragraph"/></p> <p>Fiir den Termin 1903 wurden durch das Vertrauen der<lb/> Brüder folgende Beamte in die Leitung der Vereinigung gewählt:<lb break="paragraph"/></p> <p>Zum Präsidenten: Prof. Dr. Leopold Königetein<lb break="paragraph"/></p> <p>, Via-Präsidenten: Expr. Dr. Gustav Langstein<lb/> got. Sekretär: Dr. Julius Monath<lb/> nenn-Sekretär: Br. Hamann Lemberger<lb/> Schatzmeister: Br. Karl Goldmann.<lb break="paragraph"/></p> <p>Wir können diesen Berleht nicht besser eehliessen, als mit<lb/> dem Wunsehe, dass es der ,Wien' auch in Zukunft gelinge.<lb/> das bei ihrer Gründung in sie allerseits gesetzte und bisher<lb/> bewährte Vertrauen zu rechtfertigen.<lb break="paragraph"/></p> <p>.<lb/> I<lb/> .<lb break="paragraph"/></p> <p>lehrulnrieit der „Sllnie“,<lb/> erstattet in der Sitzung vom 25. Jänner 1903.<lb break="paragraph"/></p> <p>Wenn wir nach Ahlen! unserer Amtszeit daran gehen. ihnen<lb/> einen Bericht über die Tätigkeit unserer Vereinigung im Jahre<lb/> 1992 an erstatten. so sind wir allerdings nicht in der Lage. nni’<lb/> hervorragende leistungen hinweisen zu können. wohl aber neben<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__fb09385f-1550-4bff-b5f8-dddc40becf30"/>
+            <p>lieﬂ le.l. nmmn. lü_ ".<lb break="paragraph"/></p> <p>VlERTELJAHRS-BERICHT<lb break="paragraph"/></p> <p>für die Mitglieder der<lb/> österr. israal. Humanitätsvereine „B’NAI B'HITH“.<lb break="paragraph"/></p> <p>iin-....„i... m.<lb/> Ileneelilieeerele ,WIEN' !. !.<lb/> liedigiect ren. Prof. Dr, ii. ﬁrmen.<lb/> Verleu in ler-ech ﬂeneeinu—‘lünieu ,Wie-' l'eei ll'rill. IX.. Ueinrüﬁieelreeee ..<lb break="paragraph"/></p> <p>Illieebu Minnielhhneutnle und die lotltim<lb/> lneoilm durch (Ill Bill „B'lli B'l'lü“.<lb/> Referet wenn Prﬂe. Br. ]erueelem der ,Bohemie'.<lb break="paragraph"/></p> <p>Die Feetredle den Hr. Dr. Bleu bei der Einweihung des<lb/> Hannes der Vereinigung ,Frankfurt‘. deren ich in meinem Beﬁehte<lb/> an die Bahr:mie erwähnte. ist in dem letzten Monateberichte dee<lb/> deutlichen Verband—re unter dem Titel ,Jüdische: Gemeinschafte<lb break="no"/>bequeein' publiziert. und ich will Ihnen vorerst dee Wesent<lb break="no"/>lichete denne mitteilen. um dann eu entwickeln. wen ich zum<lb/> Gegenetende einer [')ieirueeion machen möchte<lb break="paragraph"/></p> <p>Neeh einer eehnnngvollen Einleitung, die sich mit dern<lb/> Gemetende der Feier beeehäftigt, fährt Redner fort:<lb break="paragraph"/></p> <p>So wollen wir um denn in der gegenwärtigen Stunde der<lb/> festlichen Weihe noch einmal innerlich mehr und in die Be<lb break="no"/>handlung einer Frege eintreten, die uns mitten in die Arbeit<lb/> hineinetellt einer Frege ,die unser Herz, unser Gefühl laut. Ja mit<lb/> Begeisterung beinhen, auf die aber auch uneer ohne Vorein—<lb/> genommmheit prüfender Vereinnd eine uneweii'elhﬂt bejehende<lb/> Antät gehen mun. um nicht nur selber überzeugt zu_eein.<lb/> um auch meine übereeugen mirünnen. ich meine die F .<lb/> ob die Brite! und Belebung des jüdleehen Gemeiueä<lb break="no"/>betreut-einen fiir neuere Zeit noch eine Notwendigkeit und<lb/> denn: lub Eili‘igete eu eren*eben ist.<lb break="paragraph"/></p> <p>Zu einer mhenheentverM dieser Frege int ee erforder<lb break="no"/>lieh. euriirderet Meilen. n . auf welchen Gedanken und<lb/> Em pﬁndun.eedee‘j Bdbeheüemeieeehehebewueeleein beruht.weiehee<lb/> die objektiven Elemente sind. auf die es, nich in heutiger Zeit nützt.<lb break="paragraph"/></p> <p>1<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

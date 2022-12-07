@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1904-211; 1904d): Interview: Neue Freie Presse (Morgenblatt), 6.11.1904 [Thomas, Th. ›Magnetische Menschen‹]</title>
+            <title type="manifestation" level="a">Interview: Neue Freie Presse (Morgenblatt), 6.11.1904 [Thomas, Th. ›Magnetische Menschen‹] (1904-211/1904)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1904-211-1904" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Interview: Neue Freie Presse (Morgenblatt), 6.11.1904 [Thomas, Th. ›Magnetische Menschen‹]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1904-02-04">1904-02-04</date>
+                     </imprint>
+                     <extent>10</extent>
+                     <biblScope unit="volume">Nr. 14168</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__7e8a516d-9f60-467e-b9be-cd9ef0e21384">
+                        <title>Interview: Neue Freie Presse (Morgenblatt), 6.11.1904 [Thomas, Th. ›Magnetische Menschen‹]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1904-211/1904</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/interview-neue-freie-presse-morgenblatt-6111904-thomas-th-magnetische-menschen/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/7e8a516d-9f60-467e-b9be-cd9ef0e21384</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__327acbcc-46c7-4c11-ba1e-c7f0090f8b6d">
+                              <title>Freud, Sigmund  (1904-211; 1904d): Interview: Neue Freie Presse (Morgenblatt), 6.11.1904 [Thomas, Th. ›Magnetische Menschen‹]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/interview-neue-freie-presse-morgenblatt-6111904-thomas-th-magnetische-menschen</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/327acbcc-46c7-4c11-ba1e-c7f0090f8b6d</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__b06f2438-4b9f-4b91-9e4e-e4a4907a37bd"/>
+            <p>Bejts 10<lb break="paragraph"/></p> <p>Wien, Sonntäg : .<lb/> enges gebiet erden. Es ereiguele fi habe Yein<lb/> Exfall,<lb break="paragraph"/></p> <p>Brand in Brk ie 1] Ufer Beten: Korrefponbent<lb/> sefegraphiert: Cine Schabenfeuer ätdherte heute abends. bie<lb/> Auneje des Minifteriums des Iuuem en, Nah .zweiltiuts<lb/> Biger Medelt wurde. bet Brand eingejfränft, der, tie es<lb/> idjeint, duzah eine fehferhakte Heizungsanfnge verurjacht mor<lb break="no"/>hen if.<lb break="paragraph"/></p> <p>[Iugendplettüre] Unter der Kepive Des Wiener<lb/> Bolisbildungsdereimeg, nah dem Mufter beukiher<lb/> Pädagogen und Nugenbfreunbe, veröfjientlicht ein ‘Ftaneh<lb break="no"/>somit Shen das yweile „ sei empfehlenswerter Jugend»<lb/> Ieftüre”, das tm NBerlage bes Boltsbilbungswereines erideint<lb/> umb vos dort (Hanzlei: I, Xegeithoffftraße 4) and) ment<lb/> geftich zu Kegichen it. Doppelt willtommen sur Beinachtz<lb break="no"/>„zeit, ,im her fat. jeber in Die Sage Tommi, feinen junger<lb/> Seeunden eimos @ebructes zu heiheeren, möchten init hiefes<lb/> Onfpruchstofe Heftchen Mberyanpt den lern zur -Buräfiht<lb/> enbiehfen, ,Ein beieheivener atgeber it cs, ber 750 tel<lb/> twohlgeprüfler, forgfättig geyähfer Bäder enihält, teils für bie<lb break="paragraph"/></p> <p>as; Meinen, die nad) Vühern um Keimen neriangen, teils<lb/> &amp; bie eigenttichen Shulfinber und bie Kerangemacjfenen.<lb/> Mir meinen, es fei ehr hanfenzweries Unternehmen, den glild<lb/> Tüten Sefehunger junger Iahie mit mitem Material zu ber<lb/> tiebigen — mit Mid) umd Sletih, fait mit verborbenen<lb/> BBaftelen und aligebadenen Zuderbroi, Im den Wergeidhmis it<lb/> wide Soß die eigentliche Iugenbiiterafur berkeffichlint iorden,<lb/> fondert aud; jene Werte berühmter nd bekannter Scheftfteler,<lb/> Die mit Werjtänbnis gefejen, mit Frenbe und Genuß vonder<lb/> Krgenb gewirbigt werden fönnen, Möchte bat Gerzeihuis<lb/> Eine weile Verbreitung finden und Sreiten Geielfchaftsihichten.<lb/> bie. Bedeutung der Sugenbleftüre überhaupt. immer mehr zum<lb/> Bermuptlein bringen,<lb break="paragraph"/></p> <p>WirenpeEongerintademie im Sofienfaal]<lb/> A der. mosaigen (Souriag) Msbemie von Iohana Sir m u h Witt<lb/> die beliebte Soußreite bes, Theater an der” Wien, sräulehe Gerda<lb/> Walde, mit. Das orheftente<lb/> von Lchör, Vader, Mascagui,<lb/> Biranf we. Begim 2/5 Uhr.<lb/> [Mene Bücher] Cffein, Border und Diyete, Novellen,<lb/> 558240, geh. ® 3.00: Dansietob, Mein Eras, Grbanfen und<lb/> ac, 3 050; Sevel, Sonne Set<lb/> jehiete Safeten durd) Griehenleub und Gigilien 1902 bis 1904,<lb/> ve R Dr eb. K. 5,78; Norden, Morganatiich, Roma, br.<lb/> E120, geh 8.40; Weiter, Das böfe Peinyehien, ehr Deizchen,<lb/> Apiet fr Rinder, geb. 8. 8; Ctifgebauer, ,Oöy Araiit, Sand 2,<lb/> Boman, dr. M 480, geb. 8. 8; Ging, ib mite die Oanh,<lb/> Bonn 51-8. 480, go. 8.5; Zilinger, Multer mb Todteis<lb break="paragraph"/></p> <p>rogtonm enthät Monpofiionen<lb/> Iemöelsfoier, Sineiapa, I, Wugner,<lb break="paragraph"/></p> <p>6<lb/> Roman, br. $. 2,40, geb. E. 3.60; Wildraubt, Yelleln, Bewan,<lb break="paragraph"/></p> <p>br. 8.8.00, geb. A. 4.80; Bahn, Die CiarieMarie, Moman,<lb/> E10, gi. Sea AL tho moringe, 2 vol, K. 834;<lb/> Nabjioil, Pringess Catherine, My revolleatione, 3 vols, „zob,<lb/> X. 24; Maernt, Le fire d’une amsurente, br, K.4.20. Rechner<lb/> ih, Müller), md L Sole und Unierktässbud;ganbiung,<lb/> Wien, I, Öraben Str. Bi. .<lb break="paragraph"/></p> <p>WBentsmitauf bRagl‘) Unter biefem Titel wird in<lb/> ben möciten Togen im Merlage von M. Sedäner . Müller),<lb/> Bien, cin teih tlluhriertes Micheln eriäelsen, beiten teht<lb/> Hidden Teil yon bem befamnien Dielettbicter Cent Yhrmain<lb/> berät, Wir maden fen jeht alle Imuriiligen Sireife bavanf<lb/> aufmerkfoxs. neito hei<lb break="paragraph"/></p> <p>Zei!s Diamanten) Yaben fid in Miserifa hewbot<lb break="no"/>end Hewielen, und werden dorl vom vielen wuäfgatehhen Perfüte<lb/> fiteiien anfatt hist, verwendet, Die einzige Aiederiage<lb/> piefer_ irn feit Defiöfen in eier, befindet jid 5, Kärntner<lb/> Kraßes<lb break="paragraph"/></p> <p>: Murnod vierzehn bilfine Tage] Wicmand der,<lb/> ind Diele Ehetersendk, ütigen Gefegenfeiteitufe, bie.fh tod)<lb/> Kae Ba her Satetiiden irgretage, 2 Ya<lb/> morti Mr. It, Bieten. Veitpielsiveile : Dunaftiichticher 75 Te-,<lb/> Naffeegedede f. 1.60, Zeinthier ofme Naht 65, 76, 3 Er., Hand:<lb/> gewehle Seintüger fl, 1.18, Samaftjanbiüner, /, Dukenb<lb/> Dümenhemben bon tr, Reinfehnen:<lb/> 37, Dupenb Hi. 1.4, Neben der Ciüd fl. 3.78,<lb break="paragraph"/></p> <p>3.9, Hi. 3.20, Atlosseugraht fl. 4,75, Dameftaradl fl.<lb/> Sämiidie Hier nicht angeführten Seinetwaren zu jehe Heradgefehten<lb/> Kreifen.<lb break="paragraph"/></p> <p>Sonbervertaufl Cim Mreignis fir die gejamis<lb/> Domenmeli Wiens bildel der don der Sirma Lndwig Jmiebar<lb/> &amp; ruhen, Mortapiiterhrmbe lit cat Bibseie), De<lb/> Woche veranfialteie Gondervertauf in Woll-, Seidenftoflen, Santten<lb/> und Damentonfeition.<lb break="paragraph"/></p> <p>Dasneneke Shuimeneiki_-Die alljeks Tefaintie<lb/> sub venammierie Scuöfrme Baprita-Shlejinger Min,<lb/> 5, Waffüßigefle_ 2, hat al8.tenangebenhe Firma für die Shußmobe<lb/> eihe Meubeh nekänffen, melde. gesignet. erideint, eine aumiksgeite<lb/> Beweging in der Säumobe für den heimigen Karhenel und die<lb/> omnienbe, Sonnmegfaion berdeiiulheen, as, Sobet, welches eine<lb/> Damenfandafe in Korm eineg-Galbidrubes Darfieit, Fscht teil geftern<lb/> in einem der firhen Schaufenferm der Ntuma zur eeten Neftitigung<lb/> anögentet,<lb break="paragraph"/></p> <p>IS aninz;! Die Biene 8. ©. Shitotott 8 Co, Min<lb/> Hiehemieiitaße 3, bringt hienit Die ergebene Wöitkeilzcug, "Dat Pie<lb/> lu für Ganz Heyomnn hal Ind nöckniiß meprmats Trande<lb/> Horte von frkihem Zange in jeinfter Kiunlilät ans Wftradeh ein<lb/> asfien, Spgtaiiht: ,Verraja', umgelatierer Cavior.<lb break="paragraph"/></p> <p>Wie Wetierpengnafe) freit einen Falten md fteengen<lb/> Winter in Nusjict, wehetb 8 fig empfichfl, für angenehme, gleiche<lb/> mihig erwärmde Häumlichfelten zu förgen.” Mad ben biäher ges<lb/> macien, Geiohtmgen, eignen, I. zu Bekim Auede Die befanden<lb/> HrigineiDauerbrandöfen ameritahifhien unb irfden Sftems . her<lb/> Ferne Sg. Wet, IV., Prehgaffe Wr. DU.<lb break="paragraph"/></p> <p>orein],it eine Wafta, weile dunklen Parguelten, watt<lb/> inerbenen geftzienen weidien Büden md Singlesmbelegen wieher<lb/> iellen, hercüchen lang, werletjt eb duch MBitligfeit mb einiadie<lb break="paragraph"/></p> <p>enbung „dad, Entgüclen jeder Kausfron heroomuft. Sotehe ift<lb/> a jedem einfhlägigen Gelöänt echähtid,.<lb break="paragraph"/></p> <p>Eras, fan, mes] beim Cilanfe ortenialifher Teppikhel<lb/> Esnerd % Banlata, Dim, I”. Supferämiebgafte 1, Im<lb/> Sranfe Kürnkwerfizaße 14,<lb break="paragraph"/></p> <p>Magneiifhe Meufchen,<lb break="paragraph"/></p> <p>,Beine. Kerzen,“ fo beganst eines Tages Brofeflor Paul<lb/> Hegnard jeine Borlefung an ber Sorboume, „id glaube, dal<lb/> es in ber Wiffenihaft Zirge gibt, hom been man Tieber<lb/> zädit Imechen jo, bie vorzubringen ein Huger Mann En) heut,<lb/> arlägrfiche Thermen, bie noch jcbem Lnheif gebrudt Haben,<lb/> ber fh mit ihnen einfieß. ... . Der tierifge Magneiisinug<lb/> it ein joldes Thema.“ Uber gerabe das Arfeeniie Anie<lb break="no"/>cibfe, das Faözinierenb-Geheimmispolle, bes ta hiefem Ver<lb/> gef heit, Ni 10 Marl, Daß e3 ünmer wieber bie. Menlihen<lb/> verloett, fi mit biefem „Rätfel® zu befihäfigen. Seeiid) fo<lb/> Yentealifch wir einft wich e&amp; uns nit mehr votgeleht. De<lb/> ia Deswer mac Paris und behauptete, er fei Ser und<lb/> Meifter. über. ein befonberes luibum, das nichts anderes {ci,<lb/> ats’ eine art des Erbmognelismuß, unb. er bot ber fan.<lb/> güiiden Regierung je Geieiand um einige Mitionen<lb/> Ei au. Über die Negierung<lb break="paragraph"/></p> <p>bomals. fein. Gelb... Sur<lb/> Mesmers Salon ftand ein berbedier Bottiäi, aus hem eine Dienge<lb/> üfenftäbe enporzagien, Sen berührte bie Stäbe, Pufit ciflang,<lb/> Wand walle at, aftmolt zogen buch ben Kaum,<lb/> Yrdmer. hob. fegrend uni Beihtsheens bie. Hänbe, und "bie<lb/> gaienten Helen. In_den _ negneälgen Sclof, indem fie<lb break="paragraph"/></p> <p>wette Freie Preseii. ;:<lb break="paragraph"/></p> <p>Gehnbung finden folien, - Sunbert Iahre hindurkh-Inteite<lb/> per! tieriiche Magnelismus witter. allerlei Berfltibungen 'unb<lb/> Bermutmmungen inter Wieder anf. Lind une bie<lb/> Ihajt mod fo emergifh ben ,Sargbedet zuffeppen, daß. We<lb/> ent "hlapfte doh Yerans und prousniene + bei, hellem<lb/> Zagesiiht in mehr ober minder grel Kieide dot. einem<lb/> Bublifum, Das jic) Immer gerne foppen Üeh. : .n<lb break="paragraph"/></p> <p>Unmikfüchg. muß min an Diejes alte, wohlksfaunie<lb/> Gejpenft wwieber benfen, wenn man bon, Profeljut Hamafs<lb/> Kompafverfucgen Hört, Yamada Enibedung Beh ote er<lb/> jelbft jagt, Darin, "daß ec im fiande ift, bucd “Reife ’onf<lb/> ber. Glaäfläge die Magnetnadel von ber riehtenden Kraft bes<lb/> Erbmagnelismus abzulenten, . Er fieht husi, eine dein<lb/> Menfchen_ inueroohnende Yähigfeit. Und wenn er muß Aud<lb break="no"/>vehilic; Heiont, bap eine Musiegung biefes Eyperimenis zu<lb/> Gunften bes Mebiumismus und Magnetismus tur völfig<lb/> tertümtichenimeife miergefii tmurbe, to behauptet: er bob,<lb/> Daß einige Menfehen Im ftanbe wären, eine fiarfe magriettidie<lb/> Kraft zu erzeugen. Umb er Tonnte alie au nicht neräiiebech,<lb/> bag ber her Beiprechung bes tgpertments In reiöbenijchen<lb/> Blättern 'gleich geroiffe Namen auflauchten, bie einen: Hanf<lb/> verbäßtigen ang haben: Zöllner und Blade sichern als<lb/> »sodläufer und Gemähramänner Harnads genannt.<lb break="no"/></p> <p>„Dur; Harnada Erperiment,” jagt Holzat Pröteffor Bolg:<lb/> mann, „wird eigentlich nichts Neve&amp; bewielen. Dur das<lb/> Reiben wird anlid) bes Glas eieftifh, unb zimsr um fo<lb/> Rärter, fe ttodenet der Yinger ift, ber reißt. Bon -Dagnelis:<lb/> mn ift dabei natürlich feine Spur, Die Sade it-fo bekam,<lb/> be&amp; foger ber Wifient bes Biofeffers Lommel in ;Bünden<lb/> FG eine Vorrichhing potentieren lieh, ein obige, dns<lb/> den ,Blazdedtel dient, damit bie empfinbliie abel- des<lb/> Amperometers zum. Beifpiel nicht Schwankungen, hen<lb/> wen den Clans vom (taehedel wilct. Denn bieje Sterhung<lb/> enügt, Iden, um bes Has elektrif zu made. Vor: einer<lb/> ent. enjchen mewohnenden magnetichen.. Kraft ,fan alla<lb/> weiter nicht hie Nede fein. Daß es im menidlihen Drgm<lb/> mus eöfteifeje Ströme gibt, ih ja eine Kefannfe Tarjadpe. Ser<lb/> Tontzabierte Muskel gibt gegenüber ben unfontrahierten einen<lb/> eieftromstorifiien Ctrom von allerhings minimaler. Antenfztät.<lb/> Tüeoreiil) wäre e8. alfo wohl möglich, dag eine tiefig. grobe<lb/> Kette von .Meniden, bie fie) bet ben Hünben falle, » mabei<lb/> immer ei Tonträhierter ‘Musfel mit einem nutenteahierten<lb/> zulemmenftößt, hie Strafi cines Ginments Hätte, Wer dire<lb/> Totfadhe hat mit den Harnadiien Erperintent nihtg .zu kn,”<lb break="paragraph"/></p> <p>,Nor. allem -mödjte ich Tonftatieten,“ fagie ,Hofrat. Pio<lb break="no"/>feier Siegmund Epner, ,dab Harnad nicht Ropfiologe it,<lb/> Toner Hurnatologe. Bon eine: mognetilchen. Salt . bes<lb/> Menföien fann nalüzfic meiner Meitung nad). wicht, At<lb/> jprodjen werben, Belannt it Küngfi, daß es im menlhlidje<lb/> Örgenismus fowohl eleltriice Stehmungen wie. Tasiumgeit<lb/> br. Die Haut, die Saore find ja oft mit Elsktigität gl<lb/> Inden: Sa, ex gibt, Menfejen, die eine \o Frorfene Haut haben,<lb/> daß ie Seibung in: den Meihern überiptingenbe<lb/> zeugt, Ejetrifdje Stebmungen find in ben Mustelt, im.’Xer<lb/> Meruen; and; in dem Zritien vorhanden, und. ine. Sou<lb break="no"/>Faticung, fiefet uns Wuhaltspunkte für bie geleifiete Uchettd<lb break="no"/>menge, „Über natürlid; Hasen alle eiefteifdien: Sahungen 1)<lb/> Steömmmgen weber eine ,phnftolögij—he noch eine Biologtice Des<lb/> deutung, Man Hat wieberholt mit forgfäftigften Cgperinen!<lb/> bie Frage anterfuäit, 06 der menjclige Organismus. ir pie<lb/> Einnirkungen bes. Magnetismus empftnbiid) jet. Mart hat beit<lb/> Wenjden zioiichen bie ftärkkten Magnete geftellt, unb-twein "es<lb/> gelang, ,die -Guggeftton ausgnidhließen,. var ber Exiolg. immer<lb/> eich Mull, Man Tann höchftens jesen. de das Blntfie) dem<lb/> Magneien gegenübse ja teriel<lb break="paragraph"/></p> <p>ns wie eine. Biameg mei<lb/> Slüffigteit, Smemer wieher ift berfucht nochei, mit demand<lb/> Au een a5 Chereot feine erften Käpmokichen Erperimerits<lb/> inadhee, diente ihm der Magnet zur Crpeugung: des” fir<lb/> genaunten ,Qransfer”, Kuh in Wien mache ein. Kollege si<lb/> Eeperimenke nad) und fie gelangen. Ge’ forberie mid „auf,<lb/> daran feifzunchmert. Ic; erbot mic borher den Magnet, beit<lb/> er verwendete, gab ibe in eine Ehatel und Tich ander,<lb/> ganz ,gleiche, Schachielte. mit gleichem Gewichte anferigen, Da<lb/> num des Medinke nicht mehr vonfie, in welher pet Bi<lb/> ber. Magnet befand, verjagte da Epperiment vollftäkbig.<lb/> Während bes ganzen horigen Yahrjunderis if ja ,ber allin<lb/> mätteriöfen Erfgeimngen üunnter wieder ber Magneilömuis jiir<lb/> Crflärung herangezogen merben. Borberhand ftetls mit Tegd<lb break="no"/>tiven Mehultoi<lb break="paragraph"/></p> <p>Und dieie Worie ergängenh, fagt Beofeffor Krank: Die<lb/> Be een annter Be Keehnfadt, all Orbebradfe mi<lb/> einem Sepfüffel auffperren zu wollen. AUS ford etw Orhtüflel<lb break="no"/>wort erjgjien fiets ber Moguelignus. Es war us ein<lb/> Wort von groher, juggejttver Bebeutung. Und Degreiflict et»<lb/> {dehnt e&amp; much, Dep die gefeimmißuofle im bie zerhe wir“<lb/> tende Mraft beß. Dingnets feine Wirkung auf bie. Montgile<lb/> nicht verfehft. Bon: einer Btilßen Wirtung bed Pagueiß<lb/> auf ben Menschen oder des Menjeen anf ben. Magkdt<lb/> Tamz natihrfich nicht bie Mede fein.“ BE<lb/> Und &amp; wich Senn and, wahrleheinfieh bie Eptinbe ber<lb/> bürd) menlojtiäge Straft adgelenkten Magneinabel ben anderen<lb/> Epifoben im Schattenreih ber Wiflenfaft folgen. „Sie wich<lb/> uns nur, fehr geringe, Erweiterung umlerer phoftalifäien. imb<lb/> hnftoiogiiehen. Sennttiffe gebracht Haben, ber" für ‘hie<lb/> Iochologie des Menjhen war fie gemig von Wert, Dem<lb/> fie geigle ung ioieder einmal, wie mag gewiffe<lb/> mieten, tie gruß. ber Bauber ber iffe Alt und wie<lb/> alereit. bie Sehnfucht if, fih mit geheimnisvollen ,Kräffen<lb/> einzulaffer, Immer berjagt, veripottei und Fälektih itlargt<lb/> und wie c$ Teint endgiltig abgetam, tritt dcr alte Merfuier,<lb/> Magnettömtus genount, immer mieber auf. Unb „er. iceut<lb/> wit einmal 503 Helle, Mare Licht eines Uniberftäts-Gaho<lb break="no"/>voterinms, um bem Darue dev Wijlenicaft den Teufelspaft<lb/> anzubieten. Aper wenn uns biegmal and) beriprodiek. ,nik,<lb/> daß Wir. unit unferen Singern im ftande jein folfeit, bie Be»<lb/> Harzfichteit den Rompapies gu färgen, das Wuhber füge<lb/> auz ,fleplifce Beiradjler, ,Die Wunder find die Etoatsfteeiche<lb/> Gottes,” jagt Tine, Smeldjine. Und wie wir glauben, Trrmen<lb/> wir einjtwellen mit unferen Singerfpihei bie Sonflitttieh gr<lb/> Ratire nicht ändern, xh Thomas<lb break="paragraph"/></p> <p>Kommunaljeitung.<lb/> {8 Einberfeibung der Donaugemeiw<lb/> "|<lb break="paragraph"/></p> <p>Den]. Heute mittags fand, wie gemelbe, smier beim. Börfige<lb/> bes Di germiifers jr. Bueger eine Monfereng ber Bertreier<lb/> ber gu tnforporierenden. Donaugemeinben fin. . Be<lb break="paragraph"/></p> <p>waren bie Gemeinden Sloribzbor, Otoß-Sehlecäbor, Lete<lb/> volkan, Kagtan, Stablau, Sirläftetten, Apern, Lhng-Enzerd«<lb/> dorf, Sirebersborf, Stammersbort, Srcitenlee und Gehe<lb/> Snzersdorf. Don eben ber Gemeinde Wien innren :attfer. beht<lb/> Bürgermeifter lagiftraisbireftor Dr. Weistfirdner,<lb/> GStadibandtreftor Berger, bie Magiktretsräte Ground<lb/> Dr. Späth, Bauinfpekter Onidemund. und. Korfticre<lb/> wahter Zelimfa anmelend. Dr, Sueger eröfmete Die Ber<lb break="no"/>jammfiig mit ber Mitteilung über bie Crgebiiffe, Der ge<lb/> 2% b. im Minifterium bes Jnnern fiettgehahten Verhanhiiiän<lb/> wit ber Negierung, Er aab beinmmt. bat biefe "staen Die<lb break="paragraph"/></p> <p>unten ei.<lb break="paragraph"/></p> <p>6, November 1904 Ar. 14441!<lb break="paragraph"/></p> <p>nunmehe in Nusficht- genommene Emmeiteruan unser ber Bor<lb/> mit ben Gemeinden,<lb break="paragraph"/></p> <p>eindegogen warden,<lb/> ,n&amp; jener Örmeine<lb/> wunder<lb break="paragraph"/></p> <p>and<lb break="paragraph"/></p> <p>ausfegutg Trine Einwenbuttg erhebe, b<lb/> welche zuc Gänze vder aud) wur deilioel<lb/> ein Uebereinkommen getroffen werbe.<lb break="paragraph"/></p> <p>ben, weldje. voliftänthig einbezugen merben foflen,<lb/> öuräiwege zuftimmende Crfläctngen abgegeben<lb break="paragraph"/></p> <p>Zaffung. bieshezügheher Ansjcußöeihritie Ar<lb/> Tage ir. usfihl gefei, Hadhker fehler 3<lb/> he Grenze des neuci Gcmel<lb/> mündungsgtenge bes Fiuflig<lb/> gremmen, mar, mirfien ai<lb/> ngeräborf, Streberäborf un<lb break="paragraph"/></p> <p>die<lb break="paragraph"/></p> <p>;0 Stammersborf<lb break="paragraph"/></p> <p>hen. Die erjehienenen Bürgermeifter bie den nehnci<lb/> biefe Milteilang zur Kanminis ad fi, bie<lb/> Üingelegenheit den beiteffenben Gemeinheanshifien varzufeg:<lb break="paragraph"/></p> <p>Eine prinzipielle Cinwendung gegen bie Einbeziehung Die<lb/> Gemelnbeteile wurde von ben einzehten Verkreter miht ew<lb break="paragraph"/></p> <p>, Die Gemeinde Stammersdnrf veiangle- nur<lb/> als Eniihäbi; bie Sumelfig jenes Gehictes der jehigen<lb break="paragraph"/></p> <p>big;<lb/> Gemeinde Groß-Sehlersborf, Ieides mörbiid; Des Lünfligen<lb/> Donan-Cber-Kanols Tiegt, Dr. Dueger gab Me Erklärung<lb/> ab, hal er Diefed Verlangen beim Gemeinberate 'Befiiworten<lb/> were. Die Gemeinde, Groß-Enzershori vidang:<lb/> einen. Exiad für den durd) bie Mbtrernung bee Sohai er<lb/> mecfensen Gnigang von Gewteinbesiseiagen. Bürgsrmeiter<lb/> Baner nor Veopo!ban wiebsrholle bie feinergeit von<lb/> feiner Gemeinde aufgefteilten Bebitngungen, weihe in ful<lb/> ben Bimkten gipfeln ; Exhmuung fäbttiherötraßen<lb/> bahnen, Sannlijetion, Wahrung des länbl<lb/> Gharatier® umb Beloffing des Ösmeinbeftierrs. Vürgermeilter<lb/> Dr. Sneger ertlärte, hab den beiden erflen Punkten nad)<lb/> DMöglicjkeit Rechnung getragen werde und daß gegen die Er<lb/> füllung ber übrigen Wuntie fein Ynftand obwalte, Ya<lb break="paragraph"/></p> <p>{une bdiefer Verhandlungen wide ein Peoiotol verfaht,<lb/> weldhes von füntligien Antorfenden gezeichnet terbe. Dir<lb/> Wertzeier ber auswärtigen Gemeinden verpflichten fill, ür<lb/> diefe ngefegercheit Mrelänißbeichlüfie einzuholen und bie<lb/> jelten 6is fängfens Miitimod) ven-9. d. der &amp;r<lb/> meinde Wien zu übermitteln. — Das Gemeinbrgebist won<lb/> Ben, weldies heute rund 12,800 ekiar want, tird buch<lb/> diele "Einbeziehung um rund- 988 Heltar vermag:<lb/> diefes' nee Gebiei uminht rum 52.000 Einwohner<lb/> mi 2870 Häufern — Mont bet im Minifterumn<lb/> für Kuftns und Unteriäit eine Bus ati, vweldhe hen.<lb/> Binede gift, bie, Frage der Stantsgewerbefjulen . in Wien,<lb/> insbefonbere derjemigen im KVIL_Degiet in Orbuung zu<lb/> beingen. Den orig bei biefer Bepredung führt Setiong«<lb/> Stadler v. Wolfersgrün. Die Gemeinde Wien<lb/> üt berizeien hund Mogifiratstieefior Dr, Weistirhner<lb/> ., [Figfengen im Nathanfe] Der Oemeinderat<lb/> gült tu der Tommsenden Woche am Dienstag den 3. 0,<lb/> I UE madmltags: eine. Blenarjigung.ah, Nie als<lb/> Pectfigung im Artficht genommen if. Huf der Zapet<lb break="no"/>Arbnang flehen bi6 jet 25 Geihäftsitilde, darunter has<lb/> Referat über die Bereinigung der Gemeinde<lb/> Sloridsdorfund berNadhbargemeimden mit der<lb/> Reipöhaupt- autb Refidengfladt: Z8 tem mid Mänderung einiger<lb/> Beflimminngen bed Miener Gemeindeitainten. Stadirater<lb/> figungen finden Dienstag, Mittwoch und: Dosmerstug,<lb/> 10 Uhr dormitiags flat,<lb break="paragraph"/></p> <p>Müshau der fläbtifgen Elelirizitätss<lb/> werte; I der legten Sipung des Stadfentes wurde ein<lb/> Frogtormn für der Ausbau der Mädtiichen Eieltchitätsmerfe in<lb/> den Salzen 1005, 1306 mb 1907 vorgelegt und beichleffen,<lb/> dem -Gemeinterate ze empfehlen, vorläufig "bein Norgelegten<lb/> genevällen Brojette nut Koftenanfchlage für die im Jahre 1908<lb/> auszuführenden Arbeiten, melge eine Summe<lb/> won 8170.000 Kronen im Bufprud) mehuten’ werben,<lb/> die Sufttunmung zu erteilen.<lb break="paragraph"/></p> <p>Mom Hinpecmartt] Kür ben am Monlag faitfinben<lb break="no"/>ben Ninbermärtt fieht mac du Bi8 heute abends neenen An<lb/> selbutngen cin Aufitieb an Sleiihhaweroieh. vom Leiläufig !<lb/> 2i00 Etürt in Andfiht, Dit Kinfhtuh der Bfabe auf tem heutigen<lb/> Kontinnajinertie würde ein foler Mufrieb um 100 Gißet Härter<lb/> fein, ale her Dennägentihe, Au Deinfn Le wire cine Salbe<lb/> don geführt 100 bie 1400 Städt erwurket, bie Fomit ma. u<lb/> wejentlid yon ber Dieämödienffeien biferieren würde,<lb break="paragraph"/></p> <p>Bereinsnachrichten, “<lb break="paragraph"/></p> <p>Poriräge im Houfe der Kaufmennigaft])<lb/> Zar -Giemium der Wiener Sanfmanufheft verenfioltet kur<lb/> Laufe der Winterfoffon im Serjonfe des Haufek der Kauf<lb/> mannibaft, Shwarzenberaplak 7, eine Reihe von Vorträgen<lb/> über. für Kaufleute nterelanie Öegenftänbe, wofür [Gäßens«<lb/> merte ,Rrüfte geiponnen wurden, Den exjteu hiejer Vorträge<lb/> Halt ablerlidjer Rat Wboff:S cd warz, Sesetär des. Dejter<lb break="no"/>zeichifchsungariicien. Eyportbereines, anf Grund der von ihm<lb/> Dei feiner sen offisiellen Muftcage durchgeführten. Amerifareife<lb/> entaditen Begmneimungen und Selahringen ander bem<lb/> cl Bicfgatliäe Strefißer, uf Umenier Dienstag den.<lb/> 8. Nobember, 7. bye abenos. Gintrittsfarten werben für Mit<lb/> lieber bes Öremiums gegen gend einen Yusweis der Mit<lb break="no"/>gliebiehalt im Öreminfburen S ingang Letheingerftraße 10,<lb/> Gedpanene inte) imentgeliich ausgegeben, .<lb break="paragraph"/></p> <p>Mitersperforgungstaife für bie weiß“<lb/> iiäen Dienfboten Wiens] Die Damen bei vor<lb/> Bereitenben Gumittß Iben alle jene Damen und Serren,<lb/> sorlhe fi für die gute Sade intereifieren, zu wier Chen<lb/> nadmitiogen mit Mufit und Vorträgen<lb/> ein. Diefe finden, I, Sauffergafie 6, im groben Gnale her<lb/> Kanbiwirtfejaftägefeichaft zmifchen 5 umb 7 Uhr fait. Die<lb/> auf Namen ioutenden Karlen Toften mit Einfluß alles Öre<lb/> botenen 10 ®, für alle bier Namittage amd Löunen täglich<lb/> zeigen 3 nnb 4 Ufr bei Frau Anua Briz, IV, Waage<lb/> gaffe 8; Srew Saale v. Feiftmantel, I. Habsburger<lb/> gufie. 5, ran Ella Dub, I, Parsing 2, rau Jenny<lb/> Shnas‘, I, Univeritätsftrahe 11, gegen Barzahlung oter<lb/> Roftenweihung bezogen Werber.<lb break="paragraph"/></p> <p>[Wnaliih Slub Sohn Austin im Volta<lb/> Heim.) Sränlen Syrowih mich nunmehr jehen gelten<lb/> Freitag im Nustin&gt; Onb die Führung Übernehmen,<lb break="paragraph"/></p> <p>Bereine und Beriommlangen] Mörger (Sonn<lb/> ing) worden folgende Verfamihingen und Exkurfionen berenflaltet:<lb/> Antkeopologtige Gejeilihatt in Wien<lb/> [9 Uhr, tm MWereite nit dem Wifienidhaitiihen Klub<lb/> Befätigung ber Cammiungen heo_ Craberg<lb break="paragraph"/></p> <p>Franz binand,<lb/> ae ra narb,<lb/> Befeliihaft für Befunbheitäpfiene, 10 ihr<lb break="paragraph"/></p> <p>Kefichtigung des Wiener Berlorgungsteims in Zeinz. 7 Mat<lb/> vantennerein ,der L 1, Moftveriehrsbenuten,<lb/> Bien, tm Gonie dei ge Boit", Wien, L, Sleiihmarkt, Defer<lb/> dern ,zur Suiähbeertung eines Memorambums ber bie<lb break="paragraph"/></p> <p>üniche diefer Sinnbedgsuppe der Boftvenfehräbeamten, bas tt<lb/> näöjfter Zeit ben fompetenten Oberbehörben überpeiht werben wird,<lb/> m Bereinigung berarbeitenben graxen, 4,6 Uhr,<lb/> dar Sogie bes Neuen Srauentfubs, I, Zuclauden 11, Mortrag ber<lb/> Beau U. M, Dr. Siederite Sn binger üben „Einige Sopisei aus<lb break="paragraph"/></p> <p>der Engieng.” Zutritt nur für Srauim unb Mödgen,<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>
