@@ -1,0 +1,226 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a"> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
+            <title type="manifestation" level="a">Über die Ziele und Zwecke der B’nai B’rith Vereinigungen [Erwähnung] (1901-121/1933)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1901-121-1902">
+                     <analytic>
+                        <title type="manifestation">Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__179a9b89-b10b-4ecb-ba32-be9dbcf60f46">B'nai B'rith</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1902-01-01">1902-01-01</date>
+                        </imprint>
+<extent>107</extent>                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="year">4</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1901-121-1933" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Über die Ziele und Zwecke der B’nai B’rith Vereinigungen [Erwähnung]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">B’nai B’rith Mitteilungen für Österreich</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__3fa8c116-147b-4088-b776-1907247ae5fe">Ascher, Arnold</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1933-01-01">1933-01-01</date>
+                     </imprint>
+                     <extent>17</extent>
+                     <biblScope unit="volume">1 </biblScope>
+                     <biblScope unit="year">33</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__334f7e3d-ba5e-413d-8284-e227e7fb3aeb">
+                        <title>Über die Ziele und Zwecke der B’nai B’rith Vereinigungen [Erwähnung]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1901-121/1933</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-die-ziele-und-zwecke-der-bnai-brith-vereinigungen-erwahnung/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/334f7e3d-ba5e-413d-8284-e227e7fb3aeb</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__f0562b83-b8c8-4046-9c1f-1787d894458d">
+                              <title> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
+                              <idno type="url">https://www.freud-edition.net/werke/ziele-und-zwecke-des-ordens-bnai-brith</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f0562b83-b8c8-4046-9c1f-1787d894458d</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="2" xml:id="page__2bddfb89-9ffc-4fdf-88b1-e53a40e18495"/>
+            <p>17<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Die Sitzungen dieser Amtsperiode haben auch den geistigen Interessen der Vereinigung in sehr hervorragender Weise Rechnung getragen.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>So entwickelte sich im Anschlusse an ein vom Br. Josef Zucker erstattetes Referat über ein Buch von Sombart eine überaus lebhafte und anregende Diskussion über die ,,Soziale Frage", welche sich über die Sitzungen bis zum 14. Mai 1901 erstreckte, während die Sitzungen der Wintersaison durch eine von Br. Dr. Freud eingeleitete und von zahlreichen Brüdern fortgesetzte Diskussion ,,Uber Ziele und Zwecke der B'nai B'rith Vereinigungen" in interessanter Weise ausgefüllt wurden.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Außerdem wurden im Laufe des Jahres noch 6 selbständige Vorträge, darunter 3 vor Damen, abgehalten, u. zw.:<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>1. Am 26. Februar von Br. Dr. Freud Über Zufall und<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Aberglauben.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>2. Am 2. März von Frau Jenny Frank, Ehegattin des Br.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Ignaz Frank, „Über die Lebensbedürfnisse der Menschen",<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>vor Damen.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>3. Am 12. März von Dr. Braun Über Pettenkofen". 4. Am 29. April von Dr. Isidor Schnabl „Über Heil stätten für Lungenkranke". 5. Am 19. November von Br. Prof. Ehrmann über „Ent wicklung der Lebewesen", vor Damen und<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>6. Am 3. Dezember 1901 von Br. Architekten Fleischer<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Über Bibliotheken", vor Damen.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Im Ganzen wurden während des Jahres 1901 15 ordentliche<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Sitzungen und 3 außerordentliche Vortragsabende abgehalten.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>An alle Versammlungen schloß sich ein gemeinsames Bruder mahl an, welches seit der am 1. März 1901 erfolgten Eröffnung des neuen Speisesaales im Vereinslokale stets daselbst ab gehalten wurde.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Auch für die Pflege der Geselligkeit war die durchgeführte Adaptierung der Vereinslokalitäten von fördernstem Einflusse. Der Besuch der Sitzungen war sehr befriedigend, indem mehr als 55% der Mitglieder regelmäßig an denselben teil nahmen.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Die Sitzung vom 10. Mai 1901 wurde durch den Besuch des Großpräsidenten des VIII. Distriktes, Rechtsanwalt Tim en dorfer, ausgezeichnet.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Am 29. Dezember 1901 fand eine vom Geselligkeits-Komitee veranstaltete Soiree mit musikalisch-deklamatorischen Vorträgen und daran sich anschließender Tanzunterhaltung statt, welche allgemein als sehr gelungen bezeichnet worden ist.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Im Laufe des Jahres 1901 erfolgte die Aufnahme von 9 Mit gliedern für die Vereinigung Wien, während weitere 10 Mit glieder, welche in dem nachfolgenden Verzeichnisse mit einem * versehen sind, für die in Bildung begriffene zweite Vereinigung<lb break="paragraph"/></p>
+         
+         
+            <pb n="1" xml:id="page__43da8cc5-b576-4c25-b922-21895741dce6"/>
+            <p>B'NAI BRITH MITTEILUNGEN FÜR ÖSTERREICH REDIGIERT VON DR. ARNOLD ASCHER, WIEN, IL, LAUFBERGERGASSE 8<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Eigentum und Verlag des Verbandes der israelitischen Humanitätsvereine „B'nai Brith" für Österreich in Wien, IX., Universitätsstraße 4<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Heft 1<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Jänner 1933<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>INHALTSVERZEICHNIS<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Jahrgang XXXIII<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Reg.-Rat Dr. Bernhard Wachstein: Diskussionsschriften über die Judenfrage. Dr. Wilhelm Knopfmacher: Entstehungsgeschichte und Chronik der Vereinigung Wien B'nai B'rith in Wien. Jüdische Feighert. Aus den österreichischen Vereinigungen: a) Waisen verein, b) Mittelstandsfürsorge, e) Tagesordnungen. Aus anderen Distrikten. Bücher und Zeit schriften. Umschau.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Br. Reg.-Rat Dr. Bernhard Wachstein Wien<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Diskullionslchriften über die Judenfrage.*)<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Das neue Gesicht des Antisemitismus.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>II. Klärung. **)<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>Im Gegensatze zu „Der Jud ist schuld?" sind hier den Mit arbeitern keine Fragen vorgelegt worden. Das Buch soll ein Versuch sein, auf der Grundlage einer vornehmen und sach lichen Diskussion die vielgestaltige Meinung der deutschen Öffentlichkeit zum Thema Antisemitismus. . in einem Gesamt querschnitt zu erfassen". Nun, eine Klärung bringt diese Samm lung nicht. Von den antisemitischen Beurteilern von Juden und Judentum kennen wir schon zwei aus der früher besprochenen Diskussionsschrift, die anderen fünf, die hier zu Worte kommen, sind junge und jüngste Schriftsteller von Fach. Das Literarische ist denn auch vorherrschend, das Wort vertritt den Begriff. Sachverhalte werden nicht gegeben. Wo aber einer in den Vorder grund gerückt wird, stützt er sich zumeist auf Literatur, auf Zitate. In so ungefähr aus der Tiefe kommenden Sätzen wird der Jude, der böse, raffinierte, unglückliche (dessen Leid jedoch seine ur eigene Sache ist), der hassende, liebende (dessen Liebe aber nur<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>*) Siehe vorigen Jahrgang S. 279-293, 379-388.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>*) Klärung. 12 Autoren, Politiker über die Judenfrage. E. Johannsen, F. Hielscher, R. Euringer, M. Naumann, O. Heller, F. W. Heinz, H. Johst, R. Weltsch, W. v. Hollander, Alfred Kantorowitz, H. Blüher, Graf E. Reventlow. Mit Beiträgen aus Friedrich Nietzsches Antichrist" und Zur Genealogie der Moral". Berlin, Verlag Tradition Wilhelm Koek. 205 S.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

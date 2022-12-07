@@ -12,7 +12,7 @@ WERK_PATH = "1905-004"
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,
     "field_manifestation_typ.id": HISTORISCHE_AUSGABE,
-    "field_status_umschrift": 2
+    "field_status_umschrift": None
 }
 
 FWF_MANIFESTATIONS = "data-reporting/manifestations.csv"

@@ -2,6 +2,7 @@ import click
 import pandas as pd
 import glob
 import os
+import datetime
 import freud_api_crawler.freud_api_crawler as frd
 from config import (
     FRD_USER, FRD_PW, MANIFEST_DEFAULT_FILTER, FWF_MANIFESTATIONS
@@ -47,7 +48,7 @@ for x in werk_ids:
             except Exception as e:
                 os.makedirs("logs", exist_ok=True)
                 with open(f"logs/json_dump_error.txt", "a") as f:
-                    f.write(f"processing Manifestation {x} of work {WERK_PATH} did not work due to Error {e}\n")
+                    f.write(f"processing Manifestation {x} of work {WERK_PATH} did not work due to Error {e}. {datetime.datetime}\n")
                 click.echo(
                     click.style(
                         f"processing Manifestation {x} did not not work due to Error {e}",
@@ -59,7 +60,7 @@ for x in werk_ids:
         except Exception as e:
             os.makedirs("logs", exist_ok=True)
             with open(f"logs/make_xml_error.txt", "a") as f:
-                f.write(f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. Run get_jsom_dump first\n")
+                f.write(f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. Run get_jsom_dump first {datetime.datetime}\n")
             click.echo(
                 click.style(
                     f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. Run get_jsom_dump first",
