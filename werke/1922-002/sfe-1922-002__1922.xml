@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1922-002; 1922b [1921]): Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+            <title type="manifestation" level="a">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität (1922-002/1922)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. SL</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1922-002-1922.2">
+                     <analytic>
+                        <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1922-002-1922" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                     <title type="publication-short">IZP</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>London</pubPlace>
+                        <date when="1922-01-01">1922-01-01</date>
+                     </imprint>
+                     <extent>258 Seiten</extent>
+                     <biblScope unit="volume">3</biblScope>
+                     <biblScope unit="year">8</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__be0d657f-2eb6-4dc8-b4d3-4699f96ff5a3">
+                        <title>Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1922-002/1922</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-einige-neurotische-mechanismen-bei-eifersucht-paranoia-und-homosexualitat/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/be0d657f-2eb6-4dc8-b4d3-4699f96ff5a3</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__d8846a88-99da-49e8-a9cb-c12ddb955bb7">
+                              <title>Freud, Sigmund  (1922-002; 1922b [1921]): Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/ueber-einige-neurotische-mechanismen-bei-eifersucht-paranoia-und</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/d8846a88-99da-49e8-a9cb-c12ddb955bb7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">InternationaleZeitschriftFrPsychoanalyseViii.Band1922Heft3</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="3" xml:id="page__ff15c01c-2412-45ab-8a81-d8f3c18c48ad"/>
+            <fw type="pageNum">[249]</fw> <p rendition="#level_2">Originalarbeiten.</p><p rendition="#level_3">Über einige neurotische Mechanismen bei Eifersucht, Paranoia<lb/> und Homosexualität.</p><p>Von Sigm. Freud.<lb break="paragraph"/></p> <p><hi rendition="#em">A</hi>) Die <hi rendition="#smallcaps">Eifersucht</hi> gehört zu den Affektzuständen, die man<lb/> ähnlich wie die Trauer als normal bezeichnen darf. Wo sie im<lb/> Charakter und Benehmen eines Menschen zu fehlen scheint, ist<lb/> der Schluß gerechtfertigt, daß sie einer starken Verdrängung<lb/> erlegen ist und darum im unbewußten Seelenleben eine um so<lb/> größere Rolle spielt, Die Fälle von abnorm verstärkter Bifersucht,<lb/> mit denen die Analyse zu tun bekommt, erweisen sich als dreifach<lb/> geschichtet. Die drei Schichten oder Stufen der Eifersucht ver<lb break="no"/>dienen die Namen der 1. <hi rendition="#smallcaps">konkurrierenden</hi> oder normalen,<lb/> 2. der <hi rendition="#smallcaps">projizierten</hi>, 3. der <hi rendition="#smallcaps">wahnhaften</hi>.<lb break="paragraph"/></p> <p>Über die normale Eifersucht ist analytisch wenig zu sagen.<lb/> Es ist leicht zu sehen, daß sie sich wesentlich zusammensetzt<lb/> aus der Trauer, dem Schmerz um das verloren geglaubte Liebes<lb break="no"/>objekt, und der narzißtischen Kränkung, soweit sich diese vom<lb/> anderen sondern läßt, ferner aus feindseligen Gefühlen gegen den<lb/> bevorzugten Rivalen und aus einem mehr oder minder großen<lb/> Beitrag von Selbstkritik, die das eigene Ich für den Liebesverlust<lb/> verantwortlich machen will. Diese Eifersucht ist, wenn wir sie auch<lb/> normal heißen, keineswegs durchaus rationell, d. h. aus aktuellen<lb/> Beziehungen entsprungen, den wirklichen Verhältnissen proportional<lb/> und restlos vom bewußten Ich beherrscht, denn sie wurzelt tief<lb/> im Unbewußten, setzt früheste Regungen der kindlichen Affekti<lb break="no"/>vität fort und stammt aus dem Ödipus- oder aus dem Geschwister<lb break="no"/>komplex der ersten Sexualperiode. Es ist immerhin bemerkens<lb break="no"/>wert, daß sie von manchen Personen bisexuell erlebt wird, das<lb/> heißt beim Manne wird außer dem Schmerz um das geliebte Weib<lb/> und dem Haß gegen den männlichen Rivalen auch Trauer um den<lb break="paragraph"/><pb n="4" xml:id="page__8a2deb34-f3b9-4141-9b71-13fbaf4dd4eb"/><fw type="pageNum">250</fw>unbewußt geliebten Mann und Haß gegen das Weib als Rivalin<lb/> bei ihm zur Verstärkung wirksam. Ich weiß auch von einem Manne,<lb/> der sehr arg unter seinen Eifersuchtsanfällen litt und die nach<lb/> seinen Angaben ärgsten Qualen in der bewußten Versetzung in<lb/> das ungetreue Weib durchmachte. Die Empfindung der Hilflosig<lb break="no"/>keit, die er dann verspürte, die Bilder, die er für seinen Zustand<lb/> fand, als ob er wie Prometheus dem Geierfraß preisgegeben oder<lb/> gefesselt in ein Schlangennest geworfen worden wäre, bezog er<lb/> selbst auf den Eindruck mehrerer homosexueller Angriffe, die er<lb/> als Knabe erlebt hatte.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Die Eifersucht der zweiten Schicht oder die <hi rendition="#smallcaps">projizierte</hi>, geht<lb/> beim Manne wie beim Weibe aus der eigenen im Leben betätigten<lb/> Untreue oder aus Antrieben zur Untreue hervor, die der Ver<lb break="no"/>drängung verfallen sind. Es ist eine alltägliche Erfahrung, daß die<lb/> Treue, zumal die in der Ehe geforderte, nur gegen beständige<lb/> Versuchungen aufrecht erhalten werden kann. Wer dieselben in<lb/> sich verleugnet, verspürt deren Andrängen doch so stark, daß er<lb/> gerne einen unbewußten Mechanismus zu seiner Erleichterung in<lb/> Anspruch nimmt. Eine solche Erleichterung, ja einen Freispruch<lb/> vor seinem Gewissen, erreicht er, wenn er die eigenen Antriebe<lb/> zur Untreue auf die andere Partei, welcher er die Treue schuldig<lb/> ist, projiziert. Dieses starke Motiv kann sich dann des Wahr<lb break="no"/>nehmungsmaterials bedienen, welches die gleichartigen unbewußten<lb/> Regunsen des anderen Teiles verrät, und könnte sich durch die<lb/> Überlegung: rechtfertigen, daß der Partner oder die Partnerin<lb/> wahrscheinlich auch nicht viel besser ist, als man selbst<hi rendition="#footnote-index">1</hi>.<lb break="paragraph"/></p> <p>Die gesellschaftlichen Sitten haben diesem allgemeinen Sach<lb break="no"/>verhalt in kluger Weise Rechnung getragen, indem sie der Gefall<lb break="no"/>sucht der verheirateten Frau und der Eroberungssucht des Ehe<lb break="no"/>mannes einen sewissen Spielraum gestatten m der Erwartung,<lb/> die unabweisbare Neigung zur Untreue dadurch zu drainieren und<lb/> unschädlich zu machen. Die Konvention setzt fest, daß beide Teile<lb/> diese kleinen Schrittchen in der Richtung der Untreue einander<lb/> nicht anzurechnen haben, und erreicht zumeist, daß die am fremden<lb/> Objekt entzündete Begierde in einer gewissen Rückkehr zur Treue<lb/> am eigenen Objekt befriedigt wird. Der Eifersüchtige will aber<lb/> diese konventionelle Toleranz nicht anerkennen, er glaubt nicht,<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Vergl. die Strophe im Lied der Desdemona;<lb/> I called him thou false one, what answered he then?<lb/> If I court more women, you will couch with more men.<lb/> (Ich nannt' ihn: Du Falscher. Was sagt er dazu?<lb/> Schau ich nach den Mägdlein, nach den Büblein schielst du.)<lb break="paragraph"/></note>
+         
+         
+            <pb n="5" xml:id="page__cb1a1ef2-82c4-400b-841a-8d3caf8268d0"/>
+            <fw type="pageNum">251</fw> <p>daß es ein Stillhalten oder Umkehren auf dem einmal betretenen<lb/> Weg gibt, daß der gesellschaftliche „Flirt“ auch eine Versicherung<lb/> gegen wirkliche Untreue sein kann. In der Behandlung eines<lb/> solchen Eifersüchtigen muß man es vermeiden, ihm das Material,<lb/> auf das er sich stützt, zu bestreiten, man kann ihn nur zu einer<lb/> anderen Einschätzung desselben bestimmen wollen.<lb break="paragraph"/></p> <p>Die durch solche Projektion entstandene Eifersucht hat<lb/> zwar fast wahnhaften Charakter, sie widersteht aber nicht der<lb/> analytischen Arbeit, welche die unbewußten Phantasien der eigenen<lb/> Untreue aufdeckt. Schlimmer ist es mit der Eifersucht der dritten<lb/> Schicht, der eigentlich <hi rendition="#smallcaps">wahnhaften</hi>. Auch diese geht aus ver<lb break="no"/>drängten Untreuestrebungen hervor, aber die Objekte dieser Phan<lb break="no"/>tasien sind gleichgeschlechtlicher Art. Die wahnhafte Eifersucht<lb/> entspricht einer vergorenen Homosexualität und behauptet mit<lb/> Recht ihren Platz unter den klassischen Formen der Paranoia.<lb/> Als Versuch zur Abwehr einer überstarken homosexuellen Regung<lb/> wäre sie (beim Manne) durch die Formel zu umschreiben:<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Ich</hi> liebe ihn ja nicht, <hi rendition="#smallcaps">sie</hi> liebt ihn<hi rendition="#footnote-index">1</hi>.<lb break="paragraph"/></p> <p>In einem Falle von Eifersuchtswahn wird man darauf vor<lb break="no"/>bereitet sein, die Eifersucht aus allen drei Schichten zu finden,<lb/> niemals die aus der dritten allein.<lb break="paragraph"/></p> <p><hi rendition="#em">B</hi>) <hi rendition="#smallcaps">Paranoia</hi>. Aus bekannten Gründen entziehen sich (Fälle<lb/> von Paranoia zumeist der analytischen Untersuchung. Indes konnte<lb/> ich doch in letzter Zeit aus dem intensiven Studium zweier<lb/> Paranoiker einiges, was mir neu war, entnehmen.<lb break="paragraph"/></p> <p>Der erste Fall betraf einen jugendlichen Mann mit voll aus<lb break="no"/>gebildeter Eifersuchtsparanoia, deren Objekt seine tadellos getreue<lb/> Frau war. Eine stürmische Periode, in der ihn der Wahn ohne<lb/> Unterbrechung beherrscht hatte, lag bereits hinter ihm. Als ich<lb/> ihn sah, produzierte er nur noch gut gesonderte Anfälle, die über<lb/> mehrere Tage anhielten und interessanterweise regelmäßig am<lb/> Tage nach einem, übrigens für beide Teile befriedigenden, Sexual<lb break="no"/>akt auftraten. Es ist der Schluß berechtigt, daß jedesmal nach der<lb/> Sättigung der heterosexuellen Libido die mitgereizte homosexuelle<lb/> Komponente sich ihren Ausdruck im Eifersuchtsanfall erzwang.<lb break="paragraph"/></p> <p>Sein Material bezog der Anfall aus der Beobachtung der<lb/> kleinsten Anzeichen, durch welche sich die völlig unbewußte<lb/> Koketterie der Frau, einem anderen unmerklich, ihm verraten hatte.<lb break="paragraph"/><pb n="6" xml:id="page__14166258-0cf2-4c46-b403-89227bd1a80e"/><fw type="pageNum">252</fw>Bald hatte sie den Herrn, der neben ihr saß, unabsichtlich mit<lb/> ihrer Hand gestreift, bald ihr Gesicht zu sehr gegen ihn geneigt<lb/> oder ein freundlicheres Lächeln aufgesetzt, als wenn sie mit ihrem<lb/> Mann allein war, Für all diese Äußerungen ihres Unbewußten<lb/> zeigte er eine außerordentliche Aufmerksamkeit und verstand sie<lb/> immer richtig zu deuten, so daß er eigentlich immer Recht hatte<lb/> und die Analyse noch zur Rechtfertigung seiner Eifersucht anrufen<lb/> konnte. Eigentlich reduzierte sich seine Abnormität darauf, daß er<lb/> das Unbewußte seiner Frau schärfer beobachtete und dann weit<lb/> höher einschätzte, als einem anderen eingefallen wäre.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Vergl. die Ausführungen zum Falle Schreber in „Sammlung kleiner<lb/> Schriften“, dritter Folge: Psychoanalytische Bemerkungen über einen auto<lb break="no"/>biographisch beschriebenen Fall von Paranoia (Dementia paranoides).<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Wir erinnern uns daran, daß auch die verfolgten Paranoiker<lb/> sich ganz ähnlich benehmen. Auch sie anerkennen bei Anderen<lb/> nichts Indifferentes und verwerten in ihrem „Beziehungswahn“ die<lb/> kleinsten Anzeichen, die ihnen diese Anderen, Fremden geben. Der<lb/> Sinn ihres Beziehüngswahnes ist nämlich, daß sie von allen Fremden<lb/> etwas wie Liebe erwarten; diese: Anderen zeigen ihnen aber nichts<lb/> dergleichen, sie lachen vor sich hin, fuchteln mit ihren Stöcken<lb/> oder spucken sogar auf den Boden, wenn sie vorbeigehen, und das<lb/> tut man wirklich nicht, wenn man an der Person, die in der Nähe<lb/> ist, irgend ein freundliches Interesse nimmt. Man tut es nur dann,<lb/> wenn einem diese Person ganz gleichgültig ist, wenn man sie als<lb/> Luft behandeln kann, und der Paranoiker hat bei der Grundver<lb break="no"/>wandtschaft der Begriffe „fremd“ und „feindlich“ nicht so unrecht,<lb/> wenn er solche Indifferenz im Verhältnis zu seiner Liebesforderung<lb/> als Feindseligkeit empfindet.<lb break="paragraph"/></p> <p>Es ahnt uns nun, daß wir das Verhalten des eifersüchtigen<lb/> wie des verfoleten Paranoikers sehr ungenügend beschreiben,<lb/> wenn wir sagen, sie projizieren nach außen auf Andere hin, was<lb/> sie im eigenen Inneren nicht wahrnehmen wollen.<lb break="paragraph"/></p> <p>Gewiß tun sie das, aber sie projizieren sozusagen nicht ins<lb/> Blaue hinaus, nicht dorthin, wo sich nichts Ähnliches findet, sondern<lb/> sie lassen sich von ihrer Kenntnis des Unbewußten leiten und<lb/> verschieben auf das Unbewußte der Anderen die Aufmerksamkeit,<lb/> die sie dem eigenen Unbewußten entziehen. Unser Eifersüchtiger<lb/> erkennt die Untreue seiner Frau an Stelle seiner eigenen; indem<lb/> er die seiner Frau sich in riesiger Vergrößerung bewußt macht,<lb/> gelingt es ihm, die eigene unbewußt zu erhalten. Wenn wir sein<lb/> Beispiel für maßgebend erachten, dürfen wir schließen, daß auch<lb/> die Feindseligkeit, die der Verfolgte bei Anderen findet, der Wieder<lb break="no"/>schein der eigenen feindseligen Gefühle gegen diese Anderen ist.<lb/> Da wir wissen, daß beim Paranoiker gerade die geliebteste Person<lb/> des gleichen Geschlechts zum Verfolger wird, entsteht die Frage,<lb break="paragraph"/><pb n="7" xml:id="page__b46662a4-61fa-4104-934b-6b36aaf76157"/><fw type="pageNum">253</fw>woher diese Affektumkehrung rührt, und die naheliegende Antwort<lb/> wäre, daß die stets vorhandene Gefühlsambivalenz die Grundlage<lb/> für den Haß abgibt und die Nichterfüllung der Liebesansprüche<lb/> ihn verstärkt. So leistet die Gefühlsambivalenz dem Verfolgten<lb/> denselben Dienst zur Abwehr der Homosexualität, wie unserem<lb/> Patienten die Eifersucht.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Die Träume meines Eifersüchtigen bereiteten mir eine große<lb/> Überraschung. Sie zeigten sich zwar nicht gleichzeitig mit dem<lb/> Ausbruch des Anfalls, aber doch noch unter der Herrschaft des<lb/> Wahns, waren vollkommen wahnfrei und ließen die zugrunde<lb/> liegenden homosexuellen Regungen in nicht stärkerer Verkleidung<lb/> als sonst gewöhnlich erkennen. Bei meiner geringen Erfahrung<lb/> über die Träume von Paranoikern lag es mir damals nahe, allge<lb break="no"/>mein anzunehmen, die Paranoia dringe nicht in den Traum.<lb break="paragraph"/></p> <p>Der Zustand der Homosexualität war bei diesem Patienten<lb/> leicht zu überblicken. Er hatte keine Freundschaft und keine<lb/> sozialen Interessen gebildet, man mußte den Eindruck bekommen,<lb/> als ob erst der Wahn die weitere Entwicklung seiner Beziehungen<lb/> zum Manne übernommen hätte, wie um ein Stück des Versäumten<lb/> nachzuholen. Die geringe Bedeutung des Vaters in seiner Familie<lb/> und ein beschämendes homosexuelles Trauma in frühen Knaben<lb break="no"/>jahren hatten zusammengewirkt, um seine Homosexualität in die<lb/> Verdrängung zu treiben und ihr den Weg zur Sublimierung zu<lb/> verlegen. Seine ganze Jugendzeit war von einer starken Mutter<lb break="no"/>Bindung beherrscht. Unter vielen Söhnen war er der erklärte<lb/> Liebling der Mutter und entwickelte auf sie bezüglich eine starke<lb/> Eifersucht von normalem Typus. Als er später eine Ehewahl traf,<lb/> wesentlich unter der Herrschaft des Motivs, die Mutter reich zu<lb/> machen, äußerte sich sein Bedürfnis nach einer virginalen Mutter<lb/> in zwanghaften Zweifeln an der Virginität seiner Braut. Die ersten<lb/> Jahre seiner Ehe waren von Eifersucht frei. Er wurde dann seiner<lb/> Frau untreu und ging ein langdauerndes Verhältnis mit einer<lb/> anderen ein. Erst als er diese Liebesbeziehung, durch einen<lb/> bestimmten Verdacht geschreckt, aufgegeben hatte, brach bei ihm<lb/> eine Eifersucht vom zweiten, vom Projektionstypus, los, mit<lb/> welcher er die Vorwürfe wegen seiner Untreue beschwichtigen<lb/> konnte. Sie komplizierte sich bald durch das Hinzutreten der<lb/> homosexuellen Regungen, deren Objekt der Schwiegervater war,<lb/> zur vollen Eifersuchtsparanoia.<lb break="paragraph"/></p> <p>Mein zweiter Fall wäre wahrscheinlich ohne Analyse nicht<lb/> als Paranoia persecutoria klassifiziert worden, aber ich mußte den<lb/> jungen Mann als einen Kandidaten für diesen Krankheitsausgang <lb break="paragraph"/><pb n="8" xml:id="page__48194fb6-65ba-4119-bdde-40b050e3ee0d"/><fw type="pageNum">254</fw>auflassen. Es bestand bei ihm eine Ambivalenz im Verhältnis zum<lb/> Vater von ganz außerordentlicher Spannweite. Er war einerseits<lb/> der ausgesprochenste Rebell, der sich manifest in.allen Stücken<lb/> von den Wünschen und Idealen des Vaters weg entwickelt hatte,<lb/> andererseits in tieferer Schieht noch immer der unterwürfigste<lb/> Sohn, der nach dem Tode des Vaters sich in zärtlichem Schuld<lb break="no"/>bewußtsein den Genuß des Weibes versagte. Seine realen Beziehungen<lb/> zu Männern standen offenbar unter dem Zeichen des Mißtrauens;<lb/> mit seinem starken Intellekte wußte er diese Einstellung zu<lb/> rationalisieren und verstand es so einzurichten, daß er von<lb/> Bekannten und Freunden betrogen und ausgebeutet wurde. Was ich<lb/> Neues an ihm lernte, war, daß klassische Verfolgungsgedanken<lb/> vorhanden sein können, ohne Glauben und Anwert zu finden. Sie<lb/> blitzten während seiner Analyse gelegentlich auf, aber er legte ihnen<lb/> Keine Bedeutung; bei und bespöttelte sie regelmäßig. Dies mag in<lb/> vielen Fällen von Paranoia ähnlich vorkommen, und wenn eine solche<lb/> Erkrankung losbricht, halten wir vielleicht die geäußerten Wahnideen<lb/> für Neuproduktionen, während sie längst bestanden haben mögen.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Es scheint mir eine wichtige Einsicht, daß ein qualitatives<lb/> Moment, das Vorhandensein gewisser neurotischer Bildungen,<lb/> praktisch weniger bedeutet als das quantitative Moment, welchen<lb/> Grad von Aufmerksamkeit, richtiger, welches Maß von Besetzung<lb/> diese Gebilde an sich ziehen können. Die Erörterung unseres ersten<lb/> Falles, der Eifersuchtsparanoia, hatte uns zur gleichen Wert<lb break="no"/>schätzung des quantitativen Moments aufgefordert, indem sie uns<lb/> zeigte, daß dort die Abnormität wesentlich in der Überbesetzung<lb/> der Deutungen des fremden Unbewußten bestand. Aus der Analyse<lb/> der Hysterie kennen wir längst eine analoge Tatsache. Die patho<lb break="no"/>genen Phantasien, Abkömmlinge verdrängter Triebregungen, wer<lb break="no"/>den lange Zeit neben dem normalen Seelenleben geduldet und<lb/> wirken nicht eher pathogen, als bis sie aus einem Umschwung;<lb/> der Libidoökonomie eine Überbesetzung erhalten; erst dann bricht<lb/> der Konflikt los, der zur Symptombildung führt. Wir werden so<lb/> im Fortschritt unserer Erkenntnis immer mehr dazu gedrängt,<lb/> den <hi rendition="#smallcaps">ökonomischen</hi> Gesichtspunkt in den Vordergrund zu<lb/> rücken. Ich möchte auch die Rrage aufwerfen, ob das hier betonte<lb/> quantitative Moment nicht hinreicht, um die Phänomene zu decken,<lb/> für die <hi rendition="#smallcaps">Bleuler</hi> und andere neuerdings den Begriff der „Schaltung“<lb/> einführen wollen. Man müßte nur annehmen, daß eine Widerstands<lb break="no"/>Steigerung in einer Richtung des psychischen Ablaufs eine Über<lb break="no"/>besetzung eines anderen Weges und damit die Einschaltung des<lb break="no"/>selben in den Ablauf zur Folge hat.<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__640ba117-1c90-4128-a491-401dc58e94cf"/>
+            <fw type="pageNum">255</fw> <p>Ein lehrreicher Gegensatzzeigte sich bei meinen zwei Fällen<lb/> von Paranoia im Verhalten der Träumer. Während im ersten Fall<lb/> die Träume, wie, erwähnt, wahnfrei waren, produzierte der andere<lb/> Patient in großer Zahl Verfolgungsträume, die man als Vorläufer<lb/> oder Ersatzhildungen für die Wahnideen gleichen Inhalts ansehen<lb/> Kann. Das Verfolgende,. dem er sich nur mit großer Angst ent<lb break="no"/>ziehen konnte, war in der Regel ein starker Stier oder ein anderes<lb/> Symbol der Männlichkeit, das er manchmal noch im Traum selbst<lb/> als Vatervertretung erkannte. Einmal berichtete er einen sehr<lb/> charakteristischen paranoischen Übertragungstraum. Er sah, daß<lb/> ich mich in seiner Gegenwart rasierte, und merkte am Geruche,<lb/> daß ich dabei dieselbe Seife wie sein Vater gebrauchte. Das tat<lb/> ich, um ihn zur Vaterübertragung auf meine Person zu nötigen.<lb/> In der Wahl der geträumten Situation erwies sich unverkennbar<lb/> die Geringschätzung des Patienten für seine paranoischen Phanta<lb break="no"/>sion und sein Unglaube gegen sie, denn der tägliche Augen<lb break="no"/>schein konnte ihn belehren, daß ich überhaupt nicht in die Lage<lb/> komme, mich einer Rasierseife zu bedienen und also in diesem<lb/> Punkte der Vaterübertragung keinen Anhalt biete.<lb break="paragraph"/></p> <p>Der Vergleich der Träume bei unseren beiden Patienten<lb/> belehrt uns aber, daß unsere Fragestellung, ob die Paranoia (oder<lb/> eine andere Psychoneurose) auch in den Traum dringen könne,<lb/> nur auf einer unrichtigen Auffassung des Traumes beruht. Der<lb/> Traum unterscheidet sich vom Wachdenken darin, daß er Inhalte<lb/> (aus dem Bereich des Verdrängten) aufnehmen kann, die im Wach<lb break="no"/>denken nicht vorkommen dürfen. Davon abgesehen ist er nur eine<lb/> <hi rendition="#smallcaps">Form des Denkens</hi>, eine Umformung des vorbewußten Denk<lb break="no"/>Stoffes durch (die Traumarbeit und ihre Bedingungen). Auf das Ver<lb break="no"/>drängte ist unsere Terminologie der Neurosen nicht anwendbar,<lb/> es kann weder hysterisch, noch zwangsneurotisch, noch paranoisch<lb/> genannt werden. Dagesen kann der andere Anteil des Stoffes,<lb/> welcher der Traumbildung unterliegt, die vorbewußten Gedanken,<lb/> normal sein oder den Charakter irgend einer Neurose an sich<lb/> tragen. Die vorbewußten Gedanken mögen Ergebnisse all jener<lb/> pathogenen Prozesse sein, in denen wir das Wesen einer Neurose<lb/> erkennen. Es ist nicht einzusehen, warum nicht jede solche krank<lb break="no"/>hafte Idee die Umformung in einen Traum erfahren sollte, Ein<lb/> Traum kann also ohne weiteres einer hysterischen Phantasie,<lb/> einer Zwangsvorstellung, einer Wahnidee entsprechen, d. h. bei<lb/> seiner Deutung eine solche ergeben. In unserer Beobachtung an<lb/> zwei Paranoikern finden wir, daß der Traum des einen normal ist,<lb/> während sich der Mann im Anfall befindet, und daß der des anderen<lb break="paragraph"/><pb n="10" xml:id="page__c70f02d9-bef0-43da-bfa9-ade602d38cb0"/><fw type="pageNum">256</fw>einen paranoischen Inhalt hat, während der Mann noch über seine<lb/> Wahnideen spottet. Der Traum hat also in beiden Fällen auf<lb break="no"/>genommen, was im Wachleben derzeit zurückgedrängt war. Aber<lb/> auch das braucht nicht die Regel zu sein.<lb break="paragraph"/></p>
+         
+         
+            
+              <p><hi rendition="#em">C</hi>) <hi rendition="#smallcaps">Homosexualität</hi>. Die Anerkennung des organischen<lb/> Faktors der Homosexualität überhebt uns nicht der Verpflichtung,<lb/> die psychischen Vorgänge bei ihrer Entstehung zu studieren. Der<lb/> typische, bereits bei einer Unzahl von Fällen festgestellte Vorgang<lb/> besteht darin, daß der bis dahin intensiv an die Mutter fixierte<lb/> junge Mann einige Jahre nach abgelaufener Pubertät eine Wendung<lb/> vornimmt, sich selbst mit der Mutter identifiziert und nach Liebes<lb break="no"/>objekten ausschaut, in denen er sich selbst wiederfinden kann, die<lb/> er dann lieben möchte, wie die Mutter ihn geliebt hat. Als Merk<lb break="no"/>zeichen dieses Prozesses stellt sich gewöhnlich für viele Jahre<lb/> die Liebesbedingung her, daß die männlichen Objekte das Alter<lb/> haben müssen, in dem bei ihm die Umwandlung erfolgt ist. Wir<lb/> haben verschiedene Faktoren kennen gelernt, die wahrscheinlich<lb/> in wechselnder Stärke zu diesem Ergebnis beitragen. Zunächst die<lb/> Mutterfixierung, die den Übergang, zu einem anderen Weibobjekt<lb/> erschwert. Die Identifizierung mit der Mutter ist ein Ausgang<lb/> dieser Objektbindung und ermöglicht es gleichzeitig, diesem ersten<lb/> Objekt in gewissem Sinne treu zu bleiben, Sodann die Neigung<lb/> zur narzißtischen Objektwahl, die im allgemeinen näher liest und<lb/> leichter auszuführen ist, als die Wendung zum änderen Geschlecht.<lb/> Hinter diesem Moment verbirgt sich ein anderes von ganz beson<lb break="no"/>derer Stärke oder es fällt vielleicht mit ihm zusammen: die Hoch<lb break="no"/>schätzung des männlichen Organs und die Unfähigkeit, auf dessen<lb/> Vorhandensein beim Liebesobjekt zu verzichten. Die Geringschätzung<lb/> des Weibes, die Abneigung gegen dasselbe, ja der Abscheu vor<lb/> ihm, leiten sich in der Regel von der früh gemachten Entdeckung<lb/> ab, daß das Weib keinen Penis besitzt. Später haben wir noch als<lb/> mächtiges Motiv für die homosexuelle Objektwahl die Rücksicht<lb/> auf den Vater oder die Angst vor ihm kennen gelernt, da der<lb/> Verzicht auf das Weib die Bedeutung hat, daß man der Konkur<lb break="no"/>renz mit ihm (oder allen männlichen Personen, die für ihn ein<lb break="no"/>treten) ausweicht. Die beiden letzten. Motive, das Festhalten an<lb/> der Penisbedingung sowie das Ausweichen, können dem Kastrations<lb break="no"/>komplex zugezählt werden. Mutterbindung — Narzißmus —<lb/> Kastrationsangst, diese übrigens in keiner Weise spezifischen<lb/> Momente hatten wir bisher in der psychischen Ätiologie der<lb/> Homosexualität aufgefunden, und zu ihnen gesellten sich noch der<lb/> Einfluß der Verführung, welche eine frühzeitige Fixierung der<lb break="paragraph"/><pb n="11" xml:id="page__09007859-331c-4419-80a5-989ef4082286"/><fw type="pageNum">257</fw>Libido verschuldet, sowie der des organischen Faktors, der die<lb/> passive Rolle im Liebesleben begünstigt.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Wir haben aber niemals geglaubt, daß diese Analyse der Ent<lb break="no"/>stehung der Homosexualität vollständig ist. Ich kann heute auf<lb/> einen neuen Mechanismus hinweisen, der zur homosexuellen<lb/> Objektwahl führt, wenngleich ich nicht angeben kann, wie groß<lb/> seine Rolle bei der Gestaltung der extremen, der manifesten und<lb/> ausschließlichen Homosexualität anzuschlagen ist. Die Beobachtung.<lb/> machte mich auf mehrere Fälle aufmerksam, bei denen in früher<lb/> Kindheit besonders starker eifersüchtige Regungen aus dem Mutter<lb break="no"/>Komplex gegen Rivalen, meist ältere Brüder, aufgetreten waren.<lb/> Diese Eifersucht führte zu intensiv feindseligen und aggressiven<lb/> Einstellungen gegen die Geschwister, die sich bis zum Todes<lb break="no"/>wunsch steigern konnten, aber der Entwicklung nicht standhielten.<lb/> Unter den Einflüssen der Erziehung, gewiß auch infolge der an<lb break="no"/>haltenden Ohnmacht dieser Regungen, kam es zur Verdrängung<lb/> derselben und zu einer Gefühlsumwandlung, so daß die früheren<lb/> Rivalen nun die ersten homosexuellen Liebesobjekte wurden. Bin<lb/> solcher Ausgang der Mutterbindung zeigt mehrfache interessante<lb/> Beziehungen zu anderen uns bekannten Prozessen. Er ist zunächst<lb/> das volle Gegenstück zur Entwicklung der Paranoia persecutoria,<lb/> bei welcher die zuerst geliebten Personen zu den gehaßten Ver<lb break="no"/>folgern werden, während hier die gehaßten Rivalen sich in Liebes<lb break="no"/>objekte umwandeln. Er stellt sich ferner als eine Übertreibung<lb/> des Vorgangs dar, welcher nach meiner Anschauung zur indivi<lb break="no"/>duellen Genese der sozialen Triebe führt<hi rendition="#footnote-index">1</hi>. Hier wie dort sind<lb/> zunächst eifersüchtige und feindselige Regungen vorhanden, die es<lb/> nicht zur Befriedigung bringen können, und die zärtlichen wie die<lb/> sozialen Identifizierungsgefühle entstehen als Reaktionsbildungen<lb/> gegen die verdrängten Agressionsimpulse.<lb break="paragraph"/></p> <p>Dieser neue Mechanismus der homosexuellen Objektwahl, die<lb/> Entstehung aus überwundener Rivalität und verdrängter Aggres<lb break="no"/>sionsneigung, mengt sich in manchen Fällen den ums bekannten<lb/> typischen Bedingungen bei. Man erfährt nicht selten aus der<lb/> Lebensgeschichte Homosexueller, daß ihre Wendung eintrat, nach<lb break="no"/>dem die Mutter einen anderen Knaben gelobt und als Vorbild<lb/> angepriesen hatte, Dadurch wurde die Tendenz zur narzißtischen<lb/> Objektwahl gereizt, und nach einer kurzen Phase scharfer Eifer<lb break="no"/>sucht war der Rivale zum Liebesobjekt geworden. Sonst aber<lb/> sondert sich der neue Mechanismus dadurch ab, daß bei ihm die<lb break="paragraph"/><pb n="12" xml:id="page__bb4c9a43-5221-48e6-aafa-86eecf8771ea"/><fw type="pageNum">258</fw>Umwandlung in viel früheren Jahren vor sieh geht und die Mutter<lb break="no"/>identifizierung in den Hintergrund tritt, Auch führte er in den<lb/> von mir beobachteten Fällen nur zu homosexuellen Einstellungen,<lb/> welehe. die Heterosexualität nicht ausschlossen und keinen horror<lb/> feminae mit sich brachten.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Siehe Massenpsychologie und Ich-Analyse, 1921.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Es ist bekannt, daß eine ziemliche Anzahl homosexueller<lb/> Personen sich durch besondere Entwicklung der sozialen Trieb<lb break="no"/>regungen und durch Hingabe an gemeinnützige Interessenauszeichnet,<lb/> Man wäre versucht, dafür die theoretische Erklärung zu geben, daß<lb/> ein Mann, der in anderen Männern mögliche Liebesobjekte sieht,<lb/> sich gegen die Gemeinschaft der Männer anders benehmen muß,<lb/> als ein anderer, der genötigt ist, im Mann zunächst den Rivalen<lb/> beim Weibe zu erblicken. Dem steht nur die Erwägung entgegen,<lb/> daß es auch bei homosexueller Liebe Eifersucht und Rivalität gibt,<lb/> und daß die Gemeinschaft der Männer auch diese möglichen Rivalen<lb/> umschließt. Aber auch, wenn man von dieser spekulativen Begründung<lb/> absieht, kann die Tatsache für den Zusammenhang von Homo<lb break="no"/>sexualität und sozialem Empfinden nicht gleichgültig sein, daß die<lb/> homosexuelle Objektwahl nicht selten aus frühzeitiger Überwindung<lb/> der Rivalität mit dem Manne hervorgeht.<lb break="paragraph"/></p> <p>In der psychoanalytischen Betrachtung sind wir gewöhnt<lb/> die sozialen Gefühle als Sublimierungen homosexueller Objektein<lb break="no"/>stellungen aufzufassen. Bei den sozial gesinnten Homosexuellen<lb/> wäre die Ablösung der sozialen Gefühle von der Objektwahl nicht<lb/> voll geglückt.<lb break="paragraph"/></p>
+         
+         
+            <pb n="13" xml:id="page__b3016ff3-100c-4d4e-ab7c-292accd68077"/>
+            <p>Inhalt.<lb break="paragraph"/></p> <p>Originalarboien,<lb break="paragraph"/></p> <p>Prof. Dr. Sigm. Freud: Über \ einige neurotische Mechanismen bei:<lb/> Eifersucht, Paranoia und Homosexualität .<lb/> Dr, Ernest Jones (London): Die Theorie der Symbolik (IV. Funktionale<lb/> : Symbolik)<lb/> - Dr. Felix Deutsch (Wien): "Psychoanalyse und Organkrankheiten<lb/> Dr.C.P. Oberndorf (New York):-Die Rolle einer organischen Über<lb break="no"/>wertigkeit bei einer Neurose<lb/> Dr.F.Boehm ee Beiträge zur Psychologiad. Homosexualität u.<lb break="paragraph"/></p> <p>Mittöilungen.<lb break="paragraph"/></p> <p>, Prof. Dr. Sigm. Freud: Nachschrift zur Analyse des rleihel Hans<lb break="paragraph"/></p> <p>Dr. Paul Schilder (Wien): Zur Pathologie des Ichideals. . . .<lb break="paragraph"/></p> <p>Dr. 8. Ferenczi (Budapest): Soziale Gesichtspunkte bei Psychoanalyse<lb break="paragraph"/></p> <p>Dr. E. Jones: Bemerkungen zu Abrahams „Äußerungsformen des<lb/> weiblichen Kastrationskomplexes“*<lb break="paragraph"/></p> <p>Dr. M.J. Eisler (Budapest): Kleine Nachträge zur Studie BE:<lb/> formen des weiblichen Kastrationskomplexes“<lb break="paragraph"/></p> <p>Dr, W. Reich (Wien): Über: Spezifität der Onanieformen<lb break="paragraph"/></p> <p>Dr. G. Bychowski (Wien): Eine Gesichtsillusion als Ausdruck der<lb/> ambivalenten Übertragung Yale<lb break="paragraph"/></p> <p>Dr. R. de Saussure ander: Bemerkungen zu einem Fall von<lb/> Selbstverstümmlung<lb break="paragraph"/></p> <p>Dr. S. Feldmann (Budapest: Physik in der a ARE<lb break="paragraph"/></p> <p>Dr. S. Spielrein (Genf): Briefmarkentraum . . .<lb break="paragraph"/></p> <p>Dr. M. J. Eisler: Geburtstraum eines fünfjährigen, Knaben . Se<lb break="paragraph"/></p> <p>Dr. W. Fockschaner (Wien): Ein Geburtstraum in der Form eines<lb/> Flug- und Falltraumes . .<lb break="paragraph"/></p> <p>Dr. Karl’ Abraham (Berlin): Über Fehlleistungen mit überkompen<lb break="no"/>sierender Tendenz<lb break="paragraph"/></p> <p>,Dr. N. Ossipow,(dzt. Prag): Psychoanalyse und Aberglaube .'...<lb break="paragraph"/></p> <p>Dr. U. Vollrath (Teupitz): Die Fehlhandlung als unbeabsichtigte<lb/> Bestätigung der Diagnose. . . 2». 2 ma. er ea ern nn<lb break="paragraph"/></p> <p>Dr. K.. Abraham: Die Fehlleistung eines Achtzigjährigen<lb break="paragraph"/></p> <p>Herbert Silberer (Wien): Tendenziöse Druckfehler<lb break="paragraph"/></p> <p>— Zur Verdichtungstechnik<lb break="paragraph"/></p> <p>Kritiken und Referate.<lb break="paragraph"/></p> <p>Dr. Karl Abraham: Klinische Beiräge z zur Psychoanalyse .(Ferenezi)<lb/> Dr. Stephan Hollös und Dr. S. Ferenezi: Zur Psychoanalyse der<lb/> paralytischen -Geistesstörung . . (Nunberg)<lb/> J: Varendonek: Über das vorbewußte phantasierende Denken<lb/> (Angela Hubermann)<lb/> Dr. H. Rohrschach: Psychodiagnostik (J. €. Flügel)<lb/> Dr. Vera Strasser: Psychologie der Zusammenhänge en<lb/> : lum)<lb/> Dr. W. Stemmer: Über Psychodiagnostik und "Psychotherapie in<lb/> r der Frauenheilkunde (Dr. E. H.)<lb/> Dr. Benno Liegner: Die SUR ne in. der Frauen<lb break="no"/>heilkunde . . ... (Feldmann)<lb/> Dr. W. Reich: Der Koitus und die Geschlechter. ..(Autoreferat)<lb/> "W. M. Wheeler: On Instinets . . . . (Brun)<lb/> Dr, David Forsyth: The Technique of Psycho-Analysis . . se &gt;<lb/> ‘Girindrashekar Bosen: Concept of Repression. . . . er N<lb/> R. H. Hingley: Psycho-Analysis<lb/> Isidor H: Coriat: What is Psycho-Analysis?. . . .<lb/> Dr. J-A. Jackson and H.M. Salisbury: Outwitting our Nerves (E. J.)<lb/> T. W. Mitchell: The Psychology of Medieine. .. ....(E4)<lb break="paragraph"/></p>
+         
+         
+            <pb n="14" xml:id="page__eba61837-164f-46df-b046-4a57a90202b6"/>
+            <p>W. A: White: Foundation of Psyehiatiy ..... ......(E.J)<lb break="paragraph"/></p> <p>Joel Rinaldo: Psycho-Analysis of the „Reformer* ... ...(E. J.)<lb/> AB : Corveth Read: The origin of man and "of his superstilions (Flügel)<lb/> BE K. Menzies: Autoerolie Phenomena in Adolescence . „(E. J.<lb break="paragraph"/></p> <p>George H. Green: Psycho-Analysis in the Class Room (Barbara Low)<lb/> ,Dr. Raymond. de Saussure: La Me6thode Psychoanalytique<lb break="paragraph"/></p> <p>(Ferenczi)<lb/> W.Boven: La psychologie du reve d’apr&amp;s Freud<lb/> Ch. Baudoin: Eiudes de Psychoanalyse... .. . EEE<lb/> Ed. Clapar&amp;de: Psychölogie de l’enfant ... 2 .2.....%<lb break="paragraph"/></p> <p>L. Schnyder: Les tendances actuelles de la psychotherapie . . .<lb/> M. Deat: Interpretation du rhythme du coeur dans certains r&amp;ves .<lb/> Jean Piaget: Essai sur quelques aspects du developpement de la<lb break="paragraph"/></p> <p>notion de partie chez l’enfant .... „2.2 Zune en<lb break="paragraph"/></p> <p>Dr. J; Capgras: „Autobiographie d’un pervers Sroktque? ?<lb/> Archives de Psychologie BET RES ER REN IE Are<lb/> L’annee psychologique. Tome XXI ........ (Säussüre)<lb/> Honorio ,F. Delgado (Lima): ne negacion de la-padernidad como<lb/> sintoma psieosieo . . 2 2. 2 nennen (Abraham)<lb break="paragraph"/></p> <p>Dr, E. Weiß (Trieste): Aleuni concetti fondamentali de la Psieo<lb break="no"/>EUER SER RE een ee (Abraham)<lb break="paragraph"/></p> <p>Zur psychoanalytischen Bewegung... 2... 2... .2..2..20%<lb break="paragraph"/></p> <p>KorrespondenzblattderInternat. Psychoanalytischen Vereinigung<lb/> Mitteilungen des Internationalen Psychoanalytischen Verlages 395<lb break="paragraph"/></p> <p>Alle für die Redaktion der „Internationalen Zeitschrift für Psycho<lb break="no"/>are bestimmten Zuschriften und Sendungen sind zu richten an<lb/> * Dr. OTTO RANK, Wien, IL, Grünangergasse 3-5.<lb/> Manuskripte sind vollkommen druckfertig "einzusenden.<lb break="paragraph"/></p> <p>Von den Originalarbeiten "erhalten die Mitarbeiter je 25 Separat<lb break="no"/>abzüge gratis geliefert.<lb break="paragraph"/></p> <p>Nachdruck sämtlicher Beiträge verboten.<lb break="paragraph"/></p> <p>Übersetzungsrecht in alle Sprachen ,vorbehalten.<lb/> Copyright 1922 by „Internationaler Psychoanalytischer Verlag, Ges. m. b. H.*, Wien.<lb break="paragraph"/></p> <p>INTERNATI o NALER PSYCHOANALYTISCHER VER LAG<lb/> LEIPZIG, Hospitalstraße10 — WIEN, VIL, Andreasgasse3<lb break="paragraph"/></p> <p>. Druck der Gesellschaft für Graphische’ Industrie, Wien, III: Rüdengasse 11.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1" xml:id="page__74ec7a3a-b9c1-4e2a-91cc-d173996a7e56"/>
+            <p>Internationale Zeitschrift<lb/> für Psychoanalyse<lb break="paragraph"/></p> <p>Herausgegeben von<lb break="paragraph"/></p> <p>Prof. Dr. Sigm. Freud<lb break="paragraph"/></p> <p>Unter Mitwirkung von<lb break="paragraph"/></p> <p>Dr. Karl Abraham Dr. S. Ferenczi Dr. Jan van Emden<lb break="paragraph"/></p> <p>Berlin Budapest Haag<lb break="paragraph"/></p> <p>Dr. E. Hitschmann Dr. Ernest Jones Dr. E. Oberholzer<lb break="paragraph"/></p> <p>Wien London Zürich<lb break="paragraph"/></p> <p>Redigiert von<lb break="paragraph"/></p> <p>Dr. Otto Rank<lb break="paragraph"/></p> <p>VIII. Jahrgang 1922 Heft 3<lb break="paragraph"/></p> <p>Internationaler Psychoanalytischer Verlag<lb/> Leipzig—Wien—Zürich—London<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__a5d84ac1-9662-4049-888b-509113881526"/>
+         
+      </div></body>
+   </text>
+</TEI>

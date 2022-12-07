@@ -1,0 +1,303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-003; 1923c [1922]): Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+            <title type="manifestation" level="a">Bemerkungen zur Theorie und Praxis der Traumdeutung (1923-003/1931)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. SL</p>
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-003-1925">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>318 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-003-1923.1">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+<extent>11 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">9</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-003-1931" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Kleinoktavausgabe</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short">Kl. 8° [4]</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1931-01-02">1931-01-02</date>
+                     </imprint>
+                     <extent>368 Seiten</extent>
+                     <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__a6c4b8d4-9949-479b-b134-fe837c2218d6">
+                        <title>Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-003/1931</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/bemerkungen-zur-theorie-und-praxis-der-traumdeutung/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/a6c4b8d4-9949-479b-b134-fe837c2218d6</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__5cb117fa-f5f1-4ac9-bb03-0cf7ab40ca24">
+                              <title>Freud, Sigmund  (1923-003; 1923c [1922]): Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/bemerkungen-zur-theorie-und-praxis-der-traumdeutung</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/5cb117fa-f5f1-4ac9-bb03-0cf7ab40ca24</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Freud_1931_Kleine_Schrifte_zur_Sexualtheorie_k</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__d7bef74c-0778-411c-8ed2-4274f1d54e0c"/>
+            <fw type="pageNum">354</fw> <p rendition="#level_2">BEMERKUNGEN ZUR THEORIE UND<lb/> PRAXIS DER TRAUMDEUTUNG</p><p>(1923)<lb break="paragraph"/></p> <p>Der zufällige Umstand, daß die letzten Auflagen der<lb/> „Traumdeutung“ durch Plattendruck hergestellt wurden, ver<lb break="no"/>anlaßt mich, nachstehende Bemerkungen selbständig zu machen,<lb break="paragraph"/><pb n="2" xml:id="page__4c14b27a-f225-4c79-9dd4-efe73f1ca84c"/><fw type="pageNum">355</fw>die sonst als Abänderungen oder Einschaltungen im Text<lb/> untergekommen wären.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">I</p><p>Bei der Deutung eines Traumes in der Analyse hat man<lb/> die Wahl zwisd1en versehiedenen technischen Verfahren.<lb break="paragraph"/></p> <p>Man kann <hi rendition="#em">a)</hi> chronologisch vorgehen und den Träumer<lb/> seine Einfälle zu den Traumelementen in der Reihenfolge vor<lb break="no"/>bringen lassen, welche diese Elemente in der Erzählung des<lb/> Traumes einhalten. Dies ist das ursprüngliche, klassische Ver<lb break="no"/>halten, welches ich noch immer für das beste halte, wenn man<lb/> seine eigenen Träume analysiert.<lb break="paragraph"/></p> <p>Oder man kann <hi rendition="#em">b)</hi> die Deutungsarbeit an einem einzelnen<lb/> ausgezeichneten Element des Traumes ansetzen lassen, das man<lb/> mitten aus dem Traum herausgreift, zum Beispiel an dem<lb/> auffälligsten Stück desselben oder an dem, welches die größte<lb/> Deutlichkeit oder sinnliche Intensität besitzt, oder etwa an<lb/> eine im Traum enthaltene Rede anknüpfen, von der man<lb/> erwartet, daß sie zur Erinnerung an eine Rede aus dem Wach<lb break="no"/>leben führen wird.<lb break="paragraph"/></p> <p>Man kann <hi rendition="#em">c)</hi> überhaupt zunächst vom manifesten Inhalt<lb/> absehen und dafür an den Träumer die Frage stellen, welche<lb/> Ereignisse des letzten Tages sich in seiner Assoziation zum<lb/> erzählten Traum gesellen.<lb break="paragraph"/></p> <p>Endlich kann man <hi rendition="#em">d)</hi>, wenn der Träumer bereits mit der<lb/> Technik der Deutung vertraut ist, auf jede Vorschrift ver<lb break="no"/>lichten und es ihm anheimstellen, mit welchen Einfällen zum<lb/> Traum er beginnen will. Ich kann nicht behaupten, daß die<lb/> eine oder die andere dieser Techniken die vorzüglichere ist.<lb/> und allgemein bessere Ergebnisse liefert.<lb break="paragraph"/></p> <p rendition="#level_3">II</p><p>Ungleich bedeutsamer ist der Umstand, ob die Deutungs<lb break="no"/>arbeit unter <hi rendition="#smallcaps">hohem</hi> oder <hi rendition="#smallcaps">niedrigem Widerstands-</hi><lb break="paragraph"/><pb n="3" xml:id="page__db9e89cb-2310-4527-876f-f39cdef5e8bb"/><fw type="pageNum">356</fw><hi rendition="#smallcaps">druck</hi> vor sich geht, worüber der Analytiker ja niemals<lb/> lange im Zweifel bleibt. Bei hohem Druck bringt man es<lb/> vielleicht dazu, zu erfahren, von welchen Dingen der Traum<lb/> handelt, aber man kann nicht erraten, was er über diese Dinge<lb/> aussagt. Es ist, wie wenn man einem entfernten oder leise<lb/> geführten Gespräch zuhören würde. Man sagt sich dann, daß<lb/> von einem Zusammenarbeiten rnit dem Träumer nicht gut die<lb/> Rede sein kann, beschließt, sich nicht viel zu plagen und ihm<lb/> nicht viel zu helfen, und begnügt sich damit, ihm einige<lb/> Symbolübersetzungen, die man für wahrscheinlich hält, vor<lb break="no"/>zuschlagen.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Die Mehrzahl der Träume in schwierigen Analysen ist von<lb/> solcher Art, so daß man aus ihnen nicht viel über Natur<lb/> und Mechanismus der Traumbildung lernen kann, am wenig<lb break="no"/>sten aber Auskünfte zu der beliebten Frage erhalten wird,<lb/> wo denn die Wunsdlerfüllung des Traumes steckt.<lb break="paragraph"/></p> <p>Bei ganz extrem hohem Widerstandsdruck ereignet sich<lb/> das Phänomen, daß die Assoziation des Träumen in die<lb/> Breite, anstatt in die Tiefe geht. An Stelle der gewünschten<lb/> Assoziationen zu dem erzählten Traum kommen immer neue<lb/> Traumstücke zum Vorschein, die selbst assoziationslos bleiben.<lb/> Nur wenn sich der Widerstand in mäßigen Grenzen hält,<lb/> kommt das bekannte Bild der Deutungsarbeit zustande, daß<lb/> die Assoziationen des Träumers von den manifesten Ele<lb break="no"/>menten aus zunächst weit <hi rendition="#smallcaps">divergieren</hi>, so daß eine<lb/> große Anzahl von Themen und Vorstellungskreisen angerührt<lb/> werden, bis dann eine zweite Reihe von Assoziationen von<lb/> hier aus rasch zu den gesuchten Traumgedanken <hi rendition="#smallcaps">kon<lb break="no"/>vergiert</hi>.<lb break="paragraph"/></p> <p>Dann wird auch das Zusammenarbeiten des Analytikers mit<lb/> dem Träumer möglich; bei hohem Widerstandsdruck wäre es<lb/> nicht einmal zweckmäßig.<lb break="paragraph"/></p> <p>Eine Anzahl von Träumen, die während der Analysen vor<lb break="no"/><pb n="4" xml:id="page__7289454b-beb4-4698-8145-c3b569c7a0fd"/><fw type="pageNum">357</fw>fallen, sind unübersetzbar, wenngleich sie nicht gerade den<lb/> Widerstand zur Schau tragen. Sie stellen freie Bearbeitungen<lb/> der zugrunde liegenden latenten Traumgedanken vor und<lb/> sind wohlgelungenen, künstlerisch überarbeiteten Dichtwerken<lb/> vergleichbar, in denen man die Grundmotive zwar noch kennt<lb break="no"/>lich, aber in beliebiger Durchrüttlung und Umwandlung<lb/> verwendet findet. Solche Träume dienen in der Kur als Ein<lb break="no"/>leitung zu Gedanken und Erinnerungen des Träumers, ohne<lb/> daß ihr Inhalt selbst in Betracht käme.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">III</p><p>Man kann Träume <hi rendition="#smallcaps">von oben</hi> und Träume <hi rendition="#smallcaps">von<lb/> unten</hi> unterscheiden, wenn man diesen Unterschied nicht<lb/> zu scharf fassen will. Träume von unten sind solche, die durch<lb/> die Stärke eines unbewußten (verdrängten) Wunsches an<lb break="no"/>geregt werden, der sich eine Vertretung in irgendwelchen<lb/> Tagesresten verschafft hat. Sie entsprechen Einbrüchen des<lb/> Verdrängten in das Wachleben. Träume von oben sind<lb/> Tagesgedanken oder Tagesabsichten gleichzustellen, denen es<lb/> gelungen ist, sich nächtlicherweile eine Verstärkung aus dem<lb/> vom Ich abgesprengten Verdrängten zu holen. Die Analyse<lb/> sieht dann in der Regel von diesem unbewußten Helfer ab<lb/> und vollzieht die Einreihung der latenten Traumgedanken in<lb/> das Gefüge des Wachdenkens. Eine Abänderung der Theorie<lb/> des Traumes wird durch diese Unterscheidung nicht er<lb break="no"/>forderlich.<lb break="paragraph"/></p> <p rendition="#level_3">IV</p><p>In manchen Analysen oder während gewisser Strecken einer<lb/> Analyse zeigt sich eine Sonderung des Traumlebens vom<lb/> Wachleben, ähnlich wie die Absonderung der Phantasietätig<lb break="no"/>keit, die eine <hi rendition="#em">continued story</hi> (einen Tagtraumroman) unter<lb break="no"/>hält, vom Wachdenken. Es knüpft dann ein Traum an den<lb/> anderen an, nimmt ein Element zum Mittelpunkt, welches im<lb break="paragraph"/><pb n="5" xml:id="page__47a3327e-6694-4f40-a4d3-393fb424171d"/><fw type="pageNum">358</fw>vorhergehenden beiläuﬁg gestreift wurde, u, dgl. Viel häuﬁger<lb/> trifft aber der andere Fall zu, daß die Träume nicht an<lb break="no"/>einanderhängen, sondern sich in aufeinanderfolgende Stücke<lb/> des Wachdenkens einschalten.<lb break="paragraph"/></p>
+         
+         
+            
+              <fw type="pageNum">V</fw> <p>Die Deutung eines Traumes zerfällt in zwei Phasen, die<lb/> Übersetzung und die Beurteilung oder Verwertung desselben.<lb/> Während der ersten soll man sich durch keinerlei Rücksicht<lb/> auf die zweite beeinflussen lassen. Es ist, wie wenn man ein<lb/> Kapitel eines fremdsprachigen Autors vor sich hat, zum Bei<lb break="no"/>spiel des <hi rendition="#smallcaps">Livius</hi>. Zuerst will man wissen, was <hi rendition="#smallcaps">Livius</hi><lb/> in diesem Kapitel erzählt, erst dann tritt die Diskussion ein,<lb/> ob das Gelesene ein Geschichtsbericht ist oder eine Sage oder<lb/> eine Abschweifung des Autors.<lb break="paragraph"/></p> <p>Welche Schlüsse darf man aber aus einem richtig über<lb break="no"/>setzten Traum ziehen? Ich habe den Eindrucks, daß die ana<lb break="no"/>lytische Praxis hierin Irrtümer und Überschätzungen nicht<lb/> immer vermieden hat, und zwar zum Teil aus übergroßem<lb/> Respekt vor dem „geheimnisvollen Unbewußten“.<lb break="paragraph"/></p> <p>Man vergißt zu leicht daran, daß ein Traum zumeist nur<lb/> ein Gedanke ist wie ein anderer, ermöglicht durch den Nach<lb break="no"/>laß der Zensur und die unbewußte Verstärkung und entstellt<lb/> durch die Einwirkung der Zensur und die unbewußte Be<lb break="no"/>arbeitung.<lb break="paragraph"/></p> <p>Greifen wir das Beispiel der sogenannten Genesungsträume<lb/> heraus. Wenn ein Patient einen solchen Traum gehabt hat, in<lb/> dem er sich den Einschränkungen der Neurose zu entziehen<lb/> scheint, zum Beispiel eine Phobie überwindet oder eine<lb/> Gefühlsbinduug aufgibt, so sind wir geneigt zu glauben, er<lb/> habe einen großen Fortschritt gemacht, sei bereit, sich in eine<lb/> neue lebenslange zu fügen, beginne mit seiner Gesundheit zu<lb/> rechnen usw. Das mag oftmals richtig sein, aber ebensooft<lb break="paragraph"/><pb n="6" xml:id="page__44d67d75-b969-4b27-ab16-54d6b212956d"/><fw type="pageNum">359</fw>haben solche Genesungsträume nur den Wert von Bequem<lb break="no"/>lichkeitsträumen, sie bedeuten den Wunsch, endlich gesund zu<lb/> sein, um sich ein weiteres Stück der analytischen Arbeit, das<lb/> sie als hevorstehend fühlen, zu ersparen. In solchem Sinn er<lb break="no"/>eignen sich Genesungsträume zum Beispiel recht häufig, wenn<lb/> der Patient in eine neue, ihm peinliche Phase der Übertragung<lb/> eintreten soll. Er benimmt sich dann ganz ähnlich wie manche<lb/> Neurotiker, die sieh nach wenigen Stunden Analyse für geheilt<lb/> erklären, weil sie allem Unangenehmen entgehen wollen, das<lb/> in der Analyse noch zur Sprache kommen soll. Auch die<lb/> Kriegsneurotiker, die auf ihre Symptome verziehteten, weil<lb/> ihnen die Therapie der Militärärzte das Kranksein und un<lb break="no"/>behaglicher zu machen verstand, als sie den Dienst an der<lb/> Front gefunden hatten, sind denselben ökonomischen Bedin<lb break="no"/>gungen gefolgt, und die Heilungen haben sich in beiden Fällen<lb/> nicht haltbar erwiesen.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">VI</p><p>Es ist gar nicht so leicht, allgemeine Entscheidungen über<lb/> den Wert richtig übersetzter Träume zu fällen. Wenn beim<lb/> Patienten ein Ambivalenzkonflikt besteht, so bedeutet ein<lb/> feindseliger Gedanke, der in ihm auftaucht, gewiß nicht eine<lb/> dauernde Überwindung der zärtlichen Regung, also eine Ent<lb break="no"/>scheidung des Konflikts, und ebensowenig hat ein Traum vom<lb/> gleidien feindseligen Inhalt diese Bedeutung, Während eines<lb/> solchen Ambivalenzkonflikts bringt oft jede Nacht zwei<lb/> Träume, von denen jeder eine andere Stellung nimmt. Der<lb/> Fortschritt besteht dann darin, daß eine gründliche Isolierung<lb/> der beiden kontrastierenden Regungen gelungen ist und jede<lb/> von ihnen mit Hilfe der unbewußten Verstärkungen bis zu<lb/> ihrem Extrem verfolgt und eingesehen werden kann. Mit<lb break="no"/>unter ist der eine der beiden ambivalenten Träume vergessen<lb/> werden, man darf sich dann nicht täuschen lassen und an<lb break="no"/><pb n="7" xml:id="page__36a565de-08a9-4e8f-a0c7-cfc5a4665db4"/><fw type="pageNum">360</fw>nehmen, daß nun die Entscheidung zugunsten der einen Seite<lb/> gefallen ist. Das Vergessen des einen Traumes zeigt allerdings,<lb/> daß für den Augenblick die eine Richtung die Oberhand hat,<lb/> aber das gilt nur für den einen Tag und kann sich ändern.<lb/> Die nächste Nacht bringt vielleicht die entgegengesetzte Äuße<lb break="no"/>rung in den Vordergrund. Wie der Konﬂikt wirklich steht.<lb/> kann nur durch die Berücksichtigung aller anderen Kund<lb break="no"/>gebungen, auch des Wachlebens, erraten werden.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">VII</p><p>Mit der Frage nach der Wertung der Träume hängt die<lb/> andere nach ihrer Beeinflußbarkeit durch ärztliche „Sug<lb break="no"/>gestion“ innig zusammen. Der Analytiker wird vielleicht zu<lb break="no"/>erst erschrecken, wenn er an diese Möglichkeit gemahnt wird;<lb/> bei näherer Überlegung wird dieser Schreck gewiß der Ein<lb break="no"/>sicht weichen, die Beeinflussung der Träume des Patienten sei<lb/> für den Analytiker nicht mehr Mißgeschick oder Schande als<lb/> die Lenkung seiner bewußten Gedanken.<lb break="paragraph"/></p> <p>Daß der manifeste Inhalt der Träume durch die analytische<lb/> Kur beinﬂußt wird, braud1t nicht erst bewiesen zu werden.<lb/> Das folgt ja schon aus der Einsicht, daß der Traum aus Wach<lb break="no"/>leben anknüpft und Anregungen desselben verarbeitet. Was<lb/> in der analytischen Kur vergeht, gehört natürlich auch zu den<lb/> Eindrücken des Wachlebens und bald zu den stärksten des<lb break="no"/>selben. Es ist also kein Wunder, daß der Patient von Dingen<lb/> träumt, die der Arzt mit ihm besprochen und deren Erwartung<lb/> er in ihm geweckt hat. Nicht mehr Wunder jedenfalls, als<lb/> in der bekannten Tatsache der „experimentellen“ Träume ent<lb break="no"/>halten ist.<lb break="paragraph"/></p> <p>Das Interesse setzt sich nun dahin fort, ob auch die durch<lb/> Deutung zu ernierenden latenten Traumgedanken vom Ana<lb break="no"/>lytiker beeinﬂußt, suggeriert, werden können. Die Antwort<lb/> darauf muß wiederum lauten: Selbstverständlich ja, denn ein<lb break="paragraph"/><pb n="8" xml:id="page__591f9615-0492-4aa0-aae4-9bd8f1b7f83e"/><fw type="pageNum">361</fw>Anteil dieser latenten Traumgedanken entspricht vorbewußten,<lb/> durchaus bewußtseinsfähigen Gedankenbildungen, mit denen<lb/> der Träumer eventuell auch im Wachen auf die Anregungen<lb/> des Arztes hätte reagieren können, mögen die Erwiderungen<lb/> des Analysierten nun diesen Anregungen gleichgerichtet sein<lb/> oder ihnen Widerstreben. Ersetzt man den Traum durch die<lb/> in ihm enthaltenen Traumgedanken, so fällt eben die Frage,<lb/> wieweit man Träume suggerieren kann, mit der allgemeineren,<lb/> inwieweit der Patient in der Analyse der Suggestion zugäng<lb break="no"/>lich ist, zusammen.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Auf den Mechanismus der Traumbildung selbst, auf die<lb/> eigentliche Traumarbeit gewinnt man nie Einﬂuß; daran darf<lb/> man festhalten.<lb break="paragraph"/></p> <p>Außer dem besprochenen Anteil der vorbewußten Traum<lb break="no"/>gedanken enthält jeder richtige Traum Hinweise auf die ver<lb break="no"/>drängten Wunschregungen, denen er seine Bildungsmöglichkeit<lb/> verdankt. Der Zweifler wird zu diesen sagen, sie erscheinen<lb/> im Traume, weil der Träumer weiß, daß er sie bringen soll,<lb/> daß sie vom Analytiker erwartet werden. Der Analytiker<lb/> selbst wird mit gutem Recht anders denken.<lb break="paragraph"/></p> <p>Wenn der Traum Situationen bringt, die auf Szenen aus<lb/> der Vergangenheit des Träumers gedeutet werden können,<lb/> scheint die Frage besonders bedeutsam, ob auch an diesen<lb/> Trauminhalten der ärztliche Einﬂuß beteiligt sein kann. Am<lb/> dringendsten wird diese Frage bei den sogenannten <hi rendition="#smallcaps">bestä<lb break="no"/>tigenden</hi>, der Analyse nachhinkenden Träumen. Bei<lb/> manchen Patienten bekommt man keine anderen. Sie repro<lb break="no"/>duzieren die vergessenen Erlebnisse ihrer Kindheit erst, nach<lb break="no"/>dem man dieselben aus Symptomen, Einfällen und An<lb break="no"/>deutungen konstruiert und ihnen dies mitgeteilt hat. Das gibt<lb/> dann die bestätigenden Träume, gegen welche aber der<lb/> Zweifel sagt, sie seien ganz ohne Beweiskraft, da sie auf die<lb/> Anregung des Arztes hin phantasiert sein mögen, anstatt aus<lb break="paragraph"/><pb n="9" xml:id="page__f87de6a9-2f4f-4b8d-bf41-3dc033408cd6"/><fw type="pageNum">362</fw>dem Unbewußten des Träumen ans Licht gefördert zu sein.<lb/> Ausweichen kann man in der Analyse dieser mehrdeutigen<lb/> Situation nicht, denn wenn man bei diesen Patienten nicht<lb/> deutet, konstruiert und mitteilt, ﬁndet man nie den Zugang<lb/> zu dem bei ihnen Verdrängten.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Die Sachlage gestaltet sich günstig, wenn sich an die Analyse<lb/> eines solchen nachhinkenden, bestätigenden Traumes un<lb break="no"/>mittelbar Erinnerungsgefühle für das bisher Vergessene<lb/> knüpfen.<lb break="paragraph"/></p> <p>Der Skeptiker hat dann den Ausweg, zu sagen, es seien<lb/> Erinnerungstäuschungen. Meist sind auch solche Erinnerungs<lb break="no"/>gefühle nicht vorhanden. Das Verdrängte wird nur stückweise<lb/> durchgelassen, und jede Unvollständigkeit hemmt oder ver<lb break="no"/>zögert die Bildung einer Überzeugung. Auch kann es sich um<lb/> die Reproduktion nicht einer wirklichen, vergessenen Be<lb break="no"/>gebenheit, sondern um die Förderung einer unbewußten Phan<lb break="no"/>tasie handeln, für welche ein Erinnerungsgefühl niemals zu<lb/> erwarten ist, aber irgend einmal ein Gefühl subjektiver Über<lb break="no"/>zeugung möglich bleibt.<lb break="paragraph"/></p> <p>Können also die Bestätigungsträume wirklich Erfolge der<lb/> Suggestion, also Gefälligkeitsträume sein? Die Patienten,<lb/> welche nur Bestätigungsträume bringen, sind dieselben, bei<lb/> denen der Zweifel die Rolle des hauptsächlichen Widerstandes<lb/> spielt. Man macht nid1t den Versuch, diesen Zweifel durch<lb/> Autorität zu überschreien oder ihn mit Argumenten zu er<lb break="no"/>schlagen. Er muß bestehen bleiben, bis er im weiteren Fort<lb break="no"/>gang der Analyse zur Erledigung kommt. Auch der Analytiker<lb/> darf im einzelnen Falle einen solchen Zweifel festhalten. Was<lb/> ihn endlich sicher macht, ist gerade die Komplikation der ihm<lb/> gestellten Aufgabe, die der Lösung eines der „Puzzles“ ge<lb break="no"/>nannten Kinderspiele vergleichbar ist. Dort ist eine farbige<lb/> Zeichnung, die auf ein Holzbrettchen geklebt ist und genau<lb/> in einen Holzrahmen paßt, in viele Stücke zerschnitten<lb break="paragraph"/><pb n="10" xml:id="page__c0b64557-4333-4d3f-8b19-e09b130df46d"/><fw type="pageNum">363</fw>werden, die von den unregelmäßigsten krummen Linien be<lb break="no"/>grenzt werden. Gelingt es, den unordentlichen Haufen von<lb/> Holzplättchen, deren jedes ein unverständliches Stück Zeich<lb break="no"/>nung trägt, so zu ordnen, daß die Zeichnung sinnvoll wird,<lb/> daß nirgends eine Lücke zwischen den Fugen bleibt, und daß<lb/> das Ganze den Rahmen ausfällt, sind alle diese Bedingungen<lb/> erfüllt, so weiß man, daß man die Lösung des Puzzle gefunden<lb/> hat und daß es keine andere gibt.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Ein solcher Vergleich kann natürlich dem Analysierten<lb/> während der unvollendeten analytischen Arbeit nichts be<lb break="no"/>deuten. Ich erinnere mich hier an eine Diskussion, die ich mit<lb/> einem Patienten zu führen hatte, dessen außerordentliche<lb/> Ambivalenzeinstellung sich im stärksten zwanghaften Zweifel<lb/> äußerte. Er bestritt die Deutungen seiner Träume nicht und<lb/> war von deren Übereinstimmung mit den von mir geäußerten<lb/> Mutmaßungen sehr ergriffen. Aber er fragte, ob diese be<lb break="no"/>stätigenden Träume nicht Ausdruck seiner Gefügigkeit gegen<lb/> mich sein könnten. Als ich geltend machte, daß diese Träume<lb/> auch eine Summe von Einzelheiten gebracht hätten, die ich<lb/> nicht ahnen konnte, und daß sein sonstiges Benehmen in der<lb/> Kur gerade nicht von Gefügigkeit zeugte, wandte er sich zu<lb/> einer anderen Theorie und fragte, ob nicht sein narzißtischer<lb/> Wunsch, gesund zu werden, ihn veranlaßt haben könne,<lb/> solche Träume zu produzieren, da ich ihm doch die Genesung<lb/> in Aussicht gestellt habe, wenn er meine Konstruktionen an<lb break="no"/>nehmen könne. lch mußte antworten, mit sei von einem<lb/> solchen Mechanismus der Traumbildung noch nichts bekannt<lb/> werden, aber die Entscheidung kam auf anderem Wege. Er<lb/> erinnerte sich an Träume, die er gehabt, ehe er in die Analyse<lb/> eintrat, ja, ehe er etwas von ihr erfahren hatte, und die<lb/> Analyse dieser vom Suggestionsverdacht freien Träume ergab<lb/> dieselben Deutungen wie der späteren. Sein Zwang zum<lb/> Widerspruch fand zwar noch den Ausweg, die früheren<lb break="paragraph"/><pb n="11" xml:id="page__44f381e3-3ccd-45f9-9bf9-a9681f561ed0"/><fw type="pageNum">364</fw>Träume seien minder deutlich gewesen als die Während der<lb/> Kur vorgefallenen, aber mir genügte die Übereinstimmung. Ich<lb/> meine, es ist überhaupt gut, gelegentlidi daran zu denken, daß<lb/> die Menschen auch schon zu träumen pflegten, ehe es eine<lb/> Psychoanalyse gab.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">VIII</p><p>Es könnte wohl sein, daß es den Träumen in einer Psycho<lb break="no"/>analyse in ausgiebigerem Maße gelingt, das Verdrängte zum<lb/> Vorschein zu bringen, als den Träumen außerhalb dieser<lb/> Situation. Aber es ist nicht zu erweisen, denn die beiden<lb/> Situationen sind nicht vergleichbar; die Verwertung in der<lb/> Analyse ist eine Absicht, die dem Traume ursprünglich ganz<lb/> ferne liegt. Dagegen kann es nicht zweifelhaft sein, daß<lb/> innerhalb einer Analyse weit mehr des Verdrängten im An<lb break="no"/>schluß an Träume zutage gefördert wird als mit Hilfe der<lb/> anderen Methoden; für solche Mehrleistung muß es einen<lb/> Motor geben, eine unbewußte Macht, welche während des<lb/> Schlafzustandes besser als sonst imstande ist, die Absichten der<lb/> Analyse zu unterstützen. Nun kann man hierfür kaum einen<lb/> anderen Faktor in Anspruch nehmen als die aus dem Eltern<lb break="no"/>komplex stammende Gefügigkeit des Analysierten gegen den<lb/> Analytiker, also den positiven Anteil der von uns so genannten<lb/> Übertragung, und in der Tat läßt sich an vielen Träumen,<lb/> die Vergessenes und Verdrängtes wiederbringen, kein anderer<lb/> unbewußter Wunsch entdecken, dem man die Triebkraft für<lb/> die Traumbildung zuschreiben könnte. Will also jemand be<lb break="no"/>haupten, daß die meisten der in der Analyse verwertbaren<lb/> Träume Gefälligkeitsträume sind und der Suggestion ihre Ent<lb break="no"/>stehung verdanken, so ist vom Standpunkt der analytischen<lb/> Theorie nichts dagegen einzuwenden. Ich brauche dann nur<lb/> noch auf die Erörterungen in meinen „Vorlesungen zur Ein<lb break="no"/>führung“ zu verweisen, in denen das Verhältnis der Über<lb break="no"/>tragung zur Suggestion behandelt und dargetan wird, wie<lb break="paragraph"/><pb n="12" xml:id="page__f0e6a81d-aca2-424c-9238-51dea0265221"/><fw type="pageNum">365</fw>wenig die Anerkennung der Suggestionswirkung in unserem<lb/> Sinne die Zuverlässigkeit unserer Resultate schädigt.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Ich habe mich in der Schrift „Jenseits des Lustprinzips“ mit<lb/> dem ökonomischen Problem beschäftigt, wie es den in jeder<lb/> Hinsicht peinlichen Erlebnissen der frühinfantilen Sexual<lb break="no"/>periode gelingen kann, sich zu irgendeiner Art von Repro<lb break="no"/>duktion durchzuringen. Ich mußte ihnen im „Wiederholungs<lb break="no"/>zwang“ einen außerordentlich starken Auftrieb zugestehen,<lb/> der die im Dienst des Lustprinzips auf ihnen lastende Ver<lb break="no"/>drängung bewältigt, aber doch nicht eher, „als bis die ent<lb break="no"/>gegenkommende Arbeit der Kur die Verdrängung gelodsert<lb/> hat“.<hi rendition="#footnote-index">1</hi> Hier wäre einzuschalten, daß es die positive Über<lb break="no"/>tragung ist, welche dem Wiederholungszwang diese Hilfe<lb/> leistet. Es ist dabei zu einem Bündnis der Kur mit dem<lb/> Wiederholungszwang gekommen, welches sich zunächst gegen<lb/> das Lustprinzip richtet, aber in letzter Absicht die Herrschaft<lb/> des Realitätsprinzips aufrid1ten will. Wie ich dort ausgeführt<lb/> habe, ereignet es sich nur allzu häuﬁg, daß sich der Wieder<lb break="no"/>holungszwang von den Verpflichtungen dieses Bundes frei<lb break="no"/>macht und sich nicht mit der Wiederkehr des Verdrängten in<lb/> der Form von Traumbildern begnügt.<lb break="paragraph"/></p> <p rendition="#level_3">IX</p><p>Soweit ich bis jetzt sehe, ergeben die Träume bei trauma<lb break="no"/>tischer Neurose die einzige wirkliche, die Strafträume die<lb/> einzige scheinbare Ausnahme von der wunscherfüllenden Ten<lb break="no"/>denz des Traumes. Bei diesen letzteren stellt sich der merk<lb break="no"/>würdige Tatbestand her, daß eigentlich nichts von den latenten<lb/> Traumgedanken in den manifesten Trauminhalt aufgenommen<lb/> wird, sondern daß an deren Stelle etwas ganz anderes tritt,<lb/> was als eine Reaktionsbildung gegen die Traumgedanken, als<lb/> Ablehnung und voller Widerspruch gegen sie beschrieben<lb break="paragraph"/><pb n="13" xml:id="page__6c7e6bc3-faf8-481e-9dc3-816bb4f9efbb"/><fw type="pageNum">366</fw>werden muß. Ein solches Einschreiten gegen den Traum kann<lb/> man nur der kritischen Ichinstanz zutrauen und muß daher<lb/> annehmen, daß diese, durch die unbewußte Wunscherfüllung<lb/> geteilt, sich zeitweilig auch während des Schlafzustandes<lb/> Wiederhergestellt hat. Sie hätte auf diesen unerwünschten<lb/> Trauminhalt auch mit Erwachen reagieren können, fand aber<lb/> in der Bildung des Strafttraumes einen Weg, die Schlafstörung<lb/> zu vermeiden.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Ges. Schriften, Bd. VI, S. 206.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>So ist also zum Beispiel für die bekannten Träume des<lb/> Dichters Rosegger, die ich in der „Traumdeutung“<hi rendition="#footnote-index">2</hi> erwähne,<lb/> ein unterdrückter Text von hochmütigem, prahlerischem Inhalt<lb/> zu vermuten, der wirkliche Traum aber hielt ihm vor: „Du<lb/> bist ein unfähiger Schneidergeselle“. Es wäre natürlich un<lb break="no"/>sinnig, nach einer verdrängten Wunschregung als Triebkraft<lb/> dieses manifesten Traumes zu suchen; man muß sich mit der<lb/> Wunscherfüllung der Selbstkritik begnügen.<lb break="paragraph"/></p> <p>Das Befremden über einen derartigen Aufbau des Traumes<lb/> ermäßigt sich, wenn man bedenkt, wie geläuﬁg es der Traum<lb break="no"/>entstellung im Dienste der Zensur ist, für ein einzelnes<lb/> Element etwas einzusetzen, was in irgendeinem Sinne sein<lb/> Gegenteil oder Gegensatz ist. Von da ab ist es nur ein kurzer<lb/> Weg bis zur Ersetzung eines charakteristischen Stückes Traum<lb break="no"/>inhalt durch einen abwehrenden Widerspruch, und ein Schritt<lb/> weiter führt zur Ersetzung des ganzen anstößigen Traum<lb break="no"/>inhaltes durch den Straftraum. Von dieser mittleren Phase<lb/> der Verfälschung des manifesten Inhaltes möchte ich ein oder<lb/> zwei charakteristische Beispiele mitteilen.<lb break="paragraph"/></p> <p>Aus dem Traum eines Mädchens mit starker Vaterfixierung,<lb/> welches sich in der Analyse schwer ausspricht: Sie sitzt im<lb/> Zimmer mit einer Freundin, nur mit einem Kimono bekleidet.<lb/> Ein Herr kommt herein, vor dem sie sich geniert. Der Herr<lb break="paragraph"/><pb n="14" xml:id="page__21e50989-7509-47ad-b1e0-f9309478da2b"/><fw type="pageNum">367</fw>sagt aber: „Das ist ja das Mädchen, das wir schon einmal so<lb/> schön bekleidet gesehen haben.“ — Der Herr hin ich, in<lb/> weiterer Zurückführung der Vater. Mit dem Traum ist aber<lb/> nichts zu machen, solange wir uns nicht entschließen, in der<lb/> Rede des Herrn das wichtigste Element durdn seinen Gegen<lb break="no"/>satz zu ersetzen: „Das ist das Mädchen, das ich schon einmal<lb/> <hi rendition="#smallcaps">unbekleidet</hi> und dann so schön gesehen habe.“ Sie hat<lb/> als Kind von drei bis vier Jahren eine Zeitlang im selben<lb/> Zimmer mit dem Vater geschlafen, und alle Anzeichen deuten<lb/> darauf hin, daß sie sich damals im Sdllaf aufzudecken pflegte,<lb/> um dem Vater zu gefallen. Die seitherige Verdrängung ihrer<lb/> Exhibitionslust motiviert heute ihre Verschlossenheit in der<lb/> Kur, ihre Unlust, sich unverhüllt zu zeigen.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">2)</hi> Ges. Schriften, Bd. III, S. 138 ff.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Aus einer anderen Szene desselben Traumes: Sie liest ihre<lb/> eigene, im Druck vorliegende Krankengeschichte. Darin steht,<lb/> daß ein junger Mann seine Geliebte ermordet — Kakao —<lb/> das gehört zur Analerotik. Das letztere ist ein Gedanke, den<lb/> sie im Traum bei der Erwähnung des Kakaos hat. — Die<lb/> Deutung dieses Traumstückes ist noch schwieriger als die des<lb/> vorigen. Man erfährt endlich, daß sie vor dem Einschlafen die<lb/> „Geschichte einer infantilen Neurose“ gelesen hat, in welcher<lb/> eine reale oder phantasierte Koitusbeobachtung der Eltern<lb/> den Mittelpunkt bildet. Diese Krankengeschichte hat sie schon<lb/> früher einmal auf die eigene Person bezogen, nicht das einzige<lb/> Anzeichen, daß auch bei ihr eine solche Beobachtung in Be<lb break="no"/>tracht kommt. Der junge Mann, der seine Geliebte ermordet,<lb/> ist nun eine deutliche Anspielung auf die sadistische Auf<lb break="no"/>fassung der Koitusszene, aber das nächste Element, der Kakao,<lb/> geht weit davon ab. Zum Kakao weiß sie nur zu assoziieren,<lb/> daß ihre Mutter zu sagen pflegt, vom Kakao bekomme man<lb/> Kopfweh, auch von anderen Frauen will sie das gleiche<lb/> gehört haben. Übrigens hat sie sich eine Zeitlang durch eben<lb break="no"/>solche Kopfschmerzen mit der Mutter identifiziert. Ich kann<lb break="paragraph"/><pb n="15" xml:id="page__0c37538e-5b3c-46c6-8f24-25b679c246f3"/><fw type="pageNum">368</fw>nun keine andere Verknüpfung der beiden Traumelemente<lb/> finden als durch die Annahme, daß sie von den Folgerungen<lb/> aus der Koitusbeobadrtung ablenken will. Nein, das hat nichts<lb/> mit der Kinderzeugung zu tun. Die Kinder kommen von<lb/> etwas, das man ißt (wie im Märchen), und die Erwähnung der<lb/> Analetotik, die wie ein Deutungsversuch im Traum aussieht,<lb/> vervollständigt die zu Hilfe gerufene infantile Theorie durch<lb/> die Hinzufiigung der analen Geburt.<lb break="paragraph"/></p>
+         
+         
+            
+              <p rendition="#level_3">X</p><p>Man hört gelegentlich Verminderung darüber äußern, daß<lb/> das Ich des Träumers zwei- oder mehrmals im manifesten<lb/> Traum erscheint, einmal in eigener Person und die anderen<lb/> Male hinter anderen Personen versteckt. Die sekundäre Be<lb break="no"/>arbeitung hat während der Traumbildung offenbar das Be<lb break="no"/>streben gehabt, diese Vielheit des Ich, welche in keine szeni<lb break="no"/>sche Situation paßt, auszumerzen, durch die Deutungsarbeit<lb/> wird sie aber wieder hergestellt. Sie ist an sich nicht merk<lb break="no"/>würdiger als das mehrfache Vorkommen des Ichs in einem<lb/> wachen Gedanken, zumal wenn sich dabei das Ich in Subjekt<lb/> und Objekt zerlegt, sich als beobachtende und kritische Instanz<lb/> dem anderen Anteil gegenüberstellt oder sein gegenwärtiges<lb/> Wesen mit einem erinnerten, vergangenen, das auch einmal Ich<lb/> war, vergleicht. So zum Beispiel in den Sätzen: „Wenn <hi rendition="#smallcaps">ich</hi><lb/> daran denke, was <hi rendition="#smallcaps">ich</hi> diesem Menschen getan habe“ und<lb/> „Wenn <hi rendition="#smallcaps">ich</hi> daran denke, daß <hi rendition="#smallcaps">ich</hi> auch einmal ein Kind<lb/> war.“ Daß aber alle Personen, die im Traum vorkommen,<lb/> als Abspaltungen und Vertretungen des eigenen Ichs zu gelten<lb/> haben, möchte ich als eine inhaltslose und unberechtigte<lb/> Spekulation zurüdrweisen. Es genügt uns, daran festzuhalten,<lb/> daß die Sonderung des Ichs von einer beobachtenden, kriti<lb break="no"/>sierenden, strafenden Instanz (Ichideal) auch für die Traum<lb break="no"/>deutung in Betracht kommt.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>
