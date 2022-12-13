@@ -1,221 +1,233 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
-            <title type="manifestation" level="a">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹] (1921-003/1928)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
+        <title type="manifestation" level="a">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹] (1921-003/1928)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>OCR korr. SL</p>
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1921-003-1922">
-                     <analytic>
-                        <title type="manifestation">Geleitwort [zu: Varendonck, Julien, ›Über das vorbewusste phantasierende Denken‹]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Über das vorbewusste phantasierende Denken</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1922-01-01">1922-01-01</date>
-                        </imprint>
-<extent>iii</extent>                        <biblScope unit="series">Internationale Psychoanalytische Bibliothek</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1921-003-1928" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>264</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__cf8b91b6-a95c-4fe7-9900-552baae87849">
-                        <title>Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>OCR korr. SL</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1921-003-1922">
+            <analytic>
+              <title type="manifestation">Geleitwort [zu: Varendonck, Julien, ›Über das vorbewusste phantasierende Denken‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Über das vorbewusste phantasierende Denken</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>iii</extent>
+              <biblScope unit="series">Internationale Psychoanalytische Bibliothek</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1921-003-1928" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 11</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1928-01-01">1928-01-01</date>
+              </imprint>
+              <extent>264</extent>
+              <biblScope unit="volume">11. Band</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__cf8b91b6-a95c-4fe7-9900-552baae87849">
+                <title>Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1921-003/1928</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/geleitwort-zu-varendonck-julien-uber-das-vorbewusste-phantasierende-denken/druckversion-0</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/cf8b91b6-a95c-4fe7-9900-552baae87849</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__c144cac9-3aea-477f-9ef7-ee05df6eee77">
-                              <title>Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/introduction-zu-varendonck-julien-psychology-day-dreams</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c144cac9-3aea-477f-9ef7-ee05df6eee77</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1921-003/1928</idno>
+                <idno type="url">https://www.freud-edition.net/werke/geleitwort-zu-varendonck-julien-uber-das-vorbewusste-phantasierende-denken/druckversion-0</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/cf8b91b6-a95c-4fe7-9900-552baae87849</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__c144cac9-3aea-477f-9ef7-ee05df6eee77">
+                    <title>Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/introduction-zu-varendonck-julien-psychology-day-dreams</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c144cac9-3aea-477f-9ef7-ee05df6eee77</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__f803fd48-b4f4-4824-a708-85eae40d658e"/>
-            <p rendition="#level_3">GELEITWORT</p><p><hi rendition="#em">zu ÜBER DAS VORBEWUSSTE PHANTASIERENDE<lb/> DENKEN von. Dr. J. VARENDONCK (Gent). Autorisierte Über<lb break="no"/>setzung aus dem Englischen von Anna Freud (Internationale Psycho<lb break="no"/>analytische Bibliothek, Bd. XII). Internationaler Psychoanalytischer Verlag,<lb/> Leipzig - Wien - Zürich 1922.</hi><lb break="paragraph"/></p> <p>Das vorliegende Buch des Dr. <hi rendition="#smallcaps">Varendonck</hi> enthält eine bedeutsame<lb/> Neuheit und wird mit Recht das Interesse aller Philosophen, Psychologen<lb/> und Psychoanalytiker erwecken. Es ist dem Autor in jahrelangen Bemühungen<lb/> gelungen, jener Art von phantasierender Denktätigkeit habhaft zu werden,<lb/> welcher man sich während der Zustände von Zerstreutheit hingibt, und in<lb/> die man leicht vor dem Einschlafen oder bei unvollkommenem Erwachen<lb/> verfällt. Er hat sich die Gedankenketten, die sich unter solchen Umständen<lb/> ohne das Wollen der Person einstellen, zum Bewußtsein gebracht, sie nieder<lb break="no"/>geschrieben, ihre Eigentümlichkeiten und Unterschiede vom absichtlichen,<lb/> bewußten Denken studiert und dabei eine Reihe von wichtigen Entdeckungen<lb/> gemacht, aus denen sich noch Weitergehende Probleme und Fragestellungen<lb/> ableiten.<lb break="paragraph"/></p> <p>Manche Punkte in der Psychologie des Traumes und der Fehlleistungen<lb/> finden durch die Beobachtungen von Dr. <hi rendition="#smallcaps">Varendonck</hi> eine sichere Er<lb break="no"/>ledigung.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__f803fd48-b4f4-4824-a708-85eae40d658e"/>
+        <p rendition="#level_3">GELEITWORT</p>
+        <p>
+          <hi rendition="#em">zu ÜBER DAS VORBEWUSSTE PHANTASIERENDE<lb/> DENKEN von. Dr. J. VARENDONCK (Gent). Autorisierte Über<lb break="no"/>setzung aus dem Englischen von Anna Freud (Internationale Psycho<lb break="no"/>analytische Bibliothek, Bd. XII). Internationaler Psychoanalytischer Verlag,<lb/> Leipzig - Wien - Zürich 1922.</hi>
+          <lb break="paragraph"/>
+        </p>
+        <p>Das vorliegende Buch des Dr. <hi rendition="#smallcaps">Varendonck</hi> enthält eine bedeutsame<lb/> Neuheit und wird mit Recht das Interesse aller Philosophen, Psychologen<lb/> und Psychoanalytiker erwecken. Es ist dem Autor in jahrelangen Bemühungen<lb/> gelungen, jener Art von phantasierender Denktätigkeit habhaft zu werden,<lb/> welcher man sich während der Zustände von Zerstreutheit hingibt, und in<lb/> die man leicht vor dem Einschlafen oder bei unvollkommenem Erwachen<lb/> verfällt. Er hat sich die Gedankenketten, die sich unter solchen Umständen<lb/> ohne das Wollen der Person einstellen, zum Bewußtsein gebracht, sie nieder<lb break="no"/>geschrieben, ihre Eigentümlichkeiten und Unterschiede vom absichtlichen,<lb/> bewußten Denken studiert und dabei eine Reihe von wichtigen Entdeckungen<lb/> gemacht, aus denen sich noch Weitergehende Probleme und Fragestellungen<lb/> ableiten.<lb break="paragraph"/>
+        </p>
+        <p>Manche Punkte in der Psychologie des Traumes und der Fehlleistungen<lb/> finden durch die Beobachtungen von Dr. <hi rendition="#smallcaps">Varendonck</hi> eine sichere Er<lb break="no"/>ledigung.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

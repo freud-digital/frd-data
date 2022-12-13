@@ -1,354 +1,385 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
-            <title type="manifestation" level="a">Ein Beitrag zum Vergessen von Eigennamen (1901-002/1911)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
+        <title type="manifestation" level="a">Ein Beitrag zum Vergessen von Eigennamen (1901-002/1911)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1901-002-1917">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltaglebens </title>
-                        <title type="manifestation-short">5., vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1907">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">2., vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1901.2">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
-                        <imprint>
-                           <pubPlace>Berlin</pubPlace>
-                           <date when="1901-02-01">1901-02-01</date>
-                        </imprint>
-<extent>143 Seiten</extent>                        <biblScope unit="volume">Heft 2</biblScope>
-                        <biblScope unit="year">Band 10</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1929">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1901.1">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
-                        <imprint>
-                           <pubPlace>Berlin</pubPlace>
-                           <date when="1901-01-01">1901-01-01</date>
-                        </imprint>
-<extent>32 Seiten</extent>                        <biblScope unit="volume">Heft 1</biblScope>
-                        <biblScope unit="year">Band 10</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1924">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">GS 4</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1924-01-01">1924-01-01</date>
-                        </imprint>
-<extent>310 Seiten</extent>                        <biblScope unit="volume">4. Band</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1919">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">6., vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1899">
-                     <analytic>
-                        <title type="manifestation">Zur Psychologie des Vergessens</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
-                        <title type="publication-sub">für die Mitglieder der österr. israel. Humanitätsvereine "B’nai B’rith"</title>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__aeee7984-46d1-4a48-a439-2803097593a9">Humanitätsverein "Wien" B. B.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1899-10-01">1899-10-01</date>
-                        </imprint>
-<extent>156</extent>                        <biblScope unit="volume">3 (Oktober)</biblScope>
-                        <biblScope unit="year">2</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1912">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">4., vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1904">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">[1. Buchausgabe]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1923">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">9. Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1910">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">3. vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1920">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">7., weiter vermehrte Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1901.3">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens. (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1922">
-                     <monogr>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <title type="manifestation-short">8. Auflage</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1901-002-1911" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Ein Beitrag zum Vergessen von Eigennamen</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Zentralblatt für Psychoanalyse</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <imprint>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1901-002-1917">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltaglebens </title>
+              <title type="manifestation-short">5., vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1907">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">2., vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1901.2">
+            <analytic>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
+              <imprint>
+                <pubPlace>Berlin</pubPlace>
+                <date when="1901-02-01">1901-02-01</date>
+              </imprint>
+              <extent>143 Seiten</extent>
+              <biblScope unit="volume">Heft 2</biblScope>
+              <biblScope unit="year">Band 10</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1929">
+            <analytic>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1901.1">
+            <analytic>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
+              <imprint>
+                <pubPlace>Berlin</pubPlace>
+                <date when="1901-01-01">1901-01-01</date>
+              </imprint>
+              <extent>32 Seiten</extent>
+              <biblScope unit="volume">Heft 1</biblScope>
+              <biblScope unit="year">Band 10</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1924">
+            <analytic>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 4</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1924-01-01">1924-01-01</date>
+              </imprint>
+              <extent>310 Seiten</extent>
+              <biblScope unit="volume">4. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1919">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">6., vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1899">
+            <analytic>
+              <title type="manifestation">Zur Psychologie des Vergessens</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+              <title type="publication-sub">für die Mitglieder der österr. israel. Humanitätsvereine "B’nai B’rith"</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__aeee7984-46d1-4a48-a439-2803097593a9">Humanitätsverein "Wien" B. B.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1899-10-01">1899-10-01</date>
+              </imprint>
+              <extent>156</extent>
+              <biblScope unit="volume">3 (Oktober)</biblScope>
+              <biblScope unit="year">2</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1912">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">4., vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1904">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">[1. Buchausgabe]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1923">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">9. Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1910">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">3. vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1920">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">7., weiter vermehrte Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1901.3">
+            <analytic>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens. (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1922">
+            <monogr>
+              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+              <title type="manifestation-short">8. Auflage</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1901-002-1911" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Ein Beitrag zum Vergessen von Eigennamen</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Zentralblatt für Psychoanalyse</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
                      </imprint>
-                     <extent>408 Seiten</extent>
-                     <biblScope unit="volume">9 Juli</biblScope>
-                     <biblScope unit="year">1</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__635936ad-e57c-4f81-a6b4-51caab27be02">
-                        <title>Ein Beitrag zum Vergessen von Eigennamen</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+              <extent>408 Seiten</extent>
+              <biblScope unit="volume">9 Juli</biblScope>
+              <biblScope unit="year">1</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__635936ad-e57c-4f81-a6b4-51caab27be02">
+                <title>Ein Beitrag zum Vergessen von Eigennamen</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1901-002/1911</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/ein-beitrag-zum-vergessen-von-eigennamen/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/635936ad-e57c-4f81-a6b4-51caab27be02</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__c0c4f799-2b0c-4e5b-8d4d-b33f66c54953">
-                              <title>Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-psychopathologie-des-alltagslebens</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c0c4f799-2b0c-4e5b-8d4d-b33f66c54953</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="IPU">ZentralblattFrPsychoanalyse.MedizinischeMonatsschriftFuumlr</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1901-002/1911</idno>
+                <idno type="url">https://www.freud-edition.net/werke/ein-beitrag-zum-vergessen-von-eigennamen/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/635936ad-e57c-4f81-a6b4-51caab27be02</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__c0c4f799-2b0c-4e5b-8d4d-b33f66c54953">
+                    <title>Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-psychopathologie-des-alltagslebens</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c0c4f799-2b0c-4e5b-8d4d-b33f66c54953</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="IPU">ZentralblattFrPsychoanalyse.MedizinischeMonatsschriftFuumlr</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__a5cf2c17-66c6-468d-85d4-92658c33bf73"/>
-            <p>Mitteilungen.<lb break="paragraph"/></p> <p>Ein Beitrag zum Vergessen von Eigennamen.<lb break="paragraph"/></p> <p>Zwei Männer, ein älterer und ein jüngerer, die vor sechs Monaten<lb/> gemeinsam in Sizilien gerei5t sind, tauschen Erinnerungen an jene schönen<lb/> und inhaltsreiehen Tage aus. „Wie hat nur der Ort geheissen“, fragt der<lb/> Jüngere, „an dem wir übernachbet haben, um die Partie nach Selimm‘t<lb/> zu machen? Calatatimi, nicht wahr?" , Der Ältere weist dies zurück:<lb/> „Gewiss nicht, aber ich habe den Namen ehenialls vergessen, obwohl<lb/> ich mich an alle Einzelheiten des Aufenthaltes dort sehr gut erinnere.<lb/> Es reicht bei mir hin, dass ich merke, ein anderer habe einen Namen ven<lb/> gessen; sogleich wird auch bei mir das Vergessen induziert. Wollen wir den<lb/> Namen nicht suchen? Mir fällt aber kein anderer ein als C alta.nisetta,<lb/> der doch gewiss nicht der richtige ist.“ — „Nein“, sagt der Jüngere, „der<lb/> Name hängt mit w an oder es kommt ein W darin vor.“ — ,„Ein W gibt<lb/> es duch im Italienischen nicht“, mahnt der Ältere. — „ich meinte ja. auch<lb/> um- ein v und habe nur w gesagt, weil ich's vun meiner Mutters'prncllre<lb/> her so gewöhnt hin." — Der Ältere sträubt sich gegen das v, Er meint:<lb/> „ich glaube, ich habe überhaupt schon viele sizilianische Namen vergessen;<lb/> es wäre an der Zeit, Versuche zu machen Wie heisst z, B. der hoch»<lb/> gelegene Ort, der im Altertum Erin &amp; geheissen hat? *Ah ich Weiss schon:<lb/> Castrogiovanni". — Im nächsten Moment hat der Jüngere auch<lb/> den verlorenen Namen wiedergefunden, Er ruft: Castelvetrano und<lb/> freut sich, das behauptete v nachweisen zu können, Der Ältere vermisst<lb/> noch eine Weile das Bekanntheitsgeﬁihl; nachdem er aber den Namen<lb/> akzeptiert hat, soll er Auskunft darüber geben, weshalb er ihm entfallen<lb/> war, Er meint: „Offenbar weil die zweite Hälfte vetrano an„Veteran“<lb/> anklingt. Ich weiss schon, dass ich nicht gerne aus Altern denke und<lb/> in sunderbarer Weise magiere, wenn ich daran gemahnt werde, 50 z. E.<lb/> habe ich unlängst einem hochgesnhätzten Freund in der merkwürdigslen<lb/> Einkleidung vorgehalten, dass er „längst über die Jahre der Jugend hinaus<lb/> sei“, weil dieser früher einmal mitten unter den schmeichelhuftesten Äusse<lb/> rungen über mich auch behauptete: „ich sei kein junger Mann mehr!“<lb/> Das sich der Widerstand bei mit gegen die zweite Hälfte des Namens<lb/> Castelvetrano gerichtet hat, geht ja auch daraus hervor, dass der<lb/> Anlaut desselben in dem Ersatznamen Caltanisetta wiedergekehrt<lb/> war.“ , „Und der Name Caltanisetta selbst?“ fragt der Jüngere. —<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__261d5bf0-f190-487d-b4f9-35a5e7b160ff"/>
-            <p>408 Zum Thum: der Znhnreiztrlume.<lb break="paragraph"/></p> <p>„Der ist mir immer wie ein Kasenamen ﬁir ein junges Weib erschienen“,<lb/> gesteht der Ältere ein<lb break="paragraph"/></p> <p>Einige Zeit später setzt er hinzu: „Der Name für E una war ja auch<lb/> ein Ersatzname. Und nun fällt mir auf, dass dieser mit. Hilfe einer Ratio<lb break="no"/>nalisieng vnrdrin.gende Namen Castro g io vanni genau so an gio.<lb/> vane jung anktingt, wie der verlm'ene Name Castelvetra.nn an<lb/> Veteran alt."<lb break="paragraph"/></p> <p>Der Ältere glaubt so für sein Namenverge’ssen Rechenschaft gegeben<lb/> zu haben. Aus welchem Motiv der Jüngere zum gleichen Ausfallphä.nomen<lb/> gekommen war, wurde nicht untersucht, Freud.<lb break="paragraph"/></p> <p>Zum Thema der Zahnreizträume<lb break="paragraph"/></p> <p>ist mir von einem Knllegen, der sich seit einiger Zeit für die Probleme<lb/> der Traumdeutung lehhafter zu interessieren beginnt, der folgende Bericht<lb/> zugekomrnen:<lb break="paragraph"/></p> <p>„Mir t "umte kürzlich, ich sei beim Zahnarzt, der<lb/> mir einen rückwärtigen Zahn des Unterkiefers aus<lb break="no"/>hohrt. Er arbeitet so lange daran herum, bis der Zahn<lb/> unhrauchhar geworden ist. Dann fasst er ihn mit der<lb/> Zange und zieht ihn mit einer spielenden Leichtigkeit<lb/> heraus, die mich in Verwunderung setzt. Er sagt, ich<lb/> solle mit nichts daraus machen, denn das sei gar nicht<lb/> der eigentlich behandelte Zahn und legt ihn auf den<lb/> Tisch, WD der Zahn (wie mir nun scheint, ein iuberer<lb/> Schneidezahn) in mehrere Schichten zerfällt. Ich er<lb break="no"/>hebe mich vom 0perationsstuhl, trete neugierig näher<lb/> und stelle interessiert eine medizinische Frage. Der<lb/> Arzt erklärt mir, während er die einzelnen Teilstücke<lb/> des auffallend weissen Zahnes sondert und mit einem<lb/> Instrument zermalmt (pulverisiert), dass das mit der<lb/> Pubertät zusammenhänge, und dass die Zähne nur vor<lb/> der Pubertät S‘D leiéht herausgeben; bei Frauen sei das<lb/> hierfür entscheidende Moment die Geburt eines Kindes.<lb/> —— Ich merke dann (wie ich glaube im Halbschlat), dass<lb/> dieser Traum von einer Pollution begleitet war, die ich<lb/> aber nicht mit; Sicherheit an eine biz—stimmte Stelle des<lb/> Traumes einzureihen weiss; am ehesten scheint sie mir<lb/> noch beim Herausziehen des Zahnes eingetreten zu sein.<lb break="paragraph"/></p> <p>1611 träume dann Weiter einen mir nicht mehr er4<lb/> innerlichen Vorgang, der damit abschloss, dass i0h<lb/> Hut und Beck, in der Hoffnung, man Werde mir die Klei—<lb/> dungsstücke nachhringen, irgendwo (möglicherweise<lb/> in der Garderobe des Zahnarztes) zurücklassend und<lb/> bloss mit dem Überrnek bekleidet, mich heeilte, einen<lb/> ahgehenden Zug noch zu erreichen. Es gelang mit auch<lb/> im letzten Moment auf den rückwärtigen \Vaggon auf<lb break="no"/>zuspringen, wo bereits jemand stand. Ich konnte jedoch<lb/> nicht mehr in das Innere des Wagens gelangen, sondern<lb/> musste in einer unbequemen Stellung, aus der ich mich<lb/> mit schliesslichem Erfolge zu befreien versuchte, die<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__087843f9-b58c-454f-99ac-f96872bd469c"/>
-            <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__a5cf2c17-66c6-468d-85d4-92658c33bf73"/>
+        <p>Mitteilungen.<lb break="paragraph"/>
+        </p>
+        <p>Ein Beitrag zum Vergessen von Eigennamen.<lb break="paragraph"/>
+        </p>
+        <p>Zwei Männer, ein älterer und ein jüngerer, die vor sechs Monaten<lb/> gemeinsam in Sizilien gerei5t sind, tauschen Erinnerungen an jene schönen<lb/> und inhaltsreiehen Tage aus. „Wie hat nur der Ort geheissen“, fragt der<lb/> Jüngere, „an dem wir übernachbet haben, um die Partie nach Selimm‘t<lb/> zu machen? Calatatimi, nicht wahr?" , Der Ältere weist dies zurück:<lb/> „Gewiss nicht, aber ich habe den Namen ehenialls vergessen, obwohl<lb/> ich mich an alle Einzelheiten des Aufenthaltes dort sehr gut erinnere.<lb/> Es reicht bei mir hin, dass ich merke, ein anderer habe einen Namen ven<lb/> gessen; sogleich wird auch bei mir das Vergessen induziert. Wollen wir den<lb/> Namen nicht suchen? Mir fällt aber kein anderer ein als C alta.nisetta,<lb/> der doch gewiss nicht der richtige ist.“ — „Nein“, sagt der Jüngere, „der<lb/> Name hängt mit w an oder es kommt ein W darin vor.“ — ,„Ein W gibt<lb/> es duch im Italienischen nicht“, mahnt der Ältere. — „ich meinte ja. auch<lb/> um- ein v und habe nur w gesagt, weil ich's vun meiner Mutters'prncllre<lb/> her so gewöhnt hin." — Der Ältere sträubt sich gegen das v, Er meint:<lb/> „ich glaube, ich habe überhaupt schon viele sizilianische Namen vergessen;<lb/> es wäre an der Zeit, Versuche zu machen Wie heisst z, B. der hoch»<lb/> gelegene Ort, der im Altertum Erin &amp; geheissen hat? *Ah ich Weiss schon:<lb/> Castrogiovanni". — Im nächsten Moment hat der Jüngere auch<lb/> den verlorenen Namen wiedergefunden, Er ruft: Castelvetrano und<lb/> freut sich, das behauptete v nachweisen zu können, Der Ältere vermisst<lb/> noch eine Weile das Bekanntheitsgeﬁihl; nachdem er aber den Namen<lb/> akzeptiert hat, soll er Auskunft darüber geben, weshalb er ihm entfallen<lb/> war, Er meint: „Offenbar weil die zweite Hälfte vetrano an„Veteran“<lb/> anklingt. Ich weiss schon, dass ich nicht gerne aus Altern denke und<lb/> in sunderbarer Weise magiere, wenn ich daran gemahnt werde, 50 z. E.<lb/> habe ich unlängst einem hochgesnhätzten Freund in der merkwürdigslen<lb/> Einkleidung vorgehalten, dass er „längst über die Jahre der Jugend hinaus<lb/> sei“, weil dieser früher einmal mitten unter den schmeichelhuftesten Äusse<lb/> rungen über mich auch behauptete: „ich sei kein junger Mann mehr!“<lb/> Das sich der Widerstand bei mit gegen die zweite Hälfte des Namens<lb/> Castelvetrano gerichtet hat, geht ja auch daraus hervor, dass der<lb/> Anlaut desselben in dem Ersatznamen Caltanisetta wiedergekehrt<lb/> war.“ , „Und der Name Caltanisetta selbst?“ fragt der Jüngere. —<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__261d5bf0-f190-487d-b4f9-35a5e7b160ff"/>
+        <p>408 Zum Thum: der Znhnreiztrlume.<lb break="paragraph"/>
+        </p>
+        <p>„Der ist mir immer wie ein Kasenamen ﬁir ein junges Weib erschienen“,<lb/> gesteht der Ältere ein<lb break="paragraph"/>
+        </p>
+        <p>Einige Zeit später setzt er hinzu: „Der Name für E una war ja auch<lb/> ein Ersatzname. Und nun fällt mir auf, dass dieser mit. Hilfe einer Ratio<lb break="no"/>nalisieng vnrdrin.gende Namen Castro g io vanni genau so an gio.<lb/> vane jung anktingt, wie der verlm'ene Name Castelvetra.nn an<lb/> Veteran alt."<lb break="paragraph"/>
+        </p>
+        <p>Der Ältere glaubt so für sein Namenverge’ssen Rechenschaft gegeben<lb/> zu haben. Aus welchem Motiv der Jüngere zum gleichen Ausfallphä.nomen<lb/> gekommen war, wurde nicht untersucht, Freud.<lb break="paragraph"/>
+        </p>
+        <p>Zum Thema der Zahnreizträume<lb break="paragraph"/>
+        </p>
+        <p>ist mir von einem Knllegen, der sich seit einiger Zeit für die Probleme<lb/> der Traumdeutung lehhafter zu interessieren beginnt, der folgende Bericht<lb/> zugekomrnen:<lb break="paragraph"/>
+        </p>
+        <p>„Mir t "umte kürzlich, ich sei beim Zahnarzt, der<lb/> mir einen rückwärtigen Zahn des Unterkiefers aus<lb break="no"/>hohrt. Er arbeitet so lange daran herum, bis der Zahn<lb/> unhrauchhar geworden ist. Dann fasst er ihn mit der<lb/> Zange und zieht ihn mit einer spielenden Leichtigkeit<lb/> heraus, die mich in Verwunderung setzt. Er sagt, ich<lb/> solle mit nichts daraus machen, denn das sei gar nicht<lb/> der eigentlich behandelte Zahn und legt ihn auf den<lb/> Tisch, WD der Zahn (wie mir nun scheint, ein iuberer<lb/> Schneidezahn) in mehrere Schichten zerfällt. Ich er<lb break="no"/>hebe mich vom 0perationsstuhl, trete neugierig näher<lb/> und stelle interessiert eine medizinische Frage. Der<lb/> Arzt erklärt mir, während er die einzelnen Teilstücke<lb/> des auffallend weissen Zahnes sondert und mit einem<lb/> Instrument zermalmt (pulverisiert), dass das mit der<lb/> Pubertät zusammenhänge, und dass die Zähne nur vor<lb/> der Pubertät S‘D leiéht herausgeben; bei Frauen sei das<lb/> hierfür entscheidende Moment die Geburt eines Kindes.<lb/> —— Ich merke dann (wie ich glaube im Halbschlat), dass<lb/> dieser Traum von einer Pollution begleitet war, die ich<lb/> aber nicht mit; Sicherheit an eine biz—stimmte Stelle des<lb/> Traumes einzureihen weiss; am ehesten scheint sie mir<lb/> noch beim Herausziehen des Zahnes eingetreten zu sein.<lb break="paragraph"/>
+        </p>
+        <p>1611 träume dann Weiter einen mir nicht mehr er4<lb/> innerlichen Vorgang, der damit abschloss, dass i0h<lb/> Hut und Beck, in der Hoffnung, man Werde mir die Klei—<lb/> dungsstücke nachhringen, irgendwo (möglicherweise<lb/> in der Garderobe des Zahnarztes) zurücklassend und<lb/> bloss mit dem Überrnek bekleidet, mich heeilte, einen<lb/> ahgehenden Zug noch zu erreichen. Es gelang mit auch<lb/> im letzten Moment auf den rückwärtigen \Vaggon auf<lb break="no"/>zuspringen, wo bereits jemand stand. Ich konnte jedoch<lb/> nicht mehr in das Innere des Wagens gelangen, sondern<lb/> musste in einer unbequemen Stellung, aus der ich mich<lb/> mit schliesslichem Erfolge zu befreien versuchte, die<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__087843f9-b58c-454f-99ac-f96872bd469c"/>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

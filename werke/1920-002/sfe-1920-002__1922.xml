@@ -1,287 +1,317 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
-            <title type="manifestation" level="a">Zur Vorgeschichte der analytischen Technik (1920-002/1922)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
+        <title type="manifestation" level="a">Zur Vorgeschichte der analytischen Technik (1920-002/1922)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>2. Korr KK</p>
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1920-002-1924">
-                     <analytic>
-                        <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">GS 6</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1925-01-01">1925-01-01</date>
-                        </imprint>
-<extent>151 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1920-002-1924.2">
-                     <analytic>
-                        <title type="manifestation">Zur Vorgeschichte der analytischen Technik </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1924-01-01">1924-01-01</date>
-                        </imprint>
-<extent>151 Seiten</extent>                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1920-002-1920">
-                     <analytic>
-                        <title type="manifestation">Zur Vorgeschichte der analytischen Technik </title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1920-01-01">1920-01-01</date>
-                        </imprint>
-<extent>81 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
-                        <biblScope unit="year">6</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1920-002-1920.2">
-                     <analytic>
-                        <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1920-002-1922" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">SKSN 5</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1922-01-01">1922-01-01</date>
-                     </imprint>
-                     <extent>145 Seiten</extent>
-                     <biblScope unit="volume">5. Folge</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__6b5e0302-96b9-4160-8865-a628e103f99f">
-                        <title>Zur Vorgeschichte der analytischen Technik</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>2. Korr KK</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1920-002-1924">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 6</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1925-01-01">1925-01-01</date>
+              </imprint>
+              <extent>151 Seiten</extent>
+              <biblScope unit="volume">6. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1920-002-1924.2">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1924-01-01">1924-01-01</date>
+              </imprint>
+              <extent>151 Seiten</extent>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1920-002-1920">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1920-01-01">1920-01-01</date>
+              </imprint>
+              <extent>81 Seiten</extent>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="year">6</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1920-002-1920.2">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1920-002-1922" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">SKSN 5</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>145 Seiten</extent>
+              <biblScope unit="volume">5. Folge</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__6b5e0302-96b9-4160-8865-a628e103f99f">
+                <title>Zur Vorgeschichte der analytischen Technik</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1920-002/1922</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/zur-vorgeschichte-der-analytischen-technik/druckversion-4</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b5e0302-96b9-4160-8865-a628e103f99f</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302">
-                              <title>Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-vorgeschichte-der-analytischen-technik</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1920-002/1922</idno>
+                <idno type="url">https://www.freud-edition.net/werke/zur-vorgeschichte-der-analytischen-technik/druckversion-4</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b5e0302-96b9-4160-8865-a628e103f99f</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302">
+                    <title>Freud, Sigmund  (1920-002; 1920b): Zur Vorgeschichte der analytischen Technik</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-vorgeschichte-der-analytischen-technik</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ef9cb4e5-d4c4-4e8d-8bba-6f4ea38a0302</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__0cd06378-b7ee-47af-ad85-08bd0192c4e0"/>
-            <fw type="pageNum">[141]</fw> <p rendition="#level_3">II.<lb/> ZUR VORGESCHICHTE<lb/> DER ANALYTISCHEN TECHNIK.<hi rendition="#footnote-index">*)</hi></p><p>In einem neuen Buche von <hi rendition="#smallcaps">Havelock Ellis</hi>, dem hoch<lb break="no"/>verdienten Sexualforscher und vornehmen Kritiker der Psycho<lb break="no"/>analyse, betitelt „The Philosophy of Conflict and other essays<lb/> in war-time, second series„, London 1919, ist ein Aufsatz:<lb/> „Psycho-Analysis in relation to sex“ enthalten, der sich nach<lb break="no"/>zuweisen bemüht, daß das Werk des Schöpfers der Analyse<lb/> nicht als ein Stück wissenschaftlicher Arbeit, sondern als<lb/> eine künstlerische Leistung gewertet werden sollte. Es liegt<lb/> uns nahe, in dieser Auffassung eine neue Wendung des Wider<lb break="no"/>standes und eine Ablehnung der Analyse zu sehen, wenn<lb break="no"/>gleich sie in liebenswürdiger, ja in allzu schmeichelhafter<lb/> Weise verkleidet ist. Wir sind geneigt, ihr aufs entschie<lb break="no"/>denste zu widersprechen.<lb break="paragraph"/></p> <p>Doch nicht solcher Widerspruch ist das Motiv unserer<lb/> Beschäftigung mit dem Essay von <hi rendition="#smallcaps">Havelock Ellis</hi>, son<lb break="no"/>dern die Tatsache, daß er durch seine große Belesenheit in<lb/> die Lage gekommen ist, einen Autor anzuführen, der die freie<lb/> Assoziation als Technik geübt und empfohlen hat, wenngleich<lb/> zu anderen Zwecken, und somit ein Recht hat, in dieser<lb/> Hinsicht als Vorläufer der Psychoanalytiker genannt zu wer<lb break="no"/>den. „I<quote type="inlinequote">m Jahre 1857</quote>“, schreibt <hi rendition="#smallcaps">Havelock Ellis</hi>, „<quote type="inlinequote">ver-</quote><lb break="paragraph"/><pb n="2" xml:id="page__77ccf562-b52d-4040-b672-c653af11145a"/><fw type="pageNum">142</fw><span class="pagenumber">142</span><lb break="paragraph"/><quote type="inlinequote">öffentlichte Dr. <hi rendition="#smallcaps">J. J. Garth Wilkinson</hi>, besser bekannt<lb/> als Dichter und Mystiker von der Richtung <hi rendition="#smallcaps">Swedenborgs</hi><lb/> denn als Arzt, einen Band mystischer Gedichte in Knüttel<lb break="no"/>versen, durch eine angeblich neue Methode, die er ,Impression‘<lb/> nennt, hervorgebracht.</quote>“ „<quote type="inlinequote">Man wählt ein Thema</quote>“, sagt er,<lb/> „<quote type="inlinequote">oder schreibt es nieder, sobald dies geschehen ist, darf<lb/> man den ersten Einfall (impression upon the mind), der sich<lb/> nach der Niederschrift des Titels ergibt, als den Beginn der<lb/> Ausarbeitung des Themas betrachten, gleichgültig wie son<lb break="no"/>derbar oder nicht dazu gehörig das betreffende Wort oder<lb/> der Satz erscheinen mag.</quote>“ „<quote type="inlinequote">Die erste Regung des Geistes,<lb/> das erste Wort, das sich einstellt, ist der Erfolg des Be<lb break="no"/>strebens, sich in das gegebene Thema zu vertiefen.</quote>“ Man<lb/> setzt das Verfahren in konsequenter Weise fort, und <hi rendition="#smallcaps">Garth<lb/> Wilkinson</hi> sagt: „<quote type="inlinequote">Ich habe immer gefunden, daß es wie<lb/> infolge eines untrüglichen Instinkts ins Innere der Sache<lb/> führt.</quote>“ Diese Technik entsprach nach <hi rendition="#smallcaps">Wilkinsons</hi> Ansicht<lb/> einem aufs höchste gesteigerten Sich-gehen-lassen, einer Auf<lb break="no"/>forderung an die tiefstliegenden unbewußten Regungen, sich<lb/> zur Äußerung zu bringen. Wille und Überlegung mahnte er,<lb/> sind beiseite zu lassen; man vertraut sich der Eingebung<lb/> (influx) an und kann dabei finden, daß sich die geistigen<lb/> Fähigkeiten auf unbekannte Ziele einstellen.“<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">*)</hi> Internationale Zeitschrift für Psychoanalyse, VI. 1920.<lb break="paragraph"/></note>
-         
-         
-            
-              <p>„<quote type="inlinequote">Man darf nicht außer acht lassen, daß <hi rendition="#smallcaps">Wilkinson</hi>,<lb/> obwohl er Arzt war, diese Technik zu religiösen und lite<lb break="no"/>rarischen, niemals zu ärztlichen oder wissenschaftlichen<lb/> Zwecken in Anwendung zog, aber es ist leicht einzusehen,<lb/> daß es im wesentlichen die psychoanalytische Technik ist,<lb/> die hier die eigene Person zum Objekt nimmt, ein Beweis<lb/> mehr dafür, daß das Verfahren <hi rendition="#smallcaps">Freuds</hi> das eines Künstlers<lb/> (artist) ist.</quote>“<lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__b087cde6-600e-4ebc-8436-11747dfc7e9d"/>
-            <fw type="pageNum">143</fw> <p>Kenner der psychoanalytischen Literatur werden sich<lb/> hier jener schönen Stelle im Briefwechsel <hi rendition="#smallcaps">Schillers</hi> mit<lb/> <hi rendition="#smallcaps">Körner</hi> erinnern<hi rendition="#sub">*</hi>), in welcher der große Dichter und Denker<lb/> (1788) demjenigen, der produktiv sein möchte, die Beachtung<lb/> des freien Einfalls empfiehlt. Es ist zu vermuten, daß die<lb/> angeblich neue <hi rendition="#smallcaps">Wilkinson</hi>sche Technik bereits vielen an<lb break="no"/>deren vorgeschwebt hat, und ihre systematische Anwendung<lb/> in der Psychoanalyse wird uns nicht so sehr als Beweis für<lb/> die künstlerische Artung <hi rendition="#smallcaps">Freuds</hi> erscheinen, wie als Kon<lb break="no"/>sequenz seiner nach Art eines Vorurteils festgehaltenen Über<lb break="no"/>zeugung von der durchgängigen Determinierung alles seeli<lb break="no"/>schen Geschehens. Die Zugehörigkeit des freien Einfalles zum<lb/> fixierten Thema ergab sich dann als die nächste und wahr<lb break="no"/>scheinlichste Möglichkeit, welche auch durch die Erfahrung<lb/> in der Analyse bestätigt wird, insofern nicht übergroße Wider<lb break="no"/>stände den vermuteten Zusammenhang unkenntlich machen.<lb break="paragraph"/></p> <p>Indes darf man es als sicher annehmen, daß weder<lb/> <hi rendition="#smallcaps">Schiller</hi> noch <hi rendition="#smallcaps">Garth Wilkinson</hi> auf die Wahl der<lb/> psychoanalytischen Technik Einfluß geübt haben. Mehr per<lb break="no"/>sönliche Beziehung scheint sich von einer anderen Seite her<lb/> anzudeuten.<lb break="paragraph"/></p> <p>Vor kurzem machte Dr. Hugo <hi rendition="#smallcaps">Dubowitz</hi> in Budapest<lb/> Dr. <hi rendition="#smallcaps">Ferenczi</hi> auf einen kleinen, nur 4<hi rendition="#sub">1</hi>/<sub>2</sub> Seiten umfassenden<lb/> Aufsatz von Ludwig <hi rendition="#smallcaps">Börne</hi> aufmerksam, der, 1823 verfaßt,<lb/> im ersten Band seiner Gesammelten Schriften (Ausgabe von<lb/> 1862) abgedruckt ist. Er ist betitelt: „Die Kunst, in drei<lb/> Tagen ein Originalschriftsteller zu werden“ und trägt die be<lb break="no"/>kannten Eigentümlichkeiten des Jean <hi rendition="#smallcaps">Paul</hi>schen Stils, dem<lb/> <hi rendition="#smallcaps">Börne</hi> damals huldigte, an sich. Er schließt mit den Sätzen:<lb break="paragraph"/><pb n="4" xml:id="page__c381c554-8664-4128-8c04-f83b60a0112b"/><fw type="pageNum">144</fw>„<quote type="inlinequote">Und hier folgt die versprochene Nutzanwendung. Nehmt<lb/> einige Bogen Papier und schreibt drei Tage hintereinander,<lb/> ohne Falsch und Heuchelei alles nieder, was euch durch den<lb/> Kopf geht. Schreibt, was ihr denkt von euch selbst, von<lb/> euren Weibern, von dem Türkenkrieg, von Goethe, von Fonks<lb/> Kriminalprozeß, vom jüngsten Gericht, von euern Vorgesetzten<lb/> — und nach Verlauf der drei Tage werdet ihr vor Verwun<lb break="no"/>derung, was ihr für neue unerhörte Gedanken gehabt, ganz<lb/> außer euch kommen. Das ist die Kunst, in drei Tagen ein<lb/> Originalschriftsteller zu werden!</quote>“<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">*)</hi> Entdeckt von O. <hi rendition="#smallcaps">Rank</hi> und zitiert in der Traumdeutung, 5. Auf<lb break="no"/>lage, 1919, Seite 72.<lb break="paragraph"/></note>
-         
-         
-            
-              <p>Als Prof. <hi rendition="#smallcaps">Freud</hi> veranlaßt wurde, diesen <hi rendition="#smallcaps">Börne</hi>schen<lb/> Aufsatz zu lesen, machte er eine Reihe von Angaben, die für<lb/> die hier berührte Frage nach der Vorgeschichte der psycho<lb break="no"/>analytischen Einfallsverwertung bedeutungsvoll sein können.<lb/> Er erzählte, daß er <hi rendition="#smallcaps">Börnes</hi> Werke im 14. Jahr zum Ge<lb break="no"/>schenk bekommen habe und dieses Buch heute, 50 Jahre<lb/> später, noch immer als das einzige aus seiner Jugendzeit be<lb break="no"/>sitze. Dieser Schriftsteller sei der erste gewesen, in dessen<lb/> Schriften er sich vertieft habe. An den in Rede stehenden<lb/> Aufsatz könne er sich nicht erinnern, aber andere, in den<lb break="no"/>selben Band aufgenommene, wie die Denkrede auf Jean Paul,<lb/> Der Eßkünstler, Der Narr im weißen Schwan, seien durch<lb/> lange Jahre ohne ersichtlichen Grund immer wieder in seiner<lb/> Erinnerung aufgetaucht. Er war besonders erstaunt, in der<lb/> Anweisung zum Originalschriftsteller einige Gedanken aus<lb break="no"/>gesprochen zu finden, die er selbst immer gehegt und ver<lb break="no"/>treten habe, z. B. „<quote type="inlinequote">Eine schimpfliche Feigheit zu denken,<lb/> hält uns alle zurück. Drückender als die Zensur der Regie<lb break="no"/>rungen ist die Zensur, welche die öffentliche Meinung über<lb/> unsere Geisteswerke ausübt.</quote>“ (Hier findet sich übrigens die<lb/> „Zensur“ erwähnt, die in der Psychoanalyse als Traumzensur<lb break="paragraph"/><pb n="5" xml:id="page__04d752b6-939a-4482-9a79-9d25a35da899"/><fw type="pageNum">145</fw>wiedergekommen ist....) „<quote type="inlinequote">Nicht an Geist, an Charakter<lb/> mangelt es den meisten Schriftstellern, um besser zu sein,<lb/> als sie sind.... Aufrichtigkeit ist die Quelle aller Genia<lb break="no"/>lität, und die Menschen wären geistreicher, wenn sie sitt<lb break="no"/>licher wären....</quote>“<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Es scheint uns also nicht ausgeschlossen, daß dieser Hin<lb break="no"/>weis vielleicht jenes Stück Kryptomnesie aufgedeckt hat, das<lb/> in so vielen Fällen hinter einer anscheinenden Originalität<lb/> vermutet werden darf. <lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__0cd06378-b7ee-47af-ad85-08bd0192c4e0"/>
+        <fw type="pageNum">[141]</fw>
+        <p rendition="#level_3">II.<lb/> ZUR VORGESCHICHTE<lb/> DER ANALYTISCHEN TECHNIK.<hi rendition="#footnote-index">*)</hi>
+        </p>
+        <p>In einem neuen Buche von <hi rendition="#smallcaps">Havelock Ellis</hi>, dem hoch<lb break="no"/>verdienten Sexualforscher und vornehmen Kritiker der Psycho<lb break="no"/>analyse, betitelt „The Philosophy of Conflict and other essays<lb/> in war-time, second series„, London 1919, ist ein Aufsatz:<lb/> „Psycho-Analysis in relation to sex“ enthalten, der sich nach<lb break="no"/>zuweisen bemüht, daß das Werk des Schöpfers der Analyse<lb/> nicht als ein Stück wissenschaftlicher Arbeit, sondern als<lb/> eine künstlerische Leistung gewertet werden sollte. Es liegt<lb/> uns nahe, in dieser Auffassung eine neue Wendung des Wider<lb break="no"/>standes und eine Ablehnung der Analyse zu sehen, wenn<lb break="no"/>gleich sie in liebenswürdiger, ja in allzu schmeichelhafter<lb/> Weise verkleidet ist. Wir sind geneigt, ihr aufs entschie<lb break="no"/>denste zu widersprechen.<lb break="paragraph"/>
+        </p>
+        <p>Doch nicht solcher Widerspruch ist das Motiv unserer<lb/> Beschäftigung mit dem Essay von <hi rendition="#smallcaps">Havelock Ellis</hi>, son<lb break="no"/>dern die Tatsache, daß er durch seine große Belesenheit in<lb/> die Lage gekommen ist, einen Autor anzuführen, der die freie<lb/> Assoziation als Technik geübt und empfohlen hat, wenngleich<lb/> zu anderen Zwecken, und somit ein Recht hat, in dieser<lb/> Hinsicht als Vorläufer der Psychoanalytiker genannt zu wer<lb break="no"/>den. „I<quote type="inlinequote">m Jahre 1857</quote>“, schreibt <hi rendition="#smallcaps">Havelock Ellis</hi>, „<quote type="inlinequote">ver-</quote>
+          <lb break="paragraph"/>
+          <pb n="2" xml:id="page__77ccf562-b52d-4040-b672-c653af11145a"/>
+          <fw type="pageNum">142</fw>
+          <span class="pagenumber">142</span>
+          <lb break="paragraph"/>
+          <quote type="inlinequote">öffentlichte Dr. <hi rendition="#smallcaps">J. J. Garth Wilkinson</hi>, besser bekannt<lb/> als Dichter und Mystiker von der Richtung <hi rendition="#smallcaps">Swedenborgs</hi>
+            <lb/> denn als Arzt, einen Band mystischer Gedichte in Knüttel<lb break="no"/>versen, durch eine angeblich neue Methode, die er ,Impression‘<lb/> nennt, hervorgebracht.</quote>“ „<quote type="inlinequote">Man wählt ein Thema</quote>“, sagt er,<lb/> „<quote type="inlinequote">oder schreibt es nieder, sobald dies geschehen ist, darf<lb/> man den ersten Einfall (impression upon the mind), der sich<lb/> nach der Niederschrift des Titels ergibt, als den Beginn der<lb/> Ausarbeitung des Themas betrachten, gleichgültig wie son<lb break="no"/>derbar oder nicht dazu gehörig das betreffende Wort oder<lb/> der Satz erscheinen mag.</quote>“ „<quote type="inlinequote">Die erste Regung des Geistes,<lb/> das erste Wort, das sich einstellt, ist der Erfolg des Be<lb break="no"/>strebens, sich in das gegebene Thema zu vertiefen.</quote>“ Man<lb/> setzt das Verfahren in konsequenter Weise fort, und <hi rendition="#smallcaps">Garth<lb/> Wilkinson</hi> sagt: „<quote type="inlinequote">Ich habe immer gefunden, daß es wie<lb/> infolge eines untrüglichen Instinkts ins Innere der Sache<lb/> führt.</quote>“ Diese Technik entsprach nach <hi rendition="#smallcaps">Wilkinsons</hi> Ansicht<lb/> einem aufs höchste gesteigerten Sich-gehen-lassen, einer Auf<lb break="no"/>forderung an die tiefstliegenden unbewußten Regungen, sich<lb/> zur Äußerung zu bringen. Wille und Überlegung mahnte er,<lb/> sind beiseite zu lassen; man vertraut sich der Eingebung<lb/> (influx) an und kann dabei finden, daß sich die geistigen<lb/> Fähigkeiten auf unbekannte Ziele einstellen.“<lb break="paragraph"/>
+        </p>
+        <note type="footnote">
+          <hi rendition="#footnote-index">*)</hi> Internationale Zeitschrift für Psychoanalyse, VI. 1920.<lb break="paragraph"/>
+        </note>
+        <p>„<quote type="inlinequote">Man darf nicht außer acht lassen, daß <hi rendition="#smallcaps">Wilkinson</hi>,<lb/> obwohl er Arzt war, diese Technik zu religiösen und lite<lb break="no"/>rarischen, niemals zu ärztlichen oder wissenschaftlichen<lb/> Zwecken in Anwendung zog, aber es ist leicht einzusehen,<lb/> daß es im wesentlichen die psychoanalytische Technik ist,<lb/> die hier die eigene Person zum Objekt nimmt, ein Beweis<lb/> mehr dafür, daß das Verfahren <hi rendition="#smallcaps">Freuds</hi> das eines Künstlers<lb/> (artist) ist.</quote>“<lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__b087cde6-600e-4ebc-8436-11747dfc7e9d"/>
+        <fw type="pageNum">143</fw>
+        <p>Kenner der psychoanalytischen Literatur werden sich<lb/> hier jener schönen Stelle im Briefwechsel <hi rendition="#smallcaps">Schillers</hi> mit<lb/>
+          <hi rendition="#smallcaps">Körner</hi> erinnern<hi rendition="#sub">*</hi>), in welcher der große Dichter und Denker<lb/> (1788) demjenigen, der produktiv sein möchte, die Beachtung<lb/> des freien Einfalls empfiehlt. Es ist zu vermuten, daß die<lb/> angeblich neue <hi rendition="#smallcaps">Wilkinson</hi>sche Technik bereits vielen an<lb break="no"/>deren vorgeschwebt hat, und ihre systematische Anwendung<lb/> in der Psychoanalyse wird uns nicht so sehr als Beweis für<lb/> die künstlerische Artung <hi rendition="#smallcaps">Freuds</hi> erscheinen, wie als Kon<lb break="no"/>sequenz seiner nach Art eines Vorurteils festgehaltenen Über<lb break="no"/>zeugung von der durchgängigen Determinierung alles seeli<lb break="no"/>schen Geschehens. Die Zugehörigkeit des freien Einfalles zum<lb/> fixierten Thema ergab sich dann als die nächste und wahr<lb break="no"/>scheinlichste Möglichkeit, welche auch durch die Erfahrung<lb/> in der Analyse bestätigt wird, insofern nicht übergroße Wider<lb break="no"/>stände den vermuteten Zusammenhang unkenntlich machen.<lb break="paragraph"/>
+        </p>
+        <p>Indes darf man es als sicher annehmen, daß weder<lb/>
+          <hi rendition="#smallcaps">Schiller</hi> noch <hi rendition="#smallcaps">Garth Wilkinson</hi> auf die Wahl der<lb/> psychoanalytischen Technik Einfluß geübt haben. Mehr per<lb break="no"/>sönliche Beziehung scheint sich von einer anderen Seite her<lb/> anzudeuten.<lb break="paragraph"/>
+        </p>
+        <p>Vor kurzem machte Dr. Hugo <hi rendition="#smallcaps">Dubowitz</hi> in Budapest<lb/> Dr. <hi rendition="#smallcaps">Ferenczi</hi> auf einen kleinen, nur 4<hi rendition="#sub">1</hi>/<sub>2</sub> Seiten umfassenden<lb/> Aufsatz von Ludwig <hi rendition="#smallcaps">Börne</hi> aufmerksam, der, 1823 verfaßt,<lb/> im ersten Band seiner Gesammelten Schriften (Ausgabe von<lb/> 1862) abgedruckt ist. Er ist betitelt: „Die Kunst, in drei<lb/> Tagen ein Originalschriftsteller zu werden“ und trägt die be<lb break="no"/>kannten Eigentümlichkeiten des Jean <hi rendition="#smallcaps">Paul</hi>schen Stils, dem<lb/>
+          <hi rendition="#smallcaps">Börne</hi> damals huldigte, an sich. Er schließt mit den Sätzen:<lb break="paragraph"/>
+          <pb n="4" xml:id="page__c381c554-8664-4128-8c04-f83b60a0112b"/>
+          <fw type="pageNum">144</fw>„<quote type="inlinequote">Und hier folgt die versprochene Nutzanwendung. Nehmt<lb/> einige Bogen Papier und schreibt drei Tage hintereinander,<lb/> ohne Falsch und Heuchelei alles nieder, was euch durch den<lb/> Kopf geht. Schreibt, was ihr denkt von euch selbst, von<lb/> euren Weibern, von dem Türkenkrieg, von Goethe, von Fonks<lb/> Kriminalprozeß, vom jüngsten Gericht, von euern Vorgesetzten<lb/> — und nach Verlauf der drei Tage werdet ihr vor Verwun<lb break="no"/>derung, was ihr für neue unerhörte Gedanken gehabt, ganz<lb/> außer euch kommen. Das ist die Kunst, in drei Tagen ein<lb/> Originalschriftsteller zu werden!</quote>“<lb break="paragraph"/>
+        </p>
+        <note type="footnote">
+          <hi rendition="#footnote-index">*)</hi> Entdeckt von O. <hi rendition="#smallcaps">Rank</hi> und zitiert in der Traumdeutung, 5. Auf<lb break="no"/>lage, 1919, Seite 72.<lb break="paragraph"/>
+        </note>
+        <p>Als Prof. <hi rendition="#smallcaps">Freud</hi> veranlaßt wurde, diesen <hi rendition="#smallcaps">Börne</hi>schen<lb/> Aufsatz zu lesen, machte er eine Reihe von Angaben, die für<lb/> die hier berührte Frage nach der Vorgeschichte der psycho<lb break="no"/>analytischen Einfallsverwertung bedeutungsvoll sein können.<lb/> Er erzählte, daß er <hi rendition="#smallcaps">Börnes</hi> Werke im 14. Jahr zum Ge<lb break="no"/>schenk bekommen habe und dieses Buch heute, 50 Jahre<lb/> später, noch immer als das einzige aus seiner Jugendzeit be<lb break="no"/>sitze. Dieser Schriftsteller sei der erste gewesen, in dessen<lb/> Schriften er sich vertieft habe. An den in Rede stehenden<lb/> Aufsatz könne er sich nicht erinnern, aber andere, in den<lb break="no"/>selben Band aufgenommene, wie die Denkrede auf Jean Paul,<lb/> Der Eßkünstler, Der Narr im weißen Schwan, seien durch<lb/> lange Jahre ohne ersichtlichen Grund immer wieder in seiner<lb/> Erinnerung aufgetaucht. Er war besonders erstaunt, in der<lb/> Anweisung zum Originalschriftsteller einige Gedanken aus<lb break="no"/>gesprochen zu finden, die er selbst immer gehegt und ver<lb break="no"/>treten habe, z. B. „<quote type="inlinequote">Eine schimpfliche Feigheit zu denken,<lb/> hält uns alle zurück. Drückender als die Zensur der Regie<lb break="no"/>rungen ist die Zensur, welche die öffentliche Meinung über<lb/> unsere Geisteswerke ausübt.</quote>“ (Hier findet sich übrigens die<lb/> „Zensur“ erwähnt, die in der Psychoanalyse als Traumzensur<lb break="paragraph"/>
+          <pb n="5" xml:id="page__04d752b6-939a-4482-9a79-9d25a35da899"/>
+          <fw type="pageNum">145</fw>wiedergekommen ist....) „<quote type="inlinequote">Nicht an Geist, an Charakter<lb/> mangelt es den meisten Schriftstellern, um besser zu sein,<lb/> als sie sind.... Aufrichtigkeit ist die Quelle aller Genia<lb break="no"/>lität, und die Menschen wären geistreicher, wenn sie sitt<lb break="no"/>licher wären....</quote>“<lb break="paragraph"/>
+        </p>
+        <p>Es scheint uns also nicht ausgeschlossen, daß dieser Hin<lb break="no"/>weis vielleicht jenes Stück Kryptomnesie aufgedeckt hat, das<lb/> in so vielen Fällen hinter einer anscheinenden Originalität<lb/> vermutet werden darf. <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

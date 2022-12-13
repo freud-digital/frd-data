@@ -1,201 +1,222 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1922-008; 1922j): Was wird aus Europa?</title>
-            <title type="manifestation" level="a">Was wird aus Europa? (1922-008/1922.4)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1922-008; 1922j): Was wird aus Europa?</title>
+        <title type="manifestation" level="a">Was wird aus Europa? (1922-008/1922.4)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>OCR korr. LF</p>
-<p>2. Korr. CH</p>
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1922-008-1922.4" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Was wird aus Europa?</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Luxemburger Wort für Wahrheit und Recht</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <imprint>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>OCR korr. LF</p>
+          <p>2. Korr. CH</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-008-1922.4" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Was wird aus Europa?</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Luxemburger Wort für Wahrheit und Recht</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
                      </imprint>
-                     <extent>2</extent>
-                     <biblScope unit="volume">259</biblScope>
-                     <biblScope unit="year">75</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__691de5d6-a9d5-4689-abd3-dc3726664ca3">
-                        <title>Was wird aus Europa?</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+              <extent>2</extent>
+              <biblScope unit="volume">259</biblScope>
+              <biblScope unit="year">75</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__691de5d6-a9d5-4689-abd3-dc3726664ca3">
+                <title>Was wird aus Europa?</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1922-008/1922.4</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/was-wird-aus-europa/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/691de5d6-a9d5-4689-abd3-dc3726664ca3</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__f8457f98-2c86-4974-83f9-df5c285a05aa">
-                              <title>Freud, Sigmund  (1922-008; 1922j): Was wird aus Europa?</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/was-wird-aus-europa</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f8457f98-2c86-4974-83f9-df5c285a05aa</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1922-008/1922.4</idno>
+                <idno type="url">https://www.freud-edition.net/werke/was-wird-aus-europa/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/691de5d6-a9d5-4689-abd3-dc3726664ca3</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__f8457f98-2c86-4974-83f9-df5c285a05aa">
+                    <title>Freud, Sigmund  (1922-008; 1922j): Was wird aus Europa?</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/was-wird-aus-europa</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f8457f98-2c86-4974-83f9-df5c285a05aa</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__137562cd-060d-4d55-91d1-c3a42b85f8e0"/>
-            <p rendition="#h1"><title>Kleines Feuilleton.<lb break="paragraph"/></title></p> <p rendition="#level_2">Was wird aus Europa?</p><p>Die in Wien erscheinende literarische und kulturpolitische Wo<lb break="no"/>chenschrift in ungarischer Sprache „Tüz“ (Feuer) veranstaltet eine<lb/> Enquete über die gegenwärtige Krisis und die zu erwartende Zu<lb break="no"/>kunft der europäischen Kultur und wandte sich hierbei an bekannte<lb/> Persönlichkeiten in ganz Europa. Die Schriftleitung des „Tüz“<lb/> stellte uns Abschriften, Übersetzungen und Auszüge eines Teils<lb/> der Antworten auf folgende Fragen zur Verfügung:<lb break="paragraph"/></p> <p>1. Glauben Sie an den weiteren Bestand und an eine hoff<lb break="no"/>nungsverheißende Entwicklung der gegenwärtigen europäischen Kul<lb break="no"/>tur? 2. Falls Sie diese Frage verneinen: wie stellen Sie sich den<lb/> aus dem Chaos hinausführenden Zukunftsweg der Menschheit<lb/> vor? 3. Worin erblicken Sie die Aufgabe der führenden Geister<lb/> in dieser geschichtlichen Krisis?<lb break="paragraph"/></p> <p>Iwan Goll (Paris) schreibt u. a.: Die gegenwärtige Kultur<lb/> ist schon nicht mehr europäisch, sondern mondial: was man nämlich<lb/> noch Kultur nennen kann — Lifts, Five o'clocks, W. C., die ge<lb break="no"/>sammelten Werke von Goethe, ein Abonnement auf die „Woche“.<lb/> Nennen Sie etwas anderes Kultur? Dann wäre es immerhin nur<lb/> der Streit um ein Wort. Vor allen Dingen aber interessiert mich<lb/> die Kultur des anderen gar nicht. Aus Ihrer Frage ist ersichtlich,<lb/> daß Sie die Welt vor 1914 als auf dem Gipfel einer Kultur<lb/> stehend betrachten. Ich finde, daß das bürgerliche fortschrittliche<lb/> 19. Jahrhundert äußerst langweilig und kulturlos war — kein<lb/> einziger Stil bleibt von ihm übrig! — und ich habe mit unseren<lb/> Großeltern der „guten alten Zeit“ nur Mitleid. Wichtig ist die<lb/> Lebensfähigkeit einer Rasse. Europa ist müde, d. h. seine Kultur<lb break="no"/>führer. Aber die nebeneuropäischen Rassen, die Slawen und Bal<lb break="no"/>tenvölker sind lebensmächtiger denn je, und ich erwarte von diesen,<lb/> Rußland voran, den Anprall zu einem neuen Glauben und<lb/> Schaffen.<lb break="paragraph"/></p> <p>Prof. A. Aulard (Paris) schreibt u. a.: Ich bin weder ein<lb/> Prophet der Freude, noch der Gefahr. Ich bin Historiker. Das<lb/> Studium der Vergangenheit flößt mir die Ueberzeugung ein, daß<lb/> Europa sich nur dann aus dem Chaos befreien wird, wenn die<lb/> europäischen Völker sich mit einander eng verbünden und in der<lb/> Liga der Nationen eine europäische Organisation mit vollendeter<lb/> Grundlage zustande bringen. Die Verbreiterung dieser Grundlage<lb/> durch den vor kurzem erfolgten Eintritt Ungarns in den Völker<lb break="no"/>bund erlaubt mir eine nahe noch bedeutendere Verbreiterung zu<lb/> erhoffen.<lb break="paragraph"/></p> <p>Gilbert Keith Chesterton (Beaconsfield, England) schreibt:<lb/> Als Antwort auf Ihre den Zusammenbruch der abendländischen<lb/> Zivilisation betreffenden Fragen teile ich Ihnen mit, daß meine<lb/> Ansichten über diesen Gegenstand in einer Bemerkung Mr. Belloc´s<lb/> enthalten sind: „Europa wird zum Glauben zurückkehren, oder<lb/> seine Zivilisation wird zu Grunde gehen. (Anm. der Schriftleitung<lb/> des „Tüz“: J. Hilaire Belloc ist ein enger Freund Chestertons<lb/> und Führer einer christlich-individualistischen Bewegung in Eng<lb break="no"/>land. Unter „Glauben“ versteht Chesterton die römisch-katho<lb break="no"/>lischen Religion, zu welcher er vor kurzem übergetreten ist.)<lb break="paragraph"/></p> <p>Prof. Nicolas Jorga (Valeni-le-Monte, Rumänien) hebt her<lb break="no"/>vor: Die Kräfte Europas können sich nur dann vereinen, wenn die<lb/> Schriftsteller und Denker aufhören, ihre Fähigkeiten in den Dienst<lb/> der Revanchewut, der Unterdrückung von Nationen und der Kriegs<lb break="no"/>technik zu stellen. Die technische Vervollkommnung unseres Zeit<lb break="no"/>alters ist seelisch wertlos. Die Schriftsteller, welche das Gute<lb/> wollen, mögen bei jeder Zeile, die sie niederschreiben, genau prüfen,<lb/> ob sie die Verantwortung dafür vor dem Gewissen einer geläuter<lb break="no"/>ten und wiedergeborenen Welt übernehmen können.<lb break="paragraph"/></p> <p>Prof. Dr. Sigmund Freud (Wien) schreibt: Leider weiß ich<lb/> auf keine Ihrer Schicksalsfragen Antwort zu geben. Meine Zu<lb break="no"/>kunftserwartungen schwanken mit meiner Stimmung. Ich wäre<lb/> selbst sehr froh, wenn mich jemand über diese Probleme belehren<lb/> würde.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__137562cd-060d-4d55-91d1-c3a42b85f8e0"/>
+        <p rendition="#h1">
+          <title>Kleines Feuilleton.<lb break="paragraph"/>
+          </title>
+        </p>
+        <p rendition="#level_2">Was wird aus Europa?</p>
+        <p>Die in Wien erscheinende literarische und kulturpolitische Wo<lb break="no"/>chenschrift in ungarischer Sprache „Tüz“ (Feuer) veranstaltet eine<lb/> Enquete über die gegenwärtige Krisis und die zu erwartende Zu<lb break="no"/>kunft der europäischen Kultur und wandte sich hierbei an bekannte<lb/> Persönlichkeiten in ganz Europa. Die Schriftleitung des „Tüz“<lb/> stellte uns Abschriften, Übersetzungen und Auszüge eines Teils<lb/> der Antworten auf folgende Fragen zur Verfügung:<lb break="paragraph"/>
+        </p>
+        <p>1. Glauben Sie an den weiteren Bestand und an eine hoff<lb break="no"/>nungsverheißende Entwicklung der gegenwärtigen europäischen Kul<lb break="no"/>tur? 2. Falls Sie diese Frage verneinen: wie stellen Sie sich den<lb/> aus dem Chaos hinausführenden Zukunftsweg der Menschheit<lb/> vor? 3. Worin erblicken Sie die Aufgabe der führenden Geister<lb/> in dieser geschichtlichen Krisis?<lb break="paragraph"/>
+        </p>
+        <p>Iwan Goll (Paris) schreibt u. a.: Die gegenwärtige Kultur<lb/> ist schon nicht mehr europäisch, sondern mondial: was man nämlich<lb/> noch Kultur nennen kann — Lifts, Five o'clocks, W. C., die ge<lb break="no"/>sammelten Werke von Goethe, ein Abonnement auf die „Woche“.<lb/> Nennen Sie etwas anderes Kultur? Dann wäre es immerhin nur<lb/> der Streit um ein Wort. Vor allen Dingen aber interessiert mich<lb/> die Kultur des anderen gar nicht. Aus Ihrer Frage ist ersichtlich,<lb/> daß Sie die Welt vor 1914 als auf dem Gipfel einer Kultur<lb/> stehend betrachten. Ich finde, daß das bürgerliche fortschrittliche<lb/> 19. Jahrhundert äußerst langweilig und kulturlos war — kein<lb/> einziger Stil bleibt von ihm übrig! — und ich habe mit unseren<lb/> Großeltern der „guten alten Zeit“ nur Mitleid. Wichtig ist die<lb/> Lebensfähigkeit einer Rasse. Europa ist müde, d. h. seine Kultur<lb break="no"/>führer. Aber die nebeneuropäischen Rassen, die Slawen und Bal<lb break="no"/>tenvölker sind lebensmächtiger denn je, und ich erwarte von diesen,<lb/> Rußland voran, den Anprall zu einem neuen Glauben und<lb/> Schaffen.<lb break="paragraph"/>
+        </p>
+        <p>Prof. A. Aulard (Paris) schreibt u. a.: Ich bin weder ein<lb/> Prophet der Freude, noch der Gefahr. Ich bin Historiker. Das<lb/> Studium der Vergangenheit flößt mir die Ueberzeugung ein, daß<lb/> Europa sich nur dann aus dem Chaos befreien wird, wenn die<lb/> europäischen Völker sich mit einander eng verbünden und in der<lb/> Liga der Nationen eine europäische Organisation mit vollendeter<lb/> Grundlage zustande bringen. Die Verbreiterung dieser Grundlage<lb/> durch den vor kurzem erfolgten Eintritt Ungarns in den Völker<lb break="no"/>bund erlaubt mir eine nahe noch bedeutendere Verbreiterung zu<lb/> erhoffen.<lb break="paragraph"/>
+        </p>
+        <p>Gilbert Keith Chesterton (Beaconsfield, England) schreibt:<lb/> Als Antwort auf Ihre den Zusammenbruch der abendländischen<lb/> Zivilisation betreffenden Fragen teile ich Ihnen mit, daß meine<lb/> Ansichten über diesen Gegenstand in einer Bemerkung Mr. Belloc´s<lb/> enthalten sind: „Europa wird zum Glauben zurückkehren, oder<lb/> seine Zivilisation wird zu Grunde gehen. (Anm. der Schriftleitung<lb/> des „Tüz“: J. Hilaire Belloc ist ein enger Freund Chestertons<lb/> und Führer einer christlich-individualistischen Bewegung in Eng<lb break="no"/>land. Unter „Glauben“ versteht Chesterton die römisch-katho<lb break="no"/>lischen Religion, zu welcher er vor kurzem übergetreten ist.)<lb break="paragraph"/>
+        </p>
+        <p>Prof. Nicolas Jorga (Valeni-le-Monte, Rumänien) hebt her<lb break="no"/>vor: Die Kräfte Europas können sich nur dann vereinen, wenn die<lb/> Schriftsteller und Denker aufhören, ihre Fähigkeiten in den Dienst<lb/> der Revanchewut, der Unterdrückung von Nationen und der Kriegs<lb break="no"/>technik zu stellen. Die technische Vervollkommnung unseres Zeit<lb break="no"/>alters ist seelisch wertlos. Die Schriftsteller, welche das Gute<lb/> wollen, mögen bei jeder Zeile, die sie niederschreiben, genau prüfen,<lb/> ob sie die Verantwortung dafür vor dem Gewissen einer geläuter<lb break="no"/>ten und wiedergeborenen Welt übernehmen können.<lb break="paragraph"/>
+        </p>
+        <p>Prof. Dr. Sigmund Freud (Wien) schreibt: Leider weiß ich<lb/> auf keine Ihrer Schicksalsfragen Antwort zu geben. Meine Zu<lb break="no"/>kunftserwartungen schwanken mit meiner Stimmung. Ich wäre<lb/> selbst sehr froh, wenn mich jemand über diese Probleme belehren<lb/> würde.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
