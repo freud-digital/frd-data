@@ -1,0 +1,663 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+            <title type="manifestation" level="a">Nachträge zur Traumdeutung (1900-001/1911.2)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1900-001-1931.3">
+                     <analytic>
+                        <title type="manifestation">Die Grenzen der Deutbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>381 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1931">
+                     <analytic>
+                        <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>373 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1931.2">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>377 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1910">
+                     <analytic>
+                        <title type="manifestation">Typisches Beispiel eines verkappten Ödipustraumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Zentralblatt für Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>45 Seiten</extent>                        <biblScope unit="volume">1/2</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.6">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>76 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1909">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung </title>
+                        <title type="manifestation-short">2., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1914.2">
+                     <analytic>
+                        <title type="manifestation">Darstellung der „großen Leistung“ im Traum</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>385 Seiten</extent>                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="year">2</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1930">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung </title>
+                        <title type="manifestation-short">8., veränderte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1922">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">7. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.4">
+                     <analytic>
+                        <title type="manifestation">Zwei Zimmer und eines</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1914">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">4. vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.2">
+                     <analytic>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 2</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__06042234-2d81-4f5c-b5fc-dabf031e4cfe">Rank, Otto</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>538 Seiten</extent>                        <biblScope unit="volume">2. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.6">
+                     <analytic>
+                        <title type="manifestation">Rücksicht auf Darstellbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>382</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.7">
+                     <analytic>
+                        <title type="manifestation">Träume von Toten</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>382</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.4">
+                     <analytic>
+                        <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>71 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911.3">
+                     <analytic>
+                        <title type="manifestation">Nachträge zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.2">
+                     <analytic>
+                        <title type="manifestation">Tageszeiten im Trauminhalt</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>378 Seiten</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1900">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">Erstveröffentlichung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Pester Lloyd. Morgenblatt</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>9</extent>                        <biblScope unit="volume">201</biblScope>
+                        <biblScope unit="year">72</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.3">
+                     <analytic>
+                        <title type="manifestation">Darstellung von Lebenszeiten im Traume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>378</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.7">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                        </imprint>
+<extent>238 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="year">11</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">3., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1897">
+                     <analytic>
+                        <title type="manifestation">Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1898-02-01">1898-02-01</date>
+                        </imprint>
+<extent>67</extent>                        <biblScope unit="volume">2 (Februar)</biblScope>
+                        <biblScope unit="year">1</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1921">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">6. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.5">
+                     <analytic>
+                        <title type="manifestation">Die Grenzen der Deutbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>66 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.3">
+                     <analytic>
+                        <title type="manifestation">Ergänzungen und Zusatzkapitel zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>185 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1919">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">5., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913">
+                     <analytic>
+                        <title type="manifestation">Traum ohne kenntlichen Anlaß</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>377</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.5">
+                     <analytic>
+                        <title type="manifestation">Der Mantel als Symbol</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1900-001-1911.2" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Nachträge zur Traumdeutung</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Zentralblatt für Psychoanalyse</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <imprint>
+                     </imprint>
+                     <extent>192 Seiten</extent>
+                     <biblScope unit="volume">5/6</biblScope>
+                     <biblScope unit="year">1</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__9fa60f20-e678-4003-83c9-3ec297f3b6ba">
+                        <title>Nachträge zur Traumdeutung</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1900-001/1911.2</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/nachtrage-zur-traumdeutung/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9fa60f20-e678-4003-83c9-3ec297f3b6ba</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__dce0b091-7de7-4914-8401-998f575029c4">
+                              <title>Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+                              <idno type="url">https://www.freud-edition.net/traumdeutung</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">Zentralblatt_I_1911_Heft_5_6_k</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__c2ad498c-e9c0-49ee-8915-363457607a2f"/>
+            <p>Originalarbeiten.<lb break="paragraph"/></p> <p>I<lb break="paragraph"/></p> <p>Naehträge zur Traumdeutung.<lb/> Von Sigm. Freud.<lb break="paragraph"/></p> <p>Einige Beispiele von Truumsymholen.<lb break="paragraph"/></p> <p>Unter den vielen Einwendungen gegen die psychosnslytische Prsxis<lb/> die befremdendste, und wenn man so sagen darf: die ignoranteste, scheint<lb/> mir der Zweifel an der Existenz der Symbolik im Traum und. im Un<lb break="no"/>bewussten, da niemand, der psychoanslytisch arbeitet, auf die Annahme<lb/> einer solchen Symbolik verzichten kann, und ds für den Traum die<lb/> Auflösung durch Symbole seit den ältesten Zeiten geübt wird. Hingegen<lb/> sind wir bereit zuzugeben, dass der Erweis dieser Symbolik mit be—<lb/> sonderer Strenge erfolgen soll, um der hier herrschenden Msnnigfeltigkeit<lb/> gerecht zu werden.<lb break="paragraph"/></p> <p>Im folgenden habe ich einige Beispiele aus meiner jüngsten Er<lb break="no"/>Fehrung zusammengestellt, in denen mit die Lösung durch ein bestimmtes<lb/> Symbol besonders einleuchtend erschien. Der Traum erhält dann einen<lb/> Sinn, den er sonst niemals haben könnte, ﬁndet seine Einreihung in<lb/> den Gedankenzussmmenheng des Träumers und wird von dem Anulysierten<lb/> selbst als gedeutet anerkannt.<lb break="paragraph"/></p> <p>Zur Technik bemerke ich, dass gende bei den symbolischen<lb/> Elementen der Träume die sssoziierten Einfiille des Träumers zu<lb/> versagen pﬂegen, so dass dies Verhalten an sich zum Versuch einer<lb/> symbolischen Deutung nnregt. In der Darstellung der wenigen aus<lb break="no"/>gewählten Treumbeispiele habe ich mein eigenes Eingreifen und die<lb/> selbständige Arbeit des Patienten (und Triumers) jedesmal scharf zu<lb/> sondern gesucht.<lb break="paragraph"/></p> <p>1. Der Hut als Symbol des Mannes (des männlichen Genitsles).<lb break="paragraph"/></p> <p>(Teilstück aus dem Traum einer jungen, infolge von Versuchungsengst<lb/> s.gsrophobischen Frau.)<lb break="paragraph"/></p> <p>„Ich gehe im Sommer auf der Strasse spazieren, trage einen<lb/> Strohhut von eigentümlicher Form, dessen Mittelstiiel—r nach oben unf<lb break="no"/>gebogen ist, dessen Seitenteile nach abwärts hängen (Beschreibung hier<lb break="paragraph"/></p> <p>Zeukl.lhhtt n: Pquholuelylm mx 18<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__b286cc94-4ffb-4ae4-9015-546cdd3b1d31"/>
+            <p>188 Sigm. Freud,<lb break="paragraph"/></p> <p>stockend), und zwar so, dass der eine tiefer steht als der andere. Ich<lb/> bin heiter und in sicherer Stimmung, und wie ich an einem Trupp<lb/> junger Ofﬁziere vorbeigehe, denke ich mir: Ihr könnt mir alle nichts<lb/> anheben.“<lb break="paragraph"/></p> <p>Da sie zu dem Hut im Trauma keinen Einfall produzieren kann,<lb/> sage ich ihr: Der Hut ist wohl ein männlichee Genitale mit seinem<lb/> emporgerichteten Mittelstück und den beiden herahhängenden Seiten<lb break="no"/>teilen. Dass der Hut ein Mann sein soll, ist vielleicht sonderbar, aber<lb/> man sagt ja auch: „Unter die Haube kommen!“ Absichtlicb enthalte ich<lb/> mich der Deutung 'enes Details über das ungleiche Herabhängen der<lb/> beiden Seitenteile, obwohl gerade solche Einzelheiten in ihrer Determinie<lb break="no"/>rung der Deutung den Weg weisen miissen. Ich setze fort: Wenn sie also<lb/> einen Mann mit so prächtigem Genitale hat, braucht sie sich vor den<lb/> Ofﬁzieren nicht zu fürchten, d. h. nichts von ihnen zu wünschen, da<lb/> sie sonst wesentlich durch ihre Versuchungsphantasien vom Gehen<lb/> ohne Schutz und Begleitung abgehalten wird. Diese letztere Aufklärung<lb/> ihrer Angst hatte ich ihr schon zu wiederholten Malen, auf anderes<lb/> Material gestützt, gehen können.<lb break="paragraph"/></p> <p>Es ist nun sehr heachtenewert, wie sich die Träumerin nach dieser<lb/> Deutung benimmt. Sie zieht die Beschreibung des Hutes zurück und<lb/> Will nicht gesagt haben, dass die beiden Seitenteile nach abwärts hängen.<lb/> Ich bin des Gehörten zu sicher, um mich bein-en zu lassen. und heherre<lb/> dabei. Sie schweigt eine Weile und ﬁndet dann den Mut zu fragen,<lb/> was es bedeute, dass bei ihrem Marine ein Hude tiefer stehe als der<lb/> andere, und. ob es bei allen Männern so sei. Damit war dies sonder<lb break="no"/>bare Detail des Hutes aufgeklärt und die ganze Deutung von ihr<lb/> akzeptiert.<lb break="paragraph"/></p> <p>Das Hutsymbol war mir längst bekannt, als mir die Patientin<lb/> diesen Traum mitteilte. Aus anderen. aber minder durchsichtigen Fällen<lb/> glaubte ich zu entnehmen, dass der Hut auch für ein weibliches Genitale<lb/> stehen kann.<lb break="paragraph"/></p> <p>2. Das Kleine ist das Genitale v das Überfahrenwerden<lb/> ist ein Symbol des Geschlechtsverkehrs.<lb break="paragraph"/></p> <p>(Ein anderer Traum derselben agarophobischen Patientin.)<lb break="paragraph"/></p> <p>„Ihre Mutter schickt ihre kleine Tochter Weg, damit sie allein<lb/> gehen muss. Sie fährt dann mit der Mutter in der Eisenbahn und<lb/> sieht ihre Kleine direkt auf den Schienenweg zugehen, so dass sie über<lb break="no"/>fahren werden muss. Man hört die Knochen kraehen (dabei ein un—<lb/> behagliches Gefühl, aber kein eigentlicbes Entsetzen). Dann sieht sie<lb/> sich aus den Waggonfenstern um, oh man nicht hinten die Teile sieht.<lb/> Dann macht sie ihrer Mutter Vorwürfe dass sie die Kleine allein hat<lb/> gehen lassen.“ Analyse: Die vollständige Deutung des Traumes ist<lb/> hier nicht leicht zu geben. Er stammt aus einem Zyklus von Träumen<lb/> und kann nur im Zusammenhange mit diesen anderen voll verstanden<lb/> werden. Es ist eben nicht leicht, das für den Erweis der Symbolik<lb/> benötigte Material genügend isoliert zu bekommen. —— Die Kranke<lb/> ﬁndet zuerst, dass die Eisenbabnfahrt historisch zu deuten ist, als An—<lb/> spielung auf eine Fahrt von einer Nervenheilanstalt weg, in deren<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__a33d510d-4ae9-4461-93e9-d7ff6b3034de"/>
+            <p>Nachtrng zur Traumdeutung. 189<lb break="paragraph"/></p> <p>Leiter sie natürlich verliebt war. Die Mutter holte sie von dort ab,<lb/> der Arzt erschien auf dem Bahnhof und überreichte ihr einen Strauss<lb/> Blumen zum Abschied; es war ihr unangenehm, dass die Mutter Zeugin<lb/> dieser Huldigung sein musste Hier erscheint also die Mutter als<lb/> Störerin ihrer Liebesbestrebungen, welche Rolle der strengen Frau wiihrend<lb/> ihrer Mädchenjehre wirklich zugefallen war. — Der nächste Einfall<lb/> bezieht sich auf den Satz: sie sieht sich um, ob man nicht die Teile<lb/> von hinten sieht. In der Traumfassade müsste man natürlich an die<lb/> Teile des überfahrenen und zermalmten Töchterchens denken. Der<lb/> Einfall weist aber nach ganz anderer Richtung. Sie erinnert, dass sie<lb/> einmal den Vater im Badezimmer nackt von rückwärts gesehen, kommt<lb/> auf die Geschlechtsuntersehiede zu sprechen und hebt hervor, dass man<lb/> beim Manne die Genitalien noch von rückwärts sehen könne, beim<lb/> Weihe aber nicht. In diesem Zusammenhange deutet sie nun selbst,<lb/> dass das Kleine das Genitale sei, ihre Kleine (sie hat eine 4 jährige<lb/> Tochter) ihr eigenes Genitalc. Sie macht der Mutter den Vorwurf,<lb/> dass sie verlangt hätte, sie solle solehen, als ob sie kein Genitale hätte,<lb/> und ﬁndet diesen Vorwurf in dein einleiteuden Satz des Traumes wieder:<lb/> Die Mutter schickt ihre Kleine weg, damit sie allein gehen müsse.<lb/> In ihrer Phantasie bedeutet das Alleingehen auf der Strasse: keinen<lb/> Mann, keine sexuelle Beziehung haben, (coirezzusammengehen), und<lb/> (las mag sie nicht. Nach allen ihren Angaben hat sie wirklich als<lb/> Mädchen unter der Eifersucht der Mutter infolge ihrer Bevorzugung<lb/> durch den Vater gelitten.<lb break="paragraph"/></p> <p>Das „Kleine“ ist als Symbol des (männlichen oder weiblichen)<lb/> Genitales von Stekel‘) angegeben werden, der sich hierbei auf einen<lb/> sehr verbreiteten Sprachgebrauch berufen konnte. —<lb break="paragraph"/></p> <p>Die tiefere Deutung dieses Traumes ergibt sich aus einem anderen<lb/> Traum derselben Nacht, in dem sie sich mit ihrem Bruder identiﬁziert.<lb/> Sie war wirklich ein bubenhaftes Mädel, musste oft hören, dass an ihr<lb/> ein Bub verloren gegangen sei. In dieser Identiﬁzierung mit dem<lb/> Bruder wird es dann besonders klar, dass das „Kleine“ das Genitale<lb/> bedeutet. Die Mutter droht ihm (ihr) mit der Kastration, die nichts<lb/> anderes als Bestrafung für das Spielen mit dein Gliede sein kann, und<lb/> somit zeigt die Identiﬁzierung, dass sie selbst als Kind onaniert hat,<lb/> was ihre Erinnerung bisher nur vom Bruder bewahrt hatte. Eine<lb/> Kenntnis des männlichen Genitales, die ihr später verloren ging, muss<lb/> sie nach den Angaben dieses zweiten Traumes damals früh erworben<lb/> haben. Ferner deutet der zweite Traum auf die infs.ntile Sexualtheorie<lb/> hin, dass die Mädel durch Kastration aus Buben hervorgehen, Nach<lb break="no"/>dem ich ihr diese Kindermeinung vorgetragen, ﬁndet sie sofort eine<lb/> Bee tigung biefür in der Kenntnis der Anekdote, dass der Bub das<lb/> Mädel fragt: Abgeschnitten? worauf das Mädel antwortet: Nein, immer<lb/> so g‘west.<lb break="paragraph"/></p> <p>Das Wegschieken der Kleinen, des Genitales, im ersten Traum<lb/> bezieht sich also auch auf die Kastratiunsdrehung. Endlich grollt sie der<lb/> Mutter, dass sie sie nicht als Knaben geboren hat.<lb break="paragraph"/></p> <p>*"Tieéimgu zur Tunindeutung. Jahrbuch im psycholnllyt. und psychop.<lb/> Fursch. es. 1, 1909, p. 473. * Ebendort. ,.. 475. wird auch ei Traum mitgeteilt,<lb break="paragraph"/></p> <p>in welchem der Hut mit schidstehender Feder in der man. den (impotenten) Mm<lb/> symbolisiert.<lb break="paragraph"/></p> <p>18‘<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__828e85de-338d-4925-9c18-ffdf35fd3205"/>
+            <p>190 Sigm. Freud,<lb break="paragraph"/></p> <p>Dass das „Überfahrenwerden“ sexuellen Verkehr symbolisiert, würde<lb/> aus diesem Traume nicht ev1dent, wenn man es nicht aus zahlreichen<lb/> anderen Quellen sicher wüsste.<lb break="paragraph"/></p> <p>3. Darstellung des Genitales durch Gebäude, Stiegen,<lb/> Schachte,<lb break="paragraph"/></p> <p>(Traum eines durch seinen Vaterkomplex gehemmten jungen Mannes.)<lb break="paragraph"/></p> <p>„Er geht mit seinem Vater an einem Ort spazieren, der gewiss<lb/> der Prater ist, denn man sieht die Rotun d e, vor dieser einen kleineren<lb/> Vorbau, an dem ein Fesselballon angebracht ist, der aber ziem—<lb/> lich sohlat'f scheint. Sein Vater fragt ihn, wozu das alles ist; er<lb/> wundert sich darüber, erklärt es ihm aber. Dann kommen sie in einen<lb/> Hof, in dem eine grosse Platte von Blech ausgebreitet liegt. Sein Vater<lb/> will sich ein grosses Stück davon abreissen, sieht sich aber vorher<lb/> um, ob es nicht jemand bemerken kann. Er sagt ihm, er braucht es<lb/> doch nur dem Aufseher zu sagen, dann kann er sich ohne weiteres<lb/> davon nehmen. Aus diesem Hof führt eine Treppe in einen Schacht<lb/> herunter, dessen Wände weich ausgepnlstert sind etwa wie ein Leder«<lb/> fauteuil. Am _Ende dieses Schachtes ist eine liingere Platform und<lb/> dann beginnt ein neuer Schacht ......<lb break="paragraph"/></p> <p>Analyse: Dieser lräuiner gehörte einem therapeutisch nicht<lb/> günstigen Typus von Kranken an, die bis zu einem gewissen Punkt<lb/> der Analyse überhaupt keine Widerstände machen und sich von da an<lb/> fast unzngäuglicb erweisen. Diesen Traum deutete er fast selbständig,<lb/> Die Rotunde, sagte er, ist mein Genitale, der Fesselballon davor mein<lb/> Penis, über dessen Schlaﬂ'heit ich zu klagen habe Man darf also ein<lb break="no"/>gehender übersetzen, die Rotunde sei das _ vom Kind regelmässig zum<lb/> Genitule gerechnete , Gesäss, der kleinere Vorbau der Hodensack. im<lb/> Traum fragt ihn der Vater, was das alles ist. d. h. nach Zweck und<lb/> Verriehtung der Genitalien. Es liegt nahe, diesen Sachverhalt umzu<lb break="no"/>kehren, so dass er der fragends Teil wird. Da eine solche Befragung<lb/> des Vaters in Wirklichkeit nie stattgefunden hat, muss man den Traum—<lb/> gedanken als Wunsch anfassen oder ihn etwa konditionell nehmen.<lb/> „Wenn ich den Vater um sexuelle Aufklärung gebeten hätte“. Die<lb/> Fortsetzung dieses Gedankens werden wir bald an anderer Stelle ﬁnden.<lb break="paragraph"/></p> <p>Der Hof, in dem das Blech ausgebreitei liegt, ist nicht in erster<lb/> Linie symbolisch zu fassen, sondern stammt aus dem Geschäftslokal<lb/> des Vaters. Aus Gründen der Diskretion habe ich das „Blech“ ﬁir<lb/> das andere Material, mit dem der Vater handelt, eingesetzt, ohne sonst<lb/> etwas am Wortlaut des Traumes zu ändern. Der 'l'räumer ist. in das<lb/> Geschäft des Vaters eingetreten und hat an den eher unkor'rekten<lb/> Praktiken, auf denen der Gewinn zum guten Teile beruht, gewaltigen<lb/> Anstoss genommen. Daher dürfte die Fortsetzung des obigen Traum»<lb/> gedankens lauten: „(Wenn ich ihn gefragt hätte), würde er mich be—<lb/> trogen haben, wie er seine Kunden beträgt. ‘ Für das Ahreissen,<lb/> welches der Darstellung der geschäftlichen Unredliohkeit dient, gibt<lb/> der Träumer selbst die zweite Erklärung, es bedeute die Onanie. Dies<lb/> ist uns nicht nur längst bekannt (siehe Traumdeutung), 80ndern stimmt<lb/> auch sehr gut dazu, dass das Geheimnis der Onanie durch das Gegen»<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__2870d1b9-810c-4906-88aa-3cda53236976"/>
+            <p>Nachts-tige zur Traumdeutung. 191<lb break="paragraph"/></p> <p>teil ausgedrückt ist (man darf es ja offen tun). Es entspricht dann<lb/> allen Erwartungen, dass die nnnnistische Tätigkeit wieder dem Vater<lb/> zugeschoben wird wie die Befragung der ersten Traumszene. Den<lb/> Schacht deutet er sofort unter Berufung auf die weiche Polsterung der<lb/> Wände als Vagina. Dass das Herebsteigen, wie sonst das Aufsteigen,<lb/> den Koitusverkehr in der Vagina beschreiben will, setze ich aus anderer<lb/> Kenntnis ein (vgl. dies Zentralblatt Nr. 1).<lb break="paragraph"/></p> <p>Die Einzelheiten, dass auf den ersten Schacht eine längere Plat—<lb/> form folgt und dann ein neuer Schacht, erklärt er selbst biographisch.<lb/> Er hat eine Zeitlang kaitiert, denn den Verkehr infolge von Hennmmgen<lb/> aufgegeben und hofft ihn jetzt mit Hilfe der Kur wieder aufnehmen zu<lb/> können Der Traum wird aber gegen Ende undeutlicher, und dem<lb/> Kundigen muss es plausibel erscheinen, dass sich schon in der zweiten<lb/> Traumszene der Einﬂuss eines anderen Themas geltend mache, auf welches<lb/> das Geschäft des Vaters, sein betrügerisches Vorgehen, dieerste als<lb/> Schacht dargestellte Vagina deuten, so dass man eine Beziehung auf<lb/> die Mutter annehmen könnte.<lb break="paragraph"/></p> <p>Im ganzen gehört dieser Traum zu der nicht seltenen Gruppe<lb/> „biographischer“ Träume, in denen der Träumer in Form einer fort&lt;<lb/> laufenden Erzählung eine Ubersicht über sein Sexualleben gibt—.* (Vgl.<lb/> das Beispiel p. 249 der „Traumdeutung“ 2. Auﬂ.) Wie häuﬁg Gebäude,<lb/> Ortlichkeiten, Landschaften zur symbolischen Darstellung des Körpers<lb/> und vor allem immer wieder der Genitalien verwendet werden, ware<lb break="paragraph"/></p> <p>wirklich einer zusammenfassenden, durch zahlreiche Beispiele erläuterten<lb/> Abhandlung wert.<lb break="paragraph"/></p> <p>Einige seltenere Traumderstellungen.<lb break="paragraph"/></p> <p>Als einen die Tra.umbildung beeinﬂussenden Faktor habe ich die<lb/> „Rücksicht auf Darstellbarkeit“ angeführt. In der Umfornmng eines<lb/> Gedankens bis auf ein visuellen Bild zeigt sich eine besondere Fähig<lb break="no"/>keit der Träumen welcher der Aneiytiker nur selten durch sein Erraten<lb/> nahe kommt, so dass er recht zufrieden ist, wenn ihm der Träumer<lb/> und Urheber durch intuitive Einsicht die Bedeutung solcher Darstek<lb/> lungen angibt.<lb break="paragraph"/></p> <p>1. Eine Patientin erzählt einen Traum, in welchem alle handeln<lb break="no"/>den Personen besonders gross waren, Das will heissen, setzt sie hinzu,<lb/> dass es sich um eine Begebenheit aus meiner frühen Kindheit handeln<lb/> muss, denn damals sind mir natürlich alle Erwachsenen so ungeheuer<lb/> gross erschienen, Ihre eigene kleine Person trat in diesem Treuminhalt<lb/> nicht auf.<lb break="paragraph"/></p> <p>Die Verlegung in die Kindheit wird in anderen Träumen auch<lb/> anders ausgedrückt, indem Zeit in Raum übersetzt wird. Man sieht<lb/> die betreffenden Personen und Szenen wie weit entfernt am Ende eines<lb/> langen Weges oder so, als ob msn sie durch ein verkehrt gehaltenen<lb/> Opernglas betrachten würde.<lb break="paragraph"/></p> <p>2. Ein im Wachleben zu abstrakter und unbestimmter Ausdrucks<lb break="no"/>weise geneigte]: Mann, sonst mit gutem Witz begabt, träumt in ge—<lb/> wissem Zusammenhänge, dass er auf einen Bahnhof gehe, wie eben ein<lb/> Zug ankomme. Dunn werde aber der Perron an den stehenden<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__f60f87f8-a2f8-4199-ae9f-f95b74ec151f"/>
+            <p>192 Sign:. Freud.<lb break="paragraph"/></p> <p>Zug angenäbert, else eine absurde Umkehrung des wirklichen Vor<lb break="no"/>gangs. Dieses Detail ist auch nichts anderes als ein Index, der daran<lb/> mahnt, dass etwas anderes im Trauminhult umgekehrt werden solle.<lb/> Die Analyse desselben Treumes fiihrt zu Erinnerungen im Bilderbücher,<lb/> in denen Männer dargestellt waren, die auf dem Kopfe stunden und auf<lb/> den Händen gingen. Es ist bemerkenswert, wie häuﬁg die Umkehrung<lb/> gerade in Träumen benötigt wird, die von verdrängten homosexuellen<lb/> Regungen eingegeben werden.<lb break="paragraph"/></p> <p>Derselbe Träume! berichtet ein anderes Mal von einem kurzen<lb/> Traum, der fast an die Technik eines Rebus erinnert. Sein Onkel<lb/> gibt ihm im Automobil einen Kuss. Er fügt unmittelbar die Deutung<lb/> hinzu, die ich nie gefunden hätte: das heisse Autoeretismus. Ein<lb/> Scherz im Wachen hätte ebenso lauten können,<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>
