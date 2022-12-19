@@ -103,6 +103,22 @@
               <biblScope unit="series">Internationale Psychoanalytische Bibliothek</biblScope>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="bibl-1921-003-1921">
+            <analytic>
+              <title type="manifestation">Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">The Psychology of Day-Dreams</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <date when="1921-01-01">1921-01-01</date>
+              </imprint>
+              <extent>10 Seiten</extent>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1921-003-1928" type="guidingManifestation">
             <analytic>
               <title type="manifestation">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
@@ -211,7 +227,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

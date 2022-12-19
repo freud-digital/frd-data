@@ -86,6 +86,68 @@
       <sourceDesc>
         <listBibl>
           <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-002-1931">
+            <analytic>
+              <title type="manifestation">Über einige neurotische Mechanismen Bei Eifersucht, Paranoia und Homosexualität</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Kleinoktavausgabe</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Kl. 8° [3]</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1931-01-01">1931-01-01</date>
+              </imprint>
+              <extent>186 Seiten</extent>
+              <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1922-002-1924">
+            <monogr>
+              <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+              <title type="manifestation-short">GS 5</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1924-01-01">1924-01-01</date>
+              </imprint>
+              <extent>399 Seiten</extent>
+            </monogr>
+            <series>
+              <title type="publication" level="s">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-short" level="s">GS 5</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <biblScope unit="volume">5. Band</biblScope>
+            </series>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1922-002-1926">
+            <analytic>
+              <title type="manifestation">Über einige neurotische Mechanismen Bei Eifersucht, Paranoia und Homosexualität</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1926-01-01">1926-01-01</date>
+              </imprint>
+              <extent>139 Seiten</extent>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1922-002-1922">
             <analytic>
               <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
@@ -201,7 +263,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -1,0 +1,631 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+        <title type="manifestation" level="a">Traum und Telepathie (1922-001/1931)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-001-1925">
+            <analytic>
+              <title type="manifestation">Traum und Telepathie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 3</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1925-01-01">1925-01-01</date>
+              </imprint>
+              <extent>304 Seiten</extent>
+              <biblScope unit="volume">3. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1922-001-1922.2">
+            <monogr>
+              <title type="manifestation">Traum und Telepathie</title>
+              <title type="manifestation-short">Separatabdruck</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+              <extent>22 Seiten</extent>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1922-001-1922">
+            <analytic>
+              <title type="manifestation">Traum und Telepathie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Imago</title>
+              <title type="publication-sub">Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>22 Seiten</extent>
+              <biblScope unit="volume">1</biblScope>
+              <biblScope unit="year">8</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1922-001-1931" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Traum und Telepathie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Kleinoktavausgabe</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Kl. 8° [4]</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1931-01-02">1931-01-02</date>
+              </imprint>
+              <extent>354 Seiten</extent>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__8ff7c6c9-d78e-413a-bc80-5bfe24424921">
+                <title>Traum und Telepathie</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1922-001/1931</idno>
+                <idno type="url">https://www.freud-edition.net/werke/traum-und-telepathie/druckversion-0</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8ff7c6c9-d78e-413a-bc80-5bfe24424921</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__38f2281c-c42b-463f-aab3-66d0f1e454aa">
+                    <title>Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/traum-und-telepathie</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/38f2281c-c42b-463f-aab3-66d0f1e454aa</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="IPU">Freud_1931_Kleine_Schrifte_zur_Sexualtheorie_k</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__942d92e1-ae22-425b-afd2-4936f9da10a3"/>
+        <p>316 Traum und<lb break="paragraph"/>
+        </p>
+        <p>midi gesehen?“ mit dem Nacht.mahl ins Zimmer trat. Aber<lb/> es scheint, daß sie überhaupt die Stelle der feindlichen Kon—<lb/> kurrentin zu übernehmen bestimmt ist. Sie wird als Pﬂege—<lb/> person herabgesetzt, indem sie sich fiir das verlorene Kind gar<lb/> nicht interessiert, sondern von ihren eigenen Angelegenheiten<lb/> Antwort gibt. Auf sie wird also die Gleichgültigkeit gegen<lb/> das Pﬂegekind verschoben, zu der sich die Träumerin ge<lb break="no"/>wendet hat. Ihr wird die unglüdtlidie Ehe und Scheidung an<lb break="no"/>gedichtet, welche die Träumerin in ihren geheimsten Wünsdien<lb/> selbst fürchten müßte. Wir wissen aber, daß es die Tante ist,<lb/> welche die Träumen-in von ihrem Verlobten geschieden hat.<lb/> So mag die „Verkäuferin von Eßwaren“ (was einer infantilen<lb/> symbolischen Bedeutung nicht zu entbehren braucht) zur Re<lb break="no"/>präsentantin der, übrigens nicht viel älteren, Tante-Oberin<lb/> werden, welche bei unserer Träumerin die hergcbrachte Rolle<lb/> der Mutter—Konkurrentin eingenommen hat. Eine gute Be<lb break="no"/>stätigung dieser Deutung liegt in dem Umstand, daß der im<lb/> Traume „bekannte“ Ort, an dem sie die in Rede stehende<lb/> Person vor ihrer Tür ﬁndet? der Ort ist, wo eben diese Tante<lb/> als Oberin lebt.<lb break="paragraph"/>
+        </p>
+        <p>Infolge der Distanz, weldie den Analysierenden vorn Ob<lb break="no"/>jekt der Analyse trennt, muß es ratsam werden, nicht weiter<lb/> in das Gewebe dieses Traumes einzudringen. Man darf viel<lb break="no"/>leidit sagen, audi soweit er der Deutung zugänglich wurde,<lb/> zeigte er sich reidl an Bestätigungen wie an neuen Problemen.<lb break="paragraph"/>
+        </p>
+        <p>TBAUM UND TELEPATHIE<lb/> (1911)<lb break="paragraph"/>
+        </p>
+        <p>Eine Ankündigung wie die meinige muß in diesen Zeiten,<lb/> die so voll sind von Interesse für die sogenanut ok k u lt e n<lb/> Phänomene, ganz bestimmte Erwartungen erwecken. Ich be—<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__bf191a03-e4b2-4d4a-b7d1-70e06c5dbe45"/>
+        <p>Telepntbie 337<lb break="paragraph"/>
+        </p>
+        <p>eile mich also, diesen zu widerspred'ren. Sie werden aus meinem<lb/> Vortrag nichts über das Rätsel der Telepathie erfahren, nicht<lb/> einmal Aufschluß darüber erhalten, ob im an die Existenz<lb/> einer „Telepathie“ glaube oder nicht. Ich habe mir hier die<lb/> sehr bescheidene Aufgabe gestellt, das Verhältnis der telepathi<lb break="no"/>sahen Vorkommnisse, welcher Herkunﬂ: immer sie sein mögen,<lb/> zum Traum, genauer: zu unserer Theorie des Traumes, zu<lb/> untersuchen. Es ist Ihnen bekannt, daß man die Beziehung<lb/> zwischen Traum und Telepathie gemeinhin fiir eine sehr<lb/> innige hält; im werde vor Ihnen die Ansicht vertreten, daß<lb/> die beiden wenig miteinander zu tun haben, und daß. wenn<lb/> die Existenz telepathiscber Träume sichergestellt würde, dies<lb/> an unserer Auffassung des Traumes nichts zu ändern brauchte.<lb break="paragraph"/>
+        </p>
+        <p>Das Material, das dieser Mitteilung zugrunde liegt, ist<lb/> sehr klein. Id1 muß vor allem meinem Bedauern Ausdruck<lb/> geben, daß ich nicht wie damals, als ich die „Traumdcutung“<lb/> (1900) schrieb, an eigenen Träumen arbeiten konnte. Aber<lb/> ich habe nie einen „telepathischen" Traum gehabt. Nicht<lb/> etwa, daß es mir an Träumen gefehlt hätte, welche die Mit<lb break="no"/>teilung enthielten, an einem gewissen entfernten Ort spiele<lb/> sich ein bestimmtes Ereignis ab, wobei es der Auffassung des<lb/> Träumers überlassen ist, zu entscheiden, ob das Ereignis eben<lb/> jetzt eintrete oder zu irgendeiner späteren Zeit; auch Ahnungen<lb/> entfernter Vorgänge mitten im Waduleben habe ich 0&amp;‘ ver<lb break="no"/>spürt, aber alle diese Anzeigen, Vorhersagen und Ahnungen<lb/> sind, wie wir uns ausdrücken: nicht eingetroﬁen; es zeigte sich,<lb/> daß ihnen keine äußere Realität entsprach, und sie mußten<lb/> darum als rein subjektive Erwartungen aufgefaßt werden.<lb break="paragraph"/>
+        </p>
+        <p>Ich habe zum Beispiel einmal während des Krieges geträumt,<lb/> daß einer meiner an der Front beﬁndlichen Söhne gefallen<lb/> sei. Der Traum sagte dies nicht direkt, aber doch unverkennbar,<lb/> er drückte es mit den Mitteln der bekannten, zuerst von<lb/> W. Stekel angegebenen Todessymbolik aus. (Versäumen<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__5da8daa3-3d1d-4438-8018-0d349a6fdeb0"/>
+        <p>518 _ Traum und<lb break="paragraph"/>
+        </p>
+        <p>wir nicht, hier die oﬂ; unbequeme Pﬂid'it literarischer Gewissen<lb break="no"/>haftigkeit zu erfüllen!) Id; sah den jungen Krieger an einem<lb/> Landungssteg stehen, an der Grenze von Land und Wasser;<lb/> er kam mir sehr hleich vor, idi sprad1 ihn an, er aber ant—<lb/> wortete nicht. Dazu kamen andere nicht mißverständliche<lb/> Anspielungen. Er trug nicht militärische Uniform, sondern ein<lb/> Skifahrerkostüm, wie er es bei seinem schWeren Skiunfall<lb/> mehrere Jahre vor dem Kriege getragen hatte. Er stand auf<lb/> einer sd1emelartigen Erhöhung vor einem Kasten, welche<lb/> Situation mir die Deutung des „Fallens" mit Hinsid'it auf eine<lb/> eigene Kindheitserinnerung nahelegen mußte, denn id: selbst<lb/> war als Kind von wenig mehr als zwei Jahren auf einen<lb/> solchen Sehemel gestiegen, um etwas von einem Kasten<lb/> herunterzuholen, — wahrsd1einlieh etwas Gutes, — bin dabei<lb/> umgefallen und habe mir eine Wunde geschlagen, deren Spur<lb/> ich noch heute zeigen kann. Mein Sohn aber, den jener Traum<lb/> totsagte, ist heil aus den Gefahren des Krieges zurüdrgekehrt.<lb break="paragraph"/>
+        </p>
+        <p>Vor kurzem erst habe idtei.nen anderen Unheil verkün<lb break="no"/>denden Traum gehabt, im glaube, es war unmittelbar ehe<lb/> ich mich zur Abfassung dieser kleinen Mitteilung entsd1loß;<lb/> diesmal war nicht viel Verhüllung aufgewendet worden; ich<lb/> sah meine beiden in England lebenden Nid1ten, sie waren<lb/> schwarz gekleidet und sagten mir: am Donnerstag haben wir<lb/> sie begraben. Id: wußte, daß es sich um den Tod ihrer jetzt<lb/> siebenundadltzigjährigen Mutter, der Frau meines verstorbenen<lb/> ältesten Bruders, handle.<lb break="paragraph"/>
+        </p>
+        <p>Es gab natürlich eine Zeit peinlicher Erwartung bei mit;<lb/> das plötzlid'xe Ableben einer so alten Frau wäre ja nid1ts<lb/> Uberraschendes und es wäre doch so unerwünscht, wenn mein<lb/> Traum gerade mit diesem Ereignis zusammenträfe. Aber der<lb/> näd1ste Brief aus England zerstreute diese Befürchtung. Für<lb/> alle diejenigen, welche um die Wunschtheorie des Traumes<lb/> besorgt sind, will ich die beruhigende Versicherung einschalten,<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="4" xml:id="page__6fc5e53c-0666-4cd8-80ab-7a8ca42f1562"/>
+        <p>Telepatbie 39<lb break="paragraph"/>
+        </p>
+        <p>daß es der Analyse nicht schwer geworden ist, aud1 für diese<lb/> Todesträume die zu vermutenden unbewußten Motiire auf<lb break="no"/>zudecken.<lb break="paragraph"/>
+        </p>
+        <p>Unterbredien Sie midi jetzt nicht mit dem Einwand, daß<lb/> solche Mitteilungen wertlos sind, weil negative Erfahrungen<lb/> hier so wenig wie auf anderen minder okkulten Gebieten<lb/> irgend etwas beweisen können. Ich weiß das auch selbst und.<lb/> habe diese Beispiele auch gar nicht in der Absicht angeführt,<lb/> um einen Beweis zu geben oder eine bestimmte Einstellung<lb/> bei Ihnen zu «schleichen. Ich wollte nur die Einschränkung<lb/> meines Materials reditfertigen.<lb break="paragraph"/>
+        </p>
+        <p>Bedeutsamer erscheint mir allerdings eine andere Tatsad1e,<lb/> daß ich nämlich während meiner ungefähr siebenundzwanzig<lb break="no"/>jährigen Tätigkeit als Analytiker niemals in die Lage ge<lb break="no"/>kommen bin, bei einem meiner Patienten einen rid'nzigen tele<lb break="no"/>pathischen Traum mitzuerleben. Die Menschen, an denen ich<lb/> arbeitete, waren dodx eine gute Sammlung von schwer<lb/> neuropathisd1en und. „lindisensidven“ Naturen; viele unter<lb/> ihnen haben mit die merkwürdigsten Vorkommnisse aus ihrem<lb/> früheren Leben erzählt, auf die sie ihren Glauben an geheim<lb break="no"/>nisvolle okkulte Einﬂüsse stützten. Ereignisse, wie Unfälle,<lb/> Erkrankungen naher Angehöriger, insbesondere Todesfälle<lb/> eines Elternteiles, haben sich während der Kur oft genug zu<lb break="no"/>getragen und dieselbe unterbrod1en, aber nicht ein einziges Mal<lb/> versd1afften mir diese ihrem Wesen nadi so geeigneten Zufälle<lb/> die Gelegenheit, eines telepathiseben Traumes babha&amp; zu<lb/> werden, obwohl die Kur sich über halbe, ganze Jahre und eine<lb/> Mehrzahl von Jahren ausdehnte. Um die Erklärung dieser<lb/> Tatsache, die wiederum eine Einschränkung meines Materials<lb/> mit sich bringt, möge sich bemühen, wer immer will. Sie<lb/> werden sehen, daß ,sie selbst für den Inhalt meiner Mitteilung<lb/> nicht in Betracht kommt.<lb break="paragraph"/>
+        </p>
+        <p>Ebensowenig kann mich die Frage in Verlegenheit bringen,<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="5" xml:id="page__ffc8c1eb-c59f-489f-9a3d-319e5542ea4b"/>
+        <p>33° Traum und<lb break="paragraph"/>
+        </p>
+        <p>warum ich nicht aus der reichen Fülle der in der Literatur<lb/> niedergelegten telepathischen Träume gesduöpﬂ habe. Id'1 hätte<lb/> nicht lange zu suchen gehabt, da mir die Veröffentlid1ungen<lb/> der englisd1en wie der amerikanischen Society for Psyd1ical<lb/> Research als deren Mitglied zu Gebote stehen. In all diesen<lb/> Mitteilungen wird eine analytisd1e Würdigung der Träume,<lb/> wie sie uns in erster Linie interessieren muß, niemals versud'1t.1<lb/> Andrerseits werden Sie bald einsehen, daß den Absichten<lb/> dieser Mitteilung auch durch ein einziges Traumbeispiel Ge<lb break="no"/>niige geleistet wird.<lb break="paragraph"/>
+        </p>
+        <p>Mein Material besteht also einzig und allein aus zwei<lb/> Berichten, die ich von Korrespondenten aus Deutschland er—<lb/> halten habe. Die Betreﬁenden sind mir persönlich nicht be<lb break="no"/>kannt, sie geben aber Namen und Wohnort an; ich habe nicht<lb/> den mindesten Grund, an eine irreführende Absicht der<lb/> Schreiber zu glauben.<lb break="paragraph"/>
+        </p>
+        <p>I) Mit dem einen der beiden stand id) schon früher in Brief—<lb/> verkehr; er war so liebenswiirdig, mir, wie es audi viele<lb/> andere Leser tun, Beobachtungen aus dem Alltagsleben und<lb/> ähnliches mitzuteilen. Diesmal stellt der oﬂenbar gebildete und<lb/> intelligente Mann mir sein Material ausdrücklich zur Ver<lb break="no"/>fügung, wenn id1 es „literarisdu verwerten“ wollte.<lb break="paragraph"/>
+        </p>
+        <p>Sein Brief lautet:<lb break="paragraph"/>
+        </p>
+        <p>„Nadzstehenden Traum halte id; für interessant genug, um ihn<lb/> Ihnen als Material für Ihre Studien zu liefern.<lb break="paragraph"/>
+        </p>
+        <p>Voraussdzidren muß ich: Meine Tod1ter, die in Berlin ver—<lb break="paragraph"/>
+        </p>
+        <p>heiratet ist, erwartet Mitte Dezember d. ]. ihre erste Niederkunft.<lb/> Id; beabsichtige, mit meiner (zweiten) Frau, der Stiefmutter meiner<lb break="paragraph"/>
+        </p>
+        <p>x) In zwei Schriften des obengenannten Autors W. Stekel<lb/> („Der telepathisd1e Traum“, Berlin, ohne Jahreszahl, und „Die<lb/> Sprache des Traumes", ;. Auﬂage, 1922) ﬁnden sich wenigstens<lb/> Ansätze zur Anwendung der analytischen Technik auf angeblich<lb/> telepathisd1e Träume. Der Autor bekennt sich zum Glauben an<lb/> die Realität der Telepathie.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="6" xml:id="page__a22891bf-89d2-4dd5-99e8-4581102c9298"/>
+        <p>Telepatbie 3 3 ‘<lb break="paragraph"/>
+        </p>
+        <p>Todner, um diese Zeit nach Berlin zu fahren. In der Nadat vom<lb/> 16. auf den 17. November träume ich, und zwar so lebhaft und<lb/> anschaulich wie sonst nie, daß meine Frau Zwillinge geboren hat.<lb/> Id: rein die beiden prächtig aancbauenden Kinder mit ihren raten<lb/> Peusbacken deutlich nebeneinander in ihrem Bettdren liegen. das<lb/> Geschlecht stelle ich nicht fen, da.; eine mit semmelblondem Haar<lb/> trägt deutlich meine Züge, gemischt mit Zügen meiner Frau, das<lb/> andere mit leastanienbraunem Hear trägt deutlich die Züge meiner<lb/> Frau, gemischt mit Zügen von mir. Ida sage zu meiner Frau, die<lb/> rotblnnde: Haar bat, wahrscheinlid: wird das kaytanienbralme Haar<lb/> ,deines‘ Kinder rpäter nude rot werden. Meine Frau gibt den Kindern<lb/> die Brust. Sie hatte in einer Wa;cbsdriinel Marmelade gekocht (auch<lb/> Traum) und beide Kinder klettern auf allen vier-en in der Sdn'isrel<lb/> herum und lecken sie nur.<lb break="paragraph"/>
+        </p>
+        <p>Dies ist der Traum. Vier— oder fünfmal bin id1 dabei halb<lb/> erwacht, frage mich, ob es wahr ist, daß wir Zwillinge bekommen<lb/> haben, komme aber doch nieht mit voller Sicherheit zu dem Er<lb break="no"/>gebnis, daß id1 nur geträumt habe. Der Traum dauert bis zum<lb/> Erwachen und and: danach dauert es eine Weile, bis id1 mir über<lb/> die Wahrheit klar geworden bin. Beim Ka.ﬂ'ee erzähle id] meiner<lb/> Frau den Traum, der sie sehr belnstigt. Sie meint: Ilse (meine<lb/> Tochter) wird dod1 nicht etwa Zwillinge bekommen? Ida erwidere:<lb/> Das kann ich mir kaum denken, denn weder in meiner noch in<lb/> Gs. (ihres Mannes) Familie sind Zwillinge heimisch. Am 18. No<lb break="no"/>vember früh zehn Uhr erhalte id: ein nachmittags vorher auf<lb break="no"/>gegebenes Telegramm meines Sehwiegersnhnes, in dem er mir die<lb/> Geburt von Zwillingen, eines Knaben und eines Mäddsens, anzeigt.<lb/> Die Geburt ist also in der Zeit vor sich gegangen, wo id; träumte,<lb/> daß meine Frau Zwillinge bekommen habe. Die Niederkunﬂ ist<lb/> vier Wochen früher erfolgt, als wir alle auf Grund der Ver<lb break="no"/>mutungen meiner Todnter und ihres Mannes annahmen.<lb break="paragraph"/>
+        </p>
+        <p>Und nun weiter: In der näd1$ten Nacht träume ich, meine ver<lb break="no"/>storbene Frau, die Mutter meiner Tochter, babe acbtundvierzig<lb/> neugeborene Kinder in Pﬂege genommen. Als dar erste Dutzend<lb/> eingeliefert wird, proteniere ich. Damit endet der Traum.<lb break="paragraph"/>
+        </p>
+        <p>Meine verstorbene Frau war sehr kinderlieh. Oil: sprach sie<lb/> davon, daß sie eine ganze Schar um sich haben möchte, je mehr,<lb/> desto lieber, daß sie sid-1 als Kindergärtnerin ganz besonders eignen<lb/> und wohlfühlen würde. Kirderlärm und Geschrei waren ihr Musik.<lb/> Gelegentlidx lud sie auch einmal eine ganze Sd1,ar Kinder aus der<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="7" xml:id="page__44b6e4fa-49c1-4681-86e7-4b80a9db541d"/>
+        <p>3 31 Traum und<lb break="paragraph"/>
+        </p>
+        <p>Straße und trainierte sie auf dem Hof unserer Villa mit Schokolade<lb/> und Kuchen. Meine Tochter hat nach der Entbindung und be<lb break="no"/>sonders nach der Überraschung durch das vorzeitige Eintreten, durch<lb/> die Zwillinge und die Verschiedenheit des Geschlechts gewiß gleid1<lb/> an die Mutter gedacht, von der sie wußte, daß sie das Ereignis mit<lb/> lebhafter Freude und Anteilnahme aufnehmen werde. ,Was Würde<lb/> erst Mutti sagen, wenn sie jetzt an meinem Worhenbett Stände?<lb/> Dieser Gedanke ist ihr zweifellos durch den Kopf gegangen. Und<lb/> id1 träume nun diesen Traum von meiner verstorbenen ersten Frau,<lb/> von der ich sehr selten träume, nach dem ersten Traum aber auch<lb/> nidn: gesprodxen und mit keinem Gedanken an sie gedad1t habe.<lb break="paragraph"/>
+        </p>
+        <p>Halten Sie das Zusammentreﬂen von Traum und Ereignis in<lb/> beiden Fällen für Zufall? Meine Tud1ter, die sehr an mir hängt,<lb/> hat in ihrer schweren Stunde sicher besonders an mid-1 gedacht,<lb/> wohl nude, weil ich oft mit ihr über Verhalten in der Schwanger<lb break="no"/>schaft korrespondiert und ihr immer wieder Ratschläge gegeben<lb/> habe.“<lb break="paragraph"/>
+        </p>
+        <p>Es ist leicht zu erraten, was ich auf diesen Brief antwortete.<lb/> Es tat mir leid, daß audJ bei meinem Korrespondenten das<lb/> analytische Interesse vom telepathischen so völlig erschlagen<lb/> werden war; ich lenkte also von seiner direkten Frage ab,<lb/> bemerkte, daß der Traum auch sonst nodi allerlei enthielt,<lb/> außer seiner Beziehung zur Zwillingsgeburt, und bat, mir jene<lb/> Auskünfte und Einfälle mitzuteilen, die mir eine Deutung des<lb/> Traumes ermöglichen könnten.<lb break="paragraph"/>
+        </p>
+        <p>Daraufhin erhielt ich den nachstehenden zweiten Brief, der<lb/> meine Wünsdue freilid'i nicht ganz befriedigte:<lb break="paragraph"/>
+        </p>
+        <p>„Erst heute komme id1 dazu, Ihren freundlichen Brief vom<lb/> 14. d. M. zu beantworten. Ich will Ihnen gern ,lückenlos und<lb/> rüd(haltlos‘ alle Assoziationen, auf die ich komme, mitteilen. Leider<lb/> ist es nicht viel geworden, bei einer mündlichen Aussprache käme<lb/> mehr heraus.<lb break="paragraph"/>
+        </p>
+        <p>Also! Meine Frau und im wünschen uns keine Kinder mehr.<lb/> Wir verkehren and] so gut wie gar nid1t g85d116d1tlidl miteinander,<lb/> wenigstens lag zur Zeit des Traumes keinerlei ,Gefal'u" vor. Die!<lb/> Niederkunﬂ meiner Tod1ter, die Mitte Dezember erwartet wurde,<lb/> war natürlid1 öfter Gegenstand unserer Unterhaltung. Meine Tochter<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="8" xml:id="page__32017c91-829b-4f32-b8f5-b3ce68669f63"/>
+        <p>Telepaßbie _ 333<lb break="paragraph"/>
+        </p>
+        <p>war im Sommer untersucht und geröntgt werden, dabei stellte der<lb/> Untersuehende fest, daß es ein Junge werde. Meine Frau äußerte<lb/> gelegentlich: ,Ich würde lachen, wenn es nun doch ein Mäddien<lb/> würde.‘ Sie meinte audi gelegentlid1, es wäre besser, wenn es ein<lb/> H. als ein G. (Name meines Sd1wiegersohnes) würde, meine<lb/> Tod1ter ist hübscher und stattliduet in der Figur als mein Sdzwieger<lb break="no"/>sohn, obgleich er Marineofﬁzier war. Ida beschäftigte mich mit<lb/> Vererbungsfragen und habe die Gewohnheit, mir kleine Kinder<lb/> darauf anzusehen, wem sie gleichen. Noch eins! Wir haben ein<lb/> kleines Händchen, das abends mit am Tisch sitzt, sein Futter lae<lb break="no"/>kommt und Teller und Schüsseln ausledst. All dieses Material kehrt<lb/> im Traum wieder. »<lb break="paragraph"/>
+        </p>
+        <p>Ich habe kleine Kinder gern und sehen oft gesagt, ich möchte<lb/> noth einmal so ein Wesen aufziehen, jetzt, wo man es mit sehr<lb/> viel mehr Verständnis, Interesse und Ruhe vermag, aber mit meiner<lb/> Frau, die nicht die Fähigkeiten zur vernünftigen Erziehung eines<lb/> Kindes besitzt, möd1te ich keins zusammen haben. Nun besdiert<lb/> mir der Traum zwei — das Geschlecht habe ich nicht festgestellt.<lb/> Ich sehe sie noch heute im Bett liegen und erkenne sd)arf die<lb/> Züge, das eine mehr ,Ich‘, das andere mehr meine Frau, jedes aber.<lb/> kleine Züge vom anderen Teil. Meine Frau hat rotblondes Haar,<lb/> eines der Kinder aber kananien(rotcs)hraunes. Id: age: ,Na, das<lb/> wird später auch noch rot werden.‘ Die beiden Kinder kried1eu in<lb/> einer großen Wasd15chiissel, in der meine Frau Marmelade ,geriihrt<lb/> hat, herum und ledsen den Boden und die Ränder als (Traum).<lb/> Die Herkunft dieses Details ist leicht erklärlich, wie der Traum<lb/> überhaupt nicht schwer verständlidn und deutbar ist, wenn er nicht<lb/> mit dem wider Erwarten frühen Eintreten der Geburt meiner<lb/> Enkel (drei Wod18n zu früh) zeitlich fast auf die Stunde (genau<lb/> kann ich nicht sagen, wenn der Traum begann, um neun und<lb/> viertel zehn wurden meine Enkel geboren, um elf etwa ging id)<lb/> zu Bett und nad1ts träumte id1} zusamengetroifen wäre und wir<lb/> nieht schon vorher gewußt hätten, daß es ein Junge werden wiirde.<lb/> Freilich kann wohl der Zweifel, ob die Feststellung richtig ge<lb break="no"/>wesen sei, —— Junge oder Mädchen — im Traume Zwillinge auf<lb break="no"/>treten lassen, es bleibt aber immer noch das zeitliche Zusammen<lb break="no"/>treffen des Traumes von den wallingen mit dem unerwarteten und drei<lb/> Wochen zu frühen Eintreffen von Zwillingen bei meiner Tochter.<lb break="paragraph"/>
+        </p>
+        <p>Es ist nicht das erstemal, daß Ereignisse in der Ferne sich mir<lb/> bewußt machen, ehe ich die Nachricht erhalte. Eines unter zahl—<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="9" xml:id="page__4fb95184-2a8a-48b4-a6b9-5bccaff9cb99"/>
+        <p>334 Traum und<lb/> reid1enl Im Oktober besuchten midi meine drei Brüder. Wir haben<lb/> uns seit dreißig Jahren nicht wieder zusammen (der eine den<lb/> anderen natürlid: öfter) gesehen, nur einmal ganz kurz heim Be<lb break="no"/>gräbnis meines Vaters und dem meiner Mutter. Beider Tod war<lb/> zu erwarten, in keinem Falle habe ich ,vorgefühlt‘. Aber als vor<lb/> zirka fünfundzwanzig Jahren mein jüngster Bruder im zehnten<lb/> Lebensjahr plötzlich und unerwartet starb, kam mir, als mir der<lb/> Briefbote die Postkarte mit der Nachricht von sainem Tode übergab,<lb/> ohne daß id: einen Blick darauf geworfen hatte, sofort der Ge<lb break="no"/>danke: Da steht darauf, daß dein Bruder gestorben ist. Er war<lb/> doch allein im Elternhaus, ein kräftiger gesunder Bub, während<lb/> wir vier älteren Brüder alle vom Elternhaus schon ﬂügge geworden<lb/> und abwesend waren. Zufällig kam das Gesprärh beim Besuch<lb/> meiner Brüder jetzt auf dieses mein Erlebnis damals, und alle drei<lb/> Brüder kamen nun wie auf Kommando mit der Erklärung heraus,<lb/> daß ihnen damals genau dasselbe passiert sei wie mir. Ob auf<lb/> dieselbe Weise, kann id: nicht mehr sagen, jedenfalls erklärte jeder,<lb/> den Tod vorher als Gewißheit im Gefühl gehabt zu haben, ehe<lb/> die bald darauf eintreﬂ'ende und gar nicht zu erwartende Nachricht<lb/> ihn angezeigt hatte. Wir sind alle vier von Mutter! Seite her<lb/> sensible Naturen, große, kräftige Menschen dabei, aber keiner etwa<lb/> spiritistiseh oder okkultistisdi angehaudnt, im Gegenteil, wir lehnen<lb/> beides entsd1ieden ab. Meine Brüder sind alle drei Akademiker, zwei<lb/> Gymnasiallehrer, einer Oberlandmesser, eher Pedanten als Phan<lb break="no"/>tasten. —— Das ist alles, was ich Ihnen zum Traum zu sagen weiß.<lb/> Wenn Sie ihn etwa lieerarisd1 verwerten wollen, stelle id: ihn gern<lb/> zur Verfügung.“<lb break="paragraph"/>
+        </p>
+        <p>Ich muß befürchten, daß Sie sich ähnlidx verhalten werden<lb/> wie der Sd1reiber der beiden Briefe. Auch Sie werden sich vor<lb/> allem dafiir interessieren, ob man diesen Traum wirklich als<lb/> eine telepath.isdie Anzeige der unerwarteten Zwillingsgeburt<lb/> auffassen darf, und gar nid1t dazu geneigt sein, ihn wie einen<lb/> anderen der Analyse zu unterziehen, Ich sehe voraus, daß es<lb/> immer so sein wird, wenn Psychoanalyse und Okkultismus<lb/> zusammenstellen. Die erstere hat sozusagen alle seelischen<lb/> Instinkte gegen Sidi, dem letzteren kommen starke, dunkle<lb/> Sympathieu entgegen. Id; werde aber nicht den Standpunkt<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="10" xml:id="page__b4c552c0-6653-421c-98e5-5d1f5843edec"/>
+        <p>Telepatbie , 335<lb break="paragraph"/>
+        </p>
+        <p>einnehmen, ich sei nichts als ein Psydmanalytiker, die Fragen<lb/> des Okkultismus gehen mich nichts an; das würden Sie doch<lb/> nur als Problemﬂüditigkeit beurteilen. Sondern idi behaupte,<lb/> daß es mit ein großes Vergnügen wäre, wenn ich mich und<lb/> andere durd'r untadelige Beobadrtungen von der Existenz tele<lb break="no"/>pathiseher Vorgänge überzeugen könnte, daß aber die Mit<lb break="no"/>teilungen zu diesem Traum viel zu unzulänglich sind, um<lb/> eine soldze Entscheidung zu redrtfertigen.’5ehen Sie, dieser<lb/> intelligente und an den Problemen seines Trauma interessierte<lb/> Mann denkt nicht einmal daran, uns anzugeben, wenn er die<lb/> ein Kind erwartende Tochter zuletzt gesehen oder welche<lb/> Nachrichten er kürzlich von ihr erhalten; er schreibt im ersten<lb/> Brief, daß die Geburt um einen Monat verfrüht kam, im<lb/> zweiten sind es aber nur drei Wochen und in keinem erhalten<lb/> wir Auskunft darüber, ob die Geburt wirklich vorzeitig er<lb break="no"/>folgte, oder ob sich die Beteiligten, wie es so häuﬁg vorkommt,<lb/> verrechnet hatten. Von diesen und anderen Details der Be<lb break="no"/>gebenheit würden wir aber abhängen, wenn wir die Wahr<lb break="no"/>scheinlidikeit eines dem Träumer unbewußten Absdxätzens<lb/> und Erratens zu erwägen hätten. Id1 sagte mir auch, es würde<lb/> nichts nützen, wenn id'x auf einige SOldlel' Anfragen Antwort<lb/> bekäme. Im Laufe des angestrebten Beweisverfahrens würden<lb/> doch immer neue Zweifel auftauchen, die nur beseitigt werden<lb/> könnten, wenn man den Mann vor sich hätte und alle die<lb/> dazugehörigen Erinnerungen bei ihm auffrisdnen würde, die er<lb/> vielleicht als unwesentlich beiseitegesdwben hat. Er hat:<lb/> gewiß recht, wenn er zu Anfang seines zweiten Briefes sagt,<lb/> bei einer mündlichen Aussprache wäre mehr berausgekommen.<lb break="paragraph"/>
+        </p>
+        <p>Denken Sie an einen anderen, ähnlichen Fall, an dem das<lb/> störende okkultistische Interesse gar keinen Anteil hat. Wie<lb/> oft sind Sie in die Lage gekommen, die Anamnese und den<lb/> Krankheitsbericht, den Ihnen ein beliebiger Neurotiker in der<lb/> ersten Bespredxung gab, mit dem zu vergleichen, was Sie nach<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="11" xml:id="page__893797f9-33db-4885-ba94-148c6a09903f"/>
+        <p>33‘ Traum und<lb break="paragraph"/>
+        </p>
+        <p>einigen Monaten Psydmanalyse von ihm erfahren haben. Von<lb/> der begreiflid1en Verkürzung abgesehen, wieviel wesentlid1e<lb/> Mitteilungen hat er ausgelassen oder unterdriidrt, wieviel Be<lb break="no"/>ziehungen verschoben, im Grunde: wieviel Unrid1tiges und<lb/> Unwahree hat er Ihnen das erstemal enählt! Ich glaube, Sie<lb/> werden mid: nicht für überbedenklid'i erklären, wenn ich unter<lb/> den uns vorliegenden Verhältnissen es ablehne, darüber zu<lb/> urteilen, ob der uns mitgeteilte Traum einer telcpatl'lisd’1en<lb/> Tatsache entsprith oder einer besonders feinen unbewußten<lb/> Leistung des Träumen oder einfach als ein zufälliges Zu<lb break="no"/>sammentreffen hingenommen werden muß. Unsere Wiß<lb break="no"/>begierde werden wir auf eine spätere Gelegenheit vertrösten,<lb/> in der uns eine eingehende, mündliche Ausforsd1ung des<lb/> Träumers vergönnt sein mag. Sie können aber nicht sagen, daß<lb/> dieser Ausgang unserer Untersuchung Sie enttäuscht hat, denn<lb/> ich hatte Sie darauf vorbereitet, Sie—würden nichts erfahren,<lb/> was auf das Problem der Telepathie Lith wird.<lb break="paragraph"/>
+        </p>
+        <p>Wenn wir jetzt zur analytide Behandlung dieses Traumcs<lb/> übergeben° so müssen wir von neuem unser Mißvergniigen<lb/> bekennen. Das Material von Gedanken, die der Träume: an<lb/> den manifesten Tmuminhalt anknüpﬂ, ist wiederum unge<lb break="no"/>nügend; damit können wir keine Traumana.lyse mad1en. Der<lb/> Traum verweilt zum Beispiel ausführlich bei der Ähnlichkeit<lb/> der Kinder mit den Eltern, erörtert deren Haarfarbe und die<lb/> voraussididid'1e Wandlung derselben in späteren Zeiten, und<lb/> zur Aufkläning dieser breit ausgespnnnenen Details haben wir<lb/> nur die diirftige Auskunft des Träumen, er habe sich immer<lb/> für Fragen der Ähnlichkeit und Vererbung interessiert; da sind<lb/> wir dodz gewohnt, weitergehende Ansprüche zu stellen! Aber<lb/> an ein e r Stelle gestattet der Traum eine analytisdie<lb/> Deutung, gerade hier kommt die Analyse, die sonst nichts mit<lb/> dem Okkultismus zu tun hat, der Telepathie in merkwürdiger<lb/> Weise zur Hilfe. Dieser einen Stelle wegen nehme ich über<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="12" xml:id="page__6ff5a112-9e44-46fa-bdf3-9261b220e770"/>
+        <p>Telepatbie 337<lb break="paragraph"/>
+        </p>
+        <p>haupt Ihre Aufmerksamkeit für diesen Traum in Anspruch.<lb break="paragraph"/>
+        </p>
+        <p>Wenn Sie es red1t ansehen, so hat ja dieser Traum auf den<lb/> Namen eines „telepathischen" gar kein Anred1t. Er teilt dem<lb/> Träumer nichts mit, was sich — seinem sonstigen Wissen ent<lb break="no"/>zogen — gleidueitig an einem anderen Orte vollzieht, sondern<lb/> was der Traum erzählt, ist etwas ganz anderes als das Er<lb break="no"/>eignis, von dem ein Telegramm am Zweiten Tag nad! der<lb/> Traumath berid'ltet. Traum und Ereignis weichen in einem<lb/> ganz besonders wichtigen Punkt voneinander ab, nur stimmen<lb/> sie, von*der Gleidizeitigkeit abgesehen, in einem anderen,<lb/> sehr interessanten Element zusammen. Im Traum hat die<lb/> Fr an des Träumen Zwillinge bekommen. Das Ergebnis<lb/> besteht aber darin, daß seine entfernt lebende Tochter<lb/> Zwillinge geboren hat. Der Träumer übersieht diesen Unter<lb break="no"/>schied nicht, er sdleiul: keinen Weg zu kennen, über ihn<lb/> hinwegzukommen, und da er nach seiner eigenen Angabe<lb/> keine Okkultistisdn: Vorliebe hat, fragt er nur ganz schüditern<lb/> an, ob das Zusammentreﬁen von Traum und. Ereignis im<lb/> Punkte der Zwillingsgeburt mehr als ein Zufall sein kann.<lb/> Die psydmanalytische Traumdeutung hebt aber diesen Unter<lb break="no"/>schied zwisehen Traum und Ereignis auf und gibt beiden den<lb/> nämlichen Inhalt. Ziehen wir das Assoziationsmaterial zu<lb/> diesem Traum zu Rate, so zeigt es uns trotz seiner Spärlich<lb break="no"/>keit, daß hier eine innige Gefühlsbindung zwischen Vater und<lb/> Tochter besteht, eine *Gefiihlsbindung, die so gewöhnlich und<lb/> natürlich ist, daß man aufhören sollte, sich ihrer zu sdiämen,<lb/> die im Leben gewiß nur als zärtliches Interesse zum Ausdruck<lb/> kommt und ihre letzten Konsequenzen erst im Traume zieht.<lb/> Der Vater weiß, daß die Tochter sehr an ihm hängt, er ist<lb/> überzeugt, daß sie in ihrer‘sdlweren Stunde viel an ihn gedad'it<lb/> hat; ich meine, im Grunde gönnt er sie dem Schwiegersohn<lb/> nicht, den er im Briefe mit einigen absdiätzigen Bemerkungen<lb/> streiﬂ. Beim Anlaß ihrer (erwarteten oder telepathisch ver<lb break="no"/>
+        </p>
+        <p>Freud. Kleine Schriften zur Suunlrheurie an<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="13" xml:id="page__911d7ea1-a960-4506-9bed-38f620ae91a5"/>
+        <p>3 3 8 Traum und<lb break="paragraph"/>
+        </p>
+        <p>nommenen) Niederkunﬁ wird im Verdrängten der unbewußte<lb/> Wunsch rege: Sie sollte lieber meine (zweite) Frau sein, und<lb/> dieser Wunsch ist es, der den Traumgedanken entstellt und<lb/> den Unterschied zwischen dem manifesten Trauminhalt und<lb/> dem Ereignis verschuldet. Wir haben das Recht, für die<lb/> zweite Frau im Traume die Tod-mer einzusetzen. Besäßen wir<lb/> mehr Material zum Traum, so würden wir diese Deutung<lb/> gewiß versichern und vertiefen können.<lb break="paragraph"/>
+        </p>
+        <p>Und nun bin id'l bei dem, was id1 Ihnen zeigen wollte. Wir<lb/> haben uns der strengsten Unparteiliehkeit bemüht und zwei<lb/> Auffassungen des Trauma als gleich möglich und gleid: unbe<lb break="no"/>wiesen gelten gelassen. Nach der ersten ist der Traum die<lb/> Reaktion auf eine telepathisdte Botsdaaﬂ:z Deine Tod-ner<lb/> bringt eben jetzt Zwillinge zur Welt. Ned-r der zweiten liegt<lb/> ihm eine unbewußte Gedankenarbeit zugrunde, die Sidi etwa.<lb/> derart übersetzen ließe: Heute ist ja der Tag, an dem die<lb/> Entbindung eintreten müßte, wenn sid: die jungen Leute in<lb/> Berlin wirklich um einen Monat verrechnet haben, wie ich<lb/> eigentlich glaube. Und wenn meine (erste) Frau nodi leben<lb/> würde, die wäre doch mit einem Enkelkind nicht zufrieden!<lb/> Fiir sie müßten es mindestens Zwillinge sein. Hat diese zweite<lb/> Auffassung redet, so entstehen keine neuen Probleme für uns.<lb/> Es ist eben ein Traum wie ein anderer. Zu den erwähnten<lb/> (vorbewußten) Traumgedanken ist der (unbewußte) Wunsch<lb/> binzugetreten, daß keine andere als die Tochter die zweite<lb/> Frau des Träumen hätte werden sollen, und so ist der uns<lb/> mitgeteilte manifeste Traum entstanden.<lb break="paragraph"/>
+        </p>
+        <p>Wollen Sie aber lieber annehmen, daß die telepathisdie Bot<lb break="no"/>scl1aﬂ von der Entbindung .der Tochter an den Schlafenden<lb/> herangetreten ist, so erheben sid: neue Fragen nach der Be<lb break="no"/>ziehung einer sold1en Botsdiaﬂ zum Traum und nach ihrem<lb/> Einﬂuß auf die Traumbildung. Die Antwort liegt dann sehr<lb/> nahe und ist ganz eindeutig zu geben. Die telepathische Bot<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="14" xml:id="page__319d26e6-21ab-40f4-90ff-2f692bed144c"/>
+        <p>Telepatbir 339<lb break="paragraph"/>
+        </p>
+        <p>schaft wird behandelt wie ein Stück des Materials zur Traum<lb break="no"/>bildung, wie ein anderer Reiz von außen oder innen, wie ein<lb/> störendes Geräusch von der Straße, wie eine aufdringliehe<lb/> Sensation von einem Organ des Schlafenden. In unserem<lb/> Beispiel ist es ersiditlidx, wie sie mit Hilfe eines lauernden,<lb/> verdrängren Wunsdies zur Wunsdrerfüllung umgeerbeitet<lb/> wird, und leider weniger deutlich zu zeigen, daß sie mit<lb/> anderem gleichzeitig rege gewordenen: Material zu einem<lb/> Traum versdimilzt. Die telepathische Botsdmi’c — wenn eine<lb/> solche wirklich anzuerkennen ist — kann also an der Traum<lb break="no"/>bildung nichts ändern, die Telepathie hat mit. dem Wesen des<lb/> Traun-nes nichts zu tun. Und um den Eindruck zu vermeiden,<lb/> daß ich hinter einem abstrakten und vornehm klingenden<lb/> Wort eine Unklarheit verbergen möd'ite, bin id1 bereit zu<lb/> wiederholen: Das Wesen des Traumes besteht in dem eigen<lb break="no"/>tümlid1en Prozeß der Traumarbeit, welcher vorbewußte Ge<lb break="no"/>danken (Tagesreste) mit Hilfe einer unbewußten Wunsch<lb break="no"/>regung in den mmifeeten Traminl'lalt überführt. Das Pro<lb break="no"/>blem der Telepathie geht aber den Traum so wenig an wie<lb/> das Problem der Angst.<lb break="paragraph"/>
+        </p>
+        <p>Ich hoffe, Sie werden das zugeben, mir aber bald einv'venden,<lb/> es gibt doch auch andere telepathisehe Träume, in denen kein<lb/> Unterschied zwischen Ereignis und Traum besteht, und in<lb/> denen nichts anderes zu ﬁnden ist als die unentstellte Wieder<lb break="no"/>gabe des Ereignisses. Id: kenne solche telepathisdie Träume<lb/> wieder nicht aus eigener Erfahrung, weiß aber, daß sie häuﬁg<lb/> beriditet werden sind. Nehmen wir an, wir hätten es mit<lb/> einem solchen unentstellten und unvermisd1ten telepathisd1en<lb/> Traum zu tun, dann erhebt sich eine andere Frage: Soll man<lb/> ein derartiges telepatbisches Erlebnis überhaupt einen „Traum"<lb/> nennen? Sie werden es ja gewiß tun, solange Sie mit dem<lb/> populären Sprachgebrauch gehen, für den alles Träumen heißt,<lb/> was sich während der Schlafzeit in Ihrem Seelenleben ereignet.<lb break="paragraph"/>
+        </p>
+        <p>„.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="15" xml:id="page__1ff4b918-cef4-4c4c-86c9-fff3d45ee5df"/>
+        <p>34° Traum und<lb break="paragraph"/>
+        </p>
+        <p>Sie sagen vielleidn auch: Ich habe mid: im Traum herum<lb break="no"/>gewälzt, und ﬁnden erst recht keine Inkorrektheir darin, zu<lb/> sagen: Ich habe im Traum geweint oder mich im Traum ge<lb break="no"/>ängstigt. Aber Sie merken doch wohl, daß Sie in all diesen<lb/> Fällen „Traum“ und „Scblaf“ oder „Scz’cnlafzustand“ unter<lb break="no"/>sd1eidungslos miteinander vermuschen. Id1 meine, es wäre im<lb/> Interesse wissensebaﬂlidler Genauigkeit, wenn wir „Traum“<lb/> und „Sd'dafzustand“ besser auseinanderhielcen. Warum sollten<lb/> wir ein Seitenstiidr zu der von Maeder beraufbeschwo<lb break="no"/>rcnen Konfusion sdzaﬂen, der fiir den Traum eine neue Funk<lb break="no"/>tion entdeckte, indem er die Traumarbeit durchaus nicht von<lb/> den latenten Traumgedanken sondern wollte? Wenn wir also<lb/> einen wld1en reinen telepathisd1en „Traum“ antreﬁen sollten,<lb/> so wollen wir ihn doch lieber ein telepathisrhes Erlebnis im<lb/> Sdilafzustand heißen. Ein Traum ohne Verdichtung, Ent<lb break="no"/>stellung, Dramatisierung, vor allem ohne Wunscberfüllung<lb/> verdient ja doch nicht diesen Namen. Sie werden mich daran<lb/> mahnen, daß es nodn andere seelische Produktionen im Schlaf<lb/> gibt, denen man dann das Redn: auf den Namen „Traum“<lb/> abspred1en müßte. Es kommt vor, daß reale Erlebnisse des<lb/> Tages im Sdl.laf einfach wiederholt werden, die Reproduk<lb break="no"/>tionen traumatischer Szenen im „Traurne“ haben uns erst<lb/> kürzlich zu einer Revision der Traumtheorie herausgefordert;<lb/> es gibt Träume, die sich durch ganz besondere Eigenschaften<lb/> von der gewohnten Art unterscheiden, die eigentIich nichts<lb/> anderes sind als unversehrte und unvermengte nächtliche<lb/> Phantasien, den bekannten Tagesphantasien sonst durrhaus<lb/> ähnlidl. Es wäre gewiß mißlidl, diese Bildungen von der<lb/> Bezeichnung „Träume“ auszuschließen. Aber sie alle kommen<lb/> dod1 von innen, sind Produkte unseres Seelenlebens, während<lb/> der reine „telepathisrhe Traum“ seinem Begriff nad1 eine<lb/> Wahrnehmung von außen wäre, gegen welche sich das Seelen—<lb/> leben rezeptiv und passiv verhielte.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="16" xml:id="page__a2816134-494d-4642-9b62-63b9a5442f29"/>
+        <p>Telepazln'e !“<lb break="paragraph"/>
+        </p>
+        <p>II) Der zweite Fall, von dem idi Ihnen berichten will, liegt<lb/> eigentlich auf einer anderen Linie. Er bringt uns keinen tele<lb break="no"/>pathisc’nen Traum, sondern einen seit Kindheitsjahren rekur<lb break="no"/>rierenden Traum bei einer Person, die viel telepathische Er<lb break="no"/>lehnisse gehabt hat. Ihr Brief, den ich nachstehend wiedergebe.<lb/> enthält manches Merkwürdige, worüber uns zu urteilen ver<lb break="no"/>sagt ist. Einiges davon kann für das Verhältnis der Telcpatllie<lb/> zum Traum verwertet werden.<lb break="paragraph"/>
+        </p>
+        <p>1<lb break="paragraph"/>
+        </p>
+        <p>„ Mein Arzt, Herr Doktor N., riet mir, Ihnen einen Tr1um<lb/> zu erzählen, der mich seit ungefähr dreißig his zweiunddreißig<lb/> Jahren verfolgt. Ich folgte seinem Rate, vielleicht hat der Traum<lb/> in wissensd1afhlidaer Beziehung für Sie Interesse. Da. nach Ihrer<lb/> Meinung solche Träume auf ein Erlebnis in sexueller Beziehung<lb/> während der ersten Kinderjahre zurückzuführen sind, gebe ich Kind<lb break="no"/>heitserinnerungen wieder, es sind Erlebnisse, die heute noch ihren<lb/> Eindruck auf mich machen und so nad1clriicklich gewesen sind,<lb/> daß sie mir meine Religiun bestimmt haben.<lb break="paragraph"/>
+        </p>
+        <p>Darf ich Sie bitten, mir nach Kenntnisnahme “vielleicht mitzu—<lb/> teilen, in welcher Weise Sie Sidi diesen Traum erklären, und oh<lb/> es nicht möglidi ist, ihn aus meinem Leben verschwinden zu lassen,<lb/> da er mid; wie ein Gespenst verfolgt und durd1 die Umstände,<lb/> von denen er begleitet ist, — ich falle stets aus dem Bene und habe<lb/> mir sdion nicht unerheblich: Verletzungen zugezogen — sehr un—<lb/> angenehm und peinlich für mich ist.<lb break="paragraph"/>
+        </p>
+        <p>2<lb break="paragraph"/>
+        </p>
+        <p>Ich bin siebenunddreißig Jahre alt, sehr kräftig und körperlidt<lb/> gesund, habe außer Masern und Scharlach in der Kindheit eine<lb/> Nierenentzündung durdigernari1t. Im fünften jahre hatte ich eine<lb/> sehr schwere Augenentziindung, nadi der ein Doppeltsehen zurück<lb break="no"/>blieh. Die Bilder stehen schräg zueinander, die Umrisse des Bildes<lb/> sind verwisdzt, weil Narben von Gesdiwüren die Klarh2it beein<lb break="no"/>trächtigen. Nach fad3ärztlid1em Urteil ist am Auge aber nichts<lb/> mehr zu ändern nder,zu bessern. Durdi das Zukneifen des linken<lb/> Auges, um klarer zu sehen, hat sid: die linke Gesichtshälfte nad:<lb/> oben verzerrt. Ich vermag diirdi Übung und Wille die feinsten<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="17" xml:id="page__61b5433a-17fb-402e-a074-afdc7091dc87"/>
+        <p>341 Traum und<lb break="paragraph"/>
+        </p>
+        <p>Handarbeiten zu mad1en; ebenso habe ich mit als sed1siähriges<lb/> Kind das schief: Sehen vor dem Spiegel weggelernt, so daß heute<lb/> von dem Augenfehler äußerlidi nidm zu sehen ist.<lb break="paragraph"/>
+        </p>
+        <p>In den frühesten Kinderjahren schon bin id] immer einsam<lb/> gewesen, habe midi von allen Kindern zurüdrgezogen und habe<lb/> schon Gesidrte gehabt (hellhören und hellsehen), habe das aber<lb/> von der Wirklichkeit nidit unterscheiden können und bin deshalb<lb/> oft in Konﬂikte gm!en. die aus mit einen sehr zurüdihaltenden,<lb/> sd1euen Mensd1en gemacht haben. Da ieh schon als kleinstes Kind<lb/> viel mehr gewußt habe, als id] hatte lernen können, verstand<lb/> id. einfadr die Kinder meines Alters nicht mehr. ld! selbst bin<lb/> die älteste von zwölf Geschwistern.<lb break="paragraph"/>
+        </p>
+        <p>Von sechs bis zehn Jahren besuchte id: die Gemeindsd-nule und<lb/> dann bis sechzehn Jahre die höhere Schule der Ursulinerinnen in B.<lb/> Mit zehn Jahren habe ich innerhalb vier Wochen, es waren acht<lb/> Nadihilfestunden, so viel Französisch nad;geholt, als andere Kinder<lb/> in zwei Jahren lernen. Id1 hatte nur zu repetieren, es war, als<lb/> ob id: es sdmn gelernt und nur vergessen hätte. Überhaupt habe<lb/> im aud1 später Französisch nie zu lernen brauchen, im Gegensatz<lb/> zu Englisdz, das mir zwar keine Mühe machte, das mir aber<lb/> unbekannt war. Ähnlich wie mit Französisd: ging es mit mit<lb/> Latein, das ich eigentlidn nie richtig gelernt habe, sondern nur vom<lb/> Kirdienlatein her kenne, das mir aber vollkommen vertraut ist.<lb/> Lese ich heute ein französisd'ies Werk, dann denke ich auch sofort<lb/> in Französisch, während mir das bei Englisd-r nie passiert, trotzdem<lb/> ich Englisda besser beberrsd1e. — Meine Eltern sind Bauersleute,<lb/> die durch Generationen nie andere Sprachen als Deutsch und<lb/> Polnisch gesprothen haben.<lb break="paragraph"/>
+        </p>
+        <p>Gesichte: Zuweilen versd1windet für Augenhlidre die Wirk<lb break="no"/>lichkeit und ich sehe etwas ganz anderes. In meiner Wohnung sehe<lb/> im 2.3. sehr oﬁ: ein altes Ehepaar und ein Kind, die Wohnung<lb/> hat dann andere Einrichtung. — Ned! in der Heilanstalt kam<lb/> früh gegen vier Uhr meine Freundin in mein Zimmer, ich war<lb/> wach, hatte die Lampe brennen und saß am Tische lesend, da<lb/> ich sehr viel an Sdilaﬂosigkeit leide. Stets bedeutet diese Er<lb break="no"/>scheinung für mich Ärger, aud1 dieses Mal.<lb break="paragraph"/>
+        </p>
+        <p>Im Jahre 1r9r4 war mein Bruder im Felde, id1 nid)! bei den<lb/> Eltern in B., sondern in Ch. Es war vormittags 10 Uhr, 11. August,<lb/> da hörte id: ,Mutter, Mutter!‘ von der Stimme meines Bruders<lb/> rufen. Ned) zehn Minuten nochmals, habe aber nicht! gesehen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="18" xml:id="page__a72b9cbb-792e-4bd0-805d-404c4583e83c"/>
+        <p>Telepathie 34 3<lb break="paragraph"/>
+        </p>
+        <p>Am 34. August kam ich beim, fand Mutter bedriidtt, und auf<lb/> Befragen erklärte sie, der Junge hätte sid: am 11. August ange<lb break="no"/>meldet. Sie sei vormittags im Garten gewesen, da hätte sie den<lb/> jungen ,Mutter, Mutter!‘ rufen hören. Id: tröstete sie und sagte<lb/> ihr nichts von mit. Drei Wochen darauf kam eine Karte meines<lb/> Bruders an, die er am 11. August zwisd1en 9 und ro Uhr vor<lb break="no"/>mittags geschrieben hatte, kurz danuf starb er.<lb break="paragraph"/>
+        </p>
+        <p>Am 17. September 1911 meldete sich mir etwas in der Heil—<lb/> anstalt an. Es wurde zwei— bis dreimal in das Bett meiner Zimmer—<lb/> kollegin heftig geklopl’t. Wir waren beide wad1, id| fragte, ob<lb/> sie geklop&amp; hätte, sie hatte nidxt einmal etwas gehört. Ned; acht<lb/> Wodsen hörte ich, daß eine meiner Freundinnen in der Nadmt vom<lb/> 26. auf 17. gestorben wäre.<lb break="paragraph"/>
+        </p>
+        <p>Nun etwas, was Sinnestäuschung sein soll, Ansidstssadsel Ich<lb/> habe eine Freundin, die sich einen Witwer mit fünf Kindern ge<lb break="no"/>heiratet hat, den Mann lernte ich erst durch meine Freundin kennen.<lb/> in deren Wohnung sehe id1 fast jedesmal, wenn im bei ihr bin,<lb/> eine Dame aus- und eingehen. Die Annnhme lag nahe, daß das<lb/> die erste Frau des Mannes sei. Ich fragte gelegentlich nach einem<lb/> Bilde, konnte aber nach der Photographie die Ersd1einung nicht<lb/> identiﬁzieren. Nach sieben jahren sehe ich bei einem der Kinder<lb/> ein Bild mit. den Zügen der Dame. Es war doch die erste Frau.<lb/> Auf dem Bilde sah sie bedeutend besser aus, sie hatte gerade eine<lb/> Mastkur durdsgemadst und daher das fiir eine Lungenkranke ver—<lb/> änderte Aussehen. -— Das sind nur Beispiele von vielen.<lb break="paragraph"/>
+        </p>
+        <p>D er Tre \: In: [da sehe eine lnndzunge, von Wnrrer umgeben.<lb/> Die Wellen werden von der Blandnng herangetriebm und wieder<lb/> zurüekgerissen. Auf der Landzunge steht eine Palme, die "um; zum<lb/> Wasser gebogen ist. Um den Stamm der Palme «hängt eine Frau<lb/> ihren Arm und beugt sich ganz tief ins Wasser, um ein Mann ver—<lb/> sucht, an Land zu kommen. Zuletzt legt sie sich auf die Erde, hält<lb/> sich mit der Linken an der Pßlme fen und nid”, w weit wie<lb/> möglich, ihre Rechte dem Mann: in: Walter, ohne ihn zu erreichen.<lb/> Dabei falle ich aus dem Bett: und wacht auf. —- Ida war ungefähr<lb/> fünfzehn bis sechzehn Jahre, als ich wahrnzlun, daß ich ja. selbst<lb/> diese Frau sei, und nun erlebte id: nicht nur die Angst der Frau<lb/> um den Mann, sondern sand manchmal auch als unbeteiligte Dritte<lb/> dabei und sah zu. Auch in Etappen träumte id1 dieses Erlebnis.<lb/> Wie das Interesse am Marine wad1 wurde (nd1tzehn bis zwanzig<lb/> Jahre), versudite ich. das Guidnt des Mannes zu erkennen, es war<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="19" xml:id="page__48b6fd78-5afd-43be-9f06-f830bcfe55a9"/>
+        <p>344 . Traum und<lb break="paragraph"/>
+        </p>
+        <p>mir nie möglich. Die Gisd'it ließ nur Nelken und Hinterkopf frei.<lb/> Id: bin zweimal verlobt gewesen, aber dem Kopf und Körperbau<lb/> nach war es keiner dieser beiden Männer. — Als ich in der Heil<lb break="no"/>anstalt einmal im Paraldehydrausdm lag, sah idi das Gesicht des<lb/> Mannes, das ich nunmehr in jedem Traun-n: sehe. Es ist das des<lb/> midi in der Anstalt behandelnden Arztes, der mir wohl als Arzt<lb/> sympathisch ist, mit dem mich aber nichts verbindet.<lb break="paragraph"/>
+        </p>
+        <p>Erinnerungen: ’/s bis ”In Jahr alt. Id; im Kinderwagen,<lb/> rechts mit zur Seite zwei Pferde. das eine, ein Brauner, sieht midi<lb/> groß und eindrudtsvoll an. Das ist das stärkste Erlebnis, ich hatte<lb/> das Gefühl, es sei ein Mensch.<lb break="paragraph"/>
+        </p>
+        <p>Ein Jahr alt. Vater und ich im Stadtpark, wo mir ein<lb/> Parkwä'rter ein Vögeld1en in die Hand gibt. Seine Augen sehen<lb/> midi wieder an, ich fühle, das ist ein Wesen wie du.<lb break="paragraph"/>
+        </p>
+        <p>Hausschlnchtungen. Beim Quieken der Schweine habe<lb/> ich stets um Hilfe gesd1r'ien und immer gerufen: Ihr schlagt ja<lb/> einen Meusdien tot (vier Jahre alt). Hi habe Fleisch als Nahrungs—<lb/> mittel stets abgelehnt. Schweineﬂeisch hat mir stets Erbred1en ver.<lb/> ursacht. Erst im Kriege habe ich Fleisdi essen gelernt, aber nur<lb/> mit Widerwillen, jetzt entwöhne ich midi dessen wieder.<lb break="paragraph"/>
+        </p>
+        <p>Fünf Jahre alt. Mutter kam nieder und ﬁir hörte sie<lb/> schreien. Ich hatte die Empﬁndung, dort ist ein Tier oder Mensch<lb/> in hödaster Not, ebenso wie ich es bei den Schlachtungen hatte.<lb break="paragraph"/>
+        </p>
+        <p>In sexueller Beziehung bin ich als Kind ganz indifferent gewesen,<lb/> mit zehn Jahren gingen Sünden wider die Keuschheit noch nicht in<lb/> mein Begriffsvermögen. Mit zwölf Jahren wurde ich menstruicrt.<lb/> Mit sedisundzwanzig Jahren, nachdem id; einem Kinde das Leben<lb/> gegeben hatte, erwadlte erst das Weib in mir, bis dahin (ein halbes<lb/> Jahr) hatte id; beim Koh-us stets heftiges Erbrechen. Auch später<lb/> trat Erbrechen ein, wenn die kleinste Verstimmung mich bedrückte.<lb break="paragraph"/>
+        </p>
+        <p>1431 habe eine außerordentlidx sdiarfe Beobadrtungsgabe und ein<lb/> ganz ausnahmsweise sdmrfes Gehör, Geruch ist ebenso ausgebildet.<lb/> Bekannte Mensdren kann ich mit verbundenen Augen unter einem<lb/> Haufen anderer herausriechen.<lb break="paragraph"/>
+        </p>
+        <p>Id1 führe mein Mehnehen und Hören nicht auf krankhaftes<lb/> Wesen. sondern auf feinem; Empﬁnden und schnellem; Kom<lb break="no"/>binaxionsvennögen zurück, habe aber darüber nur mit meinem<lb/> Religionslehrer und Herrn Dr. ... gesprochen, zu letzterem auch<lb/> nur sehr widerwillig, weil id: mid; davor scheute zu hören, daß<lb/> id! Minuseigensduften habe, die ich persönlid: als Pluseigensdiaften<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="20" xml:id="page__e5309fc5-6aa7-4a44-9f03-d7695ad4589d"/>
+        <p>Telepatbie 34;<lb break="paragraph"/>
+        </p>
+        <p>ansehe, und weil id] dureh Mißverständnis in meiner Jugend sehr<lb/> sd1eu geworden bin."<lb break="paragraph"/>
+        </p>
+        <p>Der Traum, dessen Deutung uns die Sd1reiberin auferlegt,<lb/> ist nicht schwer zu verstehen. Es ist ein Traum der Rettung<lb/> aus dem Wasser, also ein typisdier Geburtstraum. Die Spradie<lb/> der Symbolik kennt, wie Sie wissen, keine Grammatik, sie ist<lb/> das Extrem einer Inﬁnitivsprache, auch das Aktivum und das<lb/> Passivum werden durch dasselbe Bild dargestellt. Wenn im<lb/> Traum eine Frau einen Mann aus dem Wasser zieht (oder<lb/> ziehen will), so kann das heißen, sie will seine Mutter sein<lb/> (anerkennt ihn als Sohn wie die Pharaotoehter den Moses)<lb/> oder auch: sie will durch ihn Mutter werden, einen Sohn von<lb/> ihm haben, welcher als sein Ebenbild ihm gleidtgesetzt wird.<lb/> Der Baumstamm, an den die Frau sich hält, ist leith als<lb/> Phallussymbol zu erkennen, auch wenn er nid1t gerade steht,<lb/> sondern gegen den —Wasserspiegel geneigt — im Traum heißt<lb/> es: gebogen ——- ist. Das Andrängen und Zurüdsﬂuten der<lb/> Brandung legte einmal einer anderen Träumeriu, die einen<lb/> ganz ähnlidaen Traum produziert hatte, den Vergleidi mit:<lb/> der intermittierenden Wehent'eitigkeit nahe, und als ich sie,<lb/> die noch nie geboren hatte, fragte, woher sie diesen Charakter<lb/> der Geburtsarbeit kenne, sagte sie, man stellt sich die Wehen<lb/> wie eine Art Kolik vor, was physiologisch ganz untadelig ist.<lb/> Sie assoziierte dazu: „Des Meeres und der Liebe Wellen.“<lb/> Woher unsere Träumerin die feinere Ausstattung des Symbols<lb/> in so frühen Jahren genommen haben kann (Landzunge,<lb/> Palme)7 weiß ich natürlich nicht zu sagen. Übrigens vergessen<lb/> wir nicht daran: Wenn Personen behaupten, daß' sie seit<lb/> Jahren von demselben Traum verfolgt werden, so stellt sich<lb/> oft heraus, daß es manifesterweise nicht ganz derselbe ist.<lb/> Nur der Kern des Traumes ist jedesmal wiedergekehrt, Einzel<lb break="no"/>
+        </p>
+        <p>heiten des Inhalts sind abgeändert werden oder neu hinzu<lb break="no"/>gekommen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="21" xml:id="page__21b80d56-d41f-4c55-899a-cdaf3ac50ad8"/>
+        <p>345 Traum und<lb break="paragraph"/>
+        </p>
+        <p>Am Ende dieses offenbar angstvollen Traumes fällt die<lb/> Träumerin aus dem Bett. Das ist eine neuerliche Darstellung<lb/> der Niederkunﬁ. Die analytische Erforschung der Höhen—<lb/> phobien, der Angst vor dem Impuls, sich aus dem Fenster zu<lb/> stürzen, hat Ihnen gewiß allen das nämlid1e Ergebnis geliefert.<lb break="paragraph"/>
+        </p>
+        <p>Wer ist nun der Mann, von dem sid1 die Träumerin ein<lb/> Kind wünscht oder zu dessen Ebenhilcl sie Mutter sein möchte?<lb/> Sie hat sich oﬁ bemüht, sein Gesicht zu sehen, aber der Traum<lb/> ließ es nicht zu, der Mann sollte inkognito bleiben. Wir<lb/> wissen aus ungezä.hltem Analysen, was diese Versdlleierung<lb/> bedeutet, und unser Analogieschluß wird durch eine andere<lb/> Angabe der Träumerin gesichert. In einem Paraldehydrausch<lb/> erkannte sie einmal das Gesidn: des Mannes im Traum als das<lb/> des Anstaltsarztes, der sie behandelte und der ihrem bewußten<lb/> Gefühlsleben nid1ts weiter bedeutete. Das Original hatte sich<lb/> also nie gezeigt, aber dessen Ahdrudi in der „Übertragung“<lb/> gestattet den Sdiluß, daß es immer früher der Vater hätte<lb/> sein sollen. Wie red“: hatte doch Ferenczi, als er auf<lb/> die „Träume der Ahnungslosen" als wertvolle Urkunden zur<lb/> Beitätigung unserer analytischen Vermutungen hinwies! Unsere<lb/> Träumerin war die älteste von zwölf Kindern; wie oft mußte<lb/> sie die Qualen der Eifersucht und Enttäuschung durchgemacht<lb/> haben, wenn nicht sie, sondern die Mutter das ersehnte Kind<lb/> vom Vater empﬁng!<lb break="paragraph"/>
+        </p>
+        <p>Ganz ridltig hat unsere Träumerin verstanden, daß ihre<lb/> ersten Kindheitserinnerungen für die Deutung ihres frühen<lb/> und seither wiederkehrenden Traumes wertvoll sein würden.<lb/> In der ersten Szene vor einem Jahr sitzt sie im Kinderwagen,<lb/> neben ihr zwei Pferde, von denen eines sie groß und ein<lb break="no"/>drucksvoll ansieht, Sie bezeichnet das als ihr stärkstes Erlebnis,<lb/> sie hatte das Gefühl, es sei ein Mende Wir aber können uns<lb/> in diese Wertung nur e'infiihlen, wenn wir annehmen, zwei<lb/> Pferde Ständen hier, wie so oft, für ein Ehepaar, fiir Vater<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="22" xml:id="page__aeef27db-5fde-44b9-88d0-27540cb975cd"/>
+        <p>Telepntbie 347<lb break="paragraph"/>
+        </p>
+        <p>und Mutter, Es ist dann wie ein Aufblitzen des infantilen<lb/> Tutemismus. Könnten wir die Schreiberin spre&amp;ien, so würden<lb/> wir die Frage an sie riehten, ob nicht der Vater seiner Farbe<lb/> nach in dem braunen Pferd, das sie so mensdllirh an<lb break="no"/>sieht, erkannt werden darf. Die zweite Erinnerung ist mit der<lb/> ersten durdr das gleiche „verständnisvolle Ansehen“ assoziativ<lb/> verknüpft. Aber das In-die—Hand-Nehmen des Vögelchens<lb/> mahnt den Analytiker, der nun einmal seine Vorurteile hat,<lb/> an einen Zug des Traumes, der die Hand der Frau in Be<lb break="no"/>ziehung zu einem anderen Phallussyrnbol bringt.<lb break="paragraph"/>
+        </p>
+        <p>Die nächsten beiden Erinnerungen gehören zusammen, sie<lb/> bieten der Deutung noch geringere Sdiwierigkeiten. Das<lb/> Scbreien der Mutter bei ihrer Niederkunﬂ erinnert sie direkt<lb/> an das Quieken der Schweine bei einer Haussdzlachtung und<lb/> versetzt sie in dieselbe mitleidige Raserei. Wir vermuten aber<lb/> auch, hier liegt eine heftige Reaktion gegen einen bösen Todes<lb break="no"/>wunsch vor, welcher der Mutter galt.<lb break="paragraph"/>
+        </p>
+        <p>Mit diesen Andeutungen der Zärtlichkeit für den Vater,<lb/> der genitalen Berührungen mit ihm und der Todeswiinsche<lb/> gegen die Mutter ist der Umriß des weiblichen Ödipus<lb break="no"/>komplexes gezogen. Die lang bewahrte sexuelle Unwissenheit<lb/> und spätere Frigidität entspred1en diesen Voraussetzungen.<lb/> Unsere Schreiberin ist virtuell — und zeitweise gewiß auch<lb/> faktisch —- eine hysterische Neurotika geworden. Die Mächte<lb/> des Lebens haben sie zu ihrem Glück mit sid] fortgerissen, ihr<lb/> weibliches Sexualempﬁnden, Mutterglück und mannigfacbe<lb/> Erwerbsleistung möglidi gemacht, aber ein Anteil ihrer Libido<lb/> haftet noch immer an den Fixierungsstellen ihrer Kindheit,<lb/> sie träumt noch immer jenen Traum, der sie aus dem Bene<lb/> wirft und für die inzesmöse Objektwahl mit „nicht un<lb break="no"/>erheblichen Verletzungen" bestraﬂ.<lb break="paragraph"/>
+        </p>
+        <p>Was die stärksten Einﬂüsse späteren Erlebens nicht zu<lb break="no"/>stande brachten, soll jetzt die. brieflidie Aufklärung eines<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="23" xml:id="page__9187bce0-c747-4c2e-aaea-786574a66b93"/>
+        <p>343 Traum und<lb break="paragraph"/>
+        </p>
+        <p>fremden Arztes leisten. Wahrsdieinlidi würde es einer regel—<lb/> rechten Analyse in längerer Zeit gelingen. Wie die Verhält<lb break="no"/>nisse liegen, mußte ich mid; damit begnügen, ihr zu schreiben,<lb/> id: sei überzeugt, daß sie an der Nachwirkung einer starken<lb/> Gefühlsbindung an den Vater und der entspredienden Identi<lb break="no"/>ﬁzierung mit der Mutter leide, hoffe aber selbst nicht, daß<lb/> diese Aufklärung ihr nützen werde. Spontanheilungen von<lb/> Neurosen hinterlassen in der Regel Narben und diese werden<lb/> von Zeit zu Zeit wieder sdimerzhaﬂz. Wir sind sehr stolz<lb/> auf unsere Kunst, wenn wir eine Heilung durch Psychoanalyse<lb/> vollbrad1t haben, können aber einen solchen Ausgang in<lb/> Bildung einer schmerzhaften Narbe auch nid1t immer ab<lb break="no"/>wenden.<lb break="paragraph"/>
+        </p>
+        <p>Die kleine Erinnerungsreihe soll unsere Aufmerksamkeit<lb/> nnd: ein wenig festhalten. 1611 habe einmal behauptet, daß<lb/> solche Kindheitsszenen „Dedserinnerungen“ sind, die zu einer<lb/> späteren Zeit herausgesud1t, zusammengestellt und dabei nicht<lb/> selten verfälscht werden. Mitunter läßt sidi erraten, welcher<lb/> Tendenz diese späte Umarbeitung dient. In unserem Falle<lb/> hört man geradezu das Ich der Sd1reiberin sich mittels dieser<lb/> Erinnerungsreihe rühmen oder besdrwichtigen: Ida war von<lb/> klein auf ein besonst edles und mitleidiges Menschenkind.<lb/> Ieh habe frühzeitig erkannt, daß die Tiere ebenso eine Seele<lb/> haben wie wir, und habe Grausamkeit gegen Tiere nicht ver<lb break="no"/>tragen. Die Sünden des Fleisches sind mir ferngeblieben und<lb/> meine Keusdiheit habe ich bis in späte Jahre bewahrt. Mit<lb/> solcher Erklärung widerspricht sie laut den Annahmen, die<lb/> wir auf Grund unserer analytischen Erfahrung über ihre frühe<lb/> Kindheit machen müssen, daß sie voll war von vorzeitigen<lb/> Sexualregungen und heftigen Haßregungen gegen die Mutter<lb/> und die jüngeren Gesd1wister. (Das kleine Vögeldien kann,<lb/> außer der ihm zugewiesenen genitalen Bedeutung, auch die<lb/> eines Symbols fiir ein kleines Kind habm,„wie alle kleinen<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="24" xml:id="page__dc257d8e-6119-4b12-88c8-9ec8f0735420"/>
+        <p>Teleprnbie 549<lb break="paragraph"/>
+        </p>
+        <p>Tiere, und die Erinnerung betont so sehr aufdringlid; die<lb/> Gleichberechtigung dieses kleinen Wesens mit ihr selbst.) Die<lb/> kurze Erinnerungsreihe gibt so ein hübsches Beispiel für eine<lb/> psychische Bildung mit zweifadiem Aspekt. Oberﬂäddich be<lb break="no"/>tradnet, gibt sie einem abstrakten Gedanken Ausdruck, der<lb/> hier, wie meistens, Sidi auf Ethisches bezieht, sie hat nach<lb/> V. Silben-ers Bezeidmung anagogischen Inhalt;<lb/> bei tiefer eindringender Untersuehung erweist sie sich als eine<lb/> Kette von Tatsa&lt;hen aus dem Gebiet des verdrängten Trieb<lb break="no"/>lebens, sie oEenbart ihren psychoanalytischen Ge<lb break="no"/>halt. Wie Sie wissen, hat Silberer, der als einer der<lb/> ersten die Warnung an uns ergehen ließ, ja nidit an den<lb/> edleren Anteil der mensc’nlidien Seele zu vergessen, die Be<lb break="no"/>hauptung aufgestellt, daß alle oder die meisten Träume eine<lb/> sold1e doppelte Deutung, eine reinere, anagogisdme, über der<lb/> gemeinen, psychoanaly‘tiseben, zulassen. Dies ist nun leider<lb/> nicht der Fall; im Gegenteil, eine solche Uberdeutung gelingt<lb/> recht selten; es ist auch meines Wissens bisher nid-rt ein brauch<lb break="no"/>bares Beispiel einer soldmen doppeldeutigen Traumanalyse ver—<lb break="no"/>öffentlicllt worden. Aber an den Assotiationsreihen, welche<lb/> unsere Patienten in der analytischen Kur vorbringen, können<lb/> Sie solche Beobaditungen relativ häuﬁg machen. Die auf-,<lb/> einanderfolgenden Einfä'lle verknüpfen sich einerseits durch<lb/> eine klar zutage liegende, durd1laufende Assoziation, andrer<lb break="no"/>seits werden Sie auf ein tieferliegendes, geheimgéhaltenes<lb/> Thema aufmerksam, welches gleichzeitig an all diesen Ein—<lb/> fällen beteiligt ist. Der Gegensatz zwischen beiden in derselben<lb/> Einfallsreihe dominierenden Themen ist nicht immer der von<lb/> honh—anagogisch und gemein-analytisd1, eher der von an<lb break="no"/>stößig und anständig oder indifferent, was Sie dann<lb/> das Motiv für die Entstehung einer solchen Assoziationskette<lb/> mit doppelter Determinierung leicht verstehen läßt. In unserem<lb/> Beispiel ist es natürlich kein Zufall, daß Ana.gugie und psycho<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="25" xml:id="page__90454271-e2df-4eb9-a950-b1854cba02b4"/>
+        <p>„e Traum und<lb break="paragraph"/>
+        </p>
+        <p>analytische Deutung in so scharfen: Gegensatze stehen; beide<lb/> beziehen sich auf das nämliclxe Material und die spätere<lb/> Tendenz ist gerade die der Reaktionsbildungen, die sich gegen<lb/> die verleugneten Triebregungen erhoben hatten.<lb break="paragraph"/>
+        </p>
+        <p>Warum wir aber überhaupt nach einer psydioanalytischen<lb/> Deutung sud1en und uns nid1t mit der näherliegenden anago<lb break="no"/>gisd1en begnügen? Das hängt mit vielerlei zusammen, mit der<lb/> Existenz der Neurose überhaupt, mit den Erklärungen, die sie<lb/> notwendig fordert, mit der Tatsadie, daß die Tugend die<lb/> Menschen nicht so froh und lebensstark macht, wie man<lb/> erwarten sollte, als ob sie noch zuviel von ihrer Herkunft an<lb/> sich träge, -- auch unsere Träumerin ist fiir ihre Tugend<lb/> nicht redxt belohnt werden — und mit manchem anderen,<lb/> was id:: gerade vor Ihnen nidit zu erörtern brauche.<lb break="paragraph"/>
+        </p>
+        <p>Wir haben aber bisher die Telepathie, die andere Deter<lb break="no"/>minante unseres Interesses an diesem Fall, ganz beiseite ge<lb break="no"/>lassen. Es ist Zeit, zu ihr zurückzukehren. Wir haben es hier<lb/> in gewissem Sinne leichter als im Falle des Herrn G. Bei<lb/> einer Person, der so leicht und sd10n in früher Jugend die.<lb/> Wirklid1keit entsehwindet, um einer Phantasiewelt Platz zu<lb/> machen, wird die Versuchung überstark, ihre telepathisd1en<lb/> Erlebnisse und „Gesichte“ mit ihrer Neurose zusammen—<lb/> zubringen und aus dieser abzuleiten, wenngleich wir uns auch<lb/> hier über die zwingende Kraft unserer Aufstellungen nicht<lb/> täuschen'dürfen. Wir setzen nur verständliche Möglichkeiten<lb/> an die Stelle des Unbekannten und Unverständlichen.<lb break="paragraph"/>
+        </p>
+        <p>Am 12. August 1914, vormittags zehn Uhr, unterliegt die<lb/> Sd1reiberin der telepathisehen Wahrnehmung, daß ihr im<lb/> Feld beﬁndlid1er Bruder „Mutter, Mutter!“ ausruﬁ. Das<lb/> Phänomen ist ein rein akustisches, wiederholt sich kurz nach—<lb/> her, sie sieht aber nichts dabei. Zwei Tage später sieht sie<lb/> ihre Mutter und ﬁndet sie schwer bedriickt, da Sld'l der Junge<lb/> bei ihr mit dem wiederholten Ausruf „Mutter, Mutter!“ an<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="26" xml:id="page__f29ad884-6d5c-4b29-b170-150b07cb9cb3"/>
+        <p>Trlspnbie ! $ ‘<lb break="paragraph"/>
+        </p>
+        <p>gemeldet. Sie erinnert sich sofort an die nämlid'ie telepathisebe<lb/> Botschaﬂ, die ihr zur gleidien Zeit zuteil geworden, und<lb/> wirklich läßt sid-1 nach Wodien feststellen, daß der junge<lb/> Krieger an jenem Tage zur bezeidmeten Stunde gestorben ist.<lb break="paragraph"/>
+        </p>
+        <p>Es ist nicht zu beweisen, aber audi nith abzuweisen, daß<lb/> der Vorgang vielmehr der folgende war: Die Mutter macht<lb/> ihr eines Tages die Mitteilung, daß sid] der Sohn telepathisch<lb/> bei ihr angezeigt. Sofort entsteht bei ihr die Überzeugung, sie<lb/> habe um dieselbe Zeit das gleiche Erlebnis gehabt. Solche<lb/> Erinnerungstäusdiungen treten mit zwanghafter Stärke auf,<lb/> die sie aus realer Quelle beziehen; sie setzen aber psydrlsdie<lb/> Realität in materielle um. Das Starke an der Erinnerungs<lb break="no"/>täusd1ung ist, daß sie ein guter Ausdruck für die in der<lb/> Schwester vorhandene Tendenz zur Identiﬁzierung mit der<lb/> Mutter werden kann. „Du sorgst dich um den Jungen, aber<lb/> ich bin ja eigentlich seine Mutter. Also hat: sein Ausruf mich<lb/> gemeint, idi habe jene telepathisdie Botsd13ﬁ empfangen.“<lb/> Die Schwester würde natiirlidi unseren Erklärungsversueh ent—<lb/> schieden ablehnen und ihren Glauben an das eigene Erlebnis<lb/> festhalten. Allein sie kann gar nicht anders; sie muß an die<lb/> Realität des pathologischen Erfolges glauben, solange ihr die<lb/> Realität der unbewußten Voraussetzung unbekannt ist. Die<lb/> Stärke und Unangreifbarkeit eines jeden Wahns fiihrt sich<lb/> ja auf seine Abstammung von einer unbewußten psychischen<lb/> Realität zurück Ich bemerke noch, das Erlebnis der Mutter<lb/> haben wir hier nicht zu erklären und dessen Tatsädsl.idrkeit<lb/> nicht zu untersuchen.<lb break="paragraph"/>
+        </p>
+        <p>Der verstorbene Bruder ist aber nicht nur das imaginäre<lb/> Kind unserer Schreiberin, sondern er steht aud1 für einen<lb/> schon bei der Geburt mit Haß empfangenen Rivalen. Weitaus<lb/> die zahlreidrsten telepathisd1en Ahnungen beziehen sich auf<lb/> Tod und Todesmöglid1keit; den, analytischen Patienten, die<lb/> uns von der Häuﬁgkeit und Untriiglidulceit ihrer düsteren<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="27" xml:id="page__68c8ca3d-6802-4742-baab-7a6e0de18a16"/>
+        <p>351 Traum und<lb/> Vorahnungen berichten, können wir mit ebensoldier Regel<lb break="no"/>mäßigkeit nachweisen, daß sie besonders starke unbewußte<lb/> Todeswünsche gegen ihre Nächsten im Unbewußten hegen und<lb/> darum seit langem unterdrücken. Der Patient, dessen Ge—<lb/> sd1id1u: ich 1909 in den „Bemerkungen über einen Fall von<lb/> Zwangsneurose“ erzählt, war ein Beispiel hiefiir; er hieß bei<lb/> seinen Angehörigen audi der „Leichenvogel“; aber als der<lb/> liebenswürdige und geistreicbe Mann —— der seither selbst im<lb/> Kriege untergegangen ist — auf den Weg der Besserung kam,<lb/> verhalf er mir selbst dazu, seine psydiologisdien Taschen<lb break="no"/>spielereien aufzuhellen. Audi die im Brief unseres ersten<lb/> Korrespondenten enthaltene Mitteilung, wie er und seine drei<lb/> Brüder die Nadiridit vom Tod ihres jüngsten Bruders als<lb/> etwas innerlich längst Gewußtes aufgenommen, sd'ieint keiner<lb/> anderen Aufklärung zu bedürfen. Die älteren Brüder werden<lb/> alle die gleiche Überzeugung von der Uberfliissigkeit dieses<lb/> jüngsten Ankörnmlings bei sich entwickelt haben.<lb break="paragraph"/>
+        </p>
+        <p>Ein anderes „Gesidnt“ unserer Träumerin, dessen Ver<lb break="no"/>ständnis vielleicht durch analytisdne Einsicht erleichtert wird!<lb/> Freundinnen haben oﬂenbar eine große Bedeutung für ihr<lb/> Gefühlsleben. Der Tod einer derselben zeigte sich ihr kürzlich<lb/> durch n'a'd1tliehes Klopfen an das Bett einer Zimmerkollegin<lb/> in der Heilanstalt an. Eine andere Freundin hatte vor vielen<lb/> Jahren einen Witwer mit vielen (fünf) Kindern geheiratet.<lb/> In deren Wohnung sah sie regelmäßig bei ihren Besudien die<lb/> Erscheinung einer Dame, in der sie die verstorbene erste Frau<lb/> vermuten mußte, was sich zunächst nicht bestätigen ließ und<lb/> ihr erst nach sieben Jahren durdi die Aufﬁndung einer neuen<lb/> Photographie der Verstorbenen zur Gewißheit wurde, Diese<lb/> visionäre Leistung steht in der nämliäien innigen Abhängigkeit<lb/> von den uns bekannten Familienlmmplexen der Schreiberin,<lb/> wie ihre Ahnung vom Tode des Bruders. Wenn sie sich mit<lb/> der Freundin identiﬁzierte, konnte sie in deren Person ihre<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="28" xml:id="page__8a98dfd4-5a96-4e32-a7d0-7950b070a09f"/>
+        <p>Telepalbie 3 S }<lb break="paragraph"/>
+        </p>
+        <p>Wunsdierfüllung ﬁnden, denn alle ältesten Töd1ter kinder<lb break="no"/>reichcr Familien sdiaf'fen im Unbewußten die Phantasie, durch<lb/> den Tod der Mutter die zweite Frau des Vaters zu werden<lb/> Wenn die Mutter krank ist oder stirbt, rückt die älteste<lb/> Tochter wie selbstverständlidr an ihre Stelle im Verhältnis<lb/> zu den Gesd1wistern und darf auch beim Vater einen Teil der<lb/> Funktionen der Frau übernehmen. Der unbewußte Wunsdn<lb/> ergänzt hiezu den anderen Teil.<lb break="paragraph"/>
+        </p>
+        <p>Das ist nun bald alles, was ich Ihnen erzählen wollte. Ich<lb/> könnte noch die Bemerkung hinzufügen, daß die Fälle von<lb/> telepathisdier Botsdnaﬂ‘ oder Leistung, die wir hier besprochen<lb/> haben, deutlich an Erregungen geknüpﬂ sind, weld1e dem<lb/> Bereich des Udipuskoniplexes angehören. Das mag frappant<lb/> klingen, ich möchte es aber nicht für eine große Entdedrung<lb/> ausgeben. Wir wollen lieber zu dem Ergebnis zurückkehren,<lb/> welches wir aus der Untersuchung des Traumes in unserem<lb/> ersten Fall gewonnen haben. Die Telepathie hat mit dem<lb/> Wesen des Traumes nidits zu tun, sie kann auch unser ana<lb break="no"/>lytisches Verständnis des Traumes nicht vertiefen. Im Gegen<lb break="no"/>teil kann die Psychoanalyse das Studium der Telepathie<lb/> fördern, indem sie mit Hilfe ihrer Deutungen mand1e Uri—<lb/> begreiflidikeiten der telepathisd'ien Phänomene unserem Ver<lb break="no"/>ständnis näherbringt, oder von anderen, nad-r zweifelhaften<lb/> Phänomenen erst nadlweist, daß sie telepathisdrer Natur sind.<lb break="paragraph"/>
+        </p>
+        <p>Was von dem Ansd1ein einer innigen Beziehung zwischen<lb/> Telepathie und Traum übrighleibt, ist die unbestrittene Be—<lb/> günstigung der Telepathie durch den Schlafzustand. Dieser ist<lb/> zwar keine unumgänglidie Bedingung für das Zustande<lb break="no"/>kommen telepathisd1er Vorgänge, — beruhen sie nun auf<lb/> Botschaften oder auf unbewußter Leistung. Wenn Sie dies<lb/> noch nicht wissen sollten, so muß das Beispiel unseres zweiten<lb/> Falles, in dem der Junge sid1 zwischen neun und zehn Uhr<lb/> vormittags anmeldet, es Sie lehren. Aber wir müssen doch<lb break="paragraph"/>
+        </p>
+        <p>Freud, Kleine Schriften zur Sexualrheorie 25<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="29" xml:id="page__75491e74-82cb-4929-aedb-9e33ad138270"/>
+        <p>354 Zur Theorie und Praxir<lb break="paragraph"/>
+        </p>
+        <p>sagen, man hat kein Recht, telepathisebe Beobachtungen darum<lb/> zu heanständen, weil Ereignis und Ahnung (oder Botsd1aﬂ)<lb/> nicht zur gleidmen astronomischen Zeit vorgefallen sind. Von<lb/> der telepathisdren Botsd-mﬂ: ist es sehr wohl denkbar, daß<lb/> sie gleichzeitig mit dem Ereignis eintriﬂt und doch erst<lb/> Während des Schlafmstandes der nächsten Nacht —— oder<lb/> selbst im Wacbleben erst um}: einer Weile, während einer<lb/> Pause der aktiven Geistestätigkeit —— vom Bewußtsein wahr—<lb/> genommen wird. Wir sind ja auch der Meinung, daß die<lb/> Traumhildung nid1t notwendigerweise erst mit dem Einsetzen<lb/> des Sdil.afzustandes beginnt. Die latenten Traumgedanken<lb/> mögen oﬂ: den ganzen Tag über vorbereitet worden sein, bis<lb/> sie zur Nad1tzeit den Ansd11uß an den unbewußten Wunsch<lb/> ﬁnden, der sie zum Traum umbildet. Wenn das telepathische<lb/> Phänomen aber nur eine Leistung des Unbewnßten ist, dann<lb/> liegt ja kein neues Problem vor. Die Anwendung der Gesetze<lb/> des nnbewußten Seelenlebens verstönde sich dann für die Tele<lb break="no"/>patl1ie von selbst.<lb break="paragraph"/>
+        </p>
+        <p>Habe idi bei Ihnen den Eindruck erwedtt, daß ich für die<lb/> Realität der Telepathie im okkulten Sinne versteth Partei<lb/> nehmen will? Ich würde es sehr bedauern, daß es so schwer<lb/> ist, solchen Eindruck zu vermeiden. Denn id1 wollte wirklich<lb/> voll unparteiisch sein. Ich habe auch allen Grund dazu, denn<lb/> ich habe kein Urteil, ich weiß nid'its darüber.<lb break="paragraph"/>
+        </p>
+        <p>BEMERKUNGEN ZUR THEORIE UND<lb/> PRAXIS DER TRAUMDEUTUNG<lb/> (ms)<lb break="paragraph"/>
+        </p>
+        <p>Der zufällige Umstand, daß die letzten Auflagen der<lb/> „Traumdeutung“ durd:i Plattendruck hergestellt wurden, ver—<lb/> anlaßt mich, nachstehende Bemerkungen selbständig zu mad-neu,<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -87,6 +87,27 @@
       <sourceDesc>
         <listBibl>
           <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1923-005-1931">
+            <analytic>
+              <title type="manifestation">Das Ich und das Es</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Kleinoktavausgabe</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Kl. 8° [5]</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1931-01-03">1931-01-03</date>
+              </imprint>
+              <extent>391 Seiten</extent>
+              <biblScope unit="volume">Theoretische Schriften (1911-1925)</biblScope>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1923-005-1925">
             <analytic>
               <title type="manifestation">Das Ich und das Es</title>
@@ -203,7 +224,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

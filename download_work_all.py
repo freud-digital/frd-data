@@ -12,10 +12,12 @@ works_fwf = pd.read_csv(FWF_MANIFESTATIONS)
 out_dir = "./werke"
 auth_items = frd.get_auth_items(FRD_USER, FRD_PW)
 
-exists = glob.glob(f"{out_dir}/*")
-werk_path_loaded = []
-for x in exists:
-    werk_path_loaded.append(x.split("/")[-1])
+# exists = glob.glob(f"{out_dir}/*")
+# werk_path_loaded = []
+# for x in exists:
+#     werk_path_loaded.append(x.split("/")[-1])
+
+werk_path_loaded = ["1905-009", "1920-003", "1920-002", "1920-006", "1921-001", "1921-003", "1922-001", "1922-002", "1922-008", "1923-003", "1923-005"]
 
 werk_ids = {}
 
@@ -25,7 +27,7 @@ for index, row in works_fwf.iterrows():
     werk_ids[w_path] = w_id
     
 for x in werk_ids:
-    if x not in werk_path_loaded:
+    if x in werk_path_loaded:
         print(f"starting to download work: {x}")
         WERK_ID = werk_ids[x]
         WERK_PATH = x

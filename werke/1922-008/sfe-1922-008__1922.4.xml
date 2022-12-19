@@ -87,6 +87,28 @@
       <sourceDesc>
         <listBibl>
           <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-008-1922">
+            <analytic>
+              <title type="manifestation">A tűz Európankétje</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Tűz</title>
+              <title type="publication-sub"> Irodalmi, színházi és egyéb művészeti ágakkal foglalkozó havi folyóirat</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__064fd114-191e-40e3-9dfa-8130d6818607">Tamás Jenő Gömöri</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Bratislava</pubPlace>
+                <date when="1922-10-22">1922-10-22</date>
+              </imprint>
+              <extent>3</extent>
+              <biblScope unit="volume">13</biblScope>
+              <biblScope unit="year">2</biblScope>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1922-008-1922.4" type="guidingManifestation">
             <analytic>
               <title type="manifestation">Was wird aus Europa?</title>
@@ -190,7 +212,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

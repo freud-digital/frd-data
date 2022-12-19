@@ -217,8 +217,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <language ident="de">Deutsch</language>
       </langUsage>
     </profileDesc>
-    <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

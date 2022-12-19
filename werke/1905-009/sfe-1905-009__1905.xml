@@ -81,6 +81,27 @@
       <sourceDesc>
         <listBibl>
           <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1905-009-1914">
+            <analytic>
+              <title type="manifestation">Freud, Sigmund </title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Who’s Who in Germany</title>
+              <title type="publication-sub">Wer ist’s? </title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Leipzig</pubPlace>
+                <date when="1914-01-01">1914-01-01</date>
+              </imprint>
+              <extent>456</extent>
+              <biblScope unit="issue">7., vollkommen neu bearbeitet und bedeutend erweitert</biblScope>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1905-009-1912">
             <analytic>
               <title type="manifestation">Freud, Sigmund </title>
@@ -335,8 +356,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <language ident="de">Deutsch</language>
       </langUsage>
     </profileDesc>
-    <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

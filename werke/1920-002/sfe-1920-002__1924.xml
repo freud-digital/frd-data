@@ -106,6 +106,27 @@
               <extent>151 Seiten</extent>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="bibl-1920-002-1931">
+            <analytic>
+              <title type="manifestation">Zur Vorgeschichte der analytischen Technik</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Kleinoktavausgabe</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">Kl. 8° [3]</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1931-01-01">1931-01-01</date>
+              </imprint>
+              <extent>426 Seiten</extent>
+              <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="bibl-1920-002-1920">
             <analytic>
               <title type="manifestation">Zur Vorgeschichte der analytischen Technik </title>
@@ -262,8 +283,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <language ident="de">Deutsch</language>
       </langUsage>
     </profileDesc>
-    <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
