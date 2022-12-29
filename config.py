@@ -5,14 +5,14 @@ HISTORISCHE_AUSGABE = "5b8d9c77-99d0-4a80-92d8-4a9de06ac7ca"
 FRD_USER = os.environ.get('FRD_USER')
 FRD_PW = os.environ.get('FRD_PW')
 
-WERK_ID = "dce0b091-7de7-4914-8401-998f575029c4"
-WERK_PATH = "1900-001"
+WERK_ID = "7fa94930-d4a2-4215-9cab-1b3a7e7140fd"
+WERK_PATH = "1905-003"
 # READING_WIT = "sfe-1904-006__1904.xml"
 
 MANIFEST_DEFAULT_FILTER = {
     "field_doc_component.id": FULL_MANIFEST,
     "field_manifestation_typ.id": HISTORISCHE_AUSGABE,
-    "field_status_umschrift": None
+    "field_status_umschrift": 2
 }
 
 FWF_MANIFESTATIONS = "data-reporting/manifestations.csv"

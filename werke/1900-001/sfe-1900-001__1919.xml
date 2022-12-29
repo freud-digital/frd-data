@@ -651,8 +651,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <language ident="de">Deutsch</language>
       </langUsage>
     </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-29">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>

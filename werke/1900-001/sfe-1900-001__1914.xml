@@ -650,8 +650,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <language ident="de">Deutsch</language>
       </langUsage>
     </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-29">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -757,11 +757,11 @@ Buch aus <material>Papier</material> in Druckschrift .                          
           <lb break="paragraph"/>
         </p>
         <pb n="3" xml:id="page__36f28f42-ff89-466d-910d-53411c04e070"/>
-        <p>VERLAGS - NR.. 2176.<lb break="paragraph"/>
+        <p>VERLAGS - NR. 2176.<lb break="paragraph"/>
         </p>
-        <p>.. INTERNATIONAL<lb/> PSYCHOANALYTIC<lb/> UNIVERSITY<lb break="paragraph"/>
+        <p>INTERNATIONAL<lb/> PSYCHOANALYTIC<lb/> UNIVERSITY<lb break="paragraph"/>
         </p>
-        <p>DIE PSYCHDANALVTISCHE UNIVERSITÄT IN BER[IN<lb break="paragraph"/>
+        <p>DIE PSYCHOANALYTISCHE UNIVERSITÄT IN BER[IN<lb break="paragraph"/>
         </p>
         <p>
           <lb break="paragraph"/>
@@ -834,8 +834,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <p>
           <hi rendition="#smallcaps">Wien</hi>, im Juni 1914.<lb break="paragraph"/>
           <pb n="1" xml:id="page__5bc4a184-50ea-41a3-b611-57e70542f39e"/>
-          <fw type="pageNum">IX</fw>
-          <lb break="paragraph"/>chologische Analyse der Neurosen zu ermöglichen; seither hat das<lb/> vertiefte Verständnis der Neurosen auf die Auffassung des Traumes<lb/> zurückgewirkt. Die Lehre von der Traumdeutung selbst hat sich<lb/> nach einer Richtung weiterentwickelt, auf welche in der ersten Auf<lb break="no"/>lage dieses Buches nicht genug Akzent gefallen war. Durch eigene<lb/> Erfahrung wie durch die Arbeiten von W. <hi rendition="#smallcaps">Stekel</hi> und anderen habe<lb/> ich seither den Umfang und die Bedeutung der Symbolik im Traume<lb/> (oder vielmehr im unbewußten Denken) richtiger würdigen gelernt.<lb/> So hat sich im Laufe dieser Jahre vieles angesammelt, was Berück<lb break="no"/>sichtigung verlangte. Ich habe versucht, diesen Neuerungen durch<lb/> zahlreiche Einschaltungen in den Text und Anfügung von Fußnoten<lb/> Rechnung zu tragen. Wenn diese Zusätze nun gelegentlich den Rah<lb break="no"/>men der Darstellung zu sprengen drohen, oder wenn es doch nicht<lb/> an allen Stellen gelungen ist, den früheren Text auf das Niveau<lb/> unserer heutigen Einsichten zu heben, so bitte ich für diese Mängel<lb/> des Buches um Nachsicht, da sie nur Folgen und Anzeichen der nun<lb break="no"/>mehr beschleunigten Entwicklung unseres Wissens sind. Ich getraue<lb/> mich auch vorherzusagen, nach welchen anderen Richtungen spätere<lb/> Auflagen der Traumdeutung — falls sich ein Bedürfnis nach solchen<lb/> ergeben würde — von der vorliegenden abweichen werden. Dieselben<lb/> müßten einerseits einen engeren Anschluß an den reichen Stoff der<lb/> Dichtung des Mythus, des Sprachgebrauchs und des Folklore suchen,<lb/> anderseits die Beziehungen des Traumes zur Neurose und zur Geistes<lb break="no"/>störung noch eingehender, als es hier möglich war, behandeln.<lb break="paragraph"/>
+          <fw type="pageNum">IX</fw>chologische Analyse der Neurosen zu ermöglichen; seither hat das<lb/> vertiefte Verständnis der Neurosen auf die Auffassung des Traumes<lb/> zurückgewirkt. Die Lehre von der Traumdeutung selbst hat sich<lb/> nach einer Richtung weiterentwickelt, auf welche in der ersten Auf<lb break="no"/>lage dieses Buches nicht genug Akzent gefallen war. Durch eigene<lb/> Erfahrung wie durch die Arbeiten von W. <hi rendition="#smallcaps">Stekel</hi> und anderen habe<lb/> ich seither den Umfang und die Bedeutung der Symbolik im Traume<lb/> (oder vielmehr im unbewußten Denken) richtiger würdigen gelernt.<lb/> So hat sich im Laufe dieser Jahre vieles angesammelt, was Berück<lb break="no"/>sichtigung verlangte. Ich habe versucht, diesen Neuerungen durch<lb/> zahlreiche Einschaltungen in den Text und Anfügung von Fußnoten<lb/> Rechnung zu tragen. Wenn diese Zusätze nun gelegentlich den Rah<lb break="no"/>men der Darstellung zu sprengen drohen, oder wenn es doch nicht<lb/> an allen Stellen gelungen ist, den früheren Text auf das Niveau<lb/> unserer heutigen Einsichten zu heben, so bitte ich für diese Mängel<lb/> des Buches um Nachsicht, da sie nur Folgen und Anzeichen der nun<lb break="no"/>mehr beschleunigten Entwicklung unseres Wissens sind. Ich getraue<lb/> mich auch vorherzusagen, nach welchen anderen Richtungen spätere<lb/> Auflagen der Traumdeutung — falls sich ein Bedürfnis nach solchen<lb/> ergeben würde — von der vorliegenden abweichen werden. Dieselben<lb/> müßten einerseits einen engeren Anschluß an den reichen Stoff der<lb/> Dichtung des Mythus, des Sprachgebrauchs und des Folklore suchen,<lb/> anderseits die Beziehungen des Traumes zur Neurose und zur Geistes<lb break="no"/>störung noch eingehender, als es hier möglich war, behandeln.<lb break="paragraph"/>
         </p>
         <p>Herr <hi rendition="#smallcaps">Otto Rank</hi> hat mir bei der Auswahl der Zusätze wertvolle<lb/> Dienste geleistet und die Revision der Druckbogen allein besorgt.<lb/> Ich bin ihm und vielen anderen für ihre Beiträge und Berichtigungen<lb/> zu Dank verpflichtet.<lb break="paragraph"/>
         </p>
@@ -8314,174 +8313,57 @@ Buch aus <material>Papier</material> in Druckschrift .                          
           <hi rendition="#bold">Provenzali D.</hi> Sonno e Sogni. Note di psicologia introspettiva. Riv. di psicol. 8,<lb/> p. 207-224.<lb/> * <hi rendition="#bold">Putnam J. J.</hi> Aus der Analyse zweier Treppen-Träume. Zentralbl. f. Ps.-A. II,<lb/> 1911/12, p. 264.<lb/> *— Ein charakteristischer Kindertraum. Ebenda, p. 328.<lb/> * <hi rendition="#bold">Rank Otto.</hi> Der Mythus von der Geburt des Helden. Schr. z. angew. Seelenkunde,<lb/> Heft 5, Wien und Leipzig 1909.<lb/> *— Beispiel eines verkappten Ödipus-Traumes. Zentralblatt für Psychoanalyse,<lb/> I, Jahrg. 1910.<lb/> *— Zum Thema der Zahnreizträume. Ebenda.<lb/> *— Das Verlieren als Symptomhandlung. Zugleich ein Beitrag zum Verständnis<lb/> der Beziehungen des Traumlebens zu den Fehlleistungen des Alltagslebens.<lb/> Ebenda.<lb/> *— Ein Traum, der sich selbst deutet. Jahrbuch für psychoanalyt. und psycho<lb break="no"/>pathol. Forschungen, Bd. II, 1910.<lb/> *— Ein Beitrag zum Narzißmus. Ebenda, Bd. III, 1911.<lb/> *— Fehlleistung und Traum. Zentralbl. f. Ps.-A. II, 1911/12, p. 266.<lb/> *— Aktuelle Sexualregungen als Traumanlässe. Ebenda, p. 596-602.<lb/> *— Die Symbolschichtung im Wecktraum und ihre Wiederkehr im mythischen<lb/> Denken. Jahrb. f. Ps.-A. IV, 1912.<lb/> *— Das Inzestmotiv in Dichtung und Sage. Grundzüge einer Psychologie des<lb/> dichterischen Schaffens. Wien und Leipzig 1912.<lb/> *— Die Nacktheit in Sage und Dichtung. Eine ps.-a. Studie, Imago, II, 1912.<lb/> *— Eine noch nicht beschriebene Form des Ödipus-Traumes. Intern. Zeitschr. f.<lb/> ärztl. Ps.-A. I, 1913, p. 151.<lb break="paragraph"/>
         </p>
         <pb n="15" xml:id="page__f5ee90a1-7ce7-42f2-943f-68243de74962"/>
-        <p>496 . VIII. Literaturverzeichnis.<lb break="paragraph"/>
-        </p>
-        <p>*Bank .0. und Suche H. Die Bedeutung der Psychoanalyse für die Geisteswissen<lb break="no"/>schaften. Grenzfr. d. Nerven- u. Seelenlebens,'hg. v. Löwenfeld, Heft 93,<lb/> Wiesbaden 1913.<lb break="paragraph"/>
-        </p>
-        <p>*_Helk Th. Zwei Träume Flauberts. Zentralbl. f. PS.—,A.. III, 1912/13, p. 223.<lb break="paragraph"/>
-        </p>
-        <p>*— Kriemhilds Traum. Ebendu, II, p. 416.<lb break="paragraph"/>
-        </p>
-        <p>*.— Beruf und 'l‘rnumsymbolik. Ebenda, p. 531.<lb break="paragraph"/>
-        </p>
-        <p>*— Schnitzler als Psycholog. Minden 1913.<lb break="paragraph"/>
-        </p>
-        <p>Réve _uii, mystique infantile. Arch. de Psycho]. XIII, Nr. 50, Juni 1913.<lb break="paragraph"/>
-        </p>
-        <p>Fl_évene et images. Ebenda.<lb break="paragraph"/>
-        </p>
-        <p>*Rikllﬂ Franz. Wunscherfülluug und Symbolik im Märchen. Schriften z. ungew.<lb/> __ Seelenkunde, Heft 2, Wien und Leipzi 1908.<lb break="paragraph"/>
-        </p>
-        <p>*— Odipus und Psychoanalyse. Wissen 11. Le en V, 1919, H. 20.<lb break="paragraph"/>
-        </p>
-        <p>*Robitsek Alfred. Die Analyse von Egmonts Traum. Jahrb. für psychonnelyt. und<lb break="paragraph"/>
-        </p>
-        <p>. psychopnthol. Forschungen, Bd. II, 1910. .<lb break="paragraph"/>
-        </p>
-        <p>*— Die Stiege, Leiter als sexuelles Symbol in der Antike. Zentralbl. f. Ps.-A. [,<lb/> 1910111, p. 586. <lb break="no"/>
-        </p>
-        <p>*— Zur Frage der Symbolik in den Träumen Gesunder. Ebenda, II, p. 940.<lb break="paragraph"/>
-        </p>
-        <p>Rogers L. ]. Quelques ubservations de réves. J. de psychol. norm. et pnthol. 8,<lb/> 1911, 152—157.<lb break="paragraph"/>
-        </p>
-        <p>Roseher W. H. Ephialtes. Leipzig 1900.<lb break="paragraph"/>
-        </p>
-        <p>Rpusseau P. La mémoire des réves dans le réve. Rev. philos., vol. 55. 1903,<lb/> p. 411—416.<lb break="paragraph"/>
-        </p>
-        <p>Hubensohn 0. Das Aushängebild eines Treumdeuters. Festschr. f. J oh. Valilen 1900,<lb/> p. 1—16.<lb break="paragraph"/>
-        </p>
-        <p>*Sachs Hanne. Zur Derstellungstechnik des Traumes. Zentralbl. f. Pn-A. I, 1910/11.<lb break="paragraph"/>
-        </p>
-        <p>„_ Ein Fall intensiver Truumeiitstelliing. Ebendo, p. 588.<lb break="paragraph"/>
-        </p>
-        <p>*— Traumdeutung und Menschenkenntnis. Jahrb. f. Fa.-A. III, 1911, p. 568.<lb break="paragraph"/>
-        </p>
-        <p>*— Ein Traum Biemarcks. Intern. Ztschr. f. ärztl. Fa.-A. I, 1913, H. l.<lb break="paragraph"/>
-        </p>
-        <p>*— Traumdnrstellungen axialer Weckreize. Ebenda, p_. 489. .<lb break="paragraph"/>
-        </p>
-        <p>*Sadger ]. Uber das Unbewußte und die Träume bei Hebbel. Imago, J um 1913.<lb/> Samuer 1]. Uber Bewußtseinsvorgänge im Schleife und im Traume. Zeitschr. f.<lb break="paragraph"/>
-        </p>
-        <p>Psychotherap. ], 1909, p. 150—15ä. _ .<lb break="paragraph"/>
-        </p>
-        <p>Sapphp_. Die Traumdeutung n_e.ch den“ Überlieferungen antiker Völker, lies. der<lb/> Agypter und Ghaldäer. Uhers. aus dem Engl. Leipzig 1912.<lb break="paragraph"/>
-        </p>
-        <p>*Saudek R. Wissenschaftl. Traumdeutungen. Westermann Monatsh. Nov. 1909,<lb/> p. 289—295.<lb break="paragraph"/>
-        </p>
-        <p>*Savaga. Some dreams and their signiﬁcanue. J. of Ment. Sc. Vol. 58, Nr. 242.<lb break="paragraph"/>
-        </p>
-        <p>Scherhel. Traum und Vhtg. Arztl. Ratgeber, _4. J. 1903„p- 399<lb break="no"/>
-        </p>
-        <p>Sphlaf- und Traumerscheinunuen. Psych. Studien 1909, p. 55»<lb break="no"/>
-        </p>
-        <p>*Schlesinger Max. Geschichte d. Symbole. Berlm 1912. A II ]<lb break="paragraph"/>
-        </p>
-        <p>*Sohrötter Karl. Experimentelle Träume. Zentralbl. f. Ps.- . ,_ 9123 p. 638.<lb/> Schultz P. Uber d. Traum. Deutsche Revue, Jan. 1902, P- 10b—11h- _<lb/> Schwarz F. Traum u. Traumdeutung nach mbda.lgani an Nubnlun, Ze1tachr. d.<lb break="paragraph"/>
-        </p>
-        <p>deutsch. morgen]. Ges., Bd. 67, 19131 In- Hu P' 473—193<lb break="no"/>
-        </p>
-        <p>Secker F. Chines. Ansichten über den Traum. Neue metaph. Rdschr., Bd. 17,<lb/> 1909/10, p. 101. '<lb break="paragraph"/>
-        </p>
-        <p>*Sldis B. Dreams. Psycho]. Bull. _9. p- 36—40- , _<lb break="paragraph"/>
-        </p>
-        <p>*Silberer Herbert. Bericht über eine Methode. gewmse Simbohsche Halluzinations<lb break="no"/>erscheinungen hervorzurufen und zu beobachten. Jahrh. Bd. I, 1909.<lb break="paragraph"/>
-        </p>
-        <p>*— Phantasie und Mythen Ebeuda. Bd- II, 1910—<lb break="paragraph"/>
-        </p>
-        <p>*— Symbolik des Erwachen und Schwellensymbolik überh. Ebenda III, 1911.<lb break="paragraph"/>
-        </p>
-        <p>*— Über die Symbolbildung. Ebendn.<lb break="paragraph"/>
-        </p>
-        <p>*— Zur Symbolbildung. Ebenda, IV, 1912.<lb break="paragraph"/>
-        </p>
-        <p>*— Spermatozoenträume. Ebenda. ,<lb break="paragraph"/>
-        </p>
-        <p>*— Zur Frage der Spermntozoenträume. Ebenda.<lb break="paragraph"/>
-        </p>
-        <p>SMII|1 Th- In The PSY°hOIOEY Of day dreaming. Americ. Journ. of Psychol. vol. XV,<lb/> . 1904, p. 465—488.<lb/> *Sokal F.. Wissensch. Truumdentung. Die Gegenwart 1902, Nr. 6.<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
+        <fw type="pageNum">496</fw>
+        <p>* <hi rendition="#bold">Rank O. </hi>und <hi rendition="#bold">Sachs H.</hi> Die Bedeutung der Psychoanalyse für die Geisteswissen<lb break="no"/>schaften. Grenzfr. d. Nerven- u. Seelenlebens, hg. v. Löwenfeld, Heft 93,<lb/> Wiesbaden 1913.<lb/> * <hi rendition="#bold">Reik Th.</hi> Zwei Träume Flauberts. Zentralbl. f. Ps.-A. III, 1912/13, p. 223.<lb/> *— Kriemhilds Traum. Ebenda, II, p. 416.<lb/> *— Beruf und Traumsymbolik. Ebenda, p. 531.<lb/> *— Schnitzler als Psycholog. Minden 1913.<lb/>
+          <hi rendition="#bold">Rêve</hi> un, mystique infantile. Arch. de Psychol. XIII, Nr. 50, Juni 1913.<lb/>
+          <hi rendition="#bold">Rêverie</hi> et images. Ebenda.<lb/> * <hi rendition="#bold">Riklin Franz.</hi> Wunscherfüllung und Symbolik im Märchen. Schriften zur angew.<lb/> Seelenkunde, Heft 2. Wien und Leipzig 1908.<lb/> *— Ödipus und Psychoanalyse. Wissen und Leben V, 1912, H. 20.<lb/> * <hi rendition="#bold">Robitsek Alfred.</hi> Die Analyse von Egmonts Traum. Jahrb. für psychoanalyt. und<lb/> psychopathol. Forschungen, Bd. II, 1910.<lb/> *— Die Stiege, Leiter, als sexuelles Symbol in der Antike. Zentralbl. f. Ps.-A. I,<lb/> 1910/11, p. 586.<lb/> *— Zur Frage der Symbolik in den Träumen Gesunder. Ebenda, II, p. 340.<lb/>
+          <hi rendition="#bold">Rogers L. J.</hi> Quelques observations de rêves. J. de psychol. norm. et pathol. 8,<lb/> 1911, 152-157.<lb/>
+          <hi rendition="#bold">Roscher W. H.</hi> Ephialtes. Leipzig 1900.<lb/>
+          <hi rendition="#bold">Rousseau P.</hi> La mémoire des rêves dans le rêve. Rev. philos., vol. 55, 1903,<lb/> p. 411-416.<lb/>
+          <hi rendition="#bold">Rubensohn O.</hi> Das Aushängebild eines Traumdeuters. Festschrift für Joh. Vahlen<lb/> 1900, p. 1-16.<lb/> * <hi rendition="#bold">Sachs Hanns.</hi> Zur Darstellungstechnik des Traumes. Zentralbl. f. Ps.-A. I, 1910/11.<lb/> *-- Ein Fall intensiver Traumentstellung. Ebenda, p. 588.<lb/> *— Traumdeutung und Menschenkenntnis. Jahrb. f. Ps.-A. III, 1911, p. 568.<lb/> *— Ein Traum Bismarcks. Intern. Ztschr. f. ärztl. Ps.-A. I, 1913, H. 1.<lb/> *— Traumdarstellungen analer Weckreize. Ebenda, p. 489.<lb/> * <hi rendition="#bold">Sadger J.</hi> Über das Unbewußte und die Träume bei Hebbel. Imago, Juni 1913.<lb/>
+          <hi rendition="#bold">Samuely O.</hi> Über Bewußtseinsvorgänge im Schlafe und im Traume. Zeitschr. f.<lb/> Psychotherap. 1, 1909, p. 150-165.<lb/>
+          <hi rendition="#bold">Sappho.</hi> Die Traumdeutung nach den Überlieferungen antiker Völker, bes. der<lb/> Ägypter und Chaldäer. Übers. aus dem Engl. Leipzig 1912.<lb/> * <hi rendition="#bold">Saudek R.</hi> Wissenschaftl. Traumdeutungen. Westermanns Monatsh. Nov. 1909,<lb/> p. 289-295.<lb/> * <hi rendition="#bold">Savage.</hi> Some dreams and their significance. J. of Ment. Sc. Vol. 58, Nr. 242.<lb/>
+          <hi rendition="#bold">Scherbel.</hi> Traum und Vhtg. Ärztl. Ratgeber, 4. J. 1903, p. 199.<lb/>
+          <hi rendition="#bold">Schlaf- und Traumerscheinungen.</hi> Psych. Studien 1909, p. 552.<lb/> * <hi rendition="#bold">Schlesinger Max.</hi> Geschichte d. Symbols. Berlin 1912.<lb/> * <hi rendition="#bold">Schrötter Karl.</hi> Experimentelle Träume. Zentralbl. f. Ps.-A. II, 1912, p. 638.<lb/>
+          <hi rendition="#bold">Schultz P.</hi> Über den Traum. Deutsche Revue, Jan. 1902, p. 106-116.<lb/>
+          <hi rendition="#bold">Schwarz F.</hi> Traum u. Traumdeutung nach 'Abdalganī an Nābulusī'. Zeitschr. d.<lb/> deutsch. morgenl. Ges., Bd. 67, 1913, III. H., p. 473-493.<lb/>
+          <hi rendition="#bold">Secker F.</hi> Chines. Ansichten über den Traum. Neue metaph. Rdschr., Bd. 17,<lb/> 1909/10, p. 101.<lb/> * <hi rendition="#bold">Sidis B.</hi> Dreams. Psychol. Bull. 9, p. 36-40.<lb/> * <hi rendition="#bold">Silberer Herbert.</hi> Bericht über eine Methode, gewisse symbolische Halluzinations<lb break="no"/>erscheinungen hervorzurufen und zu beobachten. Jahrb. Bd. I, 1909.<lb/> *— Phantasie und Mythos. Ebenda, Bd. II, 1910.<lb/> *— Symbolik des Erwachens und Schwellensymbolik überh. Ebenda, III, 1911.<lb/> *— Über die Symbolbildung. Ebenda.<lb/> *— Zur Symbolbildung. Ebenda IV, 1912.<lb/> *— Spermatozoenträume. Ebenda.<lb/> *— Zur Frage der Spermatozoenträume. Ebenda.<lb/>
+          <hi rendition="#bold">Smith Th. L.</hi> The psychology of day dreaming. Americ. Journ. of Psychol. vol. XV,<lb/> 1904, p. 465-488.<lb/> * <hi rendition="#bold">Sokal E.</hi> Wissensch. Traumdeutung. Die Gegenwart 1902, Nr. 6.<lb break="paragraph"/>
         </p>
         <pb n="16" xml:id="page__4d223168-4817-4ba8-bf53-1f4a8e36108d"/>
-        <p>VIII. Literaturverzeichnis. 497<lb break="paragraph"/>
-        </p>
-        <p>*Solumon Meyer. The analysis and interpretation of dreams based on various<lb/> motivs. J. of aim. Psycho]. VIII, 2, June-July 1913. . ‘<lb break="paragraph"/>
-        </p>
-        <p>*— A contribution to the analysis und Interpretation of dreams based on the<lb/> motiv of selfpi'eservation. Americ. J. of Insanity, 191.5.<lb break="paragraph"/>
-        </p>
-        <p>Specht G. Schlaf u. Traum. Velh; &amp;. Klasing Monatsh., 1909, Jan.-Febr.<lb break="paragraph"/>
-        </p>
-        <p>*Splelrein1 35 Tägu£m vom „Pater Frendenreich“. Intern. Ztschr. f. ärztl. PS.-A. -I,<lb/> 19 , p. . —<lb break="paragraph"/>
-        </p>
-        <p>S Itteler Karl. Meine frühesten Erlebnisse. 1. Hilflos und s rachlos. D'<lb break="paragraph"/>
-        </p>
-        <p>p des Kindes. Südd. Monatsh., Okt. 1913. ‘ p le Träume<lb break="paragraph"/>
-        </p>
-        <p>*Stiireke August. Ein Traum, der das Gegenteil einer Wunscherfilllung zu ver<lb break="no"/>wirklichen schien, zugleich ein Beis ie! eines Traumes, der von einem<lb/> andern Traube gedeutet wird. Zentralb . f. PS.-A. Il, 1911/12, _p. 86.<lb break="paragraph"/>
-        </p>
-        <p>*Stärcke Johann. Neue Traumexperimente in Zusammenhang mit älteren und<lb/> neueren Tranmtheorim. Jahrb._f. Ps.-A. V, 1913, P- 233,<lb break="paragraph"/>
-        </p>
-        <p>*Stegmann Mary. Darstellung epipleptischer Anfälle im ' ranme. Intern. Ztschr. f.<lb/> ärztl Fa.-A. I, 1913. <lb break="no"/>
-        </p>
-        <p>*— Ein Vexiertraum- Ebenda, p. 486.<lb break="paragraph"/>
-        </p>
-        <p>*Stekel Wilhelm. Beiträge zur Traumdeutung. Jahrbuch für psychoanalytische und<lb/> peychopatholog. Forschungen, Bd. I, 1909. _ _<lb break="paragraph"/>
-        </p>
-        <p>*— Nervoee Angstzustiinde und ihre Behandlung. Wien-Berlin 1908, 2. Auﬂ. 1912.<lb break="paragraph"/>
-        </p>
-        <p>*— Die Sprache des 'I‘raumes. Eine Darstellung der Symbolik und Deutun des<lb/> 'I‘ranmes in ihren Beziehungen zur kranken und gesunden Seele für rzte<lb/> und Psychologen. Wiesbaden 1911. .<lb break="paragraph"/>
-        </p>
-        <p>*— Die Träume der Dichter. Wiesbaden 1912.<lb break="paragraph"/>
-        </p>
-        <p>*— Ein pruphetischer Nummerntraum. Zentralbl. f. Fa.-A. II, 1911112, p. 128—130.<lb break="paragraph"/>
-        </p>
-        <p>*—- Fortschritte der Traumdeutung. Zentralbl. f. Fa.-A. III, 1912/13, 1). 154, 426.<lb break="paragraph"/>
-        </p>
-        <p>*— Darstellung der Neurose im Traum. Ebenda, p. 26<lb break="paragraph"/>
-        </p>
-        <p>Stuop E.9d;._ Oneirokritikon biblion etc Rev. de philol. (nonv. ser.) 35, 1909,<lb break="paragraph"/>
-        </p>
-        <p>*5woblﬁla Hermann. Die Perioden des menschlichen Organismus. Wien und Leip.<lb/> zig 1904.<lb break="paragraph"/>
-        </p>
-        <p>*TBUSKI‘gII-lzur Egchologie der Kindersexualiiät. Intern. Ztschr. f. ärztl. Fa.-A. ]'<lb break="paragraph"/>
-        </p>
-        <p>, p. .<lb/> Tﬂnkdji .laseph Ab69. Essai sur les sangen et Port de les interpréter (onirocritie)<lb/> en Mésopotamie. Anthropos VIII, 2/3 Mhz-Juni 1918.<lb/> Thühes Mine. de. L’ énigme du réve. Paris 1913.<lb/> Thoma H. 'I‘raumthema und künstl. Schaffen. Kunstwnrt1912, 26. J., H. 5 , p. 309<lb break="no"/>Tobier O. Die Epiphanie der Seele in deutscher Volkssage. Kiel 1911. _<lb/> Tobowulska lustlne. Etude sur les illnsions de temps dans les réves du sommeﬂ<lb/> normal. Thése de Paris, 1900.<lb/> ffTrﬂllilgtltrgßlggligd- Der Traum, psychol. und kulturgeschichtl. betrachtet. Würz<lb break="no"/>Truum der Klin. therap. Wochenschr. 1902, p. 723. '<lb/> im Lichte d. 3vtssensch. Untere. Gase, Natur 11. Leben, 1902, p. 44—48.<lb/> Traumbuuh. Das älteste, echte, große, ägyptische vom Jahre 1204. Wien 1900.<lb/> Trennunay Paul. Le réve prolongé. —— Déiire consécutif a un réve prolongé a l’état<lb/> de veille. Paris 1901.<lb break="paragraph"/>
-        </p>
-        <p>Trömner E. Entstehung u. Bedeutung d. Träume Journ. f, Psycho]. u Neu‘rol.<lb/> 19. Bd., 1912, p. 345—350.<lb break="paragraph"/>
-        </p>
-        <p>Traum ein und dessen Verwirklichung. Mitt. d. wiss. Vereins f. Okkult. in Wien.<lb/> 2. Jahrg. 1901, p. 67.<lb break="paragraph"/>
-        </p>
-        <p>Träume in Dichtungen. Kunstwerk, 19. J., Nov. 1906, P" 198—208.<lb break="paragraph"/>
-        </p>
-        <p>*Vasahide N. Le sommeil et les r(‘,ves. Paris 1911, Bibi. de Philpﬂ. scient. (66)<lb/> (mit Literaturanguhe der übrigen zahlreichen Arbeiten desselben Autors über<lb/> Traum und Schlaf).<lb break="paragraph"/>
-        </p>
-        <p>—— et Piéron. La psychol. du réve an point de vue médical. Paris 1902.<lb/> Veroneee Franz. Versuch einer Physiologie des Schlafes und des Traumes. Leip—<lb/> zig1910. „ —-_-- ,_: <lb break="no"/>
-        </p>
-        <p>Freud. Traumdeutung. 4 Aufl. 32 .<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
+        <fw type="pageNum">497</fw>
+        <p>* <hi rendition="#bold">Solomon Meyer.</hi> The analysis and interpretation of dreams based on various<lb/> motives. J. of abn. Psychol. VIII, 2. June-July 1913.<lb/> *— A contribution to the analysis and interpretation of dreams based on the<lb/> motives of selfpreservation. Americ. J. of Insanity, 1913.<lb/>
+          <hi rendition="#bold">Specht G.</hi> Schlaf und Traum. Velh. &amp; Klasing Monatsh., 1909, Jan.-Febr.<lb/> * <hi rendition="#bold">Spielrein S.</hi> Traum vom „Pater Freudenreich“. Intern. Ztschr. f. ärztl. Ps.-A. I,<lb/> 1913, p. 484.<lb/>
+          <hi rendition="#bold">Spitteler Karl.</hi> Meine frühesten Erlebnisse. I. Hilflos und sprachlos. Die Träume<lb/> des Kindes. Südd. Monatsh., Okt. 1913.<lb/> * <hi rendition="#bold">Stärcke August.</hi> Ein Traum, der das Gegenteil einer Wunscherfüllung zu ver<lb break="no"/>wirklichen schien, zugleich ein Beispiel eines Traumes, der von einem an<lb break="no"/>deren Traum gedeutet wird. Zentralbl. f. Ps.-A. II, 1911/12, p. 86.<lb/> * <hi rendition="#bold">Stärcke Johann.</hi> Neue Traumexperimente in Zusammenhang mit älteren und<lb/> neueren Traumtheorien. Jahrb. f. Ps.-A. V, 1913, p. 233.<lb/> * <hi rendition="#bold">Stegmann Marg.</hi> Darstellung epileptischer Anfälle im Traume. Intern. Ztschr. f.<lb/> ärztl. Ps.-A. I, 1913.<lb/> *— Ein Vexiertraum. Ebenda, p. 486.<lb/> * <hi rendition="#bold">Stekel Wilhelm.</hi> Beiträge zur Traumdeutung. Jahrbuch für psychoanalytische und<lb/> psychopatholog. Forschungen, Bd. I, 1909.<lb/> *— Nervöse Angstzustände und ihre Behandlung. Wien-Berlin 1908, 2. Aufl. 1912.<lb/> *— Die Sprache des Traumes. Eine Darstellung der Symbolik und Deutung des<lb/> Traumes in ihren Beziehungen zur kranken und gesunden Seele für Ärzte<lb/> und Psychologen. Wiesbaden 1911.<lb/> *— Die Träume der Dichter. Wiesbaden 1912.<lb/> *— Ein prophetischer Nummerntraum. Zentralbl. f. Ps.-A. II, 1911/12, p. 128-130.<lb/> *— Fortschritte der Traumdeutung. Zentralbl f. Ps.-A. III, 1912/13, p. 154, 426.<lb/> *— Darstellung der Neurose im Traum. Ebenda, p. 26.<lb/>
+          <hi rendition="#bold">Stoop E. de.</hi> Oneirokritikon biblion etc. Rev. de philol. (nouv. ser.) 33, 1909,<lb/> p. 93 ff.<lb/> * <hi rendition="#bold">Swoboda Hermann.</hi> Die Perioden des menschlichen Organismus. Wien und Leip<lb break="no"/>zig 1904.<lb/> *<hi rendition="#bold"> Tausk V.</hi> Zur Psychologie der Kindersexualität. Intern. Ztschr. f. ärztl. Ps.-A. I,<lb/> 1913, p. 444.<lb/>
+          <hi rendition="#bold">Tfinkdji Joseph Abée.</hi> Essai sur les songes et l'art de les interpréter (onirocritie)<lb/> en Mésopotamie. Anthropos VIII, 2/3, März-Juni 1913.<lb/>
+          <hi rendition="#bold">Thèbes Mme. de.</hi> L'énigme du rêve. Paris 1913.<lb/>
+          <hi rendition="#bold">Thoma H.</hi> Traumthema und künstl. Schaffen. Kunstwart 1912, 26. J., H. 5, p. 309.<lb/>
+          <hi rendition="#bold">Tobler O.</hi> Die Epiphanie der Seele in deutscher Volkssage. Kiel 1911.<lb/>
+          <hi rendition="#bold">Tobowolska Justine.</hi> Etude sur les illusions de temps dans les rêves du sommeil<lb/> normal. Thèse de Paris, 1900.<lb/> * <hi rendition="#bold">Traugott Richard.</hi> Der Traum, psychol. und kulturgeschichtl. betrachtet. Würz<lb break="no"/>burg 1913.<lb/>
+          <hi rendition="#bold">Traum</hi> der, Klin. therap. Wochenschr. 1902, p. 723.<lb/> — im Lichte d. wissensch. Unters. Gaea, Natur u. Leben, 1902, p. 44-48.<lb/>
+          <hi rendition="#bold">Traumbuch.</hi> Das älteste, echte, große, ägyptische vom Jahre 1204. Wien 1900.<lb/>
+          <hi rendition="#bold">Trenaunay Paul.</hi> Le rêve prolongé. — Délire consécutif à un rêve prolongé à<lb/> l'état de veille. Paris 1901.<lb/>
+          <hi rendition="#bold">Trömner E.</hi> Entstehung und Bedeutung der Träume. Journ f. Psychol. u. Neurol.<lb/> 19. Bd., 1912, p. 343-350.<lb/>
+          <hi rendition="#bold">Traum ein</hi> und dessen Verwirklichung. Mitt. d. wiss. Vereines f. Okkult. in<lb/> Wien. 2. Jahrg. 1901, p. 67.<lb/>
+          <hi rendition="#bold">Träume</hi> in Dichtungen. Kunstwart. 19. J., Nov. 1906, p. 198-208.<lb/> * <hi rendition="#bold">Vaschide N.</hi> Le sommeil et les rêves. Paris 1911, Bibl. de Philos. scient. (66)<lb/> (mit Literaturangabe der übrigen zahlreichen Arbeiten desselben Autors über<lb/> Traum und Schlaf).<lb/> — <hi rendition="#bold">et Piéron.</hi> La psychol. du rêve au point de vue médical. Paris 1902.<lb/>
+          <hi rendition="#bold">Veronese Franz.</hi> Versuch einer Physiologie des Schlafes und des Traumes. Leip<lb break="no"/>zig 1910.<lb break="paragraph"/>
         </p>
         <pb n="17" xml:id="page__48540e26-4dc0-4375-9774-67c22eef5d61"/>
-        <p>498 VIII. Literatur-verzeichnis.<lb break="paragraph"/>
-        </p>
-        <p>Vogel Willi. Ansicht über d. Traum Die Wahrheit 1901, p. 58—65.<lb break="paragraph"/>
-        </p>
-        <p>Vold ]. Mandy. Über den Traum. Experimentell-psychologische Untersuchungen<lb/> Herausgegeben von O. Klemm. Erster Band Leipzig 1910. Il. Bd. 11112.<lb/> Voraussehen im Traum Psych. Stud. 1900, p. 381—385.<lb break="paragraph"/>
-        </p>
-        <p>Wahrtrallm ein. Mitt. d wiss V f. Okk. in Wien, II. 1900, p. 26.<lb/> Wahrträume drel. Ebenda, p. 45.<lb/> Warcolll_er R. Réve commencé et terminé par deux dormeurs diﬁ'érents. Ann. d.<lb/> sc1 pay. 16, 1906. 437.<lb/> Was ist der Traum? Die Grenzboten 1900, Nr. 11.<lb/> *Waterman George A. Dreams as &amp; Cause of Symptoms. The Journal of abnormal<lb/> Psycho]. Oct.-Nov. 1910<lb/> *Weber R. Petite psychologie. Quelqnes réves. Arch. intern. de Neurol., 35 année,<lb/> Nr. 1, Juillet 1913, p 1—23.<lb/> Welzsäcker P. Über Alpträume und Verwandtes. S. A. Stuttgart 1901.<lb/> *Wertheämer H. G. Dreaming and Dreams. N. J. Med .lourn, vol. 97, March 29,<lb/> 1. 3, p. 687.<lb/> “*Weyer E. M. Freud’s art of interpreting dreams. Forum. May 1911.<lb/> Weyuandtß\ä. Bein-. 2. Psychologie des Traumes. Philos. Studien, 2”. Bd, 1902,<lb/> p. —186.<lb/> Wings? A. A contribulinn to the data of dream psychology. Pedagogical Seminar-y,<lb/> uni 1909.<lb/> *Win'tsretein Alfr. v. Zum Thema: „Lenkbsre Träume“. Zentralbl. f. Ps.- A. 11,<lb/> 1911/12, p. 290.<lb/> Wo"? G. Traum hysiologie. Die Hilfe, 1912, Nr. 2.<lb break="paragraph"/>
-        </p>
-        <p>Wolf M. Das 'lräumen u. die geistige Persünlichkeit. Glauben 11. Wissen, 1904,<lb/> ’ p. 307-310<lb break="paragraph"/>
-        </p>
-        <p>*Wnlﬁ'ensperger w. P. Übersicht über die Freudsche Traumdeutung Med. Revue<lb/> 13, 1913, p. 237.<lb break="paragraph"/>
-        </p>
-        <p>*Wul'lf M. Ein interessanter Zusammenhang von Traum, Symbolhnndlnng und<lb/> Krankheitssymptom. Internal. Zuschr. f. untl. Fa.-A. I, 1918, H. 6.<lb break="paragraph"/>
-        </p>
-        <p>K u. &amp; Hofbuchdruckctel Jon. Fe1chtlngcrs Erben, Linz. wenn<lb break="paragraph"/>
-        </p>
+        <fw type="pageNum">498</fw>
         <p>
-          <lb break="paragraph"/>
+          <hi rendition="#bold">Vogel Wilh.</hi> Ansicht über den Traum. Die Wahrheit 1901, p. 58-65.<lb/>
+          <hi rendition="#bold">Vold J. Mourly.</hi> Über den Traum. Experimentell-psychologische Untersuchungen.<lb/> Herausgegeben von O. Klemm. Erster Band. Leipzig 1910. II. Bd. 1912.<lb/>
+          <hi rendition="#bold">Voraussehen</hi> im Traum. Psych. Stud. 1900, p. 381-385.<lb/>
+          <hi rendition="#bold">Wahrtraum ein.</hi> Mitt. d. wiss. V. f. Okk. in Wien, II. 1900, p. 26.<lb/>
+          <hi rendition="#bold">Wahrträume drei.</hi> Ebenda, p. 45.<lb/>
+          <hi rendition="#bold">Warcollier R.</hi> Rêve commencé et terminé par deux dormeurs différents. Ann. d.<lb/> sc. psych. 16, 1906, 437.<lb/>
+          <hi rendition="#bold">Was ist der Traum?</hi> Die Grenzboten 1900, Nr. 11.<lb/> * <hi rendition="#bold">Waterman George A.</hi> Dreams as a Cause of Symptoms. The Journal of abnormal<lb/> Psychol. Okt.-Nov. 1910.<lb/> * <hi rendition="#bold">Weber R.</hi> Petite psychologie. Quelques rêves. Arch. intern. de Neurol., 35 année,<lb/> Nr. 1, Juillet 1913, p. 1-23.<lb/>
+          <hi rendition="#bold">Weizsäcker P.</hi> Über Alpträume und Verwandtes. S. A. Stuttgart 1901.<lb/> * <hi rendition="#bold">Wertheimer H. G.</hi> Dreaming and Dreams. N. J. Med. Journ., vol. 97, March 29,<lb/> 1913, p. 687.<lb/> * <hi rendition="#bold">Weyer E. M.</hi> Freud's art of interpreting dreams. Forum, May 1911.<lb/>
+          <hi rendition="#bold">Weygandt W.</hi> Beitr. z. Psychologie des Traumes. Philos. Studien, 20. Bd., 1902,<lb/> p. 456-486.<lb/>
+          <hi rendition="#bold">Wiggam A.</hi> A contribution to the data of dream psychology. Pedagogical Semi<lb break="no"/>nary, Juni 1909.<lb/> * <hi rendition="#bold">Winterstein, Alfr. v.</hi> Zum Thema: „Lenkbare Träume.“ Zentralbl. f. Ps.-A. II,<lb/> 1911/12, p. 290.<lb/>
+          <hi rendition="#bold">Wolff G.</hi> Traumphysiologie. Die Hilfe, 1912, Nr. 2.<lb/>
+          <hi rendition="#bold">Wolff M.</hi> Das Träumen und die geistige Persönlichkeit. Glauben und Wissen, 1904,<lb/> p. 307-310.<lb/> * <hi rendition="#bold">Wolffensperger W. P.</hi> Übersicht über die Freudsche Traumdeutung. Med. Revue<lb/> 13, 1913, p. 237.<lb/> * <hi rendition="#bold">Wulff M.</hi> Ein interessanter Zusammenhang von Traum, Symbolhandlung und<lb/> Krankheitssymptom. Internat. Ztschr. f. ärztl. Ps.-A. I, 1913, H. 6.<lb break="paragraph"/>
         </p>
       </div>
     </body>
