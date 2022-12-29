@@ -11,18 +11,21 @@ werke = glob.glob(
 )
 # werke = glob.glob("werke/1900-001/data/sfe-1900-001__1900.json")
 
+
 def download_url(url, save_path, chunk_size):
     r = requests.get(url, stream=True)
     with open(save_path, 'wb') as fd:
         for chunk in r.iter_content(chunk_size=chunk_size):
             fd.write(chunk)
 
+
 def export_zip(fn, save_path):
     with ZipFile(fn, "r") as zip:
         zip.printdir()
-        print(f"extracting all files...")
+        print("extracting all files...")
         zip.extractall(save_path)
         print("done!")
+
 
 endpoint = "https://archive.org/download"
 url_ext = "_jp2.zip"
@@ -42,7 +45,7 @@ for x in werke:
             print("orig_archiv_id not found")
             with open(main_log, "a") as f:
                 f.write(f"Key: {err} in file: {x} not found\n")
-        if url_id != None:
+        if url_id is not None:
             url = f"{endpoint}/{url_id}/{url_id}{url_ext}"
             fn = path[3].replace('.json', '')
             save_dir = os.path.join(save_path, fn)
@@ -52,7 +55,7 @@ for x in werke:
             try:
                 print(url)
                 download_url(
-                    url=url, 
+                    url=url,
                     save_path=archive,
                     chunk_size=128
                 )
@@ -68,7 +71,7 @@ for x in werke:
                     print(f"removing {archive} ...")
                     os.remove(archive)
                 except Exception as err:
-                    print(f"file {archive} could not be removed.")
+                    print(f"error: {err} in file. {archive} could not be removed.")
             except Exception as err:
                 with open(log, "a") as f:
                     f.write(f"error: {err} in {x} for orig_archive_id: {url_id}. \

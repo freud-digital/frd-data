@@ -1,0 +1,25 @@
+name: Download Images
+
+on:
+  workflow_dispatch
+
+jobs:
+  download:
+    name: Download Images
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.10
+    - uses: actions/cache@v2
+      with:
+        path: ${{ env.pythonLocation }}
+        key: ${{ env.pythonLocation }}
+    - name: Download Images
+      run: |
+        python download_images_archivorg.py
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Downloaded/Updated Images

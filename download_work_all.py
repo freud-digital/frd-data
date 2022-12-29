@@ -6,7 +6,7 @@ import datetime
 import freud_api_crawler.freud_api_crawler as frd
 from config import (
     FRD_USER, FRD_PW, MANIFEST_DEFAULT_FILTER, FWF_MANIFESTATIONS
-)  
+)
 
 works_fwf = pd.read_csv(FWF_MANIFESTATIONS)
 out_dir = "./werke"
@@ -17,7 +17,8 @@ werk_path_loaded = []
 for x in exists:
     werk_path_loaded.append(x.split("/")[-1])
 
-# werk_path_loaded = ["1905-009", "1920-003", "1920-002", "1920-006", "1921-001", "1921-003", "1922-001", "1922-002", "1922-008", "1923-003", "1923-005"]
+# werk_path_loaded = ["1905-009", "1920-003", "1920-002", "1920-006", "1921-001", "1921-003", "1922-001", "1922-002",
+    # "1922-008", "1923-003", "1923-005"]
 
 werk_ids = {}
 
@@ -25,7 +26,7 @@ for index, row in works_fwf.iterrows():
     w_id = row['work_id']
     w_path = row['werk_signatur']
     werk_ids[w_path] = w_id
-    
+
 for x in werk_ids:
     if x in werk_path_loaded:
         print(f"starting to download work: {x}")
@@ -49,8 +50,9 @@ for x in werk_ids:
                 frd_man.get_man_json_dump(lmt=False)
             except Exception as e:
                 os.makedirs("logs", exist_ok=True)
-                with open(f"logs/json_dump_error.txt", "a") as f:
-                    f.write(f"processing Manifestation {x} of work {WERK_PATH} did not work due to Error {e}. {datetime.datetime}\n")
+                with open("logs/json_dump_error.txt", "a") as f:
+                    f.write(f"processing Manifestation {x} of work {WERK_PATH} did not work due to Error {e}. \
+                        {datetime.datetime}\n")
                 click.echo(
                     click.style(
                         f"processing Manifestation {x} did not not work due to Error {e}",
@@ -61,8 +63,9 @@ for x in werk_ids:
             frd.make_xml(save=True, out_dir=out_dir, workpath=WERK_PATH, test=False, dump={})
         except Exception as e:
             os.makedirs("logs", exist_ok=True)
-            with open(f"logs/make_xml_error.txt", "a") as f:
-                f.write(f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. Run get_jsom_dump first {datetime.datetime}\n")
+            with open("logs/make_xml_error.txt", "a") as f:
+                f.write(f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. \
+                    Run get_jsom_dump first {datetime.datetime}\n")
             click.echo(
                 click.style(
                     f"processing TEI/XML of work {WERK_PATH} did not work due to Error {e}. Run get_jsom_dump first",
