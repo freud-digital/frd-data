@@ -37,7 +37,14 @@ for x in werke:
     save_path = os.path.join(path[0], path[1], "facs")
     os.makedirs(save_path, exist_ok=True)
     main_log = os.path.join(save_path, "log.txt")
-    if repo["name"] == "IPU":
+    try:
+        repo_name = repo["name"]
+    except KeyError as err:
+        repo_name = None
+        print("name not found")
+        with open(main_log, "a") as f:
+            f.write(f"Key: {err} in file: {x} not found\n")
+    if repo_name == "IPU":
         try:
             url_id = repo["orig_archiv_id"]
         except KeyError as err:
@@ -78,3 +85,7 @@ for x in werke:
                         accessed url: {url}.\n")
                 print(f"download of {archive} \
                     failed. Open log {log} to read more.")
+    else:
+        print(f"repository name is not IPU but {repo_name}")
+        with open(main_log, "a") as f:
+            f.write(f"repository name is not IPU but {repo_name}\n")
