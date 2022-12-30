@@ -1,5 +1,8 @@
 # project specific
 /data-reporting
+/facs
+/new_facs
+move_files.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

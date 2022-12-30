@@ -9,10 +9,12 @@ WERK_ID = "7fa94930-d4a2-4215-9cab-1b3a7e7140fd"
 WERK_PATH = "1905-003"
 # READING_WIT = "sfe-1904-006__1904.xml"
 
-MANIFEST_DEFAULT_FILTER = {
-    "field_doc_component.id": FULL_MANIFEST,
-    "field_manifestation_typ.id": HISTORISCHE_AUSGABE,
-    "field_status_umschrift": 2
-}
+# MANIFEST_DEFAULT_FILTER = {
+#     "field_doc_component.id": FULL_MANIFEST,
+#     "field_manifestation_typ.id": HISTORISCHE_AUSGABE,
+#     "field_status_umschrift": 2
+# }
+
+MANIFEST_DEFAULT_FILTER = {}
 
 FWF_MANIFESTATIONS = "data-reporting/manifestations.csv"
