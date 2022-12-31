@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-003; 1923c [1922]): Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+            <title type="manifestation" level="a">Bemerkungen zur Theorie und Praxis der Traumdeutung	 (1923-003/1923.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-003-1931">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>368 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-003-1925">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>318 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-003-1923.1">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+<extent>11 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">9</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-003-1923.2">
+                     <analytic>
+                        <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-003-1923.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Bemerkungen zur Theorie und Praxis der Traumdeutung	</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__95ef4c36-8d0e-4053-9d41-4d1df8e45b7b">
+                        <title>Bemerkungen zur Theorie und Praxis der Traumdeutung	</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-003/1923.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/bemerkungen-zur-theorie-und-praxis-der-traumdeutung</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/95ef4c36-8d0e-4053-9d41-4d1df8e45b7b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__5cb117fa-f5f1-4ac9-bb03-0cf7ab40ca24">
+                              <title>Freud, Sigmund  (1923-003; 1923c [1922]): Bemerkungen zur Theorie und Praxis der Traumdeutung</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/bemerkungen-zur-theorie-und-praxis-der-traumdeutung</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/5cb117fa-f5f1-4ac9-bb03-0cf7ab40ca24</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV8 Box 34/9</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>None</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__e664c8c4-d0ed-4280-81fc-23881f361381"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__9538bdc2-ba35-4be5-a594-bac3fd9659fc"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__e9506250-a2da-46c7-a78a-d05a4dc11635"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__3a9cbdf9-d4f3-4162-b523-71dca5b4f819"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__542caf63-cb27-4a6f-9bc0-6f9ba1197839"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__18d7931d-975a-4277-a529-138168929aca"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__be6d1827-2a84-4c20-97e6-075d01148e8b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__b87124d4-9b83-4c45-9443-cae85d59a0fd"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__64b1904a-bec6-4e5f-91ef-00e0738bb9ef"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__8c47f916-28bf-4179-a628-587f179693c2"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="11" xml:id="page__85b5d413-c3d2-42cf-84bb-159b6cc48d2b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="12" xml:id="page__fce1bc38-d60a-47d6-a899-9d3342dfa3f2"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="0" xml:id="page__cbb0249a-70ee-49e4-b5c2-be2705710252"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

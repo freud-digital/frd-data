@@ -1,0 +1,257 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-009; 1923i): Dr. Ferenczi Sándor [Zum 50. Geburtstag]</title>
+            <title type="manifestation" level="a">Dr. Ferenczi Sándor (1923-009/1923.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-009-1923.1">
+                     <analytic>
+                        <title type="manifestation">Dr. Ferenczi Sándor</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+<extent>259 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="year">9</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-009-1928">
+                     <analytic>
+                        <title type="manifestation">Dr. Ferenczi Sándor</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+<extent>275 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-009-1923.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Dr. Ferenczi Sándor</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__11b2a8b7-a7b6-4b7a-ad63-bdedffa0dd59">
+                        <title>Dr. Ferenczi Sándor</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-009/1923.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/dr-ferenczi-sandor/reinschrift</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/11b2a8b7-a7b6-4b7a-ad63-bdedffa0dd59</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__e4762189-e0bf-4ada-994f-6d7965cfb11f">
+                              <title>Freud, Sigmund  (1923-009; 1923i): Dr. Ferenczi Sándor [Zum 50. Geburtstag]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/dr-ferenczi-sandor-zum-50-geburtstag</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/e4762189-e0bf-4ada-994f-6d7965cfb11f</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV8 Box 34/16</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) Schreibmaschine .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) Schreibmaschine </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Reinschrift</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="0" xml:id="page__7db19ea0-5f4b-4ca2-b17f-ac15a76db288"/>
+            <fw type="pageNum">[273]</fw> <p rendition="#title">D<hi rendition="#sub">r</hi>. Ferenczi <span><span><span><span>Sándor</span></span></span></span><lb break="paragraph"/></p> <p>Wenige Jahre nach ihrem Erscheinen (1900)<lb/> geriet die „Traumdeutung“ auch in die<lb/> Hand eines jungen Budapester Arztes,<lb/> der Neurologe, Psychiater und gerichtlicher<lb/> Sachverständiger, doch eifrig nach neuem<lb/> Erwerb in seiner Wissenschaft aus schaute.<lb/> Er kam nicht weit in der Lektüre,<lb/> bald hatte er das Buch von sich geworfen, <lb/> es ist nicht bekannt, ob mehr gelangweilt<lb/> oder angewidert. Indeß kurze Zeit<lb/> nachher lockte ihn der Ruf von neuen<lb/> Arbeits- und Erkenntnismöglichkeiten<lb/> nach Zürich, von dort trieb es ihn nach<lb/> Wien, um den Autor des einst ver<lb break="no"/>ächtlich beseitigten Buches zu sprechen.<lb break="paragraph"/></p> <p>An diesen ersten Besuch knüpfte eine<lb/> lange, intime und bis heute unge<lb break="no"/>trübte Freundschaft an, in deren Be<lb break="no"/>tätigung er auch 1909 die Reise nach Amerika<lb/> zu den Vorlesungen an der Clark-Uni<lb break="no"/>versity in <u>Worcester</u> <u>Mass</u>. mitmachte.<lb break="paragraph"/></p> <p>Dies waren die Anfänge Ferenczi’s,<lb/> der seither <ins>selbst</ins> ein Meister und Lehrer<lb/> der Psychoanalyse geworden ist und in diesem<lb/> Jahre, 1923, gleichzeitig sein 50stes Lebens<lb break="no"/>jahr wie das erste Dezennium in der<lb/> Führung der Budapester Ortsgruppe voll<lb break="no"/>endet.<lb break="paragraph"/></p> <p><u>Ferenczi</u> hat wiederholt auch in die äußeren<lb/> Schicksale der Psychoanalyse eingegriffen.<lb/> Bekannt ist sein Auftreten auf dem<lb/> zweiten Kongreß der Analytiker, <ins>Nürnberg</ins> 1910,<lb/> wo er die Gründung der Internation<lb break="no"/>alen Psychoanalytischen Vereinigung<lb/> als Abwehrmaßregel gegen die Ächtung<lb/> der Analyse durch die offizielle Medizin<lb/> in Vorschlag brachte und durchsetzen<lb/> half. Auf dem V analytischen Kongreß <ins>in Budapest,</ins> Sept.<lb/> 1918, wurde Ferenczi zum Präsidenten<lb/> der Vereinigung gewählt. Er bestimmte Anton<lb/> v. Freund zu seinem Sekretär und die<lb break="paragraph"/><pb n="1" xml:id="page__bb70d5b0-61cc-4342-8467-d133d7436903"/><fw type="pageNum"/>vereinte Tatkraft beider Männer sowie die<lb/> großzügigen <del>Absichten</del>Stiftungsabsichten<lb/> Freund’s hätten Budapest sicherlich <del>zum </del><lb/> <del>Mittelpunkt </del>zur analytischen Haupt Stadt<lb/> Europas erhoben, wenn nicht politische Kata<lb break="no"/>strophen und persönliche Schicksale diese<lb/> schönen Hoffnungen erbarmungslos ver<lb break="no"/>nichtet hätten. Freund erkrankte und<lb/> starb im Jänner 1920, im Oktober 1919 hatte<lb/> Ferenczi unter Berufung auf die Isoliru<lb break="no"/>ng Ungarns vom Weltverkehr seine<lb/> Stelle niedergelegt und das Praesidium<lb/> der Internat. Vereinigung Ernest Jones<lb/> in London übertragen. Während der<lb/> Dauer der Sowjetrepublik in Ungarn war<lb/> Ferenczi mit den Funktionen eines<lb/> Universitätslehrers betraut gewesen<lb/> und die Hörer hatten sich zu seinen<lb/> Vorlesungen gedrängt. Die Ortsgruppe<lb/> aber, die er 1913 gegründet hatte,, über<lb break="no"/>stand alle Stürme, <del>und </del>entwickelte<lb/> sich unter seiner Leitung zu einer Stätte<lb/> intensiver und fruchtbringender Arbeit<lb/> und glänzte durch eine Häufung von Begabungen,<lb/> wie sie sich an keinem anderen Orte zusam<lb break="no"/>mengefunden hatten. <u>Ferenczi,</u> der als ein<lb/> mittleres Kind aus einer großen Geschwister<lb break="no"/>reihe ursprünglich einen starken Bruder<lb break="no"/>komplex in sich zu bekämpfen hatte, war<lb/> unter der Einwirkung der Analyse ein<lb/> tadelloser älterer Bruder, ein gütiger<lb/> Erzieher und Förderer junger Talente<lb/> geworden.<lb break="paragraph"/></p>
+         
+         
+            
+             <p><u>Ferenczi’s</u> analytische Schriften sind allgemein<lb/> bekannt und gewürdigt worden. Seine „Popul<lb break="no"/>ären Vorträge über <del>Analyse </del>Psychoanalyse“<lb/> hat unser Verlag erst 1922 als XIII. Band<lb/> der „Intern. psychoanalyt. Bibliothek heraus<lb break="no"/>gegeben. Klar und formvollendet, mitunter<lb/> fesselnd geschrieben, sind sie eigentlich die beste<lb/> „Einführung in die Psychoanalyse“ für den<lb/> ihr ferner Stehenden. Eine Sammlung der<lb/> rein fachlich-medizinischen Arbeiten, van denen<lb/> eine Anzal durch E. Jones ins Englische über<lb break="no"/>setzt worden ist (Contributions to Psycho<lb break="no"/>Analysis 1916), steht noch aus. Der Verlag wird<lb/> diese Aufgabe nachholen, sobald die Ungunst<lb/> der Zeiten es ihm nicht <ins>mehr </ins>verwehrt. Die in<lb break="paragraph"/><pb n="2" xml:id="page__697366b5-2f25-4e5b-9aa5-e320199d1b38"/><fw type="pageNum"/>ungarischer Sprache erschienenen Bücher und Broschüren<lb/> haben zahlreiche Auflagen gehabt und die Analyse<lb/> den gebildeten Kreisen <span class="unclear">¿</span> Ungarns vertraut<lb/> gemacht.<lb break="paragraph"/></p>
+         
+         
+            
+             <p>Die wissenschaftliche Leistung Ferenczi’s imponirt vor<lb/> allem durch ihre Vielseitigkeit. An glückliche<lb/> kasuistische Funde und scharf beobachtete klinische<lb/> Mitteilungen (Ein kleiner Hahnemann – Passagere<lb/> Symptombildungen während der Behandlung –<lb/> Mitteilungen aus der analytischen Praxis) reihen<lb/> sich mustergültige kritische Arbeiten, wie die<lb/> über Jungs Wandlungen und Symbole der<lb/> Libido und Régis’ und Hésnard’s Beurteilung<lb/> der Analyse, treffliche Polemiken wie die<lb/> gegen Bleuler in der Alkoholfrage und gegen<lb/> Putnam betreffs des Verhältnißes der<lb/> Psychoanalyse zur Philosophie, maßvoll und<lb/> würdig bei aller Entschiedenheit. Ferner die Auf<lb break="no"/>sätze, auf denen Ferenczi’s Ruhm vorwiegend<lb/> beruht, in denen seine Originalität, sein Ge<lb break="no"/>dankenreichtum und seine Verfügung über eine<lb/> wol geleitete wissenschaftliche Phantasie so erfreu<lb break="no"/>lich zum Ausdruck kommen, durch die er<lb/> wichtige Stücke der psychoanalytischen Theorie aus<lb break="no"/>gebaut und die Erkenntnis fundamentaler Ver<lb break="no"/>hältniße im Seelenleben gefördert hat (Intro<lb break="no"/>jektion und Übertragung – Die Theorie der<lb/> Hypnose – Die Entwicklungsstufen des<lb/> Wirklichkeitssinnes – Die Arbeiten über Sym<lb break="no"/>bolik u. a.). Endlich die Arbeiten dieser letzten<lb/> Jahre – Kriegsneurosen – Hysterie und Pathoneurosen –<lb/> Zur Psychoanalyse der paralytischen Geistesstörung<lb/> (mit Hollós), in denen das ärztliche Interesse<lb/> vom psychologischen Tatbestand zur <del>organ</del><ins>somat</ins>ischen<lb/> Bedingtheit hindrängt.<lb break="paragraph"/></p> <p>So unvollständig diese Aufzählung ausgefallen ist<lb/> so wissen doch seine Freunde, daß Ferenczi<lb/> noch mehr für sich behalten hat, als er sich mitzuteilen<lb/> entschließen konnte. An seinem 50ten Geburts<lb break="no"/>tage vereinigen sie sich in dem Wunsch, daß<lb/> ihm Stimmung, Kraft und Muße gegönnt sein<lb/> mögen, seine wissenschaftlichen Vorsätze idurch<lb/> <del>Taten</del><ins>in neuen Mitteilungen</ins> zu verwirklichen.<lb break="paragraph"/></p> <p>Herausgeber und Redaktion<lb/> der<lb/> Intern. Zeitschrift für Psychoanalyse.<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__56434a21-9198-46ff-ad6d-819551612c41"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__69e9f0f1-96f7-42bb-b906-612adda8df76"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__823c2447-2d9a-4e5f-bfe4-d594444b3f34"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

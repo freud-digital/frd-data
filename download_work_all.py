@@ -18,10 +18,11 @@ for index, row in works_fwf.iterrows():
     w_path = row['werk_signatur']
     werk_ids[w_path] = w_id
 
-for x in werk_ids:
-    print(f"starting to download work: {x}")
-    WERK_ID = werk_ids[x]
-    WERK_PATH = x
+count = 0
+for w in werk_ids:
+    print(f"starting to download work: {w}")
+    WERK_ID = werk_ids[w]
+    WERK_PATH = w
     werk_obj = frd.FrdWerk(
         auth_items=auth_items, werk_id=WERK_ID
     )
@@ -29,7 +30,7 @@ for x in werk_ids:
     print(
         f"found {len(rel_manifestations)} manifestion with settings {MANIFEST_DEFAULT_FILTER}"
     )
-
+    count_man = 0
     for x in rel_manifestations:
         try:
             frd_man = frd.FrdManifestation(
@@ -38,6 +39,8 @@ for x in werk_ids:
                 auth_items=auth_items
             )
             frd_man.get_man_json_dump(lmt=False)
+            count_man += 1
+            print(f"{count_man} of {len(rel_manifestations)} manifestations downloaded!")
         except Exception as e:
             os.makedirs("logs", exist_ok=True)
             with open("logs/json_dump_error.txt", "a") as f:
@@ -49,6 +52,9 @@ for x in werk_ids:
                     fg='red'
                 )
             )
+    count += 1
+    print(f"{count} of {len(werk_ids)} works downloaded!")
+    print(f"finished download of work: {w}")
     try:
         frd.make_xml(save=True, out_dir=out_dir, workpath=WERK_PATH, test=False, dump={})
     except Exception as e:

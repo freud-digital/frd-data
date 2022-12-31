@@ -1,270 +1,239 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a"> (1902-121): Einleitung der Diskussion „Ueber die Stellung der Frau in unserer Vereinigung“</title>
-        <title type="manifestation" level="a">Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung] (1902-121/1933)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a"> (1902-121): Einleitung der Diskussion „Ueber die Stellung der Frau in unserer Vereinigung“</title>
+            <title type="manifestation" level="a">Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung] (1902-121/1933)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1902-121-1903">
-            <analytic>
-              <title type="manifestation">Einleitung der Diskussion "Ueber die Stellung der Frau in unserer Vereinigung"</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1903-03-01">1903-03-01</date>
-              </imprint>
-              <extent>104</extent>
-              <biblScope unit="volume">3-4</biblScope>
-              <biblScope unit="year">5</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1902-121-1933" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung]</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">B’nai B’rith Mitteilungen für Österreich</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__3fa8c116-147b-4088-b776-1907247ae5fe">Ascher, Arnold</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1933-01-01">1933-01-01</date>
-              </imprint>
-              <extent>20</extent>
-              <biblScope unit="volume">1 </biblScope>
-              <biblScope unit="year">33</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__9ce135f1-1577-46d8-bc10-46f1c81a3a7c">
-                <title>Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung]</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1902-121-1903">
+                     <analytic>
+                        <title type="manifestation">Einleitung der Diskussion "Ueber die Stellung der Frau in unserer Vereinigung"</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1903-03-01">1903-03-01</date>
+                        </imprint>
+<extent>104</extent>                        <biblScope unit="volume">3-4</biblScope>
+                        <biblScope unit="year">5</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1902-121-1933" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">B’nai B’rith Mitteilungen für Österreich</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__3fa8c116-147b-4088-b776-1907247ae5fe">Ascher, Arnold</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1933-01-01">1933-01-01</date>
+                     </imprint>
+                     <extent>20</extent>
+                     <biblScope unit="volume">1 </biblScope>
+                     <biblScope unit="year">33</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__9ce135f1-1577-46d8-bc10-46f1c81a3a7c">
+                        <title>Die Stellung der Frau im Rahmen unseres Vereinslebens [Erwähnung]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1902-121/1933</idno>
-                <idno type="url">https://www.freud-edition.net/werke/die-stellung-der-frau-im-rahmen-unseres-vereinslebens-erwahnung/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9ce135f1-1577-46d8-bc10-46f1c81a3a7c</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__971f4b86-92f0-4c24-89b5-6b4ea338d379">
-                    <title> (1902-121): Einleitung der Diskussion „Ueber die Stellung der Frau in unserer Vereinigung“</title>
-                    <idno type="url">https://www.freud-edition.net/werke/einleitung-der-diskussion-ueber-die-stellung-der-frau-unserer-vereinigung</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/971f4b86-92f0-4c24-89b5-6b4ea338d379</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1902-121/1933</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/die-stellung-der-frau-im-rahmen-unseres-vereinslebens-erwahnung/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9ce135f1-1577-46d8-bc10-46f1c81a3a7c</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__971f4b86-92f0-4c24-89b5-6b4ea338d379">
+                              <title> (1902-121): Einleitung der Diskussion „Ueber die Stellung der Frau in unserer Vereinigung“</title>
+                              <idno type="url">https://www.freud-edition.net/werke/einleitung-der-diskussion-ueber-die-stellung-der-frau-unserer-vereinigung</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/971f4b86-92f0-4c24-89b5-6b4ea338d379</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__cf0832d7-0ecd-4bc6-85e0-bf862cf764af"/>
-        <p>Ani Mr dee Exprls. Teltscher wird herchlouen, ill<lb/> dns Generll- omitee du Ersuchen zu richten, deli alle Oster<lb break="no"/>reiehischen Legen nulgetordert werden. sich nach Maßgnbe ihrer<lb/> Mittel an dem galizischen Hilfewerire zu beteiligen.<lb/> Die Loge „Wien“ beschließt 1ugieich, dem gniizischen Hilfs<lb break="no"/>vereiu mit einem jahreebeitrng von [000 K beizutreten.<lb/> Auf Anregung da D:. Dr. Kuh wird die Ausarbeitung einer<lb/> inetrulrtion tur den ersten Recherchenten beschlossen und Br.<lb/> Exprls. Dr. Knöpfrnncher mit der Ausarbeitung betraut.<lb/> lm Leute des {lehren 1902 wurden 11 Sitzungen abgehalten<lb/> und in denselben olgende Vorträge gehalten:<lb/> ,Über Haecltels Welirmel' von Dr. ]oset Jerusalem,<lb/> ,Ober Luarus’ Ethik des ]udentums‘ von Dr. Wilhelm<lb/> Knöplmlcher,<lb/> ,Über die Stellung der Frau im Rahmen unseres Vereins<lb break="no"/>leben" von Dr. Freud. mit anschließender Diskussion,<lb/> ,Über Handelspolitische Revue' von Ad. Schwarz,<lb/> „Über Bendswahl der Inden“ von Prof. Dr. Ehrm an n.<lb/> ,Über den Verbandstag' von Dr. Klern erer,<lb/> ,Ober Religion und Medizin“ von Prof. r. Königstein,<lb/> ,Ober Bibel und Babel“ von Dr. Ehrmann,<lb/> iiber ,Einiges aber die Kunst im Mittelalter“ Von Architekt<lb/> F l e i s c h er. (Foneet1uu tom.)<lb break="paragraph"/>
-        </p>
-        <p>Jüdiiclue Feiglmit.<lb break="paragraph"/>
-        </p>
-        <p>Der „Bund jüdisduer Frontzoldnteu Olterreidu“ gibt eine<lb/> ' „Die Jüdiedie Front" her-nun, deren cute Nummer<lb/> endrimeu "ut. Geacelnteheobernt d. R. F. Allexin edireibt<lb/> una dem Titel: „Der Jüdüdte Fruntloldut“:<lb/> Vomuendenvrilliér.dußitheutndter umlArierbiuunrl<lb break="paragraph"/>
-        </p>
-        <p>gegenuheten.<lb break="paragraph"/>
-        </p>
-        <p>ld! könnte hier einel"iille mEinneltﬂlenvonHeldeutu-n<lb/> nd hervindzer Autopfenmg ]üdindur Frontnoldnben mßhren;<lb/> könnte ' rn ' ' Reserveoiﬁn'er wählen, der,leit<lb break="paragraph"/>
-        </p>
-        <p>dent unmterbfodten<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-        <pb n="2" xml:id="page__a13cdb2f-4e56-471f-9edd-f79c60bbf6b0"/>
-        <p>Ai B'RITH MITTEILUNGEN FÜR ÖSTERREIC&lt;<lb/> WVGIN.WMVIEILMOIIGAHIU<lb/> wuvma-va-n-aaaa—mend‘ _<lb break="paragraph"/>
-        </p>
-        <p>m0wnv—,DLua—me '<lb break="paragraph"/>
-        </p>
-        <p>Heft 1 Jänner 1933 jdn-gang xxxm<lb break="paragraph"/>
-        </p>
-        <p>INHALTSVERZEICHNIS<lb break="paragraph"/>
-        </p>
-        <p>. Juni-d' in Mwam.-wvuu<lb break="no"/>i't'.’i,'ﬁﬁhn ' " ' ' ;; : u...—a- V-vüh ,v....c r.:_uwe h<lb/> »uuL-uu—,Haf—wumm"—'Lﬁu<lb break="paragraph"/>
-        </p>
-        <p>Br. Reg.-RA! Dr. Berner Wndueu'n<lb/> Wim<lb break="paragraph"/>
-        </p>
-        <p>Diskulfionsldmften über die Judcnirascf)<lb break="paragraph"/>
-        </p>
-        <p>Du neue Gesicht des Antisemitismus.<lb break="paragraph"/>
-        </p>
-        <p>ll.<lb/> Kllmng.")<lb break="paragraph"/>
-        </p>
-        <p>im Gegenseite zu .Der lud ist echuid?‘ sind hier den Mit<lb break="no"/>arbeitern keine Fragen vorgelegt werden. Das Buch soll ein<lb/> Versuch sein, ,eu! der Grundhge einer vornehmen und uch<lb break="no"/>Iichen Diskmsion die vieigutelüge Meinung der dellhdlell<lb/> Oﬂentlichkeit zum Thema Antisemilimue . . . in einem Gesamt<lb break="no"/>quenchniti zu erimen'. Nun, eine Kilmng bringt diese Sem—<lb/> iun nicht. Von den nnﬂsemitiechen Bauteilen! von Inden und<lb/> g: en0nm kamen wir schau zwei en: der über besprochuen<lb break="paragraph"/>
-        </p>
-        <p>iekuuionuchriii, die endeten fünf, die hier zu Worte kam<lb/> sind junge und jungzte Sdlriißteiier von Fach. Das Lhaarilche<lb/> ist denn much vorherruhend, das Wort vertritt den Beglill.<lb/> Sachverhalte werden nicht gegeben. Wo eher einer in den Vorder<lb break="no"/>grund gerückt wird, sintzt er eich mein: nut Uhrenn, auf2itlle. ln<lb/> ‘ eo ungeﬂhrr m der Tieie kommenden Sitzen wird der Jude.<lb/> . der bau. rllﬁnierte. unmdiid:e (denen Leid jedoeh teile ur<lb break="no"/>eigene Suche in), der Ilmende. liebende (denen Liebe aber nur<lb break="paragraph"/>
-        </p>
-        <p>\ ﬂsca.m1ms.m-mm—sue<lb break="paragraph"/>
-        </p>
-        <p>",Kﬂung.llAdue-,Polﬂht die] Elch-nu,<lb/> F.Hieiedm,lt. M.N—moﬂeiler.i‘ . ein. oh.<lb/> R.Wumu,nr,ﬁuindc, mmnäu-.%Le.<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-30">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__cf0832d7-0ecd-4bc6-85e0-bf862cf764af"/>
+            <p>Ani Mr dee Exprls. Teltscher wird herchlouen, ill<lb/> dns Generll- omitee du Ersuchen zu richten, deli alle Oster<lb break="no"/>reiehischen Legen nulgetordert werden. sich nach Maßgnbe ihrer<lb/> Mittel an dem galizischen Hilfewerire zu beteiligen.<lb/> Die Loge „Wien“ beschließt 1ugieich, dem gniizischen Hilfs<lb break="no"/>vereiu mit einem jahreebeitrng von [000 K beizutreten.<lb/> Auf Anregung da D:. Dr. Kuh wird die Ausarbeitung einer<lb/> inetrulrtion tur den ersten Recherchenten beschlossen und Br.<lb/> Exprls. Dr. Knöpfrnncher mit der Ausarbeitung betraut.<lb/> lm Leute des {lehren 1902 wurden 11 Sitzungen abgehalten<lb/> und in denselben olgende Vorträge gehalten:<lb/> ,Über Haecltels Welirmel' von Dr. ]oset Jerusalem,<lb/> ,Ober Luarus’ Ethik des ]udentums‘ von Dr. Wilhelm<lb/> Knöplmlcher,<lb/> ,Über die Stellung der Frau im Rahmen unseres Vereins<lb break="no"/>leben" von Dr. Freud. mit anschließender Diskussion,<lb/> ,Über Handelspolitische Revue' von Ad. Schwarz,<lb/> „Über Bendswahl der Inden“ von Prof. Dr. Ehrm an n.<lb/> ,Über den Verbandstag' von Dr. Klern erer,<lb/> ,Ober Religion und Medizin“ von Prof. r. Königstein,<lb/> ,Ober Bibel und Babel“ von Dr. Ehrmann,<lb/> iiber ,Einiges aber die Kunst im Mittelalter“ Von Architekt<lb/> F l e i s c h er. (Foneet1uu tom.)<lb break="paragraph"/></p> <p>Jüdiiclue Feiglmit.<lb break="paragraph"/></p> <p>Der „Bund jüdisduer Frontzoldnteu Olterreidu“ gibt eine<lb/> ' „Die Jüdiedie Front" her-nun, deren cute Nummer<lb/> endrimeu "ut. Geacelnteheobernt d. R. F. Allexin edireibt<lb/> una dem Titel: „Der Jüdüdte Fruntloldut“:<lb/> Vomuendenvrilliér.dußitheutndter umlArierbiuunrl<lb break="paragraph"/></p> <p>gegenuheten.<lb break="paragraph"/></p> <p>ld! könnte hier einel"iille mEinneltﬂlenvonHeldeutu-n<lb/> nd hervindzer Autopfenmg ]üdindur Frontnoldnben mßhren;<lb/> könnte ' rn ' ' Reserveoiﬁn'er wählen, der,leit<lb break="paragraph"/></p> <p>dent unmterbfodten<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__a13cdb2f-4e56-471f-9edd-f79c60bbf6b0"/>
+            <p>Ai B'RITH MITTEILUNGEN FÜR ÖSTERREIC&lt;<lb/> WVGIN.WMVIEILMOIIGAHIU<lb/> wuvma-va-n-aaaa—mend‘ _<lb break="paragraph"/></p> <p>m0wnv—,DLua—me '<lb break="paragraph"/></p> <p>Heft 1 Jänner 1933 jdn-gang xxxm<lb break="paragraph"/></p> <p>INHALTSVERZEICHNIS<lb break="paragraph"/></p> <p>. Juni-d' in Mwam.-wvuu<lb break="no"/>i't'.’i,'ﬁﬁhn ' " ' ' ;; : u...—a- V-vüh ,v....c r.:_uwe h<lb/> »uuL-uu—,Haf—wumm"—'Lﬁu<lb break="paragraph"/></p> <p>Br. Reg.-RA! Dr. Berner Wndueu'n<lb/> Wim<lb break="paragraph"/></p> <p>Diskulfionsldmften über die Judcnirascf)<lb break="paragraph"/></p> <p>Du neue Gesicht des Antisemitismus.<lb break="paragraph"/></p> <p>ll.<lb/> Kllmng.")<lb break="paragraph"/></p> <p>im Gegenseite zu .Der lud ist echuid?‘ sind hier den Mit<lb break="no"/>arbeitern keine Fragen vorgelegt werden. Das Buch soll ein<lb/> Versuch sein, ,eu! der Grundhge einer vornehmen und uch<lb break="no"/>Iichen Diskmsion die vieigutelüge Meinung der dellhdlell<lb/> Oﬂentlichkeit zum Thema Antisemilimue . . . in einem Gesamt<lb break="no"/>quenchniti zu erimen'. Nun, eine Kilmng bringt diese Sem—<lb/> iun nicht. Von den nnﬂsemitiechen Bauteilen! von Inden und<lb/> g: en0nm kamen wir schau zwei en: der über besprochuen<lb break="paragraph"/></p> <p>iekuuionuchriii, die endeten fünf, die hier zu Worte kam<lb/> sind junge und jungzte Sdlriißteiier von Fach. Das Lhaarilche<lb/> ist denn much vorherruhend, das Wort vertritt den Beglill.<lb/> Sachverhalte werden nicht gegeben. Wo eher einer in den Vorder<lb break="no"/>grund gerückt wird, sintzt er eich mein: nut Uhrenn, auf2itlle. ln<lb/> ‘ eo ungeﬂhrr m der Tieie kommenden Sitzen wird der Jude.<lb/> . der bau. rllﬁnierte. unmdiid:e (denen Leid jedoeh teile ur<lb break="no"/>eigene Suche in), der Ilmende. liebende (denen Liebe aber nur<lb break="paragraph"/></p> <p>\ ﬂsca.m1ms.m-mm—sue<lb break="paragraph"/></p> <p>",Kﬂung.llAdue-,Polﬂht die] Elch-nu,<lb/> F.Hieiedm,lt. M.N—moﬂeiler.i‘ . ein. oh.<lb/> R.Wumu,nr,ﬁuindc, mmnäu-.%Le.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

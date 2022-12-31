@@ -1,0 +1,252 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-005; 1923b): Das Ich und das Es</title>
+            <title type="manifestation" level="a">[Vorbemerkung] (1923-005None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. CH</p>
+            </note>
+            <note type="doc_component">
+               Unterkapitel
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-005-1931">
+                     <analytic>
+                        <title type="manifestation">Das Ich und das Es</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [5]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-03">1931-01-03</date>
+                        </imprint>
+<extent>391 Seiten</extent>                        <biblScope unit="volume">Theoretische Schriften (1911-1925)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-005-1925">
+                     <analytic>
+                        <title type="manifestation">Das Ich und das Es</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 6</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>405 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-005-1923">
+                     <monogr>
+                        <title type="manifestation">Das Ich und das Es</title>
+                        <title type="manifestation-short">Erstveröffentlichung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-005None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">[Vorbemerkung]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__d20c5f18-81db-4f3b-a232-e323623a9aa5">
+                        <title>[Vorbemerkung]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-005None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/vorbemerkung/druckversion-9</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d20c5f18-81db-4f3b-a232-e323623a9aa5</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__aa05f7aa-fb44-41bc-893a-e5cf0ea95255">
+                              <title>Freud, Sigmund  (1923-005; 1923b): Das Ich und das Es</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/das-ich-und-das-es</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/aa05f7aa-fb44-41bc-893a-e5cf0ea95255</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__cf205081-7520-4c75-ae2d-5412aa2bfd83"/>
+            <fw type="pageNum">[338]</fw> <p rendition="#title">DAS ICH UND DAS ES<lb break="paragraph"/></p> <p><hi rendition="#em">(1923)</hi><lb break="paragraph"/></p> <p>Nachstehende Erörterungen setzen Gedankengänge fort,<lb/> die in meiner Schrift „Jenseits des Lustprinzips“ 1920<hi rendition="#footnote-index">1</hi> be<lb break="no"/>gonnen wurden, denen ich persönlich, wie dort erwähnt ist,<lb/> mit einer gewissen wohlwollenden Neugierde gegenüberstand.<lb/> Sie nehmen diese Gedanken auf, verknüpfen sie mit ver<lb break="no"/>schiedenen Tatsachen der analytischen Beobachtung, suchen<lb/> aus dieser Vereinigung neue Schlüsse abzuleiten, machen aber<lb/> keine neuen Anleihen bei der Biologie und stehen darum der<lb/> Psychoanalyse näher als das „Jenseits“. Sie tragen eher den<lb/> Charakter einer Synthese als einer Spekulation und scheinen<lb/> sich ein hohes Ziel gesetzt zu haben. Ich weiß aber, daß sie<lb/> beim Gröbsten haltmachen, und bin mit dieser Beschrän<lb break="no"/>kung recht einverstanden.<lb break="paragraph"/></p> <p>Dabei rühren sie an Dinge, die bisher noch nicht Gegen<lb break="no"/>stand der psychoanalytischen Bearbeitung gewesen sind, und<lb/> können es nicht vermeiden, manche Theorien zu streifen, die<lb/> von Nicht-Analytikern oder ehemaligen Analytikern auf<lb break="paragraph"/><pb n="2" xml:id="page__80257408-1661-4aea-b00b-a9c96ac8eed7"/><fw type="pageNum">339</fw>ihrem Rückzug von der Analyse aufgestellt wurden. Ich bin<lb/> sonst immer bereit gewesen, meine Verbindlichkeiten gegen<lb/> andere Arbeiter anzuerkennen, fühle mich aber in diesem<lb/> Falle durch keine solche Dankesschuld belastet. Wenn die<lb/> Psychoanalyse gewisse Dinge bisher nicht gewürdigt hat, so<lb/> geschah es nie darum, weil sie deren Leistung übersehen hatte<lb/> oder deren Bedeutung verleugnen wollte, sondern weil sie<lb/> einen bestimmten Weg verfolgt, der noch nicht so weit ge<lb break="no"/>führt hatte. Und endlich, wenn sie dahin gekommen ist, er<lb break="no"/>scheinen ihr auch die Dinge anders als den anderen.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Seite 178 ff dieses Bandes.<lb break="paragraph"/></note>
+         
+         
+            
+              <p rendition="#h1"><title>I<lb/> <hi rendition="#em">Bewußtsein und Unbewußtes</hi><lb break="paragraph"/></title></p> <p>In diesem einleitenden Abschnitt ist nichts Neues zu sagen<lb/> und die Wiederholung von früher oft Gesagtem nicht zu<lb/> vermeiden.<lb break="paragraph"/></p> <p>Die Unterscheidung des Psychischen in Bewußtes und Un<lb break="no"/>bewußtes ist die Grundvoraussetzung der Psychoanalyse und<lb/> gibt ihr allein die Möglichkeit, die ebenso häufigen als wich<lb break="no"/>tigen pathologischen Vorgänge im Seelenleben zu verstehen,<lb/> der Wissenschaft einzuordnen. Nochmals und anders ge<lb break="no"/>sagt: die Psychoanalyse kann das Wesen des Psychischen<lb/> nicht ins Bewußtsein verlegen, sondern muß das Bewußtsein<lb/> als eine Qualität des Psychischen ansehen, die zu anderen<lb/> Qualitäten hinzukommen oder wegbleiben mag.<lb break="paragraph"/></p> <p>Wenn ich mir vorstellen könnte, daß alle an der Psy<lb break="no"/>chologie Interessierten diese Schrift lesen werden, so wäre<lb/> ich auch darauf vorbereitet, daß schon an dieser Stelle ein<lb/> Teil der Leser haltmacht und nicht weiter mitgeht, denn<lb/> hier ist das erste Schibboleth der Psychmnalyse. Den meisten<lb/> philosophisch Gebildeten ist die Idee eines Psychischen, das<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

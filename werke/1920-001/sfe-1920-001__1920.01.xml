@@ -1,0 +1,435 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1920-001; 1920a): Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+            <title type="manifestation" level="a">Über die Psychogenese eines Falles von weiblicher Homosexualität (1920-001/1920.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>Im LOC Katalog steht als Zusatz: (Trautenegg case)</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1920-001-1920">
+                     <analytic>
+                        <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-01-01">1920-01-01</date>
+                        </imprint>
+<extent>24 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-001-1926">
+                     <analytic>
+                        <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>124 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-001-1931">
+                     <analytic>
+                        <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>188 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-001-1924">
+                     <analytic>
+                        <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>343 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-001-1922">
+                     <analytic>
+                        <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">SKSN 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>194 Seiten</extent>                        <biblScope unit="volume">5. Folge</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-001-1920.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__a5f09b69-61b4-429c-8d97-1daa4f9e1772">
+                        <title>Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1920-001/1920.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-die-psychogenese-eines-falles-von-weiblicher-homosexualitat/reinschrift</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/a5f09b69-61b4-429c-8d97-1daa4f9e1772</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__5a325f79-997b-435e-9e30-1637b4c0a152">
+                              <title>Freud, Sigmund  (1920-001; 1920a): Über die Psychogenese eines Falles von weiblicher Homosexualität</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/uber-die-psychogenese-eines-falles-von-weiblicher-homosexualitat</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/5a325f79-997b-435e-9e30-1637b4c0a152</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV7 Box 33/14</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Reinschrift</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__e243b4bc-3e79-41bc-ae24-bfcfac58079d"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__4433f069-9244-448f-a00f-76e46fa9c26e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__f8176a5b-ce96-4eff-b3b8-6b0f9e31f3d3"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__b141769f-5469-4c59-baa9-8744f3778d5c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__7af64f36-50d4-4ea0-b0af-d16e6e130ea2"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__1e37115b-700a-4d2a-a4bd-20b3813aee87"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__c9cb9b4a-ffdc-4eb9-b620-c74e90123abc"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__c9bffead-61dc-4a19-9902-8e726ab8e023"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__f5b2c7bb-fb2d-4760-90c0-621c5776c15c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__33f733e6-c69b-45a9-b815-2e2831d16e89"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="11" xml:id="page__1aed9bad-f84e-4264-af97-567a82de5e21"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="12" xml:id="page__41d2837c-a260-4c17-9425-d04c69a355e8"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="13" xml:id="page__fbafa25b-9182-4b98-8766-cee1699a4b4c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="14" xml:id="page__05ddc452-6a2a-48bb-af31-da7095aa878a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="15" xml:id="page__6005562b-489a-4b3c-a457-503338a26df9"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="16" xml:id="page__f40048f3-838e-4ca7-9d7a-d6a02b41981e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="17" xml:id="page__63f893ea-8f26-4ac9-b252-45d4359caf8c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="18" xml:id="page__ff48f184-380a-411c-83b8-aeeab6d27bbd"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="19" xml:id="page__af589923-7448-4d3e-b2cb-eae1f351ba8e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="20" xml:id="page__9532b4e0-e8db-4e94-883d-4291635801fd"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="21" xml:id="page__8af44d95-417b-4a65-a1fe-ea33786b7b60"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="22" xml:id="page__6b37836d-99c9-4433-ab2e-d6ab0206ae34"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="23" xml:id="page__f0003edd-ec2d-4dd6-b8cc-69b950eb04c5"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="24" xml:id="page__74106d11-0fe0-43e2-843f-8c8fc5114340"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="25" xml:id="page__bfdb5e76-16e4-4edb-9220-ed17036d0c0a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="26" xml:id="page__694cf71b-f1ea-40b2-86dd-884148f76541"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="27" xml:id="page__336000b5-dbf9-4cc6-92ec-5c54e10f4902"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="28" xml:id="page__006272f6-18a0-40ce-b545-115f69dd8d19"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="29" xml:id="page__033361c8-4008-4a7f-90d4-a2fbcb92ca7b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="30" xml:id="page__269b3224-4227-47b4-bfa4-4887f1dcea50"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="31" xml:id="page__14f9ff92-ffa9-4345-8114-3168f0ae5ffb"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="32" xml:id="page__98af8fe8-523c-4bb4-b3ce-cd53397e9b4a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="33" xml:id="page__b96bff4f-be65-4570-b2ec-8c017a16d518"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="34" xml:id="page__208ebaf3-d696-4844-bc8a-a121eaa33120"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="0" xml:id="page__8f9d7067-7c9c-48d1-b6e4-bbe03da02615"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

@@ -1,357 +1,407 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
-        <title type="manifestation" level="a">Zur Psychologie des Vergessens (1901-002/1899)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
+            <title type="manifestation" level="a">Zur Psychologie des Vergessens (1901-002/1899)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>Der Vortrag wurde gehalten am 3. Februar 1899. (Dennis B. Klein, 1985, S. 155) </p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1901-002-1917">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltaglebens </title>
-              <title type="manifestation-short">5., vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1907">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">2., vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1901.2">
-            <analytic>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
-              <title type="publication-sub"/>
-              <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
-              <imprint>
-                <pubPlace>Berlin</pubPlace>
-                <date when="1901-02-01">1901-02-01</date>
-              </imprint>
-              <extent>143 Seiten</extent>
-              <biblScope unit="volume">Heft 2</biblScope>
-              <biblScope unit="year">Band 10</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1929">
-            <analytic>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1901.1">
-            <analytic>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
-              <title type="publication-sub"/>
-              <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
-              <imprint>
-                <pubPlace>Berlin</pubPlace>
-                <date when="1901-01-01">1901-01-01</date>
-              </imprint>
-              <extent>32 Seiten</extent>
-              <biblScope unit="volume">Heft 1</biblScope>
-              <biblScope unit="year">Band 10</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1924">
-            <analytic>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">GS 4</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Zürich</pubPlace>
-                <date when="1924-01-01">1924-01-01</date>
-              </imprint>
-              <extent>310 Seiten</extent>
-              <biblScope unit="volume">4. Band</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1919">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">6., vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1911">
-            <analytic>
-              <title type="manifestation">Ein Beitrag zum Vergessen von Eigennamen</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Zentralblatt für Psychoanalyse</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <imprint>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>Der Vortrag wurde gehalten am 3. Februar 1899. (Dennis B. Klein, 1985, S. 155) </p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1901-002-1917">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltaglebens </title>
+                        <title type="manifestation-short">5., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1917-01-01">1917-01-01</date>
                         </imprint>
-              <extent>408 Seiten</extent>
-              <biblScope unit="volume">9 Juli</biblScope>
-              <biblScope unit="year">1</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1912">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">4., vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1904">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">[1. Buchausgabe]</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1923">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">9. Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1910">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">3. vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1920">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">7., weiter vermehrte Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1901.3">
-            <analytic>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens. (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1922">
-            <monogr>
-              <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-              <title type="manifestation-short">8. Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-002-1899" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Zur Psychologie des Vergessens</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
-              <title type="publication-sub">für die Mitglieder der österr. israel. Humanitätsvereine "B’nai B’rith"</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__aeee7984-46d1-4a48-a439-2803097593a9">Humanitätsverein "Wien" B. B.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1899-10-01">1899-10-01</date>
-              </imprint>
-              <extent>156</extent>
-              <biblScope unit="volume">3 (Oktober)</biblScope>
-              <biblScope unit="year">2</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__a0b58364-7aa4-4bec-ab07-f2477e9a0f7d">
-                <title>Zur Psychologie des Vergessens</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1907">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">2., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1907-01-01">1907-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002None">
+                     <analytic>
+                        <title type="manifestation">XII. Determinismus, Zufalls- und Aberglauben, Gesichtspunkte</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1901.2">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
+                        <imprint>
+                           <pubPlace>Berlin</pubPlace>
+                           <date when="1901-02-01">1901-02-01</date>
+                        </imprint>
+<extent>143 Seiten</extent>                        <biblScope unit="volume">Heft 2</biblScope>
+                        <biblScope unit="year">Band 10</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1929">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1901.1">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie </title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Mschr. Psychiatr. Neurol.</title>
+                        <imprint>
+                           <pubPlace>Berlin</pubPlace>
+                           <date when="1901-01-01">1901-01-01</date>
+                        </imprint>
+<extent>32 Seiten</extent>                        <biblScope unit="volume">Heft 1</biblScope>
+                        <biblScope unit="year">Band 10</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1924">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 4</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>310 Seiten</extent>                        <biblScope unit="volume">4. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1919">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">6., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1919-01-01">1919-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1911">
+                     <analytic>
+                        <title type="manifestation">Ein Beitrag zum Vergessen von Eigennamen</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Zentralblatt für Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>408 Seiten</extent>                        <biblScope unit="volume">9 Juli</biblScope>
+                        <biblScope unit="year">1</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1912">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">4., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1912-01-01">1912-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1904">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">[1. Buchausgabe]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1904-01-01">1904-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1923">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">9. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1901.01">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1910">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">3. vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1910-01-01">1910-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1920">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">7., weiter vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1920-01-01">1920-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1901.3">
+                     <analytic>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens. (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-002-1922">
+                     <monogr>
+                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
+                        <title type="manifestation-short">8. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1901-002-1899" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Zur Psychologie des Vergessens</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                     <title type="publication-sub">für die Mitglieder der österr. israel. Humanitätsvereine "B’nai B’rith"</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__aeee7984-46d1-4a48-a439-2803097593a9">Humanitätsverein "Wien" B. B.</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1899-10-01">1899-10-01</date>
+                     </imprint>
+                     <extent>156</extent>
+                     <biblScope unit="volume">3 (Oktober)</biblScope>
+                     <biblScope unit="year">2</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__a0b58364-7aa4-4bec-ab07-f2477e9a0f7d">
+                        <title>Zur Psychologie des Vergessens</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1901-002/1899</idno>
-                <idno type="url">https://www.freud-edition.net/werke/zur-psychologie-des-vergessens/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/a0b58364-7aa4-4bec-ab07-f2477e9a0f7d</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__c0c4f799-2b0c-4e5b-8d4d-b33f66c54953">
-                    <title>Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-psychopathologie-des-alltagslebens</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c0c4f799-2b0c-4e5b-8d4d-b33f66c54953</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1901-002/1899</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/zur-psychologie-des-vergessens/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/a0b58364-7aa4-4bec-ab07-f2477e9a0f7d</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__c0c4f799-2b0c-4e5b-8d4d-b33f66c54953">
+                              <title>Freud, Sigmund  (1901-002; 1901b): Zur Psychopathologie des Alltagslebens</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/zur-psychopathologie-des-alltagslebens</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c0c4f799-2b0c-4e5b-8d4d-b33f66c54953</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="156" xml:id="page__3eb705fc-65e9-4a28-991f-ef31e4a901e0"/>
-        <p>BLANK<lb break="paragraph"/>
-        </p>
-        <pb n="Titelblatt" xml:id="page__984ff94d-f07d-49ae-925e-1e0b2bafd762"/>
-        <p>BLANK<lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="156" xml:id="page__3eb705fc-65e9-4a28-991f-ef31e4a901e0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="Titelblatt" xml:id="page__984ff94d-f07d-49ae-925e-1e0b2bafd762"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

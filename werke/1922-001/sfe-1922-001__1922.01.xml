@@ -1,0 +1,389 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+            <title type="manifestation" level="a">Traum und Telepathie (Vortrag in der Wiener Psychoanalytischen Vereinigung) (1922-001/1922.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>Man kann die Seiten des Notizbuches auch auseinander schneiden, weiß aber nicht wie sinnvoll das ist.</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1922-001-1925">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>304 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1931">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>354 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1922.2">
+                     <monogr>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <title type="manifestation-short">Separatabdruck</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-03">1922-01-03</date>
+                        </imprint>
+                        <extent>22 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1922">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub">Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>London</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>22 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">8</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001None">
+                     <analytic>
+                        <title type="manifestation">Dream and Telepathy [Translation by Wilson Vance with corrections]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1922-001-1922.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Traum und Telepathie (Vortrag in der Wiener Psychoanalytischen Vereinigung)</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__d4d7dead-e2bc-44d2-a029-fe460624990b">
+                        <title>Traum und Telepathie (Vortrag in der Wiener Psychoanalytischen Vereinigung)</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1922-001/1922.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/traum-und-telepathie-vortrag-der-wiener-psychoanalytischen-vereinigung</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d4d7dead-e2bc-44d2-a029-fe460624990b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__38f2281c-c42b-463f-aab3-66d0f1e454aa">
+                              <title>Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/traum-und-telepathie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/38f2281c-c42b-463f-aab3-66d0f1e454aa</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV7 Box 33/22</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) Schreibmaschine .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) Schreibmaschine </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>None</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__84f52966-30ee-4c6b-a07a-72d1266d5ca1"/>
+            <p> <u>Traum und Tepepathie</u><lb/> (Vortrag in der Wiener Psychoanalytischen Ver=<lb/> einigung.)<lb/> von<lb/> Sigm. <u>Freud</u><lb/> ___________________________________________<lb break="paragraph"/></p> <p> Eine Ankündigung wie die meinige muß in diesen<lb/> Zeiten<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> Das Material, das<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> Ich habe zB. einmal<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__2a65caab-e7bd-479f-9bdc-645a59ee2543"/>
+            <p> mit den Mitteln der bekannten, zuerst von W.<lb/> <u>Stekel </u>angegebenen Todessymbolik aus.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> Vor kurzem erst habe ich einen anderen,<lb/> Unheil verkündenden Traum gehabt, ich glaube,<lb/> es war unmittelbar, ehe ich mich zur Abfassung<lb/> dieser kleinen Mitteilung entschloß, dies<lb break="no"/> mal war nicht viel Verhüllung aufgewendet wor<lb break="no"/> den; ich sah meine beiden in England leben<lb break="no"/> den Nichten, sie waren schwarz gekleidet<lb/> und sagten mir: am Donnerstag haben wir<lb/> sie begraben. Ich wußte, daß es sich um den<lb/> Tod ihrer jetzt 87 jährigen Mutter, <hi rendition="#sub">der Frau meines verstorbenen ältesten Bruders, </hi>handle.<lb/> <lb break="paragraph"/></p> <p> Es gab natürlich eine Zeit<lb/> peinlicher Erwartung bei mir, das plötzliche Ableben<lb/> einer so alten Frau wäre ja nichts Überrasch<lb break="no"/> endes und es wäre doch so unwerwünscht, wenn<lb/> mein Traum gerade mit diesem Ereignis<lb/> zusamenträfe. Aber der nächste Brief aus<lb/> England zerstreute diese Befürchtung.<lb break="paragraph"/></p> <p> Für alle diejenigen, welche um die Wunsch<lb/> theorie des Traumes besorgt sind, will<lb/> ich die beruhigende Versicherung einschalten,<lb/> daß es der Analyse nicht schwer geworden<lb/> ist, auch für diese Todesträume die zu<lb/> vermutenden unbewußten Motive<lb/> aufzudecken.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__e7141bb9-549c-4347-b478-18dd3dd56c98"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__a966e3b3-ad01-4e31-b7ed-48d6aa664a4c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__4bc98210-2e11-4603-9fe1-25e017cc9dc8"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__1704f4da-80bf-4200-a785-4c5f4ee8b447"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__8a7941c8-cbc7-4870-868f-5eb79bcd6e90"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__95d4075c-762e-49b4-bb57-54c0a2c9379e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__6fb49c83-49b7-4b02-9945-fd9e2435fe10"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__a6dda647-657c-4e80-b2f7-c8dd72d34ec6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="11" xml:id="page__b0498de3-cf4d-4ba0-825a-985cc279c36e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="12" xml:id="page__f70d6fcd-1f73-4ce6-9eff-dbd56fc1568d"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="13" xml:id="page__6b28280d-f536-4dbf-a0f8-c55934019df0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="14" xml:id="page__a2e48d95-d79d-4032-9633-2a607cdcc7a4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="15" xml:id="page__bd9fbeb7-1b62-40d2-ac71-c757ce8cade0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="16" xml:id="page__d707b65a-6948-4aad-ba9e-54933aca328c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="17" xml:id="page__fe515a22-4954-4382-ab4a-ced2d8772347"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="18" xml:id="page__c039f266-fead-453d-a2e8-d878b9edabda"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="19" xml:id="page__cfbbe5ce-b63e-4c29-8732-ab41c35a9c0a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="20" xml:id="page__5c0c70e8-d4c3-4969-80e4-7fc493661b0b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="21" xml:id="page__bb4d96bc-0afd-4f58-9677-581871bb36cb"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="22" xml:id="page__42a6d819-4094-4510-9cce-70107c8a7c83"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="23" xml:id="page__837cd187-ce9e-4862-97fb-6301cc4e0fce"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="24" xml:id="page__fe2df658-8ebc-4477-85ae-a6439d8c9e7f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="25" xml:id="page__8bb0fc56-e456-49ac-8999-b43eaefe0d7a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="26" xml:id="page__708eae00-737d-46ec-aa0b-a7f5b64046e4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="27" xml:id="page__2376dcf0-9470-4ecf-a9dd-0816e2e8ec9b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="28" xml:id="page__9d12326b-60de-49e9-8e02-99d7347aade8"/>
+            <p> sie zum Traum umbildet. Wenn das telepathische<lb/> Phänomen aber nur eine Leistung<lb/> des Unbewußten ist, dann liegt ja kein neues<lb/> Problem vor, <del>und</del>. Die Anwendung der<lb/> Gesetze des unbewußten Seelenlebens ver<lb break="no"/> stünde sich dann für die Telepathie von selbst.<lb break="paragraph"/></p> <p> Habe ich bei Ihnen den Eindruck erweckt, daß<lb/> ich für die Realität der Telepathie im okkulten<lb/> Sinne versteckt Partei nehmen will? Ich<lb/> würde es sehr bedauern, daß es so schwer ist<lb/> solchen Eindruck zu vermeiden, denn ich wollte<lb/> wirklich voll unparteiisch sein. Ich habe<lb/> auch allen Grund dazu, denn ich habe kein<lb/> Urteil, ich weiß nichts darüber.<lb break="paragraph"/></p> <p class="rteindent3"> .<lb/> ––––––<lb/> .<lb break="paragraph"/></p>
+         
+         
+            <pb n="0" xml:id="page__9271bc1b-089d-4655-84ef-470ef2fdba38"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

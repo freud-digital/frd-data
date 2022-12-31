@@ -1,0 +1,760 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+            <title type="manifestation" level="a">VIII. Literaturverzeichnis (1900-001None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p><span>Copy+Paste von 6. Aufl. und Überprüfung durch LF</span></p>
+            </note>
+            <note type="doc_component">
+               Unterkapitel
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1900-001-1931.3">
+                     <analytic>
+                        <title type="manifestation">Die Grenzen der Deutbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>381 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1931">
+                     <analytic>
+                        <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>373 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1931.2">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>377 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1910">
+                     <analytic>
+                        <title type="manifestation">Typisches Beispiel eines verkappten Ödipustraumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Zentralblatt für Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>45 Seiten</extent>                        <biblScope unit="volume">1/2</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.6">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>76 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1909">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung </title>
+                        <title type="manifestation-short">2., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1914.2">
+                     <analytic>
+                        <title type="manifestation">Darstellung der „großen Leistung“ im Traum</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>385 Seiten</extent>                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="year">2</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911.01">
+                     <analytic>
+                        <title type="manifestation">Nachträge zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911.2">
+                     <analytic>
+                        <title type="manifestation">Nachträge zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Zentralblatt für Psychoanalyse</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+<extent>192 Seiten</extent>                        <biblScope unit="volume">5/6</biblScope>
+                        <biblScope unit="year">1</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1930">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung </title>
+                        <title type="manifestation-short">8., veränderte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1930-01-01">1930-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1922">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">7. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.4">
+                     <analytic>
+                        <title type="manifestation">Zwei Zimmer und eines</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1914">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">4. vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1914-01-01">1914-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.2">
+                     <analytic>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 2</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__06042234-2d81-4f5c-b5fc-dabf031e4cfe">Rank, Otto</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>538 Seiten</extent>                        <biblScope unit="volume">2. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.6">
+                     <analytic>
+                        <title type="manifestation">Rücksicht auf Darstellbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>382</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.7">
+                     <analytic>
+                        <title type="manifestation">Träume von Toten</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>382</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.4">
+                     <analytic>
+                        <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>71 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911.3">
+                     <analytic>
+                        <title type="manifestation">Nachträge zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.2">
+                     <analytic>
+                        <title type="manifestation">Tageszeiten im Trauminhalt</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>378 Seiten</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1900">
+                     <analytic>
+                        <title type="manifestation">V. Das Traummaterial und die Traumquellen</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925">
+                     <analytic>
+                        <title type="manifestation">I. Die wissenschaftliche Literatur der Traumprobleme</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.3">
+                     <analytic>
+                        <title type="manifestation">Darstellung von Lebenszeiten im Traume</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>378</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.7">
+                     <analytic>
+                        <title type="manifestation">Die okkulte Bedeutung des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                        </imprint>
+<extent>238 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="year">11</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1911">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">3., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1911-01-01">1911-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1897">
+                     <analytic>
+                        <title type="manifestation">Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1898-02-01">1898-02-01</date>
+                        </imprint>
+<extent>67</extent>                        <biblScope unit="volume">2 (Februar)</biblScope>
+                        <biblScope unit="year">1</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1921">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">6. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.5">
+                     <analytic>
+                        <title type="manifestation">Die Grenzen der Deutbarkeit</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleine Beiträge zur Traumlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>66 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1925.3">
+                     <analytic>
+                        <title type="manifestation">Ergänzungen und Zusatzkapitel zur Traumdeutung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>185 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1919">
+                     <monogr>
+                        <title type="manifestation">Die Traumdeutung</title>
+                        <title type="manifestation-short">5., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1919-01-01">1919-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913">
+                     <analytic>
+                        <title type="manifestation">Traum ohne kenntlichen Anlaß</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>377</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1900-001-1913.5">
+                     <analytic>
+                        <title type="manifestation">Der Mantel als Symbol</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1913-07-01">1913-07-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="volume">4 (Juli)</biblScope>
+                        <biblScope unit="year">I</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1900-001None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">VIII. Literaturverzeichnis</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__ff16c5a6-fb56-4dee-be95-8ed15617262c">
+                        <title>VIII. Literaturverzeichnis</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1900-001None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/viii-literaturverzeichnis/druckversion-1</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/ff16c5a6-fb56-4dee-be95-8ed15617262c</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__dce0b091-7de7-4914-8401-998f575029c4">
+                              <title>Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+                              <idno type="url">https://www.freud-edition.net/traumdeutung</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-30">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__2e168b13-2bf3-4111-b2af-40f5e374c598"/>
+            <fw type="pageNum">[459]</fw> <p rendition="#h1"><title>VIII.<lb break="paragraph"/></title></p> <p rendition="#h1"><title>Literaturverzeichnis.<lb break="paragraph"/></title></p> <p><hi rendition="#em">A</hi>. <hi rendition="#smallcaps">Bis zum Erscheinen dieses Buches</hi> (1900):<lb break="paragraph"/></p> <p><hi rendition="#bold">Achmetis F. Serim.</hi> Oneirocriticae ed. Nik. Rigaltius. Paris 1603.<lb/> <hi rendition="#bold">Alberti Michael.</hi> Diss. de insomniorum influxi in sanitatem et morbos. Resp.<lb/> Titius Halae M. 1744.<lb/> <hi rendition="#bold">Alix.</hi> Les rêves. Rev. Scientif., 3<hi rendition="#sub">e</hi> série, t. VI (32<hi rendition="#sub">e</hi> de la coll.), 3<hi rendition="#sub">e</hi> année, 2<hi rendition="#sub">e</hi> sem.<lb/> nov. 1883, p. 554-561.<lb/> — Étude du rêve. Mém. de l'acad. de sc. etc. de Toulouse, 9<hi rendition="#sub">e</hi> série t. I, p. 283-326.<lb/> Toulouse 1889.<lb/> <hi rendition="#bold">Almoli Salomo.</hi> Pithrôn Chalômôth. Solkiew 1848.<lb/> <hi rendition="#bold">Aristoteles.</hi> Über Träume und Traumdeutungen. Übersetzt von<hi rendition="#smallcaps"> Bender</hi>.<lb/> — Von der Weissagung im Traume.<lb/> <hi rendition="#bold">Artemidoros</hi> aus Daldis. Symbolik der Träume. Übersetzt von Friedrich S. <hi rendition="#smallcaps">Krauß</hi>.<lb/> Wien 1881.<lb/> — Erotische Träume und ihre Symbolik. Aus dem Griechischen übersetzt von<lb/> Dr. Hans Licht. Anthropophyteia Bd. IX. p. 316-328.<lb/> <hi rendition="#bold">Artigues.</hi> Essai sur la valeur séméiologique du rêve. These de Paris 1884.<lb/> <hi rendition="#bold">Bacci Domenico.</hi> Sui sogni e sul sonnombulismo, pensieri fisiologico-metafisici.<lb/> Venezia 1857.<lb/> <hi rendition="#bold">Ball.</hi> La morphinmanie, les rêves prolongés. Paris 1885.<lb/> <hi rendition="#bold">Benezé Emil.</hi> Das Traummotiv in der mittelhochdeutschen Dichtung bis 1250 und<lb/> in allen deutschen Volksliedern. Halle 1897. (<hi rendition="#smallcaps">Benezé</hi>. Sagengesch. und lit.<lb break="no"/>hist. Unters. 1. Das Traummotiv.)<lb/> <hi rendition="#bold">Benini V.</hi> La memoria e la durata dei sogni. Rivista italiana di filosofia. März,<lb/> April 1898.<lb/> <hi rendition="#bold">Binz C.</hi> Über den Traum. Bonn 1878.<lb/> <hi rendition="#bold">Birkmaier Hieron.</hi> Licht im Finsternüß der nächtlichen Gesichte und Träume.<lb/> Nurnberg 1715.<lb/> <hi rendition="#bold">Bisland E.</hi> Dreams and their Mysteries. N. Ann. Rev., 1896, 152, p. 716-726.<lb/> <hi rendition="#bold">Börner J.</hi> Das Alpdrücken, seine Begründung und Verhütung. Würzburg 1855.<lb/> <hi rendition="#bold">Bradley J. H.</hi> On the failure of movement in dream. Mind, July 1894.<lb/> <hi rendition="#bold">Brander R.</hi> Der Schlaf und das Traumleben. Leipzig 1884.<lb/> <hi rendition="#bold">Bouché-Leclercq.</hi> Histoire de la divination dans l'antiquité. (T. I.) Paris 1879.<lb/> <hi rendition="#bold">Bremer L.</hi> Traum und Krankheiten. New York med. Monatschr. 1893, V, 281-286.<lb/> <hi rendition="#bold">Büchsenschütz B.</hi> Traum und Traumdeutung im Altertum. Berlin 1868.<lb/> <hi rendition="#bold">Burdach.</hi> Die Physiologie als Erfahrungswissenschaft, 3. Bd. 1830.<lb/> <hi rendition="#bold">Bussola Serafino.</hi> De somniis (Diss.). Ticini Reg. 1834.<lb/> <hi rendition="#bold">Caëtani-Lovatelli.</hi> I sogni e l'ipnotismo nel mondo antico. Nuova Antol. 1. Dez.<lb/> 1889.<lb/> <hi rendition="#bold">Calkins Mary Whiton.</hi> Statistics of dreams. Amer. J. of Psychology. V. 1893.<lb/> <hi rendition="#bold">Cane Francis E.</hi> The physiology of dreams.The Lancet, Dez. 1889.<lb/> <hi rendition="#bold">Cardanus Hieron.</hi> Synesiorum somniorum, omnis generis insomnia explicantes libri<lb/> IV. Basileae 1562. (2. Ausg. in Opera omnia Cardani vol. V, p. 593-727.<lb/> (Lugduni 1603.)<lb/> <hi rendition="#bold">Cariero Alessandro.</hi> De somniis deque divinatione per somnia. Patavii 1575.<lb/> <hi rendition="#bold">Carpenter.</hi> „Dreaming“ in Cyclop. of anat. and phys. IV. p. 687.<lb/> <hi rendition="#bold">Chabaneix.</hi> Le subconscient chez les artistes, les savants et les écrivains. Paris<lb/> 1897.<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__92bf90fb-48bd-4099-af4b-bd0d6847732a"/>
+            <fw type="pageNum">460</fw> <p><hi rendition="#bold">Chaslin Ph.</hi> Du rôle du rêve dans l'évolution du délire. Thèse de Paris, 1887.<lb/> <hi rendition="#bold">Clavière.</hi> La rapidité de la pensée dans le rêve. Revue philosophique XLIII. 1897.<lb/> <hi rendition="#bold">Coutts G. A.</hi> Night-terrors. Americ. J. of Med. Sc. 1896.<lb/> <hi rendition="#bold">D. L.</hi> A propos de l'appréciation du temps dans le rêve. Rev. philos. vol. 40, 1895.<lb/> p. 69-72.<lb/> <hi rendition="#bold">Dagonet.</hi> Du rêve et du délire alcoolique. Ann. méd.-psychol. 1889, série 7, t. X,<lb/> p. 193.<lb/> <hi rendition="#bold">Dandolo G.</hi> La coscienza nel sonno. Padova 1889.<lb/> <hi rendition="#bold">Davidson Wolf</hi>. Versuch über den Schlaf. 2. Aufl. Berlin 1799.<lb/> <hi rendition="#bold">Debacker.</hi> Terreurs nocturnes des enfants. Thèse de Paris. 1881.<lb/> <hi rendition="#bold">Dechambre.</hi> Cauchemar. Dict. encycl. de sc. méd.<lb/> <hi rendition="#bold">Delage Yves.</hi> Une théorie du rêve. Revue scientifique, 11. Juli 1891.<lb/> <hi rendition="#bold">Delboeuf J.</hi> Le sommeil es les rêves. Paris 1885.<lb/> <hi rendition="#bold">Dietrich Joh. Dav.</hi> An ea. quae hominibus in somno et somnio accidunt, iisdem<lb/> possint imputari? resp. Gava Vitembergae 1726.<lb/> <hi rendition="#bold">Dochmasa A. M.</hi> Dreams and their significance as forebodings of disease. Kazan<lb/> 1890.<lb/> <hi rendition="#bold">Dreher E.</hi> Sinneswahrnehmung und Traumbild. Reichs-med. Anzeiger, Leipzig<lb/> 1890, XV.<lb/> <hi rendition="#bold">Ducosté M.</hi> Les songes d'attaques epilepiques. 1899.<lb/> <hi rendition="#bold">Dugas.</hi> Le souvenir du rêve. Revue philosophique. XLIV. 1897.<lb/> — Le sommeil et la cérébration inconsciente durant le sommeil. Revue philo<lb break="no"/>sophique. XLIII. 1897.<lb/> <hi rendition="#bold">Du Prel Carl.</hi> Oneirokritikon; der Traum vom Standpunkte des transcend. Idealis<lb break="no"/>mus. Deutsche Vierteljahrschrift H. II. Stuttgart 1869.<lb/> — Psychologie der Lyrik. Leipzig 1880.<lb/> — Die Philosophie der Mystik. Leipzig 1887.<lb/> —Künstliche Träume. Monatsschrift „Sphinx“, Juli 1889<lb/> <hi rendition="#bold">Egger V.</hi> Le sommeil et la certitude, le sommeil et la mémoire. La Critique<lb/> philos. Mai 1888, I, p. 341-350.<lb/> — La durée apparente des rêves. Revue philosophique. Juli 1895.<lb/> — Le souvenir dans la rêve. Revue philosophique. XLVI. 1898.<lb/> <hi rendition="#bold">Ellis Havelock.</hi> On dreaming of the dead. The psychological Review. II, Nr. 5.<lb/> September 1895.<lb/> — The stuff that dreams are made of. Appleton's popular science monthly. April<lb/> 1899.<lb/> — A note on hypnagogic paramnesia. Mind, April 1897.<lb/> <hi rendition="#bold">Erdmann J. E.</hi> Psychologische Briefe, 6. Aufl. Leipzig 1848.<lb/> — Ernste Spiele (XII: Das Träumen). Vortr. 3. Aufl. Berlin 1875.<lb/> <hi rendition="#bold">Erk Vinz. v.</hi> Über den Unterschied von Traum und Wachen. Prag 1874.<lb/> <hi rendition="#bold">Escande de Messières.</hi> Les rêves chez les hystériques. Th. méd. Bordeaux 1895.<lb/> <hi rendition="#bold">Faure.</hi> Étude sur les rêves morbides. Rêves persistants. Arch. génér. de méd. 1876.<lb/> vol. I, p. 558.<lb/> <hi rendition="#bold">Fechner G. Th.</hi> Elemente der Psychophysik. 2. Aufl. 1889.<lb/> <hi rendition="#bold">Fenizia.</hi> L'azione suggestiva delle cause esterne nei sogni. Arch. per l'Anthrop.<lb/> XXVI.<lb/> <hi rendition="#bold">Féré Ch.</hi> A contribution to the pathology of dreams and of hysterical Paralysis.<lb/> Brain, Jan. 1887.<lb/> — Les rêves d'accès chez les épileptiques. La Med. mod. 8. Dez. 1897.<lb/> <hi rendition="#bold">Fichte J. H.</hi> Psychologie. Die Lehre vom bewußten Geiste des Menschen. I. Teil.<lb/> Leipzig 1864.<lb/> <hi rendition="#bold">Fischer Joh.</hi> Ad artis veterum onirocriticae historiam symbola. Diss. Jenae 1899.<lb/> <hi rendition="#bold">Florentin V.</hi> Das Traumleben. Plauderei. Die alte und die neue Welt, 1899,<lb/> 33. J., 725.<lb/> <hi rendition="#bold">Fornaschon H.</hi> Geschichte eines Traumes als Beitrag der transcendentalen Psycho<lb break="no"/>logie. Psychische Studien, 1897, S. 274-281.<lb/> <hi rendition="#bold">Freiligrath.</hi> Traumbuch (in der Biographie von Buchner).<lb/> <hi rendition="#bold">Frensberg.</hi> Schlaf und Traum. Samml. gemeinverst. wiss. Vortr. Virchow-Holtzen<lb break="no"/>dorf, Ser. XX, H. 466, Berlin 1885.<lb/> <hi rendition="#bold">Frerichs Joh. H.</hi> Der Mensch: Traum, Herz, Verstand. 2. Aufl. Norden 1878.<lb/> <hi rendition="#bold">Galenus.</hi> Von der Weissagung im Traume.<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__aa5a0ade-0685-4d30-a3c0-e05babed2ed2"/>
+            <fw type="pageNum">461</fw> <p><hi rendition="#bold">Gießler C. M.</hi> Beitrag zur Phänomenologie des Traumlebens. Halle 1888.<lb/> — Aus den Tiefen des Traumlebens. Halle 1890.<lb/> — Die physiologischen Beziehungen der Traumvorgänge. Halle 1896.<lb/> <hi rendition="#bold">Girgensohn L.</hi> Der Traum, psychol.-physiol. Versuch. S. A. 1845.<lb/> <hi rendition="#bold">GIeichen-Rußwurm A. v.</hi> Traum in der Dichtung. Nat.-Ztg. 1899, Nr. 553-559.<lb/> <hi rendition="#bold">Gley E.</hi> Appréciation du temps pendant le sommeil. L'intermédiaire des Biologistes,<lb/> 20. mars 1898, No. 10, p. 228.<lb/> <hi rendition="#bold">Goblot.</hi> Sur le souvenir des rêves. Revue philosophique. XLII. 1896.<lb/> <hi rendition="#bold">Gomperz Th.</hi> Traumdeutung und Zauberei, Vortrag. Wien 1866.<lb/> <hi rendition="#bold">Gorton D. A.</hi> Psychology of the Unconscious N. Y. Med. Times 1896, XXIV,<lb/> 33, 37.<lb/> <hi rendition="#bold">Gould.</hi> Dreams-Sleep-Consciousness. Open Court 1899.<lb/> <hi rendition="#bold">Grabener Gottl. Chr.</hi> Ex antiquitate iudaica de menûdim bachalôm sive excom<lb break="no"/>municatis per insomnia exerc. resp. Klebius. Vitembergae 1710.<lb/> <hi rendition="#bold">Graffunder.</hi> Traum und Traumdeutung. 1894.<lb/> <hi rendition="#bold">Greenwood.</hi> Imaginations in dreams and their study. London 1899.<lb/> <hi rendition="#bold">Griesinger.</hi> Pathologie und Therapie der psychischen Krankheiten. 3. Aufl. 1871.<lb/> <hi rendition="#bold">Grot Nicolaus.</hi> Die Träume, ein Gegenstand wissenschaftl. Analyse (russ.). Kiew<lb/> 1878.<lb/> <hi rendition="#bold">Guardia J. M.</hi> La personnalité dans les rêves. Rev. philos. Paris 1892, XXXIV,<lb/> 225-258.<lb/> <hi rendition="#bold">Gutfeldt J.</hi> Ein Traum. Psych. Studien, 1899, S. 491-494.<lb/> <hi rendition="#bold">Haffner P.</hi> Schlafen und Träumen. 1884. Frankfurter zeitgemäße Broschüren.<lb/> 5. Bd., Heft 10.<lb/> <hi rendition="#bold">Hallam Fl.</hi> und <hi rendition="#bold">Sarah Weed.</hi> A Study of the dream consciousness. Amer. J. of<lb/> Psychology. VII., Nr. 3. April 1896.<lb/> <hi rendition="#bold">Hampe Th.</hi> Über Hans Sachsens Traumgedichte. Zeitschrift für den deutschen<lb/> Unterricht, 10. Jahrg. 1896, p. 616 f.<lb/> <hi rendition="#bold">Heerwagen.</hi> Statist. Untersuch. über Träume u. Schlaf. Philos. Stud. V, 1888, p. 88.<lb/> <hi rendition="#bold">Hennings Justus Chr.</hi> Von Träumen und Nachtwandlern. Weimar 1802.<lb/> <hi rendition="#bold">Henzen Wilh.</hi> Über die Träume in der altnord. Sagaliteratur. Diss. Leipzig 1890.<lb/> <hi rendition="#bold">d'Hervey.</hi> Les rêves et les moyens de les diriger. Paris 1867, (anonym.)<lb/> <hi rendition="#bold">Hildebrandt F. W.</hi> Der Traum und seine Verwertung fürs Leben. Leipzig 1875.<lb/> <hi rendition="#bold">Hiller G.</hi> Traum. Ein Kapitel zu den zwölf Nächten. Leipz. Tagbl. und Anz. 1899,<lb/> Nr. 657, 1. Beil.<lb/> <hi rendition="#bold">Hippokrates.</hi> Buch über die Träume. (Sämtliche Werke übersetzt von Dr. Robert<lb/> Fuchs. München 1895-1900, Bd. I, p. 361-369.)<lb/> <hi rendition="#bold">Hitschmann F.</hi> Über das Traumleben der Blinden. Zeitschr. f. Psychol. VII,<lb/> 5-6, 1894.<lb/> <hi rendition="#bold">Jastrow.</hi> The dreams of the blind. New Princetown Rev. New York Jan. 1888.<lb/> <hi rendition="#bold">Ideler.</hi> Die Entstehung des Wahnsinns aus den Träumen. Charité Annalen, 1862,<lb/> III. Bd.<lb/> <hi rendition="#bold">Jean Paul.</hi> Blicke in die Traumwelt. Museum (1813) II (Werke hg. v. Hempel 44,<lb/> p. 128-152).<lb/> — Über Wahl- und Halbträume, ebenda, p. 142 f.<lb/> — Wahrheit aus seinem Leben, 2, p. 106-126.<lb/> <hi rendition="#bold">Jensen Julius.</hi> Traum und Denken. Berlin 1871. (Samml. gemeinverst. wiss. Vortr.<lb/> Virchow-Holtzendorf Ser. VI, H. 134.)<lb/> <hi rendition="#bold">Jessen.</hi> Versuch einer wissenschaftlichen Begründung der Psychologie. Berlin 1856.<lb/> <hi rendition="#bold">Jodl.</hi> Lehrbuch der Psychologie. Stuttgart 1896. (3. Aufl. 1908.)<lb/> <hi rendition="#bold">Kant J.</hi> Anthropologie in pragmatischer Hinsicht. Kirchmannsche Ausgabe. Leipzig<lb/> 1880.<lb/> <hi rendition="#bold">Kingsford A. B.</hi> Dreams and dream-stories ed. by Maitland. 2. éd. London 1888.<lb/> <hi rendition="#bold">Kloepfel F.</hi> Träumerei und Traum. Allerlei aus unserem Traumleben. Universum<lb/> 1899, 15. J., Sp. 2469-2484, 2607-2622.<lb/> <hi rendition="#bold">Kramář Oldřich.</hi> O spánku a snu. Prager Akad. Gymn. 1882.<lb/> <hi rendition="#bold">Krasnicki, E. v.</hi> Karls IV. Wahrtraum. Psych. Stud. 1897, p. 697.<lb/> <hi rendition="#bold">Krauß A.</hi> Der Sinn im Wahnsinn. Allgemeine Zeitschrift für Psychologie, XV,<lb/> und XVI. 1858-1859.<lb/> <hi rendition="#bold">Kučera Ed.</hi> Aus dem Traumleben. Mähr.-Weißkirchen, Gymn. 1895.<lb/> <hi rendition="#bold">Ladd.</hi> Contribution to the psychology of visual dreams. Mind, April 1892.<lb/> <hi rendition="#bold">Laistner Ludw.</hi> Das Rätsel der Sphinx. 2 Bände, Berlin 1889.<lb/> <hi rendition="#bold">Landau M.</hi> Aus dem Traumleben. Münchner Neueste Nachrichten, 9. Januar 1892.<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__ddeb2a53-386c-4549-bcad-9b6bd0c4fa5d"/>
+            <fw type="pageNum">462</fw> <p><hi rendition="#bold">Lasègue.</hi> Le délire alccolique n'est pas un délire, mais un rêve. Arch. gén. de<lb/> méd. 1881. (Réimp. in Etudes méd. t. II, p. 203-227, Paris, 7<hi rendition="#sub">e</hi> série, t. VI,<lb/> p. 513-536, 1884.)<lb/> <hi rendition="#bold">Laupts.</hi> Le fonctionnement cérébral pendant le rêve et pendant le sommeil hypno<lb break="no"/>tique. Annales méd-psychol. 1895.<lb/> <hi rendition="#bold">Leidesdorf M.</hi> Das Traumleben. Wien 1880. — Sammlung der „Alma Mater“.<lb/> <hi rendition="#bold">Le Lorrain.</hi> La durée du temps dans le rêves. Rev. philos. vol. 38, 1894,<lb/> p. 275-279.<lb/> — Le rêve. Revue philosophique. Juli 1895.<lb/> <hi rendition="#bold">Lélut.</hi> Mémoire sur le sommeil, les songes et le somnambulisme. Ann. méd.-psych.<lb/> 1852, t. IV.<lb/> <hi rendition="#bold">Lemoine.</hi> Du sommeil au point de vue physiologique et psychologique. Paris 1855.<lb/> <hi rendition="#bold">Lerch Math. Fr.</hi> Das Traumleben und seine Bedeutung. Gymn. Progr. Komotan<lb/> 1883/84.<lb/> <hi rendition="#bold">Liberali Francesco.</hi> Dei sogni. Diss. Padova 1834.<lb/> <hi rendition="#bold">Lièbeault A.</hi> Le sommeil provoqué et les états analogues. Paris 1889.<lb/> — A travers les états passifs, le sommeil et les rêves. Rev. de l'hypnot. etc. Paris<lb/> 1893, 4, VIII, 41, 65, 106.<lb/> <hi rendition="#bold">Lipps Th.</hi> Grundtatsachen des Seelenlebens. Bonn 1883.<lb/> <hi rendition="#bold">Luksch L.</hi> Wunderbare Traumerfüllung als Inhalt des wirkl. Lebens. Leipzig 1894.<lb/> <hi rendition="#bold">Macario.</hi> Du sommeil, des rêves et du somnambulisme dans l'etat de santé et dans<lb/> l'état de maladie. Ann. méd.-psychol. 1858, t. IV, V.<lb/> — Des rêves considérés sous le rapport physiologique et pathologique. ibid. 1846,<lb/> t. VIII.<lb/> — Des rêves morbides. Gaz. méd. de Paris, 1889, Nr. 8.<lb/> <hi rendition="#bold">Macfarlane A. W.</hi> Dreaming. The Edinb. Med. J. 1890, t. 36.<lb/> <hi rendition="#bold">Maine de Biran.</hi> Nouvelles considérations sur le sommeil, les songes et le somnam<lb break="no"/>bulisme (Ed. Cousin) 1792.<lb/> <hi rendition="#bold">Manaceine Marie de.</hi> Le sommeil, tiers de notre vie. Paris 1896.<lb/> — Sleep; its Physiology, Pathology and Psychology. London 1897.<lb/> <hi rendition="#bold">Maudsley.</hi> The Pathology of Mind. 1879.<lb/> <hi rendition="#bold">Maury A.</hi> Analogies des phénomènes du rêve et de l'aliènation mentale. Annales<lb/> méd. psych. 1853, V, VI.<lb/> — De certains faits observés dans les rêves. Ann. méd.-psychol. 1857, t. III.<lb/> — Le sommeil et les rêves. Paris 1878.<lb/> <hi rendition="#bold">Meisel (pseud.).</hi> Natürlich-göttliche und teuflische Träume. Sieghartstein 1783.<lb/> <hi rendition="#bold">Melinaud.</hi> Dream and Reality, Pop. Sc. Mo. Vol. LIV, p. 96-103.<lb/> <hi rendition="#bold">Melzentin C.</hi> Über wissenschaftliche Traumdeutung. Die Gegenwart 1899, Nr. 50.<lb/> <hi rendition="#bold">Mentz Rich.</hi> Die Träume in den altfranzösischen Karls- und Artus-Epen. Marburg<lb/> 1888. (Ausg. u. Abh. aus d. Geb. d. roman. Phil., Bd. 73.)<lb/> <hi rendition="#bold">Monroe W. S.</hi> A study of taste-dreams. Am. J. of Psychol. Jan. 1899.<lb/> <hi rendition="#bold">Moreau de la Sarthe.</hi> Art. „Rêve“ Dict. des sc. méd. t. 48. Paris 1820.<lb/> <hi rendition="#bold">Moreau J.</hi> De l'identité de l'état de rêve et de folie. Annales méd. psych. 1855,<lb/> p. 261.<lb/> <hi rendition="#bold">Morselli A.</hi> Dei sogni nei Genii. La Cultura 1899.<lb/> <hi rendition="#bold">Motet.</hi> Cauchemar. Dict. de méd. et de chir. pratiques.<lb/> <hi rendition="#bold">Murry J. C.</hi> Do we ever dream of tasting? Proc. of the Americ. Psychol. 1894, 20.<lb/> <hi rendition="#bold">Nagele Anton.</hi> Der Traum in der epischen Dichtung. Programm der Realschule<lb/> in Marburg 1889.<lb/> <hi rendition="#bold">Nelson J.</hi> A study of dreams. Amer. J. of Psychology. I, 1888.<lb/> <hi rendition="#bold">Newbold W. R.</hi> Sub-conscious reasoning. Proc. Soc. Ps. Res. 1896, XII, 11-20.<lb/> — Über Traumleistungen. Psychol. Rev. March 1896, p. 132.<lb/> <hi rendition="#bold">Passavanti Jac.</hi> Libro dei sogni. Ausg. d. Bibl. diamante. Rom 1891.<lb/> <hi rendition="#bold">Paulhan.</hi> L'activité mentale et les éléments de l'esprit. Paris 1889.<lb/> — A propos de l'activité de l'esprit dans le rêve. Rev. philos. vol. 38, 1894,<lb/> p. 546-548.<lb/> <hi rendition="#bold">Pfaff E. R.</hi> Das Traumleben und seine Deutung nach den Prinzipien der Araber,<lb/> Perser, Griechen, Indier und Ägypter. Leipzig 1868.<lb/> <hi rendition="#bold">Pichon.</hi> Contribution à l'étude de délires oniriques ou délires de rêve. Thèse de<lb/> Bordeaux 1896.<lb/> <hi rendition="#bold">Pick A.</hi> Über pathologische Träumerei und ihre Beziehungen zur Hysterie. Jahr<lb break="no"/>buch für Psychiatrie 1896.<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__f1ed28e7-670e-4dac-923f-1d26a0448c80"/>
+            <fw type="pageNum">463</fw> <p><hi rendition="#bold">Pilez.</hi> Über eine gewisse Gesetzmäßigkeit in den Träumen. Autoreferat in Monats<lb break="no"/>schrift für Psychologie und Neurologie. März 1899.<lb/> <hi rendition="#bold">Prévost.</hi> Quelques observations psychologiques sur le sommeil. Bibl. univ. des sc.,<lb/> belles-lettres et arts 1834, t. I. Littérature, p. 225-248.<lb/> <hi rendition="#bold">Purkinje.</hi> Artikel: Wachen, Schlaf, Traum und verwandte Zustände in Wagners<lb/> Handwörterbuch der Physiologie. 1846.<lb/> <hi rendition="#bold">Radestock P.</hi> Schlaf und Traum. Leipzig 1878.<lb/> <hi rendition="#bold">Ramm Konrad.</hi> Diss. pertractans somnia. Viennae 1889.<lb/> <hi rendition="#bold">Régis.</hi> Les rêves Bordeaux. La Gironde (Variétés) du mai 31, 1890.<lb/> — Des hallucinations oniriques des dégénérés mystiques; C. R. du Congrès des méd.<lb/> aliénistes etc. 5. Sitzung 1894. Paris 1895, p. 260.<lb/> <hi rendition="#bold">Rêves</hi> et l'hypnotisme. Le Monde, Août 25, 1890.<lb/> <hi rendition="#bold">Richard Jérôme.</hi> La theorie des songes. Paris 1766.<lb/> <hi rendition="#bold">Richardson B. W.</hi> The physiology of dreams. The Asclep. London 1892, IX,<lb/> 129, 160.<lb/> <hi rendition="#bold">Robert W.</hi> Der Traum als Naturnotwendigkeit erklärt. Hamburg 1886.<lb/> <hi rendition="#bold">Richier.</hi> Onéirologie ou dissertation sur les songes considérés dans l'état de ma<lb break="no"/>ladie. Thèse de Paris 1816.<lb/> <hi rendition="#bold">Robinson L.</hi> What dreams are made of. N. Americ. Rev. New York 1893, CI, VII,<lb/> 687-697.<lb/> <hi rendition="#bold">Rousset.</hi> Contribution à l'étude du cauchemar. Thèse de Paris 1876.<lb/> <hi rendition="#bold">Roux J.</hi> Les rêves et les délires oniriques. Province méd. 1898, p. 212.<lb/> <hi rendition="#bold">Ryff Walther Herm.</hi> Traumbüchlein. Straßburg 1554.<lb/> <hi rendition="#bold">Sante de Sanctis.</hi> Emozione e sogni. 1896.<lb/> — I sogni nei delinquenti. Arch. di psichiatr. e antrop. criminale. Turin 1896,<lb/> XVII, 488-498.<lb/> — I sogni e il sonno nell'isterismo e nella epilessia. Roma 1896.<lb/> — Les maladies mentales et les rêves. 1897. — Extrait des Annales de la Société<lb/> de médecine de Gand.<lb/> — Sui rapporti d'identià, di somiglianza, di analogia e di equivalenza fra sogno<lb/> e pazzia. Rivista quindicinale di Psicologia, Psichiatria, Neuropatologia.<lb/> 15. Nov. 1897.<lb/> — I sogni dei neuropatici e dei pazzi. Arch. di psichiatr. e antrop. crim. 1898,<lb/> 4. Heft (daselbst weitere Lit.).<lb/> — Psychoses et rêves. Rapport au Congrès de neurol. et d'hypnologie de Bruxelles<lb/> 1898. Comptes rendus. H. 1, p. 137.<lb/> — I Sogni. Torino 1899 (deutsch von O. Schmidt, Halle 1901).<lb/> <hi rendition="#bold">Santel Anton.</hi> Poskus raz kladbe nekterih pomentjivih prikazni spanja in sanj.<lb/> Progr. Gym. Görz 1874.<lb/> <hi rendition="#bold">Sarlo F. de.</hi> I sogni. Saggio psicologico. Napoli 1887.<lb/> <hi rendition="#bold">Sch. Fr.</hi> Etwas über Träume. Psych. Studien, 1897, 686-694.<lb/> <hi rendition="#bold">Scherner R. A.</hi> Das Leben des Traumes. Berlin 1861.<lb/> <hi rendition="#bold">Schleich K. L.</hi> Traum und Schlaf. Die Zukunft, 1899, 29. Bd., 14-27, 54-65.<lb/> <hi rendition="#bold">Schleiermacher Fr.</hi> Psychologie, herausgegeben von L. George. Berlin 1862.<lb/> <hi rendition="#bold">Scholz Fr.</hi> Schlaf und Traum. Leipzig 1887.<lb/> <hi rendition="#bold">Schopenhauer.</hi> Versuch über das Geistersehen und was damit zusammenhängt.<lb/> Parerga und Paralipomena, I. Bd., 1857.<lb/> <hi rendition="#bold">Schubert Gotthilf Heinrich.</hi> Die Symbolik des Traumes. Bamberg 1814.<lb/> <hi rendition="#bold">Schwartzkopff P.</hi> Das Leben im Traum. Eine Studie. Leipzig 1887.<lb/> <hi rendition="#bold">Science</hi> of dreams. The Lyceum. Dublin. oct. 1890, p. 28.<lb/> <hi rendition="#bold">Siebek A.</hi> Das Traumleben der Seele 1877, — Sammlung Virchow-Holtzendorf.<lb/> Nr. 279.<lb/> <hi rendition="#bold">Simon M.</hi> Le monde des rêves. Paris 1888. — Bibliothèque scientifique contem<lb break="no"/>poraine.<lb/> <hi rendition="#bold">Spitta W.</hi> Die Schlaf- und Traumzustände der menschlichen Seele. 2. Aufl. Frei<lb break="no"/>burg i. B. 1892.<lb/> <hi rendition="#bold">Stevenson R. L.</hi> A Chapter on Dreams (in „Across. the Plain“). 1892.<lb/> <hi rendition="#bold">Stricker.</hi> Studien über das Bewußtsein. Wien 1879.<lb/> — Studien über die Assoziation der Vorstellungen. Wien 1883.<lb/> <hi rendition="#bold">Strümpell L.</hi> Die Natur und Entstehung der Träume. Leipzig 1877.<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__f67bcdb2-384f-4761-b90a-cd4867edb3a6"/>
+            <fw type="pageNum">464</fw> <p><hi rendition="#bold">Stryk M. v.</hi> Der Traum und die Wirklichkeit (nach C. Mélinaud). Baltische Mo<lb break="no"/>natsschrift. Riga 1899, p. 189-210.<lb/> <hi rendition="#bold">Stumpf E. J. G.</hi> Der Traum und seine Deutung. Leipzig 1899.<lb/> <hi rendition="#bold">Sully J.</hi> Etude sur les rêves. Rev. scientif. 1882, p. 385.<lb/> — Les illusions des sens et de l'esprit. Bibl. scientif. internat. vol 62. Paris.<lb/> (Deutsch: Die Illusionen, eine psychol. Unters. Leipzig 1884.)<lb/> — Human Mind. London 1892.<lb/> — The dreams as a revelation. Fortnightly Rev. März 1893.<lb/> — Laws of dream fancy. Cornhill Mag. Vol. L, p. 540.<lb/> — Art. „Dreams“ in Encyclop. Brit. IX. Aufl.<lb/> <hi rendition="#bold">Summers T. O.</hi> The physiology of dreaming. Saint-Louis, clin. 1895, VIII, 401-406.<lb/> <hi rendition="#bold">Surbled.</hi> Le rêve. 2. éd. 1898.<lb/> — Origine des rêves. Rev. de quest. scient. 1895.<lb/> <hi rendition="#bold">Synesius.</hi> Oneiromantik (deutsch von Krauß). Wien 1888.<lb/> <hi rendition="#bold">Tannery M. P.</hi> Sur l'activité de l'esprit dans le rêve. Rev. philos. 19<hi rendition="#sub">e</hi> année, t.<lb/> XXXVIII, p. 630-634, 1894.<lb/> — Sur les rêves des mathématiciens. Rev. philos. 1898, I, p. 639.<lb/> — Sur la paramnésie dans les rêves. Rev. philos. 1898.<lb/> — Sur la mémoire dans le rêve. Revue philosophique. XLV. 1898.<lb/> <hi rendition="#bold">Thièry A.</hi> Aristote et Psychologie physiologique du rêve. Rev. nev. scol. 1896,<lb/> III, 260-271.<lb/> <hi rendition="#bold">Thomayer S.</hi> Sur la signification de quelques rêves. Rev. neurol. Nr. 4, 1897.<lb/> — Beitr. zur Pathologie der Träume (tschechisch). Poliklinik der tschechischen<lb/> Universität in Prag 1897.<lb/> <hi rendition="#bold">Tissié Ph.</hi> Les rêves; rêves pathogenes et thérapeutiques; rêves photographiés.<lb/> Journ. de méd. de Bordeaux 1896, XXVI.<lb/> — Les rêves, physiologie et pathologie. 1898. — Bibliothèque de philosophie<lb/> contemporaine.<lb/> <hi rendition="#bold">Titchener.</hi> Taste dreams. Amer. J. of Psychology. VI. 1893.<lb/> <hi rendition="#bold">Tonnini.</hi> Suggestione e sogni. Arch. di psichiatr. antrop. crim. III, 1887.<lb/> <hi rendition="#bold">Tonsor J. Heinrich.</hi> Disp. de vigilia, somno et somniis, prop. Lucas. Marpurgi 1627.<lb/> <hi rendition="#bold">„Traum“</hi>, Artikel in der allgemeinen Enzyklopädie der Wissenschaft und Künste<lb/> von Ersch und Gruber.<lb/> <hi rendition="#bold">Traumbuch.</hi> Apomasaris . . . auss griechischer Sprach ins Latein bracht durch<lb/> Lewenklaw jetzt und . . . verteutschet. Wittemberg.<lb/> <hi rendition="#bold">Tuke Hack.</hi> „Dreaming“ in Dict. of Psycholog. Med. 1892.<lb/> <hi rendition="#bold">Ullrich M. W.</hi> Der Schlaf und das Traumleben, Geisteskraft und Geistesschwäche.<lb/> 3. Aufl. Berlin 1897.<lb/> <hi rendition="#bold">Unger F.</hi> Die Magie des Traumes als Unsterblichkeitsbeweis. Nebst Vorw.: Okkul<lb break="no"/>tismus und Sozialismus von C. du Prel. 2. Aufl. Münster 1898.<lb/> <hi rendition="#bold">Utility</hi> of dreams. Edit. J. Comp. Neurol. Granville 1893, III, 17-34.<lb/> <hi rendition="#bold">Vaschide.</hi> Recherches experim. sur les rêves. Comptes rendus de l'acad. des<lb/> sciences 17. Juillet 1899.<lb/> <hi rendition="#bold">Vespa B.</hi> I sogni nei neuro-psicopatici. Bull. Soc. Lancisiana. Roma 1897.<lb/> <hi rendition="#bold">Vignoli.</hi> Von den Träumen, Illusionen und Halluzinationen. Internationale wissen<lb break="no"/>schaftliche Bibliothek, Bd. 47.<lb/> <hi rendition="#bold">Vischer F. Th.</hi> Studien über den Traum. Beilage z. allg. Ztg. 1876, Nr. 105-107.<lb/> <hi rendition="#bold">Vold J. Mourly.</hi> Einige Experimente über Gesichtsbilder im Traume. Dritter inter<lb break="no"/>nationaler Kongreß für Psychologie in München. 1897. Zeitschr. für Psycho<lb break="no"/>logie und Physiologie der Sinnesorgane. XIII, 66-74.<lb/> — Expériences sur les rêves et en particulier sur ceux d'origine musculaire et<lb/> optique. Christiania 1896. — Referat in Revue philosophique. XLII. 1896.<lb/> <hi rendition="#bold">Vykoukal F. V.</hi> Über Träume und Traumdeutungen (tschechisch). Prag 1898.<lb/> <hi rendition="#bold">Wedel R.</hi> Untersuchungen ausländischer Gelehrter über gew. Traumphänomene.<lb/> Beiträge zur Grenzwissenschaft. 1899. S. 24-77.<lb/> <hi rendition="#bold">Weed, Hallam and Phinney.</hi> A study of the dream-consciouness. Americ. J. of<lb/> Psychol. vol. VII, 1895, p. 405-411.<lb/> <hi rendition="#bold">Wehr Hans.</hi> Das Unbewußte im menschlichen Denken. Programm der Oberreal<lb break="no"/>schule zu Klagenfurt 1887.<lb/> <hi rendition="#bold">Weil Alex.</hi> La philosophie du rêve. Paris.<lb/> <hi rendition="#bold">Wendt K.</hi> Kriemhilds Traum. Diss. Rostock 1858.<lb/> <hi rendition="#bold">Weygandt W.</hi> Entstehung der Träume. Leipzig 1893.<lb/> <hi rendition="#bold">Wilks S.</hi> On the nature of dreams. Med. Mag. Lond. 1893/94, II, 597-606.<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__1391e641-61e4-4e04-ba3e-4e36c3b3c404"/>
+            <fw type="pageNum">465</fw> <p><hi rendition="#bold">Williams H. S.</hi> The dreams state and its psychic correlatives. Americ. J. of<lb/> Insanity 1891/92, vol. 17, 445-457.<lb/> <hi rendition="#bold">Woodworth.</hi> Note on the rapidity of dreams. Psychol. Review IV, 1897, Nr. 5.<lb/> <hi rendition="#bold">Wundt.</hi> Grundzüge der physiologischen Psychologie. II. Bd., 2. Aufl. 1880.<lb/> <hi rendition="#bold">X.</hi> Ce qu'on peut rêver en cinq secondes. Rev. sc. 3<hi rendition="#sub">e</hi> sèrie, I. XII, 30. oct. 1886.<lb/> <hi rendition="#bold">Zucarrelli.</hi> Pollutions nocturnes et épilepsie. Bull. de la Soc. de méd. ment. de<lb/> Belgique, mars 1895.<lb break="paragraph"/></p> <p><hi rendition="#bold">Nachtrag</hi> (z. 1. Aufl.).<lb break="paragraph"/></p> <p>Erst während der Korrektur der letzten Bogen im September 1899 erhielt<lb/> ich Kenntnis von einer kleinen Schrift „Induktive Untersuchungen über die Funda<lb break="no"/>mentalgesetze der psychischen Phänomene“ von Dr. Ch. <hi rendition="#smallcaps">Ruths</hi>, 1898, welche eine<lb/> größere Arbeit über die Analyse der Träume ankündigt. Nach den vom Autor<lb/> gegebenen Andeutungen darf ich erwarten, daß seine Resultate in manchen<lb/> Punkten mit den meinigen zusammentreffen.<lb break="paragraph"/></p> <p>(Ich habe von dem Erscheinen der so angekündigten Arbeit nichts ver<lb break="no"/>nommen.)<lb break="paragraph"/></p> <p><hi rendition="#em">B</hi>. <hi rendition="#smallcaps">Nach Erscheinen des Buches</hi> (bis Ende 1913):<lb break="paragraph"/></p> <p>(Die mit * bezeichneten Arbeiten nehmen Bezug auf des Verfassers „Traum<lb break="no"/>deutung“.)<lb break="paragraph"/></p> <p>* <hi rendition="#bold">Abraham Karl.</hi> Traum und Mythos. Eine Studie zur Völkerpsychologie. Schriften<lb/> zur angew. Seelenkunde, Heft 4, Wien und Leipzig 1909.<lb/> *— Über hysterische Traumzustände. Jahrbuch f. psychoanalyt. und psychopathol.<lb/> Forschungen. Bd. II. 1910.<lb/> *— Sollen wir die Pat. ihre Träume aufschreiben lassen? Intern. Zeitschr. für<lb/> ärztl. Ps.-A. I, 1913, p. 194.<lb/> <hi rendition="#bold">Ackerknecht E.</hi> Zur Konzentrationsfähigkeit des Träumenden. Zeitschrift für<lb/> Psycholog. 41. Bd. 1. Abt. 1905, p. 423.<lb/> * <hi rendition="#bold">Adler Alfred.</hi> Zwei Träume einer Prostituierten. Zeitschrift f. Sexualwissenschaft,<lb/> 1908, Nr. 2.<lb/> *— Ein erlogener Traum. Zentralbl. f. Psychoanalyse, I. Jahrg. 1910, Heft 3.<lb/> *— Traum und Traumdeutung. Ebenda, III, 1912/13, p. 174.<lb/> <hi rendition="#bold">Aliotta A.</hi> Il pensiero e la personalità nei sogni. Ricerche di Psicol. 1905.<lb/> <hi rendition="#bold">Amram Nathan.</hi> Sepher pithrôn chalômôth. Jerusalem 1901.<lb/> <hi rendition="#bold">Anderson E.</hi> Stèle du Songe. Sphinx T. 16, p. 81-90.<lb/> <hi rendition="#bold">Arno.</hi> Traumvisionen. Lorch 1909.<lb/> <hi rendition="#bold">Arnold Heinr. Max.</hi> Die Verwendung des Traummotivs in der engl. Dichtung.<lb/> Diss. Kiel 1912.<lb/> <hi rendition="#bold">Aschaffenburg.</hi> Der Schlaf im Kindesalter und seine Störungen. Wissen f. Alle.<lb/> 6. J. 1909, p. 260-280.<lb/> <hi rendition="#bold">Auwand O.</hi> Der Traum im Drama. National-Ztg., Sonntagsbeil. Nr. 3, 1903.<lb/> <hi rendition="#bold">Baake E. Wilh.</hi> Die Verwendung des Traummotivs in der engl. Dichtung bis<lb/> auf Chaucer. Diss. Halle 1906.<lb/> <hi rendition="#bold">Bailey T. P.</hi> Snap Shot of a Dream Drama. Journ. of Phil., Psychol. and Sc.<lb/> Methods 3, 1906, p. 708-712.<lb/> <hi rendition="#bold">Banchieri F.</hi> I sogni dei bambini di cinque anni. Riv. di psicol. 8, 325-330.<lb/> <hi rendition="#bold">Beaunis H.</hi> Contribution à la Psychologie du Rêve. Americ. J. of Psychol. vol.<lb/> XIV. Nr. 3-4, July-Oct. 1903.<lb/> <hi rendition="#bold">Becker W. H.</hi> Mod. Traumdeuterei. Allg. Med. Zentralzeitg. 80. Jahr. 1911, p. 54.<lb/> <hi rendition="#bold">Behr A.</hi> Natürl. Schlaf und pathol. Traumzustände. Baltische Monatsschr., Riga<lb/> 1902, 53. Bd., 160-185.<lb/> <hi rendition="#bold">Bergson H.</hi> Le rêve. Rev. scientif. 1901, p. 705-713.<lb/> — Le rêve. Bull. de l'Institut psychol. intern. I année 1901, p. 113.<lb/> <hi rendition="#bold">Bernard-Leroy E.</hi> Sur l'inversion du temps dans le rêve. Rev. phil. 69, 1910,<lb/> p. 65-69.<lb/> <hi rendition="#bold">Birnbaum M.</hi> Traum d. Kranken. Die Krankenpflege, 1911, S. 215.<lb/> * <hi rendition="#bold">Bleuler E.</hi> Die Psychoanalyse Freuds. Jahrb. f. psychoanalyt. u. psychopatholog.<lb/> Forschungen, Bd. II. 1910.<lb/> *— Träume mit auf der Hand liegender Deutung. Münch. Med. Woch. 60. Jahrg.<lb/> Nr. 47, 11. Nov. 1913.<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__94d74133-3ffe-46c7-8474-f93f6fc0b261"/>
+            <fw type="pageNum">466</fw> <p>* <hi rendition="#bold">Bloch Ernst.</hi> Beitrag zu den Träumen nach Coitus interruptus. Zentralbl. für<lb/> Ps.-A. II, 1911/12, p. 276.<lb/> <hi rendition="#bold">Bonus A.</hi> Traum und Kunst. Kunstwart, 19. Jahrg. Nov. 1906, p. 177-191.<lb/> <hi rendition="#bold">Bovet P. et Jaccard H.</hi> Exemples de travail utile pendant le rêve. Arch. de<lb/> Psychol. 4, 1905, 369-371.<lb/> * <hi rendition="#bold">Brewster E. T.</hi> Dreams and Forgetting. New discoveries in dream psychology.<lb/> Mc. Clure's Magazin, Okt. 1912.<lb/> * <hi rendition="#bold">Brill A. A.</hi> Dreams and their Relation to the Neurosis. New York Medical Journ.,<lb/> April 23, 1910.<lb/> *— Psychoanalysis, its theory and practical application. Philadelphia and New<lb/> York 1912.<lb/> *— Hysterical dreamy states. New York Med. Journ., May. 25, 1912.<lb/> * <hi rendition="#bold">Brown W.</hi> Dreams, the latest views of science. Strand Magaz. Jan. 1913. (Vgl.<lb/> auch Dez. 1913.)<lb/> *— Freud's Theory of Dreams. The Lancet 19. u. 26. April 1913.<lb/> * <hi rendition="#bold">Bruce A. H.</hi> The marvels of dream analysis. Mc. Clure's Magaz. Nov. 1912.<lb/> * <hi rendition="#bold">Buchner Eberhard.</hi> Traum und Traumdeutung. Frankf. Ztg. 30. I. 1910.<lb/> *— Traum und Traumdeutung. Neue metaph. Rdsch. XX, 2/3, 1913.<lb/> * <hi rendition="#bold">Burckhard M.</hi> Ein modernes Traumbuch. Die Zeit, 1900, Nr. 275, 276.<lb/> <hi rendition="#bold">Busemann A.</hi> Traumleben der Schulkinder. Ztschr. f. päd. Psychol. 10. J. 1909,<lb/> 294-301.<lb/> — Psychol. d. kindl. Traumerlebnisse. Zeitschr. f. päd. Psychol. 1910, XI, p. 320.<lb/> <hi rendition="#bold">Chinard Gilbert.</hi> L'amerique et le rêve exotique dans la litt. franç. aux XVII.<lb/> et XVIII. s. Paris 1913.<lb/> <hi rendition="#bold">Claparède E.</hi> Esquisse d'une théorie biologique du sommeil. Arch. de Psychol.<lb/> t. IV, Nr. 15-16, Fev.-Mars 1905.<lb/> — Rêve utile. Arch. de Psychol. 9, 1910, 148.<lb/> * <hi rendition="#bold">Comb Mc. Sam.</hi> The new Interpretation of Dreams. Century Mag. 84, 663-669.<lb/> London 1912, Sept.<lb/> * <hi rendition="#bold">Coriat J.</hi> Zwei sexual-symbolische Beispiele von Zahnarzt-Träumen. Zentralbl. f.<lb/> Ps.-A. III, 1912/13, p. 440.<lb/> <hi rendition="#bold">Corona Augusto.</hi> Sonno e sogni. Parma 1900.<lb/> <hi rendition="#bold">Czepa A.</hi> Schlaf und Traum. Natur und Offenbarung, 1907, p. 595-613.<lb/> * <hi rendition="#bold">David J. J.</hi> Die Traumdeutung. Die Nation, 1900, Nr. 17.<lb/> * <hi rendition="#bold">Delacroix.</hi> Sur la structure logique du rêve. Rev. metaphys. Nov. 1904.<lb/> — Note sur la cohérence des rêves. Rapp. et C. R. du 2. Congrès intern. de<lb/> Philos. 556-560.<lb/> <hi rendition="#bold">Delage.</hi> La nature des images hypnagogiques et le rôle des lueurs entoptiques<lb/> dans le rêve. Bull. de l'Instit. général psychol. 1903, p. 235-247.<lb/> * <hi rendition="#bold">Dercum F. X.</hi> The rôle of dreams in etiology. J. Am. Med. Assoc., Chicago, 13.<lb/> May 1911, p. 1373.<lb/> <hi rendition="#bold">Diepgen Paul.</hi> Traum und Traumdeutung als mediz.-wissensch. Problem im Mittel<lb break="no"/>alter. Berlin 1912.<lb/> <hi rendition="#bold">Doglia S. et Banchieri F.</hi> I sogni dei bambini di tre anni. L'inizio dell' attività<lb/> onirica. Contributi psicol. 1, 9.<lb/> <hi rendition="#bold">Drewitt J. A. J.</hi> On the Distinction between Waking and Dreaming. Mind. 20,<lb/> 1911, 67-73.<lb/> <hi rendition="#bold">Drews A.</hi> Das ästhetische Verhalten und der Traum. Preuß. Jb. 1901/02, 104. B.,<lb/> p. 385-401.<lb/> <hi rendition="#bold">Drexl Fr. X.</hi> Achmets Traumbuch. Einl. und Probe eines krit. Textes. Münchner<lb/> Diss. Freising 1909.<lb/> <hi rendition="#bold">Dromard Gabriel.</hi> Le rêve et l'action. Paris 1913. (Bibl. de Philos. scient. vol. 91.)<lb/> <hi rendition="#bold">Dumas G.</hi> Comment on gouverne les rêves. Rev. de Paris, 22, 1909, 344-367.<lb/> <hi rendition="#bold">Duprat E.</hi> La memoire des rêves chez les enfants. Revue de Psychiatrie. IX,<lb/> Nr. 7, 4. série, Juillet 1905.<lb/> — Le rêve et la pensée conceptuelle. Rev. philos. T. 72, 1911, 285-289.<lb/> * <hi rendition="#bold">Edelsheim Th.</hi> Moderne französische Traumtheorien. Zentralbl. f. Ps.-A. III,<lb/> 1912/13, p. 558-562.<lb/> * <hi rendition="#bold">Eder M. D.</hi> <hi rendition="#smallcaps">Freud</hi>'s Theory of Dreams. Transactions of the Psycho-Medic. Soc.<lb/> London, vol. III, Part. 3, 1912.<lb/> *— Augenträume. Internat. Ztschr. f. ärztl. Ps.-A. I, 1913, p. 157.<lb/> * <hi rendition="#bold">Eeden Frederik van.</hi> A study of dreams. Proceedings of the Society for Psych.<lb/> Research, Part. LXVII, vol. XXVI.<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__4865d8d5-5eee-4733-b4d7-5bab10635d41"/>
+            <fw type="pageNum">467</fw> <p><hi rendition="#bold">Ellis H.</hi> The Logic of Dreams. Contemp. Rev. 98, 1910, 353-359.<lb/> *— The Symbolism of Dreams. The Popular Science Monthly, July 1910.<lb/> *— Symbolismen in den Träumen. Zeitschr. f. Psychotherapie III, 1911, p. 29-46.<lb/> *— The World of Dreams. London 1911. (Deutsch v. H. Kurella. Würzburg 1911.)<lb/> *— The Relation of Erotic Dreams to Vesical Dreams. Journ. of abn. Psychol.<lb/> VIII, 3, August-Sept. 1913.<lb/> <hi rendition="#bold">Fabri T.</hi> Das Traumleben als Erzieher. Die Woche, 1905, Nr. 4.<lb/> * <hi rendition="#bold">Federn Paul.</hi> Ein Fall von pavor nocturnus mit subjektiven Lichterscheinungen.<lb/> Internat. Zeitschr. f. ärztl. Ps.-A. I, 1913, H. 6.<lb/> <hi rendition="#bold">Feerhow F.</hi> Traum, Tod und Wahnsinn. Eine vergl. psych. Studie. Leipzig 1911.<lb/> * <hi rendition="#bold">Ferenczi S.</hi> Die psychologische Analyse der Träume. Psychiatrisch-Neurologische<lb/> Wochenschrift, XII. Jahrg., Nr. 11-13, Juni 1910. (Ins Englische übersetzt<lb/> unter dem Titel: The psychological Analysis of Dreams in The American<lb/> Journal of Psychology, April 1910.)<lb/> *— Symbolische Darstellung des Lust- und Realitätsprinzips im Ödipus-Mythos.<lb/> Imago, I, 1912, p. 276.<lb/> *— Über lenkbare Träume. Zentralbl. f. Ps.-A. II, 1911/12, p. 31.<lb/> <hi rendition="#bold">Ferrero G.</hi> Les lois psychologiques du symbolisme. Paris 1905.<lb/> <hi rendition="#bold">Fischer A.</hi> Schlaf und Traum. Natur und Offenbarung, 1903, p. 269-290.<lb/> * <hi rendition="#bold">Fischer Ottokar.</hi> Die Träume des grünen Heinrich. Prager deutsche Studien, hg.<lb/> von Kraus und Sauer, Heft 9, Prag 1908.<lb/> <hi rendition="#bold">Flournoy.</hi> Note sur un songe prophétique réalisé. Arch. de psychol. IV, 1904, p. 64.<lb/> <hi rendition="#bold">Förster M.</hi> Das lat.-altengl. Traumbuch. Arch. f. d. Stud. d. n. Spr. u. Lit.<lb/> 120. Bd. p. 43 ff., 125. Bd. p. 39-70, 127. Bd. p. 1 ff.<lb/> — Mittelenglische Traumbücher. Herrings Archiv 1911.<lb/> * <hi rendition="#bold">Foucault Marcel.</hi> Le rêve. Études et observations. Paris 1906. (Bibl. de Philosophie<lb/> contemporaine.)<lb/> <hi rendition="#bold">Frank.</hi> Kritik des Träumens und der Träumerei über das Wachen. Das Wort,<lb/> 1901, p. 47-57, 86-90, 121-26.<lb/> * <hi rendition="#bold">Freud Sigm.</hi> Über den Traum. Grenzfragen des Nerven- und Seelenlebens, herausg.<lb/> von Löwenfeld und Kurella, Heft 8. Wiesbaden 1901, 2. Aufl. 1911. (<hi rendition="#smallcaps">Eng<lb break="no"/>lisch</hi> „On Dreams“ author. trans. by M. D. <hi rendition="#smallcaps">Eder</hi>, with an introduction<lb/> by W. Leslie <hi rendition="#smallcaps">Mackenzie</hi>. London, Heinemann 1913; Holländisch von<lb/> Dr. J. <hi rendition="#smallcaps">Stärcke</hi>, Leiden, van Doesburgh, 1913.)<lb/> *— Bruchstück einer Hysterieanalyse. Monatsschr. f. Psychiatrie und Neurologie,<lb/> Bd. 18, Heft 4 und 5, 1905. Abgedruckt in: Sammlung kleiner Schriften zur<lb/> Neurosenlehre, 2. Folge, Leipzig und Wien 1909, 2. Aufl. 1912.<lb/> *— Der Wahn und die Träume in W. Jensens „Gradiva“. Schriften zur ange<lb break="no"/>wandten Seelenkunde, Heft 1, Wien und Leipzig 1907, 2. Aufl. 1912.<lb/> *— „Über den Gegensinn der Urworte.“ Referat über die gleichnamige Broschüre<lb/> von Karl Abel, 1884. Jahrbuch für psychoanalyt. und psychopatholog. For<lb break="no"/>schungen, Bd. II, 1910.<lb/> *— Typisches Beispiel eines verkappten Ödipustraumes. Zentralbl. f. Psychoanalyse.<lb/> I. Jahrg. 1910, Heft 1.<lb/> *— Nachträge zur Traumdeutung. Ebenda Heft 5.<lb/> *— Die Handhabung der Traumdeutung in der Ps.-A. Ebenda II, 1911/12, S. 109.<lb/> *— Ein Traum als Beweismittel. Internat. Ztschr. f. Ps.-A. I, 1913, p. 73.<lb/> *— Märchenstoffe in Träumen. Ebenda, p. 147.<lb/> *— Erfahrungen und Beispiele aus der analyt. Praxis. Ebenda, p. 377-382.<lb/> *— Das Interesse an der Ps.-A. Scientia Bd. XIV, Jahrg. 7, 1913, Nr. XXXI-5.<lb/> <hi rendition="#bold">Freudenberg F.</hi> Zur Traum-Psychologie. Die übersinnl. Welt. 1900, p. 49-54.<lb/> — Die Welt d. Tr. Die übersinnl. Welt 1909, S. 369.<lb/> — Seltsame Traumerlebnisse. Die übersinnl. Welt, 1910, p. 98-104.<lb/> * <hi rendition="#bold">Friedjung J. K.</hi> Traum eines sechsjährigen Mädchens. Internat. Ztschr. f. ärztl.<lb/> Ps.-A. I, 1913, p. 71.<lb/> * <hi rendition="#bold">Frink H. W.</hi> Dreams and their analysis in reference to Psychotherap. Med.<lb/> Record, May. 27, 1911.<lb/> *— On Freud's Theory of Dreams. Americ. Med., Burlington, New York VI,<lb/> p. 652-661.<lb/> <hi rendition="#bold">Frost E. P.</hi> The characteristic form assumed by dreams. Americ. J. of Psychol.<lb/> July 1913.<lb/> * <hi rendition="#bold">Gerhard C.</hi> Moderne Traumdeutungen. Universum, 19. J., 1902, I, p. 329-332.<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__b6a74154-c1ac-4177-85fc-f08b82c9beb6"/>
+            <fw type="pageNum">468</fw> <p><hi rendition="#bold">Gießler C.</hi> Grundtatsachen des Traumzustandes. Allg. Ztschr. f. Psychiatrie und<lb/> psychiatr. ger. Med. 1901, p. 164-183.<lb/> — Analogien zw. Zuständen von Geisteskrankheit und den Träumen normaler<lb/> Menschen. Allg. Ztschr. f. Psychiatrie I, 1902, p. 885-911.<lb/> — Träume der Geisteskranken. Die Krankenpfl. 2. J. 1905, p. 593-608.<lb/> — Das Ich im Traume. Ztschr. f. Psychol. u. Physiol. 1905, H. 4 u. 5.<lb/> — Bedeutung der Träume. Deutsche Rev., August 1906, p. 244-247.<lb/> <hi rendition="#bold">Gleichen-Rußwurm A.</hi> Traum und Dichtung. Nation 1904, 22. J., Nr. 10.<lb/> * <hi rendition="#bold">Gincburg Mira.</hi> Mitteilung von Kindheitsträumen mit spezieller Bedeutung. Int.<lb/> Ztschr. f. ärztl. Ps.-A. I, 1913, p. 79.<lb/> <hi rendition="#bold">Goebeler D.</hi> Was muß man vom Traumleben wissen? Berlin 1904.<lb/> <hi rendition="#bold">Gotthardt Otto.</hi> Die Traumbücher des Mittelalters. Eisleben 1912, Progr. des<lb/> Luthergymn.<lb/> * <hi rendition="#bold">Gottschalk.</hi> Le rêve. D'après les idées du prof. Freud. Archives de Neurol. 1912,<lb/> Nr. 4.<lb/> <hi rendition="#bold">Grawitz E.</hi> Der Schlaftraum und das Schlafträumen. Der Gesundheitslehrer.<lb/> 4. J., 1902, p. 168.<lb/> <hi rendition="#bold">Gregory J. C.</hi> Dreams as a bye-product of waking activity. Westm. Rev. London<lb/> 1911, Vol. 175, p. 561-567.<lb/> <hi rendition="#bold">Gruhn A.</hi> Zur Psychol. des Traumes. Pädag. Arch. 1907, p. 263-265.<lb/> <hi rendition="#bold">Günther H.</hi> Traumtechnik. Kosmos. 9. J. 1912, p. 277.<lb/> <hi rendition="#bold">Hackemann A.</hi> Traumleben der Seele. Alte und neue Welt, 40. J., 1905, p. 14-15,<lb/> p. 66-67.<lb/> * <hi rendition="#bold">Hacker Friedr.</hi> Systemat. Traumbeobachtungen mit bes. Berücksichtigung der<lb/> Gedanken. Arch. f. d. ges. Psychol. XXI, 1.-3. H., 1911.<lb/> <hi rendition="#bold">Haenel H.</hi> Schlafen und Träumen. Dresd. Anz. Monatsbeil. 1902, Nr. 30, 32.<lb/> * <hi rendition="#bold">Hahn S.</hi> Zum augenblickl. Stand der Traumpsychologie. Phil. Jahrb. d. Görres<lb break="no"/>Ges. 24. Bd. 1911, p. 452-472.<lb/> * <hi rendition="#bold">Hárnik J.</hi> Gelungene Auslegung eines Traumes. Zentralbl. f. Ps.-A. II, 1911/12,<lb/> p. 417.<lb/> * <hi rendition="#bold">Hartungen, Ch. v.</hi> Kritische Tage und Träume. Zeitschr. für Psychotherapie und<lb/> med. Psychol. III, 1, 1911.<lb/> <hi rendition="#bold">Hegewald.</hi> Das Buch der Träume für die gebildete Welt. 2. Aufl., Leipzig 1912.<lb/> <hi rendition="#bold">Hennig R.</hi> Die fleißigen Heinzelmännchen. Zur Psychol. der Traumhandlungen.<lb/> Gartenlaube 1908, Nr. 49.<lb/> <hi rendition="#bold">Heßler H.</hi> Redreaming Dreams. Psychol. Rev. 1901, p. 606-609.<lb/> <hi rendition="#bold">Hey F. O.</hi> Der Traumglaube der Antike. Ein hist. Versuch. Progr. München 1908.<lb/> — Die Wurzeln der griech. Religion im bes. Zusammenhang mit dem Traum<lb break="no"/>glauben. Neub. 1910.<lb/> <hi rendition="#bold">Hine R. L.</hi> Dreams und the way of dreams. London und New York 1913.<lb/> * <hi rendition="#bold">Hitschmann Ed.</hi> Freuds Neurosenlehre. Nach ihrem gegenwärtigen Stande zu<lb break="no"/>sammenfassend dargestellt. Wien und Leipzig 1911. 2. Aufl. 1913. (Kap. V.:<lb/> Der Traum.) (Engl. übers. von. C. R. Payne. New York 1912.)<lb/> *— Ein Fall von Symbolik für Ungläubige. Zentralbl. f. Ps.-A. I, 1910/11, p. 235.<lb/> *— Beiträge zur Sexualsymbolik des Traumes. Ebenda, p. 561.<lb/> *— Weitere Mitt. von Kindheitsträumen mit spez. Bedeutung. Intern. Ztschr. für<lb/> ärztl. Ps.-A. I, 1913, p. 476.<lb/> *— Goethe als Vatersymbol in Träumen. Ebenda, Heft 6.<lb/> <hi rendition="#bold">Hoffmann K.</hi> Ist der Traum eine bes. Bewußtseinsform? Psych. Studien 1902,<lb/> p. 631-636.<lb/> <hi rendition="#bold">Huch Friedrich.</hi> Träume. Berlin 1904.<lb/> * <hi rendition="#bold">Hug-Hellmuth, H. v.</hi> Analyse eines Traumes eines 5 1/2 jährigen Knaben. Zentralbl.<lb/> f. Ps.-A. II, 1911/12, p. 122-127.<lb/> *— Kinderträume. Internat. Ztschr. f. ärztl. Ps.-A. I, 1913, p. 470.<lb/> *— Aus dem Seelenleben des Kindes. Schr. z. angew. Seelenk. herausg. v. Freud.<lb/> H. 15. Wien und Leipzig 1913.<lb/> <hi rendition="#bold">Hynitzsch Adolf. </hi>Das Leben des Traumes und der Traum des Lebens. Gymn.<lb/> Progr. Quedlinburg 1903 (erweitert aufgen. in: „Erinnerungen aus vergan<lb break="no"/>genen Tagen“. Reden und Abhandlungen. Quedlinburg 1904).<lb/> <hi rendition="#bold">Jaehde W.</hi> Religion, Schicksalsglaube, Vorahnungen, Träume, Geister und Rätsel<lb/> in den englisch-schottischen Volksballaden, Diss. Halle 1905.<lb break="paragraph"/></p>
+         
+         
+            <pb n="11" xml:id="page__1ba12b02-53f6-4f96-8156-3690ceb4d66b"/>
+            <fw type="pageNum">469</fw> <p><hi rendition="#bold">Jastrow J.</hi> Dreams and their Meaning. Hampton Mag. 28, 96-101, 140-144.<lb/> — The status of the subconscious. Americ. J. of Psychology Vol. XIV, 1903,<lb/> p. 343-353.<lb/> <hi rendition="#bold">Jentsch E.</hi> Traumarbeit. Neue Rdsch. Juli 1905, p. 875-882.<lb/> <hi rendition="#bold">Jewell J. R.</hi> The psychology of dreams. Americ. J. of Psychol. XVI, 1905.<lb/> <hi rendition="#bold">Jllig J.</hi> Ein wahrgewordener Traum. Psych. Studien 1908, p. 202-207.<lb/> * <hi rendition="#bold">Jones E.</hi> On the nightmare. Americ. J. of Insanity, Jan. 1910.<lb/> *— The Oedipus-Complex as an Explanation of Hamlet's Mystery: A Study in<lb/> Motive. American Journ. of Psychology, Jan. 1910, p. 72-113. (In deutsch.<lb/> Übersetzung: „Das Problem des Hamlet und der Ödipus-Komplex“. Schriften<lb/> zur angew. Seelenkunde, H. 10, 1912.)<lb/> *— Freud's Theory of Dreams. American Journal of Psychology, April 1910.<lb/> *— Remarks on Dr. M. Prince's Article: The mechanism. and interpr. of Dreams.<lb/> Journ. of abn. Psychol. 1910/11, p. 328-336.<lb/> *— Some Instances of the Influence of Dreams on Waking Life. The Journal of<lb/> abnormal Psychology, April-May 1911.<lb/> *— The relationship between dreams and psychoneurotic symptoms. Americ. J. of<lb/> Insanity, vol. 68, Nr. 1, July 1911.<lb/> *— A forgotten dream. J. of abn. Psychol. April-May 1912.<lb/> *— Papers on Psycho-Analysis. London 1912.<lb/> *— Der Alptraum in seiner Beziehung zu gewissen Formen des mittelalterl. Aber<lb break="no"/>glaubens. Schriften zur angew. Seelenk., hg. v. Freud, H. 14, Leipzig und<lb/> Wien 1912.<lb/> * <hi rendition="#bold">Jung C. G.</hi> L'analyse des rêves. L'année Psychologique, Tome XV.<lb/> *— Assoziation, Traum und hysterisches Symptom. Diagnostische Assoziations<lb break="no"/>studien. Beiträge zur experimentellen Psychopathologie, hg. von Doz. C. G.<lb/> Jung, II. Bd., Leipzig 1910. (Nr. VIII, p. 31-66.)<lb/> *— Ein Beitrag zur Psychologie des Gerüchtes. Zentralbl. für Psychoanalyse.<lb/> I. Jahrg. 1910, Heft 3.<lb/> *— Ein Beitrag zur Kenntnis des Zahlentraumes. Ebenda, 1910/11, p. 567-572.<lb/> *— Morton Prince's: The Mechanism. and Interpretation of Dreams. Eine kritische<lb/> Besprechung. Jahrb. f. ps.-a. u. psychopathol. Forsch. III, 1911.<lb/> <hi rendition="#bold">Iwaya S.</hi> Traumdeutung in Japan. Ostasien, 1902, p. 312.<lb/> <hi rendition="#bold">Kalichmann H.</hi> Der Einfluß von Träumen auf die Schwangerschaft. Diss. Mün<lb break="no"/>chen 1908.<lb/> <hi rendition="#bold">Kanig O.</hi> Träume, Schäume. Der alte Glaube, 2. J., 1901, Nr. 30.<lb/> * <hi rendition="#bold">Karell L.</hi> Traum (nach Freud). Beil. z. Münchn. Allg. Ztg., 1900, Nr. 234, p. 4.<lb/> <hi rendition="#bold">Kazodowsky A.</hi> Zusammenhang von Träumen und Wahnvorstellungen. Neurol.<lb/> Cbl. 1901, p. 440-447, 508-514.<lb/> <hi rendition="#bold">Kemlin M.</hi> Songes et leur interprétation chez les Reungao. Bulletin de l'Ecole<lb/> franç. d'Extrême-Orient, Vol. X, p. 507-538.<lb/> <hi rendition="#bold">Klaiber Th.</hi> Traumdichtung. Mon. Bl. f. d. Lit. VIII, 1903, p. 119-125.<lb/> <hi rendition="#bold">Klippel</hi> et <hi rendition="#bold">Trenannay</hi>. Délire systématisé de rêve à rêve. Rev. de Psychiatrie,<lb/> Avril 1901.<lb/> <hi rendition="#bold">Köhler P.</hi> Systemat. Traumbeobachtungen. Arch. f. d. ges. Psychol. 23. Bd., 1912,<lb/> p. 415-483.<lb/> * <hi rendition="#bold">Körber H.</hi> Neues von Träumen. Salon, Feuilleton II, 1912, 13.<lb/> <hi rendition="#bold">Körman-Alzech J.</hi> Künstliche Traumerzeugung, d. i. d. Kunst, d. Traumleben<lb/> nach Wunsch zu lenken und zu beeinflussen. Leipzig 1904.<lb/> * <hi rendition="#bold">Korn G.</hi> Neuere Forschungen über Traum und Traumleben. D. Türmer, Jan. 1902,<lb/> p. 438-443.<lb/> * <hi rendition="#bold">Kostyleff.</hi> Freud et le problème des rêves. Rev. philos. 72. Bd., Juillet-Déc. 1911,<lb/> p. 491-522.<lb/> <hi rendition="#bold">Kraepelin E.</hi> Über Sprachstörungen im Traume. Psychol. Arbeiten, 5, Leipzig<lb/> 1907.<lb/> <hi rendition="#bold">Krainsky N.</hi> Energetische Theorie des Traumes. Neurol. Bote (russ.) 19, 65<lb/> (375) 1912.<lb/> <hi rendition="#bold">Krasnicki, E. v.</hi> Traum od. Doppelgängerei. Die übers. Welt 1900, p. 148-150.<lb/> <hi rendition="#bold">Krausz Rud.</hi> Über die Träume Mörikes. Jugend 1904, Nr. 37, p. 749.<lb/> * <hi rendition="#bold">L.</hi> Ein Großvatertraum. Internat. Ztschr. f. ärztl. Ps.-A. I, 1913, p. 475.<lb/> * <hi rendition="#bold">Lang J. B.</hi> Aus der Analyse eines Zahlentraumes. Zentralbl. f. Ps.-A. III, 1912/13,<lb/> p. 206.<lb break="paragraph"/></p>
+         
+         
+            <pb n="12" xml:id="page__799a9a02-b112-4ecb-8ed3-d4b0d0ce79a1"/>
+            <fw type="pageNum">470</fw> <p>* <hi rendition="#bold">Lauer Ch.</hi> Das Wesen des Traumes in der Beurteilung der talmudischen und<lb/> rabbinischen Literatur. Intern. Ztschr. f. ärztl. Ps.-A. I, 1913, H. 5.<lb/> <hi rendition="#bold">Leadbeater C. W.</hi> Träume. Eine theosoph. Studie. 2., verm. Aufl., deutsch von<lb/> G. Wagner, Leipzig 1912.<lb/> <hi rendition="#bold">Lehmann.</hi> Aberglaube und Zauberei von den ältesten Zeiten bis in die Gegenwart.<lb/> Deutsch von Petersen. 2., verm. Aufl., Stuttgart 1908.<lb/> <hi rendition="#bold">Leroy B.</hi> A propos de quelques rêves symboliques. Journ. de psychol. Norm. et<lb/> pathol. 5, 1908, p. 358-365.<lb/> — <hi rendition="#bold">et Tobowolska J.</hi> Mécanisme intellectuel du rêve. Rev. philos. 1901, I, vol. 51,<lb/> p. 570-593.<lb/> * <hi rendition="#bold">Leyen, Fr. v. d.</hi> Traum u. Märchen. Der Lotse, I. Jahrg. 1901, 2. Bd., p. 382-390.<lb/> *— Das Märchen. Wissensch. und Bildung. Bd. 96, Leipzig 1911.<lb/> * <hi rendition="#bold">Linde van de.</hi> Zwei interessante Träume. Zentralbl. f. Ps.-A. III, 12, Sept. 1913.<lb/> * <hi rendition="#bold">Lloyd J. H.</hi> The so-called Oedipus-Complex in Hamlet. Journ. of Americ. Med.<lb/> Assoc. May 13, 1911.<lb/> <hi rendition="#bold">Lobedank.</hi> Über das Wesen d. Tr. Prag 1902.<lb/> <hi rendition="#bold">Lövy M.</hi> Traum u. Wirklichkeit. Jahrb. d. ungar. Karpathenvereines, 33. J., 1906,<lb/> p. 20-32.<lb/> * <hi rendition="#bold">Loewenfeld L.</hi> Sexuelle Träume. Sex. Probl. 1908, p. 588-601.<lb/> <hi rendition="#bold">Löwinger.</hi> Der Traum in der jüdischen Literatur. Leipzig 1908. Mitteilungen zur<lb/> jüd. Volkskunde, 10. Jahrg., H. 1 u. 2.<lb/> <hi rendition="#bold">Lombard E.</hi> Questionnaire sur le langage dans le rêve. Arch. de Psych. 11, p. 196.<lb/> <hi rendition="#bold">Longford E., Graf v.</hi> Sammle deine Träume! Der Traum, die Sprache der Seele.<lb/> Berlin 1908.<lb/> <hi rendition="#bold">Lopez.</hi> Du rêve et du délire qui lui fait suite dans les infections aiguës. Thèse<lb/> de Paris 1900.<lb/> <hi rendition="#bold">Lubarsch O.</hi> Schlaf und Traum. Die Woche, 1901, Nr. 1.<lb/> * <hi rendition="#bold">Maeder Alphonse.</hi> Essai d'interprétation de quelques rêves. Archives de Psychol.,<lb/> T. VI, Nr. 24, April 1907.<lb/> *— Die Symbolik in den Legenden, Märchen, Gebräuchen und Träumen. Psych<lb break="no"/>iatrisch-Neurolog. Wochenschr., X. Jahrg. 1908.<lb/> *— Zur Entstehung der Symbolik im Traum, in der Dementia praecox etc. Zentral<lb break="no"/>blatt f. Ps.-A. I, 1910/11, p. 383-389.<lb/> *— Über die Funktion des Traumes. Jahrb. f. psychoanalyt. Forsch. IV, 1912.<lb/> *— Über das Traumproblem. Ebenda V, 1913, p. 647.<lb/> <hi rendition="#bold">Maillet Edm.</hi> Les rêves et l'inspiration mathematiques. Extr. du Bulletin de la<lb/> Soc. Philomatique 1905, Paris.<lb/> * <hi rendition="#bold">Marcinowski J.</hi> Gezeichnete Träume. Zentralbl. f. Ps.-A. II, 1911/12, p. 490-518.<lb/> *— Drei Romane in Zahlen. Ebenda, p. 619-638.<lb/> *— Der Mut zu sich selbst. Das Seelenleben des Nervösen und seine Heilung.<lb/> Berlin 1912.<lb/> * <hi rendition="#bold">Marcus Ernst.</hi> Ein Fall lenkbarer Träume. Zentralbl. f. Ps.-A. II, 1911/12, p. 160.<lb/> <hi rendition="#bold">Marcuse J.</hi> Natur und Wesen d. Tr. Bl. f. Volksgesundh.-Pflege 1902, p. 261-265.<lb/> <hi rendition="#bold">Mayer Ad.</hi> Träumen, Denken, Dichten. Gegenwart 1912, Nr. 9.<lb/> * <hi rendition="#bold">Meißl Alfred.</hi> Der Traum. Analytische Studien über die Elemente der psychischen<lb/> Funktion V. Wr. klin. Rdsch. 1907, Nr. 3-6.<lb/> *— Der Traum eines Coitus interruptus. Zentralbl. f. Ps.-A. II, 1911/12, p. 88.<lb/> <hi rendition="#bold">Merkwürdige Träume.</hi> Psych. Studien, 1906, p. 767-774.<lb/> <hi rendition="#bold">Meumann E.</hi> Organempfindungsträume u. e. merkwürdige Tr.-Erinnerung. Arch.<lb/> f. d. ges. Psychol. IX, 1907, 63-70.<lb/> — Schlaf u. Tr. im Licht exp. Forschg. Die Umschau, 1908, Nr. 21, 22.<lb/> — Lesen u. Schreiben im Tr. Arch. f. d. ges. Psychol. 1909, p. 380-400.<lb/> <hi rendition="#bold">Meunier P.</hi> Des rêves stéréotypés. Journ. de Psychol. norm. et pathol. 1905.<lb/> — A propos de l'onirotherapie. Arch. de Neurol. März 1910.<lb/> — Valeur séméiologique du rêve. Journ. de psychol. Norm. et pathol. 7, 41-49,<lb/> 1910.<lb/> — Les rêveurs; les désemparés. 2 vol. Paris 1913.<lb/> — <hi rendition="#bold">et Masselon.</hi> Les rêves et leur interprétation. Paris 1910.<lb/> <hi rendition="#bold">Meyer Semi.</hi> Zum Traum-Problem. Ztschr. f. Psychol. u. Physiol. d. Sinnesorgane.<lb/> 53. Bd., 1909, p. 206-224.<lb/> — Träume. Die Umschau 1911, Nr. 14.<lb/> <hi rendition="#bold">Mitchell A.</hi> About Dreaming, Laughing and Blushing. London 1905.<lb break="paragraph"/></p>
+         
+         
+            <pb n="13" xml:id="page__1700b9e7-15ec-4082-b1af-4211b4c1b094"/>
+            <fw type="pageNum">471</fw> <p><hi rendition="#bold">Miura K.</hi> Japanische Traumdeuterei. Mitt. d. deutsch. Ges. f. Natur- u. Völkerk.<lb/> Ostasiens. X, 291-306.<lb/> <hi rendition="#bold">Monroe W. S.</hi> Mental elements of Dreams. Journ. of Philos., Psychol. and Sci.<lb/> Methods 1905.<lb/> <hi rendition="#bold">Mourre Ch.</hi> La volonté dans le rêve. Rev. philos. vol. 55, 1903, p. 506 et 634.<lb/> <hi rendition="#bold">Müller E.</hi> Schlaf u. Traum, Suggestion u. Hypnose. Psychol. Studie. Leipzig 1903.<lb/> <hi rendition="#bold">Müller K. J.</hi> Das Traumleben der Seele und Traumdeutungen. Vortr. Berlin 1912.<lb/> <hi rendition="#bold">Muford P.</hi> Wert der Traumdeuterei. Unser Hausarzt, 17. Jahrg., 1911, 74.<lb/> <hi rendition="#bold">Näcke P.</hi> Die forensische Bedeutung der Träume. H. Groß' Archiv 1900.<lb/> — Über sexuelle Träume. H. Groß' Archiv 1903, p. 307.<lb/> — Der Traum als feinstes Reagens f. d. Art d. sexuellen Empfindens. Monats<lb break="no"/>schrift f. Krim.-Psychol. 1905.<lb/> — Kontrastträume und spez. sexuelle Kontrastträume. H. Groß' Archiv, 24. Bd.<lb/> 1907, p. 1-19.<lb/> — Beiträge zu den sexuellen Träumen. H. Groß' Archiv 29, 363 ff.<lb/> — Die diagnostische und prognostische Brauchbarkeit der sex. Träume. Ärztl.<lb/> Sachv.-Ztg. 1911, Nr. 2.<lb/> <hi rendition="#bold">Negelein, J. v.</hi> Der Traumschlüssel des Yaggaddeva. Gießen 1912. (Relig. Gesch.<lb/> Vers. XI, 4.)<lb/> <hi rendition="#bold">Nervöse Träume.</hi> Die Mediz. Woche 1903, p. 163.<lb/> <hi rendition="#bold">Obersteiner H.</hi> Kraepelins Traumsprache. Ber. d. 4. Kongr. f. exp. Psychol. 1910,<lb/> p. 184.<lb/> — Zur Traumsprache. Zeitschr. f. Psychotherap. II, 257-265.<lb/> * <hi rendition="#bold">Oedipus.</hi> Myth and Psychiatry. The Universal Medical Record, March 1912.<lb/> * <hi rendition="#bold">Onuf B.</hi> Dreams and their Interpretation as Diagnostic and Therapeutic Aids in<lb/> Psychology. The Journal of abnormal Psychology, Febr.-March 1910.<lb/> <hi rendition="#bold">Pachantoni D.</hi> Der Traum als Ursprung von Wahnideen bei Alkoholdeliranten.<lb/> Zentralbl. f. Nervenheilk., 32. Jahrg., 1909, p. 796.<lb/> * <hi rendition="#bold">Pear T. H.</hi> The analysis of some personal dreams, with special reference to<lb/> Freud's interpretation. Meeting at the British Assoc. for the advancement<lb/> of science. Birmingham Sept. 16.-17., 1913. British Journ. of Psychol. VI,<lb/> 3/4, Febr. 1914.<lb/> <hi rendition="#bold">Pérès J.</hi> La logique du rêve et le rôle de l'association et de la vie affective.<lb/> Revue philosophique. Déc. 1913.<lb/> <hi rendition="#bold">Petersen F.</hi> The new divination of dreams. Harper's Mag. 115, 1907, 448-452.<lb/> <hi rendition="#bold">Petersen Marg.</hi> Ein telepathischer Traum. Zentralbl. f. Ps.-A. IV, Okt. 1913.<lb/> * <hi rendition="#bold">Pfister Oskar.</hi> Wahnvorstellung und Schülerselbstmord. Auf Grund einer Traum<lb break="no"/>analyse beleuchtet. Schweiz. Blätter für Schulgesundheitspflege 1909, Nr. 1.<lb/> *— Kryptolalie, Kryptographie und unbewußtes Vexierbild bei Normalen. Jahrb.<lb/> f. ps.-a. Forschg. V, 1, 1913.<lb/> *— Die psychoanalyt. Methode. Pädagogium Bd. I, Leipzig und Berlin 1913.<lb/> <hi rendition="#bold">Pick A.</hi> Clinical Studies in Pathological Dreaming. J. of Mental Sc. 1901.<lb/> — Zur Psychol. d. motor. Apraxie. Neurol. Zentralbl. 1902, p. 994-1000.<lb/> <hi rendition="#bold">Piéron H.</hi> La rapidité des procès psychiques. Rev. philos. vol. 55, 1903, p. 89-95.<lb/> * <hi rendition="#bold">Pope C.</hi> The scientific significance of dreams. Kentucky Med. J. Bowling Green,<lb/> IX, 469.<lb/> <hi rendition="#bold">Praekursor O.</hi> Der Traum als Helfer im tägl. Leben. Die übersinnl. Welt 1911,<lb/> p. 328-335.<lb/> * <hi rendition="#bold">Prescott F. C.</hi> Poetry and Dreams. Journ. abn. Psychol. VII, April-June 1912.<lb/> * <hi rendition="#bold">Prince Morton.</hi> The Mechanism and Interpretation of Dreams. The Journal of<lb/> abnorm. Psych. Oct.-Nov. 1910.<lb/> *— The mechanism and Interpr. of Dreams; a reply to Dr. Jones. Journ. of abn.<lb/> Psychol. 1910/11, p. 337-353.<lb/> <hi rendition="#bold">Provenzali D.</hi> Sonno e Sogni. Note di psicologia introspettiva. Riv. di psicol. 8,<lb/> p. 207-224.<lb/> * <hi rendition="#bold">Putnam J. J.</hi> Aus der Analyse zweier Treppen-Träume. Zentralbl. f. Ps.-A. II,<lb/> 1911/12, p. 264.<lb/> *— Ein charakteristischer Kindertraum. Ebenda, p. 328.<lb/> * <hi rendition="#bold">Rank Otto.</hi> Der Mythus von der Geburt des Helden. Schr. z. angew. Seelenkunde,<lb/> Heft 5, Wien und Leipzig 1909.<lb/> *— Beispiel eines verkappten Ödipus-Traumes. Zentralblatt für Psychoanalyse,<lb/> I, Jahrg. 1910.<lb break="paragraph"/></p>
+         
+         
+            <pb n="14" xml:id="page__a110d4b1-27e9-419e-bc65-aab16cef589a"/>
+            <fw type="pageNum">472</fw> <p>* <hi rendition="#bold">Rank Otto.</hi> Zum Thema der Zahnreizträume. Ebenda.<lb/> *— Das Verlieren als Symptomhandlung. Zugleich ein Beitrag zum Verständnis<lb/> der Beziehungen des Traumlebens zu den Fehlleistungen des Alltagslebens.<lb/> Ebenda.<lb/> *— Ein Traum, der sich selbst deutet. Jahrbuch für psychoanalyt. und psycho<lb break="no"/>pathol. Forschungen, Bd. II, 1910.<lb/> *— Ein Beitrag zum Narzißmus. Ebenda, Bd. III, 1911.<lb/> *— Fehlleistung und Traum. Zentralbl. f. Ps.-A. II, 1911/12, p. 266.<lb/> *— Aktuelle Sexualregungen als Traumanlässe. Ebenda, p. 596-602.<lb/> *— Die Symbolschichtung im Wecktraum und ihre Wiederkehr im mythischen<lb/> Denken. Jahrb. f. Ps.-A. IV, 1912.<lb/> *— Das Inzestmotiv in Dichtung und Sage. Grundzüge einer Psychologie des<lb/> dichterischen Schaffens. Wien und Leipzig 1912.<lb/> *— Die Nacktheit in Sage und Dichtung. Eine ps.-a. Studie, Imago, II, 1912.<lb/> *— Eine noch nicht beschriebene Form des Ödipus-Traumes. Intern. Zeitschr. f.<lb/> ärztl. Ps.-A. I, 1913, p. 151.<lb/> * <hi rendition="#bold">Rank O. </hi>und <hi rendition="#bold">Sachs H.</hi> Die Bedeutung der Psychoanalyse für die Geisteswissen<lb break="no"/>schaften. Grenzfr. d. Nerven- u. Seelenlebens, hg. v. Löwenfeld, Heft 93,<lb/> Wiesbaden 1913.<lb/> * <hi rendition="#bold">Reik Th.</hi> Zwei Träume Flauberts. Zentralbl. f. Ps.-A. III, 1912/13, p. 223.<lb/> *— Kriemhilds Traum. Ebenda, II, p. 416.<lb/> *— Beruf und Traumsymbolik. Ebenda, p. 531.<lb/> *— Schnitzler als Psycholog. Minden 1913.<lb/> <hi rendition="#bold">Rêve</hi> un, mystique infantile. Arch. de Psychol. XIII, Nr. 50, Juni 1913.<lb/> <hi rendition="#bold">Rêverie</hi> et images. Ebenda.<lb/> * <hi rendition="#bold">Riklin Franz.</hi> Wunscherfüllung und Symbolik im Märchen. Schriften zur angew.<lb/> Seelenkunde, Heft 2. Wien und Leipzig 1908.<lb/> *— Ödipus und Psychoanalyse. Wissen und Leben V, 1912, H. 20.<lb/> * <hi rendition="#bold">Robitsek Alfred.</hi> Die Analyse von Egmonts Traum. Jahrb. für psychoanalyt. und<lb/> psychopathol. Forschungen, Bd. II, 1910.<lb/> *— Die Stiege, Leiter, als sexuelles Symbol in der Antike. Zentralbl. f. Ps.-A. I,<lb/> 1910/11, p. 586.<lb/> *— Zur Frage der Symbolik in den Träumen Gesunder. Ebenda, II, p. 340.<lb/> <hi rendition="#bold">Rogers L. J.</hi> Quelques observations de rêves. J. de psychol. norm. et pathol. 8,<lb/> 1911, 152-157.<lb/> <hi rendition="#bold">Roscher W. H.</hi> Ephialtes. Leipzig 1900.<lb/> <hi rendition="#bold">Rousseau P.</hi> La mémoire des rêves dans le rêve. Rev. philos., vol. 55, 1903,<lb/> p. 411-416.<lb/> <hi rendition="#bold">Rubensohn O.</hi> Das Aushängebild eines Traumdeuters. Festschrift für Joh. Vahlen<lb/> 1900, p. 1-16.<lb/> * <hi rendition="#bold">Sachs Hanns.</hi> Zur Darstellungstechnik des Traumes. Zentralbl. f. Ps.-A. I, 1910/11.<lb/> *— Ein Fall intensiver Traumentstellung. Ebenda, p. 588.<lb/> *— Traumdeutung und Menschenkenntnis. Jahrb. f. Ps.-A. III, 1911, p. 568.<lb/> *— Ein Traum Bismarcks. Intern. Ztschr. f. ärztl. Ps.-A. I, 1913, H. 1.<lb/> *— Traumdarstellungen analer Weckreize. Ebenda, p. 489.<lb/> * <hi rendition="#bold">Sadger J.</hi> Über das Unbewußte und die Träume bei Hebbel. Imago, Juni 1913.<lb/> <hi rendition="#bold">Samuely O.</hi> Über Bewußtseinsvorgänge im Schlafe und im Traume. Zeitschr. f.<lb/> Psychotherap. 1, 1909, p. 150-165.<lb/> <hi rendition="#bold">Sappho.</hi> Die Traumdeutung nach den Überlieferungen antiker Völker, bes. der<lb/> Ägypter und Chaldäer. Übers. aus dem Engl. Leipzig 1912.<lb/> * <hi rendition="#bold">Saudek R.</hi> Wissenschaftl. Traumdeutungen. Westermanns Monatsh. Nov. 1909,<lb/> p. 289-295.<lb/> * <hi rendition="#bold">Savage.</hi> Some dreams and their significance. J. of Ment. Sc. Vol. 58, Nr. 242.<lb/> <hi rendition="#bold">Scherbel.</hi> Traum und Vhtg. Ärztl. Ratgeber, 4. J. 1903, p. 199.<lb/> <hi rendition="#bold">Schlaf- und Traumerscheinungen.</hi> Psych. Studien 1909, p. 552.<lb/> * <hi rendition="#bold">Schlesinger Max.</hi> Geschichte d. Symbols. Berlin 1912.<lb/> * <hi rendition="#bold">Schrötter Karl.</hi> Experimentelle Träume. Zentralbl. f. Ps.-A. II, 1912, p. 638.<lb/> <hi rendition="#bold">Schultz P.</hi> Über den Traum. Deutsche Revue, Jan. 1902, p. 106-116.<lb/> <hi rendition="#bold">Schwarz F.</hi> Traum u. Traumdeutung nach 'Abdalganī an Nābulusī'. Zeitschr. d.<lb/> deutsch. morgenl. Ges., Bd. 67, 1913, III. H., p. 473-493.<lb/> <hi rendition="#bold">Secker F.</hi> Chines. Ansichten über den Traum. Neue metaph. Rdschr., Bd. 17,<lb/> 1909/10, p. 101.<lb/> * <hi rendition="#bold">Sidis B.</hi> Dreams. Psychol. Bull. 9, p. 36-40.<lb break="paragraph"/></p>
+         
+         
+            <pb n="15" xml:id="page__51b0912b-b733-4faa-b793-f4b37f973c1d"/>
+            <fw type="pageNum">473</fw> <p>* <hi rendition="#bold">Silberer Herbert.</hi> Bericht über eine Methode, gewisse symbolische Halluzinations<lb break="no"/>erscheinungen hervorzurufen und zu beobachten. Jahrb. Bd. I, 1909.<lb/> *— Phantasie und Mythos. Ebenda, Bd. II, 1910.<lb/> *— Symbolik des Erwachens und Schwellensymbolik überh. Ebenda, III, 1911.<lb/> *— Über die Symbolbildung. Ebenda.<lb/> *— Zur Symbolbildung. Ebenda IV, 1912.<lb/> *— Spermatozoenträume. Ebenda.<lb/> *— Zur Frage der Spermatozoenträume. Ebenda.<lb/> <hi rendition="#bold">Smith Th. L.</hi> The psychology of day dreaming. Americ. Journ. of Psychol. vol.<lb/> XV, 1904, p. 465-488.<lb/> * <hi rendition="#bold">Sokal E.</hi> Wissensch. Traumdeutung. Die Gegenwart 1902, Nr. 6.<lb/> * <hi rendition="#bold">Solomon Meyer.</hi> The analysis and interpretation of dreams based on various<lb/> motives. J. of abn. Psychol. VIII, 2. June-July 1913.<lb/> *— A contribution to the analysis and interpretation of dreams based on the<lb/> motives of selfpreservation. Americ. J. of Insanity, 1913.<lb/> <hi rendition="#bold">Specht G.</hi> Schlaf und Traum. Velh. &amp; Klasing Monatsh., 1909, Jan.-Febr.<lb/> * <hi rendition="#bold">Spielrein S.</hi> Traum vom „Pater Freudenreich“. Intern. Ztschr. f. ärztl. Ps.-A. I,<lb/> 1913, p. 484.<lb/> <hi rendition="#bold">Spitteler Karl.</hi> Meine frühesten Erlebnisse. I. Hilflos und sprachlos. Die Träume<lb/> des Kindes. Südd. Monatsh., Okt. 1913.<lb/> * <hi rendition="#bold">Stärcke August.</hi> Ein Traum, der das Gegenteil einer Wunscherfüllung zu ver<lb break="no"/>wirklichen schien, zugleich ein Beispiel eines Traumes, der von einem an<lb break="no"/>deren Traum gedeutet wird. Zentralbl. f. Ps.-A. II, 1911/12, p. 86.<lb/> * <hi rendition="#bold">Stärcke Johann.</hi> Neue Traumexperimente in Zusammenhang mit älteren und<lb/> neueren Traumtheorien. Jahrb. f. Ps.-A. V, 1913, p. 233.<lb/> * <hi rendition="#bold">Stegmann Marg.</hi> Darstellung epileptischer Anfälle im Traume. Intern. Ztschr. f.<lb/> ärztl. Ps.-A. I, 1913.<lb/> *— Ein Vexiertraum. Ebenda, p. 486.<lb/> * <hi rendition="#bold">Stekel Wilhelm.</hi> Beiträge zur Traumdeutung. Jahrbuch für psychoanalytische und<lb/> psychopatholog. Forschungen, Bd. I, 1909.<lb/> *— Nervöse Angstzustände und ihre Behandlung. Wien-Berlin 1908, 2. Aufl. 1912.<lb/> *— Die Sprache des Traumes. Eine Darstellung der Symbolik und Deutung des<lb/> Traumes in ihren Beziehungen zur kranken und gesunden Seele für Ärzte<lb/> und Psychologen. Wiesbaden 1911.<lb/> *— Die Träume der Dichter. Wiesbaden 1912.<lb/> *— Ein prophetischer Nummerntraum. Zentralbl. f. Ps.-A. II, 1911/12, p. 128-130.<lb/> *— Fortschritte der Traumdeutung. Zentralbl f. Ps.-A. III, 1912/13, p. 154, 426.<lb/> *— Darstellung der Neurose im Traum. Ebenda, p. 26.<lb/> <hi rendition="#bold">Stoop E. de.</hi> Oneirokritikon biblion etc. Rev. de philol. (nouv. ser.) 33, 1909,<lb/> p. 93 ff.<lb/> * <hi rendition="#bold">Swoboda Hermann.</hi> Die Perioden des menschlichen Organismus. Wien und Leip<lb break="no"/>zig 1904.<lb/> *<hi rendition="#bold"> Tausk V.</hi> Zur Psychologie der Kindersexualität. Intern. Ztschr. f. ärztl. Ps.-A. I,<lb/> 1913, p. 444.<lb/> <hi rendition="#bold">Tfinkdji Joseph Abée.</hi> Essai sur les songes et l'art de les interpréter (onirocritie)<lb/> en Mésopotamie. Anthropos VIII, 2/3, März-Juni 1913.<lb/> <hi rendition="#bold">Thèbes Mme. de.</hi> L'énigme du rêve. Paris 1913.<lb/> <hi rendition="#bold">Thoma H.</hi> Traumthema und künstl. Schaffen. Kunstwart 1912, 26. J., H. 5, p. 309.<lb/> <hi rendition="#bold">Tobler O.</hi> Die Epiphanie der Seele in deutscher Volkssage. Kiel 1911.<lb/> <hi rendition="#bold">Tobowolska Justine.</hi> Etude sur les illusions de temps dans les rêves du sommeil<lb/> normal. Thèse de Paris, 1900.<lb/> * <hi rendition="#bold">Traugott Richard.</hi> Der Traum, psychol. und kulturgeschichtl. betrachtet. Würz<lb break="no"/>burg 1913.<lb/> <hi rendition="#bold">Traum</hi> der, Klin. therap. Wochenschr. 1902, p. 723.<lb/> — im Lichte d. wissensch. Unters. Gaea, Natur u. Leben, 1902, p. 44-48.<lb/> <hi rendition="#bold">Traumbuch.</hi> Das älteste, echte, große, ägyptische vom Jahre 1204. Wien 1900.<lb/> <hi rendition="#bold">Trenaunay Paul.</hi> Le rêve prolongé. — Délire consécutif à un rêve prolongé à<lb/> l'état de veille. Paris 1901.<lb/> <hi rendition="#bold">Trömner E.</hi> Entstehung und Bedeutung der Träume. Journ f. Psychol. u. Neurol.<lb/> 19. Bd., 1912, p. 343-350.<lb/> <hi rendition="#bold">Traum ein</hi> und dessen Verwirklichung. Mitt. d. wiss. Vereines f. Okkult. in<lb/> Wien. 2. Jahrg. 1901, p. 67.<lb/> <hi rendition="#bold">Träume</hi> in Dichtungen. Kunstwart. 19. J., Nov. 1906, p. 198-208.<lb break="paragraph"/></p>
+         
+         
+            <pb n="16" xml:id="page__1a527d5e-dfb0-42cb-9df2-7ffe854a07d1"/>
+            <fw type="pageNum">474</fw> <p>* <hi rendition="#bold">Vaschide N.</hi> Le sommeil et les rêves. Paris 1911, Bibl. de Philos. scient. (66)<lb/> (mit Literaturangabe der übrigen zahlreichen Arbeiten desselben Autors über<lb/> Traum und Schlaf).<lb/> — <hi rendition="#bold">et Piéron.</hi> La psychol. du rêve au point de vue médical. Paris 1902.<lb/> <hi rendition="#bold">Veronese Franz.</hi> Versuch einer Physiologie des Schlafes und des Traumes. Leip<lb break="no"/>zig 1910.<lb/> <hi rendition="#bold">Vogel Wilh.</hi> Ansicht über den Traum. Die Wahrheit 1901, p. 58-65.<lb/> <hi rendition="#bold">Vold J. Mourly.</hi> Über den Traum. Experimentell-psychologische Untersuchungen.<lb/> Herausgegeben von O. Klemm. Erster Band. Leipzig 1910. II. Bd. 1912.<lb/> <hi rendition="#bold">Voraussehen</hi> im Traum. Psych. Stud. 1900, p. 381-385.<lb/> <hi rendition="#bold">Wahrtraum ein.</hi> Mitt. d. wiss. V. f. Okk. in Wien, II. 1900, p. 26.<lb/> <hi rendition="#bold">Wahrträume drei.</hi> Ebenda, p. 45.<lb/> <hi rendition="#bold">Warcollier R.</hi> Rêve commencé et terminé par deux dormeurs différents. Ann. d.<lb/> sc. psych. 16, 1906, 437.<lb/> <hi rendition="#bold">Was ist der Traum?</hi> Die Grenzboten 1900, Nr. 11.<lb/> * <hi rendition="#bold">Waterman George A.</hi> Dreams as a Cause of Symptoms. The Journal of abnormal<lb/> Psychol. Okt.-Nov. 1910.<lb/> * <hi rendition="#bold">Weber R.</hi> Petite psychologie. Quelques rêves. Arch. intern. de Neurol., 35 année,<lb/> Nr. 1, Juillet 1913, p. 1-23.<lb/> <hi rendition="#bold">Weizsäcker P.</hi> Über Alpträume und Verwandtes. S. A. Stuttgart 1901.<lb/> * <hi rendition="#bold">Wertheimer H. G.</hi> Dreaming and Dreams. N. J. Med. Journ., vol. 97, March 29,<lb/> 1913, p. 687.<lb/> * <hi rendition="#bold">Weyer E. M.</hi> Freud's art of interpreting dreams. Forum, May 1911.<lb/> <hi rendition="#bold">Weygandt W.</hi> Beitr. z. Psychologie des Traumes. Philos. Studien, 20. Bd., 1902,<lb/> p. 456-486.<lb/> <hi rendition="#bold">Wiggam A.</hi> A contribution to the data of dream psychology. Pedagogical Semi<lb break="no"/>nary, Juni 1909.<lb/> * <hi rendition="#bold">Winterstein, Alfr. v.</hi> Zum Thema: „Lenkbare Träume.“ Zentralbl. f. Ps.-A. II,<lb/> 1911/12, p. 290.<lb/> <hi rendition="#bold">Wolff G.</hi> Traumphysiologie. Die Hilfe, 1912, Nr. 2.<lb/> <hi rendition="#bold">Wolff M.</hi> Das Träumen und die geistige Persönlichkeit. Glauben und Wissen, 1904,<lb/> p. 307-310.<lb/> * <hi rendition="#bold">Wolffensperger W. P.</hi> Übersicht über die Freudsche Traumdeutung. Med. Revue<lb/> 13, 1913, p. 237.<lb/> * <hi rendition="#bold">Wulff M.</hi> Ein interessanter Zusammenhang von Traum, Symbolhandlung und<lb/> Krankheitssymptom. Internat. Ztschr. f. ärztl. Ps.-A. I, 1913, H. 6.<lb break="paragraph"/></p> <p><hi rendition="#em">C</hi>. Von 1914-1920.<lb break="paragraph"/></p> <p>a) D<hi rendition="#bold">eutsche Literatur.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">Abraham K.</hi>: Zur narzisstischen Bewertung der Exkretionsvorgänge in Traum<lb/> und Neurose. Z. VI. 64. — <hi rendition="#bold">Adler Alfred</hi>: Traum und Traumdeutung. Zentralbl.<lb/> für Psa. III. 574. (Dass.: Österr. Ärztezeitung. April 1913, und Dass.: Geschlecht<lb/> und Gesellschaft. VIII. 1913.) — <hi rendition="#bold">Aall Anathon</hi>: Der Traum. Versuch einer<lb/> theoretischen Erklärung auf Grundlage von psychol. Betrachtungen. Ztschr. f.<lb/> Psychol. Bd. 70. 1919. (Drämmen forklaret ut fra det sviktende sane grundlag.<lb/> Psyke. Tidskrift för Psykologisk Forskning. IX. Upsala 1914.) — <hi rendition="#bold">Ahlfeld F.</hi>:<lb/> Traum und Traumformen. Ein Beitrag zur Frage nach der Entstehung des Traumes<lb/> und seiner Bilder. Leipzig 1916. — <hi rendition="#bold">Becker H.</hi>: Volds Buch über den Traum und<lb/> die moderne Traumdeutung. Psychiatr.-Neurol. Wochschr. XV. Nr. 33. 1913/14. —<lb/> <hi rendition="#bold">Bernfeld S.</hi>: Zwei Träume von Maschinen Z. VI. 339. — <hi rendition="#bold">Birnstein J.</hi>:<lb/> M. W. Garschins Traum. Zentralbl. f. Psa. IV. S. 432. — <hi rendition="#bold">Bovet P.</hi>: Victor Hugo<lb/> über den Traum. Z. VI. 354. — <hi rendition="#bold">Coriat J. H.</hi>: Träume vom Kahlwerden. Z. II.<lb/> S. 460. — <hi rendition="#bold">Corray</hi>: Schülerträume. Ztschr. f. Jugenderziehung u. Jugendfürs. IV.<lb/> — <hi rendition="#bold">Davidson</hi>: Erklärung eines Alptraumes. Z. IV. S. 207. — <hi rendition="#bold">Deutsch E.</hi>: Schlaf<lb/> und Traumleben der Kinder. (Congrès premier internat. de Pédologie Bruxelles,<lb/> août 1911.) Bruxelles 1912. — <hi rendition="#bold">Eisler J. M.</hi>: Beiträge zur Traumdeutung Z. V.<lb/> S. 295. — <hi rendition="#bold">Erfahrungen</hi> und Beispiele aus der analytischen Praxis (von versch.<lb/> Autoren). Z. II. S. 379. — <hi rendition="#bold">E.</hi>: Zur sexuellen Deutung des Prüfungstraumes.<lb/> Z. V. S. 300. — <hi rendition="#bold">Federn Paul</hi>: Über zwei typische Traumsensationen. Jahrb. VI.<lb break="paragraph"/><pb n="17" xml:id="page__80e81e95-baf1-40ca-95fd-9f4f1b2063d6"/><fw type="pageNum">475</fw>S. 89. — <hi rendition="#bold">Ders.</hi>: Zur Frage des Hemmungstraumes. Z. VI. S. 73. — <hi rendition="#bold">Ferenczi S.</hi>:<lb/> Das „Vergessen eines Symptoms und seine Aufklärung im Traume“. Z. II. S. 384.<lb/> — <hi rendition="#bold">Ders.</hi>: Affektvertauschung im Traum. Z. IV. S. 112. — <hi rendition="#bold">Ders.</hi>: Träume<lb/> von Ahnungslosen. Z. IV. S. 208. — <hi rendition="#bold">Ders.</hi>: Pollution ohne orgastischen Traum<lb/> und Orgasmus im Traum ohne Pollution. Z IV. S. 187. — <hi rendition="#bold">Fischer-Defoy</hi>: Schlafen<lb/> und Träumen. Stuttgart 1918. (Kosmos.) — <hi rendition="#bold">Freud S.</hi>: Darstellung der „großen<lb/> Leistung“ im Traume. Z. II. S. 385. — <hi rendition="#bold">Ders.</hi>: Vorlesungen zur Einführung in<lb/> die Psychoanalyse: II. Teil: Der Traum. 1916. — <hi rendition="#bold">Ders.</hi>: Metapsychologische<lb/> Ergänzung zur Traumlehre. Z. IV. S. 277. — <hi rendition="#bold">Friedjung J. K.</hi>: Weck<lb break="no"/>träume. Z. VI. S. 345. — <hi rendition="#bold">Gerhardt F.</hi>: Unsere Träume und ihre Deutung.<lb/> Langensalza 1919. — <hi rendition="#bold">Galant S.</hi>: Algolagnische Träume. Arch. f. Psych. Bd. 61.<lb/> — <hi rendition="#bold">Großmann</hi>: Zur Deutung der Weckerträume. Z. V. S. 301. — <hi rendition="#bold">Grünbaum A.</hi>:<lb/> Zur Psychologie des Traumes. Psychiatr. en Neurolog. Bladen 1915. — <hi rendition="#bold">Henning<lb/> Hans</hi>: Der Traum, ein assoziativer Kurzschluß. Wiesbaden 1914. — <hi rendition="#bold">Hitschmann<lb/> Eduard</hi>: Über Träume Gottfried Kellers. Z. II. S. 41. — <hi rendition="#bold">Ders.</hi>: Weitere Mit<lb break="no"/>teilung von Kindheitsträumen mit spezieller Bedeutung. Z. II. S. 31. — <hi rendition="#bold">Ders.</hi>:<lb/> Über eine im Traum angekündigte Reminiszenz an ein sexuelles Jugenderlebnis.<lb/> Z. V. S. 205. — <hi rendition="#bold">Hoche</hi>: Mögliche Ziele der Traumforschung. Arch. f. Psych. Bd. 61<lb/> — <hi rendition="#bold">Hofmann W.</hi>: J. H. Pestalozzi und der Traum. Z. VI. S. 353. — <hi rendition="#bold">Ders.</hi>: Viktor<lb/> Blüthgen: Der Traum. Ebenda. — <hi rendition="#bold">Hug-Hellmuth</hi>: Ein Traum, der sich selber<lb/> deutet Z III. S. 33. — <hi rendition="#bold">Kafka Gustav</hi>: Notiz über einen im Traum angestellten<lb/> Versuch, den Traum selbst zu analysieren. Ztschr. f. angew. Psychol. VIII. 1914.<lb/> — <hi rendition="#bold">Ders.</hi>: Zweite Notiz usw. Ebenda IX. — <hi rendition="#bold">Kaplan Leo</hi>: Grundzüge der Psycho<lb break="no"/>analyse. 1914. — <hi rendition="#bold">Ders.</hi>: Psychoanalytische Probleme. 1916. — <hi rendition="#bold">Ders.</hi>: Hypnotismus,<lb/> Animismus und Psychoanalyse. 1917. — <hi rendition="#bold">Ders.</hi>: Über wiederkehrende Traumsymbole.<lb/> Z. IV. S. 284. — <hi rendition="#bold">Karpinska L.</hi>: Ein Beitrag zur Analyse sinnloser Worte im<lb/> Traume. Z. III. S. 164. — <hi rendition="#bold">Kardos M.</hi>: Zur Traumsymbolik. Z. IV. S. 113. —<lb/> <hi rendition="#bold">Ders.</hi>: Aus einer Traumanalyse. Z. IV. S. 267. — <hi rendition="#bold">Ders.</hi>: Zwei Inzestträume.<lb/> Z. V. S. 299. — <hi rendition="#bold">Ders.</hi>: Zur Stiegensymbolik im Traume. Z. V. S. 300. —<lb/> <hi rendition="#bold">Klages Ludwig</hi>: Vom Traumbewußtsein. Ztschr. f. Pathopsychologie. III. 1914.<lb/> <hi rendition="#bold">Köhler Paul</hi>: Ein Beitrag zur Traumpsychologie. Arch. t. d. ges. Psychol. 1913.<lb/> S. 234. — <hi rendition="#bold">Koehler</hi>: Unser Denken im Wachen und Träumen. Psychiatr.-Neurol.<lb/> Wochschr. 1914. Nr. 46. — <hi rendition="#bold">Koerber Heinrich</hi>: Die Traumanalyse als Hilfsmittel<lb/> im Strafverfahren. Deutsche Strafrechtsztg. 1917. — <hi rendition="#bold">Kolisch Fritz</hi>: Ein böser<lb/> Traum. Ztschr. f. Psychotherapie. VI. 1914. — <hi rendition="#bold">Krauss F. S.</hi>: Ein Traum König<lb/> Karls. Z. VI. S. 347. — <hi rendition="#bold">Lewin Robert</hi>: Traum und Kunst. „März“. 18. April 1914.<lb/> — <hi rendition="#bold">Lilienfein Heinrich</hi>: Hütet Euch zu träumen und zu dichten. Eine Auseinander<lb break="no"/>setzung mit der Traumdeuterei der Wissenschaft. Die Grenzboten. 1914. Nr. 7. —<lb/> <hi rendition="#bold">Lomer Georg</hi>: Zur Technik des Traumes. Die Umschau. XX. 1916. Nr. 42. —<lb/> <hi rendition="#bold">Ders.</hi>: Der Traumspiegel. Ein Traumbuch auf wissenschaftlicher Grundlage.<lb/> München o. J. — <hi rendition="#bold">Ders.</hi>: Die Welt der Wahrträume. Leipzig 1919. — <hi rendition="#bold">Maeder<lb/> Alfons</hi>: Über das Traumproblem. Jahrb. V. 1913. S. 453 — <hi rendition="#bold">Neue</hi> Erscheinungen<lb/> über Schlaf, Traum und Grenzgebiete. Ztschr. f. angew. Psychol. XV. 447. —<lb/> <hi rendition="#bold">Neuere</hi> Literatur über Schlaf und Traum. Ebenda. IX. 1914. — <hi rendition="#bold">Niedermann<lb/> Julius</hi>: Drei Träume. Berner Seminarblätter. VIII. — <hi rendition="#bold">Page J.</hi>: Ein Wahrtraum.<lb/> Zentralbl. f. Psa. IV. S. 413. — <hi rendition="#bold">Petersen Marg.</hi>: Ein telepathischer Traum.<lb/> Zentralbl. IV. S. 84. — <hi rendition="#bold">Pötzl Otto</hi>: Experimentell erregte Traumbilder in ihren<lb/> Beziehungen zum indirekten Sehen. Ztschr. f. d. ges. Neurol. und Psych. Bd. 37. 1917.<lb/> — <hi rendition="#bold">Rank Otto</hi>: Fehlhandlung und Traum. Z. III. S. 158. — <hi rendition="#bold">Ders.</hi>: Die Geburts<lb break="no"/>Rettungsphantasie in Traum und Dichtung. Z. II. S. 43. — <hi rendition="#bold">Ders.</hi>: Ein gedichteter<lb/> Traum. Z. III. S. 231. — <hi rendition="#bold">Reik Theodor</hi>: Der Nacktheitstraum des Forschungs<lb break="no"/>reisenden. Z. II. S. 463. — <hi rendition="#bold">Ders.</hi>: Traum und Kunst. „März“. 9. Mai 1914. —<lb/> <hi rendition="#bold">Ders.</hi>: Gotthilf Schuberts „Symbolik des Traumes“. Z. III. S. 295. — <hi rendition="#bold">Ders.</hi>:<lb/> Völkerpsychologische Parallelen zum Traumsymbol des Mantels. Z. VI. S. 310. —<lb/> <hi rendition="#bold">Ders.</hi>: Zum Thema: Traum und Nachtwandeln. Z. VI. S. 311. — <hi rendition="#bold">Róheim G.</hi>:<lb/> Die Urszene im Traume. Z. VI. S. 337. — <hi rendition="#bold">Sachs Hanns</hi>: Das Zimmer als Traum<lb break="no"/>darstellung des Weibes. Z. II. S. 35. — <hi rendition="#bold">Ders.</hi>: Ein absurder Traum. Z. III. S. 35.<lb/> — <hi rendition="#bold">Sadger J.</hi>: Über Pollutionen und Pollutionsträume. Fortschr. d. Med.<lb/> 36. Jahrg. 1918/19. Nr. 14/15. — <hi rendition="#bold">Ders.</hi>: Über Prüfungsangst und Prüfungsträume.<lb/> Z. VI. S. 140. — <hi rendition="#bold">Schilder Paul</hi> und <hi rendition="#bold">Herschmann H.</hi>: Träume der Melancho<lb break="no"/></p>
+         
+         
+            
+             
+         
+         
+            
+              <p><hi rendition="#bold">Materialien</hi>: Daphnis und Chloe. Z. V. S. 307. — <hi rendition="#bold">Dostojewski</hi> über den<lb/> Traum. Z. V. S. 307. — <hi rendition="#bold">Der Fürst von Ligne</hi> und die Träume (von Max Hoch<lb break="no"/>dorf). Z. III. S. 249. — <hi rendition="#bold">Jokai Maurus</hi> über den Traum. Z. V. S. 307. —<lb/> <hi rendition="#bold">Petronius</hi> Satyrikon. Zentralbl. f. Psa. IV. 1914. S. 515. — <hi rendition="#bold">Traum Benvenuto<lb/> Cellinis</hi> (v. W. Stekel) Zentralbl. f. Psa. IV. 1914. S. 322. — <hi rendition="#bold">Ein Traum<lb/> Goethes.</hi> Ebda. 512.<lb break="paragraph"/></p> <p><hi rendition="#bold">Zur Symbolik</hi>: <hi rendition="#bold">Ferenczi S.</hi>: Sinnreiche Variante des Schuhsymbols der<lb/> Vagina. Z. IV. S. 112. — <hi rendition="#bold">Fischer A.</hi>: Die Quitte als Vorzeichen bei Persern<lb/> und Arabern und das Traumbuch des Abdal Rani an Nabulusie. Ztschr. d. deutsch.<lb/> morgl. Ges. 1914. — <hi rendition="#bold">Jones Ernest</hi>: Die Theorie der Symbolik. Z. V. S. 244.<lb/> — <hi rendition="#bold">Traumdeuterei</hi>, Astronomie und Astrologie in China. Himmel und Erde. 1913.<lb break="paragraph"/></p> <p><hi rendition="#bold">Kleinere Beiträge</hi>: Z. I. S. 159, 161, 378 79, 492-94, 495, 556, 569.<lb/> Z. II. S. 50-59, 379-82.<lb break="paragraph"/></p> <p><hi rendition="#bold">b</hi>) <hi rendition="#bold">Englische Literatur.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">Bayley, H.</hi>: The lost language of symbolism. Vols. 2. Williams &amp; Norgate,<lb/> London. — <hi rendition="#bold">Bellamy, R.</hi>: An act of everyday life treated as a pretended dream<lb/> and interpreted by psychoanalysis. <hi rendition="#em">J. of Abn. Psych.</hi> Vol. X. No. 1. — <hi rendition="#bold">Benedict,<lb/> A. L.</hi>: Dreams. <hi rendition="#em">New York Medical Journal.</hi> April 4 th. 1919. — <hi rendition="#bold">Bravit</hi>: Prevalent<lb/> theories in Hebrew literature on the causation of dreams. <hi rendition="#em">Med. Review of Rev.</hi> 1914.<lb/> No. 20. — <hi rendition="#bold">Brill, A. A.</hi>: Artificial dreams and lying. <hi rendition="#em">J. of Abn. Psych.</hi> Vol. IX.<lb/> No. 5. P. 321. <hi rendition="#bold">Brill, A. A.</hi>: Fairy tales as a determinant of dreams and neurotic<lb/> symptoms. <hi rendition="#em">New York Med. Journ.</hi> March 21 st. 1914. — <hi rendition="#bold">Burr, C. B.</hi>: Two very<lb/> definite wish-fulfillment dreams. <hi rendition="#em">Psychoanalytic Rev.</hi> Vol. III. No. 3. P. 292. —<lb/> <hi rendition="#bold">Carr, H. W.</hi>: The philosophical aspects of Freud's theories of dream interpretation.<lb/> <hi rendition="#em">Mind.</hi> 1917. No. 91. — <hi rendition="#bold">Coriat, I. H.</hi>: The meaning of dreams. Mind and Health<lb/> series. Lond. Wm. Heinemann. Pp. 191. — <hi rendition="#bold">Crenshaw, H.</hi>: Retaliation dreams.<lb/> <hi rendition="#em">Psychoanalyt. Rev.</hi> Vol. III. No. 4. P. 391 — <hi rendition="#bold">Crenshaw, H.</hi>: Dream Interpretation<lb/> <hi rendition="#em">New York Med. Jour.</hi> Vol. XCIX, April 11 th. 1919. — <hi rendition="#bold">Culpin, M.</hi>: Dreams and<lb/> their value in treatment. <hi rendition="#em">The Practitioner.</hi> Vol. CII. No. 3. March 1919. — <hi rendition="#bold">Frink, H. W.</hi>:<lb/> Dream and neurosis. <hi rendition="#em">Interstate Med. Journ.</hi> 1915. — <hi rendition="#bold">Hyslopp, G. H.</hi>: Analysis<lb/> and discussion of 225 personal dreams. <hi rendition="#em">Proc. of Amer. Soc. for Psych. Research.</hi><lb/> Vol. VIII. Aug. 1914. — <hi rendition="#bold">Kimmins, C. W.</hi>: Childrens' dreams. <hi rendition="#em">The Times.</hi><lb/> Feb. 14 th. 1919. — <hi rendition="#bold">Lind, J. E.</hi>: The dream as a simple wish-fulfillment in the<lb/> Negro. <hi rendition="#em">Psychoanalyt. Rev.</hi> Vol. I. No. 3. P. 295. — <hi rendition="#bold">Mordell, A.</hi>: The erotic<lb/> motive in literature. Boni &amp; Liveright. New York. 1919. Pp. 250. — <hi rendition="#bold">Nicoll, M.</hi>:<lb/> Dream psychology. Henry Frowde, Hodder &amp; Stoughton. Oxford Univ. Press. 1917.<lb/> Pp. 188. — <hi rendition="#bold">Pear, T. H.</hi>: The analysis of some personal dreams with reference<lb/> to Freud's theory of dream interpretation. <hi rendition="#em">Brit. J. of Psych.</hi> Vol. VI. Parts 3 and<lb/> 4. Feb. 1914. — <hi rendition="#bold">Putnam, J. J.</hi>: Dream interpretation and the theory of psycho<lb break="no"/>analysis. <hi rendition="#em">J. of Abn. Psych.</hi> Vol. IX. No. 1. P. 36. — <hi rendition="#bold">Ralunet, H.</hi>: The causation<lb/> of dreams. <hi rendition="#em">Med. Record.</hi> Feb. 28 th. 1914. — <hi rendition="#bold">Ramnarayan</hi>: The Dream Problem.<lb/> Delhi, India. — <hi rendition="#bold">Rivers, W. H. R.</hi>: Dreams and primitive culture. <hi rendition="#em">Proc. of The<lb/> Brit. Psych. Soc.</hi> Also publ: Univ. Press. Manchester 1918. Pp. 28. Soc. Jan.<lb break="paragraph"/><pb n="19" xml:id="page__9964408e-e246-4a42-8bdc-e9e44e8025d9"/><fw type="pageNum">477</fw>26 th. 1918. — <hi rendition="#bold">Solomon, M.</hi>: A contribution to the analysis and interpretation<lb/> of dreams based on the instinct of self-preservation. <hi rendition="#em">Amer. J. of Insanity.</hi> July 1914.<lb/> — <hi rendition="#bold">Solomon, M.</hi>: Some remarks on the meaning of dreams. <hi rendition="#em">Med. Record.</hi> Jan,<lb/> 31 st. 1914. — <hi rendition="#bold">Solomon, M.</hi>: On the analysis and interpretation of dreams based<lb/> on various motives and on the theory of psychoanalysis. <hi rendition="#em">J. of Abn. Psych.</hi> Vol. IX.<lb/> Nos. 2-3. June-Sept. 1914. — <hi rendition="#bold">Solomon, M.</hi>: A few dream analyses. <hi rendition="#em">J. of<lb/> Abn. Psych.</hi> Vol. IX. No. 5. Dec. 1914. — <hi rendition="#bold">Tannenbaum, S. A.</hi>: Pollutions.<lb/> <hi rendition="#em">Amer. J. of Urology.</hi> March 1916. — <hi rendition="#bold">Tannenbaum, S. A.</hi>: The art of dream<lb/> interpretation. <hi rendition="#em">J. of Urology and Sexology.</hi> Jan. 1919. — <hi rendition="#bold">Watson, J.</hi>: An<lb/> analysis of some personal dreams. <hi rendition="#em">Proc. Amer. Soc. for Psych. Research.</hi> Vol. VIII.<lb/> 2nd. Aug. 1914. — <hi rendition="#bold">Weinberg, A. K.</hi>: The dream of Jean Christophe. <hi rendition="#em">J. of Abn.<lb/> Psych.</hi> Vol. XIII. No. 1. P. 12.<lb break="paragraph"/></p>
+         
+         
+            
+              <p><hi rendition="#bold">c</hi>) <hi rendition="#bold">Französische Literatur.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">Baudoin</hi>: Symbolisme de quelques rêves survenus pendant la Tbc. Pulm.<lb/> Arch. de Psychol. 1916. T. XVI. p. 133-142. — <hi rendition="#bold">Berguer Georges</hi>: Notes sur<lb/> le Langage du Rêve. Arch. de Psychol. 1914. T. XIV. p. 231-215. — <hi rendition="#bold">Bonjour</hi>:<lb/> Les rêves. Bibliothèque Universelle. Lausanne 1920. — <hi rendition="#bold">Claparède Edouard,<lb/> Prof.</hi>: Sur la Fonction du Rêve. Rev. Philos. 1916. p. 298. — <hi rendition="#bold">Ders.</hi>: Rêve<lb/> Satisfaisant un Désir. Arch. de Psychol. 1917. T. XVI. p. 300-302. — <hi rendition="#bold">Delage<lb/> Yves, Prof.</hi>: Théorie du Rêve de Freud. Bull. Inst. Gén. Psychol. 1915. T. XV.<lb/> p. 117-135. <hi rendition="#bold">Ders.</hi>: Quelques Points de la Psychol. du Rêveur. Bull. Inst. Psych.<lb/> 1919. T. XIX. p. 75-85. — <hi rendition="#bold">Ders.</hi>: La Conscience Psychique et le Rêve. Ibidem.<lb/> p. 163-187. — <hi rendition="#bold">Flournoy H.</hi>: Quelques rêves, au sujet de la signification sym<lb break="no"/>bolique de l'eau et du feu. Z. VI. p. 328. — <hi rendition="#bold">Kollarits, J.</hi>: Contributions à I'Etude<lb/> des Rêves. Arch. de Psychol. 1914. T. XIV. p. 248-276.<lb break="paragraph"/></p> <p><hi rendition="#bold">d</hi>) <hi rendition="#bold">Holländische Literatur.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">A. J. Kiewiet de Jonge</hi>: Naar aanleiding van Freud's droomverklaring<lb/> Doktordiss. Groningen, M. de WaaI. 1918. (Im Anschluß an Freuds Traumdeutung.)<lb/> — <hi rendition="#bold">Ad. F. Meyer</hi>: De droom. Holl. Drukkery. Baarn. 1916. — <hi rendition="#bold">van Raalte F.</hi>:<lb/> Kinderdroomen. (Kinderträume.) Het Kind. 1912. Jan. — <hi rendition="#bold">J. Stärcke</hi>: Nieuwe<lb/> droom-experimenten in verband met ondere en nieuwere Droom-theorien. (Deutsch<lb/> im Jahrb. f. Psa.) Psychiatr. en Neurol. Bl. 1912. 2. — <hi rendition="#bold">N. van Suchtelen</hi>: Uit<lb/> de diepten der ziel. Samenspraken over droom en geweten. (Aus den Tiefen der Seele.<lb/> Daloge über Traum und Gewissen.) Amsterdam, M. voor Goede en Goedkoope<lb/> lectuur. 1917.<lb break="paragraph"/></p> <p><hi rendition="#bold">e</hi>) <hi rendition="#bold">Spanische Literatur.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">Delgado H. F.</hi>: La rehabilitación de la interpretación de los suenos. (Die Rehabi<lb break="no"/>litation der Traumdeutung.) Rev. de Criminologia, Psiquiatria y Medicina Legal 1918.<lb break="paragraph"/></p> <p><hi rendition="#bold">f</hi>) <hi rendition="#bold">Übersetzungen.</hi><lb break="paragraph"/></p> <p>Englisch.<lb break="paragraph"/></p> <p><hi rendition="#bold">Freud, S.</hi>: On dreams. Transl. by M. D. Eder. Heinemann. London. Pp. 109.<lb/> — <hi rendition="#bold">Freud, S.</hi>: Delusion and dreams. (With an introduction by G. Stanley Hall.)<lb/> Transl. by H. M. Downey. Moffat, Yard Co. 1917 Pp 243 — <hi rendition="#bold">Maeder, A. E.</hi>:<lb/> The dream problem Author transl. by F. M. Hallock and S. E. Jelliffe. Nerv. and<lb/> Ment. Dis. Publ. Co. New York. Monograph Series. No. 22. 1916. — <hi rendition="#bold">Stekel, W.</hi>:<lb/> The technique of dream interpretation. Transl. by J. E. Lind. Psychoanalyt. Rev.<lb/> Vol. IV. No. 1. P. 84.<lb break="paragraph"/></p>
+         
+         
+            <pb n="20" xml:id="page__e587f69b-9223-453f-95d7-170b6b3c0e0d"/>
+            <fw type="pageNum">478</fw> <p>Russisch.<lb break="paragraph"/></p> <p>Der Wahn und die Träume in W. Jensens „Gradiva“. Odessa 1912. — Die<lb/> Traumdeutung. Moskau 1913. — Die Handhabung der Traumdeutung in der<lb/> Psychoanalyse. Psychotherapia 1913. Nr. 2.<lb break="paragraph"/></p> <p>Ungarisch.<lb break="paragraph"/></p> <p><hi rendition="#bold">Freud Sigm.</hi>: Az álomról. A 2. kiadás után fórditotta dr. Ferenczi S. (Vom<lb/> Traum. Nach der 2. Aufl. übersetzt von Dr. S. Ferenczi.) Budapest 1915. 2. Aufl.<lb/> 1919.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

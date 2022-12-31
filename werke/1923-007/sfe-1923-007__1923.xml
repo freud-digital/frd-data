@@ -1,270 +1,249 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
-        <title type="manifestation" level="a">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1923)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
+            <title type="manifestation" level="a">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes (1923-007/1923)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>OCR korr. SL</p>
-          <p>2. OCR korr. KK</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1923-007-1928">
-            <analytic>
-              <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">GS 11</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Zürich</pubPlace>
-                <date when="1928-01-01">1928-01-01</date>
-              </imprint>
-              <extent>297 Seiten</extent>
-              <biblScope unit="volume">11. Band</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1923-007-1923" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
-              </respStmt>
-              <imprint>
-                <date when="1923-06-01">1923-06-01</date>
-              </imprint>
-              <extent>XI - 3 Seiten</extent>
-              <biblScope unit="volume">21</biblScope>
-              <biblScope unit="year">6</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__4c35f75b-310a-477b-9913-00e5cf802d02">
-                <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. SL</p>
+<p>2. OCR korr. KK</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-007-1928">
+                     <analytic>
+                        <title type="manifestation">Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 11</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+<extent>297 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-007-1923" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Zeitschrift des Vereines Allgemeine Nährpflicht</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__f9c98d5b-ea95-4b94-bdad-3552ebdb24d9">Verein Allgemeine Nährpflicht</name>
+                     </respStmt>
+                     <imprint>
+                        <date when="1923-06-01">1923-06-01</date>
+                     </imprint>
+                     <extent>XI - 3 Seiten</extent>
+                     <biblScope unit="volume">21</biblScope>
+                     <biblScope unit="year">6</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__4c35f75b-310a-477b-9913-00e5cf802d02">
+                        <title>In Memoriam: Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1923-007/1923</idno>
-                <idno type="url">https://www.freud-edition.net/werke/memoriam-josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/4c35f75b-310a-477b-9913-00e5cf802d02</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
-                    <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>Privatarchiv Christfried Tögel</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-007/1923</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/memoriam-josef-popper-lynkeus-und-die-theorie-des-traumes/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/4c35f75b-310a-477b-9913-00e5cf802d02</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__7f1ce2ef-dc26-45e2-b90a-85d866403b1c">
+                              <title>Freud, Sigmund  (1923-007; 1923f): Josef Popper-Lynkeus und die Theorie des Traumes</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/josef-popper-lynkeus-und-die-theorie-des-traumes</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7f1ce2ef-dc26-45e2-b90a-85d866403b1c</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Privatarchiv Christfried Tögel</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="2" xml:id="page__2bd992ca-4d0b-427c-8573-5307d8fb8267"/>
-        <fw type="pageNum">XI-1</fw>
-        <p rendition="#level_3">IN MEMORIAM<hi rendition="#footnote-index">*)</hi>
-        </p>
-        <p rendition="#level_3">Josef Popper-Lynkeus und die Theorie des Traumes</p>
-        <p rendition="#level_3">von Prof. Sigm. Freud</p>
-        <p>Über den Anschein wissenschaftlicher Originalität<lb/> ist viel Interessantes zu sagen. Wenn in der Wissen<lb break="no"/>schaft eine neue Idee auftaucht, die zunächst als<lb/> Entdeckung gewertet und in der Regel als solche<lb/> auch bekämpft wird, so weist die objektive Er<lb break="no"/>forschung bald nach, daß sie eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt<lb/> gemacht und dann wieder vergessen worden, oft<lb/> zu sehr weit von einander entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde un<lb break="no"/>deutlich geahnt oder unvollkommen ausgesprochen.<lb/> Das ist zu genau bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"/>
-        </p>
-        <p>Aber auch die subjektive Seite der Originalität<lb/> ist der Verfolgung würdig. Ein wissenschaftlicher<lb/> Arbeiter mag sich einmal die Frage stellen, woher<lb/> die ihm eigentümlichen Ideen kommen, die er an<lb/> sein Material herangebracht hat. Dann findet er<lb/> von einem Teil derselben ohne viel Besinnen, auf<lb/> welche Anregungen er zurückgeht, welche Angaben<lb/> von anderer Seite er dabei aufgegriffen, modifiziert<lb/> und ihre Konsequenzen ausgeführt hat. Von<lb/> einem anderen Anteil seiner Ideen kann er nichts<lb/> Ähnliches bekennen, er muß annehmen, diese Ge<lb break="no"/>danken und Gesichtspunkte seien in seiner eigenen<lb/> Denktätigkeit — er weiß nicht wie — entstanden,<lb/> durch sie stützt er seinen Anspruch auf Originalität.<lb break="paragraph"/>
-        </p>
-        <p>Sorgfältige psychologische Untersuchung<lb/> schränkt diesen Anspruch dann noch weiter ein.<lb/> Sie deckt verborgene, längst vergessene Quellen auf,<lb/> aus denen die Anregung der anscheinend originellen<lb/> Ideen erflossen ist und setzt an Stelle der ver<lb break="no"/>meintlichen Neuschöpfung eine Wiederbelebung des<lb/> Vergessenen in der Anwendung auf einen neuen<lb break="paragraph"/>
-          <pb n="3" xml:id="page__47b02447-2a55-4ef0-a7d2-a06af0d9038c"/>
-          <fw type="pageNum">XI-2</fw>Stoff, daran ist nichts zu bedauern; man hatte ja<lb/> kein Recht zu erwarten, daß das „Originelle” etwas<lb/> Unableitbares, Indeterminiertes sein würde. Auf<lb/> solche Weise hat sich auch für meinen Fall die<lb/> Originalität vieler neuer Gedanken, die ich in der<lb/> Traumdeutung und in der Psychoanalyse verwendet<lb/> hatte, verflüchtigt. Nur von einem dieser Gedanken<lb/> kenne ich die Herkunft nicht. Er ist geradezu der<lb/> Schlüssel meiner Auffassung des Traumes geworden<lb/> und hat mir dazu verholfen, seine Rätsel zu lösen,<lb/> soweit sie bis heute lösbar geworden sind. Ich<lb/> knüpfte an den fremdartigen, verworrenen, unsinnigen<lb/> Charakter so vieler Träume an und kam auf die<lb/> Idee, daß der Traum so werden müsse, weil in ihm<lb/> etwas nach Ausdruck ringt, was den Widerstand<lb/> anderer Mächte des Seelenlebens gegen sich hat.<lb/> Im Traume rühren sich geheime Regungen, die mit<lb/> dem sozusagen offiziellen ethischen und ästhetischen<lb/> Bekenntnis des Träumers im Widerspruch stehen;<lb/> darum schämt sich der Träumer dieser Regungen,<lb/> wendet sich tagsüber von ihnen ab, will nichts von<lb/> ihnen wissen, und wenn er ihnen zur Nachtzeit nicht<lb/> jede Art von Ausdruck verwehren kann, zwingt er sie<lb/> zur <hi rendition="#smallcaps">Traumentstellung</hi>, durch die der Trauminhalt<lb/> verworren und unsinnig erscheint. Die seelische<lb/> Macht im Menschen, die diesem inneren Wider<lb break="no"/>spruch Rechnung trägt und zu Gunsten der kon<lb break="no"/>ventionellen oder auch der höheren sittlichen An<lb break="no"/>sprüche die primitiven Triebregungen des Traumes<lb/> entstellt, nannte ich die <hi rendition="#smallcaps">Traumzensur</hi>.<lb break="paragraph"/>
-        </p>
-        <note type="footnote">
-          <hi rendition="#footnote-index">*)</hi> Siehe Nr. 17, 18, 19.<lb break="paragraph"/>
-        </note>
-        <p>Gerade dieses wesentliche Stück meiner Traum<lb break="no"/>theorie hat aber Popper-Lynkeus selbst gefunden.<lb/> Man vergleiche das nachstehende Zitat aus seiner<lb/> Erzählung „Träume wie Wachen“ in den „Phanta<lb break="no"/>sieen eines Realisten“, die sicherlich ohne Kenntnis<lb/> meiner 1900 veröffentlichten „Traumtheorie“ ge<lb break="no"/>schrieben worden sind, wie ich auch damals Lynkeus’<lb/> Phantasien noch nicht kannte:<lb break="paragraph"/>
-        </p>
-        <p>„<quote type="inlinequote">Von einem Manne, der die merkwürdige<lb/> Eigenschaft hat, niemals Unsinn zu träumen</quote>“...<lb/> „<quote type="inlinequote">Diese herrliche Eigenschaft, zu träumen wie zu</quote>
-          <lb break="paragraph"/>
-          <pb n="4" xml:id="page__c2cde4c4-7ada-4bf9-8b93-083b47f2d750"/>
-          <fw type="pageNum">XI-3</fw>
-          <quote type="inlinequote">wachen, beruht auf Deinen Tugenden, auf Deiner<lb/> Güte, Deiner Gerechtigkeit, Deiner Wahrheitsliebe:<lb/> es ist die moralische Klarheit Deiner Natur, die<lb/> mir alles an Dir verständlich macht.“</quote>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <quote type="inlinequote">„Wenn ich aber recht bedenke“, erwiderte der<lb/> Andere, „so glaube ich beinahe, alle Menschen seien<lb/> so wie ich beschaffen, und gar niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deut<lb break="no"/>lich erinnert, daß man ihn nacherzählen kann, der<lb/> also kein Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann gar nicht anders sein! Denn was mit<lb break="no"/>einander im Widerspruch steht, könnte sich ja<lb/> nicht zu einem Ganzen gruppieren. Daß Zeit und<lb/> Ort oft durcheinander gerüttelt werden, benimmt<lb/> dem wahren Gehalt des Traumes gar nichts, denn<lb/> sie beide sind gewiß ohne Bedeutung für seinen<lb/> wesentlichen Inhalt gewesen. Wir machen es ja oft<lb/> im Wachen auch so: denke an das Märchen, an so<lb/> viele sinnvolle Phantasiegebilde, zu denen nur ein<lb/> Unverständiger sagen würde: Das ist widersinnig!<lb/> denn das ist nicht möglich!«“</quote>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <quote type="inlinequote">„Wenn man nur die Träume immer richtig<lb/> zu deuten wüßte, so wie Du es eben mit dem<lb/> meinen getan hast,“ sagte der Freund.</quote>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <quote type="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es<lb/> müßte bei einiger Aufmerksamkeit dem Träumenden<lb/> wohl immer gelingen. Warum es meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in<lb/> den Träumen liegen, etwas Unkeusches eigener und<lb/> höherer Art, eine gewisse Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum<lb/> scheint Euer Träumen so oft ohne Sinn, sogar ein<lb/> Widersinn zu sein. Es ist aber im tiefsten Grunde<lb/> nicht so; ja, es kann gar nicht anders sein, denn es<lb/> ist immer derselbe Mensch, ob er wacht oder träumt.</quote>“<lb break="paragraph"/>
-        </p>
-        <p>Ich glaube, was mich dazu befähigt hat, die<lb/> Ursache der Traumentstellung aufzufinden, war<lb/> mein moralischer Mut. Bei <hi rendition="#smallcaps">Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit<lb/> seines Wesens.<lb break="paragraph"/>
-        </p>
-        <pb n="1" xml:id="page__8d9b111f-ffdf-4897-80da-f83f991a1259"/>
-        <p>BLANK<lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="2" xml:id="page__2bd992ca-4d0b-427c-8573-5307d8fb8267"/>
+            <fw type="pageNum">XI-1</fw> <p rendition="#level_3">IN MEMORIAM<hi rendition="#footnote-index">*)</hi></p><p rendition="#level_3">Josef Popper-Lynkeus und die Theorie des Traumes</p><p rendition="#level_3">von Prof. Sigm. Freud</p><p>Über den Anschein wissenschaftlicher Originalität<lb/> ist viel Interessantes zu sagen. Wenn in der Wissen<lb break="no"/>schaft eine neue Idee auftaucht, die zunächst als<lb/> Entdeckung gewertet und in der Regel als solche<lb/> auch bekämpft wird, so weist die objektive Er<lb break="no"/>forschung bald nach, daß sie eigentlich doch keine<lb/> Neuheit ist. In der Regel ist sie schon wiederholt<lb/> gemacht und dann wieder vergessen worden, oft<lb/> zu sehr weit von einander entfernten Zeiten. Oder<lb/> sie hat wenigstens Vorläufer gehabt, wurde un<lb break="no"/>deutlich geahnt oder unvollkommen ausgesprochen.<lb/> Das ist zu genau bekannt, als daß es einer weiteren<lb/> Ausführung bedürfte.<lb break="paragraph"/></p> <p>Aber auch die subjektive Seite der Originalität<lb/> ist der Verfolgung würdig. Ein wissenschaftlicher<lb/> Arbeiter mag sich einmal die Frage stellen, woher<lb/> die ihm eigentümlichen Ideen kommen, die er an<lb/> sein Material herangebracht hat. Dann findet er<lb/> von einem Teil derselben ohne viel Besinnen, auf<lb/> welche Anregungen er zurückgeht, welche Angaben<lb/> von anderer Seite er dabei aufgegriffen, modifiziert<lb/> und ihre Konsequenzen ausgeführt hat. Von<lb/> einem anderen Anteil seiner Ideen kann er nichts<lb/> Ähnliches bekennen, er muß annehmen, diese Ge<lb break="no"/>danken und Gesichtspunkte seien in seiner eigenen<lb/> Denktätigkeit — er weiß nicht wie — entstanden,<lb/> durch sie stützt er seinen Anspruch auf Originalität.<lb break="paragraph"/></p> <p>Sorgfältige psychologische Untersuchung<lb/> schränkt diesen Anspruch dann noch weiter ein.<lb/> Sie deckt verborgene, längst vergessene Quellen auf,<lb/> aus denen die Anregung der anscheinend originellen<lb/> Ideen erflossen ist und setzt an Stelle der ver<lb break="no"/>meintlichen Neuschöpfung eine Wiederbelebung des<lb/> Vergessenen in der Anwendung auf einen neuen<lb break="paragraph"/><pb n="3" xml:id="page__47b02447-2a55-4ef0-a7d2-a06af0d9038c"/><fw type="pageNum">XI-2</fw>Stoff, daran ist nichts zu bedauern; man hatte ja<lb/> kein Recht zu erwarten, daß das „Originelle” etwas<lb/> Unableitbares, Indeterminiertes sein würde. Auf<lb/> solche Weise hat sich auch für meinen Fall die<lb/> Originalität vieler neuer Gedanken, die ich in der<lb/> Traumdeutung und in der Psychoanalyse verwendet<lb/> hatte, verflüchtigt. Nur von einem dieser Gedanken<lb/> kenne ich die Herkunft nicht. Er ist geradezu der<lb/> Schlüssel meiner Auffassung des Traumes geworden<lb/> und hat mir dazu verholfen, seine Rätsel zu lösen,<lb/> soweit sie bis heute lösbar geworden sind. Ich<lb/> knüpfte an den fremdartigen, verworrenen, unsinnigen<lb/> Charakter so vieler Träume an und kam auf die<lb/> Idee, daß der Traum so werden müsse, weil in ihm<lb/> etwas nach Ausdruck ringt, was den Widerstand<lb/> anderer Mächte des Seelenlebens gegen sich hat.<lb/> Im Traume rühren sich geheime Regungen, die mit<lb/> dem sozusagen offiziellen ethischen und ästhetischen<lb/> Bekenntnis des Träumers im Widerspruch stehen;<lb/> darum schämt sich der Träumer dieser Regungen,<lb/> wendet sich tagsüber von ihnen ab, will nichts von<lb/> ihnen wissen, und wenn er ihnen zur Nachtzeit nicht<lb/> jede Art von Ausdruck verwehren kann, zwingt er sie<lb/> zur <hi rendition="#smallcaps">Traumentstellung</hi>, durch die der Trauminhalt<lb/> verworren und unsinnig erscheint. Die seelische<lb/> Macht im Menschen, die diesem inneren Wider<lb break="no"/>spruch Rechnung trägt und zu Gunsten der kon<lb break="no"/>ventionellen oder auch der höheren sittlichen An<lb break="no"/>sprüche die primitiven Triebregungen des Traumes<lb/> entstellt, nannte ich die <hi rendition="#smallcaps">Traumzensur</hi>.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">*)</hi> Siehe Nr. 17, 18, 19.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Gerade dieses wesentliche Stück meiner Traum<lb break="no"/>theorie hat aber Popper-Lynkeus selbst gefunden.<lb/> Man vergleiche das nachstehende Zitat aus seiner<lb/> Erzählung „Träume wie Wachen“ in den „Phanta<lb break="no"/>sieen eines Realisten“, die sicherlich ohne Kenntnis<lb/> meiner 1900 veröffentlichten „Traumtheorie“ ge<lb break="no"/>schrieben worden sind, wie ich auch damals Lynkeus’<lb/> Phantasien noch nicht kannte:<lb break="paragraph"/></p> <p>„<quote type="inlinequote">Von einem Manne, der die merkwürdige<lb/> Eigenschaft hat, niemals Unsinn zu träumen</quote>“...<lb/> „<quote type="inlinequote">Diese herrliche Eigenschaft, zu träumen wie zu</quote><lb break="paragraph"/><pb n="4" xml:id="page__c2cde4c4-7ada-4bf9-8b93-083b47f2d750"/><fw type="pageNum">XI-3</fw><quote type="inlinequote">wachen, beruht auf Deinen Tugenden, auf Deiner<lb/> Güte, Deiner Gerechtigkeit, Deiner Wahrheitsliebe:<lb/> es ist die moralische Klarheit Deiner Natur, die<lb/> mir alles an Dir verständlich macht.“</quote><lb break="paragraph"/></p>
+         
+         
+            
+              <p><quote type="inlinequote">„Wenn ich aber recht bedenke“, erwiderte der<lb/> Andere, „so glaube ich beinahe, alle Menschen seien<lb/> so wie ich beschaffen, und gar niemand träume<lb/> jemals Unsinn! Ein Traum, an den man sich so deut<lb break="no"/>lich erinnert, daß man ihn nacherzählen kann, der<lb/> also kein Fiebertraum ist, hat <hi rendition="#smallcaps">immer</hi> Sinn. Und<lb/> es kann gar nicht anders sein! Denn was mit<lb break="no"/>einander im Widerspruch steht, könnte sich ja<lb/> nicht zu einem Ganzen gruppieren. Daß Zeit und<lb/> Ort oft durcheinander gerüttelt werden, benimmt<lb/> dem wahren Gehalt des Traumes gar nichts, denn<lb/> sie beide sind gewiß ohne Bedeutung für seinen<lb/> wesentlichen Inhalt gewesen. Wir machen es ja oft<lb/> im Wachen auch so: denke an das Märchen, an so<lb/> viele sinnvolle Phantasiegebilde, zu denen nur ein<lb/> Unverständiger sagen würde: Das ist widersinnig!<lb/> denn das ist nicht möglich!«“</quote><lb break="paragraph"/></p> <p><quote type="inlinequote">„Wenn man nur die Träume immer richtig<lb/> zu deuten wüßte, so wie Du es eben mit dem<lb/> meinen getan hast,“ sagte der Freund.</quote><lb break="paragraph"/></p> <p><quote type="inlinequote">„Das ist gewiß keine leichte Aufgabe, aber es<lb/> müßte bei einiger Aufmerksamkeit dem Träumenden<lb/> wohl immer gelingen. Warum es meistens nicht<lb/> gelingt? Es scheint bei Euch etwas Verstecktes in<lb/> den Träumen liegen, etwas Unkeusches eigener und<lb/> höherer Art, eine gewisse Heimlichkeit in Eurem<lb/> Wesen, die schwer auszudenken ist; und darum<lb/> scheint Euer Träumen so oft ohne Sinn, sogar ein<lb/> Widersinn zu sein. Es ist aber im tiefsten Grunde<lb/> nicht so; ja, es kann gar nicht anders sein, denn es<lb/> ist immer derselbe Mensch, ob er wacht oder träumt.</quote>“<lb break="paragraph"/></p> <p>Ich glaube, was mich dazu befähigt hat, die<lb/> Ursache der Traumentstellung aufzufinden, war<lb/> mein moralischer Mut. Bei <hi rendition="#smallcaps">Popper</hi> war es die<lb/> Reinheit, Wahrheitsliebe und moralische Klarheit<lb/> seines Wesens.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1" xml:id="page__8d9b111f-ffdf-4897-80da-f83f991a1259"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

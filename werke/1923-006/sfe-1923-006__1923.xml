@@ -1,393 +1,295 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1923-006; 1923e): Die infantile Genitalorganisation</title>
-        <title type="manifestation" level="a">Die infantile Genitalorganisation (1923-006/1923)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-006; 1923e): Die infantile Genitalorganisation</title>
+            <title type="manifestation" level="a">Die infantile Genitalorganisation (1923-006/1923)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>analog 1922a und 1923c, siehe Anmerkungen</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1923-006-1924">
-            <analytic>
-              <title type="manifestation">Die infantile Genitalorganisation</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">GS 5</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Zürich</pubPlace>
-                <date when="1924-01-01">1924-01-01</date>
-              </imprint>
-              <extent>237 Seiten</extent>
-              <biblScope unit="volume">5. Band</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1923-006-1931">
-            <analytic>
-              <title type="manifestation">Die infantile Genitalorganisation</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Kleinoktavausgabe</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">Kl. 8° [4]</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1931-01-02">1931-01-02</date>
-              </imprint>
-              <extent>193 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1923-006-1926">
-            <analytic>
-              <title type="manifestation">Die infantile Genitalorganisation</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Zürich</pubPlace>
-                <date when="1926-01-01">1926-01-01</date>
-              </imprint>
-              <extent>146 Seiten</extent>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1923-006-1923" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Die infantile Genitalorganisation</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-              <title type="publication-short">IZP</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1923-01-01">1923-01-01</date>
-              </imprint>
-              <extent>171 Seiten</extent>
-              <biblScope unit="volume">2</biblScope>
-              <biblScope unit="year">9</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__b77754e2-3af2-4319-aa59-a904078667e9">
-                <title>Die infantile Genitalorganisation</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>analog 1922a und 1923c, siehe Anmerkungen</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-006-1923.01">
+                     <analytic>
+                        <title type="manifestation">Die infantile Genitalorganisation. Eine Einschaltung in die Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-006-1926">
+                     <analytic>
+                        <title type="manifestation">Die infantile Genitalorganisation</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>146 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-006-1924">
+                     <analytic>
+                        <title type="manifestation">Die infantile Genitalorganisation</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>237 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-006-1931">
+                     <analytic>
+                        <title type="manifestation">Die infantile Genitalorganisation</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>193 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-006-1923" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Die infantile Genitalorganisation</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                     <title type="publication-short">IZP</title>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1923-01-01">1923-01-01</date>
+                     </imprint>
+                     <extent>171 Seiten</extent>
+                     <biblScope unit="volume">2</biblScope>
+                     <biblScope unit="year">9</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__b77754e2-3af2-4319-aa59-a904078667e9">
+                        <title>Die infantile Genitalorganisation</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1923-006/1923</idno>
-                <idno type="url">https://www.freud-edition.net/werke/die-infantile-genitalorganisation/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b77754e2-3af2-4319-aa59-a904078667e9</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__afa69bdc-6c6f-459a-8f95-5d19de42d0d3">
-                    <title>Freud, Sigmund  (1923-006; 1923e): Die infantile Genitalorganisation</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-infantile-genitalorganisation</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/afa69bdc-6c6f-459a-8f95-5d19de42d0d3</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="IPU">InternationaleZeitschriftFrPsychoanalyseIx1923Heft2</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-006/1923</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/die-infantile-genitalorganisation/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/b77754e2-3af2-4319-aa59-a904078667e9</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__afa69bdc-6c6f-459a-8f95-5d19de42d0d3">
+                              <title>Freud, Sigmund  (1923-006; 1923e): Die infantile Genitalorganisation</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-infantile-genitalorganisation</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/afa69bdc-6c6f-459a-8f95-5d19de42d0d3</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="IPU">InternationaleZeitschriftFrPsychoanalyseIx1923Heft2</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__557a8d1c-3843-493b-aef7-99dd7b564709"/>
-        <fw type="pageNum">[168]</fw>
-        <p rendition="#title">Die infantile Genitalorganisation.<lb break="paragraph"/>
-        </p>
-        <p class="subtitle">(<hi rendition="#smallcaps">Eine Einschaltung in die Sexualtheorie</hi>.)<lb break="paragraph"/>
-        </p>
-        <p>Von Sigm. <hi rendition="#bold">Freud.</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>
-              <span>Es ist recht bezeichnend für die Schwierigkeit der Forschungs<lb break="no"/>arbeit in der Psychoanalyse, daß es möglich ist, allgemeine Züge<lb/> und charakteristische Verhältnisse trotz unausgesetzter jahrzehnte<lb break="no"/>langer Beobachtung zu übersehen, bis sie einem endlich einmal<lb/> unverkennbar entgegentreten; eine solche Vernachlässigung auf<lb/> dem Gebiet der infantilen Sexualentwicklung möchte ich durch<lb/> die nachstehenden Bemerkungen gutmachen.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>
-              <span>Den Lesern meiner „Drei Abhandlungen zur Sexualtheorie“<lb/> (1905) wird es bekannt sein, daß ich in den späteren Ausgaben<lb/> dieser Schrift niemals eine Umarbeitung vorgenommen, sondern<lb/> die ursprüngliche Anordnung gewahrt habe und den Fortschritten<lb/> unserer Einsicht durch Einschaltungen und Abänderungen des<lb/> Textes gerecht geworden bin. Dabei mag es oft vorgekommen<lb/> sein, daß das Alte und das Neuere sich nicht gut zu einer wider<lb break="no"/>spruchsfreien Einheit verschmelzen ließen. Anfänglich ruhte ja<lb/> der Akzent auf der Darstellung der fundamentalen Verschiedenheit<lb/> im Sexualleben der Kinder und der Erwachsenen, später drängten<lb/> sich die <hi rendition="#smallcaps">prägenitalen Organisationen</hi> der Libido in den<lb/> Vordergrund und die merkwürdige und folgenschwere Tatsache<lb/> des <hi rendition="#smallcaps">zweizeitigen Ansatzes</hi> der Sexualentwicklung. Endlich<lb/> nahm die infantile <hi rendition="#smallcaps">Sexualforschung</hi> unser Interesse in<lb/> Anspruch, und von ihr aus ließ sich die weitgehende <hi rendition="#smallcaps">Annäherung<lb/> des Ausganges der kindlichen Sexualität</hi> (um das<lb/> fünfte Lebensjahr) an die Endgestaltung beim Erwachsenen<lb/> erkennen. Dabei bin ich in der letzten Auflage der Sexualtheorie<lb/> (1922) stehen geblieben.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>Auf Seite 63 derselben erwähne ich, daß „häufig oder regel<lb break="no"/>mäßig bereits in den Kinderjahren eine Objektwahl vollzogen<lb/> wird, wie wir sie als charakteristisch für die Entwicklungsphase<lb/> der Pubertät hingestellt haben, in der Weise, daß sämtliche<lb/> Sexualstrebungen die Richtung auf eine einzige Person nehmen, </span>
-          </span>
-          <lb break="paragraph"/>
-          <pb n="2" xml:id="page__a84f0188-d1e0-4bc9-a493-5517de0fc587"/>
-          <fw type="pageNum">169</fw>
-          <span>
-            <span>
-              <span>an der sie ihre Ziele erreichen wollen. Dies ist dann die größte<lb/> Annäherung an die definitive Gestaltung des Sexuallebens nach der<lb/> Pubertät, die in den Kinderjahren möglich ist. Der Unterschied von<lb/> letzterer liegt nur noch darin, daß die Zusammenfassung der Partial<lb break="no"/>triebe und deren Unterordnung unter das Primat der Genitalien in<lb/> der Kindheit nicht oder nur sehr unvollkommen durchgesetzt wird.<lb/> Die Herstellung dieses Primats im Dienste der Fortpflanzung ist<lb/> also die letzte Phase, welche die Sexualorganisation durchläuft.“</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>
-              <span>Mit dem Satz, das Primat der Genitalien sei in der früh<lb break="no"/>infantilen Periode nicht oder nur sehr unvollkommen durchgeführt,<lb/> würde ich mich heute nicht mehr zufrieden geben. Die Annäherung<lb/> des kindlichen Sexuallebens an das der Erwachsenen geht viel<lb/> weiter und bezieht sich nicht nur auf das Zustandekommen einer<lb/> Objektwahl. Wenn es auch nicht zu einer richtigen Zusammen<lb break="no"/>fassung der Partialtriebe unter das Primat der Genitalien<lb/> kommt, so gewinnt doch auf der Höhe des Entwicklungsganges<lb/> der infantilen Sexualität das Interesse an den Genitalien und die<lb/> Genitalbetätigung eine dominierende Bedeutung, die hinter der<lb/> in der Reifezeit wenig zurücksteht. Der Hauptcharakter dieser<lb/> „<hi rendition="#smallcaps">infantilen Genitalorganisation</hi>“ ist zugleich ihr Unter<lb break="no"/>schied von der endgiltigen Genitalorganisation der Erwachsenen.<lb/> Er liegt darin, daß für beide Geschlechter nur ein <hi rendition="#smallcaps">Genitale</hi>,<lb/> das männliche, eine Rolle spielt. Es besteht also nicht ein Genital<lb break="no"/>primat, sondern ein Primat des <hi rendition="#smallcaps">Phallus</hi>.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>
-              <span>Leider können wir diese Verhältnisse nur für das männliche<lb/> Kind beschreiben, in die entsprechenden Vorgänge beim kleinen<lb/> Mädchen fehlt uns die Einsicht. Der kleine Knabe nimmt sicherlich<lb/> den Unterschied von Männern und Frauen wahr, aber er hat<lb/> zunächst keinen Anlaß, ihn mit einer Verschiedenheit ihrer<lb/> Genitalien zusammenzubringen. Es ist ihm natürlich, ein ähnliches<lb/> Genitale, wie er es selbst besitzt, bei allen anderen Lebewesen,<lb/> Menschen und Tieren, vorauszusetzen, ja wir wissen, daß er auch<lb/> an unbelebten Dingen nach einem seinem Gliede analogen Gebilde<lb/> forscht.<hi rendition="#footnote-index">
-                  <span>1</span>
-                </hi> Dieser leicht erregte, veränderliche, an Empfindungen so<lb/> reiche Körperteil beschäftigt das Interesse des Knaben in hohem<lb/> Grade und stellt seinem Forschertrieb unausgesetzt neue Aufgaben.<lb/> Er möchte ihn auch bei anderen Personen sehen, um ihn mit<lb/> seinem eigenen zu vergleichen, er benimmt sich, als ob ihm </span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-          <pb n="3" xml:id="page__58d95a78-ed46-40d9-9a80-e69be6c545a3"/>
-          <fw type="pageNum">170</fw>
-          <span>
-            <span>
-              <span>vorschwebte, daß dieses Glied größer sein könnte und sollte; die<lb/> treibende Kraft, welche dieser männliche Teil später in der<lb/> Pubertät entfalten wird, äußert sich um diese Lebenszeit wesentlich<lb/> als Forschungsdrang, als sexuelle Neugierde. Viele der Exhibi<lb break="no"/>tionen und Aggressionen, welche das Kind vornimmt und die<lb/> man im späteren Alter unbedenklich als Äußerungen von<lb/> Lüsternheit beurteilen würde, erweisen sich der Analyse als<lb/> Experimente im Dienste der Sexualforschung angestellt.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <note type="footnote">
-          <hi rendition="#footnote-index">1</hi> Es ist übrigens merkwürdig, ein wie geringes Maß von Aufmerk<lb break="no"/>samkeit der andere Teil des männlichen Genitales, das Säckchen mit seinen<lb/> Einschlüssen, beim Kinde auf sich zieht. Aus den Analysen könnte man nicht<lb/> erraten, daß noch etwas anderes als der Penis zum Genitale gehört.<lb break="paragraph"/>
-        </note>
-        <p>
-          <span>
-            <span>
-              <span>Im Laufe dieser Untersuchungen gelangt das Kind zur<lb/> Entdeckung, daß der Penis nicht ein Gemeingut aller ihm ähnlichen<lb/> Wesen sei. Der zufällige Anblick der Genitalien einer kleinen<lb/> Schwester oder Gespielin gibt hiezu den Anstoß; scharfsinnige<lb/> Kinder haben schon vorher aus ihren Wahrnehmungen beim<lb/> Urinieren der Mädchen, weil sie eine andere Stellung sehen und<lb/> ein anderes Geräusch hören, den Verdacht geschöpft, daß hier<lb/> etwas anders sei, und dann versucht, solche Beobachtungen in<lb/> aufklärender Weise zu wiederholen. Es ist bekannt, wie sie auf<lb/> die ersten Eindrücke des Penismangels reagieren. Sie leugnen<lb/> diesen Mangel, glauben doch ein Glied zu sehen, beschönigen den<lb/> Widerspruch zwischen Beobachtung und Vorurteil durch die<lb/> Auskunft, es sei noch klein und werde erst wachsen, und kommen<lb/> dann langsam zu dem affektiv bedeutsamen Schluß, es sei doch<lb/> wenigstens vorhanden gewesen und dann weggenommen worden.<lb/> Der Penismangel wird als Ergebnis einer <hi rendition="#smallcaps">Kastration</hi> erfaßt und<lb/> das Kind steht nun vor der Aufgabe, sich mit der Beziehung der<lb/> Kastration zu seiner eigenen Person auseinanderzusetzen. Die<lb/> weiteren Entwicklungen sind zu sehr allgemein bekannt, als daß<lb/> es notwendig wäre, sie hier zu wiederholen. Es scheint mir nur,<lb/>
-                <hi rendition="#smallcaps">daß man die Bedeutung des Kastrationskomplexes erst<lb/> richtig würdigen kann, wenn man seine Entstehung<lb/> in der Phase des Phallusprimats mitberücksichtigt</hi>.<hi rendition="#footnote-index">1</hi>
-              </span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>Es ist auch bekannt, wie viel Herabwürdigung des Weibes,<lb/> Grauen vor dem Weib, Disposition zur Homosexualität sich aus<lb/> der endlichen Überzeugung von der Penislosigkeit des Weibes<lb/> ableitet. <hi rendition="#smallcaps">Ferenczi</hi> hat kürzlich mit vollem Recht das mytho-</span>
-          </span>
-          <lb break="paragraph"/>
-          <pb n="4" xml:id="page__7dab67de-0812-47b6-9ae1-cb689bddd7e7"/>
-          <fw type="pageNum">171</fw>logische Symbol des Grausens, das Medusenhaupt, auf den Eindruck<lb/> des penislosen weiblichen Genitales zurückgeführt.<hi rendition="#footnote-index">1</hi>
-          <lb break="paragraph"/>
-        </p>
-        <note type="footnote">
-          <hi rendition="#footnote-index">1</hi> Es ist mit Recht darauf hingewiesen worden, daß das Kind die<lb/> Vorstellung einer narzißtischen Schädigung durch Körperverlust aus dem<lb/> Verlieren der Mutterbrust nach dem Saugen, aus der täglichen Abgabe der<lb/> Fäzes, ja schon aus der Trennung vom Mutterleib bei der Geburt gewinnt.<lb/> Von einem Kastrationskomplex sollte man aber doch erst sprechen, wenn<lb/> sich diese Vorstellung eines Verlustes mit dem männlichen Genitale ver<lb break="no"/>knüpft hat.<lb break="paragraph"/>
-        </note>
-        <p>
-          <span>
-            <span>
-              <span>Doch darf man nicht glauben, daß das Kind seine Beobachtung,<lb/> manche weibliche Personen besitzen keinen Penis, so rasch und<lb/> bereitwillig verallgemeinert; dem steht schon die Annahme, daß<lb/> die Penislosigkeit die Folge der Kastration als einer Strafe sei,<lb/> im Wege. Im Gegenteile, das Kind meint, nur unwürdige weibliche<lb/> Personen, die sich wahrscheinlich ähnlicher unerlaubter Regungen<lb/> schuldig gemacht haben wie es selbst, hätten das Genitale eingebüßt.<lb/> Respektierte Frauen aber wie die Mutter behalten den Penis noch<lb/> lange. Weibsein fällt eben für das Kind noch nicht mit Penis<lb break="no"/>mangel zusammen.<hi rendition="#footnote-index">2</hi> Erst später, wenn das Kind die Probleme der<lb/> Entstehung und Geburt der Kinder angreift und errät, daß nur<lb/> Frauen Kinder gebären können, wird auch die Mutter des Penis<lb/> verlustig und mitunter werden ganz komplizierte Theorien<lb/> aufgebaut, die den Umtausch des Penis gegen ein Kind erklären<lb/> sollen. Das weibliche Genitale scheint dabei niemals entdeckt zu<lb/> werden. Wie wir wissen, lebt das Kind im Leib (Darm) der Mutter und<lb/> wird durch den Darmausgang geboren. Mit diesen letzten Theorien<lb/> greifen wir über die Zeitdauer der infantilen Sexualperiode hinaus.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span>
-            <span>
-              <span>Es ist nicht unwichtig, sich vorzuhalten, welche Wandlungen<lb/> die uns geläufige geschlechtliche Polarität während der kindlichen<lb/> Sexualentwicklung durchmacht. Ein erster Gegensatz wird mit<lb/> der Objektwahl, die ja Subjekt und Objekt voraussetzt, eingeführt.<lb/> Auf der Stufe der prägenitalen sadistisch</span>
-            </span>
-          </span>‑<span>
-            <span>
-              <span>analen Organisation ist von<lb/> männlich und weiblich noch nicht zu reden, der Gegensatz von<lb/>
-                <hi rendition="#smallcaps">aktiv</hi> und <hi rendition="#smallcaps">passiv</hi> ist der herrschende.<hi rendition="#footnote-index">3</hi> Auf der nun folgenden<lb/> Stufe der infantilen Genitalorganisation gibt es zwar ein<lb/>
-                <hi rendition="#smallcaps">männlich</hi>, aber kein weiblich; der Gegensatz lautet hier:<lb/>
-                <hi rendition="#smallcaps">männliches Genitale</hi> oder <hi rendition="#smallcaps">kastriert</hi>. Erst mit der Vollendung<lb/> der Entwicklung zur Zeit der Pubertät fällt die sexuelle Polarität<lb/> mit männlich und weiblich zusammen. Das Männliche faßt das<lb/> Subjekt, die Aktivität und den Besitz des Penis zusammen, das Weib<lb break="no"/>liche setzt das Objekt und die Passivität fort. Die Vagina wird nun als<lb/> Herberge des Penis geschätzt, sie tritt das Erbe des Mutterleibes an.</span>
-            </span>
-          </span>
-          <lb break="paragraph"/>
-        </p>
-        <note type="footnote">
-          <hi rendition="#footnote-index">1</hi> Diese Zeitschrift 1923, Heft 1. Ich möchte hinzufügen, daß im Mythos<lb/> das Genitale der Mutter gemeint ist. Athene, die das Medusenhaupt an<lb/> ihrem Panzer trägt, wird eben dadurch das unnahbare Weib, dessen Anblick<lb/> jeden Gedanken an sexuelle Annäherung erstickt.<lb break="paragraph"/>
-        </note>
-        <note type="footnote">
-          <hi rendition="#footnote-index">2</hi> Aus der Analyse einer jungen Frau erfuhr ich, daß sie, die keinen<lb/> Vater und mehrere Tanten hatte, bis weit in die Latenzzeit an dem Penis der<lb/> Mutter und einiger Tanten festhielt. Eine schwachsinnige Tante aber hielt sie<lb/> für kastriert, wie sie sich selbst empfand.<lb break="paragraph"/>
-        </note>
-        <note type="footnote">
-          <hi rendition="#footnote-index">3</hi> Siehe: Drei Abh. z. Sexualtheorie. 5. Auﬂ., S. 62.<lb/>
-          <lb break="paragraph"/>
-        </note>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__557a8d1c-3843-493b-aef7-99dd7b564709"/>
+            <fw type="pageNum">[168]</fw> <p rendition="#title">Die infantile Genitalorganisation.<lb break="paragraph"/></p> <p class="subtitle">(<hi rendition="#smallcaps">Eine Einschaltung in die Sexualtheorie</hi>.)<lb break="paragraph"/></p> <p>Von Sigm. <hi rendition="#bold">Freud.</hi><lb break="paragraph"/></p> <p><span><span><span>Es ist recht bezeichnend für die Schwierigkeit der Forschungs<lb break="no"/>arbeit in der Psychoanalyse, daß es möglich ist, allgemeine Züge<lb/> und charakteristische Verhältnisse trotz unausgesetzter jahrzehnte<lb break="no"/>langer Beobachtung zu übersehen, bis sie einem endlich einmal<lb/> unverkennbar entgegentreten; eine solche Vernachlässigung auf<lb/> dem Gebiet der infantilen Sexualentwicklung möchte ich durch<lb/> die nachstehenden Bemerkungen gutmachen.</span></span></span><lb break="paragraph"/></p> <p><span><span><span>Den Lesern meiner „Drei Abhandlungen zur Sexualtheorie“<lb/> (1905) wird es bekannt sein, daß ich in den späteren Ausgaben<lb/> dieser Schrift niemals eine Umarbeitung vorgenommen, sondern<lb/> die ursprüngliche Anordnung gewahrt habe und den Fortschritten<lb/> unserer Einsicht durch Einschaltungen und Abänderungen des<lb/> Textes gerecht geworden bin. Dabei mag es oft vorgekommen<lb/> sein, daß das Alte und das Neuere sich nicht gut zu einer wider<lb break="no"/>spruchsfreien Einheit verschmelzen ließen. Anfänglich ruhte ja<lb/> der Akzent auf der Darstellung der fundamentalen Verschiedenheit<lb/> im Sexualleben der Kinder und der Erwachsenen, später drängten<lb/> sich die <hi rendition="#smallcaps">prägenitalen Organisationen</hi> der Libido in den<lb/> Vordergrund und die merkwürdige und folgenschwere Tatsache<lb/> des <hi rendition="#smallcaps">zweizeitigen Ansatzes</hi> der Sexualentwicklung. Endlich<lb/> nahm die infantile <hi rendition="#smallcaps">Sexualforschung</hi> unser Interesse in<lb/> Anspruch, und von ihr aus ließ sich die weitgehende <hi rendition="#smallcaps">Annäherung<lb/> des Ausganges der kindlichen Sexualität</hi> (um das<lb/> fünfte Lebensjahr) an die Endgestaltung beim Erwachsenen<lb/> erkennen. Dabei bin ich in der letzten Auflage der Sexualtheorie<lb/> (1922) stehen geblieben.</span></span></span><lb break="paragraph"/></p> <p><span><span>Auf Seite 63 derselben erwähne ich, daß „häufig oder regel<lb break="no"/>mäßig bereits in den Kinderjahren eine Objektwahl vollzogen<lb/> wird, wie wir sie als charakteristisch für die Entwicklungsphase<lb/> der Pubertät hingestellt haben, in der Weise, daß sämtliche<lb/> Sexualstrebungen die Richtung auf eine einzige Person nehmen, </span></span><lb break="paragraph"/><pb n="2" xml:id="page__a84f0188-d1e0-4bc9-a493-5517de0fc587"/><fw type="pageNum">169</fw><span><span><span>an der sie ihre Ziele erreichen wollen. Dies ist dann die größte<lb/> Annäherung an die definitive Gestaltung des Sexuallebens nach der<lb/> Pubertät, die in den Kinderjahren möglich ist. Der Unterschied von<lb/> letzterer liegt nur noch darin, daß die Zusammenfassung der Partial<lb break="no"/>triebe und deren Unterordnung unter das Primat der Genitalien in<lb/> der Kindheit nicht oder nur sehr unvollkommen durchgesetzt wird.<lb/> Die Herstellung dieses Primats im Dienste der Fortpflanzung ist<lb/> also die letzte Phase, welche die Sexualorganisation durchläuft.“</span></span></span><lb break="paragraph"/></p>
+         
+         
+            
+              <p><span><span><span>Mit dem Satz, das Primat der Genitalien sei in der früh<lb break="no"/>infantilen Periode nicht oder nur sehr unvollkommen durchgeführt,<lb/> würde ich mich heute nicht mehr zufrieden geben. Die Annäherung<lb/> des kindlichen Sexuallebens an das der Erwachsenen geht viel<lb/> weiter und bezieht sich nicht nur auf das Zustandekommen einer<lb/> Objektwahl. Wenn es auch nicht zu einer richtigen Zusammen<lb break="no"/>fassung der Partialtriebe unter das Primat der Genitalien<lb/> kommt, so gewinnt doch auf der Höhe des Entwicklungsganges<lb/> der infantilen Sexualität das Interesse an den Genitalien und die<lb/> Genitalbetätigung eine dominierende Bedeutung, die hinter der<lb/> in der Reifezeit wenig zurücksteht. Der Hauptcharakter dieser<lb/> „<hi rendition="#smallcaps">infantilen Genitalorganisation</hi>“ ist zugleich ihr Unter<lb break="no"/>schied von der endgiltigen Genitalorganisation der Erwachsenen.<lb/> Er liegt darin, daß für beide Geschlechter nur ein <hi rendition="#smallcaps">Genitale</hi>,<lb/> das männliche, eine Rolle spielt. Es besteht also nicht ein Genital<lb break="no"/>primat, sondern ein Primat des <hi rendition="#smallcaps">Phallus</hi>.</span></span></span><lb break="paragraph"/></p> <p><span><span><span>Leider können wir diese Verhältnisse nur für das männliche<lb/> Kind beschreiben, in die entsprechenden Vorgänge beim kleinen<lb/> Mädchen fehlt uns die Einsicht. Der kleine Knabe nimmt sicherlich<lb/> den Unterschied von Männern und Frauen wahr, aber er hat<lb/> zunächst keinen Anlaß, ihn mit einer Verschiedenheit ihrer<lb/> Genitalien zusammenzubringen. Es ist ihm natürlich, ein ähnliches<lb/> Genitale, wie er es selbst besitzt, bei allen anderen Lebewesen,<lb/> Menschen und Tieren, vorauszusetzen, ja wir wissen, daß er auch<lb/> an unbelebten Dingen nach einem seinem Gliede analogen Gebilde<lb/> forscht.<hi rendition="#footnote-index"><span>1</span></hi> Dieser leicht erregte, veränderliche, an Empfindungen so<lb/> reiche Körperteil beschäftigt das Interesse des Knaben in hohem<lb/> Grade und stellt seinem Forschertrieb unausgesetzt neue Aufgaben.<lb/> Er möchte ihn auch bei anderen Personen sehen, um ihn mit<lb/> seinem eigenen zu vergleichen, er benimmt sich, als ob ihm </span></span></span><lb break="paragraph"/><pb n="3" xml:id="page__58d95a78-ed46-40d9-9a80-e69be6c545a3"/><fw type="pageNum">170</fw><span><span><span>vorschwebte, daß dieses Glied größer sein könnte und sollte; die<lb/> treibende Kraft, welche dieser männliche Teil später in der<lb/> Pubertät entfalten wird, äußert sich um diese Lebenszeit wesentlich<lb/> als Forschungsdrang, als sexuelle Neugierde. Viele der Exhibi<lb break="no"/>tionen und Aggressionen, welche das Kind vornimmt und die<lb/> man im späteren Alter unbedenklich als Äußerungen von<lb/> Lüsternheit beurteilen würde, erweisen sich der Analyse als<lb/> Experimente im Dienste der Sexualforschung angestellt.</span></span></span><lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Es ist übrigens merkwürdig, ein wie geringes Maß von Aufmerk<lb break="no"/>samkeit der andere Teil des männlichen Genitales, das Säckchen mit seinen<lb/> Einschlüssen, beim Kinde auf sich zieht. Aus den Analysen könnte man nicht<lb/> erraten, daß noch etwas anderes als der Penis zum Genitale gehört.<lb break="paragraph"/></note>
+         
+         
+            
+              <p><span><span><span>Im Laufe dieser Untersuchungen gelangt das Kind zur<lb/> Entdeckung, daß der Penis nicht ein Gemeingut aller ihm ähnlichen<lb/> Wesen sei. Der zufällige Anblick der Genitalien einer kleinen<lb/> Schwester oder Gespielin gibt hiezu den Anstoß; scharfsinnige<lb/> Kinder haben schon vorher aus ihren Wahrnehmungen beim<lb/> Urinieren der Mädchen, weil sie eine andere Stellung sehen und<lb/> ein anderes Geräusch hören, den Verdacht geschöpft, daß hier<lb/> etwas anders sei, und dann versucht, solche Beobachtungen in<lb/> aufklärender Weise zu wiederholen. Es ist bekannt, wie sie auf<lb/> die ersten Eindrücke des Penismangels reagieren. Sie leugnen<lb/> diesen Mangel, glauben doch ein Glied zu sehen, beschönigen den<lb/> Widerspruch zwischen Beobachtung und Vorurteil durch die<lb/> Auskunft, es sei noch klein und werde erst wachsen, und kommen<lb/> dann langsam zu dem affektiv bedeutsamen Schluß, es sei doch<lb/> wenigstens vorhanden gewesen und dann weggenommen worden.<lb/> Der Penismangel wird als Ergebnis einer <hi rendition="#smallcaps">Kastration</hi> erfaßt und<lb/> das Kind steht nun vor der Aufgabe, sich mit der Beziehung der<lb/> Kastration zu seiner eigenen Person auseinanderzusetzen. Die<lb/> weiteren Entwicklungen sind zu sehr allgemein bekannt, als daß<lb/> es notwendig wäre, sie hier zu wiederholen. Es scheint mir nur,<lb/> <hi rendition="#smallcaps">daß man die Bedeutung des Kastrationskomplexes erst<lb/> richtig würdigen kann, wenn man seine Entstehung<lb/> in der Phase des Phallusprimats mitberücksichtigt</hi>.<hi rendition="#footnote-index">1</hi></span></span></span><lb break="paragraph"/></p> <p><span><span>Es ist auch bekannt, wie viel Herabwürdigung des Weibes,<lb/> Grauen vor dem Weib, Disposition zur Homosexualität sich aus<lb/> der endlichen Überzeugung von der Penislosigkeit des Weibes<lb/> ableitet. <hi rendition="#smallcaps">Ferenczi</hi> hat kürzlich mit vollem Recht das mytho-</span></span><lb break="paragraph"/><pb n="4" xml:id="page__7dab67de-0812-47b6-9ae1-cb689bddd7e7"/><fw type="pageNum">171</fw>logische Symbol des Grausens, das Medusenhaupt, auf den Eindruck<lb/> des penislosen weiblichen Genitales zurückgeführt.<hi rendition="#footnote-index">1</hi><lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Es ist mit Recht darauf hingewiesen worden, daß das Kind die<lb/> Vorstellung einer narzißtischen Schädigung durch Körperverlust aus dem<lb/> Verlieren der Mutterbrust nach dem Saugen, aus der täglichen Abgabe der<lb/> Fäzes, ja schon aus der Trennung vom Mutterleib bei der Geburt gewinnt.<lb/> Von einem Kastrationskomplex sollte man aber doch erst sprechen, wenn<lb/> sich diese Vorstellung eines Verlustes mit dem männlichen Genitale ver<lb break="no"/>knüpft hat.<lb break="paragraph"/></note>
+         
+         
+            
+              <p><span><span><span>Doch darf man nicht glauben, daß das Kind seine Beobachtung,<lb/> manche weibliche Personen besitzen keinen Penis, so rasch und<lb/> bereitwillig verallgemeinert; dem steht schon die Annahme, daß<lb/> die Penislosigkeit die Folge der Kastration als einer Strafe sei,<lb/> im Wege. Im Gegenteile, das Kind meint, nur unwürdige weibliche<lb/> Personen, die sich wahrscheinlich ähnlicher unerlaubter Regungen<lb/> schuldig gemacht haben wie es selbst, hätten das Genitale eingebüßt.<lb/> Respektierte Frauen aber wie die Mutter behalten den Penis noch<lb/> lange. Weibsein fällt eben für das Kind noch nicht mit Penis<lb break="no"/>mangel zusammen.<hi rendition="#footnote-index">2</hi> Erst später, wenn das Kind die Probleme der<lb/> Entstehung und Geburt der Kinder angreift und errät, daß nur<lb/> Frauen Kinder gebären können, wird auch die Mutter des Penis<lb/> verlustig und mitunter werden ganz komplizierte Theorien<lb/> aufgebaut, die den Umtausch des Penis gegen ein Kind erklären<lb/> sollen. Das weibliche Genitale scheint dabei niemals entdeckt zu<lb/> werden. Wie wir wissen, lebt das Kind im Leib (Darm) der Mutter und<lb/> wird durch den Darmausgang geboren. Mit diesen letzten Theorien<lb/> greifen wir über die Zeitdauer der infantilen Sexualperiode hinaus.</span></span></span><lb break="paragraph"/></p> <p><span><span><span>Es ist nicht unwichtig, sich vorzuhalten, welche Wandlungen<lb/> die uns geläufige geschlechtliche Polarität während der kindlichen<lb/> Sexualentwicklung durchmacht. Ein erster Gegensatz wird mit<lb/> der Objektwahl, die ja Subjekt und Objekt voraussetzt, eingeführt.<lb/> Auf der Stufe der prägenitalen sadistisch</span></span></span>‑<span><span><span>analen Organisation ist von<lb/> männlich und weiblich noch nicht zu reden, der Gegensatz von<lb/> <hi rendition="#smallcaps">aktiv</hi> und <hi rendition="#smallcaps">passiv</hi> ist der herrschende.<hi rendition="#footnote-index">3</hi> Auf der nun folgenden<lb/> Stufe der infantilen Genitalorganisation gibt es zwar ein<lb/> <hi rendition="#smallcaps">männlich</hi>, aber kein weiblich; der Gegensatz lautet hier:<lb/> <hi rendition="#smallcaps">männliches Genitale</hi> oder <hi rendition="#smallcaps">kastriert</hi>. Erst mit der Vollendung<lb/> der Entwicklung zur Zeit der Pubertät fällt die sexuelle Polarität<lb/> mit männlich und weiblich zusammen. Das Männliche faßt das<lb/> Subjekt, die Aktivität und den Besitz des Penis zusammen, das Weib<lb break="no"/>liche setzt das Objekt und die Passivität fort. Die Vagina wird nun als<lb/> Herberge des Penis geschätzt, sie tritt das Erbe des Mutterleibes an.</span></span></span><lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1</hi> Diese Zeitschrift 1923, Heft 1. Ich möchte hinzufügen, daß im Mythos<lb/> das Genitale der Mutter gemeint ist. Athene, die das Medusenhaupt an<lb/> ihrem Panzer trägt, wird eben dadurch das unnahbare Weib, dessen Anblick<lb/> jeden Gedanken an sexuelle Annäherung erstickt.<lb break="paragraph"/></note> <note type="footnote"><hi rendition="#footnote-index">2</hi> Aus der Analyse einer jungen Frau erfuhr ich, daß sie, die keinen<lb/> Vater und mehrere Tanten hatte, bis weit in die Latenzzeit an dem Penis der<lb/> Mutter und einiger Tanten festhielt. Eine schwachsinnige Tante aber hielt sie<lb/> für kastriert, wie sie sich selbst empfand.<lb break="paragraph"/></note> <note type="footnote"><hi rendition="#footnote-index">3</hi> Siehe: Drei Abh. z. Sexualtheorie. 5. Auﬂ., S. 62.<lb/> <lb break="paragraph"/></note>
+         
+      </div></body>
+   </text>
 </TEI>

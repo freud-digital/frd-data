@@ -1,0 +1,330 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1922-002; 1922b [1921]): Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+            <title type="manifestation" level="a">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität (1922-002/1921.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1922-002-1931">
+                     <analytic>
+                        <title type="manifestation">Über einige neurotische Mechanismen Bei Eifersucht, Paranoia und Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>186 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-002-1922.2">
+                     <analytic>
+                        <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-002-1924">
+                     <monogr>
+                        <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <title type="manifestation-short">GS 5</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                              <pubPlace>Zürich</pubPlace>
+                              <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+                        <extent>399 Seiten</extent>
+                     </monogr>
+                     <series>
+                        <title type="publication" level="s">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-short" level="s">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <biblScope unit="volume">5. Band</biblScope>
+                     </series>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-002-1926">
+                     <analytic>
+                        <title type="manifestation">Über einige neurotische Mechanismen Bei Eifersucht, Paranoia und Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>139 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-002-1922">
+                     <analytic>
+                        <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>London</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>258 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
+                        <biblScope unit="year">8</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1922-002-1921.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">[Reinschrift]</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <imprint>
+                     </imprint>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__f5f07095-fa89-4d56-9741-e23ef7fcec1b">
+                        <title>Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1922-002/1921.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/uber-einige-neurotische-mechanismen-bei-eifersucht-paranoia-und-homosexualitat</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/f5f07095-fa89-4d56-9741-e23ef7fcec1b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__d8846a88-99da-49e8-a9cb-c12ddb955bb7">
+                              <title>Freud, Sigmund  (1922-002; 1922b [1921]): Über einige neurotische Mechanismen bei Eifersucht, Paranoia und Homosexualität</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/ueber-einige-neurotische-mechanismen-bei-eifersucht-paranoia-und</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/d8846a88-99da-49e8-a9cb-c12ddb955bb7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV7 Box 33/23</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>None</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__bc1cbbbe-08c4-4811-8cd7-f61d2489ed8f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__f81c065b-756f-47d2-9c24-5a62f87502f5"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__85fd6cd1-c4f6-4325-aae1-304728acc2fb"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__b95cc097-2fe6-43e3-a605-6eaa8e6a6302"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__ffb4b6c5-8fa0-4da6-a41b-d6c95eed7c04"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__e0a119c1-542b-41dd-8cb8-b5bc05c7ff5e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__2baed642-46bb-4b8f-b904-0eb92fa90600"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__d00b401c-73a6-4c8f-8ef6-76b7ddba37bb"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__fbe49f24-dcfb-4062-9cb2-7016e6541753"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__b67731d2-51e9-4534-9b1e-b4f34c1f3108"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="0" xml:id="page__de8d87ea-29b6-4b56-a66e-cef954a5f863"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

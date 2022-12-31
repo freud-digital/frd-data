@@ -1,301 +1,239 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a"> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
-        <title type="manifestation" level="a">Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung] (1901-121/1902)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a"> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
+            <title type="manifestation" level="a">Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung] (1901-121/1902)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1901-121-1933">
-            <analytic>
-              <title type="manifestation">Über die Ziele und Zwecke der B’nai B’rith Vereinigungen [Erwähnung]</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">B’nai B’rith Mitteilungen für Österreich</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__3fa8c116-147b-4088-b776-1907247ae5fe">Ascher, Arnold</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1933-01-01">1933-01-01</date>
-              </imprint>
-              <extent>17</extent>
-              <biblScope unit="volume">1 </biblScope>
-              <biblScope unit="year">33</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1901-121-1902" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung]</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__179a9b89-b10b-4ecb-ba32-be9dbcf60f46">B'nai B'rith</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1902-01-01">1902-01-01</date>
-              </imprint>
-              <extent>107</extent>
-              <biblScope unit="volume">3</biblScope>
-              <biblScope unit="year">4</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__c5b5b903-3207-4a06-81fb-50f71b78b3cf">
-                <title>Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung]</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1901-121-1933">
+                     <analytic>
+                        <title type="manifestation">Über die Ziele und Zwecke der B’nai B’rith Vereinigungen [Erwähnung]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">B’nai B’rith Mitteilungen für Österreich</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__3fa8c116-147b-4088-b776-1907247ae5fe">Ascher, Arnold</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1933-01-01">1933-01-01</date>
+                        </imprint>
+<extent>17</extent>                        <biblScope unit="volume">1 </biblScope>
+                        <biblScope unit="year">33</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1901-121-1902" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__179a9b89-b10b-4ecb-ba32-be9dbcf60f46">B'nai B'rith</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1902-01-01">1902-01-01</date>
+                     </imprint>
+                     <extent>107</extent>
+                     <biblScope unit="volume">3</biblScope>
+                     <biblScope unit="year">4</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__c5b5b903-3207-4a06-81fb-50f71b78b3cf">
+                        <title>Diskussion über die Ziele und Zwecke unserer Vereinigungen [Erwähnung]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1901-121/1902</idno>
-                <idno type="url">https://www.freud-edition.net/werke/diskussion-uber-die-ziele-und-zwecke-unserer-vereinigungen-erwahnung/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/c5b5b903-3207-4a06-81fb-50f71b78b3cf</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__f0562b83-b8c8-4046-9c1f-1787d894458d">
-                    <title> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
-                    <idno type="url">https://www.freud-edition.net/werke/ziele-und-zwecke-des-ordens-bnai-brith</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f0562b83-b8c8-4046-9c1f-1787d894458d</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1901-121/1902</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/diskussion-uber-die-ziele-und-zwecke-unserer-vereinigungen-erwahnung/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/c5b5b903-3207-4a06-81fb-50f71b78b3cf</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__f0562b83-b8c8-4046-9c1f-1787d894458d">
+                              <title> (1901-121): Ziele und Zwecke des Ordens B’nai B‘rith</title>
+                              <idno type="url">https://www.freud-edition.net/werke/ziele-und-zwecke-des-ordens-bnai-brith</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f0562b83-b8c8-4046-9c1f-1787d894458d</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__73f3e6f5-1432-4679-b939-1e86bd0cd6ea"/>
-        <p>
-          <span class="comment_editor">(DU CD)</span>
-          <lb break="paragraph"/>
-        </p>
-        <fw type="pageNum">107</fw>
-        <p>Unsere Sitzungen im abgelaufenen Jahre haben sich interes<lb break="no"/>sant gestaltet. Im Frühjahr hat uns eine Discussion über die<lb/> sociale Frage, angeregt von Br. <hi rendition="#smallcaps">Zucker</hi>, in lebhaftester Weise<lb/> beschäftigt, und dieses Thema wurde von verschiedenen Brüdern<lb/> in glänzender Weise behandelt, von den verschiedensten Gesichts<lb break="no"/>punkten aus erörtert. Wenn auch selbstverständlich kein positives<lb/> Resultat hieraus sich ergeben konnte, so hat sie doch dazu<lb/> gedient, allen Brüdern die Nothwendigkeit evident zu machen,<lb/> die die vornehmste Pflicht des jetzigen Jahrhunderts sein wird<lb/> und sein muss, den socialen Uebelständen abzuhelfen und dadurch<lb/> zur relativen Zufriedenheit aller Menschen, ob reich, ob arm,<lb/> beizutragen. Im Herbste hatten wir eine sehr interessante<lb/> Discussion über die Ziele und Zwecke unserer Vereinigungen,<lb/> an der sich in hervorragender Weise <hi rendition="#smallcaps">jüngere</hi> Mitglieder<lb/> unserer Vereinigung betheiligten. Auch diese hat zu unser aller<lb/> Befriedigung ergeben, dass die Brüder die Aufgaben derselben<lb/> zu erfassen verstanden haben und mit warmer Hingebung bereit<lb/> sind und waren, für unsere Ziele und Zwecke einzutreten und für<lb/> sie zu propagiren.<lb break="paragraph"/>
-        </p>
-        <p>An Vorträgen hatten wir heuer das Vergnügen von:<lb/> Br. Docenten Dr. <hi rendition="#smallcaps">Freud</hi>: „Ueber Zufall und Aberglauben“ am<lb/> 26. Februar,<lb break="paragraph"/>
-        </p>
-        <p>[...]<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <span class="comment_editor">[Unter diesen jüngeren Mitgliedern war auch Freud, siehe dazu auch ..]</span>
-          <lb break="paragraph"/>
-        </p>
-        <pb n="2" xml:id="page__4ed6f7f1-7fb9-4e5d-a013-daeaf0269cd2"/>
-        <p>
-          <hi rendition="#bold">3. Heft. </hi>Jänner 1902. <hi rendition="#bold">Jahrgang IV.</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <hi rendition="#bold">VIERTELJAHRS-BERICHT</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>für die Mitglieder der<lb/>
-          <hi rendition="#bold">österr. israel. Humanitätsvereine „B<span>
-              <span>
-                <span>
-                  <span>’</span>
-                </span>
-              </span>
-            </span>NAI B<span>
-              <span>
-                <span>
-                  <span>’</span>
-                </span>
-              </span>
-            </span>RITH“,</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>Herausgegeben vom<lb/>
-          <hi rendition="#bold">Humanitätsverein „WIEN“ B. B.</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>Redigirt von Prof. Dr. S. Ehrmann.<lb/> Verlag des israel. Humanitäts-Vereines „Wien“ B<span>
-            <span>
-              <hi rendition="#bold">
-                <span>
-                  <span>’</span>
-                </span>
-              </hi>
-            </span>
-          </span>nai B<span>
-            <span>
-              <hi rendition="#bold">
-                <span>
-                  <span>’</span>
-                </span>
-              </hi>
-            </span>
-          </span>rith, IX., Universitätsstrasse 4.<lb break="paragraph"/>
-        </p>
-        <p>Von der s. w. Verbandsleitung.<lb break="paragraph"/>
-        </p>
-        <p>
-          <hi rendition="#bold">Auszug</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <hi rendition="#smallcaps">aus den in der Sitzung des s. w. General-Comités am<lb/> 1. November 1901 gefassten Beschlüssen:</hi>
-          <lb/>
-          <lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-30">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__73f3e6f5-1432-4679-b939-1e86bd0cd6ea"/>
+            <p><span class="comment_editor">(DU CD)</span><lb break="paragraph"/></p> <fw type="pageNum">107</fw> <p>Unsere Sitzungen im abgelaufenen Jahre haben sich interes<lb break="no"/>sant gestaltet. Im Frühjahr hat uns eine Discussion über die<lb/> sociale Frage, angeregt von Br. <hi rendition="#smallcaps">Zucker</hi>, in lebhaftester Weise<lb/> beschäftigt, und dieses Thema wurde von verschiedenen Brüdern<lb/> in glänzender Weise behandelt, von den verschiedensten Gesichts<lb break="no"/>punkten aus erörtert. Wenn auch selbstverständlich kein positives<lb/> Resultat hieraus sich ergeben konnte, so hat sie doch dazu<lb/> gedient, allen Brüdern die Nothwendigkeit evident zu machen,<lb/> die die vornehmste Pflicht des jetzigen Jahrhunderts sein wird<lb/> und sein muss, den socialen Uebelständen abzuhelfen und dadurch<lb/> zur relativen Zufriedenheit aller Menschen, ob reich, ob arm,<lb/> beizutragen. Im Herbste hatten wir eine sehr interessante<lb/> Discussion über die Ziele und Zwecke unserer Vereinigungen,<lb/> an der sich in hervorragender Weise <hi rendition="#smallcaps">jüngere</hi> Mitglieder<lb/> unserer Vereinigung betheiligten. Auch diese hat zu unser aller<lb/> Befriedigung ergeben, dass die Brüder die Aufgaben derselben<lb/> zu erfassen verstanden haben und mit warmer Hingebung bereit<lb/> sind und waren, für unsere Ziele und Zwecke einzutreten und für<lb/> sie zu propagiren.<lb break="paragraph"/></p> <p>An Vorträgen hatten wir heuer das Vergnügen von:<lb/> Br. Docenten Dr. <hi rendition="#smallcaps">Freud</hi>: „Ueber Zufall und Aberglauben“ am<lb/> 26. Februar,<lb break="paragraph"/></p> <p>[...]<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p><span class="comment_editor">[Unter diesen jüngeren Mitgliedern war auch Freud, siehe dazu auch ..]</span><lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__4ed6f7f1-7fb9-4e5d-a013-daeaf0269cd2"/>
+            <p><hi rendition="#bold">3. Heft. </hi>Jänner 1902. <hi rendition="#bold">Jahrgang IV.</hi><lb break="paragraph"/></p> <p><hi rendition="#bold">VIERTELJAHRS-BERICHT</hi><lb break="paragraph"/></p> <p>für die Mitglieder der<lb/> <hi rendition="#bold">österr. israel. Humanitätsvereine „B<span><span><span><span>’</span></span></span></span>NAI B<span><span><span><span>’</span></span></span></span>RITH“,</hi><lb break="paragraph"/></p> <p>Herausgegeben vom<lb/> <hi rendition="#bold">Humanitätsverein „WIEN“ B. B.</hi><lb break="paragraph"/></p> <p>Redigirt von Prof. Dr. S. Ehrmann.<lb/> Verlag des israel. Humanitäts-Vereines „Wien“ B<span><span><hi rendition="#bold"><span><span>’</span></span></hi></span></span>nai B<span><span><hi rendition="#bold"><span><span>’</span></span></hi></span></span>rith, IX., Universitätsstrasse 4.<lb break="paragraph"/></p> <p>Von der s. w. Verbandsleitung.<lb break="paragraph"/></p> <p><hi rendition="#bold">Auszug</hi><lb break="paragraph"/></p> <p><hi rendition="#smallcaps">aus den in der Sitzung des s. w. General-Comités am<lb/> 1. November 1901 gefassten Beschlüssen:</hi><lb/> <lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

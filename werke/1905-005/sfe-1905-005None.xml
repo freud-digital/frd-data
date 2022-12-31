@@ -1,0 +1,377 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-005; 1905e [1901]): Bruchstück einer Hysterieanalyse</title>
+            <title type="manifestation" level="a">IV. Nachwort (1905-005None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR. korr., SL, S. 1-12</p>
+<p>2. Korr. CH</p>
+            </note>
+            <note type="doc_component">
+               Unterkapitel
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1905-005-1924">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 8</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>126 Seiten</extent>                        <biblScope unit="volume">8. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1921">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">SKSN 2 (3. Auflage)</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+<extent>110 Seiten</extent>                        <biblScope unit="volume">2. Folge</biblScope>
+                        <biblScope unit="issue">3. Auflage</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1912">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">SKSN 2 (2. Auflage)</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1912-01-01">1912-01-01</date>
+                        </imprint>
+<extent>110 Seiten</extent>                        <biblScope unit="volume">2. Folge</biblScope>
+                        <biblScope unit="issue">2. Auflage</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1905">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                           <pubPlace>Berlin</pubPlace>
+                        </imprint>
+<extent>309 Seiten</extent>                        <biblScope unit="volume">4</biblScope>
+                        <biblScope unit="year">18</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1909">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">SKSN 2</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>110 Seiten</extent>                        <biblScope unit="volume">2. Folge</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1932">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterieanalyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [6]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1932-01-01">1932-01-01</date>
+                        </imprint>
+<extent>141 Seiten</extent>                        <biblScope unit="volume">Vier psychoanalytische Krankengeschichten</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-005-1905.2">
+                     <analytic>
+                        <title type="manifestation">Bruchstück einer Hysterie-Analyse (Schluss)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Monatsschrift für Psychiatrie und Neurologie</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                           <pubPlace>Berlin</pubPlace>
+                        </imprint>
+<extent>467 Seiten</extent>                        <biblScope unit="volume">5</biblScope>
+                        <biblScope unit="year">18</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-005None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">IV. Nachwort</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__a96dba01-5673-4e56-8441-5f4058d23e2b">
+                        <title>IV. Nachwort</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-005None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/iv-nachwort/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/a96dba01-5673-4e56-8441-5f4058d23e2b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__1dd2c86b-3df5-4999-9855-0bca65843c3f">
+                              <title>Freud, Sigmund  (1905-005; 1905e [1901]): Bruchstück einer Hysterieanalyse</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/bruchstuck-einer-hysterieanalyse</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/1dd2c86b-3df5-4999-9855-0bca65843c3f</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-30">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__83e42671-a0dd-44bd-b8c8-60f7153e8748"/>
+            <p><hi rendition="#bold">[115]</hi><lb break="paragraph"/></p> <p rendition="#h1"><title>IV<lb/> NACHWORT<lb break="paragraph"/></title></p> <p>Ich habe diese Mitteilung zwar als Bruchstück einer Analyse<lb/> angekündigt; man wird aber gefunden haben, daß sie in viel<lb/> weiterem Umfange unvollständig ist, als sich nach diesem ihrem<lb/> Titel erwarten ließ. Es geziemt sich wohl, daß ich versuche,<lb/> diese keinesfalls zufälligen Auslassungen zu motivieren.<lb break="paragraph"/></p> <p>Eine Reihe von Ergebnissen der Analyse ist weggeblieben,<lb/> weil sie beim Abbruch der Arbeit teils nicht genügend sicher<lb/> erkannt, teils einer Fortführung bis zu einem allgemeinen Resultat<lb/> bedürftig waren. Andere Male habe ich, wo es mir statthaft<lb/> schien, auf die wahrscheinliche Fortsetzung einzelner Lösungen<lb/> hingewiesen. Die keineswegs selbstverständliche Technik, mittels<lb/> welcher man allein dem Rohmaterial von Einfällen des Kranken<lb/> seinen Reingehalt an wertvollen unbewußten Gedanken entziehen<lb/> kann, ist von mir hier durchwegs übergangen worden, womit<lb/> der Nachteil verbunden bleibt, daß der Leser die Korrektheit<lb/> meines Vorgehens bei diesem Darstellungsprozeß nicht bestätigen<lb/> kann. Ich fand es aber ganz undurchführbar, die Technik einer<lb/> Analyse und die innere Struktur eines Falles von Hysterie in<lb/> einem zu behandeln; es wäre für mich eine fast unmögliche<lb/> Leistung und für den Leser eine sicher ungenießbare Lektüre<lb/> geworden. Die Technik erfordert durchaus eine abgesonderte<lb/> Darstellung, die durch zahlreiche, den verschiedensten Fällen<lb break="paragraph"/><pb n="2" xml:id="page__1fb13e7e-065c-41ae-b4de-0f679b79ed60"/><fw type="pageNum">116</fw>entnommene Beispiele erläutert wird und von dem jedesmaligen<lb/> Ergebnis absehen darf. Auch die psychologischen Voraussetzungen,<lb/> die sich in meinen Beschreibungen psychischer Phänomene ver<lb break="no"/>raten, habe ich hier zu begründen nicht versucht. Eine flüchtige<lb/> Begründung würde nichts leisten; eine ausführliche wäre eine<lb/> Arbeit für sich. Ich kann nur versichern, daß ich, ohne einem<lb/> bestimmten psychologischen System verpflichtet zu sein, an das<lb/> Studium der Phänomene gegangen bin, welche die Beobachtung<lb/> der Psychoneurotiker enthüllt, und daß ich dann meine Meinungen<lb/> um so viel zurechtgerückt habe, bis sie mir geeignet erschienen,<lb/> von dem Zusammenhange des Beobachteten Rechenschaft zu geben.<lb/> Ich setze keinen Stolz darein, die Spekulation vermieden zu haben;<lb/> das Material für diese Hypothesen ist aber durch die ausgedehnteste<lb/> und mühevollste Beobachtung gewonnen worden. Besonders dürfte<lb/> die Entschiedenheit meines Standpunktes in der Frage des Un<lb break="no"/>bewußten Anstoß erregen, indem ich mit unbewußten Vorstel<lb break="no"/>lungen, Gedankenzügen und Regungen so operiere, als ob sie<lb/> ebenso gute und unzweifelhafte Objekte der Psychologie wären<lb/> wie alles Bewußte; aber ich bin dessen sicher, wer dasselbe Er<lb break="no"/>scheinungsgebiet mit der nämlichen Methode zu erforschen unter<lb break="no"/>nimmt, wird nicht umhin können, sich trotz alles Abmahnens<lb/> der Philosophen auf denselben Standpunkt zu stellen.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Diejenigen Fachgenossen, welche meine Theorie der Hysterie<lb/> für eine rein psychologische gehalten und darum von vornherein<lb/> für unfähig erklärt haben, ein pathologisches Problem zu lösen,<lb/> werden aus dieser Abhandlung wohl entnehmen, daß ihr Vorwurf<lb/> einen Charakter der Technik ungerechterweise auf die Theorie<lb/> überträgt. Nur die therapeutische Technik ist rein psychologisch;<lb/> die Theorie versäumt es keineswegs, auf die organische Grund<lb break="no"/>lage der Neurose hinzuweisen, wenngleich sie dieselbe nicht in<lb/> einer pathologisch-anatomischen Veränderung sucht und die zu<lb/> erwartende chemische Veränderung als derzeit noch unfaßbar<lb/> durch die Vorläufigkeit der organischen Funktion ersetzt. Der<lb break="paragraph"/><pb n="3" xml:id="page__f6eacb2c-821e-4a6e-9392-5157032b57d8"/><fw type="pageNum">117</fw>Sexualfunktion, in welcher ich die Begründung der Hysterie wie<lb/> der Psychoneurosen überhaupt sehe, wird den Charakter eines<lb/> organischen Faktors wohl niemand absprechen wollen. Eine Theorie<lb/> des Sexuallebens wird, wie ich vermute, der Annahme bestimmter,<lb/> erregend wirkender Sexualstoffe nicht entbehren können. Die<lb/> Intoxikationen und Abstinenzen beim Gebrauch gewisser chro<lb break="no"/>nischer Gifte stehen ja unter allen Krankheitsbildern, welche<lb/> uns die Klinik kennen lehrt, den genuinen Psychoneurosen am<lb/> nächsten.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Was sich aber über das „somatische Entgegenkommen“, über<lb/> die infantilen Keime zur Perversion, über die erogenen Zonen<lb/> und die Anlage zur Bisexualität heute aussagen läßt, habe ich in<lb/> dieser Abhandlung gleichfalls nicht ausgeführt, sondern nur die<lb/> Stellen hervorgehoben, an denen die Analyse auf diese organischen<lb/> Fundamente der Symptome stößt. Mehr ließ sich von einem<lb/> vereinzelten Falle aus nicht tun, auch hatte ich die nämlichen<lb/> Gründe wie oben, eine beiläufige Erörterung dieser Momente zu<lb/> vermeiden. Hier ist reichlicher Anlaß zu weiteren, auf eine große<lb/> Zahl von Analysen gestützten Arbeiten gegeben.<lb break="paragraph"/></p> <p>Mit dieser soweit unvollständigen Veröffentlichung wollte ich<lb/> doch zweierlei erreichen. Erstens als Ergänzung zu meinem Buche<lb/> über die Traumdeutung zeigen, wie diese sonst unnütze Kunst<lb/> zur Aufdeckung des Verborgenen und Verdrängten im Seelenleben<lb/> verwendet werden kann; bei der Analyse der beiden hier mit<lb break="no"/>geteilten Träume ist dann auch die Technik des Traumdeutens,<lb/> welche der psychoanalytischen ähnlich ist, berücksichtigt worden.<lb/> Zweitens wollte ich Interesse für eine Reihe von Verhältnissen<lb/> erwecken, welche heute der Wissenschaft noch völlig unbekannt<lb/> sind, weil sie sich nur bei Anwendung dieses bestimmten Ver<lb break="no"/>fahrens entdecken lassen. Von der Komplikation der psychischen<lb/> Vorgänge bei der Hysterie, dem Nebeneinander der verschieden<lb break="no"/>artigsten Regungen, der gegenseitigen Bindung der Gegensätze,<lb/> den Verdrängungen und Verschiebungen u. a. m. hat wohl<lb break="paragraph"/><pb n="4" xml:id="page__c58f3d7b-0cc2-4bcb-93b6-762ceb6a3603"/><fw type="pageNum">118</fw>niemand eine richtige Ahnung haben können. <hi rendition="#smallcaps">Janets</hi> Hervor<lb break="no"/>hebung der <hi rendition="#em">idée ﬁxe</hi>, die sich in das Symptom umsetzt, be<lb break="no"/>deutet nichts als eine wahrhaft kümmerliche Schematisierung.<lb/> Man wird sich auch der Vermutung nicht erwehren können, daß<lb/> Erregungen, deren zugehörige Vorstellungen der Bewußtseins<lb break="no"/>fähigkeit ermangeln, anders aufeinander einwirken, anders ver<lb break="no"/>laufen und zu anderen Äußerungen führen als die von uns<lb/> „normal“ genannten, deren Vorstellungsinhalt uns bewußt wird.<lb/> Ist man soweit aufgeklärt, so steht dem Verständnis einer<lb/> Therapie nichts mehr im Wege, welche neurotische Symptome<lb/> aufhebt, indem sie Vorstellungen der ersteren Art in normale<lb/> verwandelt.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Es lag mir auch daran zu zeigen, daß die Sexualität nicht bloß<lb/> als einmal auftretender <hi rendition="#em">deus ex machina</hi> irgendwo in das Getriebe<lb/> der für die Hysterie charakteristischen Vorgänge eingreift, sondern<lb/> daß sie die Triebkraft für jedes einzelne Symptom und für jede<lb/> einzelne Äußerung eines Symptoms abgibt. Die Krankheits<lb break="no"/>erscheinungen sind, geradezu gesagt, die <hi rendition="#smallcaps">Sexualbetätigung der<lb/> Kranken</hi>. Ein einzelner Fall wird niemals imstande sein, einen<lb/> so allgemeinen Satz zu erweisen, aber ich kann es nur immer<lb/> wieder von neuem wiederholen, weil ich es niemals anders finde,<lb/> daß die Sexualität der Schlüssel zum Problem der Psychoneurosen<lb/> wie der Neurosen überhaupt ist. Wer ihn verschmäht, wird<lb/> niemals aufzuschließen imstande sein. Ich warte noch auf die<lb/> Untersuchungen, welchen diesen Satz aufzuheben oder einzu<lb break="no"/>schränken vermögen sollen. Was ich bis jetzt dagegen gehört<lb/> habe, waren Äußerungen persönlichen Mißfallens oder Unglaubens,<lb/> denen es genügt, das Wort <hi rendition="#smallcaps">Charcots</hi> entgegenzuhalten: „<hi rendition="#em">Ça<lb/> n’empêche pas d’exister</hi>.“<lb break="paragraph"/></p> <p>Der Fall, aus dessen Kranken- und Behandlungsgeschichte ich<lb/> hier ein Bruchstück veröffentlicht habe, ist auch nicht geeignet,<lb/> den Wert der psychoanalytischen Therapie ins rechte Licht zu<lb/> setzen. Nicht nur die Kürze der Behandlungsdauer, die kaum<lb break="paragraph"/><pb n="5" xml:id="page__b1f80942-f153-4fe4-810d-460c2eba1f71"/><fw type="pageNum">119</fw>drei Monate betrug, sondern noch ein anderes dem Falle inne<lb break="no"/>wohnendes Moment haben es verhindert, daß die Kur mit der<lb/> sonst zu erreichenden, vom Kranken und seinen Angehörigen<lb/> zugestandenen Besserung abschloß, die mehr oder weniger nahe<lb/> an vollkommene Heilung heranreicht. Solche erfreuliche Erfolge<lb/> erzielt man, wo die Krankheitserscheinungen allein durch den<lb/> inneren Konflikt zwischen den auf die Sexualität bezüglichen<lb/> Regungen gehalten werden. Man sieht in diesen Fällen das Be<lb break="no"/>finden der Kranken in dem Maße sich bessern, in dem man durch<lb/> Übersetzung des pathogenen Materials in normales zur Lösung<lb/> ihrer psychischen Aufgaben beigetragen hat. Anders ist der Verlauf,<lb/> wo sich die Symptome in den Dienst äußerer Motive des Lebens<lb/> gestellt haben, wie es auch bei Dora seit den letzten zwei Jahren<lb/> geschehen war. Man ist überrascht und könnte leicht irre werden,<lb/> wenn man erfährt, daß das Befinden der Kranken durch die selbst<lb/> weit vorgeschrittene Arbeit nicht merklich geändert wird. In<lb/> Wirklichkeit steht es nicht so arg; die Symptome schwinden<lb/> zwar nicht unter der Arbeit, wohl aber eine Zeit lang nach der<lb break="no"/>selben, wenn die Beziehungen zum Arzte gelöst sind. Der Aufschub<lb/> des Heilung oder Besserung ist wirklich nur durch die Person<lb/> der Arztes verursacht.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Ich muß etwas weiter ausholen, um diesen Sachverhalt ver<lb break="no"/>ständlich zu machen. Während einer psychoanalytischen Kur ist<lb/> die Neubildung von Symptomen, man darf wohl sagen: regel<lb break="no"/>mäßig, sistiert. Die Produktivität der Neurose ist aber durchaus<lb/> nicht erloschen, sondern betätigt sich in der Schöpfung einer<lb/> besonderen Art von meist unbewußten Gedankenbildungen, welchen<lb/> man den Namen „<hi rendition="#smallcaps">Übertragungen</hi>“ verleihen kann.<lb break="paragraph"/></p> <p>Was sind die Übertragungen? Es sind Neuauflagen, Nachbildungen<lb/> von den Regungen und Phantasien, die während des Vordringens<lb/> der Analyse erweckt und bewußt gemacht werden sollen, mit<lb/> einer für die Gattung charakteristischen Ersetzung einer früheren<lb/> Person durch die Person des Arztes. Um es anders zu sagen: eine<lb break="paragraph"/><pb n="6" xml:id="page__9c5ea63f-fc8c-478c-9bd2-21d9d548b4e4"/><fw type="pageNum">120</fw>ganze Reihe früherer psychischer Erlebnisse wird nicht als ver<lb break="no"/>gangen, sondern als aktuelle Beziehung zur Person des Arztes<lb/> wieder lebendig. Es gibt solche Übertragungen, die sich im Inhalt<lb/> von ihrem Vorbilde in gar nichts bis auf die Ersetzung unter<lb break="no"/>scheiden. Das sind also, um in dem Gleichnisse zu bleiben, ein<lb break="no"/>fache Neudrucke, unveränderte Neuauflagen. Andere sind kunstvoller<lb/> gemacht, sie haben eine Milderung ihres lnhaltes, eine <hi rendition="#smallcaps">Subli</hi><lb break="no"/><hi rendition="#smallcaps">mierung</hi>, wie ich sage, erfahren und vermögen selbst bewußt<lb/> zu werden, indem sie sich an irgend eine geschickt verwertete<lb/> reale Besonderheit an der Person oder in den Verhältnissen des<lb/> Arztes anlehnen. Das sind also Neubearbeitungen, nicht mehr<lb/> Neudrucke.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Wenn man sich in die Theorie der analytischen Technik<lb/> einläßt, kommt man zu der Einsicht, daß die Übertragung etwas<lb/> notwendig Gefordertes ist. Praktisch überzeugt man sich wenigstens,<lb/> daß man ihr durch keinerlei Mittel ausweichen kann, und daß<lb/> man diese letzte Schöpfung der Krankheit wie alle früheren zu<lb/> bekämpfen hat. Nun ist dieses Stück der Arbeit das bei weitem<lb/> schwierigste. Das Deuten der Träume, das Extrahieren der un<lb break="no"/>bewußten Gedanken und Erinnerungen aus den Einfällen des<lb/> Kranken und ähnliche Übersetzungskünste sind leicht zu erlernen;<lb/> dabei liefert immer der Kranke selbst den Text. Die Übertragung<lb/> allein muß man fast selbständig erraten, auf geringfügige Anhalts<lb break="no"/>punkte hin und ohne sich der Willkür schuldig zu machen. Zu<lb/> umgehen ist sie aber nicht, da sie zur Herstellung aller Hinder<lb break="no"/>nisse verwendet wird, welche das Material der Kur unzugänglich<lb/> machen, und da die Überzeugungsempfindung für die Richtigkeit<lb/> der konstruierten Zusammenhänge beim Kranken erst nach Lösung<lb/> der Übertragung hervorgerufen wird.<lb break="paragraph"/></p> <p>Man wird geneigt sein, es für einen schweren Nachteil des<lb/> ohnehin unbequemen Verfahrens zu halten, daß dasselbe die Arbeit<lb/> des Arztes durch Schöpfung einer neuen Gattung von krankhaften<lb/> psychischen Produkten noch vermehrt, ja, wird vielleicht eine<lb break="paragraph"/><pb n="7" xml:id="page__31721730-2101-4275-ad90-66380dec568a"/><fw type="pageNum">121</fw>Schädigung des Kranken durch die analytische Kur aus der<lb/> Existenz der Übertragungen ableiten wollen. Beides wäre irrig.<lb/> Die Arbeit des Arztes wird durch die Übertragung nicht vermehrt;<lb/> es kann ihm ja gleichgültig sein, ob er die betreffende Regung<lb/> des Kranken in Verbindung mit seiner Person oder mit einer<lb/> anderen zu überwinden hat. Die Kur nötigt aber auch dem<lb/> Kranken mit der Übertragung keine neue Leistung auf, die er<lb/> nicht auch sonst vollzogen hätte. Wenn Heilungen von Neurosen<lb/> auch in Anstalten zustande kommen, wo psychisch-analytische Be<lb break="no"/>handlung ausgeschlossen ist, wenn man sagen konnte, daß die<lb/> Hysterie nicht durch die Methode, sondern durch den Arzt geheilt<lb/> wird, wenn sich eine Art von blinder Abhängigkeit und dauernder<lb/> Fesselung des Kranken an den Arzt zu ergeben pflegt, der ihn<lb/> durch hypnotische Suggestion von seinen Symptomen befreit hat,<lb/> so ist die wissenschaftliche Erklärung für all dies in „Übertragungen“<lb/> zu sehen, die der Kranke regelmäßig auf die Person des Arztes<lb/> vornimmt. Die psychoanalytische Kur schafft die Übertragung<lb/> nicht, sie deckt sie bloß, wie anderes im Seelenleben Ver<lb break="no"/>borgene, auf. Der Unterschied äußert sich nur darin, daß der<lb/> Kranke spontan bloß zärtliche und freundschaftliche Übertragungen<lb/> zu seiner Heilung wachruft; wo dies nicht der Fall sein kann,<lb/> reißt er sich so schnell wie möglich, unbeeinflußt vom Arzte, der<lb/> ihm nicht „sympathisch“ ist, los. In der Psychoanalyse werden<lb/> hingegen, entsprechend einer veränderten Motivenanlage, alle<lb/> Regungen, auch die feindseligen, geweckt, durch Bewußtmachen<lb/> für die Analyse verwertet, und dabei wird die Übertragung immer<lb/> wieder vernichtet. Die Übertragung, die das größte Hindernis für<lb/> die Psychoanalyse zu werden bestimmt ist, wird zum mächtigsten<lb/> Hilfsmittel derselben, wenn es gelingt, sie jedesmal zu erraten<lb/> und dem Kranken zu übersetzen<hi rendition="#footnote-index">1</hi>.<lb break="paragraph"/></p>
+         
+         
+            
+              <note type="footnote"><hi rendition="#footnote-index">1)</hi> [<hi rendition="#em">Zusatz 1923</hi>:] Was hier über die Übertragung gesagt wird, findet dann seine<lb/> Fortsetzung in dem technischen Aufsatz über die „Übertragungsliebe“ (enthalten in<lb/> Bd. VI. dieser Gesamtausgabe).<lb break="paragraph"/></note>
+         
+         
+            <pb n="8" xml:id="page__8cf42914-d3c9-43d7-a157-08bcf54dedaf"/>
+            <fw type="pageNum">122</fw> <p>Ich mußte von der Übertragung sprechen, weil ich die Be<lb break="no"/>sonderheiten der Analyse Doras nur durch dieses Moment aufzu<lb break="no"/>klären vermag. Was den Vorzug derselben ausmacht und sie als<lb/> geeignet für eine erste, einführende Publikation erscheinen läßt,<lb/> ihre besondere Durchsichtigkeit, das hängt mit ihrem großen<lb/> Mangel, welcher zu ihrem vorzeitigen Abbruche führte, innig zu<lb break="no"/>sammen. Es gelang mir nicht, der Übertragung rechtzeitig Herr<lb/> zu werden; durch die Bereitwilligkeit, mit welcher sie mir den<lb/> einen Teil des pathogenen Materials in der Kur zur Verfügung<lb/> stellte, vergaß ich der Vorsicht, auf die ersten Zeichen der Über<lb break="no"/>tragung zu achten, welche sie mit einem anderen, mir unbekannt<lb/> gebliebenen Teile desselben Materials vorbereitete. Zu Anfang war<lb/> es klar, daß ich ihr in der Phantasie den Vater ersetzte, wie auch<lb/> bei dem Unterschiede unserer Lebensalter nahelag. Sie verglich<lb/> mich auch immer bewußt mit ihm, suchte sich ängstlich zu<lb/> vergewissern, ob ich auch ganz aufrichtig gegen sie sei, denn der<lb/> Vater „bevorzuge immer die Heimlichkeit und einen krummen<lb/> Umweg“. Als dann der erste Traum kam, in dem sie sich warnte,<lb/> die Kur zu verlassen wie seinerzeit das Haus des Herrn K., hätte<lb/> ich selbst gewarnt werden müssen und ihr vorhalten sollen: „Jetzt<lb/> haben Sie eine Übertragung von Herrn K. auf mich gemacht.<lb/> Haben Sie etwas bemerkt, was Sie auf böse Absichten schließen<lb/> läßt, die denen des Herrn K. (direkt oder in irgend einer Subli<lb break="no"/>mierung) ähnlich sind, oder ist Ihnen etwas an mir aufgefallen<lb/> oder von mir bekannt geworden, was Ihre Zuneigung erzwingt,<lb/> wie ehemals bei Herrn K.?“ Dann hätte sich ihre Aufmerksamkeit<lb/> auf irgend ein Detail aus unserem Verkehre, an meiner Person<lb/> oder an meinen Verhältnissen gerichtet, hinter dem etwas Analoges,<lb/> aber ungleich Wichtigeres, das Herrn K. betraf, sich verborgen<lb/> hielt, und durch die Lösung dieser Übertragung hätte die Analyse<lb/> den Zugang zu neuem, wahrscheinlich tatsächlichem Material der<lb/> Erinnerung gewonnen. Ich überhörte aber diese erste Warnung,<lb/> meinte, es sei reichlich Zeit, da sich andere Stufen der Über<lb break="no"/><pb n="9" xml:id="page__d4d6c407-9f71-4c38-940c-cf46a422a78f"/><fw type="pageNum">123</fw>tragung nicht einstellten und das Material für die Analyse noch<lb/> nicht versiegte. So wurde ich denn von der Übertragung über<lb break="no"/>rascht und wegen des X, in dem ich sie an Herrn K. erinnerte,<lb/> rächte sie sich an mir, wie sie sich an Herrn K. rächen wollte,<lb/> und verließ mich, wie sie sich von ihm getäuscht und verlassen<lb/> glaubte. Sie <hi rendition="#smallcaps">agierte</hi> so ein wesentliches Stück ihrer Erinnerungen<lb/> und Phantasien, anstatt es in der Kur zu reproduzieren. Welches<lb/> dieses X war, kann ich natürlich nicht wissen: ich vermute, es<lb/> bezog sich auf Geld, oder es war Eifersucht gegen eine andere<lb/> Patientin, die nach ihrer Heilung im Verkehre mit meiner Familie<lb/> geblieben war. Wo sich die Übertragungen frühzeitig in die<lb/> Analyse einbeziehen lassen, da wird deren Verlauf undurchsichtig<lb/> und verlangsamt, aber ihr Bestand ist gegen plötzliche unwider<lb break="no"/>stehliche Widerstände besser gesichert.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>In dem zweiten Traume Doras ist die Übertragung durch<lb/> mehrere deutliche Anspielungen vertreten. Als sie ihn mir erzählte,<lb/> wußte ich noch nicht, erfuhr es erst zwei Tage später, daß wir<lb/> nur noch <hi rendition="#smallcaps">zwei Stunden</hi> Arbeit vor uns hatten, dieselbe Zeit,<lb/> die sie vor dem Bilde der Sixtinischen Madonna verbracht, und<lb/> die sie auch vermittelst einer Korrektur (zwei Stunden anstatt<lb/> zweieinhalb Stunden) zum Maße des von ihr nicht zurückgelegten<lb/> Weges um den See gemacht hatte. Das Streben und Warten im<lb/> Traume, das sich auf den jungen Mann in Deutschland bezog<lb/> und von ihrem Warten, bis Herr K. sie heiraten könne, herstammte,<lb/> hatte sich schon einige Tage vorher in der Übertragung geäußert:<lb/> Die Kur dauere ihr zu lange, sie werde nicht die Geduld haben,<lb/> so lange zu warten, während sie in den ersten Wochen Einsicht<lb/> genug gezeigt hatte, meine Ankündigung, ihre volle Herstellung<lb/> werde etwa ein Jahr in Anspruch nehmen, ohne solchen Ein<lb break="no"/>spruch anzuhören. Die Ablehnung der Begleitung im Traume,<lb/> sie wolle lieber allein gehen, die gleichfalls aus dem Besuche<lb/> in der Dresdener Galerie herrührte, sollte ich ja an dem hierfür<lb/> bestimmten Tage erfahren. Sie hatte wohl den Sinn: Da alle<lb break="paragraph"/><pb n="10" xml:id="page__a6f19813-5f99-4eae-957f-7065667b4296"/><fw type="pageNum">124</fw>Männer so abscheulich sind, so will ich lieber nicht heiraten. Dies<lb/> meine Rache.<hi rendition="#footnote-index">1</hi><lb break="paragraph"/></p>
+         
+         
+            
+              <p>Wo Regungen der Grausamkeit und Motive der Rache, die<lb/> schon im Leben zur Aufrechthaltung der Symptome verwendet<lb/> worden sind, sich während der Kur auf den Arzt übertragen, ehe<lb/> er Zeit gehabt hat, dieselben durch Rückführung auf ihre Quellen<lb/> von seiner Person abzulösen, da darf es nicht Wunder nehmen,<lb/> daß das Befinden der Kranken nicht den Einfluß seiner therapeuti<lb break="no"/>schen Bemühung zeigt. Denn wodurch könnte die Kranke sich<lb/> wirksamer rächen, als indem sie an ihrer Person dartut, wie<lb/> ohnmächtig und unfähig der Arzt ist? Dennoch hin ich geneigt,<lb/> den therapeutischen Wert auch so fragmentarischer Behandlungen,<lb/> wie die Doras war, nicht gering zu veranschlagen.<lb break="paragraph"/></p> <p>Erst fünf Vierteljahre nach Abschluß der Behandlung und dieser<lb/> Niederschrift erhielt ich Nachricht von dem Befinden meiner<lb/> Patientin und somit von dem Ausgange der Kur. An einem nicht<lb/> ganz gleichgültigen Datum, am 1. April — wir wissen, daß<lb/> Zeiten bei ihr nie bedeutungslos waren — erschien sie bei mir,<lb/> um ihre Geschichte zu beenden und um neuerdings Hilfe zu<lb break="paragraph"/><pb n="11" xml:id="page__9508a258-629e-4a9c-b6b7-f5fef84e6558"/><fw type="pageNum">125</fw>erbitten: ein Blick auf ihre Miene konnte mir aber verraten, daß<lb/> es ihr mit dieser Bitte nicht ernst war. Sie war noch vier bis<lb/> fünf Wochen, nachdem sie die Behandlung verlassen, im „Durch<lb break="no"/>einander“, wie sie sagte. Dann trat eine große Besserung ein, die<lb/> Anfälle wurden seltener, ihre Stimmung gehoben. Im Mai des<lb/> jetzt vergangenen Jahres starb das eine Kind des Ehepaares K.,<lb/> das immer gekränkelt hatte. Sie nahm diesen Trauerfall zum<lb/> Anlasse, um den K. einen Kondolenzbesuch zu machen, und<lb/> wurde von ihnen empfangen, als ob in diesen letzten drei Jahren<lb/> nichts vorgefallen wäre. Damals söhnte sie sich mit ihnen aus,<lb/> nahm ihre Rache an ihnen und brachte ihre Angelegenheit zu<lb/> einem für sie befriedigenden Abschlusse. Der Frau sagte sie: Ich<lb/> weiß, du hast ein Verhältnis mit dem Papa, und diese leugnete<lb/> nicht. Den Mann veranlaßte sie, die von ihm bestrittene Szene<lb/> am See zuzugestehen, und brachte diese, sie rechtfertigende Nach<lb break="no"/>richt ihrem Vater. Sie hat den Verkehr mit der Familie nicht<lb/> wieder aufgenommen.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Je weiter ich mich zeitlich von der Beendigung dieser Analyse entferne, desto<lb/> wahrscheinlicher wird mir, daß mein technischer Fehler in folgender Unterlassung<lb/> bestand: Ich habe es versäumt, rechtzeitig zu erraten und der Kranken mitzuteilen,<lb/> daß die homosexuelle (gynäkophile) Liebesregung für Frau K. die stärkste der unbe<lb break="no"/>wußten Strömungen ihres Seelenlebens war. Ich hätte erraten müssen, daß keine<lb/> andere Person als Frau K. die Hauptquelle für ihre Kenntnis sexueller Dinge sein<lb/> konnte, dieselbe Person, von der sie dann wegen ihres Interesses an solchen Gegen<lb break="no"/>ständen verklagt worden war. Es war doch zu auffällig, daß sie alles Anstößige wußte<lb/> und niemals wissen wollte, woher sie es wußte. An dieses Rätsel hätte ich anknüpfen,<lb/> für diese sonderbare Verdrängung hätte ich das Motiv suchen müssen. Der zweite<lb/> Traum hätte es mir dann verraten. Die rücksichtslose Rachsucht, welcher dieser<lb/> Traum den Ausdruck gab, war wie nichts anderes geeignet, die gegensätzliche<lb/> Strömung zu verdecken, den Edelmut, mit dem sie den Verrat der geliebten Freundin<lb/> verzieh und es allen verbarg, daß diese selbst ihr die Eröffnungen gemacht, deren<lb/> Kenntnis dann zu ihrer Verdächtigung verwendet wurde. Ehe ich die Bedeutung<lb/> der homosexuellen Strömung bei den Psychoneurotikern erkannt hatte, bin ich<lb/> oftmals in der Behandlung von Fällen stecken geblieben oder in völlige Verwirrung<lb/> geraten.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Es ging ihr dann ganz gut bis Mitte Oktober, um welche Zeit<lb/> sich wieder ein Anfall von Stimmlosigkeit einstellte, der sechs<lb/> Wochen lang anhielt. Über diese Mitteilung überrascht, frage ich,<lb/> ob dafür ein Anlaß vorhanden war, und höre, daß der Anfall an<lb/> ein heftiges Erschrecken anschloß. Sie mußte zusehen, wie jemand<lb/> von einem Wagen überfahren wurde. Endlich rückte sie damit<lb/> heraus, daß der Unfall keinen anderen als Herrn K. betroffen<lb/> hatte. Sie traf ihn eines Tages auf der Straße; er kam ihr an<lb/> einer Stelle lebhaften Verkehres entgegen, blieb wie verworren<lb/> vor ihr stehen und ließ sich in der Selbstvergessenheit von einem<lb/> Wagen niederwerfen<hi rendition="#footnote-index">1</hi>. Sie überzeugte sich übrigens, daß er ohne<lb/> erheblichen Schaden davonkam. Es rege sich noch leise in ihr,<lb/> wenn sie von dem Verhältnisse des Papas zu Frau K. reden höre,<lb break="paragraph"/><pb n="12" xml:id="page__614b12eb-9d51-493f-b33b-4b85ee3acc82"/><fw type="pageNum">126</fw>in welches sie sich sonst nicht mehr menge. Sie lebe ihren<lb/> Studien, gedenke nicht zu heiraten.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Ein interessanter Beitrag zu dem in meiner „Psychopathologie des Alltagslebens“<lb/> behandelten indirekten Selbstmordversuche.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Meine Hilfe suchte sie wegen einer rechtsseitigen Gesichts<lb break="no"/>neuralgie, die jetzt Tag und Nacht anhalte. Seit wann? „Seit<lb/> genau vierzehn Tagen<hi rendition="#footnote-index">1</hi>.“ — Ich mußte lächeln, da ich ihr nach<lb break="no"/>weisen konnte, daß sie vor genau vierzehn Tagen eine mich<lb/> betreffende Nachricht in der Zeitung gelesen, was sie auch be<lb break="no"/>stätigte (1902).<lb break="paragraph"/></p> <p>Die angebliche Gesichtsneuralgie entsprach also einer Selbst<lb break="no"/>bestrafung, der Reue wegen der Ohrfeige, die sie damals Herrn K.<lb/> gegeben, und der daraus auf mich bezogenen Racheübertragung.<lb/> Welche Art Hilfe sie von mir verlangen wollte, weiß ich nicht,<lb/> aber ich versprach, ihr zu verzeihen, daß sie mich um die Be<lb break="no"/>friedigung gebracht, sie weit gründlicher von ihrem Leiden zu<lb/> befreien.<lb break="paragraph"/></p> <p>Es sind wiederum Jahre seit dem Besuche bei mir vergangen.<lb/> Das Mädchen hat sich seither verheiratet, und zwar mit jenem<lb/> jungen Manne, wenn mich nicht alle Anzeichen trügen, den die<lb/> Einfälle zu Beginn der Analyse des zweiten Traumes erwähnten.<lb/> Wie der erste Traum die Abwendung vom geliebten Manne zum<lb/> Vater, also die Flucht aus dem Leben in die Krankheit bezeichnete,<lb/> so verkündete ja dieser zweite Traum, daß sie sich vom Vater<lb/> losreißen werde und dem Leben wiedergewonnen sei.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Siehe die Bedeutung dieses Termins und dessen Beziehung zum Thema der<lb/> Rache in der Analyse des zweiten Traumes.<lb break="paragraph"/></note>
+         
+      </div></body>
+   </text>
+</TEI>

@@ -1,0 +1,284 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1921-001; 1921c): Massenpsychologie und Ich-Analyse</title>
+            <title type="manifestation" level="a">IV Suggestion und Libido (1921-001None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. SL</p>
+            </note>
+            <note type="doc_component">
+               Unterkapitel
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1921-001-1923">
+                     <monogr>
+                        <title type="manifestation">Massenpsychologie und Ich-Analyse</title>
+                        <title type="manifestation-short">2. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1921-001-1921">
+                     <monogr>
+                        <title type="manifestation">Massenpsychologie und Ich-Analyse</title>
+                        <title type="manifestation-short">Erstausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1921-001-1921.01">
+                     <analytic>
+                        <title type="manifestation">Massenpsychologie und Ich-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1921-001-1925">
+                     <analytic>
+                        <title type="manifestation">Massenpsychologie und Ich-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 6</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>349 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1921-001-1931">
+                     <analytic>
+                        <title type="manifestation">Massenpsychologie und Ich-Analyse</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [5]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-03">1931-01-03</date>
+                        </imprint>
+<extent>337 Seiten</extent>                        <biblScope unit="volume">Theoretische Schriften (1911-1925)</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1921-001None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">IV Suggestion und Libido</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__57ef49c4-7480-4a5c-8396-512ab74e446b">
+                        <title>IV Suggestion und Libido</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1921-001None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/iv-suggestion-und-libido/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/57ef49c4-7480-4a5c-8396-512ab74e446b</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__156a237d-fd58-46f9-aa7d-3adfcfa1ed9d">
+                              <title>Freud, Sigmund  (1921-001; 1921c): Massenpsychologie und Ich-Analyse</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/massenpsychologie-und-ich-analyse</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/156a237d-fd58-46f9-aa7d-3adfcfa1ed9d</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__8dfc1505-97a8-4554-abc0-6d6413fc2772"/>
+            <fw type="pageNum">[283]</fw> <p rendition="#level_2">IV<lb/> SUGGESTION UND LIBIDO</p><p>Wir sind von der Grundtatsache ausgegangen, daß ein Einzelner<lb/> innerhalb einer Masse durch den Einﬂuß derselben eine oft tief<lb break="no"/>greifende Veränderung seiner seelischen Tätigkeit erfährt. Seine<lb/> Affektivität wird außerordentlich gesteigert, seine intellektuelle<lb/> Leistung merklich eingeschränkt, beide Vorgänge offenbar in der<lb/> Richtung einer Angleichung an die anderen Massenindividuen;<lb/> ein Erfolg, der nur durch die Aufhebung der jedem Einzelnen<lb/> eigentümlichen Triebhemmungen und durch den Verzicht auf die<lb/> ihm besonderen Ausgestaltunan seiner Neigungen erreicht<lb/> werden kann. Wir haben gehört, daß diese oft unerwünschten<lb/> Wirkungen durch eine höhere „Organisation“ der Massen wenigstens<lb/> teilweise hintangehalten werden, aber der Grundtatsache der<lb/> Massenpsychologie, den beiden Sätzen von der Aliektsteigerung<lb/> und der Denkhemmung in der primitiven Masse ist dadurch<lb/> nicht widersprochen werden. Unser Interesse geht nun dahin, für<lb/> diese seelische Wandlung des Einzelnen in der Masse die psycho<lb break="no"/>logische Erklärung zu finden.<lb break="paragraph"/></p> <p>Rationelle Momente, wie die vorhin erwähnte Einschüchterung<lb/> des Einzelnen, also die Aktion seines Selbsterhaltungstriebes, decken<lb/> offenbar die zu beobachtenden Phänomene nicht. Was uns sonst<lb/> als Erklärung von den Autoren über Soziologie und Massen<lb break="no"/>psychologie geboten wird, ist immer das nämliche, wenn auch<lb/> unter wechselnden Namen: das Zauberwort der <hi rendition="#smallcaps">Suggestion</hi>.<lb break="paragraph"/><pb n="2" xml:id="page__1c8f7441-5e19-4d35-86fe-c1436111e9bc"/><fw type="pageNum">284</fw>Bei <hi rendition="#smallcaps">Tarde</hi> hieß sie <hi rendition="#smallcaps">Nachahmung</hi>, aber wir müssen einem<lb/> Autor recht geben, der uns verhält, die Nachahmung falle unter<lb/> den Begriff der Suggestion, sei eben eine Folge derselben.’ Bei<lb/> <hi rendition="#smallcaps">Le Bon</hi> wurde alles Befremdende der sozialen Erscheinungen<lb/> auf zwei Faktoren zurückgeführt, auf die gegenseitige Suggestion<lb/> der Einzelnen und das Prestige der Führer. Aber das Prestige<lb/> äußert sich wiederum nur in der Wirkung, Suggestion hervor<lb break="no"/>zurufen. Bei Mc<hi rendition="#smallcaps">Dougall</hi> konnten wir einen Moment lang den<lb/> Eindruck empfangen, daß sein Prinzip der „primären Affekt<lb break="no"/>induktion“ die Annahme der Suggestion entbehrlich mache. Aber<lb/> bei weiterer Überlegung müssen wir doch einsehen, daß dies<lb/> Prinzip nichts anderes aussagt als die bekannten Behauptungen<lb/> der „Nachahmung“ oder „Ansteckung“, nur unter entschiedener<lb/> Betonung des effektiven Moments. Daß eine derartige Tendenz<lb/> in uns besteht, wenn wir ein Zeichen eines Affektzustandes bei<lb/> einem anderen gewahren, in denselben Affekt zu verfallen, ist<lb/> unzweifelhaft, aber wie oft widerstehen wir ihr erfolgreich,<lb/> weisen den Affekt ab, reagieren oft in ganz gegensätzlicher Weise?<lb/> Warum also geben wir dieser Ansteckung in der Masse regel<lb break="no"/>mäßig nach? Man wird wiederum sagen müssen, es sei der<lb/> suggestive Einﬂuß der Masse, der uns nötigt, dieser Nachahmungs<lb break="no"/>tendenz zu gehorchen, der den Affekt in uns induziert. Übrigens<lb/> kommen wir auch sonst bei Mc<hi rendition="#smallcaps">Dougall</hi> nicht um die Suggestion<lb/> herum; wir hören von ihm wie von anderen: die Massen<lb/> zeichnen sich durch besondere Suggestibilität aus.<lb break="paragraph"/></p>
+         
+         
+            
+              <p>Man wird so für die Aussage vorbereitet, die Suggestion<lb/> (richtiger die Suggerierbarkeit) sei eben ein weiter nicht reduzier<lb break="no"/>bares Urphänomen, eine Grundtatsache des menschlichen Seelen<lb break="no"/>lebens. So hielt es auch <hi rendition="#smallcaps">Bernheim</hi>, von dessen erstaunlichen<lb/> Künsten ich im Jahre 1889 Zeuge war. Ich weiß mich aber auch<lb/> damals an eine dumpfe Gegnerschaft gegen diese Tyrannei der<lb break="paragraph"/><pb n="3" xml:id="page__dc4b56c3-1715-47ab-8d9d-bc3b66cf4edb"/><fw type="pageNum">285</fw>Suggestion zu erinnern. Wenn ein Kranker, der sich nicht gefügig<lb/> zeigte, angeschrieen wurde: Was tun Sie denn? <hi rendition="#em">Vous vous contre<lb break="no"/>suggestionnez!</hi> so sagte ich mir, das sei offenbares Unrecht und<lb/> Gewalttat. Der Mann habe zu Gegensuggestionen gewiß ein<lb/> Recht, wenn man ihn mit Suggestionen zu unterwerfen versuche.<lb/> Mein Widerstand nahm dann später die Richtung einer Auf<lb break="no"/>lehnung dagegen, daß die Suggestion, die alles erklärte, selbst<lb/> der Erklärung entzogen sein sollte. Ich wiederholte mit Bezug auf<lb/> sie die alte Scherzfrage:<hi rendition="#footnote-index">1</hi><lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> <hi rendition="#smallcaps">Brugeilles</hi>, L’essence du phénoméne social: La suggestion. Revue philo<lb break="no"/>sophique XXV. 1913.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Christoph trug Christum,<lb/> Christus trug die ganze Welt,<lb/> Sag’, wo hat Christoph<lb/> Damals hin den Fuß gestellt?<lb break="paragraph"/></p> <p><hi rendition="#em">Christophorus Christum, sed Christus sustulit orbem:<lb/> Constiterit pedibus dic ubi Christophorus?</hi><lb break="paragraph"/></p> <p>Wenn ich nun nach etwa dreißigjähriger Fernhaltung wieder<lb/> an das Rätsel der Suggestion herantrete, finde ich, daß sich nichts<lb/> daran geändert hat. Von einer einzigen Ausnahme, die eben den<lb/> Einﬂuß der Psychoanalyse bezeugt, darf ich ja bei dieser Behauptung<lb/> absehen. Ich sehe, daß man sich besonders darum bemüht, den<lb/> Begriff der Suggestion korrekt zu formulieren, also den Gebrauch<lb/> des Namens konventionell festzulegen,<hi rendition="#footnote-index">2</hi> und dies ist nicht über<lb break="no"/>ﬂüssig, denn das Wort geht einer immer weiteren Verwendung<lb/> mit aufgelockerter Bedeutung entgegen und wird bald jede beliebige<lb/> Beeinﬂussung bezeichnen wie im Englischen, wo „<hi rendition="#em">to suggest,<lb/> suggestion</hi>“ unserem „Nahelegen“, unserer „Anregung“ entspricht.<lb/> Aber über das Wesen der Suggestion, das heißt über die<lb/> Bedingungen, unter denen sich Beeinﬂussungen ohne zureichende<lb/> logische Begründung herstellen, hat sich eine Aufklärung nicht<lb break="paragraph"/><pb n="4" xml:id="page__b5df485a-c0f9-4b8c-b28b-c58ff4b1526f"/><fw type="pageNum">286</fw>ergeben. Ich würde mich der Aufgabe nicht entziehen, diese<lb/> Behauptung durch die Analyse der Literatur dieser letzten dreißig<lb/> Jahre zu erhärten, allein ich unterlasse es, weil mir bekannt ist,<lb/> daß in meiner Nähe eine ausführliche Untersuchung vorbereitet<lb/> wird, welche sich eben diese Aufgabe gestellt hat.<hi rendition="#footnote-index">1</hi><lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Konrad <hi rendition="#smallcaps">Richter</hi>, Der deutsche St. Christoph. Berlin 1896. Acta Germanica V, 1.<lb break="paragraph"/></note> <note type="footnote"><hi rendition="#footnote-index">2)</hi> So Mc<hi rendition="#smallcaps">Dougall</hi> im „Journal of Neurology and. Psychopathology“, Vol. 1,<lb/> No. 1, May 1920: A note on suggestion.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Anstatt dessen werde ich den Versuch machen, zur Aufklärung<lb/> der Massenpsychologie den Begriff der <hi rendition="#smallcaps">Libido</hi> zu verwenden,<lb/> der uns im Studium der Psychoneurosen so gute Dienste ge<lb break="no"/>leistet hat.<lb break="paragraph"/></p> <p>Libido ist ein Ausdruck aus der Affektivitätslehre. Wir heißen<lb/> so die als quantitative Größe betrachtete — wenn auch derzeit<lb/> nicht meßbare — Energie solcher Triebe, welche mit all dem zu<lb/> tun haben, was man als Liebe zusammenfassen kann. Den Kern<lb/> des von uns Liebe Geheißenen bildet natürlich, was man gemeinhin<lb/> Liebe nennt und was die Dichter besingen, die Geschlechtsliebe<lb/> mit dem Ziel der geschlechtlichen Vereinigung. Aber wir trennen<lb/> davon nicht ab, was auch sonst an dem Namen Liebe Anteil<lb/> hat einerseits die Selbstliebe, anderseits die Eltern- und Kindes<lb break="no"/>liebe, die Freundschaft und die allgemeine Menschenliebe, auch<lb/> nicht die Hingebung an konkrete Gegenstände und an abstrakte<lb/> Ideen. Unsere Rechtfertigung liegt darin, daß die psychoanalytische<lb/> Untersuchung uns gelehrt hat, alle diese Strebungen seien der<lb/> Ausdruck der nämlichen Triebregungen, die zwischen den<lb/> Geschlechtern zur geschlechtlichen Vereinigung hindrängen, in<lb/> anderen Verhältnissen zwar von diesem sexuellen Ziel abgedrängt<lb/> oder in der Erreichung desselben aufgehalten werden, dabei aber<lb/> doch immer genug von ihrem ursprünglichen Wesen bewahren,<lb/> um ihre Identität kenntlich zu erhalten (Selbstaufopferung, Streben<lb/> nach Annäherung).<lb break="paragraph"/></p> <p>Wir meinen also, daß die Sprache mit dem Wort „Liebe“ in<lb/> seinen vielfältigen Anwendungen eine durchaus berechtigte<lb/> Zusammenfassung geschaffen hat, und daß wir nichts Besseres<lb break="paragraph"/><pb n="5" xml:id="page__e52ac8b2-642f-427c-874f-576bbabc0a0f"/><fw type="pageNum">287</fw>tun können, als dieselbe auch unseren wissenschaftlichen Erörte<lb break="no"/>rungen und Darstellungen zugrunde zu legen. Durch diesen<lb/> Entschluß hat die Psychoanalyse einen Sturm von Entrüstung<lb/> entfesselt, als ob sie sich einer frevelhaften Neuerung schuldig<lb/> gemacht hätte. Und doch hat die Psychoanalyse mit dieser<lb/> „erweiterten“ Auffassung der Liebe nichts Originelles geschaffen.<lb/> Der „<hi rendition="#smallcaps">Eros</hi>“ des Philosophen <hi rendition="#smallcaps">Plato</hi> zeigt in seiner Herkunft,<lb/> Leistung und Beziehung zur Geschlechtsliebe eine vollkommene<lb/> Deckung mit der Liebeskraft, der Libido der Psychoanalyse, wie<lb/> <hi rendition="#smallcaps">Nachmansohn</hi> und <hi rendition="#smallcaps">Pfister</hi> im Einzelnen dargelegt haben,<hi rendition="#footnote-index">1</hi><lb/> und wenn der Apostel <hi rendition="#smallcaps">Paulus</hi> in dem berühmten Brief an die<lb/> Korinther die Liebe über alles andere preist, hat er sie gewiß<lb/> im nämlichen „erweiterten“ Sinn verstanden,<hi rendition="#footnote-index">2</hi> woraus nur zu<lb/> lernen ist, daß die Menschen ihre großen Denker nicht immer<lb/> ernst nehmen, auch wenn sie sie angeblich sehr bewundern.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> [<hi rendition="#em">Zusatz 1924</hi>]: Diese Arbeit ist dann leider nicht zustande gekommen.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Diese Liebestriebe werden nun in der Psychoanalyse a potiori<lb/> und von ihrer Herkunft her Sexualtriebe geheißen. Die Mehr<lb break="no"/>zahl der „Gebildeten“ hat diese Namengebung als Beleidigung<lb/> empfunden und sich für sie gerächt, indem sie der Psychoanalyse<lb/> den Vorwurf des „Pansexualismus“ entgegenschleuderte. Wer<lb/> die Sexualität für etwas die menschliche Natur Beschämendes<lb/> und Erniedrigendes hält, dem steht es ja frei, sich der vor<lb break="no"/>nehmeren Ausdrücke Eros und Erotik zu bedienen. Ich hätte es<lb/> auch selbst von Anfang an so tun können und hätte mir dadurch<lb/> viel Widerspruch erspart. Aber ich mochte es nicht, denn ich<lb/> vermeide gern Konzessionen an die Schwachmütigkeit. Man kann<lb/> nicht wissen, wohin man auf diesem Wege gerät; man gibt<lb/> zuerst in Worten nach und dann allmählich auch in der Sache.<lb/> Ich kann nicht finden, daß irgend ein Verdienst daran ist, sich<lb/> der Sexualität zu schämen; das griechische Wort Eros, das den<lb break="paragraph"/><pb n="6" xml:id="page__f1a0aec7-c914-4064-987f-a157623a1309"/><fw type="pageNum">288</fw>Schimpf lindern soll, ist doch schließlich nichts anderes als die<lb/> Übersetzung unseres deutschen Wortes Liebe, und endlich, wer<lb/> warten kann, braucht keine Konzessionen zu machen.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> <hi rendition="#smallcaps">Nachmansohn</hi>, Freuds Libidotheorie verglichen mit der Erosiéhre Platos.<lb/> Intern. Zeitschr. f. Psychoanalyse, III, 1915; <hi rendition="#smallcaps">Pfister</hi>, ebd. VII, 1921.<lb break="paragraph"/></note> <note type="footnote"><hi rendition="#footnote-index">2)</hi> „Wenn ich mit Menschen- und mit Engelzungen redete1 und hätte der Liebe<lb/> nicht, so wäre ich ein tönend Erz oder eine klingende Schelle,“ u. ff.<lb break="paragraph"/></note>
+         
+         
+            
+              <p>Wir werden es also mit der Voraussetzung versuchen, daß<lb/> Liebesbeziehungen (indifferent ausgedrückt: Gefühlsbindungen)<lb/> auch das Wesen der Massenseele ausmachen. Erinnern wir uns<lb/> daran, daß von solchen bei den Autoren nicht die Rede ist. Was<lb/> ihnen entsprechen würde, ist offenbar hinter dem Schirm, der<lb/> spanischen Wand, der Suggestion verborgen. Auf zwei flüchtige<lb/> Gedanken stützen wir zunächst unsere Erwartung. Erstens, daß<lb/> die Masse offenbar durch irgend eine Macht zusammengehalten<lb/> wird. Welcher Macht könnte man aber diese Leistung eher<lb/> zuschreiben als dem Eros, der alles in der Welt zusammenhält?<lb/> Zweitens, daß man den Eindruck empfängt, wenn der Einzelne<lb/> in der Masse seine Eigenart aufgibt und sich von den Anderen<lb/> suggerieren läßt, er tue es, weil ein Bedürfnis bei ihm besteht,<lb/> eher im Einvernehmen mit ihnen als im Gegensatz zu ihnen zu<lb/> sein, also vielleicht doch „ihnen zuliebe“.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

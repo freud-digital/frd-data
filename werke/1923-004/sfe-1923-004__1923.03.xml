@@ -1,0 +1,417 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-004; 1923d): Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+            <title type="manifestation" level="a">Eine Teufelsneurose im siebzehnten Jahrhundert (1923-004/1923.03)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>Das Werk 'Eine Teufelsneurose im siebzehnten Jahrhundert' doppelt im System!</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-004-1923.02">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1923.01">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1928">
+                     <monogr>
+                        <title type="manifestation">Eine Teufelsneurose im 17. Jahrhundert</title>
+                        <title type="manifestation-short">Bibliophile Sonderausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1924">
+                     <monogr>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <title type="manifestation-short">1. Buchausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1924.2">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 10</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>445 Seiten</extent>                        <biblScope unit="volume">10. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004None">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert [Teil 5]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1923.1">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub">Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+<extent>34 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">9</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-004-1923.03" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__fc4b9637-7888-4034-9bcb-2f1619922546">
+                        <title>Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-004/1923.03</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/eine-teufelsneurose-im-siebzehnten-jahrhundert/reinschrift</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fc4b9637-7888-4034-9bcb-2f1619922546</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__c3eef58f-7017-4e5c-bb91-3df6cdd077e7">
+                              <title>Freud, Sigmund  (1923-004; 1923d): Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                              <idno type="url">https://www.freud-edition.net/eine-teufelsneurose-im-siebzehnten-jahrhundert</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c3eef58f-7017-4e5c-bb91-3df6cdd077e7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV8 Box 34/10</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Reinschrift</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1922-1-5-1" xml:id="page__e45f87a1-5908-4a8a-8f7a-af401864f063"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-2" xml:id="page__b2409632-d5d8-4ebe-9abb-bf8a0221d5d3"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-3" xml:id="page__e7b844d7-cce8-4ff3-8017-3c94e12eff46"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-4" xml:id="page__a404a9f3-a185-4a33-92dd-3ccfd582efc8"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-5" xml:id="page__57bf553f-fcc9-4ede-87cc-da55b2a94f53"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-6" xml:id="page__0a79a3b6-4579-4863-af09-f6974f3628fa"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-7" xml:id="page__7e82489b-ed28-4a88-8353-a8f72cfe50d1"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-8" xml:id="page__46a4106c-46d1-4500-89b6-7a714e7222d0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-9" xml:id="page__f8c27912-9707-4c3a-9888-8710429c6081"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-10" xml:id="page__2e9ac737-d8ce-406d-b911-4e28e152ed04"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-11" xml:id="page__a42de5b9-3ed9-4181-b1ef-b9af446a3547"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-12" xml:id="page__8a5fe870-aa99-454e-ab64-9945f1dc936e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-13" xml:id="page__b906e494-8bfd-4e94-9db7-e1c1bb5ce7d6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-15" xml:id="page__9f80b9a5-6821-40ba-b146-6f85dbedbce0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-16" xml:id="page__a702eab3-9f0e-43d6-9526-f6ec5fa3fee6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-17" xml:id="page__d65d56a1-3146-402f-b95d-2893a488c018"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-18" xml:id="page__6d39fd73-f2e4-4fa6-8721-95089dd60b7a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-19" xml:id="page__13e3142f-28b2-498e-9411-43a0a794c326"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-20" xml:id="page__a1893459-4251-4fa9-9dd8-2e9794122f3f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-21" xml:id="page__ff251f75-fdc5-4317-abe2-930a1862a194"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-22" xml:id="page__aa347e8a-7d96-46e0-b88c-65a07eb1b46b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-23" xml:id="page__b2ab89f8-3e38-4047-99a8-ed12f79c27de"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-24" xml:id="page__801a054a-30c9-4cf9-97ac-376e75c377af"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-25" xml:id="page__354c8501-c73b-41e9-b475-f326e642168f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-26" xml:id="page__3fc49593-b2d2-4a9c-81ff-8c42791168a3"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-27" xml:id="page__878b8875-4103-40ca-9af7-9192e0d639a8"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-28" xml:id="page__db2b53d4-46cb-4b13-8761-71c15bb45242"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-29" xml:id="page__56fd5ddb-8967-4c76-825d-d24ac15f3b9e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-30" xml:id="page__8b9a9f27-7fae-47f8-882b-760f98e04c46"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-31" xml:id="page__b2813deb-d70c-4cd3-999e-0db61f370e7e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-32" xml:id="page__8607b0c6-9ad9-498d-88ac-708356169d40"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-33" xml:id="page__961cdb06-4275-4663-8abe-b443addb77e7"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-34" xml:id="page__9685ae73-f48e-49a6-aa35-72fe3317d4db"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-1-5-0" xml:id="page__11eaae27-a874-4f5d-98c1-8d5d2b449015"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

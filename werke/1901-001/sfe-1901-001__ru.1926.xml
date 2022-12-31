@@ -1,0 +1,490 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1901-001; 1901a): Über den Traum</title>
+            <title type="manifestation" level="a">Психология сна (1901-001/ru.1926)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Übersetzungen
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1901-001-ru.1912">
+                     <monogr>
+                        <title type="manifestation">Психология сна</title>
+                        <title type="manifestation-short">2. Russische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1912-01-01">1912-01-01</date>
+                        </imprint>
+                        <extent>64</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-hu.1915">
+                     <monogr>
+                        <title type="manifestation">Az Álomról</title>
+                        <title type="manifestation-short">Ungarische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1915-01-01">1915-01-01</date>
+                        </imprint>
+                        <extent>60</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-es.1922">
+                     <analytic>
+                        <title type="manifestation">Los sueños</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Obras Completas del Professor S. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__a1da1276-9452-4c32-8148-311830885348">López-Ballesteros y de Torres, Luis </name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Madrid</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>298 Seiten</extent>                        <biblScope unit="volume">Tomo 2. Una teorie sexual y otros ensayos</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-ru.1904">
+                     <monogr>
+                        <title type="manifestation">О сновидениях</title>
+                        <title type="manifestation-short">Russische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1904-01-01">1904-01-01</date>
+                        </imprint>
+                        <extent>55</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-da.1920">
+                     <analytic>
+                        <title type="manifestation">Om Drømmen</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Det ubevidste</title>
+                        <title type="publication-sub">Om Psykoanalyse - om Drømmen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__38c5dd5e-9db1-453f-a462-6ea5a2636b0c">[-]</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Kopenhagen</pubPlace>
+                           <date when="1920-01-01">1920-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-1921">
+                     <monogr>
+                        <title type="manifestation">Über den Traum</title>
+                        <title type="manifestation-short">3. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+                        <extent>44 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-en.1919">
+                     <monogr>
+                        <title type="manifestation">On Dreams</title>
+                        <title type="manifestation-short">Englische Übersetzung  der 2. deutschen Auflage. Britischer Wiederabdruck</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1919-01-01">1919-01-01</date>
+                        </imprint>
+                        <extent>xxxii, 110 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-en.1921">
+                     <monogr>
+                        <title type="manifestation">Dream Psychology</title>
+                        <title type="manifestation-short">Nicht autorisierte englische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+                        <extent>237</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001None">
+                     <analytic>
+                        <title type="manifestation">Titelblatt</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-1931">
+                     <analytic>
+                        <title type="manifestation">Über den Traum</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>307 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-nl.1913">
+                     <analytic>
+                        <title type="manifestation">De droom als uiting van het onbewuste zieleleven</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-1911">
+                     <monogr>
+                        <title type="manifestation">Über den Traum</title>
+                        <title type="manifestation-short">2. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1911-01-01">1911-01-01</date>
+                        </imprint>
+                        <extent>44 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-pt.1935">
+                     <analytic>
+                        <title type="manifestation">Acerca do sonho</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Interpretação dos sonhos e outros ensaios</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__38c5dd5e-9db1-453f-a462-6ea5a2636b0c">[-]</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Rio de Janeiro</pubPlace>
+                           <date when="1935-01-01">1935-01-01</date>
+                        </imprint>
+<extent>109 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-en.1914">
+                     <monogr>
+                        <title type="manifestation">On Dreams</title>
+                        <title type="manifestation-short">Englische Übersetzung  der 2. deutschen Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1914-01-01">1914-01-01</date>
+                        </imprint>
+                        <extent>xxxii, 110 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-fr.1925">
+                     <monogr>
+                        <title type="manifestation">Le rêve et son interprétation</title>
+                        <title type="manifestation-short">Französische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+                        <extent>118</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-es.1929">
+                     <analytic>
+                        <title type="manifestation">Los sueños</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Obras Completas del Professor S. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__a1da1276-9452-4c32-8148-311830885348">López-Ballesteros y de Torres, Luis </name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Madrid</pubPlace>
+                           <date when="1929-01-01">1929-01-01</date>
+                        </imprint>
+<extent>247 Seiten</extent>                        <biblScope unit="volume">Tomo 2. Una teorie sexual y otros ensayos</biblScope>
+                        <biblScope unit="issue">2. Edición revisada y aumentada</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-1901">
+                     <monogr>
+                        <title type="manifestation">Über den Traum</title>
+                        <title type="manifestation-short">Erstausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1901-01-01">1901-01-01</date>
+                        </imprint>
+                        <extent>344 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-nl.1917">
+                     <analytic>
+                        <title type="manifestation">De droom als uiting van het onbewuste zieleleven</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-ru.1924">
+                     <monogr>
+                        <title type="manifestation">Психология сна</title>
+                        <title type="manifestation-short">3. Russische Übersetzung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+                        <extent>88</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-1925">
+                     <analytic>
+                        <title type="manifestation">Über den Traum</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>256 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-pl.1923">
+                     <monogr>
+                        <title type="manifestation">O Marzeniu Sennem</title>
+                        <title type="manifestation-short">None</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+                        <extent>108</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-it.1919">
+                     <monogr>
+                        <title type="manifestation">Il sogno</title>
+                        <title type="manifestation-short">Italienische Übersetzung von der 2. deutschen Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1919-01-01">1919-01-01</date>
+                        </imprint>
+                        <extent>64</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1901-001-hu.1919">
+                     <monogr>
+                        <title type="manifestation">Az Álomról</title>
+                        <title type="manifestation-short">Ungarische Übersetzung (2. Auflage)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1919-01-01">1919-01-01</date>
+                        </imprint>
+                        <extent>61</extent>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1901-001-ru.1926" type="guidingManifestation">
+                  <monogr>
+                     <title type="manifestation">Психология сна</title>
+                     <title type="manifestation-short">3. Russische Übersetzung (2. Auflage)</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     <imprint>
+                        <date when="1926-01-01">1926-01-01</date>
+                     </imprint>
+                     <extent>83</extent>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__8c99da15-9f10-4c67-b495-d47b30bfe691">
+                        <title>Психология сна</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1901-001/ru.1926</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/psikhologiya-sna/druckversion-1</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8c99da15-9f10-4c67-b495-d47b30bfe691</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__2da622da-de12-46e4-bb1d-c9c4a7ae877e">
+                              <title>Freud, Sigmund  (1901-001; 1901a): Über den Traum</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/uber-den-traum</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/2da622da-de12-46e4-bb1d-c9c4a7ae877e</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+      </div></body>
+   </text>
+</TEI>

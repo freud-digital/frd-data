@@ -1,0 +1,294 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1920-004; 1920d): Gedankenassoziation eines vierjährigen Kindes</title>
+            <title type="manifestation" level="a">Gedankenassoziation eines vierjährigen Kindes (1920-004/1920.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. Umschrift KK</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1920-004-1924">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>245 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1920">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+                        <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+                        <title type="publication-short">IZP</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1920-04-01">1920-04-01</date>
+                        </imprint>
+<extent>157</extent>                        <biblScope unit="volume">2</biblScope>
+                        <biblScope unit="year">6</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1931">
+                     <analytic>
+                        <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [3]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-01">1931-01-01</date>
+                        </imprint>
+<extent>173 Seiten</extent>                        <biblScope unit="volume">Schriften zur Neurosenlehre und zur psychoanalytischen Technik (1913–1926)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-004-1926">
+                     <analytic>
+                        <title type="manifestation">Gedankenassozation eines vierjährigen Kindes</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Studien zur Psychoanalyse der Neurosen aus den Jahren 1913-1925</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1926-01-01">1926-01-01</date>
+                        </imprint>
+<extent>86 Seiten</extent>                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-004-1920.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Gedankenassoziation eines vierjährigen Kindes</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">[Reinschrift]</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <imprint>
+                     </imprint>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__2c30c5bd-d804-48dc-9eec-8939934bc085">
+                        <title>Gedankenassoziation eines vierjährigen Kindes</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1920-004/1920.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/gedankenassoziation-eines-vierjahrigen-kindes</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/2c30c5bd-d804-48dc-9eec-8939934bc085</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__e5a96721-6662-4884-96c5-0f29b6340e30">
+                              <title>Freud, Sigmund  (1920-004; 1920d): Gedankenassoziation eines vierjährigen Kindes</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/gedankenassoziation-eines-vierjahrigen-kindes</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/e5a96721-6662-4884-96c5-0f29b6340e30</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV7 Box 33/17</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>None</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="4-1" xml:id="page__eccf9c31-0b80-416f-9245-a39e2f8756a3"/>
+            <fw type="pageNum">[1]</fw> <p><u>Gedankenassoziation eines vierjährigen Kindes</u><lb break="paragraph"/></p> <p>Aus dem Brief einer amerikanischen<lb/> Mutter: „Ich muß Dir erzählen, was die<lb/> Kleine gestern gesagt hat. Ich kann mich<lb/> noch gar nicht fassen darüber. Kousine<lb/> Emily sprach davon, daß sie sich eine<lb/> Wohnung nehmen wird. Da sagte das<lb/> Kind: Wenn Emily heiratet, wird sie<lb/> ein Baby bekommen. Ich war sehr über<lb break="no"/>rascht und fragte sie: Ja, woher weißt<lb/> du denn das? Und sie darauf: Ja, wenn<lb/> jemand heiratet, dann kommt immer ein<lb/> Baby. Ich wiederholte: Aber wie kannst<lb/> du das wissen? Und die Kleine: Oh, ich<lb/> weiß noch sehr viel, ich weiß auch, daß<lb/> die Bäume in der Erde wachsen (in<lb/> the ground). Denke Dir die sonderbare<lb/> Gedankenverbindung! Das ist ja gerade<lb/> das, was ich ihr eines Tages zur Aufklär<lb break="no"/>ung sagen will. Und dann setzt sie<lb/> noch fort: Ich weiß auch, daß der<lb/> liebe Gott die Welt schafft (makes<lb/> the world). Wenn sie solche Reden führt,<lb/> kann ich mir’s kaum glauben,<lb/> daß sie noch nicht einmal vier Jahre alt ist.“<lb break="paragraph"/></p> <p>Es scheint, daß die Mutter den Über<lb break="no"/>gang von der ersten Äußerung des<lb/> Kindes zur zweiten selbst verstanden<lb/> hat. Das Kind will sagen: ich weiß, daß<lb/> die Kinder in der Mutter wachsen,<lb/> und drückt dies Wissen nicht direkt,<lb/> sondern symbolisch aus, indem es<lb/> die <del>Erde</del> Mutter durch die Mutter<lb/> Erde“ ersetzt. Wir haben bereits<lb/> aus vielen unzweifelhaften Beob<lb break="no"/>achtungen erfahren, wie frühzeitig<lb/> sich die Kinder der Symbole zu<lb/> bedienen wissen. Aber auch die<lb/> dritte Äußerung der Kleinen <lb break="paragraph"/><pb n="4-2" xml:id="page__468fa9aa-28b8-44b2-b110-7a2d2bd4a60a"/><fw type="pageNum">[2]</fw>verläßt den Zusammenhang nicht. Wir<lb/> können nur annehmen, daß das Kind<lb/> als ein weiteres Stück seines Wissens<lb/> über die Herkunft der Kinder mit<lb break="no"/>teilen wollte: Ich weiß auch, das ist<lb/> alles das Werk des Vaters. Aber<lb/> diesmal ersetzt sie den direkten <del>Aus<lb break="no"/>druck</del> <ins>Gedanken</ins> durch die dazugehörige Sub<lb break="no"/>limierung, daß der liebe Gott die<lb/> Welt schafft. Freud.<lb break="paragraph"/></p>
+         
+         
+            
+              <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="4-0" xml:id="page__3b6d5568-53cf-4215-ad5f-ca40c56592a6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

@@ -1,219 +1,217 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
-        <title type="manifestation" level="a">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
+            <title type="manifestation" level="a">Rezension von Baumgarten, Alfred ›Neurasthenie‹ (1904-004/1904)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>1. u. 2. OCR Korr KK</p>
-          <p>3. Korr. CH</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1904-004-1904" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Neue Freie Presse</title>
-              <title type="publication-sub">Morgenblatt</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1904-02-04">1904-02-04</date>
-              </imprint>
-              <extent>22</extent>
-              <biblScope unit="volume">Nr. 14168</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__26fab394-f61b-4555-9ce5-1068cf57ab19">
-                <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. u. 2. OCR Korr KK</p>
+<p>3. Korr. CH</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+               <biblStruct xml:id="bibl-1904-004-1904" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Neue Freie Presse</title>
+                     <title type="publication-sub">Morgenblatt</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__e3f8d5bc-5836-4101-801b-15975faff708">Bacher, Eduard</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Wien</pubPlace>
+                        <date when="1904-02-04">1904-02-04</date>
+                     </imprint>
+                     <extent>22</extent>
+                     <biblScope unit="volume">Nr. 14168</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__26fab394-f61b-4555-9ce5-1068cf57ab19">
+                        <title>Rezension von Baumgarten, Alfred ›Neurasthenie‹</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1904-004/1904</idno>
-                <idno type="url">https://www.freud-edition.net/werke/rezension-von-baumgarten-alfred-neurasthenie/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
-                    <title>Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1904-004/1904</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/rezension-von-baumgarten-alfred-neurasthenie/druckversion</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/26fab394-f61b-4555-9ce5-1068cf57ab19</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__13526efa-f9a8-40ee-91e7-efb8e45f7fd0">
+                              <title>Freud, Sigmund  (1904-004; 1904c): Rezension von: Baumgarten, Alfred ›Neurasthenie‹</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/rezension-von-baumgarten-alfred-neurasthenie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/13526efa-f9a8-40ee-91e7-efb8e45f7fd0</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__d9fea610-c67c-4217-8b9b-1c24841c6d46"/>
-        <fw type="pageNum">Seite 22</fw>
-        <p>Wien, Donnerstag <hi rendition="#bold">Neue Freie Presse</hi>. Februar Nr. 14168<lb break="paragraph"/>
-        </p>
-        <p>
-          <hi rendition="#bold">Miszellen.</hi>
-          <lb break="paragraph"/>
-        </p>
-        <p>[„<hi rendition="#smallcaps">The mystery of sleep</hi>.“ Von John <hi rendition="#smallcaps">Bigelow</hi>. 1903]<lb/> Das Geheimnis des Schlafes zu lösen, sollte wohl der Wissenschaft<lb/> vorbehalten bleiben; der fromme Autor aber operiert mit Bibel<lb break="no"/>argumenten und teleologischen Gründen, wie: es sei eine der gött<lb break="no"/>lichen Vorsehung unwürdige Vorstellung, daß sie den Menschen ein<lb/> volles Drittel seines Lebens in geistiger Untätigkeit verbringen<lb/> lassen sollte. Der Schlaf sei vielmehr jener Zustand, in welchem der<lb/> göttliche Einfluß am freiesten und wirksamsten in das menschliche<lb/> Seelenleben gelange. Wir wollen nicht unterlassen, trotz aller Ab<lb break="no"/>lehnung der Gedankengänge des Autors, den Kern der Wahrheit<lb/> in seiner Behauptung hervorzuheben. Auch wissenschaftliche Studien<lb/> über den Zustand des Seelenlebens während des Schlafens nötigen<lb/> uns, die bisherige Annahme, daß der Schlaf das Spiel der<lb/> geistigen Tätigkeiten bis auf ein Minimum aufhebe, als unzutreffend<lb/> aufzugeben. Die wichtigsten Vorgänge unbewußter Geistes- und selbst<lb/> Denktätigkeit setzen sich, wie die Aufklärung der Träume beweist,<lb/> die Referent gegeben hat, auch in dem tiefen Schlaf fort. Diese un<lb break="no"/>bewußte Seelentätigkeit verdient es, „dämonisch“ genannt zu werden,<lb/> aber kaum göttlich.<lb/> Professor S. Fr.<lb break="paragraph"/>
-        </p>
-        <p>[„<hi rendition="#smallcaps">Neurasthenie, Wesen, Heilung, Vorbeugung</hi>.“<lb/> Von Dr. Alfred <hi rendition="#smallcaps">Baumgarten</hi>. Wörishofen, 1903.] Der Hin<lb break="no"/>weis des Vorwortes auf sechzehnjährige ärztliche Erfahrung in dem<lb/> Studium der Krankheit und die Ankündigung „rückhaltloser und<lb/> rücksichtsloser Wahrheit“ sind geeignet, bei dem Leser Erwartungen<lb/> anzuregen, die dann während der Lektüre des 338 Seiten starken<lb/> Buches in volle Enttäuschung ausgehen. Weder in der Schilderung<lb/> der Symptome noch in deren Aufklärung weiß uns der Autor etwas<lb/> anderes zu sagen, als was allgemein bekannt ist. Und doch enthält<lb/> die herrschende Lehre von der Kulturkrankheit, der Neurasthenie,<lb/> übergenug Zweifelhaftes und Irrtümliches, woran ein selbständiger<lb/> Beobachter und nach Wahrheit strebender Mensch hätte rühren<lb/> müssen. Die Tendenz des Buches geht natürlich dahin, die Be<lb break="no"/>deutung der Kneipp-Kur für die Heilung der Neurasthenie ins rechte<lb/> Licht zu rücken. Daß Wörishofen überhaupt für „rückhaltlose und<lb/> rücksichtslose“ Verfolgung der Wahrheit der richtige Ort sei, wird<lb/> einem starken Vorurteil bei dem verständnisvollen Leser begegnen.<lb/> Professor S. Fr.<lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__d9fea610-c67c-4217-8b9b-1c24841c6d46"/>
+            <fw type="pageNum">Seite 22</fw> <p>Wien, Donnerstag <hi rendition="#bold">Neue Freie Presse</hi>. Februar Nr. 14168<lb break="paragraph"/></p> <p><hi rendition="#bold">Miszellen.</hi><lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">The mystery of sleep</hi>.“ Von John <hi rendition="#smallcaps">Bigelow</hi>. 1903]<lb/> Das Geheimnis des Schlafes zu lösen, sollte wohl der Wissenschaft<lb/> vorbehalten bleiben; der fromme Autor aber operiert mit Bibel<lb break="no"/>argumenten und teleologischen Gründen, wie: es sei eine der gött<lb break="no"/>lichen Vorsehung unwürdige Vorstellung, daß sie den Menschen ein<lb/> volles Drittel seines Lebens in geistiger Untätigkeit verbringen<lb/> lassen sollte. Der Schlaf sei vielmehr jener Zustand, in welchem der<lb/> göttliche Einfluß am freiesten und wirksamsten in das menschliche<lb/> Seelenleben gelange. Wir wollen nicht unterlassen, trotz aller Ab<lb break="no"/>lehnung der Gedankengänge des Autors, den Kern der Wahrheit<lb/> in seiner Behauptung hervorzuheben. Auch wissenschaftliche Studien<lb/> über den Zustand des Seelenlebens während des Schlafens nötigen<lb/> uns, die bisherige Annahme, daß der Schlaf das Spiel der<lb/> geistigen Tätigkeiten bis auf ein Minimum aufhebe, als unzutreffend<lb/> aufzugeben. Die wichtigsten Vorgänge unbewußter Geistes- und selbst<lb/> Denktätigkeit setzen sich, wie die Aufklärung der Träume beweist,<lb/> die Referent gegeben hat, auch in dem tiefen Schlaf fort. Diese un<lb break="no"/>bewußte Seelentätigkeit verdient es, „dämonisch“ genannt zu werden,<lb/> aber kaum göttlich.<lb/> Professor S. Fr.<lb break="paragraph"/></p> <p>[„<hi rendition="#smallcaps">Neurasthenie, Wesen, Heilung, Vorbeugung</hi>.“<lb/> Von Dr. Alfred <hi rendition="#smallcaps">Baumgarten</hi>. Wörishofen, 1903.] Der Hin<lb break="no"/>weis des Vorwortes auf sechzehnjährige ärztliche Erfahrung in dem<lb/> Studium der Krankheit und die Ankündigung „rückhaltloser und<lb/> rücksichtsloser Wahrheit“ sind geeignet, bei dem Leser Erwartungen<lb/> anzuregen, die dann während der Lektüre des 338 Seiten starken<lb/> Buches in volle Enttäuschung ausgehen. Weder in der Schilderung<lb/> der Symptome noch in deren Aufklärung weiß uns der Autor etwas<lb/> anderes zu sagen, als was allgemein bekannt ist. Und doch enthält<lb/> die herrschende Lehre von der Kulturkrankheit, der Neurasthenie,<lb/> übergenug Zweifelhaftes und Irrtümliches, woran ein selbständiger<lb/> Beobachter und nach Wahrheit strebender Mensch hätte rühren<lb/> müssen. Die Tendenz des Buches geht natürlich dahin, die Be<lb break="no"/>deutung der Kneipp-Kur für die Heilung der Neurasthenie ins rechte<lb/> Licht zu rücken. Daß Wörishofen überhaupt für „rückhaltlose und<lb/> rücksichtslose“ Verfolgung der Wahrheit der richtige Ort sei, wird<lb/> einem starken Vorurteil bei dem verständnisvollen Leser begegnen.<lb/> Professor S. Fr.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

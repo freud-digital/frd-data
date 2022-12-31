@@ -1,0 +1,304 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+            <title type="manifestation" level="a">Inhaltsverzeichnis [6.] (1905-004None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>OCR korr. CH</p>
+            </note>
+            <note type="doc_component">
+               Inhaltsverzeichnis
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1905-004-1920.04">
+                     <analytic>
+                        <title type="manifestation">Note 3 [zur 4. Auflage]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1915">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">3., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1915-01-01">1915-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.01">
+                     <analytic>
+                        <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie	</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1922">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">5., unveränderte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1924">
+                     <analytic>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>119 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1925">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie </title>
+                        <title type="manifestation-short">6., durchgesehene Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920">
+                     <analytic>
+                        <title type="manifestation">Einband</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1905">
+                     <analytic>
+                        <title type="manifestation">Einband (Broschur)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.02">
+                     <analytic>
+                        <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1910">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">2. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1910-01-01">1910-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.03">
+                     <analytic>
+                        <title type="manifestation">Einfügung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-004None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Inhaltsverzeichnis [6.]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__04bb140d-b40b-4d45-9ee0-52d5a92a8981">
+                        <title>Inhaltsverzeichnis [6.]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-004None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/inhaltsverzeichnis-6/druckversion-0</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/04bb140d-b40b-4d45-9ee0-52d5a92a8981</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__9d035a03-28d7-4013-adaf-63337d78ece4">
+                              <title>Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/drei-abhandlungen-zur-sexualtheorie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9d035a03-28d7-4013-adaf-63337d78ece4</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__c3b2e0a0-fa57-4dad-b0d1-f00c41c83769"/>
+            <p rendition="#h1"><title>INHALTSVERZEICHNIS<lb break="paragraph"/></title></p> <p>Vorwort zur dritten Auflage . . . 3<lb/> Vorwort zur vierten Auflage . . . 5<lb break="paragraph"/></p> <p rendition="#level_2">I. Die sexuellen Abirrungen . . . 7</p><p>1) Abweichungen in Bezug auf das Sexualobjekt . . . 8<lb break="paragraph"/></p> <p>a) Die Inversion . . . 8<lb/> b) Geschlechtsunreife und Tiere als Sexualobjekte . . . 21<lb break="paragraph"/></p> <p>2) Abweichungen in Bezug auf das Sexualziel . . . 22<lb break="paragraph"/></p> <p>a) Anatomische Überschreitungen . . . 23<lb/> b) Fixierungen von vorläufigen Sexualzielen . . . 29<lb break="paragraph"/></p> <p>3) Allgemeines über alle Perversionen . . . 33<lb break="paragraph"/></p> <p>4) Der Sexualtrieb bei den Neurotikern . . . 36<lb break="paragraph"/></p> <p>5) Partialtriebe und erogene Zonen . . . 41<lb break="paragraph"/></p> <p>6) Erklärung des scheinbaren Überwiegens perverser Sexualität bei<lb/> den Psychoneurosen . . . 43<lb break="paragraph"/></p> <p>7) Verweis auf den Infantilismus der Sexualität . . . 45<lb break="paragraph"/></p> <p rendition="#level_2">II. Die infantile Sexualität . . . 47</p><p>Die sexuelle Latenzperiode der Kindheit und ihre Durchbrechungen . . . 51<lb break="paragraph"/></p> <p>Die Äußerungen der infantilen Sexualität . . . 54<lb break="paragraph"/></p> <p>Das Sexualziel der infantilen Sexualität . . . 57<lb break="paragraph"/></p> <p>Die masturbatorischen Sexualäußerungen . . . 60<lb break="paragraph"/></p> <p>Die infantile Sexualforschung . . . 69<lb break="paragraph"/></p> <p>Entwicklungsphasen der sexuellen Organisation . . . 72<lb break="paragraph"/></p> <p>Quellen der infantilen Sexualität . . . 73<lb break="paragraph"/></p> <p rendition="#level_2">III. Die Umgestaltungen der Pubertät . . . 82</p><p>Das Primat der Genitalzonen und die Vorlust . . . 83<lb break="paragraph"/></p> <p>Das Problem der Sexualerregung . . . 88<lb break="paragraph"/></p> <p>Die Libidotheorie . . . 92<lb break="paragraph"/></p> <p>Differenzierung von Mann und Weib . . . 94<lb break="paragraph"/></p> <p>Die Objektfindung . . . 97<lb break="paragraph"/></p> <p rendition="#level_2">Zusammenfassung . . . 106</p>
+         
+      </div></body>
+   </text>
+</TEI>

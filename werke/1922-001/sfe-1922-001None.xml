@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+            <title type="manifestation" level="a">Dream and Telepathy [Translation by Wilson Vance with corrections] (1922-001None)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1922-001-1925">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 3</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>304 Seiten</extent>                        <biblScope unit="volume">3. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1931">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [4]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-02">1931-01-02</date>
+                        </imprint>
+<extent>354 Seiten</extent>                        <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1922.2">
+                     <monogr>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <title type="manifestation-short">Separatabdruck</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-03">1922-01-03</date>
+                        </imprint>
+                        <extent>22 Seiten</extent>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1922">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub">Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>London</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>22 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">8</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1922-001-1922.01">
+                     <analytic>
+                        <title type="manifestation">Traum und Telepathie (Vortrag in der Wiener Psychoanalytischen Vereinigung)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1922-001None" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Dream and Telepathy [Translation by Wilson Vance with corrections]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__f0090481-7c35-41bf-8653-1194eaa2a753">
+                        <title>Dream and Telepathy [Translation by Wilson Vance with corrections]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1922-001None</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/dream-and-telepathy-translation-wilson-vance-corrections</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/f0090481-7c35-41bf-8653-1194eaa2a753</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__38f2281c-c42b-463f-aab3-66d0f1e454aa">
+                              <title>Freud, Sigmund  (1922-001; 1922a): Traum und Telepathie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/traum-und-telepathie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/38f2281c-c42b-463f-aab3-66d0f1e454aa</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV8 Box 34/3a</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Schreibmaschine .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Schreibmaschine </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>None</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="0" xml:id="page__812a933e-3941-4201-9097-1dc612f53a67"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1" xml:id="page__8ea22385-0d72-4ac6-b8fa-fbf74086418e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__49b1b89a-e93b-4cdf-a3f1-f87a2e9605bd"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__01eef4ab-3b02-4dc1-82bb-df71ff7d4232"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__a9b4731d-1c1a-492b-b4c6-1a6378505ac2"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="5" xml:id="page__22acce1f-c621-4e1b-9c0b-41db27135dad"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="6" xml:id="page__9649f2e6-7327-4d70-b59a-4d979fb4f152"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="7" xml:id="page__bc6a46e3-ffe5-488d-9540-6a7a639b9866"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="8" xml:id="page__25c75490-c989-4baa-8cb1-ef70dc2472cd"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="9" xml:id="page__2e4c8110-d9d0-4be4-a9f1-b4d1f404dc7a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="10" xml:id="page__c15538ed-5ac3-4340-b6c3-9b947de6f481"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="11" xml:id="page__3a5028df-1245-49be-9cba-09087c102e76"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="12" xml:id="page__9bdbb007-b359-4c82-8d98-5aac19065e30"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="13" xml:id="page__f434af55-e332-4600-9f58-6492d537efc0"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="14" xml:id="page__ad3b8eb4-bc8e-4f0f-b261-dc0b0b24eabe"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="15" xml:id="page__b737cbdf-56a0-459e-870e-0e20fc12e606"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="16" xml:id="page__73d6f068-2780-43ea-a635-0e0d306f27c1"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="17" xml:id="page__4fc78b1a-1d08-4350-8313-49e47d493f86"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="18" xml:id="page__247e0ed0-f3fb-47eb-bb59-27096bb0a67c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="19" xml:id="page__fb5bf7ca-c2f3-495c-acd6-c84412ecacc6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="20" xml:id="page__bc017702-d777-4178-9718-2c11857ad510"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="21" xml:id="page__15908156-9380-4292-a0eb-a521d556b145"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="22" xml:id="page__f18d4a35-e332-409f-bb41-ab21680c5a7c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="23" xml:id="page__696be1aa-0f15-4bba-9efb-67b22b0774f4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="24" xml:id="page__7f5bb88c-0b75-4a86-aeff-0a62e2be49b4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="25" xml:id="page__968f8904-2eb9-43b5-9865-948c8922d74d"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="26" xml:id="page__b25b45e3-186c-4e6a-9822-07d376cf243a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="27" xml:id="page__2d2b9573-53d1-49d3-982f-69a35fe0ea23"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="28" xml:id="page__f5ac949b-aa14-4e13-b57f-b945f47c3055"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="29" xml:id="page__730615aa-677d-40b5-a1f2-79587973e4f4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="30" xml:id="page__954de2eb-749c-4873-b10c-0d8a12b9a06f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="31" xml:id="page__47c4925f-44fc-4773-8a5b-8a10f7659d86"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="32" xml:id="page__50cf612a-c9a0-408c-93e0-9ccf7065e610"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="33" xml:id="page__dd720378-43a0-40c0-8c75-34f86155eb85"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="34" xml:id="page__7b847041-be5d-45a6-be29-e7af7dd99d78"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

@@ -1,404 +1,380 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
-        <title type="manifestation" level="a">Freud, Sigmund  (1905-009/1906)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+            <title type="manifestation" level="a">Freud, Sigmund  (1905-009/1906)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>1. OCR Korr KK</p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1905-009-1914">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Who’s Who in Germany</title>
-              <title type="publication-sub">Wer ist’s? </title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1914-01-01">1914-01-01</date>
-              </imprint>
-              <extent>456</extent>
-              <biblScope unit="issue">7., vollkommen neu bearbeitet und bedeutend erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1912">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Who’s Who in Germany</title>
-              <title type="publication-sub">Wer ist’s? </title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1912-01-01">1912-01-01</date>
-              </imprint>
-              <extent>440</extent>
-              <biblScope unit="issue">6., vollkommen neu bearbeitet und um 3800 neue Aufnahmen erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1911">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s?</title>
-              <title type="publication-sub"/>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1911-01-01">1911-01-01</date>
-              </imprint>
-              <extent>402</extent>
-              <biblScope unit="issue">5., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1909">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s? </title>
-              <title type="publication-sub">Zeitgenossenlexikon</title>
-              <title type="publication-short">Wer ist’s? [4. Auflage]</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1909-01-01">1909-01-01</date>
-              </imprint>
-              <extent>392</extent>
-              <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1908">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s? </title>
-              <title type="publication-sub">Unsere Zeitgenossen</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1908-01-01">1908-01-01</date>
-              </imprint>
-              <extent>379</extent>
-              <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1905">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s? </title>
-              <title type="publication-sub">Unsere Zeitgenossen</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1905-01-01">1905-01-01</date>
-              </imprint>
-              <extent>230 Seiten</extent>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1928">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s?</title>
-              <title type="publication-sub">Unsere Zeitgenossen</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1928-01-01">1928-01-01</date>
-              </imprint>
-              <extent>433</extent>
-              <biblScope unit="issue">9. Auflage</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1922">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s?</title>
-              <title type="publication-sub">Unsere Zeitgenossen</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1922-01-01">1922-01-01</date>
-              </imprint>
-              <extent>425 Seiten</extent>
-              <biblScope unit="issue">8., vollkommen neu bearbeitet und bedeutend erweitert</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1905-009-1906" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">Freud, Sigmund </title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Wer ist’s? </title>
-              <title type="publication-sub">Unsere Zeitgenossen</title>
-              <title type="publication-short"/>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Leipzig</pubPlace>
-                <date when="1906-01-01">1906-01-01</date>
-              </imprint>
-              <extent>326</extent>
-              <biblScope unit="issue">2. Auflage</biblScope>
-            </monogr>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__159b6f78-5344-4880-b758-45c386006e47">
-                <title>Freud, Sigmund </title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. OCR Korr KK</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1905-009-1914">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Who’s Who in Germany</title>
+                        <title type="publication-sub">Wer ist’s? </title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1914-01-01">1914-01-01</date>
+                        </imprint>
+<extent>456</extent>                        <biblScope unit="issue">7., vollkommen neu bearbeitet und bedeutend erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1912">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Who’s Who in Germany</title>
+                        <title type="publication-sub">Wer ist’s? </title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1912-01-01">1912-01-01</date>
+                        </imprint>
+<extent>440</extent>                        <biblScope unit="issue">6., vollkommen neu bearbeitet und um 3800 neue Aufnahmen erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1911">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund </title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s?</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1911-01-01">1911-01-01</date>
+                        </imprint>
+<extent>402</extent>                        <biblScope unit="issue">5., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1909">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Zeitgenossenlexikon</title>
+                        <title type="publication-short">Wer ist’s? [4. Auflage]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1909-01-01">1909-01-01</date>
+                        </imprint>
+<extent>392</extent>                        <biblScope unit="issue">4., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1908">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1908-01-01">1908-01-01</date>
+                        </imprint>
+<extent>379</extent>                        <biblScope unit="issue">3., vollkommen neu bearbeitet und wesentlich erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1905">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s? </title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1905-01-01">1905-01-01</date>
+                        </imprint>
+<extent>230 Seiten</extent>                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1928">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s?</title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+<extent>433</extent>                        <biblScope unit="issue">9. Auflage</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-009-1922">
+                     <analytic>
+                        <title type="manifestation">Freud, Sigmund</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Wer ist’s?</title>
+                        <title type="publication-sub">Unsere Zeitgenossen</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Leipzig</pubPlace>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+<extent>425 Seiten</extent>                        <biblScope unit="issue">8., vollkommen neu bearbeitet und bedeutend erweitert</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-009-1906" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Freud, Sigmund </title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">Wer ist’s? </title>
+                     <title type="publication-sub">Unsere Zeitgenossen</title>
+                     <title type="publication-short"/>
+                     <respStmt>
+                        <resp>Herausgegeben von</resp>
+                        <name type="person" ref="#p__52321ccf-0e96-401d-b784-f276bdc81ea7">Degener, Herrmann A. Ludwig</name>
+                     </respStmt>
+                     <imprint>
+                        <pubPlace>Leipzig</pubPlace>
+                        <date when="1906-01-01">1906-01-01</date>
+                     </imprint>
+                     <extent>326</extent>
+                     <biblScope unit="issue">2. Auflage</biblScope>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__159b6f78-5344-4880-b758-45c386006e47">
+                        <title>Freud, Sigmund </title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1905-009/1906</idno>
-                <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-0</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/159b6f78-5344-4880-b758-45c386006e47</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
-                    <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>Hathitrust</repository>
-                  <idno type="Hathitrust">mdp.39015039471084</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/d42df202-4719-458f-8fac-519de7cb4003</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-009/1906</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-0</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/159b6f78-5344-4880-b758-45c386006e47</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__4d66e439-56d4-4a82-8103-9409a2b97e1c">
+                              <title>Freud, Sigmund  (1905-009; 1905i): Freud, Sigmund [›Wer ist’s?‹]</title>
+                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-wer-ists</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/4d66e439-56d4-4a82-8103-9409a2b97e1c</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Hathitrust</repository>
+                           <idno type="Hathitrust">mdp.39015039471084</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/d42df202-4719-458f-8fac-519de7cb4003</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Druckschrift </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Druckversion</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-19">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__5e5e8b77-152f-426f-9e3c-af74504e6aac"/>
-        <fw type="pageNum">Wer ist’s? </fw>
-        <p>
-          <hi rendition="#bold">FREUD, Sigmund, Dr. Arzt. a. o.</hi>
-          <lb/> Prof. d. Neuropathol., Univ. Wien. — *6. V <lb/> 1856 Freiberg in Mähr. — V: Jacob Freud<lb/> Kaufm.; M: Amalia gb. Nathanson. — Gymn.<lb/> u. Univ. Wien. — Verh: 86 m. M. Bernays.<lb/> — K: 6. — Nach Promot. Demonstr. a. phy<lb break="no"/> siol. Inst., dann Sekdararzt im Allg. Kran<lb break="no"/>kenh., habilit. f. Nervenkrankh. 85. Schüler<lb/> v. Charcot, Paris 85—86, Prof. 02. — W:<lb/> Fachwissschftl. Schrift. in Journ. st. 77, Üb.<lb/> Aphasie 91, üb. Kinderlähmgn. 91, 93, 97,<lb/> Stud. üb. Hysterie (m. Breuer) 95, Traum<lb break="no"/>deutg. 00; Psychopathol. d. Alltagsleb. 04;<lb/> D. Witz u. seine Beziehg. z. Unbewußten 05.<lb/> 3 Abh. z. Sexualtheorie Hysterieanalyse 05. —<lb/> Wien IX, Bergg. 19.<lb break="paragraph"/>
-        </p>
-        <pb n="2" xml:id="page__2fa45fbd-ecca-49fa-8372-cf2adb3618d5"/>
-        <p>Wer ist’s?<lb/> UNSERE ZEITGEN OSSEN<lb break="paragraph"/>
-        </p>
-        <p>Zeitgenossenlexikon<lb break="paragraph"/>
-        </p>
-        <p>enthaltend<lb break="paragraph"/>
-        </p>
-        <p>Biographien nebst Bibliographien. Angaben<lb/> über Herkunft, Familie, Lebenslauf, Werke,<lb/> Lieblingsbeschäftigungen, Parteiangehörigkeit,<lb/> Mitgliedschaft bei Gesellschaften, Adresse.<lb/> Andere Mitteilungen von allgemeinem<lb/> Interesse<lb break="paragraph"/>
-        </p>
-        <p>Zusammengestellt und herausgegeben<lb break="paragraph"/>
-        </p>
-        <p>von<lb break="paragraph"/>
-        </p>
-        <p>Herrmann A. L. Degener<lb break="paragraph"/>
-        </p>
-        <p>II. Jahrgang * 1906<lb/>
-          <lb break="paragraph"/>
-        </p>
-        <p>Verlag von<lb/> H. A. LUDWIG DEGENER<lb break="paragraph"/>
-        </p>
-        <p>LEIPZIG<lb/> 1906<lb break="paragraph"/>
-        </p>
-        <p>Vertreter für Amerika:<lb/> G. E. STECHERT &amp; Co. 129—133 W. 20<hi rendition="#sub">th</hi> St., New-York.<lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__5e5e8b77-152f-426f-9e3c-af74504e6aac"/>
+            <fw type="pageNum">Wer ist’s? </fw> <p><hi rendition="#bold">FREUD, Sigmund, Dr. Arzt. a. o.</hi><lb/> Prof. d. Neuropathol., Univ. Wien. — *6. V <lb/> 1856 Freiberg in Mähr. — V: Jacob Freud<lb/> Kaufm.; M: Amalia gb. Nathanson. — Gymn.<lb/> u. Univ. Wien. — Verh: 86 m. M. Bernays.<lb/> — K: 6. — Nach Promot. Demonstr. a. phy<lb break="no"/> siol. Inst., dann Sekdararzt im Allg. Kran<lb break="no"/>kenh., habilit. f. Nervenkrankh. 85. Schüler<lb/> v. Charcot, Paris 85—86, Prof. 02. — W:<lb/> Fachwissschftl. Schrift. in Journ. st. 77, Üb.<lb/> Aphasie 91, üb. Kinderlähmgn. 91, 93, 97,<lb/> Stud. üb. Hysterie (m. Breuer) 95, Traum<lb break="no"/>deutg. 00; Psychopathol. d. Alltagsleb. 04;<lb/> D. Witz u. seine Beziehg. z. Unbewußten 05.<lb/> 3 Abh. z. Sexualtheorie Hysterieanalyse 05. —<lb/> Wien IX, Bergg. 19.<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__2fa45fbd-ecca-49fa-8372-cf2adb3618d5"/>
+            <p>Wer ist’s?<lb/> UNSERE ZEITGEN OSSEN<lb break="paragraph"/></p> <p>Zeitgenossenlexikon<lb break="paragraph"/></p> <p>enthaltend<lb break="paragraph"/></p> <p>Biographien nebst Bibliographien. Angaben<lb/> über Herkunft, Familie, Lebenslauf, Werke,<lb/> Lieblingsbeschäftigungen, Parteiangehörigkeit,<lb/> Mitgliedschaft bei Gesellschaften, Adresse.<lb/> Andere Mitteilungen von allgemeinem<lb/> Interesse<lb break="paragraph"/></p> <p>Zusammengestellt und herausgegeben<lb break="paragraph"/></p> <p>von<lb break="paragraph"/></p> <p>Herrmann A. L. Degener<lb break="paragraph"/></p> <p>II. Jahrgang * 1906<lb/> <lb break="paragraph"/></p> <p>Verlag von<lb/> H. A. LUDWIG DEGENER<lb break="paragraph"/></p> <p>LEIPZIG<lb/> 1906<lb break="paragraph"/></p> <p>Vertreter für Amerika:<lb/> G. E. STECHERT &amp; Co. 129—133 W. 20<hi rendition="#sub">th</hi> St., New-York.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>

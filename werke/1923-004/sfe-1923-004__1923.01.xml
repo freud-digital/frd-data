@@ -1,0 +1,413 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1923-004; 1923d): Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+            <title type="manifestation" level="a">Eine Teufelsneurose im siebzehnten Jahrhundert (1923-004/1923.01)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1923-004-1923.02">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1928">
+                     <monogr>
+                        <title type="manifestation">Eine Teufelsneurose im 17. Jahrhundert</title>
+                        <title type="manifestation-short">Bibliophile Sonderausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1928-01-01">1928-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1924">
+                     <monogr>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <title type="manifestation-short">1. Buchausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1924.2">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 10</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>445 Seiten</extent>                        <biblScope unit="volume">10. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004None">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert [Teil 5]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1923.1">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Imago</title>
+                        <title type="publication-sub">Zeitschrift für Anwendung der Psychoanalyse auf die Geisteswissenschaften</title>
+                        <title type="publication-short"/>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+<extent>34 Seiten</extent>                        <biblScope unit="volume">1</biblScope>
+                        <biblScope unit="year">9</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1923-004-1923.03">
+                     <analytic>
+                        <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1923-004-1923.01" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <monogr>
+                     <title type="publication">[Reinschrift]</title>
+                     <title type="publication-sub"/>
+                     <title type="publication-short"/>
+                     <imprint>
+                     </imprint>
+                  </monogr>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__d4efaeb9-7b3f-4d1e-a16f-41d996f33c0c">
+                        <title>Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1923-004/1923.01</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/eine-teufelsneurose-im-siebzehnten-jahrhundert/druckversion-2</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d4efaeb9-7b3f-4d1e-a16f-41d996f33c0c</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__c3eef58f-7017-4e5c-bb91-3df6cdd077e7">
+                              <title>Freud, Sigmund  (1923-004; 1923d): Eine Teufelsneurose im siebzehnten Jahrhundert</title>
+                              <idno type="url">https://www.freud-edition.net/eine-teufelsneurose-im-siebzehnten-jahrhundert</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c3eef58f-7017-4e5c-bb91-3df6cdd077e7</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>IPU</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Druckschrift </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Druckversion</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1922-2-5-0" xml:id="page__4fe04c37-e804-45bb-a6a4-dd77759909fb"/>
+            <fw type="pageNum">[9]</fw> <p>Nun will ich die Erwiderg nicht mit den Worten einleiten:<lb/> Seien wir ehrlich. Denn das soll man <hi rendition="#sub">immer</hi> sein können,<lb/> ohne sich besonderen Anlauf dafür zu nehmen.<lb/> Ich sage es unumwunden, ich bin nicht im Stande, diese<lb/> nüchterne Auffassung <sub>in aller</sub> Strenge zu widerlegen. Wer<lb/> den analyt. Gedankengängen abhold ist, wird von<lb/> ihr restlos befriedigt sein. Ich bin nicht in dieser<lb/> Lage, ich würde bedauern, daß dabei soviele<lb/> Analogien aufgehoben, feinere Zusam enhänge zer<lb break="no"/>stört werden u daß eine Ausdrucksweise leer<lb/> genom en werden soll, die voll genom en einen<lb/> so schönen Sinn giebt. Aber ich kann niemandem<lb/> die Überzeugg aufzwingen, daß diese tieferen<lb/> Bedeutgen u Zusam enhänge für diesen Fall bestehen.<lb/> Ich gebe zu, wenn jemand nichts von der Tiefenpsychologie<lb/> weiß u glaubt, wird dieser vereinzelte Fall nicht<lb/> stark genug sein, ihm daran Berechtigg zu be<lb break="no"/>weisen. Wir anderen aber bringen unsere ψα<lb/> Voraussetzungen schon an den Fall heran, die uns<lb/> durch Studium des Traums u der Neurosen auf<lb break="no"/>genötigt worden sind. Wir zeigen dann, wie<lb/> schön sie sich an diesem Fall bestätigen und<lb/> welchen wertvollen Inhalt sie ihm geben. Hätten<lb/> wir keine anderen Erfahrungen gemacht, wüßten<lb/> wir nicht, daß der Teufelsglaube und die Neurose<lb/> anders als ψanalyt. nicht zu verstehen sind, so<lb/> würden wir aus diesem einem Falle nichts machen.<lb/> wollen.<lb break="paragraph"/></p> <p>Wir kehren zu unserer Annahme zurück, daß der<lb/> Teufel unseres Malers ein Vaterersatz ist. Dazu<lb/> stimmt auch etc?<lb break="paragraph"/></p> <p>----------------------------------------------------------------<lb break="no"/></p> <p>Da wir dgl mit <u>Chr Haizm</u> † 1700 nicht anstellen<lb/> können, müßen wir uns darauf beschränken, die<lb/> ? Züge seiner Geschichte zu besprechen, die<lb/> uns einen Hinweis auf die typischen Anläße<lb/> zu einer negativen Vatereinstellung geben<lb/> können. Es sind wenige, nicht sehr auffällig,<lb/> aber recht interessant. Vorerst die Zal 9. Der<lb/> Vertrag wird auf 9 J. geschloßen. Der gewiß un<lb break="no"/>verdächtige Bericht des Pfarrers von <u>P</u>. äußert sich<lb/> klar darüber. <u>pro novem annis Syngraphen Scriptam<lb/> trädidit</u>. Dieser Bericht vom 1 <u>Sept</u> 77 datirt weiß auch<lb/> anzugeben, daß die Frist in wenig Iagen abgelaufen<lb/> wäre, <u>quorum et finis</u> 24 ? <u>mensis futurus</u><lb/> aggropringuet. Die <s>Datu</s> Verschreibg wäre also am<lb/> 24 <u>Sept</u> 1668 erfolgt. Ja in diesem Bericht hat die<lb/> Zal noch eine andere Verwendung. <u>Nonies</u> — 9mal<lb/> <s>so</s> will der Maler den Angeboten des Teufels wider<lb break="no"/>standen haben. Dieser Punkt wird in anderen<lb/> Berichten nicht mehr erwähnt.<lb break="paragraph"/></p> <p><u>Post annos novem</u> heißt es denn auch in dem Attest<lb/> des Abtes (12 <u>Sept</u> 77) und <u>ad novem annos</u> wird<lb/> in dem Extrakt des Schreibers wiederholt ein Beweis,<lb/> daß diese Zal nicht als gleichgiltig angesehen wurde.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-1" xml:id="page__42f9e2c3-5b75-4d39-8eaf-d416c1a60c5c"/>
+            <fw type="pageNum">[10]</fw> <p>Die Neunzal is uns aus neurotischen Phantasien<lb/> wol bekannt. Sie ist die Zal der Schwangerschafts<lb break="no"/>monate u wo sie vorkom̄t lenkt sie unsere<lb/> Deutung auf die Phantasie einer Schwangerschaft<lb/> hin. Bei unserem Maler handelt es sich freilich<lb/> um 9 J nicht 9 Monate, u 9 wird man sagen ist<lb/> auch sonst eine bedeutgsvolle Zal. Aber wer<lb/> weiß, ob die 9 nicht ganz allgemein ihre Heiligkeit<lb/> ihrer Rolle in d. Schwangerschaft verdankt<lb/> und der Wechsel von 9 Monat zu 9 J braucht uns<lb/> nicht zu beirren. Wir wissen vom Traum her,<lb/> wie im "<u>ubw </u>Geistesleben" mit den Zalen<lb/> umgesprungen wird. Treffen wir auf eine 5 im Tr,<lb/> so wird sie durch die Analyse auf eine bedeut<lb break="no"/>ungsvolle 5 zurückgefü im Wachleben, aber<lb/> in der Realität waren 5 J. Altersunterschied<lb/> oder ein Kolleg von 5 Personen, im Tr erscheinen<lb/> sie als 5 Geldstﬁcke oder 5 Stücke Obst, d.h. die<lb/> Zal ist beibehalten, ihr Nenner beliebig d.h. nach den<lb/> Anforderungen der Verdichtg u Verschiebg ver<lb break="no"/>tauscht. 9 Jahre würden also im Tr ganz leicht 9 Mon<lb/> entsprechen. Übrigens verfährt Tr ahnlich mit den<lb/> Nullen, die er nicht als Zalen gelten läßt, 5# im<lb/> Traum konnen 50, 500, 5000 Dollars vertreten.<lb break="paragraph"/></p> <p>Ein anderes Detail in Geschichte Malers u Beziehungen<lb/> <s>des</s> z Teufel hat gleichfalls sex <u>Charakter</u>. Das erste<lb/> Mal sieht er den Bösen wie schon erwähnt als<lb/> ehrsamen Bürgersmann, aber schon in der zweiten<lb/> <s>hat </s>ist er nackt ausgestaltet u hat zwei Paar<lb/> Brüste. Die Brüste fehlen nun in keiner der<lb/> folgenden Erscheingen, bald einfach bald mehrfach<lb/> vorhanden. Nur ein einziges Mal hat der Teufel<lb/> außer den Brﬁsten auch eine Penisschlange.<lb break="paragraph"/></p> <p>Diese Betonung des weiblichen Charakters (nie findet<lb/> sich Andeutg eines w. Genitales) durch Brüste scheint<lb/> auffallig, widerspricht auch scheinbar Annahme daß<lb/> Teufel unserem Maler ein Vatersurrogat be<lb break="no"/>deutet. Ich glaube wirklich, daß solche Darstellgen<lb/> des Teufels Seltenheiten <s>nicht</s> sind. Natürlich, wo<lb/> der Teufel <hi rendition="#em">Geltungs</hi>begriff ist, hatte sie nichts auf<lb break="no"/>fälliges, weibliche Teufelinnen nichts seltenes,<lb/> wo Teufel in Mehrzal vorkom̄t, aber daß der<lb/> eine Teufel, der eine große Individualität ist,<lb/> der Herr der Hölle u Widersacher Gottes anders als<lb/> männlich, ja übermännlich gebildet wird, scheint<lb/> nicht angängig (mit Hörnern, Schweif u großem<lb/> schlangenartigen <s>Genität</s> Penis).<lb break="paragraph"/></p> <p>Aus diesen kleinen Anzeichen läßt sich erraten,<lb/> welches der Hauptinhalt der Ambivalenz im Vater:<lb/> verhaltnis unseres neurot. Malers ist. Das wogegen<lb/> er sich sträubt, ist die feminine Einstellg z Vater,<lb/> die in der Phantasie ihm ein Kind zu<lb/> gebären, gipfelt. (9 Jahre). wir kennen<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-2" xml:id="page__6f9833a1-b618-4c4f-9204-4b7785a6cb35"/>
+            <fw type="pageNum">[11]</fw> <p>diesen Widerstand genau aus unseren Analysen<lb/> an Männern, wo er merkwürdige Formen in der<lb/> Übertragg annim̄t u uns wirklich viel zu schaffen<lb break="paragraph"/></p> <p>giebt. Diese femin Einstellg z Vater steckt bei unserem <lb/> Maler hinter seiner Sehnsucht nach d. verlorenen<lb/> Vater u sie ist es, die ihm das Verhältnis zu<lb/> seinem Vaterersatz verdirbt. Warum hat aber<lb/> dieser Vaterersatz die Kennzeichen d. weiblichen<lb/> Geschlechts? So schwer erklärbar dieser Zug anfangs<lb/> scheint, findet man bald, daß zwei mit einander<lb/> verträgliche Erklärungen dafür bestehen. Die femin.<lb/> Einstellg z. Vater unterliegt d. Vdgg sobald das<lb/> Kind gemerkt hat, daß <s>die</s> solche Konkurrenz<lb/> mit dem Weib eine Kastration, Aufgeben des<lb/> eigenen <s>mäch</s> männl Genitales zur Bedingung<lb/> hat. Die Ablehnung ders. ist also der Ausdruck<lb/> eines Sträubens gegen die Kastration u als<lb/> ihr Ausdruck wird regelmäßig die gegensätzliche<lb/> Phantasie den Vater z. Weib zu machen, ihn<lb/> zu kastriren, gebildet. Dies die eine Erklärg<lb/> der Ausstattg der Teufelserscheing mit Brüsten.<lb break="paragraph"/></p> <p>Die zweite hat nicht so sehr feindseligen als zärtlichen<lb/> Sinn, sie sieht in dieser Gestaltg ein Anzeichen dafür,<lb/> daß die infantile Zärtlichkeit von der Mutter her<lb/> auf den Vater verschoben worden ist. Die Mutter<lb/> wird ja durch die Brüste positiv <u>ch</u>arakterisirt, der<lb/> negative Charakter des Weibes, der <u>Penis</u>mangel<lb/> ist anfänglich unbekannt (S. <u>Leonardo)</u>.<lb break="paragraph"/></p> <p>Wenn das Widerstreben gegen Annahme d. Kastrat.<lb/> bedingung unserem Maler eine Erledigg seines<lb/> Vaterkomplexes in der <u>Melancholie</u> unmöglich<lb/> macht, so ist es überaus verständlich, daß er sich<lb/> um Hilfe an das Mutterbild wendet. Darum<lb/> erklärt unser Maler, daß nur die H. Mutter<lb/> von MZ ihn vom Pakt mit Teufel lösen<lb/> kann, er flieht vom erniedrigt Vaterersatz<lb/> zum erhöhten Mutterersatz u findet am Ge<lb break="no"/>burtstag d. Mutter (8 Dez) Erlösung. Ob der<lb/> Tag an dem er Pakt geschloßen 24 <u>Sept</u> nicht<lb/> auch in ähnl Weise ausgez Tag war, werden<lb/> wir nie erfahren.<lb break="paragraph"/></p> <p>Kaum ein anderes Stück der ψα Ermittlungen klingt<lb/> so fremdartig und unglaubwürdig für den Nor=<lb/> malen Erwachsenen wie diese infantile Sache<lb/> der femin Einstellg zum Vater u die aus ihr er<lb break="no"/>wachsende Schwangerschaftsphantasie. Wir können<lb/> erst ohne Besorgnis u Bedürfnis nach Entschuld.<lb/> von ihr reden, seitdem der sächs. Senatspraes.<lb/> <u>P. Schreber</u> die Geschichte seiner psychotischen<lb/> Erkrankg und weitgehenden Herstellung be<lb break="no"/>kannt gemacht hat (<u>Denkwürdigkeiten</u>,<lb/> <u>Sammlung</u>). Aus dieser unschätzbaren Veröffentlichg<lb/> erfahren wir, daß der Herr Senatsgraesident<lb/> etwa ums 50ste Jahr die sichere Uberzeugung<lb/> bekam, Gott, der übrigens deutliche Züge<lb/> seines Vaters, des bekannten Arztes<lb/> <u>D. Schreber</u> trug, den Entschluß gefaßt<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-3" xml:id="page__f88b24c6-ebf9-434c-9596-e962ad6c894e"/>
+            <fw type="pageNum">[12]</fw> <p>habe, ihn zu entmannen, als Weib zu gebrauchen u<lb/> aus ihm neue Menschen von <u>Schreber</u>'schen ? ent<lb break="no"/>stehen zu lassen. (Er war selbst in seiner Ehe kinder<lb break="no"/>los geblieben). Er erkrankte an dem Sträuben<lb/> gegen diese Absicht Gottes, welche ihm höchst unge<lb break="no"/>recht u weltordngswidrig vorkam. Der geist<lb break="no"/>reiche Verfasser seiner eigenen Krankengeschichte<lb/> konnte wol nicht ahnen, daß er ein<s>e</s> <sub>dabei</sub> typisches<lb/> pathogenes Moment aufgedeckt hatte.<lb break="paragraph"/></p> <p>Dieses Sträuben gegen die Kastration oder die<lb/> weibliche Einstellg hat <u>Alf. Adler</u> aus allen Zu<lb break="no"/>samenhängen gerißen, in falsche Beziehungen oder<lb/> seichte zum Machtstreben gebracht u als män̄<lb break="no"/>lichen "Protest" selbständig hingestellt. Da die<lb/> Neurose immer nur aus einem Konflikt entgegen<lb break="no"/>gesetzter Strebungen hervorgehen kann, ist es<lb/> ebenso berechtigt zu sagen, der männl Protest<lb/> sei Ursache aller Neurosen wie die femin Ein<lb break="no"/>stellg sei diese Ursache, im m. P. die Ursache zu sehen<lb/> wie vielmehr in fem. Einst, gegen die er sich<lb/> wendet. Richtig ist, daß dieser m. Prot. einen regel<lb break="no"/>maßig Anteil an Charakterbildg hat u als scharfer<lb/> Widerstand bei der psa Behandlg entgegen<lb break="no"/>tritt. Der ausgeprägteste Fall von m. P., der meine<lb/> Behandlg aufsuchte, bedurfte ihrer wegen einer<lb/> Zg mit Obsessionen, in denen der ungelöste<lb/> Konflikt zwisch m u fem. Einstellung zu sehr<lb/> deutl Ausdruck kam. Uberdieß hatte der Pat.<lb/> masochist Phantasien entwickelt, die durchaus<lb/> auf den Wunsch, die Kastration u damit fem.<lb/> Einstellg anzunehmen, zurückgingen u war selbst<lb/> von diesen Ph. zu Befriedigg in realen Situat.<lb/> vorgeschritten.)<lb break="paragraph"/></p> <p>Der Senatspr Schreber <s>hatte</s> <hi rendition="#sub">fand die</hi> Heilung gefunden als<lb/> er sich entschlß, seinem m. Pr. aufzugeben u<lb/> die ihm von Gott bestim̄te weibl Rolle anzu<lb break="no"/>nehmen. Er wurde klar u ruhig, konnte selbst<lb/> seine Entlassg aus der Anstalt durchsetzen u führte<lb/> ein normales Leben bis auf den einen Punkt,<lb/> daß er einige St täglich der Pflege seiner Weib<lb break="no"/>lichkeit widmete, von derem langsamen Fort:<lb/> schreiten bis zu dem von Gott bestim̄ten<lb/> Ziel er überzeugt blieb.<lb break="paragraph"/></p> <p><u>IV. Die zwei Verschreibungen</u><lb break="paragraph"/></p> <p>Ein merkwürdiges Detail in der Geschichte unseres<lb/> Malers ist die Angabe, daß er dem Teufel 2<lb/> verschiedene Verschreibg ausgestellt. Die erste<lb/> mit Tinte geschrieben hatte den Wortlaut<lb/> Der ganze Zustand war wie die Adler'sche Theorié<lb/> auf die Verdrängg – Verleugnung – einer früh<lb break="no"/>infantilen Liebesfixirung zuruckführen.<lb break="paragraph"/></p> <p>Einer - zweier, allgemein?<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-4" xml:id="page__948a0bfe-19ec-4f9a-ab10-b6374a88a191"/>
+            <fw type="pageNum">[13]</fw> <p>Ich <u>Chr H</u> unterschreibe mich diesen Herrn sein<lb/> leibeigener Sohn auff 9 Jahr.<lb/> Die zweite mit Blut unterzeichnete lautet<lb/> <u>Chr H</u> Ich verschreibe mich dißen Satan, ich sein<lb/> leibeigener Sohn zu sein und in 9 Jahr ihm mein<lb/> Leib u Seel zuzugeheren.<lb/> Beide sollen im Original im Archiv von MZ vorhanden<lb/> gewesen sein z. Zeit Abfassg des <u>Trophaeum</u>, beide<lb/> tragen die nämliche Jahreszal 1669.<lb/> Die Tatsache, daß sich einer dem Teufel 2mal ver<lb break="no"/>schreibt, so daß die eine die andere ersetzt, wobei<lb/> aber auch die abgelöste ihre Giltigkeit behält,<lb/> ist ungewöhnlich. Vielleicht befremdet sie andere<lb/> weniger, die mit Stoff vertrauter sind. Ich<lb/> konnte nur bes. Eigenümlichkeit unseres Falles<lb/> darin sehen u wurde aufmerksam, daß die Be<lb break="no"/>richte gerade in diesem Punkt nicht zusam̄en<lb break="no"/>stimmen. Die Verfolgg der Widersprüche führt<lb/> ganz unerwarteter Weise tiefer in die Geschichte<lb/> dieses Krankheitsfalles ein.<lb break="paragraph"/></p> <p>Das Geleitschreiben des Pfarrers von <u>P</u>. zeigt die ein<lb break="no"/>fachsten u klarsten Verhaltniße auf: es ist nur<lb/> von einer Verschreib die Rede die der Maler vor<lb/> 9 J. <u>mit Blut</u> gefertigt u die nun in den nächsten<lb/> Tagen am 24 <u>Sept</u> fällig wird. Sie wäre also am<lb/> 24 <u>Sept</u> 1668 ausgestellt worden, leider ist die Jahres<lb break="no"/>zal (1668) nicht ausdrucklich genannt.<lb break="paragraph"/></p> <p>Im <s>Ber</s> Attest des Abtes, wie wir wissen wenige (12 J)<lb/> Tage später datirt, ist der Sachverhalt schon kom<lb break="no"/>plizirter. Es ist liegt nahe anzunehmen, daß Maler<lb/> inzwischen genauere Mitteilgen gemacht. Hier wird<lb/> erzält, daß der Maler 2 Verschreibg von sich ge<lb break="no"/>geben, die eine im Jahr 1668 (wie es auch nach Geleit<lb break="no"/>brief sein mußte,) mit Tinte, die andere aber<lb/> "<u>Seguenti anno</u> 1669" mit Blut. Die Verschreibg, die<lb/> er in der Beschworungsszene am Tage Mariae<lb/> Geburt zurückbekam, war die mit Blut geschriebene<lb/> also die spätere. Das geht nicht aus dem Attest<lb/> hervor, dort heißt es einfach: <u>schedam redderet</u><lb/> <u>und schedam sibi porrigentem conspexisset</u>, als ob es<lb/> sich nur um ein Schriftstück handelte. Aber sowol<lb/> aus weiterer Entwicklg d. Geschichte wie aus Bild<lb/> auf Titelblatt d. <u>Trophaeum</u>, wo auf Zettel, den der<lb/> Daemon hält, deutlich rote Schrift zu sehen ist. Die [Der]<lb/> weitere Verlauf ist aber wie erwähnt der, daß<lb/> <u>CH. H. im Mai</u> <hi rendition="#sub">1678</hi> nach MZ wiederkehrt, nachdem er<lb/> neuerliche Anfechtungen in <u>Wien</u> erfahren, u verlangt,<lb/> daß ihm durch neuerliche Gnade der H. Mutter auch<lb/> die erste "<u>etiam atramento scriptam</u>" wiedergegeben<lb/> werde. Auf welche Weise dies geschah, wird nicht mehr<lb/> so ausführlich wie das erste Mal beschrieben. Es<lb/> heißt nur <u>qua iuxta votum reddita</u>.<lb break="paragraph"/></p> <p>Die Verschreibgen tragen aber beide das<lb break="no"/>selbe Datum u Jahr 1669.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-5" xml:id="page__fdf5ac53-ae5d-4d35-ab4f-65c96e4b3b9f"/>
+            <fw type="pageNum">[14]</fw> <p>Wenn wir von Darstellg des Abtes als der vollständigeren<lb/> ausgehen, ergeben sich folgende Schwierigkeiten:<lb/> Als <u>Ch. H.</u> dem Pfarrer in <u>Pottenbr</u> bekannte, er sei<lb/> in Teufelsnöten, der Termin laufe bald ab, kann er<lb/> 1677 nur an die im J. 1668 ausgestellte Verschreibg gedacht<lb/> haben. Also an die erste (die im Geleitbrief allerdings<lb/> einzig genan̄t u als blutige bezeichnet wird).<lb break="paragraph"/></p> <p>In MZ wenige Tage später küm̄ert er sich aber nur darum<lb/> die zweite blutige zurückzubekom̄n, die noch gar nicht<lb/> eilig ist (1669—1677), u läßt die erste überfällig werden.<lb/> Diese wird erst im J 1678, also im zehnten Jahr zurücker<lb break="no"/>beten.<lb break="paragraph"/></p> <p>Ferner warum tragen beide Verschreibg die gleiche<lb/> Jahreszal, da die eine doch ausdrücklich als anno<lb/> <u>subseguenti</u> bezeichnet wird?<lb break="paragraph"/></p> <p>Der Kompilator muß diese Schwierigkeiten verspürt<lb/> haben, denn er macht Versuche sie zu beheben. In<lb/> seiner Einleitung schließt er sich <s>ganz</s> Darstellung des<lb/> Abtes an mit gewißen <s>Milderungen</s> <hi rendition="#sub">Änderungen</hi>. Der Maler habe<lb/> sich im J 1669 dem Teufel mit <s>sehr</s> Tinte verschrieben,<lb/> "<u>deinde vero</u>" später aber mit Blut. Er läßt also die<lb/> ausdrückliche Angabe der beiden früheren Berichte,<lb/> die ein Jahr zwischen beide Verschreibg weg u ver<lb break="no"/>legt die Vorgänge in dasselbe Jahr 1669 um<lb/> mit dem Wortlaut der ihm bereits vorliegenden<lb/> Verschreibg im Einklang zu bleiben. Dabei macht<lb/> er sich nichts daraus den beiden gleichzeitigen Be<lb break="no"/>richten die die erste Pakt in 1668 verlegen zu<lb/> widersprechen.<lb break="paragraph"/></p> <p>Im Attest des Abtes findet sich eine Stelle nach <u>seguenti</u><lb/> <u>vero anno </u>1669 welche in Klam̄ern eingeschloßen<lb/> folgender Art lautet (<u>sumitur hic alter annus ¿¿¿¿¿<lb/> pro nondum completo ubi saepe in loquendo<lb/> solet, ¿¿¿ ¿¿¿dum annum indicant Syngraphae<lb/> quarum atramento scripta ante praesentem attestationem<lb/> nondum habita fuit</u>). Dieser sonderbare Satz will besagen,<lb/> die Wiederholg der Zal 69 in den beiden Verschreibgen<lb/> rühre daher, daß einmal für ein noch laufendes Jahr<lb/> das andere, d.h. wol das nächste eingesetzt sei, steht also<lb/> auf dem Standpunkt, daß die eine Verschreibg 1668<lb/> die andere 69 erfolgt sei, u die hinzugefügte Glosse,<lb/> wie man es auch wol im Sprechen zu thun pflege,<lb/> macht wol den Eindruck einer lahmen Ausrede.<lb break="paragraph"/></p> <p>Die folgende Bemerkg, die schwarze Verschreibg sei<lb/> ja vor diesem Attest gar nicht vorgelegen, ist<lb/> übhpt schwer verständlich, erweckt aber den Ver<lb break="no"/>dacht, die ganze Stelle sei ein Einschiebsel des<lb/> Kompilators, der sich bemüht Ordnung in die Ver<lb break="no"/>wirrung zu bringen, die durch die gleiche Datirg<lb/> der beiden Verschreibgen erzeugt worden ist.<lb break="paragraph"/></p> <p>Ich weiß nicht, ob diese Mitteilgen dem Leser<lb/> irgend einen Eindruck hinterlassen haben. Ich fand<lb/> mich unfähig, den richtigen Sachverhalt in un<lb break="no"/>zweifelhafter Weise herzustellen, bin aber<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>BEMERKUNGEN Marion Palmedo ZU SEITE 39A:<lb break="paragraph"/></p> <p>Zeile 23: Dieser Satz sollte vielleicht so heißen:<lb/> "Er läßt also die ausdrückliche Angabe der beiden früheren<lb/> Berichte, die ein Jahr zwischen beide Verschreibg einschie—<lb/> ben (od. ähnl.), weg u verlegt die Vorgänge...". Oder<lb/> is viell. "die ein Jahr" eine gewisse Ausdrucksweise?<lb break="paragraph"/></p> <p>Dann müßte es aber "beiden" heißen.<lb/> Zeile 28: Das Wort "Pakt" in dieser Zeile sollte wohl ursprüngl.<lb/> "Verschreibung" heißen.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-6" xml:id="page__a933f050-0dce-4fef-932a-6caba28b815d"/>
+            <fw type="pageNum">[15]</fw> <p>beim Studium dieser verwirrten <s>Sa</s> Angelegenheit zu<lb/> einer Vermutung gekommen, die den Vorzug hat,<lb/> den natürlichsten Hergang voranzustellen, wenngleich auch<lb/> ihr die schriftlichen Zeugniße sich nicht völlig fügen.<lb break="paragraph"/></p> <p>Ich meine als der Maler nach MZ kam, sprach<lb/> er nur von einer Verschreibung mit Blut geschrieben,<lb/> die bald verfallen sollte, also 1668 gegeben wäre.<lb break="paragraph"/></p> <p>Das wäre ganz so, wie es im Geleitbrief mitgeteilt<lb/> ist. In MZ praesentirte er auch diese blutige Ver<lb break="no"/>schreibg als die ihm vom <u>Daemon</u> unter dem Zwang<lb/> d. H. Mutter zurﬁckgegebene. Wir wissen was weiter<lb/> geschah. Der Maler verließ sehr bald darauf MZ<lb/> u ging nach <u>Wien,</u> wo er sich auch bis Mitte Okt frei<lb/> fühlte. Aber dann fiengen Leiden u Erscheinungen<lb/> in denen er das Werk des bösen Geistes sah wieder<lb/> an, er sah sich vor der Schwierigkeit zu erklären,<lb/> warum ihn die Beschwörung in der Kappelle keine<lb/> dauernde Heilg gebracht, u da erfand oder phantasirte<lb/> er eine frühere, erste Verschreibg, die aber<lb/> mit Tinte gewesen sein sollte, so daß ihr Zurück:<lb/> stehen gegen die spätere blutige halbwegs plaus<lb break="no"/>ibel scheinen konnte. Nach MZ zurückgekehrt<lb/> erzälte er von dieser ersten Verschreibg u<lb/> ließ sich auch diese zurückgeben. Dann hatte er<lb/> Ruhe, aber allerdings geschah dann etwas auch anderes,<lb/> was auf die Hintergründe dieser Neurose hinweist.<lb break="paragraph"/></p> <p>Die Zeichnungen fertigte er wol bei seinem zweiten<lb/> Aufenthalt im Ma 1678 an. Bei dem Versuch seine<lb/> neueren Angaben mit seinen fruheren in Einklang<lb/> zu bringen, kann er wol in Schwierigkeiten sein. Vor<lb/> allem aber passirte es ihm als verräterisches Zeichen<lb/> seiner zweifachen Redaktion, daß er sich im Datum<lb/> der Verschreibg irrte i<hi rendition="#sub"> in</hi> beide<s>n</s> das Jahr 1669 einsetzte.<lb/> Selbst wenn kein volles Jahr zwischen ihnen lag, die<lb/> eine nur später war als die andere v J <s>16</s> 24 <u>Sept</u> 1668,<lb/> so hatte er lieber beide mit diesem Datum bezeich<lb break="no"/>nen sollen. 1669 war um 9 J vom Datum der zweiten<lb/> Beschwörg 1678 entfernt, nicht von dem der ersten<lb/> (1677) u scheint uns so zu verraten, daß alle Schrift:<lb/> stücke des Malers erst bei seiner zweiten An<lb break="no"/>wesenheit in MZ hergestellt wurden. Es war für<lb/> den Maler ungünstig, daß er wie die Sache lag nur<lb/> eine frühere, und nicht eine spätere Verschreibg<lb/> hinzudichten konnte.<lb break="paragraph"/></p> <p>Der Kompilator der den Stoff gewiß nicht früher als<lb/> 1714 viell erst 1729 zur Bearbeitg übernahm, mußte <lb/> sich bemühen, die Widersprüche irgendwie wegzu<lb break="no"/>schaffen und da die beiden Verschreibgen, die<lb/> ihm Vorlagen auf 1669 lauteten, half er sich so<lb/> gut er konnte, durch die Einschaltg u Ausrede<lb/> im Attest des Abtes.<lb break="paragraph"/></p> <p>Man erkennt leicht, worin die Schwäche dieser sonst<lb/> anmutenden Konstruktion gelegen ist. Die Tat<lb break="no"/>sache zweier Verschreibgen, einer ersten schwarzen<lb/> und einer zweiten, roten wird schon im<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-7" xml:id="page__c7b46bcd-bcb5-4e80-84cf-63cbab60eda5"/>
+            <fw type="pageNum">[16]</fw> <p>Attest des Abtes (im ersten Teil wenigst) erwähnt. Ich<lb/> habe also die Wal entweder dem Kompilator<lb/> unterzuschieben, daß er auch diesen Text zugerichtet<lb/> hat oder zu gestehen, daß ich die Wiedersprüche<lb/> nicht zu vereinigen weiß.<lb/> Die ganze Diskussion wird manchen Lesern überflüßig,<lb/> die darin behandelten Details zu geringfügig erscheinen.<lb/> Allein die Sache gewinnt ein neues Interesse, wenn<lb/> man sie nach einer bestim̄ten Richtg hin verfolgt.<lb break="paragraph"/></p> <p>Ich habe eben vom Maler ausgesagt, daß er<lb/> durch den Verlauf seiner Krankheit unliebsam<lb/> überrascht eine frühere Verschreibg (die mit<lb/> Tinte) erfunden, um seine Situation, auch gegen<lb/> die from̄en Herren von MZ halten zu können.<lb break="paragraph"/></p> <p>Nun schreibe ich für Leser, die zwar an die ψα<lb/> glauben, aber nicht an den Teufel, u die könnten<lb/> wir vorhalten, es sei unsinnig dem armen Maler<lb/> (hic miser nen̄t ihn der Geleitbrief) so einen Vor<lb break="no"/>wurf zu machen. Die blutige Verschreibg war<lb/> doch genau so gut phantasirt wie die angeblich<lb/> frühere mit Tinte. In Wirklichkeit ist ihm ja<lb/> übhpt kein Teufel erschienen, der ganze Pakt<lb/> existirte ja nur in seiner Phantasie. Die Leser<lb/> haben natürlich Recht, man kann dem Armen<lb/> das Recht nicht bestreiten, seine ursprüngliche<lb/> Phantasie durch eine neue zu ergänzen, wenn [wann]<lb/> die geanderten Verhältniße es von ihm zu<lb/> fordern scheinen. Aber auch hier giebt es eine<lb/> Fortsetzg. Die beiden Verschreibgen sind ja nicht<lb/> Phantasien wie die Teufelserscheingen, sie sind nach<lb/> der Versicherg des Abschreibers wie nach dem Zeugnis<lb/> des späteren Abtes <u>Kilian</u> im Archiv von MZ auf<lb break="no"/>bewahrt worden, für alle sichtbar und greif<lb break="no"/>bar. Wir stehen also vor der Alternative,<lb/> entweder anzunehmen, daß der Maler <s>selbst</s><lb/> die beiden ihm angeblich durch göttliche Huld<lb/> zurückgestellten <u>Schedae</u> selbst zur Zeit pro<lb break="no"/>duzirt, da er sie gebraucht, oder den geistlichen<lb/> Herren von MZ ¿ <u>St Lambert</u> trotz aller<lb/> feierlichen <hi rendition="#em">Bestätig Versichergen</hi> durch zwei<lb/> Zeugen an angefﬁgter Siegel <s>gründl</s> die<lb/> Glaubwürdigkeit voll zu entziehen. Im<lb/> letzteren Fall ergäbe sich die Mahnung, <s>sich</s><lb/> aus from̄en Krankengeschichten des 17 Jahrh<lb/> übhpt keine wissensch Schlüße zu ziehen.<lb break="paragraph"/></p> <p>Ich bekenne, die Verdächtigg der geistlichen Herren<lb/> fiele mir nicht leicht. Ich neige zwar zur Annahme,<lb/> daß der Kompilator manches am Attest des<lb/> Abtes abgeändert und verfälscht hat, aber diese<lb/> sekundäre Bearbeitg_im Dienste der Konkor<lb break="no"/>danz geht wol nicht <hi rendition="#sub">viel </hi>über ähnliche Leistungen<lb/> moderner u weltlicher Geschichtsschreiber<lb/> hinaus. Nach anderer <s>Hinsicht</s> <sub>Richtung</sub> haben die geist<lb break="no"/>lichen Herren Anspruch auf Glaubwürdigkeit<lb/> gewonnen. Wäre es ihnen nur um die Freuden<lb break="no"/></p> <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-8" xml:id="page__769fd8b4-f6cc-46a6-bcd9-5bf67ddd2d4b"/>
+            <fw type="pageNum">[17]</fw> <p>tendenz zu thun gewesen, so hätte sie nichts hindern können,<lb/> die Berichte uber die Unvollständigkeit der Heilung ja<lb/> über die Fortdauer der Versuchgen nachdem der<lb/> Maler <u>P. Chrygost</u>. geworden, zu unterdrücken.<lb break="paragraph"/></p> <p>Auch bei einem anderen weit bedeutsameren Anlaße<lb/> gelingt es, den Verdacht gegen die froﬁen Gewahrs<lb break="no"/>männer der sich anfangs regen will, niederzuschlagen.<lb break="paragraph"/></p> <p>In der Szene der Beschwörung in der Kapelle<lb/> hat der Maler die Vision eines geflügelten<lb/> Drachens, der die blutige Verschreibg in der<lb/> Tatze hält. Wenn nun versichert würde, die<lb/> drei <s>beiden</s> Herren, die dem Maler damals beistanden,<lb/> der <u>P. Sebastian Meifinger</u> mit seinen <u>comprofessis, P.</u><lb/> <u>Henricus Patz</u>, <u>P. Leopold Donagello</u> u <u>P. Basilius Fincken-</u><lb/> <u>eis</u> hatten dieselbe Erscheinung gehabt u könnten<lb/> sie bekräftigen, so würde unser Zutrauen einen<lb/> starken Stoß erleiden. Aber nichts von dem,<lb/> der Bericht klingt durchaus nüchtern u glaublich,<lb/> der Maler habe nach vielen Gebeten u Beschwörgen<lb/> den bösen Geist selbst <u>per fenestrellam in cornu</u><lb/> <u>Epistolae</u> erblickt, wie er ihm den mit Blut beschrieb<lb break="no"/>enen Zettel hinhielt (<u>Schedam sibi porrigentem</u>),<lb/> habe sich darauf <s>vo</s> aus den Händen der Geistlichen,<lb/> die ihn hielten, losgerissen (<u>eo advolans e Religios</u><lb break="no"/><u>orum manibus, qui eum tenebant</u>) u sei mit dem<lb/> Zettel in der Hand wiedergekom̄en (<u>ipsam Schedam<lb/> gg manum obtinuit</u>. Mit keinem Wort wird angedeutet,<lb/> daß die geistlichen Herren die Vision geteilt hätten.<lb/> Den Zettel hatte der Maler wol mitgebracht, als<lb/> er sich zur Beschwörung begab.<lb break="paragraph"/></p> <p><u>V. Die weitere Neurose</u><lb break="paragraph"/></p> <p>Aber das wäre ja Betrug u nicht Neurose, der Maler<lb/> ein Simulant und Hochstapler, kein kranker Besessener.<lb/> Nun die Ubergange zwischen Simulat u Neurose sind bekannt<lb break="no"/>lich fließender Natur. Ich finde keine Schwierigkeit<lb/> anzunehmen, daß der Maler diesen Zettel – ebenso<lb/> wie den späteren – in einem besonderen, seinen Vis<lb break="no"/>ionen zugeordneten Zustand geschrieben und mitge<lb break="no"/>nom̄en hatte. wenn er die Phantasie vom Teufels<lb break="no"/>pakt der Erloöung durchfuhren wollte, konnte er<lb/> ja gar nichts anderes thun.<lb break="paragraph"/></p> <p>Den Stempel d. Wahrhaftigkeit trägt dagegen<lb/> das Tagebuch aus <u>Wien</u> an sich, das er bei seiner<lb/> Rückkehr nach MZ den Geistlichen übergab. Es<lb/> läßt uns freilich tief in die Motivirung oder<lb/> sagen wir besser: Verwertung der Neurose<lb/> blicken.<lb break="paragraph"/></p> <p>Diese Aufzeichngen reichen von Abschied von MZ nach er<lb break="no"/>folgreicher Bechwörg bis zum 13 Jan des nächsten<lb/> Jahres 1678. Bis zum 11 Okt ergieng es ihm in <u>Wien</u><lb/> wo er bei verheirateter Schwester wohnte, recht gut.<lb/> Dann aber fiengen neue Erscheingen an, Visionen<lb/> z Th mit Zuständen von Abwesenheit, mit Krämpfen<lb/> u schmerzhaften Sensationen, die denn auch<lb/> zu seiner Rückkehr nach MZ im Mai 78 führten.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-9" xml:id="page__f1466d07-268e-411a-ac86-2667af807760"/>
+            <p>sollte. Die Hoffnung erfüllte sich<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>... , Gott<lb/> würde ihn nicht verlassen.<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-10" xml:id="page__d5a31c38-de22-455b-9c51-1d42d7ec0e73"/>
+            <p>4<lb break="paragraph"/></p> <p>tendenz zu ... ..., so hätte sie nichts indern können,<lb/> die Vorwürfe<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>V. Die weitere Neurose.<lb break="paragraph"/></p> <p>Aber das wäre ja<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>zu seiner Rückkehr auf ... im Mai 78 ...<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-11" xml:id="page__e9c38c93-9841-4fc3-81a3-a9c58356b4ef"/>
+            <fw type="pageNum">[18]</fw> <p>Die neue Leidensgeschichte in 3 Phasen. Zuerst meldet<lb/> sich eine Versuchg in Gestalt eines schön gekleideten<lb/> Cavaliers, der ihm zureden will, den Zettel wegzuwerfen<lb/> der seine Aufnahme in die Bruderschaft z H. Rosenkranz<lb/> bescheinigt. Da er widerstand, wiederholt sich dieselbe<lb/> Erscheing am nächsten Tag, aber diesmal in einem<lb/> prächtig geschmückten Saal, in dem vornehmsten <u>Cavaliere</u><lb/> mit schönsten Damen tanzten. Derselbe Cavalier, der<lb/> ihn schon einmal versucht hatte, gab ihm Auftrag<lb/> die Festtafel zu malen u versprach ihm dafür schönes<lb/> Stück Geld. Nachdem er diese Vision durch Gebete<lb/> z Verschwinden gebracht, wiederholte sie sich in<lb/> weit eindringlicher Form wenige Tage später.<lb break="paragraph"/></p> <p>Diesmal schickte der Cavalier eine der schönsten<lb/> Damen, die an der Festtafel saßen aus, ihn zur<lb/> Gesellschaft zu <s>bringen</s> führen u er hatte Mühe,<lb/> sich der Verführerin zu erwehren. Am er<lb break="no"/>schreckendsten war aber die bald darauf folgende<lb/> Vision eines noch prunkvolleren Saales, in dem<lb/> ein "von Goldstuckh aufgerichter" Thron war u die<lb/> Cavaliere die Ankunft ihres Königs erwarteten.<lb/> Dieselbe Person, die sich schon so oft um ihn beküm̄ert<lb/> gieng auf ihn zu u forderte ihn auf, Thron zu<lb/> besteigen, sie wollten ihn für ihren König halten<lb/> u in Ewigkeit verehren. Mit dieser Ausschweifg<lb/> seiner Phantasie schließt die erste, recht durch<lb break="no"/>sichtige Phase der <s>Er</s> Versuchsgeschichte ab.<lb break="paragraph"/></p> <p>Es mußte jetzt zu einer Reaktion kom̄en,<lb/> Gegenwirkung. Die Reaktion bekam die Oberhand.<lb/> Am 20 Okt erschien ihm ein großer Glanz,<lb/> u eine Stim̄e aus diesem gab sich als Christus<lb/> zu erkennen u verlangte von ihm, daß er<lb/> dieser bösen Welt entsagen u 6 Jahre lang in<lb/> Wüste Gott dienen solle. <u>H</u>. litt unter diesen<lb/> heiligen Heimsuchgen offenbar mehr als unter<lb/> den früheren daemonischen. Er erwachte erst nach 2-1/2<lb/> Stunden aus diesem Anfall. Bei der nächsten<lb/> <s>Ersch</s> Vision war die von Glanz umgebene Person<lb/> unfreundlicher, drohte ihm, weil er den göttlichen<lb/> Vorschlag nicht angenomen hatte u führte ihn die<lb/> Hölle, damit er durch das Los der Verdam̄ten<lb/> geschreckt werden solle. Offenbar blieb aber die<lb/> Wirkg aus, denn die Erscheingen der Person im<lb/> Glanze, die <u>Christus </u>sein sollte, wiederholte sich<lb/> noch mehrmals, jedesmal mit stundenlanger Verzückt<lb break="no"/>heit u Geistesabwesenheit. In der großartigsten<lb/> dieser Verzücktheiten führte ihn die Person im<lb/> Glanz zuerst durch eine Stadt, in der die Menschen<lb/> alle übele Werke übten u z. Gegensatz dann<lb/> auf eine schöne Au, in der Einsiedler ihr gottgefälliges<lb/> Leben führten u greifbare Beweise von<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-12" xml:id="page__727d05a7-8c94-4019-b503-ed77a9d87c54"/>
+            <fw type="pageNum">[19]</fw> <p>Gottes Gnade empfiengen. Dann erschien an Stelle der<lb/> Erscheing <u>Christi </u>die H. Mutter selbst, die ihn mahnte,<lb/> Da er sich hiezu nicht recht resolviret, kam <u>Christus</u> am<lb/> nächsten Tag wider u setzte ihm mit Drohungen u Ver<lb break="no"/>sprechgen tüchtig zu. Da gab er endlich nach, beschloß<lb/> aus diesem Leben auszutreten u zu thun, was<lb/> von ihm verlangt wurde. Mit dieser Entschließg<lb/> endet die zweite Phase. Er konstatirt, daß er von<lb/> dieser Zeit an keine Erscheing oder Anfechtung<lb/> gehabt.<lb break="paragraph"/></p> <p>Indeß muß dieser Entschluß nicht sehr gefestigt oder<lb/> seine Ausführg allzulang aufgeschoben worden sein<lb/> denn am 26st als er in Stephan Andacht verrichtete, bekam<lb/> er beim Anblick einer wackeren Jungfrau die mit<lb/> einem wolaufgeputzten Herrn gieng, Idee nicht er<lb break="no"/>wehren, an Stelle dieses Herrn zu sein. Das forderte<lb/> Strafe, noch am selben Abend traf es ihn wie<lb/> ein Donnerschlag, er sah sich in hellen Flam̄en u<lb/> fiel in Ohnmacht. Man bemühte sich ihn zu erwecken,<lb/> aber "er wälzte sich in der Stube, bis Blut aus Mund<lb/> u Nase kam, verspürte, daß er sich in Hitze u Gestank<lb/> befand u hörte eine Stim̄e, daß ihm dieser Zustand<lb/> als Strafe fur seine unnützen eitlen Gedanken<lb/> geschickt worden sei. Später wurde er dann von<lb/> bösen Geistern mit Stricken gegeißelt u ihm ver<lb break="no"/>sprochen, daß er alle Tage so gepeinigt werden<lb/> solle, bis er sich entschloßen in Einsiedlerorden<lb/> einzutreten. Diese Erlebniße setzten sich auch, soweit<lb/> Aufzeichng reichen fort (13 Jan).<lb break="paragraph"/></p> <p>Wir sehen, daß bei unserem armen Maler die<lb/> Versuchgsphantasien von asketischen u endlich<lb/> von Strafphantasien abgelöst werden. Das Ende<lb/> der Leidensgeschichte ken̄en wir bereits. Wir wissen,<lb/> daß er sich (im Mai) nach MZ begiebt, dort die<lb/> Geschichte von der angeblich ersten, mit Tinte ge<lb break="no"/>schrieb Verschreibg vorbringt, diese zurückerhält<lb/> u geheilt ist. Dann aber thut er etwas, was un<lb break="no"/>gefähr mit der asket Forderg in der zweiten<lb/> Phase s. Tagebuches zusam̄entrifft, er tritt in den<lb/> <hi rendition="#em">entsagt der Welt u Orden</hi> d. barmh. Brüder<lb/> ein, r<u>eliqiosus factus est. </u><lb break="paragraph"/></p> <p>Bei Lektüre des Tagebuchs hat sich uns Einblick in<lb/> neues Stück des Zusam̄enhang eröffnet. Wir<lb/> erinnern uns, daß der Maler sich dem Teufel<lb/> verschrieb weil er nach Tod d Vaters verstim̄t<lb/> u arbeitsunfähig Sorge hatte seine Existenz zu er<lb break="no"/>halten. Diese Momente, Depression, Arbeits ¿,<lb/> u Trauer um Vater hängen irgendwie auf<lb/> einfache oder komplizirtere Art zusam̄en.<lb break="paragraph"/></p> <p>Vielleicht waren die Erscheingen des Teufels darum<lb/> so überreichlich mit Brüsten ausgestattet,<lb/> weil der Teufel sein Nährvater werden<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-2-5-13" xml:id="page__3a54ce32-acb1-44f9-a5a5-a0ac58d1f77b"/>
+            <fw type="pageNum">[20]</fw> <p>sollte. Die Hoffng erfüllte sich nicht, es gieng ihm weiter<lb break="no"/>hin schlecht, er konnte nicht ordentlich arbeiten oder<lb/> er fand nicht genug Arbeit. Der Geleitbrief des<lb/> Pfarrers spricht von ihm als <u>Nunc miserum</u><lb/> <u>omni auxilio destitutum</u>. Er war also nicht nur in<lb/> moralischen Nöten, er litt auch materiell Not.<lb break="paragraph"/></p> <p>Und finden sich in die <s>Sch</s> Wiedergabe seiner<lb/> späteren Visionen Bemerkungen eingestreut,<lb/> welche wie die Inhalte der erschauten Szenen zeigen,<lb/> daß sich auch nach der erfolgreichen Beschwörg<lb/> in MZ daran nichts geändert. Wir lernen einen<lb/> Menschen kennen, der es zu nichts bringt, dem man<lb/> auch darum kein Vertrauen schenkt. In der<lb/> ersten Erscheing fragt ihn der Cavalier, was er<lb/> eigentlich anfangen wolle, da sich niemand seiner<lb/> annehme (dieweillen ich von iedermann izt verlassen,<lb/> waß ich anfangen würde. Die erste Reihe der Visionen<lb/> in Wien entspricht durchaus den Wunschphantasien<lb/> des Armen, hungernden, verkom̄enen. Herrliche<lb/> Säle, Wolleben, silbernes Tafelgeschirr und<lb/> <s>P</s> schöne Frauen, hier wird nachgeholt, was wir im<lb/> Teufelverhältniß vermißt haben. Damals bestand<lb/> eine <u>Melanchol</u>, die ihn genußunfähig machte<lb/> u auf die lockendsten Anerbietgen verzichten<lb/> hieß. Seit der Befreiung scheint die Mch über<lb break="no"/>wunden, alte Gelüste des Weltkindes regen<lb/> sich wieder. In einer der asket. Visionen beklagt<lb/> er sich gegen die ihn führende Person (<u>Christus</u>),<lb/> daß ihm niemand glauben wolle, so daß er deßent<lb break="no"/>wegen was ihm anbefohlen, nicht vollziehen könne.<lb break="paragraph"/></p> <p>Die Antwort, die er bekom̄t, verstehen wir leider<lb/> nicht (so fer man mir nit glauben, waß aber geschehen<lb/> weiß ich wol, ist mir selbes auszusprechen unmöglich).<lb break="paragraph"/></p> <p>Ganz besonders aufklärend ist aber, was ihn sein geistlicher<lb/> Führer bei den Einsiedlern erleben läßt. Er kom̄t<lb/> in eine Höhle, in der ein alter Mann schon seit 60 J<lb/> sitzt u erfährt auf seine Frage, daß dieser<lb/> taglich durch die Engl von Gott gespeist werde.<lb/> Und dann sieht er zu, wie ein Engel dem Alten<lb/> zu eßen bringt, drei Schüßerl mit Speiß, ein<lb/> Brott u ein Knödl u Getränk. Nachdem der<lb/> Einsiedler gespeist, nim̄t der Engel alles wieder<lb/> zusam̄en u trägt es fort. Wir verstehen, welche<lb/> Versuchg die from̄en Visionen zu bieten haben,<lb/> sie wollen ihn veranlassen, eine Form der<lb/> Existenz zu wälen, bei der ihm <s>se</s> die Sorge<lb/> abgenom̄en ist. Entscheidend sind endlich die Reden<lb/> <s>der</s> <u>Christi</u> in letzten Vision. Nach der Drohung,<lb/> wenn er sich nicht füge, werde etwas geschehen<lb/> daß er u die Leute glauben müßten, <s>so</s> mahnt er<lb/> direkt, er solle die Leith nicht achten, obwol er<lb/> von den Leuten verfolgt würde oder von<lb/> ihnen keine Hilfeleistg empfienge, Gott würde<lb/> ihn nicht verlassen.<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p><hi rendition="#bold">Transkription Seite 21 (Faksimile ist noch einzuspeisen.)</hi><lb break="paragraph"/></p> <p><u>Ch. H.</u> war so weit Künstler u Weltkind, daß es ihm<lb/> nicht leicht fiel der Welt sündigen zu entsagen.<lb break="paragraph"/></p> <p>Aber endlich beschloß er es doch mit Rücksicht auf seine<lb/> hilflose Lage. Er trat in den geistlichen Orden<lb/> d. barmh. Brüder ein, damit war sein innerer<lb/> Kampf zu Ende. In seiner Neurose spiegelte sich<lb/> dieser Ausgang darin, daß die Rückgabe der<lb/> ersten Verschreibung seinen Visionen und<lb/> Anfallen ein Ende machte. Eigentlich hatten beide<lb/> Phasen seiner daemonolog. Krankengeschichte<lb/> denselben Inhalt gehabt. Er wollte immer nur<lb/> sein Leben erhalten, das erste Mal mit Hilfe<lb/> des Teufels, um das Opfer seiner Seligkeit, dann<lb/> als der Teufel sich ohnmächtig erwiesen hatte und<lb/> aufgegeben werden mußte, mit Hilfe des geistlichen<lb/> Standes auf Kosten seiner Freiheit u aller Chancen<lb/> des Genußes. Zu unbegabt, oder zu ungeschickt<lb/> sich selbst zu erhalten, zälte er wahrscheinlich<lb/> zu jenen als ewige Säuglinge [Jüngling?] bekannten Typen<lb/> die von anderer Seite erhalten zu werden,<lb/> beanspruchen. Und so legte er in dieser Kran<lb break="no"/>kengeschichte den Weg vom Vater über<lb/> den Teufel zu den frommen <u>Patren</u> zurück.<lb break="paragraph"/></p> <p>Die Neurose erscheint hier als ein Gaukelspiel,<lb/> welches ein Stück des ernsten aber banalen Lebens<lb break="no"/>kampfes verdeckt. Das ist gewiß nicht immer so aber<lb/> oftmals. Die Analytiker erleben es oft, wie unvorteil<lb break="no"/>haft es ist einen Kaufmann zu behandeln, der<lb/> bis dahin gesund, seit einiger Zeit "nervös" geworden<lb/> ist. Die geschäftliche Katastrophe, von der er sich<lb/> bedroht fühlt, wirft als Nebenwirkung eine<lb/> Neurose auf, die ihm auch dazu dient, seine<lb/> realen Lebenssorgen zu verbergen, sonst aber<lb/> unzweckmäßig ist, da sie Kräfte in Anspruch<lb/> nim̄t, die vorteilhafter zur besonnenen Er<lb break="no"/>ledigg der gefahrvollen Lage verwendet<lb/> würden. In den weitaus zalreichsten Fällen<lb/> stehen libidinöse Interessen im Konflikt, der<lb/> die Neurose schafft, auf dem Spiel, entweder<lb/> für sich allein oder in einiger Verknüpfung<lb/> mit Interessen der Selbsterhaltung u Selbst<lb break="no"/>behauptung. In allen Fällen bleibt der<lb/> Dynamismus der Neurose derselbe, eine nicht<lb/> real zu befriedigende libidinöse Stauung<lb/> schafft sich Abfluß mit Hilfe der Regression<lb/> zu alten Fixirungen durch das unbewußte<lb/> Verdrängte. Soweit das Ich aus diesem Vorgang<lb/> einen Krankheitsgewinn ziehen kann, läßt<lb/> es die Neurose gewähren, deren oekonomische<lb/> Schädlichkeit doch sonst keinen Zweifel leidet.<lb break="paragraph"/></p> <p>Auch die üble Lebenslage unseres Malers hätt<lb/> nicht seine Teufelsneurose zu Tage gefördert, wenn<lb/> aus seiner Not nicht eine verstärkte Vater<lb break="no"/>sehnsucht erwachsen wäre. Nachdem aber die<lb/> Melancholie u der Teufel abgethan waren, kam<lb/> es in ihm noch zum Kampf zwischen der libidin<lb break="no"/>ösen Lebenslust und der Einsicht, daß das<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p><hi rendition="#bold">Transkription Seite 22 - Faksimile noch fehlend)</hi><lb break="paragraph"/></p> <p>Interesse der Lebenserhaltg gebieterisch Verzicht<lb/> und Askese forderten. Es ist interessant, daß der<lb/> Maler in diesem zweiten Abschnitt seiner Kranken<lb break="no"/>geschichte zwischen den sündhaften Versuchungen<lb/> u den heiligen Mahnungen nicht mehr recht unterschied.<lb break="paragraph"/></p> <p>Er nannte beide: Erscheinungen des Teufels.<lb break="paragraph"/></p> <p>[Ende Seite 22 und des Manuskriptes "Eine Teufelsverschreibung<lb/> im 17 Jahrhundert"]<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-1" xml:id="page__5ec82633-b6a3-4351-8493-99a036578027"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-2" xml:id="page__fb7e4de5-b93d-41db-9c2e-b3aa21732d5e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-3" xml:id="page__ab168981-747c-4d97-8087-8445bcf632c2"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-4" xml:id="page__b72d9191-8ff0-4941-8dea-d5b8ef7da612"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-5" xml:id="page__276c09b4-133d-4ba0-b18e-3c49e687d2c6"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-6" xml:id="page__42b3ffe1-7bf6-4d54-a995-58618164f2aa"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-7" xml:id="page__35bea298-3336-4fe2-a673-c5efbc2bb34a"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-8" xml:id="page__84fb9334-88cd-477c-b13d-f3e39af772d4"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-9" xml:id="page__0b53aaf0-d576-4ed2-a284-89d65711578d"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-10" xml:id="page__c95f7c0d-ae02-4358-a24f-4b22990e0d4c"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-11" xml:id="page__67a7474f-ef78-461f-abca-c5187f1001f7"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-12" xml:id="page__653e667e-f608-442b-a88a-3fcf72f5092f"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-13" xml:id="page__93913973-55e9-42d6-8034-a4db511e207e"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-14" xml:id="page__a935a6c0-e5f7-4c0c-99fe-b903f162ee26"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-15" xml:id="page__af12f25f-6b74-4e39-959d-613493af9e14"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1922-3-5-0" xml:id="page__42972259-9bb3-472c-9ae3-d9262363adc8"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="1" xml:id="page__d15c3028-342f-4089-bdb9-999eca3b7420"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="2" xml:id="page__03e82adc-3c5e-4a14-bb16-0e90ca1539c7"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="3" xml:id="page__f5ec360d-d18a-42e2-a6a6-8c1ae9e3ebd7"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+         
+            <pb n="4" xml:id="page__42148503-3cb5-4551-8a44-aa58e65d303b"/>
+            <p>BLANK<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

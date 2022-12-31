@@ -1,0 +1,306 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+            <title type="manifestation" level="a">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie (1905-004/1920.02)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
+                     gerade Sie oder Ihre Nutzung besonders.</p>
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                     Schranken des Urheberrechts gedeckt sind.</p>
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
+                     die Sie für die jeweilige Nutzung brauchen.
+                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>1. Korr. CH</p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1905-004-1920.04">
+                     <analytic>
+                        <title type="manifestation">Note 3 [zur 4. Auflage]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1915">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">3., vermehrte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1915-01-01">1915-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.01">
+                     <analytic>
+                        <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie	</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">[Reinschrift]</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short"/>
+                        <imprint>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1922">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">5., unveränderte Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1922-01-01">1922-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1924">
+                     <analytic>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 5</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1924-01-01">1924-01-01</date>
+                        </imprint>
+<extent>119 Seiten</extent>                        <biblScope unit="volume">5. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1925">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie </title>
+                        <title type="manifestation-short">6., durchgesehene Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920">
+                     <analytic>
+                        <title type="manifestation">Einband</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1905">
+                     <analytic>
+                        <title type="manifestation">Einband (Broschur)</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1910">
+                     <monogr>
+                        <title type="manifestation">Drei Abhandlungen zur Sexualtheorie</title>
+                        <title type="manifestation-short">2. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1910-01-01">1910-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004-1920.03">
+                     <analytic>
+                        <title type="manifestation">Einfügung</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1905-004None">
+                     <analytic>
+                        <title type="manifestation">Inhaltsverzeichnis [6.]</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1905-004-1920.02" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__c304537d-4d89-45e8-86c1-6314be8a1900">
+                        <title>Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+                              Signaturen, Referenzsystem</resp>
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                              Faksimile-Ausgabe, Bibliografie</resp>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1905-004/1920.02</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/vorwort-zur-vierten-auflage-der-drei-abhandlungen-zur-sexualtheorie/handschrift</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/c304537d-4d89-45e8-86c1-6314be8a1900</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__9d035a03-28d7-4013-adaf-63337d78ece4">
+                              <title>Freud, Sigmund  (1905-004; 1905d): Drei Abhandlungen zur Sexualtheorie</title>
+                              <idno type="url">https://www.freud-edition.net/werke/drei-abhandlungen-zur-sexualtheorie</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/9d035a03-28d7-4013-adaf-63337d78ece4</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Library of Congress, Freud Archives</repository>
+                           <idno type="Library-of-Congress,-Freud-Archives">OV7 Box 33/19</idno>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
+ aus <material>Papier</material> in Handschrift Freud (Kurrent) Schreibmaschine .                                 </support>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift Freud (Kurrent) Schreibmaschine </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Handschrift</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="complete">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="Vorwort zur vierten Auflage der Drei Abhandlungen zur Sexualtheorie [Typoskript]]" xml:id="page__d65611c9-a96d-49f7-b552-6bfc41a94765"/>
+            <p>[1]<lb break="paragraph"/></p> <p rendition="#h1"><title><u>Vorwort zur vierten Auflage der</u><lb/> „Drei Abhandlungen zur Sexualtheorie“<lb break="paragraph"/></title></p> <p>Von Sigm. Freud<lb break="paragraph"/></p> <p>Nachdem die Fluten der Kriegszeit sich verzogen haben, darf man<lb/> mit Befriedigung feststellen, dass das Interesse für die psychoana<lb break="no"/>lytische Forschung in der grossen Welt ungeschädigt geblieben ist.<lb/> Doch haben nicht alle Teile der Lehre das gleiche Schicksal erfahren.<lb/> Die rein psychologischen Aufstellungen und Ermittlungen der Psycho<lb break="no"/>analyse, über das Unbewusste, die Verdrängung, den Konflikt, der zur<lb/> Krankheit führt, den Krankheitsgewinn, die Mechanismen der Symptom<lb break="no"/>bildung u. a. erfreuen sich wachsender Anerkennung und finden selbst<lb/> bei prinzipiellen Gegnern Beachtung. Das an die Biologie angrenzende<lb/> Stück der Lehre, dessen Grundlage in dieser kleinen Schrift gegeben<lb/> wird, ruft noch immer unverminderten Widerspruch hervor und hat selbst<lb/> Personen, die sich eine Zeit lang intensiv mit der Psychoanalyse be<lb break="no"/>schäftigt hatten, zum Abfall von ihr und zu neuen Auffassungen bewo<lb break="no"/>gen, durch welche die Rolle des sexuellen Moments für das normale und<lb/> krankhafte Seelenleben wieder eingeschränkt werden sollte.<lb break="paragraph"/></p> <p>Ich kann mich trotzdem nicht zur Annahme entschliessen, dass<lb/> dieser Teil der psychoanalytischen Lehre sich von der zu erratenden<lb/> Wirklichkeit viel weiter entfernen könnte als der andere. Erinnerung<lb/> und immer wieder von neuem wiederholte Prüfung sagen mir, dass er<lb/> aus eben so sorgfältiger und erwartungsloser Beobachtung hervorge<lb break="no"/>gangen ist, und die Erklärung jener Dissoziation in der öffentlichen<lb/> Anerkennung bereitet keine Schwierigkeiten. Erstens können nur <del>jene</del><lb/> solche Forscher d<del>e</del>ie hier beschriebenen Anfänge des Sexuallebens be<lb break="no"/>stätigen, die Geduld und technisches Geschick genug besitzen, um<lb/> die Analyse bis in die ersten Kindheitsjahre des Patienten vorzutra<lb break="no"/>gen. Häufig fehlt es auch an der Möglichkeit hiezu, da das ärztliche<lb/> Handeln eine scheinbar raschere Erledigung des Krankheitsfalles ver<lb break="no"/>langt. Andere aber als Aerzte, welche die Psychoanalyse üben, haben<lb/> überhaupt keinen Zugang zu diesem Gebiet und kei<del>e</del>ne Möglichkeit, sich<lb/> ein Urteil zu bilden, das der Beeinflussung durch ihre eigenen Abnei<lb break="no"/>gungen und Vorurteile entzogen wäre. Verstünden es die Menschen, aus<lb/> der direkten Beobachtung der Kinder zu lernen, so hätten diese drei<lb/> Abhandlungen überhaupt ungeschrieben bleiben können.<lb break="paragraph"/></p>
+         
+         
+            <pb n="2-2-2" xml:id="page__7802135a-76dc-494f-a249-c7cf2fe54b4b"/>
+            <fw type="pageNum">2</fw> <p>Dann aber muss man sich daran erinnern, dass einiges vom Inhalt<lb/> dieser Schrift, die Betonung der Bedeutung des Sexuallebens für alle<lb/> menschlichen Leistungen und die hier versuchte Erweiterung des Be<lb break="no"/>griffes der Sexualität, von je her die stärksten Motive für den Wi<del><span class="correction-symbol">d</span></del><lb/> erstand gegen die Psychoanalyse abgegeben hat. In dem Bedürfnis<lb/> nach volltönenden Schlagworten ist man soweit gegangen, von dem „Pan<lb break="no"/>sexualismus“ der Psychoanalyse zu reden und ihr den unsinnigen Vor<lb break="no"/>wurf zu machen, sie erkläre „alles“ aus der Sexualität. Man könnte<lb/> sich darüber verwundern, wenn man imstande wäre, an die verwirren<lb break="no"/>de und vergesslich machende Wirkung affektiver Momente selbst zu ver<lb break="no"/>gessen. Denn der Philosoph Arthur <u>Schopenhauer</u> hat bereits vor ge<lb break="no"/>raumer Zeit den Menschen vorgehalten, in welchem Masse ihr Tun<lb/> und Trachten durch sexuelle Strebungen — im gewohnten Sinne des Wortes —<lb/> bestimmt wird, und eine Welt von Lesern sollte doch unfähig gewesen<lb/> sein, sich eine so packende Mahnung so völlig aus dem Sinn zu schla<lb break="no"/>gen! Was aber die „Ausdehnung“ des Begriffes der Sexualität betrifft,<lb/> die durch die Analyse von Kindern und sog. Perversen notwendig wird,<lb/> so mögen alle, die von ihrem „höheren“ Standpunkt verächtlich auf<lb/> die Psychoanalyse herabschauen, sich erinnern lassen, wie <span class="insert-symbol">nahe</span> die erwei<lb break="no"/>terte Sexualität der Psychoanalyse mit dem <u>Eros</u> des göttlichen <u>Plato</u><lb/> zusammentrifft. (S. <u>Nachmansohn</u>, Freuds Libidotheorie verglichen mit<lb/> der Eroslehre Platos, Intern. Zeitschr. f. Psychoanalyse III, 1915).<lb break="paragraph"/></p> <p>Wien, im Mai 1920.<lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
+</TEI>

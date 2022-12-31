@@ -1,86 +1,86 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</title>
-        <title type="manifestation" level="a">[Notizen über die Natur der Sexualität und des Todestriebes] (1920-006/1918)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-        <editor>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </editor>
-        <funder>
-          <name>FWF Der Wissenschaftsfond.</name>
-          <address>
-            <street>Sensengasse 1</street>
-            <postCode>1090 Wien</postCode>
-            <placeName>
-              <country>Österreich</country>
-              <settlement>Wien</settlement>
-            </placeName>
-          </address>
-        </funder>
-      </titleStmt>
-      <editionStmt>
-        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-        <respStmt>
-          <resp>Herausgegeben von</resp>
-          <name>Diercks, Christine</name>
-          <name>Rohrwasser, Michael</name>
-        </respStmt>
-        <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-          <name>Diercks, Christine</name>
-        </respStmt>
-        <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-          <name>Blatow, Arkadi</name>
-        </respStmt>
-        <respStmt>
-          <resp>Diplomatische Umschrift, Lektorat</resp>
-          <name>Diercks, Christine</name>
-          <name>Huber, Christian</name>
-          <name>Kaufmann, Kira</name>
-          <name>Liepold, Sophie</name>
-        </respStmt>
-        <respStmt>
-          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-          <name>Roedelius, Julian</name>
-        </respStmt>
-        <respStmt>
-          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-          <name>Andorfer, Peter</name>
-          <name>Stoxreiter, Daniel</name>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-        <pubPlace>Wien</pubPlace>
-        <date when="2022">2022</date>
-        <availability>
-          <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="work" level="a">Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</title>
+            <title type="manifestation" level="a">[Notizen über die Natur der Sexualität und des Todestriebes] (1920-006/1918)</title>
+            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            <editor>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </editor>
+            <funder>
+               <name>FWF Der Wissenschaftsfond.</name>
+               <address>
+                  <street>Sensengasse 1</street>
+                  <postCode>1090 Wien</postCode>
+                  <placeName>
+                     <country>Österreich</country>
+                     <settlement>Wien</settlement>
+                  </placeName>
+               </address>
+            </funder>
+         </titleStmt>
+         <editionStmt>
+            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+            <respStmt>
+               <resp>Herausgegeben von</resp>
+               <name>Diercks, Christine</name>
+               <name>Rohrwasser, Michael</name>
+            </respStmt>
+            <respStmt>
+               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+               <name>Diercks, Christine</name>
+            </respStmt>
+            <respStmt>
+               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+               <name>Blatow, Arkadi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Diplomatische Umschrift, Lektorat</resp>
+               <name>Diercks, Christine</name>
+               <name>Huber, Christian</name>
+               <name>Kaufmann, Kira</name>
+               <name>Liepold, Sophie</name>
+            </respStmt>
+            <respStmt>
+               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+               <name>Roedelius, Julian</name>
+            </respStmt>
+            <respStmt>
+               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+               <name>Andorfer, Peter</name>
+               <name>Stoxreiter, Daniel</name>
+            </respStmt>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+            <pubPlace>Wien</pubPlace>
+            <date when="2022">2022</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0">
+                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-            <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+                  <p>Hinweise:</p>
+                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-          </licence>
-        </availability>
-      </publicationStmt>
-      <notesStmt>
-        <note type="comment_intern">
-          <p>Bei Hirschmüller unter (2001g)<br/>
+               </licence>
+            </availability>
+         </publicationStmt>
+         <notesStmt>
+            <note type="comment_intern">
+               <p>Bei Hirschmüller unter (2001g)<br/>
 Notizen zu Jenseits des Lustprinzips. [Faksimile und Transkription], in: Sigmund Freud –<br/>
 Stationen eines Lebens, Katalog zur Ausstellung im Sigmund-Freud-Zentrum des Fachkrankenhauses<br/>
 Uchtspringe, hrsg. von Christfried Tögel, Uchtspringe 2001, S. 96f. [Faksimile<br/>
@@ -88,267 +88,217 @@ bereits in:] The Diary of Sigmund Freud, 1929– 1939. A Record of the Final Dec
 annotated, with an introduction by Michael Molnar, New York [usw.] 1992 bzw. London<br/>
 1992, S. XVIII; Sigmund Freud, Tagebuch 1929 –1939. Kürzeste Chronik, hrsg. und eingel.<br/>
 von Michael Molnar, übers. von Christfried Tögel, Basel, Frankfurt am Main 1996, S. 19.</p>
-          <p>Das Faksimile findet sich abgebildet in ›Kürzeste Chronik‹, Seite 19 (s.o.)</p>
-          <p> </p>
-          <p>
-            <span>
-              <span>
-                <strong>Kalenderblätter</strong>
-              </span>
-            </span>
-            <br/>
-            <span>
-              <span>
-                <strong>(Quelle: May , 1913)</strong>
-              </span>
-            </span>
-          </p>
-          <p>
-            <span>
-              <span>Die Originale befinden sich im Freud Museum London. </span>
-            </span>
-            <br/>
-            <span>
-              <span>Das Faksimile des Kalenderblattes Majus 12 danken wir Christfreid Tögel.</span>
-            </span>
-          </p>
-          <p>
-            <span>
-              <span>11 Blätter (Április 9 bis Április 15 und Május 12 bis Május 15) eines ungarischen Kalenders (11,6 x 15,5 cm), auf denen sich nur die Tage und Monate finden, aber nicht das Jahr.</span>
-            </span>
-          </p>
-          <p>
-            <span>
-              <span>Die April-Blätter beinhalten Notizen zu klinischen Themen</span>
-            </span>
-            <br/>
-            <span>
-              <span>Auf dem Blatt vom 15. April findet sich das Datum „29.6.1918“. Das könnte das Datum der letzten Stunde vor der Sommerpause für drei Patienten sein, die im kalender genannt sind. </span>
-            </span>
-          </p>
-          <p>
-            <span>
-              <span>Auf den vier Blättern vom Mai sind Themen des „Jenseits“ notiert. Es finden sich dort auch drei Daten: 15. Juli, 16. Juli 17. Juli.</span>
-            </span>
-            <br/>
-            <span>
-              <span>Diese Notizen könnten zur Vorbereitung des Lamarck-Projeke dienen,d s Freud und Ferenczi für Sommer 1918 planten. </span>
-            </span>
-            <br/>
-            <span>
-              <span>In der übernächsten  Notiz ist vom „Sichsträuben der Triebe gegen Spannungszuwachs“ die Rede, das „aus der Natur der Triebe“  folge, die „auf Abgleichung arbeiten“. </span>
-            </span>
-            <br/>
-            <span>
-              <span>Auch „Vitaldifferenze“ werden erwähnt. </span>
-            </span>
-            <br/>
-            <span>
-              <span>Lipschütz wird auf einem Blatt der Mai-Serie erwähnt, das ist ein hinweis daruauf, dass Freud sich schon zu dieser Zeit mit ihm auseinandersetzte. </span>
-            </span>
-          </p>
-          <p> </p>
-        </note>
-      </notesStmt>
-      <sourceDesc>
-        <listBibl>
-          <head>Publikationsgeschichte</head>
-          <biblStruct xml:id="bibl-1920-006-1920.2">
-            <monogr>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <title type="manifestation-short">Erstausgabe</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1919">
-            <analytic>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1931">
-            <analytic>
-              <title type="manifestation"> Jenseits des Lustprinzips</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Kleinoktavausgabe</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">Kl. 8° [5]</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Wien</pubPlace>
-                <date when="1931-01-03">1931-01-03</date>
-              </imprint>
-              <extent>247 Seiten</extent>
-              <biblScope unit="volume">Theoretische Schriften (1911-1925)</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1923">
-            <monogr>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <title type="manifestation-short">3. Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1920.1">
-            <analytic>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1921">
-            <monogr>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <title type="manifestation-short">2., durchgesehene Auflage</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1925">
-            <analytic>
-              <title type="manifestation">Jenseits des Lustprinzips</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <monogr>
-              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-              <title type="publication-sub"/>
-              <title type="publication-short">GS 6</title>
-              <respStmt>
-                <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-              </respStmt>
-              <imprint>
-                <pubPlace>Zürich</pubPlace>
-                <date when="1925-01-01">1925-01-01</date>
-              </imprint>
-              <extent>257 Seiten</extent>
-              <biblScope unit="volume">6. Band</biblScope>
-            </monogr>
-          </biblStruct>
-          <biblStruct xml:id="bibl-1920-006-1918" type="guidingManifestation">
-            <analytic>
-              <title type="manifestation">[Notizen über die Natur der Sexualität und des Todestriebes]</title>
-              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            </analytic>
-            <relatedItem type="digitisedVersion">
-              <bibl xml:id="bibl__8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5">
-                <title>[Notizen über die Natur der Sexualität und des Todestriebes]</title>
-                <series>
-                  <title type="main">Sigmund Freud Edition</title>
-                  <editor>Diercks, Christine</editor>
-                  <editor>Rohrwasser, Michael</editor>
-                  <idno type="url">https://www.freud-edition.net</idno>
-                </series>
-                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                <respStmt>
-                  <resp>Herausgegeben von</resp>
-                  <name>Diercks, Christine</name>
-                  <name>Rohrwasser, Michael</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+<p>Das Faksimile findet sich abgebildet in ›Kürzeste Chronik‹, Seite 19 (s.o.)</p>
+<p> </p>
+<p><span><span><strong>Kalenderblätter</strong></span></span><br/><span><span><strong>(Quelle: May , 1913)</strong></span></span></p>
+<p><span><span>Die Originale befinden sich im Freud Museum London. </span></span><br/><span><span>Das Faksimile des Kalenderblattes Majus 12 danken wir Christfreid Tögel.</span></span></p>
+<p><span><span>11 Blätter (Április 9 bis Április 15 und Május 12 bis Május 15) eines ungarischen Kalenders (11,6 x 15,5 cm), auf denen sich nur die Tage und Monate finden, aber nicht das Jahr.</span></span></p>
+<p><span><span>Die April-Blätter beinhalten Notizen zu klinischen Themen</span></span><br/><span><span>Auf dem Blatt vom 15. April findet sich das Datum „29.6.1918“. Das könnte das Datum der letzten Stunde vor der Sommerpause für drei Patienten sein, die im kalender genannt sind. </span></span></p>
+<p><span><span>Auf den vier Blättern vom Mai sind Themen des „Jenseits“ notiert. Es finden sich dort auch drei Daten: 15. Juli, 16. Juli 17. Juli.</span></span><br/><span><span>Diese Notizen könnten zur Vorbereitung des Lamarck-Projeke dienen,d s Freud und Ferenczi für Sommer 1918 planten. </span></span><br/><span><span>In der übernächsten  Notiz ist vom „Sichsträuben der Triebe gegen Spannungszuwachs“ die Rede, das „aus der Natur der Triebe“  folge, die „auf Abgleichung arbeiten“. </span></span><br/><span><span>Auch „Vitaldifferenze“ werden erwähnt. </span></span><br/><span><span>Lipschütz wird auf einem Blatt der Mai-Serie erwähnt, das ist ein hinweis daruauf, dass Freud sich schon zu dieser Zeit mit ihm auseinandersetzte. </span></span></p>
+<p> </p>
+            </note>
+            <note type="doc_component">
+               Vollständige Manifestation
+            </note>
+            <note type="man_type">
+               Historische Ausgaben
+            </note>
+         </notesStmt>
+         <sourceDesc>
+            <listBibl>
+               <head>Publikationsgeschichte</head>
+                  <biblStruct xml:id="bibl-1920-006-1920.2">
+                     <monogr>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <title type="manifestation-short">Erstausgabe</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1920-02-01">1920-02-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1919">
+                     <analytic>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1931">
+                     <analytic>
+                        <title type="manifestation"> Jenseits des Lustprinzips</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Kleinoktavausgabe</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">Kl. 8° [5]</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Wien</pubPlace>
+                           <date when="1931-01-03">1931-01-03</date>
+                        </imprint>
+<extent>247 Seiten</extent>                        <biblScope unit="volume">Theoretische Schriften (1911-1925)</biblScope>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006None">
+                     <analytic>
+                        <title type="manifestation">Schmutztitel</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1923">
+                     <monogr>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <title type="manifestation-short">3. Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1923-01-01">1923-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1920.1">
+                     <analytic>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1921">
+                     <monogr>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <title type="manifestation-short">2., durchgesehene Auflage</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <imprint>
+                           <date when="1921-01-01">1921-01-01</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+                  <biblStruct xml:id="bibl-1920-006-1925">
+                     <analytic>
+                        <title type="manifestation">Jenseits des Lustprinzips</title>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                     </analytic>
+                     <monogr>
+                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+                        <title type="publication-sub"/>
+                        <title type="publication-short">GS 6</title>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                        </respStmt>
+                        <imprint>
+                           <pubPlace>Zürich</pubPlace>
+                           <date when="1925-01-01">1925-01-01</date>
+                        </imprint>
+<extent>257 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
+                     </monogr>
+                  </biblStruct>
+               <biblStruct xml:id="bibl-1920-006-1918" type="guidingManifestation">
+                  <analytic>
+                     <title type="manifestation">[Notizen über die Natur der Sexualität und des Todestriebes]</title>
+                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                  </analytic>
+                  <relatedItem type="digitisedVersion">
+                     <bibl xml:id="bibl__8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5">
+                        <title>[Notizen über die Natur der Sexualität und des Todestriebes]</title>
+                        <series>
+                           <title type="main">Sigmund Freud Edition</title>
+                           <editor>Diercks, Christine</editor>
+                           <editor>Rohrwasser, Michael</editor>
+                           <idno type="url">https://www.freud-edition.net</idno>
+                        </series>
+                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                        <respStmt>
+                           <resp>Herausgegeben von</resp>
+                           <name>Diercks, Christine</name>
+                           <name>Rohrwasser, Michael</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                  <name>Diercks, Christine</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                           <name>Diercks, Christine</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                  <name>Blatow, Arkadi</name>
-                </respStmt>
-                <respStmt>
-                  <resp>Diplomatische Umschrift, Lektorat</resp>
-                  <name>Huber, Christian</name>
-                  <name>Kaufmann, Kira</name>
-                  <name>Liepold, Sophie</name>
-                </respStmt>
-                <date when="2022">2022</date>
-                <idno type="signature">1920-006/1918</idno>
-                <idno type="url">https://www.freud-edition.net/werke/notizen-uber-die-natur-der-sexualitat-und-des-todestriebes/notiz</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5</idno>
-                <relatedItem type="work">
-                  <bibl xml:id="bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">
-                    <title>Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</title>
-                    <idno type="url">https://www.freud-edition.net/jenseits-des-lustprinzips</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0e8b07dc-123f-4554-8139-c7b15a75aaaf</idno>
-                  </bibl>
-                </relatedItem>
-              </bibl>
-            </relatedItem>
-            <relatedItem type="exemplar">
-              <msDesc>
-                <msIdentifier>
-                  <repository>Privatarchiv Christfried Tögel</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
-                </msIdentifier>
-                <physDesc>
-                  <objectDesc>
-                    <supportDesc>
-                      <support>
+                           <name>Blatow, Arkadi</name>
+                        </respStmt>
+                        <respStmt>
+                           <resp>Diplomatische Umschrift, Lektorat</resp>
+                           <name>Huber, Christian</name>
+                           <name>Kaufmann, Kira</name>
+                           <name>Liepold, Sophie</name>
+                        </respStmt>
+                        <date when="2022">2022</date>
+                        <idno type="signature">1920-006/1918</idno>
+                        <idno type="url">https://www.freud-edition.net/werke/notizen-uber-die-natur-der-sexualitat-und-des-todestriebes/notiz</idno>
+                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8fd1dc6c-ac24-427f-a54c-c6f8e2910ce5</idno>
+                        <relatedItem type="work">
+                           <bibl xml:id="bibl__0e8b07dc-123f-4554-8139-c7b15a75aaaf">
+                              <title>Freud, Sigmund  (1920-006; 1920g): Jenseits des Lustprinzips</title>
+                              <idno type="url">https://www.freud-edition.net/jenseits-des-lustprinzips</idno>
+                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/0e8b07dc-123f-4554-8139-c7b15a75aaaf</idno>
+                           </bibl>
+                        </relatedItem>
+                     </bibl>
+                  </relatedItem>
+                  <relatedItem type="exemplar">
+                     <msDesc>
+                        <msIdentifier>
+                           <repository>Privatarchiv Christfried Tögel</repository>
+                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7c6ff5c3-425e-45a9-9452-7441f1f81051</idno>
+                        </msIdentifier>
+                        <physDesc>
+                           <objectDesc>
+                              <supportDesc>
+                                 <support>
 Blatt/Blätter aus <material>Papier</material> in Handschrift (Kurrent) .                                 </support>
-                    </supportDesc>
-                  </objectDesc>
-                  <handDesc>
-                    <p>Handschrift (Kurrent) </p>
-                  </handDesc>
-                  <typeDesc>
-                    <p>Notiz</p>
-                  </typeDesc>
-                </physDesc>
-              </msDesc>
-            </relatedItem>
-          </biblStruct>
-        </listBibl>
-      </sourceDesc>
-    </fileDesc>
-    <encodingDesc>
-      <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-      </tagsDecl>
-    </encodingDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="de">Deutsch</language>
-      </langUsage>
-    </profileDesc>
-    <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-19">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
-    </revisionDesc>
-  </teiHeader>
-  <text>
-    <body>
-      <div>
-        <pb n="1" xml:id="page__67f028be-d1f2-43ae-9a52-e303a57886a3"/>
-        <p>15 Juli<lb/> MÁJUS<lb/> 12<lb break="paragraph"/>
-        </p>
-        <p>In sex Vereinigg wiederholt sich<lb/> in Andeutung des Urereignis<lb/> der Belebung des Leblosen.<lb/> --<lb break="no"/>Todestriebe maskirt als Lebens<lb break="no"/>triebe, Sextr schienen zu Tod<lb/> zu führen. Gegenteil tat<lb break="no"/>sächlich<lb/> --<lb break="no"/>Ein <span class="unclear">Optimum</span> d. Vitaldifferenz<lb/> --<lb break="no"/>Das <span class="unclear">sich</span> Sträuben der Triebe gegen<lb/> Spannungszuwachs folgt aus<lb/> Natur der Triebe, die auf<lb/> Abgelichung arbeiten<lb break="paragraph"/>
-        </p>
-        <p>[aditorische Anmerkung: rechts ober dem "M" bei "MÁJUS " findet sich ein Punkt, aber ein entsprechendes diakritisches Zeichen im Ungarischen findet sich nicht.]<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-        <p>[Transkription fußt auf der diplomtischen Umschrift von Christfreid Töge, Katalog Uchtspringen 2001. ]<lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-        <p>
-          <lb break="paragraph"/>
-        </p>
-      </div>
-    </body>
-  </text>
+                              </supportDesc>
+                           </objectDesc>
+                           <handDesc>
+                              <p>Handschrift (Kurrent) </p>
+                           </handDesc>
+                           <typeDesc>
+                              <p>Notiz</p>
+                           </typeDesc>
+                        </physDesc>
+                     </msDesc>
+                  </relatedItem>
+               </biblStruct>
+            </listBibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <tagsDecl>
+            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+         </tagsDecl>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="de">Deutsch</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc status="proposed">
+         <change who="#dstoxreiter" when="2022-12-31">
+            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
+         </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body><div>
+         
+            <pb n="1" xml:id="page__67f028be-d1f2-43ae-9a52-e303a57886a3"/>
+            <p>15 Juli<lb/> MÁJUS<lb/> 12<lb break="paragraph"/></p> <p>In sex Vereinigg wiederholt sich<lb/> in Andeutung des Urereignis<lb/> der Belebung des Leblosen.<lb/> --<lb break="no"/>Todestriebe maskirt als Lebens<lb break="no"/>triebe, Sextr schienen zu Tod<lb/> zu führen. Gegenteil tat<lb break="no"/>sächlich<lb/> --<lb break="no"/>Ein <span class="unclear">Optimum</span> d. Vitaldifferenz<lb/> --<lb break="no"/>Das <span class="unclear">sich</span> Sträuben der Triebe gegen<lb/> Spannungszuwachs folgt aus<lb/> Natur der Triebe, die auf<lb/> Abgelichung arbeiten<lb break="paragraph"/></p> <p>[aditorische Anmerkung: rechts ober dem "M" bei "MÁJUS " findet sich ein Punkt, aber ein entsprechendes diakritisches Zeichen im Ungarischen findet sich nicht.]<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p>[Transkription fußt auf der diplomtischen Umschrift von Christfreid Töge, Katalog Uchtspringen 2001. ]<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
+         
+      </div></body>
+   </text>
 </TEI>
