@@ -1,223 +1,223 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
-            <title type="manifestation" level="a">Stellungnahme zum Fall Prof. Dr. Beer (1905-008/1905)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
+        <title type="manifestation" level="a">Stellungnahme zum Fall Prof. Dr. Beer (1905-008/1905)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>1. Korr OCR KK</p>
-<p>2. Korr. KK</p>
-<p>3. Korr. CH</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1905-008-1905" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Die Zeit</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1905-10-27">1905-10-27</date>
-                     </imprint>
-                     <extent>5</extent>
-                     <biblScope unit="volume">Nr. 1110</biblScope>
-                     <biblScope unit="year">4</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
-                        <title>Stellungnahme zum Fall Prof. Dr. Beer</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>1. Korr OCR KK</p>
+          <p>2. Korr. KK</p>
+          <p>3. Korr. CH</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1905-008-1905" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Stellungnahme zum Fall Prof. Dr. Beer</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Die Zeit</title>
+              <title type="publication-sub">Morgenblatt</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__99e22fa5-423c-4e87-be56-e5d417a90fd6">Kanner, Heinrich</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1905-10-27">1905-10-27</date>
+              </imprint>
+              <extent>5</extent>
+              <biblScope unit="volume">Nr. 1110</biblScope>
+              <biblScope unit="year">4</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__3ebb12b3-4c49-4eaa-b297-9ad812a172cf">
+                <title>Stellungnahme zum Fall Prof. Dr. Beer</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1905-008/1905</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zum-fall-prof-dr-beer/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
-                              <title>Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zum-fall-prof-dr-beer</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/92ef542d-8b7e-451f-9db2-468e0006caa7</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1905-008/1905</idno>
+                <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zum-fall-prof-dr-beer/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3ebb12b3-4c49-4eaa-b297-9ad812a172cf</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__92ef542d-8b7e-451f-9db2-468e0006caa7">
+                    <title>Freud, Sigmund  (1905-008; 1905h): Stellungnahme zum Fall Prof. Dr. Beer</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zum-fall-prof-dr-beer</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/92ef542d-8b7e-451f-9db2-468e0006caa7</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="2" xml:id="page__174a2143-0a1c-4f29-b1be-71b6a1e6a80b"/>
-            <fw type="pageNum">Seite 5</fw> <p>Nr. 1110 Wien, Freitag DIE ZEIT 27. OKTOBER 1905 <lb break="paragraph"/></p> <p><hi rendition="#bold">Prof. Dr. Siegmund Freud.</hi><lb break="paragraph"/></p> <p>Prof. Dr. <hi rendition="#smallcaps">Freud</hi>, den wir in den Nach<lb break="no"/>mittagsstunden aufsuchten, äußerte sich ungefähr<lb/> folgendermaßen: Auf die Affäre des Prof. <lb/> Beer kann ich im besonderen nicht eingehen, weil<lb/> ich einzig und allein auf die Zeitungsberichte an<lb break="no"/>gewiesen bin und ich mir kein Urteil bilden<lb/> kann, ob die Aussagen der beiden Knaben oder<lb/> die Verteidigung des Angeklagten richtig sind.<lb/> Ich verfechte gleich vielen Gelehrten den Stand<lb break="no"/>punkt, daß der Homosexuelle <hi rendition="#smallcaps">nicht</hi> vor das<lb/> Forum deines <hi rendition="#smallcaps">Gerichtshofes</hi> gehört. Ich<lb/> bin sogar der festen Ueberzeugung, daß Homo<lb break="no"/>sexuelle <hi rendition="#smallcaps">nicht</hi> als Kranke behandelt werden<lb/> müssen, denn der pervers Veranlagte ist deshalb<lb/> noch lange nicht krank. Müßten wir dann nicht<lb/> viele große Denker und Gelehrte aller Zeiten,<lb/> von deren perverser Veranlagung wir Be<lb break="no"/>stimmtes wissen und von denen wir gerade<lb/> ihren gesunden Geist bewundern, als <hi rendition="#smallcaps">krank<lb break="no"/>hafte</hi> Menschen bezeichnen? <hi rendition="#smallcaps">Homo<lb break="no"/>sexuelle Personen sind nicht krank<lb break="no"/>haft</hi>, sie gehören aber auch <hi rendition="#smallcaps">nicht vor den<lb/> Gerichtshof</hi>! Sowohl bei uns in Oester<lb break="no"/>reich als noch in weit größerem Umfang in<lb/> Deutschland ist eine mächtige Bewegung im<lb/> Zuge, den Paragraph des Gesetzbuches, der sich<lb/> gegen die Perversen wendet, zu eliminieren. Der<lb/> Bewegung haben sich bedeutende Gelehrte an<lb break="no"/>geschlossen, und sie wird immer größere Kreise<lb/> ziehen, bis sie zu einem endgültigen Erfolg ge<lb break="no"/>langen wird. Anders verhält es sich jedoch in<lb/> einem Falle wie dem des Prof. Beer, voraus<lb break="no"/>gesetzt daß er schuldig ist. Der Angeklagte hat<lb/> sich in diesem Falle an <hi rendition="#smallcaps">Kindern unter<lb/> 14 Jahren</hi> vergriffen, und ein solcher<lb/> Mensch muß vor dem <hi rendition="#smallcaps">Gerichtshof ab<lb break="no"/>geurteilt werden</hi>. Die Verurteilung<lb/> müßte aus demselben Grund erfolgen, als ob<lb/> ein <hi rendition="#smallcaps">Mädchen</hi> unter 14 Jahren geschlecht<lb break="no"/>lich mißbraucht worden wäre, und zwar müßte<lb/> wegen Notzucht, Verführung oder Schändung<lb/> die Anklage erhoben werden. Eine Verurteilung<lb/> zweier erwachsener Personen wegen homo<lb break="no"/>sexuellen Verkehrs ist zu bedauern; ein Mensch,<lb/> der <hi rendition="#smallcaps">Knaben</hi> mißbraucht hat, die noch nicht<lb/> das gesetzliche Alter erreicht haben, soll verurteilt<lb/> werden. Dies ist meine Meinung, und diese<lb/> dürfte wohl eine große Anzahl meiner Kollegen<lb/> teilen.<lb/> <lb break="paragraph"/></p>
-         
-         
-            <pb n="1" xml:id="page__6407f7af-7dd5-45ec-96d5-6c166a54282a"/>
-            <p>BLANK<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="2" xml:id="page__174a2143-0a1c-4f29-b1be-71b6a1e6a80b"/>
+        <fw type="pageNum">Seite 5</fw>
+        <p>Nr. 1110 Wien, Freitag DIE ZEIT 27. OKTOBER 1905 <lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#bold">Prof. Dr. Siegmund Freud.</hi>
+          <lb break="paragraph"/>
+        </p>
+        <p>Prof. Dr. <hi rendition="#smallcaps">Freud</hi>, den wir in den Nach<lb break="no"/>mittagsstunden aufsuchten, äußerte sich ungefähr<lb/> folgendermaßen: Auf die Affäre des Prof. <lb/> Beer kann ich im besonderen nicht eingehen, weil<lb/> ich einzig und allein auf die Zeitungsberichte an<lb break="no"/>gewiesen bin und ich mir kein Urteil bilden<lb/> kann, ob die Aussagen der beiden Knaben oder<lb/> die Verteidigung des Angeklagten richtig sind.<lb/> Ich verfechte gleich vielen Gelehrten den Stand<lb break="no"/>punkt, daß der Homosexuelle <hi rendition="#smallcaps">nicht</hi> vor das<lb/> Forum deines <hi rendition="#smallcaps">Gerichtshofes</hi> gehört. Ich<lb/> bin sogar der festen Ueberzeugung, daß Homo<lb break="no"/>sexuelle <hi rendition="#smallcaps">nicht</hi> als Kranke behandelt werden<lb/> müssen, denn der pervers Veranlagte ist deshalb<lb/> noch lange nicht krank. Müßten wir dann nicht<lb/> viele große Denker und Gelehrte aller Zeiten,<lb/> von deren perverser Veranlagung wir Be<lb break="no"/>stimmtes wissen und von denen wir gerade<lb/> ihren gesunden Geist bewundern, als <hi rendition="#smallcaps">krank<lb break="no"/>hafte</hi> Menschen bezeichnen? <hi rendition="#smallcaps">Homo<lb break="no"/>sexuelle Personen sind nicht krank<lb break="no"/>haft</hi>, sie gehören aber auch <hi rendition="#smallcaps">nicht vor den<lb/> Gerichtshof</hi>! Sowohl bei uns in Oester<lb break="no"/>reich als noch in weit größerem Umfang in<lb/> Deutschland ist eine mächtige Bewegung im<lb/> Zuge, den Paragraph des Gesetzbuches, der sich<lb/> gegen die Perversen wendet, zu eliminieren. Der<lb/> Bewegung haben sich bedeutende Gelehrte an<lb break="no"/>geschlossen, und sie wird immer größere Kreise<lb/> ziehen, bis sie zu einem endgültigen Erfolg ge<lb break="no"/>langen wird. Anders verhält es sich jedoch in<lb/> einem Falle wie dem des Prof. Beer, voraus<lb break="no"/>gesetzt daß er schuldig ist. Der Angeklagte hat<lb/> sich in diesem Falle an <hi rendition="#smallcaps">Kindern unter<lb/> 14 Jahren</hi> vergriffen, und ein solcher<lb/> Mensch muß vor dem <hi rendition="#smallcaps">Gerichtshof ab<lb break="no"/>geurteilt werden</hi>. Die Verurteilung<lb/> müßte aus demselben Grund erfolgen, als ob<lb/> ein <hi rendition="#smallcaps">Mädchen</hi> unter 14 Jahren geschlecht<lb break="no"/>lich mißbraucht worden wäre, und zwar müßte<lb/> wegen Notzucht, Verführung oder Schändung<lb/> die Anklage erhoben werden. Eine Verurteilung<lb/> zweier erwachsener Personen wegen homo<lb break="no"/>sexuellen Verkehrs ist zu bedauern; ein Mensch,<lb/> der <hi rendition="#smallcaps">Knaben</hi> mißbraucht hat, die noch nicht<lb/> das gesetzliche Alter erreicht haben, soll verurteilt<lb/> werden. Dies ist meine Meinung, und diese<lb/> dürfte wohl eine große Anzahl meiner Kollegen<lb/> teilen.<lb/>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="1" xml:id="page__6407f7af-7dd5-45ec-96d5-6c166a54282a"/>
+        <p>BLANK<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

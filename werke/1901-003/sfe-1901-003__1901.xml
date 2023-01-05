@@ -1,215 +1,210 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
-            <title type="manifestation" level="a">Freud, Sigm. [autobiographischer Artikel] (1901-003/1901)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
+        <title type="manifestation" level="a">Freud, Sigm. [autobiographischer Artikel] (1901-003/1901)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>1. OCR Korr. KK</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1901-003-1901" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
-                     <title type="publication-sub">Mit einer historischen Einleitung</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1901-01-01">1901-01-01</date>
-                     </imprint>
-                     <extent>545</extent>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__81ed2a14-0c9c-4800-b220-e6e408de6141">
-                        <title>Freud, Sigm. [autobiographischer Artikel]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>1. OCR Korr. KK</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1901-003-1901" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Freud, Sigm. [autobiographischer Artikel]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts</title>
+              <title type="publication-sub">Mit einer historischen Einleitung</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__90d64f30-6e6c-49e3-a49f-205e801ca923">Pagel, Julius Leopold</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1901-01-01">1901-01-01</date>
+              </imprint>
+              <extent>545</extent>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__81ed2a14-0c9c-4800-b220-e6e408de6141">
+                <title>Freud, Sigm. [autobiographischer Artikel]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1901-003/1901</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/freud-sigm-autobiographischer-artikel/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/81ed2a14-0c9c-4800-b220-e6e408de6141</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__15142ffb-3fac-4fce-90ba-050e63102267">
-                              <title>Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigm-biographisches-lexikon-hervorragender-arzte-des-neunzehnten</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/15142ffb-3fac-4fce-90ba-050e63102267</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1901-003/1901</idno>
+                <idno type="url">https://www.freud-edition.net/werke/freud-sigm-autobiographischer-artikel/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/81ed2a14-0c9c-4800-b220-e6e408de6141</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__15142ffb-3fac-4fce-90ba-050e63102267">
+                    <title>Freud, Sigmund  (1901-003; 1901c): Freud, Sigm. [›Biographisches Lexikon hervorragender Ärzte des neunzehnten Jahrhunderts‹]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigm-biographisches-lexikon-hervorragender-arzte-des-neunzehnten</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/15142ffb-3fac-4fce-90ba-050e63102267</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__2e687553-363d-42cd-a7a2-5b7b936b2de1"/>
-            <fw type="pageNum">545</fw> <p><hi rendition="#bold">Freud</hi>, Sigm., Wien, geb 6. Mai<lb/> 1856 Freiberg, Mähren, studierte in Wien,<lb/> Schüler des Physiologen BRÜCKE, Promo<lb break="no"/>tion 1881, 1885/6 Schüler von CHARCOT in<lb/> Paris, habilitiert f. Neuropathologie 1885<lb/> in Wien, wirkt als Arzt und Dozent an<lb/> der Wiener Universität seit 1886, zum Prof.<lb/> extraord. vorgeschlagen 1897. F. verfasste<lb/> früher histologische und hirnanatom. Ar<lb break="no"/>beiten, dann neuropathol. Kasuistik, über<lb break="no"/>setzte nach CHARCOT und BERNHEIM 1884<lb/> „<hi rendition="#em">Über Coca</hi>“, welche Abhandlung das<lb/> Cocain in die Medizin einführte, 1891<lb/> „<hi rendition="#em">Zur Auffassung der Aphasien</hi>“, 1891 und<lb/> 1893 Monographien über die cerebrale<lb/> Kinderlähmung, die 1897 in dem Buch über<lb/> Infantile Cerebrallähmung in NOTHNAGEL’S<lb/> Handbuch gipfeln, 1895 „<hi rendition="#em">Studien über<lb/> Hysterie</hi>“ (mit Dr. J. BREUER). Seither<lb/> wandte sich F. dem Studium der Psycho<lb break="no"/>neurosen insbes. Hysterie zu und betonte<lb/> in einer Reihe von kleineren Arbeiten die<lb/> aetiologische Bedeutung des Sexuallebens<lb/> für die Neurosen, auch arbeitete er eine<lb/> neue Psychotherapie der Hysterie aus,<lb/> von der erst das Wenigste publiziert ist.<lb/> Ein Buch „<hi rendition="#em">Die Traumdeutung</hi>“ ist unter<lb/> der Presse.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__2e687553-363d-42cd-a7a2-5b7b936b2de1"/>
+        <fw type="pageNum">545</fw>
+        <p>
+          <hi rendition="#bold">Freud</hi>, Sigm., Wien, geb 6. Mai<lb/> 1856 Freiberg, Mähren, studierte in Wien,<lb/> Schüler des Physiologen BRÜCKE, Promo<lb break="no"/>tion 1881, 1885/6 Schüler von CHARCOT in<lb/> Paris, habilitiert f. Neuropathologie 1885<lb/> in Wien, wirkt als Arzt und Dozent an<lb/> der Wiener Universität seit 1886, zum Prof.<lb/> extraord. vorgeschlagen 1897. F. verfasste<lb/> früher histologische und hirnanatom. Ar<lb break="no"/>beiten, dann neuropathol. Kasuistik, über<lb break="no"/>setzte nach CHARCOT und BERNHEIM 1884<lb/> „<hi rendition="#em">Über Coca</hi>“, welche Abhandlung das<lb/> Cocain in die Medizin einführte, 1891<lb/> „<hi rendition="#em">Zur Auffassung der Aphasien</hi>“, 1891 und<lb/> 1893 Monographien über die cerebrale<lb/> Kinderlähmung, die 1897 in dem Buch über<lb/> Infantile Cerebrallähmung in NOTHNAGEL’S<lb/> Handbuch gipfeln, 1895 „<hi rendition="#em">Studien über<lb/> Hysterie</hi>“ (mit Dr. J. BREUER). Seither<lb/> wandte sich F. dem Studium der Psycho<lb break="no"/>neurosen insbes. Hysterie zu und betonte<lb/> in einer Reihe von kleineren Arbeiten die<lb/> aetiologische Bedeutung des Sexuallebens<lb/> für die Neurosen, auch arbeitete er eine<lb/> neue Psychotherapie der Hysterie aus,<lb/> von der erst das Wenigste publiziert ist.<lb/> Ein Buch „<hi rendition="#em">Die Traumdeutung</hi>“ ist unter<lb/> der Presse.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

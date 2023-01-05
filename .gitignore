@@ -4,6 +4,9 @@
 /new_facs
 move_files.py
 /werke_copy
+/werke_filter
+/werke_no_filter
+/logs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

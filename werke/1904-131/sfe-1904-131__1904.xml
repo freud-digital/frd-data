@@ -1,226 +1,274 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1904-131; 1904h): [Diskussionsbeiträge: Psychologische Mittwoch-Gesellschaft]</title>
-            <title type="manifestation" level="a">Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft] (1904-131/1904)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1904-131; 1904h): [Diskussionsbeiträge: Psychologische Mittwoch-Gesellschaft]</title>
+        <title type="manifestation" level="a">Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft] (1904-131/1904)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1904-131-1904" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Die Wage</title>
-                     <title type="publication-sub">Eine Wiener Wochenschrift</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__7b26892a-c3a4-4f9c-b106-524f7d637139">Strauss, Rudolf</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1904-05-21">1904-05-21</date>
-                     </imprint>
-                     <extent>455 Seiten</extent>
-                     <biblScope unit="volume">Nr. 21</biblScope>
-                     <biblScope unit="year">7</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__cd9c3ebe-f651-473c-9a44-b15237acf144">
-                        <title>Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1904-131-1904" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Die Wage</title>
+              <title type="publication-sub">Eine Wiener Wochenschrift</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__7b26892a-c3a4-4f9c-b106-524f7d637139">Strauss, Rudolf</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1904-05-21">1904-05-21</date>
+              </imprint>
+              <extent>455 Seiten</extent>
+              <biblScope unit="volume">Nr. 21</biblScope>
+              <biblScope unit="year">7</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__cd9c3ebe-f651-473c-9a44-b15237acf144">
+                <title>Diskussionsbeiträge [Psychologische Mittwoch-Gesellschaft]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1904-131/1904</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/diskussionsbeitrage-psychologische-mittwoch-gesellschaft/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/cd9c3ebe-f651-473c-9a44-b15237acf144</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__b4a56cbd-6b8a-4db6-b949-40b60c085e36">
-                              <title>Freud, Sigmund  (1904-131; 1904h): [Diskussionsbeiträge: Psychologische Mittwoch-Gesellschaft]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/diskussionsbeitrage-psychologische-mittwoch-gesellschaft-0</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/b4a56cbd-6b8a-4db6-b949-40b60c085e36</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1904-131/1904</idno>
+                <idno type="url">https://www.freud-edition.net/werke/diskussionsbeitrage-psychologische-mittwoch-gesellschaft/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/cd9c3ebe-f651-473c-9a44-b15237acf144</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__b4a56cbd-6b8a-4db6-b949-40b60c085e36">
+                    <title>Freud, Sigmund  (1904-131; 1904h): [Diskussionsbeiträge: Psychologische Mittwoch-Gesellschaft]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/diskussionsbeitrage-psychologische-mittwoch-gesellschaft-0</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/b4a56cbd-6b8a-4db6-b949-40b60c085e36</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__ffc95739-5b8b-4ee3-ba02-f8843830fd6d"/>
-            <p>452<lb break="paragraph"/></p> <p>verloren. iRuf;lanb hat viele Sliieberlagen erlitten, 58anferott bat eä nie<lb/> gemacht. ißenn hie frang,öfifdyen ©läulriger bie 3niereffen ibreß @elbeé<lb/> erbalten, mirb %ranfreid; fein fd;lecbte5 ©efcl;äft gemacht haben.<lb break="paragraph"/></p> <p>über hat eé nidbt im; 9iecbt, feinem %erbiinbeten freunbfcbuftlid;en<lb/> äRnt su geben? 3ar 91leganber III. fagie ben %rangofen: „©eib Hart!"<lb/> ‘Der ﬂugenblid? ift gefummen, bu %ranfreicl; feinerfeitß fagt: „©eib<lb/> ftarf!” 233enn bie ruffifcl;e 2Regiernng in bein S?riege fiat! fein, wenn fie<lb/> -baä finan5ielle 58ertrauen einflöfaen will, ba€ notmenbig ift, um ibrer<lb/> 11nterfclyrift ®eltung au nerfd;affen, bann muß fie ‘Die 25ebingungen<lb/> begreifen, unter benen ein moberner @taat ftarf fein farm. Smpan<lb/> wäre feine grnfee £Utilitürmadät gemorben, bätte eä nicht fein innere;<lb/> (äußern mobifig,iert. 5Daä ruffifd;e %Reicl; but nicht ben Ilmfturg, nötig. (EQ<lb/> farm mit einem 8ar non guten 3ntentinnen fogar feine autofmtifcbe<lb/> Silionarcbie beibehalten. QIber ber moberne $?rieg “erlangt und; ein<lb/> 2Uiinimum mnberner $nftitntionen, folcber, Die hie @ffeftuierung ber %er:<lb/> träge mit ben Sieferanten unb Die 9lu5fiif)rung ber 23efeble him!) bag?<lb/> 2\3erfnnal ficl;em. @ine mirllicl;e uni) ftrenge libermuclyung ber $Beumten<lb/> ift nötig, unb biefe 11bermnebung farm nur burrl; ein (Enbeben ‘.Bref;=<lb/> freibeit herbeigeführt merben.<lb break="paragraph"/></p> <p>i9r. Mülheim älekel.<lb/> äulnernliatnuß mtb @ef'unblgeif.<lb break="paragraph"/></p> <p>Motto: 3miid;en @innenglüd mtb 6eelenfrieben<lb/> &gt;Bleibi Dem Mmfebeu nur nie bung: 513ui)‘.<lb/> 5dyiller („59a3 3beul unb buä Sieben“).<lb break="paragraph"/></p> <p>Sn einer: Heinen ©efellfd)uft bon ‘5Irgten entffmtm fiel; bei: einiger ,8eit eine<lb/> längere Sbebatte über ben ®d')uben ber ﬂllafturbation. $ft Die 9nunie fd)äblieb?<lb/> Hub inmiefem?<lb break="paragraph"/></p> <p>&amp; 5eigte furl), Daß ieüer eingelne ber btebner einen anberen 6tnnbpunlt ner:<lb/> trat, fo mg id) als legter mit iRet'bt fagen tunnte, e8 iomme mnbl bei feiner zweiten<lb/> %ruge fo viel auf Das Sﬁbibibuum felbfi an als gerabe bei Der bei! 2lutoerntismue.<lb/> SDie %rage wäre nur inbibibuell an löfen.<lb break="paragraph"/></p> <p>(Es entfpriel;t einer nun fnft überhauubenen groben maierialiftifcb=mecbanifelfen<lb/> 9Infdfauung, wenn beifbielémeife ©ruber in {einem ßuebe: „iDie @)Qiene bee<lb/> ©ef®leclatßlebens, burgeftellt fiir %änner" (©mttgurt, @rnft ©einricb ?!)?orij),<lb/> folgenbeß fummarifé ausfübu: „(EB ifi nicht ein3ufeben, warum es fd)äblidaer fein<lb/> full, marum bie nerböfe @rfcblitterung gröﬁer fein full, menu Die med)anifd)e Gin=<lb/> mirfung auf einem unberen Wege vor fiel) gebt als beim natürlicben Roitu8. Elliiif;ig<lb/> betriebenes Dnemiereri ift ben! ©:fd;lerbtßreifen meniger fni;'eibli_d), als ber unter;<lb/> brodaene 58eifcbluf ®ie 92eigung 5nr Dnanie verliert ber gefunbe 9Runn fnfort, wenn<lb/> er nen normalen ®efcbleibtßberlebr Yemen gelernt bat. 5Die€ in Der @runb Dafür,<lb/> bn8 hingen Elliilrmem häufig Der Start erteilt mir!; , ‘Brcfiiiuierte uufgnfuei)en. Sri)<lb/> halte hieß für: eine bermerflicbe torbeit, Denn — um von allem anberen 3u<lb/> fd)kneigen —- _bu5 Duanieren ift für ben ©efd)ledfléreifen ein viel<lb/> geringeres übel als Die nenerifd;en .Qranlbeiten, Die man fill; im 23er:<lb/> febre mit ‘Srufkituierten früher ober fp'titer fafi mit ©id)eelfeit holt.<lb/> (Einen 11nreifen aber ft!!!)3eitig 5um ßeifrlflaf nerlnden, bie8e erft<lb/> recht ibn völlig lnrrumpieren."<lb break="paragraph"/></p> <p>(ES ifl merlmürbig, in melrl;en @;tremen frei; Die @elebrten bin= nnb herz<lb/> bemegen. @ ift nur!) nid)! lange ber, ba wollte man fiimtlid)e 92ernenlranlbeiten<lb/> als {folgen ber ilﬂaf'tnrlaution unfpreeben. %übren mir que ber trefflid;en ®hxbie mm<lb/> ©ubeloct @llie über ben 2lutoerotismus einige biefei: angeblichen 8-olgen bei: 9Rafluß<lb/> butinn an: 3rrfmn, @pilepﬁe, 3ablreicbe ?.lrten von %ugenfrunlheiten, ©upraorbital=<lb/> .Robfﬂ'ßmetgen, 9ecipitalfopffd;meraen (@pifgla), feltfame @mpﬁnbungen in Der<lb/> @d)tiltigegeuh (©anage), nerfd;iebene ?Irten bon Weuralgie (?qutic, (Ebapmnn), @ms<lb/> Q:fmblid)lert Der .ijaut in ber unteren 272üclengegenb (€bapman), @nwfinolidﬂeitg bei:<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__175cdb36-7cec-41a8-8e2b-a28818bd4394"/>
-            <p>453<lb break="paragraph"/></p> <p>$ri‘nie (ﬂacaffagne), ?l'fthma (h3eher), baä =?Iuitreien non ‘Buﬁeln auf $Z8unben (8ara<lb/> bnc), 9llne mtb anbere ajantausiﬁhlüge (9lntnr kann Dnnnie nnb (Elim’on), erweiterte<lb/> $upillen (©fene, Qemiß, Moraglin), nach oben aber feitmüet6 gerichtete ‘.ßupillen<lb/> (‘Bauillet), bnntlc 9iinge um .bie 9Ingen, inhmer3hafte SDtenßruutien, (S}. Cihap=<lb/> man), llterne= nnb $aginalfatnrrh (ilßincfel, $ouillet), .ßt)pertrbphie ber @eithled)tß=<lb/> organe, blaffe nnb miﬁgeförhle baut ($emie, ﬂJtnraglia), 92afenrbte (©rnner), i'iaien=<lb/> hlnten (Saal, 3- ‘Ji. 2Dtatfen5ie), franlhatteﬁieränberungen in ber 92aie (Spieß), frampf=<lb/> haftet @uften in ber *Bnhertät (©nmere), nnmilitiirlicher .Sjnrnflnﬁ hei jungen 2l!lüblhetr<lb/> (®ieanbean), %ar3en an ben ©änben bei %raucn (iDüre, Etiechmar, n. She), @ehiir=<lb/> unb ©erud)hallngilultienext (©rieﬁinger, 8ewiﬁ), ﬂarre ©altlmg, 3nbiean im „Urin<lb/> (©ertee), ein nnheithreihlid)er @ermh ber ©ant bei El'ßeihe8 (©fene)!‘ (fie biete 9lr5te.<lb/> 233ie übertrieben unb einfeitigl über ein Rötnthell !Bahrheit mirb wohl<lb/> bahei iein. ©ruher iebnrh ﬁeht im ©runbe genommen teinen'llnterfd)ieb ginifdjen<lb/> ben nerfchiebenen %uvmen bee (£rotißmne, meint aher, bie ®elegenheit ﬁne 2Utaftue=<lb/> batinn {ei viel größer, Die 28erlmfung ,nn: Ilnmöﬁigfeit maehfe unb ﬁe merbe aueh<lb/> bon ©eichled;tennreiien ausgeführt, maß ielhftnerftänblid; [ehüblich fei.<lb break="paragraph"/></p> <p>©eiegt ben %all, ee beﬂünben feine phhﬁlchen llnterirhiebe ,z,mifd;en einfeitigem<lb/> @reti6muß unb benz 23eifchlafe, geith ben %nll, ee hanble ﬁel; nicht um Za‘ereinigung<lb/> beeirhiebenartiger elettriichet ®trbme aber nnberer bunlfler Rräfte, {a laﬁen fuh<lb/> noch eine ﬂteihe pihd;iicher Momente anführen, Die ben Ilnterfrhieb 3wiiehen biefen<lb/> 'heiben $armen bet ©erualität nerftünblicher machen. éBei alten fepnel'len Qiften<lb/> hanbelt es {id} nach ben 9Iu5führungen 5920116, bie mir bee ©d;emaß halber bei:<lb/> behalten, um gmeieelei Remponenten bei; ©epllultrieheé, um ben Rnntreftntinnß= unb<lb/> um ben ®eiumef5engtrieh (ßerührungä: unb @ntlabungetrieh). 9?un ift eb Blur, ba8<lb/> been ®etnmeigengtrieh aueh br.er üutoerotiömuﬂ @enüge geleiftet merken fann,<lb/> müheenb ber Ronteeftationßtrieb nur bnrch mutueﬂen (Erotißmuß befriebigt mirb, weil<lb/> er ein tenleä Dhjeft veraußfeht. ”biete (Einteilung bringt uns aber Der ﬂöiung<lb/> unierer {frage nieht näher. %ir mögen ben Steieh in bie nerfchiebenßen &amp;amponenten<lb/> 3erlegen, bie (Erftiirung, me8hulb bie $efriebignng ber einen anpnnmte [chäbliehee<lb/> wäre als bie aller 5?mnpnnenten 3ulammen, miirbe nach immer an€ftehen.<lb break="paragraph"/></p> <p>(han; anberb erlrheint biefeß ‘J3rehlem, wenn wir es bein ©tnnbpunft bee<lb/> 2[nimanbeß bee pihehifthen @nergie Betrachten. 93ieniel plhchifche @nergie mieb ner=<lb/> irhmenbet, wenn bet 9lutnetotißnn:ß am: &gt;Befriebigung führen icli? (&amp;ine 9teihe bon<lb/> 35emmungen (Renid)heitßgefühl, $ermetflid;teit bee Dnanie, ?Ingit vor ©d)tnité)uﬂg<lb/> bee Rörperß u. i. m.) fmb gu überminben. {ferner muß in nielen %üllen mit 9qu=<lb/> geübt non ‘Bhantaﬁe ein geiit'xgeß ©egualibeal gefd)aﬁen Werben. SDie llnlnftgefühle<lb/> nach bein autoeratifd)en ‘2llte fmb viel Iebhafter sie nach bem normalen bitte. 5Daß<lb/> iRieberringcn ber uralten Snitinite, bie une ginn SlBeihe Drängen, ber burch 2Uällionen<lb/> Sahre bnrch bie gun5e ©lhöpfung gehenbe 5Drang sur %btthflqnping, ber [ich bagegen<lb/> ftriinht, eine 3medlefe ®anblung au begehen, erferbert ehenfallb einen großen ﬂlufmnnb<lb/> an pfhchifcher @nergie. f®iefer @nergiebethraud) ift eß, bee bie Dnanierenben Stinbee<lb/> trünmeeifd),gerflreut uni) für biz 3mede Der C‘5chule unbrauchbar macht. 91nbetetieitß<lb/> fehlt es nicht an $eifpielen, hai; hie unb ba .Qiuber in ber $uheﬂ'cltßgeit gerabe nach<lb/> 58eginn ber Dnanie {ehr aufgenmft werben unb niet heiter itubieten als vorher. Sn<lb/> inlr.hen {füllen ift ﬁcheelieh bei: 9Jiangel pihthifther ©emmungen, bat; heftiebigte (im:<lb/> Iabungßbeblirfnié ber nngehäuften 9?eige, ein gemiﬁeß ©elhftänbigfeitßgefühl, bat? iebee<lb/> ®eheimnié berleiht, mit in 5)teehnnng su ﬂiehen. %Iud; hier fpielen inbibibnelle<lb/> äUtnmente eine große Stelle. <lb break="no"/></p> <p>{Serner muß ich nach meinen (Srfahrungen ben %utaeretißmuß eur unb nath<lb/> ber ‘Bubettüt firenge außeinanberhalten. Sn ber %orpuhettätßperinbe mag bie Dnanie,<lb/> maß bie phhftiäpe @ntmieflung anbelangt, völlig uniehöblieh fein. ‘ßollfnmmen ber=<lb/> fehlt wäre eb, iebeä Rinb ale erhlirh helaftet aber als „dégénére'“ 511 betrachten, hat!<lb/> {then im frühen älter au onanieren beginnt. im ©efahren bee üuineratiﬂmuß im<lb/> Rinbeealm liegen auf gang nnberen ©ehieten, al6 bein phhfriehen — auf bem pin:<lb/> ehifehen. 58ie &amp;?inber leihen im]; allem Ialent in ber ©rhule fehr wenig, ba ﬁe<lb/> ihre 8ehenßträfte anthranchen. Qßie fteht es aber mit bee‘ ©ehäblichteit bee 5!7taftnr=<lb/> [nation nach bet ‘Bnbertät? 9l'hgeiehen bon bem eﬁettinen @imeißbevlulte fmb hier<lb/> bie nfnrhiichen ©emmnngen hebeutenb größer, ber änfmanb an pihehifther (Energ'ie ein<lb/> viel bebentenberer. 91116 ©antienfation ift Iiefienfatinn gemerben. Sn bielem 9llter<lb/> felgen bie fogenannten ahfrhrecfenben 58üchee ein, bie benz Säugling ein nollfammen<lb/> falicheß @chred= nnb 3errhilb [einer 3ulunit bermalen. 233unilh unb 91ngft. 215er=<lb/> 3meiftung unb 28erlangen, iReue unb 3mpulß tlimhfen miteinanber unb bieiee ©eelen=<lb/> fampf in es, Der [0 großen @:haben bringt, ben Süngling nnb hat! El)tübthen miirhe<lb/> macht. 8eim ﬂltäbd)en nnb hei ber {frau, für: Die in größere ©chöblichfeit ber<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__72595434-ffdd-4481-beb5-b17f0a305826"/>
-            <p>454<lb break="paragraph"/></p> <p>EUiufturbution nnertannt mirb, lommt noch Die große pfnrbiid;e ($nergie in %etrad)t,<lb/> bie'notmenbig iii, um Die für hie %eiblitf)leit aufgebauten ßameren beé @eiclyled;tß=<lb/> tviebeß (@dwm, Reutd;beit, $)?einbeit u. [. in.) ,;n übermmben, Sm ©gggnfag 3um<lb/> Reime, bei Dem Die ®ebanfenurbeit volllommen ruht, meil er unter Der aberr=<lb/> {ebaft eine5 S‘mpulies bol[gogen mix-b, nm unßetüem eine 9ieibe fefimbiiver @efcßled)tß=<lb/> momeute wie bu8 Iriumpbgefiibl be8 ©iegerß, 9Iliitleib, $reube ließ ©ebeuß mit)<lb/> @mpfungene u. i. m. mit in %rage fonnuen_, ivirb uud} von vielen 232nltui'bauteu<lb/> g:er geißige ?Irbeit geleifiet. Ißir fel;eu alu), baﬁ Die 23ebuuptungm ©rubers von<lb/> Der Hilfel)iiblicl)leit ber 9nnnie, nme bnß ‘Bbtyilidye betrifft, iid)erlitb<lb/> für Die meilten %älle richtig, maß Daß tbft)d)tid;e anbelangt, jebody<lb/> entfd]ieben fal1cl; finb. . '<lb break="paragraph"/></p> <p>$th fommen nnd; 5mei wichtige S!Romente bmgu, Die Die (befabrloﬂgleit ber<lb/> Dnam'e [ehr bebeutenb in {Etage ttellen, (Es iß gmeifelloß, bei; SD?ünnec, Die lange<lb/> animieren, ben L‘Beg sum %3eibe viel id)tnerer aber gar nit_l)t mehr ﬁnben flinnen. (&amp;<lb/> iii hieß eben in rid)tig, als Die %ebaubtung @ruberb ialfcl) tft, hat"; Die £)nanie aufhört,<lb/> inbelo Der normale ©eid;led)tßverlebr beginnt. 2Dtir {mb eine 9ieibe non %ällcn betannt,<lb/> im Die Dnauie intigeiel}t murbe, in, um fie iptite: ﬁnger mieber hie 9teigung sum anberen<lb/> @eicf)leil;t Derbrüngte uni) Die alleinige {form ber ©efcl;lefl)tﬂbetötigung blieb. 2)ie<lb/> Simicl;beit6laemegung empfiehlt bein Süngling ben 2lutnerotißmné, inbem ﬁe ibm bel!<lb/> natürlichen ißeg gum %Seibe mit einer 2Reil7e man .t'pemmungen umgibt, meld» ®em=<lb/> mungen ;,n überminben für ihn Dann niel iebmieriger ift, als man es glaubt. &amp;&amp;<lb/> ein gemiiieﬂ älter vorbei, fo läßt ﬁel; eine inlcbe ©emmung nid;t io =_obnemeiter8<lb/> beieitigen, uni) membeß ﬁltenfd)enleben if! id;on baum gefd)eitert, baﬁ es ben !ßeg vom<lb/> ‘llutaerutiemuß 3um anberen ©el(l)letl)te nicht Ruben lonnte. (&amp; ﬁnbet eine buuernbe<lb/> ßerfcl)iebung bei 6exunlo_bielteß uno ber emgenen ,8nnen ftutt. $efonberß bei {Frauen<lb/> binnen fid) bebeutiame sllnt&gt;erungen einftellen. Si)ie eigentliche ©"erualregiou mirb<lb/> unäftbetiid; unb bleibt es uud) fpüter in bei: @b£« mäßrenb bus gun3e ©erualgefiil)l<lb/> fid; außen lntuliﬂert. Ebenio lönnen pind;iid;e ?Inberungen eintreten, Die eine ionft<lb/> luum angebautete Rona,ponente unierer $iierualitiit, Die Monoierualität entmiäeln.<lb/> $ou bei: ‘!llunniegualitiit bis guni ©omofeguellen fehlt Denn nur ein Heiner ©d;ritt.<lb/> — @ine unbere ©eiat)r be8 Qlutoetotiémuß bat {freub iebr treffen!) flnrgelegt; er<lb/> meint, Der %lutuetoti6mu6 id;roiid;e gemiﬁetmafgen Die 23iberftanbßlmft be8 2Uienicl)en<lb/> gegen Die vaulie ber @ernalit‘cit, ba hie ﬂiei5lg’öbe, hie gut 58efriebigxmg menge,<lb/> eine viel geringere wäre. Unter been (Einfluß Der Sl)?aftutlmtinn geftalte fid) Daß<lb/> ©e1'dalerbtßleben ipitter entiibieben in ﬁir Daß 3nbinibuum unverleill;after ﬂieiie.<lb break="paragraph"/></p> <p>3d; geflelye alfa gung offen, bnﬁ id) aus all bieten ermäl;nten ©ri'mben einige<lb/> Steine nad; Dem (Einietgen ber ‘.Bubertiit eine mäßige 23efriebigung bee ©efd)led)té=<lb/> triebee in normaler äBeiie ben nericbiebenen %ormen bett Qlutneroti8mue borgiehe.<lb/> üreilid; mirit fid) eine weite {grnge uni, hie aber Die erfte gar nieht berührt, hie<lb/> %rage ber ©eld;ledytßiranlbeiten. @ruber hat Den %el;let gemacht, biete „iosiale<lb/> %rage” vom 8nbinibuum aus Höfen 3u wollen.<lb break="paragraph"/></p> <p>(Es iii gmeifelloß, baé hie @eid)ltd)tßlroiilbeiten eine große ©eiul)r iii: bit<lb/> gefumte Wienl'ebbeit innolbieren, bei; Deren 2luerottung im i‘mtereﬁe einer gefunben<lb/> Eliuel;iummenfd;uft eine bered)tigte %orberung aller %reunbe bei: Wienfcbbeit ift.<lb break="paragraph"/></p> <p>ß)ieie ßeiierung ber älterbältnifie auf Dem ﬂiege ber nollfom=<lb/> menen %bitineng nur Der Ehe er;ielen 511 wollen, bieﬁe Die ﬁltenidybeit<lb/> auf Der einen @eite um foniel id)übigen, als man ib): auf Der nnberen<lb/> @eite nütgen miirbe. 8d) glaube, Das illrnblem in von einer ganz falid;en 6eite<lb/> mgepndt. SDurd; entipreibenbe %lufllürung {oivobl ber münulidyen als bei: meiblid;en<lb/> 3ugenb, burd) [trenge 58eftrufung jener Wienfcben, hie gemiffenlos genug fine, miﬂentlid)<lb/> einen ﬂllitmeuid)en au infi3ieren, miirbe man gewiß eine bebeutenbe 93erminberung.<lb/> bieier ämnfbeiten ergielen fönnen. St} eß nicht unglaublich, Daß man für einen @d9lug<lb/> uui8 Qbr, fiir ben Si)iebftal;l einer geringiügigen ©umme ebentuell mit Retter in<lb/> Der Eimer von inebreren Wonaten beitraft merben Kann, lv'dljrenb inlel)e 23erbred)er,<lb/> Die Die ©efnnbbeit ein26 anberen Snbibibuum8 untergmben uni) fein 9eben69ﬁicf ber=<lb/> nid;ten, ftrafloß uußgeben une {ul} fogar Dieter Eat briliten lönnen? Qlud; iii ohne»<lb/> weitere eingufel)en, bei; bei unieren iegigen [ogiuleu %erbälmifien, ma bei 2Uicum<lb/> luum vor 30 Subren in hie (Slpe treten ann, hie 9lbid;ufiung ber SBroftitution ein<lb/> String ber Unmöglid)feit ift. über ielbﬂ in Der (She geftattet ©ruber Dem 21Ram'ie eine<lb/> in geringe 8eiütigung bet; @eiibled;tßtriebeß, ließ eine %ußfübrung bei: ©rubetirben<lb/> ‘Brmgipien in Der ‘J3raziß ber meiften 5D?eniel)en unmöglirl; wäre. Sur 3eit ber<lb/> ©ranibität iorbert er ®cl;nnnng ber ®ettin. 2Dabei propugiert er gemiﬁermnﬁen ba6<lb/> ißringip non 30lae Féeondité. SlJiit Dem 50. 8ebenäjulyr ungefähr hört bet $rieb auf.<lb/> €llinl\ mache Die 2Recbnung, wieviel nad; @ruberid;en ‘Brin5ipien einem ermael;ienen<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="4" xml:id="page__1e5274fb-48b0-47e5-9933-d0aaa0ad9491"/>
-            <p>455<lb break="paragraph"/></p> <p>ﬂTianne an ©eitl)lettjtßtötigleit übrig bleibt, mean mir Die pbnﬁologiicbe pericbiiebe (iriran:<lb/> fung Der ©altin mit in z)tecbnung sieben. ßenn er und) einﬁebt, Daß allguviel ﬂinDer<lb break="no"/>iegen Daß io;ia[e (Staub Dermel)ren ﬁinne, unterl'a'ﬁt er es Dort; nicbi, folgenDe 233arnnng<lb/> au83uipred)en: „53er ﬂeier [ei nur fiinftlitf)eit 58erbinberungen Der ßefrucbtung gewarnt.<lb/> 86 Darf uiid) il)r id)lecliter @inflnﬁ auf Das fittlitbe 58erbiiltnié gmiicl;en ﬂJtami unb<lb/> {frau nicht iiberiebcn merDen u.- i. in."<lb break="paragraph"/></p> <p>El?nn wäre Die ‘Ilußiiilyrnng Dieier ‘.Brin5ipien Dem geiunDen il)2anne mobl id)tner<lb/> anber8 möglich oki auf Dem %ege Der ‘Bolngamie. $atfäcl;lidp [eben mir bei Watur:<lb/> nölfern Die ®d)onnng Der graviDen {frau eingeführt, allerDingß nur au5 Dein @runbe,<lb/> weil Dem ®atten ingtaiicben eine anDere 3ur ßerfiigung ftebt.<lb break="paragraph"/></p> <p>®ie ßöiung Dieier brennenben ifrage liegt auf mei ßiebieten, auf Dein icbon<lb/> betonten iogialen mm auf Dem miﬁenidjaitlid}en. @dgon in es 3um £eil Dura!) Die<lb/> $artidjritte Der 2DieDi5in möglich, Duni; gemiffe ‘Briibentibmaﬁre eln Die £}nfeltians:<lb/> möglicbfeit ;u DerminDern. (Sid) Deriveiie auf Die $ericbte Demi er ®cl;iffeür;te, Die<lb/> Dnrd) eine eniipred1enbe @d)ulung ibm: SUiannicbaft Die gab! Der Snfeftinnen auf ein<lb/> iebr geringeß 932af; berunterDriiefen fomiten.) Sri] Derlenne nil.‘bt Daß $Uliﬁlidne Der<lb/> ‘ßraﬂitution, il)re @efal)ren ﬁir Den Süngling in eibiicl)er Spiniiebt. Sal; untl man<lb/> in ?Red)nnng ;ieben, Def; Die 3ugenD aud) ohne ‘.Broßitntion @rotif betreiben fann.<lb/> @ finb Dies heilte {tragen, Die nid)t plauDernb etleDigt werben ﬁlmen. — — ﬂnDerer=<lb/> ieitß iii eine ä]tegeinng Der ‘Broftitution in Dein ©inne an3ui'ireben, Daß man nur Die<lb/> ‘.Broftimierten, ionDern and; Die fie beiurl)enbeti 2Ul'dnner ör5i[id) unteriurf;t werben.<lb/> ihm: auf Dieie ﬂßeiie inirD r6 mbgtid) [ein, Die @zfabren, Die Die ieguelle 2litibitüt beute<lb/> nnd; bietet, auf ein geringeres EI)?af3 l)erabgnkßcn, %ergeﬁen mir nid)t, Daf; alleﬂ in<lb/> Der 9?ainr amei ©eiteu hat, Dat; 2ufi unD ®efabr überall eng berbunben ﬁnD, Daß<lb/> ohne baben @inialg nid;ts 3u erreicben iii. Sci; will biemit nid)t behaupten, Daß völlige<lb/> *ll'bftineng biß 3ur @l)e mii’ Dem geliebten &gt;Zi3eien — Denn ieDe anDere @[)e iii ja nur<lb/> ein milDere 80rm Der ‘Brnftitutian ;— unmöglidä iii; ii: iii Das S‘Deal aller Wienfdyen<lb/> —- aber wie alle 3Deale id')\uer an erringen. @ fommi ja auf Das 8nbibibuum an.<lb/> (Eingelne merDen ee üd;er_l_id) nertragen, anbere mit bad) enhniäelter ©erualität<lb/> (nach (Ellen Sie» geraDe Die übermenid)en, Die ißefieu, Die %alentierteften) aber fönnien<lb/> Daran gu ©rnnbe geben. %iir inlcl]e äl)lenfti1en mit ungefii'nnem ©erualDrang wäre<lb/> eine Die! ins 30. 9eben€jabr fartgeießte Maﬁurbaiian meiner "Inﬁcbt nad) Mt)d)ifd)<lb/> ebenfa gefährlid') nie eine pimiiicbe $nfeitinn.<lb break="paragraph"/></p> <p>3d) betont nnd“; einmal, DaB Die $rage Des 91utoerotißmus Tui; nur von golf<lb/> 3a 53alll'üfen läßt. 9In€ einer perfönlidben @rfabrung lann nur auf eine €Berian<lb/> gefü,laﬁen merDen. ?lllgemein gültige Regeln im?) ‘.Brinaipien laﬂen fit!) hier nicht<lb/> auffüllen.<lb break="paragraph"/></p> <p>3meifelßobne ii't Daß 806 unierer 311genD {ein beneibenßnxertee: auf Der einen<lb/> ©eite Die @eiabr Der 3nfetiianen, Due iürd;terlid)e ©d)rectgeipttiit<lb/> Der ©npbiiiß, Die man noch immer nicht überid)iißt, mm Der @onarrboe,<lb/> Deren ‘BeDeuinng für Die @be man und) immer untericbiibt, auf Der<lb/> unberen ©eiie Die pfbibiicben @efabren Dee älutoerntißmuß, Der eben:<lb/> fall; iinftanbc iii, Daß game ﬂeben Den Wienfcben in [einem @inne<lb/> nm;ugeftalten. _<lb break="paragraph"/></p> <p>Sum @litrfe für Die £UZenid)beit ipielen trug aller gelehrten Sättel;er Der S‘niimlt<lb/> mm Der ©elbßerbaltungßtrieb eine gewaltige iRolle. ﬂ)?ag Der eine aber Der anbere unter<lb/> Dem @inflaﬂ'e Der 8eltüre geiunD bleiben aber traut werben, Die Mehrzahl läßt lid;<lb/> Don [einem noch in gelebtten unD gutgemeinten i’3ucbe in ihrem ﬂiienfd;enrecbte<lb/> betrügen, unD einer Der böcl;ften 5D?enid;enredjte iii Das 9?th auf 2ebenßireube in<lb/> jeglicher %orm. ‘<lb break="paragraph"/></p> <p>23iel größeren ©d)aben als Die Winfturbatian itiitet jene nerDerbln‘be {form Der<lb/> ehelichen ©eid;led;i6liebe, Die alß „unterbroa7ener ßeiid;laf” ein S)Jiittel Dee Maltbuﬁa:<lb/> ni8mn€, Der ﬁinber3al)lbefcßränlung murbe. 5ier iii Der 58er_btand) an plbdnfdyer<lb/> ®nergie ein nngef)eurer, Die 23illenßanitrengung, Die erfarberhd) iii, 1Den_ SDerume=<lb/> i3en5trieb 3u unterbreel)en, if! eniftbieben aDüquat Der großen ©d)äblnbtett, Die fie<lb/> er3eugt. 23ir müﬂ’en %renD Danlbar fein, Daß er uns Die interrupte SDetumefgen; _al6<lb/> fpaupturiadp jener Deinigenben Rrantbeit ge3eigt hat, Die als 9lngi'meuroie in. mele<lb/> Wenirf;en quält. ©agt Dad) ®ruber mit 9ied;t, (id; freue mid), Dem bodynerD1enien<lb/> $Drid}etf, Der: Don'Den eDeliten !tbﬁrlptengeleitet mirb, m Dieiem *Bunite bleibt geben Ju<lb/> lümienz) ®ie ‘)‘l'atnr [äﬁt fiel; nieht [traiioe betrilgen. überbmgs bat er Damit<lb/> Das Urteil über Die von ibm eingeleitete ﬂbftinenßbel'aegung geibrad;en.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__ffc95739-5b8b-4ee3-ba02-f8843830fd6d"/>
+        <p>452<lb break="paragraph"/>
+        </p>
+        <p>verloren. iRuf;lanb hat viele Sliieberlagen erlitten, 58anferott bat eä nie<lb/> gemacht. ißenn hie frang,öfifdyen ©läulriger bie 3niereffen ibreß @elbeé<lb/> erbalten, mirb %ranfreid; fein fd;lecbte5 ©efcl;äft gemacht haben.<lb break="paragraph"/>
+        </p>
+        <p>über hat eé nidbt im; 9iecbt, feinem %erbiinbeten freunbfcbuftlid;en<lb/> äRnt su geben? 3ar 91leganber III. fagie ben %rangofen: „©eib Hart!"<lb/> ‘Der ﬂugenblid? ift gefummen, bu %ranfreicl; feinerfeitß fagt: „©eib<lb/> ftarf!” 233enn bie ruffifcl;e 2Regiernng in bein S?riege fiat! fein, wenn fie<lb/> -baä finan5ielle 58ertrauen einflöfaen will, ba€ notmenbig ift, um ibrer<lb/> 11nterfclyrift ®eltung au nerfd;affen, bann muß fie ‘Die 25ebingungen<lb/> begreifen, unter benen ein moberner @taat ftarf fein farm. Smpan<lb/> wäre feine grnfee £Utilitürmadät gemorben, bätte eä nicht fein innere;<lb/> (äußern mobifig,iert. 5Daä ruffifd;e %Reicl; but nicht ben Ilmfturg, nötig. (EQ<lb/> farm mit einem 8ar non guten 3ntentinnen fogar feine autofmtifcbe<lb/> Silionarcbie beibehalten. QIber ber moberne $?rieg “erlangt und; ein<lb/> 2Uiinimum mnberner $nftitntionen, folcber, Die hie @ffeftuierung ber %er:<lb/> träge mit ben Sieferanten unb Die 9lu5fiif)rung ber 23efeble him!) bag?<lb/> 2\3erfnnal ficl;em. @ine mirllicl;e uni) ftrenge libermuclyung ber $Beumten<lb/> ift nötig, unb biefe 11bermnebung farm nur burrl; ein (Enbeben ‘.Bref;=<lb/> freibeit herbeigeführt merben.<lb break="paragraph"/>
+        </p>
+        <p>i9r. Mülheim älekel.<lb/> äulnernliatnuß mtb @ef'unblgeif.<lb break="paragraph"/>
+        </p>
+        <p>Motto: 3miid;en @innenglüd mtb 6eelenfrieben<lb/> &gt;Bleibi Dem Mmfebeu nur nie bung: 513ui)‘.<lb/> 5dyiller („59a3 3beul unb buä Sieben“).<lb break="paragraph"/>
+        </p>
+        <p>Sn einer: Heinen ©efellfd)uft bon ‘5Irgten entffmtm fiel; bei: einiger ,8eit eine<lb/> längere Sbebatte über ben ®d')uben ber ﬂllafturbation. $ft Die 9nunie fd)äblieb?<lb/> Hub inmiefem?<lb break="paragraph"/>
+        </p>
+        <p>&amp; 5eigte furl), Daß ieüer eingelne ber btebner einen anberen 6tnnbpunlt ner:<lb/> trat, fo mg id) als legter mit iRet'bt fagen tunnte, e8 iomme mnbl bei feiner zweiten<lb/> %ruge fo viel auf Das Sﬁbibibuum felbfi an als gerabe bei Der bei! 2lutoerntismue.<lb/> SDie %rage wäre nur inbibibuell an löfen.<lb break="paragraph"/>
+        </p>
+        <p>(Es entfpriel;t einer nun fnft überhauubenen groben maierialiftifcb=mecbanifelfen<lb/> 9Infdfauung, wenn beifbielémeife ©ruber in {einem ßuebe: „iDie @)Qiene bee<lb/> ©ef®leclatßlebens, burgeftellt fiir %änner" (©mttgurt, @rnft ©einricb ?!)?orij),<lb/> folgenbeß fummarifé ausfübu: „(EB ifi nicht ein3ufeben, warum es fd)äblidaer fein<lb/> full, marum bie nerböfe @rfcblitterung gröﬁer fein full, menu Die med)anifd)e Gin=<lb/> mirfung auf einem unberen Wege vor fiel) gebt als beim natürlicben Roitu8. Elliiif;ig<lb/> betriebenes Dnemiereri ift ben! ©:fd;lerbtßreifen meniger fni;'eibli_d), als ber unter;<lb/> brodaene 58eifcbluf ®ie 92eigung 5nr Dnanie verliert ber gefunbe 9Runn fnfort, wenn<lb/> er nen normalen ®efcbleibtßberlebr Yemen gelernt bat. 5Die€ in Der @runb Dafür,<lb/> bn8 hingen Elliilrmem häufig Der Start erteilt mir!; , ‘Brcfiiiuierte uufgnfuei)en. Sri)<lb/> halte hieß für: eine bermerflicbe torbeit, Denn — um von allem anberen 3u<lb/> fd)kneigen —- _bu5 Duanieren ift für ben ©efd)ledfléreifen ein viel<lb/> geringeres übel als Die nenerifd;en .Qranlbeiten, Die man fill; im 23er:<lb/> febre mit ‘Srufkituierten früher ober fp'titer fafi mit ©id)eelfeit holt.<lb/> (Einen 11nreifen aber ft!!!)3eitig 5um ßeifrlflaf nerlnden, bie8e erft<lb/> recht ibn völlig lnrrumpieren."<lb break="paragraph"/>
+        </p>
+        <p>(ES ifl merlmürbig, in melrl;en @;tremen frei; Die @elebrten bin= nnb herz<lb/> bemegen. @ ift nur!) nid)! lange ber, ba wollte man fiimtlid)e 92ernenlranlbeiten<lb/> als {folgen ber ilﬂaf'tnrlaution unfpreeben. %übren mir que ber trefflid;en ®hxbie mm<lb/> ©ubeloct @llie über ben 2lutoerotismus einige biefei: angeblichen 8-olgen bei: 9Rafluß<lb/> butinn an: 3rrfmn, @pilepﬁe, 3ablreicbe ?.lrten von %ugenfrunlheiten, ©upraorbital=<lb/> .Robfﬂ'ßmetgen, 9ecipitalfopffd;meraen (@pifgla), feltfame @mpﬁnbungen in Der<lb/> @d)tiltigegeuh (©anage), nerfd;iebene ?Irten bon Weuralgie (?qutic, (Ebapmnn), @ms<lb/> Q:fmblid)lert Der .ijaut in ber unteren 272üclengegenb (€bapman), @nwfinolidﬂeitg bei:<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__175cdb36-7cec-41a8-8e2b-a28818bd4394"/>
+        <p>453<lb break="paragraph"/>
+        </p>
+        <p>$ri‘nie (ﬂacaffagne), ?l'fthma (h3eher), baä =?Iuitreien non ‘Buﬁeln auf $Z8unben (8ara<lb/> bnc), 9llne mtb anbere ajantausiﬁhlüge (9lntnr kann Dnnnie nnb (Elim’on), erweiterte<lb/> $upillen (©fene, Qemiß, Moraglin), nach oben aber feitmüet6 gerichtete ‘.ßupillen<lb/> (‘Bauillet), bnntlc 9iinge um .bie 9Ingen, inhmer3hafte SDtenßruutien, (S}. Cihap=<lb/> man), llterne= nnb $aginalfatnrrh (ilßincfel, $ouillet), .ßt)pertrbphie ber @eithled)tß=<lb/> organe, blaffe nnb miﬁgeförhle baut ($emie, ﬂJtnraglia), 92afenrbte (©rnner), i'iaien=<lb/> hlnten (Saal, 3- ‘Ji. 2Dtatfen5ie), franlhatteﬁieränberungen in ber 92aie (Spieß), frampf=<lb/> haftet @uften in ber *Bnhertät (©nmere), nnmilitiirlicher .Sjnrnflnﬁ hei jungen 2l!lüblhetr<lb/> (®ieanbean), %ar3en an ben ©änben bei %raucn (iDüre, Etiechmar, n. She), @ehiir=<lb/> unb ©erud)hallngilultienext (©rieﬁinger, 8ewiﬁ), ﬂarre ©altlmg, 3nbiean im „Urin<lb/> (©ertee), ein nnheithreihlid)er @ermh ber ©ant bei El'ßeihe8 (©fene)!‘ (fie biete 9lr5te.<lb/> 233ie übertrieben unb einfeitigl über ein Rötnthell !Bahrheit mirb wohl<lb/> bahei iein. ©ruher iebnrh ﬁeht im ©runbe genommen teinen'llnterfd)ieb ginifdjen<lb/> ben nerfchiebenen %uvmen bee (£rotißmne, meint aher, bie ®elegenheit ﬁne 2Utaftue=<lb/> batinn {ei viel größer, Die 28erlmfung ,nn: Ilnmöﬁigfeit maehfe unb ﬁe merbe aueh<lb/> bon ©eichled;tennreiien ausgeführt, maß ielhftnerftänblid; [ehüblich fei.<lb break="paragraph"/>
+        </p>
+        <p>©eiegt ben %all, ee beﬂünben feine phhﬁlchen llnterirhiebe ,z,mifd;en einfeitigem<lb/> @reti6muß unb benz 23eifchlafe, geith ben %nll, ee hanble ﬁel; nicht um Za‘ereinigung<lb/> beeirhiebenartiger elettriichet ®trbme aber nnberer bunlfler Rräfte, {a laﬁen fuh<lb/> noch eine ﬂteihe pihd;iicher Momente anführen, Die ben Ilnterfrhieb 3wiiehen biefen<lb/> 'heiben $armen bet ©erualität nerftünblicher machen. éBei alten fepnel'len Qiften<lb/> hanbelt es {id} nach ben 9Iu5führungen 5920116, bie mir bee ©d;emaß halber bei:<lb/> behalten, um gmeieelei Remponenten bei; ©epllultrieheé, um ben Rnntreftntinnß= unb<lb/> um ben ®eiumef5engtrieh (ßerührungä: unb @ntlabungetrieh). 9?un ift eb Blur, ba8<lb/> been ®etnmeigengtrieh aueh br.er üutoerotiömuﬂ @enüge geleiftet merken fann,<lb/> müheenb ber Ronteeftationßtrieb nur bnrch mutueﬂen (Erotißmuß befriebigt mirb, weil<lb/> er ein tenleä Dhjeft veraußfeht. ”biete (Einteilung bringt uns aber Der ﬂöiung<lb/> unierer {frage nieht näher. %ir mögen ben Steieh in bie nerfchiebenßen &amp;amponenten<lb/> 3erlegen, bie (Erftiirung, me8hulb bie $efriebignng ber einen anpnnmte [chäbliehee<lb/> wäre als bie aller 5?mnpnnenten 3ulammen, miirbe nach immer an€ftehen.<lb break="paragraph"/>
+        </p>
+        <p>(han; anberb erlrheint biefeß ‘J3rehlem, wenn wir es bein ©tnnbpunft bee<lb/> 2[nimanbeß bee pihehifthen @nergie Betrachten. 93ieniel plhchifche @nergie mieb ner=<lb/> irhmenbet, wenn bet 9lutnetotißnn:ß am: &gt;Befriebigung führen icli? (&amp;ine 9teihe bon<lb/> 35emmungen (Renid)heitßgefühl, $ermetflid;teit bee Dnanie, ?Ingit vor ©d)tnité)uﬂg<lb/> bee Rörperß u. i. m.) fmb gu überminben. {ferner muß in nielen %üllen mit 9qu=<lb/> geübt non ‘Bhantaﬁe ein geiit'xgeß ©egualibeal gefd)aﬁen Werben. SDie llnlnftgefühle<lb/> nach bein autoeratifd)en ‘2llte fmb viel Iebhafter sie nach bem normalen bitte. 5Daß<lb/> iRieberringcn ber uralten Snitinite, bie une ginn SlBeihe Drängen, ber burch 2Uällionen<lb/> Sahre bnrch bie gun5e ©lhöpfung gehenbe 5Drang sur %btthflqnping, ber [ich bagegen<lb/> ftriinht, eine 3medlefe ®anblung au begehen, erferbert ehenfallb einen großen ﬂlufmnnb<lb/> an pfhchifcher @nergie. f®iefer @nergiebethraud) ift eß, bee bie Dnanierenben Stinbee<lb/> trünmeeifd),gerflreut uni) für biz 3mede Der C‘5chule unbrauchbar macht. 91nbetetieitß<lb/> fehlt es nicht an $eifpielen, hai; hie unb ba .Qiuber in ber $uheﬂ'cltßgeit gerabe nach<lb/> 58eginn ber Dnanie {ehr aufgenmft werben unb niet heiter itubieten als vorher. Sn<lb/> inlr.hen {füllen ift ﬁcheelieh bei: 9Jiangel pihthifther ©emmungen, bat; heftiebigte (im:<lb/> Iabungßbeblirfnié ber nngehäuften 9?eige, ein gemiﬁeß ©elhftänbigfeitßgefühl, bat? iebee<lb/> ®eheimnié berleiht, mit in 5)teehnnng su ﬂiehen. %Iud; hier fpielen inbibibnelle<lb/> äUtnmente eine große Stelle. <lb break="no"/>
+        </p>
+        <p>{Serner muß ich nach meinen (Srfahrungen ben %utaeretißmuß eur unb nath<lb/> ber ‘Bubettüt firenge außeinanberhalten. Sn ber %orpuhettätßperinbe mag bie Dnanie,<lb/> maß bie phhftiäpe @ntmieflung anbelangt, völlig uniehöblieh fein. ‘ßollfnmmen ber=<lb/> fehlt wäre eb, iebeä Rinb ale erhlirh helaftet aber als „dégénére'“ 511 betrachten, hat!<lb/> {then im frühen älter au onanieren beginnt. im ©efahren bee üuineratiﬂmuß im<lb/> Rinbeealm liegen auf gang nnberen ©ehieten, al6 bein phhfriehen — auf bem pin:<lb/> ehifehen. 58ie &amp;?inber leihen im]; allem Ialent in ber ©rhule fehr wenig, ba ﬁe<lb/> ihre 8ehenßträfte anthranchen. Qßie fteht es aber mit bee‘ ©ehäblichteit bee 5!7taftnr=<lb/> [nation nach bet ‘Bnbertät? 9l'hgeiehen bon bem eﬁettinen @imeißbevlulte fmb hier<lb/> bie nfnrhiichen ©emmnngen hebeutenb größer, ber änfmanb an pihehifther (Energ'ie ein<lb/> viel bebentenberer. 91116 ©antienfation ift Iiefienfatinn gemerben. Sn bielem 9llter<lb/> felgen bie fogenannten ahfrhrecfenben 58üchee ein, bie benz Säugling ein nollfammen<lb/> falicheß @chred= nnb 3errhilb [einer 3ulunit bermalen. 233unilh unb 91ngft. 215er=<lb/> 3meiftung unb 28erlangen, iReue unb 3mpulß tlimhfen miteinanber unb bieiee ©eelen=<lb/> fampf in es, Der [0 großen @:haben bringt, ben Süngling nnb hat! El)tübthen miirhe<lb/> macht. 8eim ﬂltäbd)en nnb hei ber {frau, für: Die in größere ©chöblichfeit ber<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__72595434-ffdd-4481-beb5-b17f0a305826"/>
+        <p>454<lb break="paragraph"/>
+        </p>
+        <p>EUiufturbution nnertannt mirb, lommt noch Die große pfnrbiid;e ($nergie in %etrad)t,<lb/> bie'notmenbig iii, um Die für hie %eiblitf)leit aufgebauten ßameren beé @eiclyled;tß=<lb/> tviebeß (@dwm, Reutd;beit, $)?einbeit u. [. in.) ,;n übermmben, Sm ©gggnfag 3um<lb/> Reime, bei Dem Die ®ebanfenurbeit volllommen ruht, meil er unter Der aberr=<lb/> {ebaft eine5 S‘mpulies bol[gogen mix-b, nm unßetüem eine 9ieibe fefimbiiver @efcßled)tß=<lb/> momeute wie bu8 Iriumpbgefiibl be8 ©iegerß, 9Iliitleib, $reube ließ ©ebeuß mit)<lb/> @mpfungene u. i. m. mit in %rage fonnuen_, ivirb uud} von vielen 232nltui'bauteu<lb/> g:er geißige ?Irbeit geleifiet. Ißir fel;eu alu), baﬁ Die 23ebuuptungm ©rubers von<lb/> Der Hilfel)iiblicl)leit ber 9nnnie, nme bnß ‘Bbtyilidye betrifft, iid)erlitb<lb/> für Die meilten %älle richtig, maß Daß tbft)d)tid;e anbelangt, jebody<lb/> entfd]ieben fal1cl; finb. . '<lb break="paragraph"/>
+        </p>
+        <p>$th fommen nnd; 5mei wichtige S!Romente bmgu, Die Die (befabrloﬂgleit ber<lb/> Dnam'e [ehr bebeutenb in {Etage ttellen, (Es iß gmeifelloß, bei; SD?ünnec, Die lange<lb/> animieren, ben L‘Beg sum %3eibe viel id)tnerer aber gar nit_l)t mehr ﬁnben flinnen. (&amp;<lb/> iii hieß eben in rid)tig, als Die %ebaubtung @ruberb ialfcl) tft, hat"; Die £)nanie aufhört,<lb/> inbelo Der normale ©eid;led)tßverlebr beginnt. 2Dtir {mb eine 9ieibe non %ällcn betannt,<lb/> im Die Dnauie intigeiel}t murbe, in, um fie iptite: ﬁnger mieber hie 9teigung sum anberen<lb/> @eicf)leil;t Derbrüngte uni) Die alleinige {form ber ©efcl;lefl)tﬂbetötigung blieb. 2)ie<lb/> Simicl;beit6laemegung empfiehlt bein Süngling ben 2lutnerotißmné, inbem ﬁe ibm bel!<lb/> natürlichen ißeg gum %Seibe mit einer 2Reil7e man .t'pemmungen umgibt, meld» ®em=<lb/> mungen ;,n überminben für ihn Dann niel iebmieriger ift, als man es glaubt. &amp;&amp;<lb/> ein gemiiieﬂ älter vorbei, fo läßt ﬁel; eine inlcbe ©emmung nid;t io =_obnemeiter8<lb/> beieitigen, uni) membeß ﬁltenfd)enleben if! id;on baum gefd)eitert, baﬁ es ben !ßeg vom<lb/> ‘llutaerutiemuß 3um anberen ©el(l)letl)te nicht Ruben lonnte. (&amp; ﬁnbet eine buuernbe<lb/> ßerfcl)iebung bei 6exunlo_bielteß uno ber emgenen ,8nnen ftutt. $efonberß bei {Frauen<lb/> binnen fid) bebeutiame sllnt&gt;erungen einftellen. Si)ie eigentliche ©"erualregiou mirb<lb/> unäftbetiid; unb bleibt es uud) fpüter in bei: @b£« mäßrenb bus gun3e ©erualgefiil)l<lb/> fid; außen lntuliﬂert. Ebenio lönnen pind;iid;e ?Inberungen eintreten, Die eine ionft<lb/> luum angebautete Rona,ponente unierer $iierualitiit, Die Monoierualität entmiäeln.<lb/> $ou bei: ‘!llunniegualitiit bis guni ©omofeguellen fehlt Denn nur ein Heiner ©d;ritt.<lb/> — @ine unbere ©eiat)r be8 Qlutoetotiémuß bat {freub iebr treffen!) flnrgelegt; er<lb/> meint, Der %lutuetoti6mu6 id;roiid;e gemiﬁetmafgen Die 23iberftanbßlmft be8 2Uienicl)en<lb/> gegen Die vaulie ber @ernalit‘cit, ba hie ﬂiei5lg’öbe, hie gut 58efriebigxmg menge,<lb/> eine viel geringere wäre. Unter been (Einfluß Der Sl)?aftutlmtinn geftalte fid) Daß<lb/> ©e1'dalerbtßleben ipitter entiibieben in ﬁir Daß 3nbinibuum unverleill;after ﬂieiie.<lb break="paragraph"/>
+        </p>
+        <p>3d; geflelye alfa gung offen, bnﬁ id) aus all bieten ermäl;nten ©ri'mben einige<lb/> Steine nad; Dem (Einietgen ber ‘.Bubertiit eine mäßige 23efriebigung bee ©efd)led)té=<lb/> triebee in normaler äBeiie ben nericbiebenen %ormen bett Qlutneroti8mue borgiehe.<lb/> üreilid; mirit fid) eine weite {grnge uni, hie aber Die erfte gar nieht berührt, hie<lb/> %rage ber ©eld;ledytßiranlbeiten. @ruber hat Den %el;let gemacht, biete „iosiale<lb/> %rage” vom 8nbinibuum aus Höfen 3u wollen.<lb break="paragraph"/>
+        </p>
+        <p>(Es iii gmeifelloß, baé hie @eid)ltd)tßlroiilbeiten eine große ©eiul)r iii: bit<lb/> gefumte Wienl'ebbeit innolbieren, bei; Deren 2luerottung im i‘mtereﬁe einer gefunben<lb/> Eliuel;iummenfd;uft eine bered)tigte %orberung aller %reunbe bei: Wienfcbbeit ift.<lb break="paragraph"/>
+        </p>
+        <p>ß)ieie ßeiierung ber älterbältnifie auf Dem ﬂiege ber nollfom=<lb/> menen %bitineng nur Der Ehe er;ielen 511 wollen, bieﬁe Die ﬁltenidybeit<lb/> auf Der einen @eite um foniel id)übigen, als man ib): auf Der nnberen<lb/> @eite nütgen miirbe. 8d) glaube, Das illrnblem in von einer ganz falid;en 6eite<lb/> mgepndt. SDurd; entipreibenbe %lufllürung {oivobl ber münulidyen als bei: meiblid;en<lb/> 3ugenb, burd) [trenge 58eftrufung jener Wienfcben, hie gemiffenlos genug fine, miﬂentlid)<lb/> einen ﬂllitmeuid)en au infi3ieren, miirbe man gewiß eine bebeutenbe 93erminberung.<lb/> bieier ämnfbeiten ergielen fönnen. St} eß nicht unglaublich, Daß man für einen @d9lug<lb/> uui8 Qbr, fiir ben Si)iebftal;l einer geringiügigen ©umme ebentuell mit Retter in<lb/> Der Eimer von inebreren Wonaten beitraft merben Kann, lv'dljrenb inlel)e 23erbred)er,<lb/> Die Die ©efnnbbeit ein26 anberen Snbibibuum8 untergmben uni) fein 9eben69ﬁicf ber=<lb/> nid;ten, ftrafloß uußgeben une {ul} fogar Dieter Eat briliten lönnen? Qlud; iii ohne»<lb/> weitere eingufel)en, bei; bei unieren iegigen [ogiuleu %erbälmifien, ma bei 2Uicum<lb/> luum vor 30 Subren in hie (Slpe treten ann, hie 9lbid;ufiung ber SBroftitution ein<lb/> String ber Unmöglid)feit ift. über ielbﬂ in Der (She geftattet ©ruber Dem 21Ram'ie eine<lb/> in geringe 8eiütigung bet; @eiibled;tßtriebeß, ließ eine %ußfübrung bei: ©rubetirben<lb/> ‘Brmgipien in Der ‘J3raziß ber meiften 5D?eniel)en unmöglirl; wäre. Sur 3eit ber<lb/> ©ranibität iorbert er ®cl;nnnng ber ®ettin. 2Dabei propugiert er gemiﬁermnﬁen ba6<lb/> ißringip non 30lae Féeondité. SlJiit Dem 50. 8ebenäjulyr ungefähr hört bet $rieb auf.<lb/> €llinl\ mache Die 2Recbnung, wieviel nad; @ruberid;en ‘Brin5ipien einem ermael;ienen<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="4" xml:id="page__1e5274fb-48b0-47e5-9933-d0aaa0ad9491"/>
+        <p>455<lb break="paragraph"/>
+        </p>
+        <p>ﬂTianne an ©eitl)lettjtßtötigleit übrig bleibt, mean mir Die pbnﬁologiicbe pericbiiebe (iriran:<lb/> fung Der ©altin mit in z)tecbnung sieben. ßenn er und) einﬁebt, Daß allguviel ﬂinDer<lb break="no"/>iegen Daß io;ia[e (Staub Dermel)ren ﬁinne, unterl'a'ﬁt er es Dort; nicbi, folgenDe 233arnnng<lb/> au83uipred)en: „53er ﬂeier [ei nur fiinftlitf)eit 58erbinberungen Der ßefrucbtung gewarnt.<lb/> 86 Darf uiid) il)r id)lecliter @inflnﬁ auf Das fittlitbe 58erbiiltnié gmiicl;en ﬂJtami unb<lb/> {frau nicht iiberiebcn merDen u.- i. in."<lb break="paragraph"/>
+        </p>
+        <p>El?nn wäre Die ‘Ilußiiilyrnng Dieier ‘.Brin5ipien Dem geiunDen il)2anne mobl id)tner<lb/> anber8 möglich oki auf Dem %ege Der ‘Bolngamie. $atfäcl;lidp [eben mir bei Watur:<lb/> nölfern Die ®d)onnng Der graviDen {frau eingeführt, allerDingß nur au5 Dein @runbe,<lb/> weil Dem ®atten ingtaiicben eine anDere 3ur ßerfiigung ftebt.<lb break="paragraph"/>
+        </p>
+        <p>®ie ßöiung Dieier brennenben ifrage liegt auf mei ßiebieten, auf Dein icbon<lb/> betonten iogialen mm auf Dem miﬁenidjaitlid}en. @dgon in es 3um £eil Dura!) Die<lb/> $artidjritte Der 2DieDi5in möglich, Duni; gemiffe ‘Briibentibmaﬁre eln Die £}nfeltians:<lb/> möglicbfeit ;u DerminDern. (Sid) Deriveiie auf Die $ericbte Demi er ®cl;iffeür;te, Die<lb/> Dnrd) eine eniipred1enbe @d)ulung ibm: SUiannicbaft Die gab! Der Snfeftinnen auf ein<lb/> iebr geringeß 932af; berunterDriiefen fomiten.) Sri] Derlenne nil.‘bt Daß $Uliﬁlidne Der<lb/> ‘ßraﬂitution, il)re @efal)ren ﬁir Den Süngling in eibiicl)er Spiniiebt. Sal; untl man<lb/> in ?Red)nnng ;ieben, Def; Die 3ugenD aud) ohne ‘.Broßitntion @rotif betreiben fann.<lb/> @ finb Dies heilte {tragen, Die nid)t plauDernb etleDigt werben ﬁlmen. — — ﬂnDerer=<lb/> ieitß iii eine ä]tegeinng Der ‘Broftitution in Dein ©inne an3ui'ireben, Daß man nur Die<lb/> ‘.Broftimierten, ionDern and; Die fie beiurl)enbeti 2Ul'dnner ör5i[id) unteriurf;t werben.<lb/> ihm: auf Dieie ﬂßeiie inirD r6 mbgtid) [ein, Die @zfabren, Die Die ieguelle 2litibitüt beute<lb/> nnd; bietet, auf ein geringeres EI)?af3 l)erabgnkßcn, %ergeﬁen mir nid)t, Daf; alleﬂ in<lb/> Der 9?ainr amei ©eiteu hat, Dat; 2ufi unD ®efabr überall eng berbunben ﬁnD, Daß<lb/> ohne baben @inialg nid;ts 3u erreicben iii. Sci; will biemit nid)t behaupten, Daß völlige<lb/> *ll'bftineng biß 3ur @l)e mii’ Dem geliebten &gt;Zi3eien — Denn ieDe anDere @[)e iii ja nur<lb/> ein milDere 80rm Der ‘Brnftitutian ;— unmöglidä iii; ii: iii Das S‘Deal aller Wienfdyen<lb/> —- aber wie alle 3Deale id')\uer an erringen. @ fommi ja auf Das 8nbibibuum an.<lb/> (Eingelne merDen ee üd;er_l_id) nertragen, anbere mit bad) enhniäelter ©erualität<lb/> (nach (Ellen Sie» geraDe Die übermenid)en, Die ißefieu, Die %alentierteften) aber fönnien<lb/> Daran gu ©rnnbe geben. %iir inlcl]e äl)lenfti1en mit ungefii'nnem ©erualDrang wäre<lb/> eine Die! ins 30. 9eben€jabr fartgeießte Maﬁurbaiian meiner "Inﬁcbt nad) Mt)d)ifd)<lb/> ebenfa gefährlid') nie eine pimiiicbe $nfeitinn.<lb break="paragraph"/>
+        </p>
+        <p>3d) betont nnd“; einmal, DaB Die $rage Des 91utoerotißmus Tui; nur von golf<lb/> 3a 53alll'üfen läßt. 9In€ einer perfönlidben @rfabrung lann nur auf eine €Berian<lb/> gefü,laﬁen merDen. ?lllgemein gültige Regeln im?) ‘.Brinaipien laﬂen fit!) hier nicht<lb/> auffüllen.<lb break="paragraph"/>
+        </p>
+        <p>3meifelßobne ii't Daß 806 unierer 311genD {ein beneibenßnxertee: auf Der einen<lb/> ©eite Die @eiabr Der 3nfetiianen, Due iürd;terlid)e ©d)rectgeipttiit<lb/> Der ©npbiiiß, Die man noch immer nicht überid)iißt, mm Der @onarrboe,<lb/> Deren ‘BeDeuinng für Die @be man und) immer untericbiibt, auf Der<lb/> unberen ©eiie Die pfbibiicben @efabren Dee älutoerntißmuß, Der eben:<lb/> fall; iinftanbc iii, Daß game ﬂeben Den Wienfcben in [einem @inne<lb/> nm;ugeftalten. _<lb break="paragraph"/>
+        </p>
+        <p>Sum @litrfe für Die £UZenid)beit ipielen trug aller gelehrten Sättel;er Der S‘niimlt<lb/> mm Der ©elbßerbaltungßtrieb eine gewaltige iRolle. ﬂ)?ag Der eine aber Der anbere unter<lb/> Dem @inflaﬂ'e Der 8eltüre geiunD bleiben aber traut werben, Die Mehrzahl läßt lid;<lb/> Don [einem noch in gelebtten unD gutgemeinten i’3ucbe in ihrem ﬂiienfd;enrecbte<lb/> betrügen, unD einer Der böcl;ften 5D?enid;enredjte iii Das 9?th auf 2ebenßireube in<lb/> jeglicher %orm. ‘<lb break="paragraph"/>
+        </p>
+        <p>23iel größeren ©d)aben als Die Winfturbatian itiitet jene nerDerbln‘be {form Der<lb/> ehelichen ©eid;led;i6liebe, Die alß „unterbroa7ener ßeiid;laf” ein S)Jiittel Dee Maltbuﬁa:<lb/> ni8mn€, Der ﬁinber3al)lbefcßränlung murbe. 5ier iii Der 58er_btand) an plbdnfdyer<lb/> ®nergie ein nngef)eurer, Die 23illenßanitrengung, Die erfarberhd) iii, 1Den_ SDerume=<lb/> i3en5trieb 3u unterbreel)en, if! eniftbieben aDüquat Der großen ©d)äblnbtett, Die fie<lb/> er3eugt. 23ir müﬂ’en %renD Danlbar fein, Daß er uns Die interrupte SDetumefgen; _al6<lb/> fpaupturiadp jener Deinigenben Rrantbeit ge3eigt hat, Die als 9lngi'meuroie in. mele<lb/> Wenirf;en quält. ©agt Dad) ®ruber mit 9ied;t, (id; freue mid), Dem bodynerD1enien<lb/> $Drid}etf, Der: Don'Den eDeliten !tbﬁrlptengeleitet mirb, m Dieiem *Bunite bleibt geben Ju<lb/> lümienz) ®ie ‘)‘l'atnr [äﬁt fiel; nieht [traiioe betrilgen. überbmgs bat er Damit<lb/> Das Urteil über Die von ibm eingeleitete ﬂbftinenßbel'aegung geibrad;en.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

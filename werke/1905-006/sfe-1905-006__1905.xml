@@ -1,228 +1,312 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
-            <title type="manifestation" level="a">Stellungnahme zur Eherechtsenquete (1905-006/1905)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
+        <title type="manifestation" level="a">Stellungnahme zur Eherechtsenquete (1905-006/1905)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>1. OCR Korr KK</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1905-006-1905" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Stellungnahme zur Eherechtsenquete</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Protokolle der Enquete betreffend die Reform des österreichischen Eherechts</title>
-                     <title type="publication-sub">(vom 27. Jänner bis 24. Februar 1905)</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__7d583043-a910-4a46-ba25-d822352a33c8">Kulturpolitische Gesellschaft</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1905-01-01">1905-01-01</date>
-                     </imprint>
-                     <extent>77 Seiten</extent>
-                     <biblScope unit="series">Mitteilungen der Kulturpolitischen Gesellschaft</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__3bfaa092-b808-46d4-ab90-e7cf6b783cc4">
-                        <title>Stellungnahme zur Eherechtsenquete</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>1. OCR Korr KK</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1905-006-1905" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Stellungnahme zur Eherechtsenquete</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Protokolle der Enquete betreffend die Reform des österreichischen Eherechts</title>
+              <title type="publication-sub">(vom 27. Jänner bis 24. Februar 1905)</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__7d583043-a910-4a46-ba25-d822352a33c8">Kulturpolitische Gesellschaft</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1905-01-01">1905-01-01</date>
+              </imprint>
+              <extent>77 Seiten</extent>
+              <biblScope unit="series">Mitteilungen der Kulturpolitischen Gesellschaft</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__3bfaa092-b808-46d4-ab90-e7cf6b783cc4">
+                <title>Stellungnahme zur Eherechtsenquete</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1905-006/1905</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zur-eherechtsenquete/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bfaa092-b808-46d4-ab90-e7cf6b783cc4</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0">
-                              <title>Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zur-eherechtsenquete</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1905-006/1905</idno>
+                <idno type="url">https://www.freud-edition.net/werke/stellungnahme-zur-eherechtsenquete/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/3bfaa092-b808-46d4-ab90-e7cf6b783cc4</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0">
+                    <title>Freud, Sigmund  (1905-006; 1905g): Stellungnahme zur Eherechtsenquete</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/stellungnahme-zur-eherechtsenquete</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0e72083-0ff9-4ae9-bd2a-3bf430ac24a0</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__07d83cd5-cc80-4874-ada9-1a40f34d0345"/>
-            <fw type="pageNum">[75]</fw> <p>4. Sitzung am 8. Februar 1905.<lb break="paragraph"/></p> <p>Vorsitzender: Hofrat Dr. <hi rendition="#bold">v. Pelser-Fürnberg</hi>.<lb break="paragraph"/></p> <p>Redner: Dr. <hi rendition="#bold">Viktor Kienböck.</hi><lb/> Frau <hi rendition="#bold">Grete Meisel-Heß.</hi><lb/> Fräulein <hi rendition="#bold">Kamilla Theimer.</hi><lb/> <hi rendition="#bold">Fritz Riederer.</hi><lb/> Dr. <hi rendition="#bold">S. Zins.</hi><lb break="paragraph"/></p> <p>(Beginn der Sitzung um 7 Uhr 35 Minuten abends.)<lb break="paragraph"/></p> <p><hi rendition="#bold">Vorsitzender:</hi> Ich erkläre die 4. Sitzung unserer Enquete für eröffnet.<lb break="paragraph"/></p> <p>Obmann Dr. <hi rendition="#bold">Scheu</hi>: Bevor wir in die heutige Tagesordnung eingehen,<lb/> werden wir uns erlauben, ein Gutachten des Herrn Professors <hi rendition="#smallcaps">Freud</hi> vorlesen<lb/> zu lassen. Herr Professor <hi rendition="#smallcaps">Freud</hi> hat sich und zwar mit Beziehung auf die<lb/> einzelnen Fragepunkte schriftlich geäußert.<lb break="paragraph"/></p> <p>Bezüglich meiner Anregung in der letzten Versammlung habe ich folgenden<lb/> Versuch gemacht, Ich habe mir einen Meldzettel angeschafft und habe mich<lb/> überzeugt, daß hier unter der vierten Rubrik es folgendermaßen heißt: „Alter,<lb/> Religion, ledig oder verheiratet oder verwitwet?“ Daraus ersehe ich, daß der<lb/> Meldzettel den Begriff des Geschiedenseins und Getrenntseins nicht kennt, und<lb/> daß man folglich auch, nachdem danach nicht gefragt wird, nicht Auskunft<lb/> zu geben braucht, ob man geschieden oder getrennt ist. Nun weiß ich aller<lb break="no"/>dings, daß von der Polizei danach gefragt wird, denn unter der Rubrik: „Name<lb/> und Alter der Gattin und Kinder“ soll auch der Wohnort der Gattin oder des<lb/> Gatten angegeben werden, und ich erinnere mich an einen Prozeß, wo jemand<lb/> mit einer ziemlich empfindlichen Freiheitsstrafe verurteilt worden ist, weil er<lb/> sich bald als geschieden, bald als getrennt und bald als verheiratet ausgegeben<lb/> hat. (Heiterkeit.) Darin liegt entschieden ein Widerspruch, weil das Gesetz die<lb/> Geschiedenen als verheiratet betrachtet und diese also das Recht haben, sich<lb/> selbst verheiratet zu nennen. Nun werden wir vielleicht in der heutigen Debatte<lb/> Gelegenheit haben, darauf zurückzukommen, indem diesbezüglich ein Antrag<lb/> vorliegt. Ich teile heute schon mit, daß die Polizeibehörde, respektive ein Be<lb break="no"/>amter der Polizei, der Mitglied unserer Gesellschaft ist, vielleicht die Güte<lb/> haben wird, sich darüber zu äußern, ob diesbezüglich eine Änderung durch<lb break="no"/>zudringen Aussicht hätte.<lb break="paragraph"/></p> <p>Ich bitte nunmehr unseren Herrn Schriftführer das Gutachten des Herrn<lb/> Professors <hi rendition="#smallcaps">Freud</hi>, aber immer mit bezug auch auf die Punkte des Fragebogens<lb/> zu verlesen.<lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__b2858fdb-3e07-42f2-bc54-fb94438a75bd"/>
-            <fw type="pageNum">76</fw> <p>Schriftführer <hi rendition="#bold">Fred Fakler</hi>: Herr Professor <hi rendition="#smallcaps">Freud</hi> leitet ein (liest):<lb break="paragraph"/></p> <p>„Ich antworte nur auf solche Fragen, die in näherer Beziehung zu meiner<lb/> Tätigkeit und meiner Erfahrung als Arzt stehen.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 2:</hi> Ich kann mir sehr Wohl vorstellen, daß wenigstens sukzessive<lb/> Polygamie mit unseren Kulturanforderungen verträglich gemacht wird. Es wäre<lb/> dies ja zum teil nur Sanktion bereits bestehender Verhältnisse.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 7:</hi> Vielleicht der einzig praktikable Weg, die Sittlichkeit zu fördern,<lb/> wäre die Legalisierung andrer als der ehelichen Beziehungen zwischen den<lb/> Geschlechtern, also die Einschränkung des zu verbietenden, die Gewährung<lb/> eines größern Maßes von Sexualfreiheit.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 8:</hi> Die Gleichberechtigung beider Geschlechter schließt sich geradezu<lb/> aus durch ihre verschiedenartige Rolle in der Fortpfanzungsfunktion.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 9:</hi> Unsere heutige Kenntnis der Gesetze der Erblichkeit scheint mir<lb/> nicht weit genug zu reichen, um in zahlreichen Fällen — oder Kategorien<lb/> von Fällen — ein Eheverbot auf Grund der befürchteten Schädigung der Des<lb break="no"/>zendenz auszusprechen. Neben der allgemein anerkannten Degeneration infolge<lb/> von Erblichkeit müssen auch Regenerationsvorgänge in den nachkommenden<lb/> Geschlechtern zugegeben werden; wäre es anders, so müßten wir alle heute<lb/> Lebenden längst an der fortschreitenden hereditären Degeneration zugrunde<lb/> gegangen sem.<lb break="paragraph"/></p> <p>Auch geht es nicht an, die Rechte der Lebenden allzu empfindlich zu<lb break="no"/>gunsten der Ungeborenen zu verkürzen.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 25:</hi> Die Unauflöslichkeit der Ehe widerspricht bedeutenden ethischen<lb/> und hygienischen Grundsätzen und psychologischen Erfahrungen. Sie stellt sich<lb/> insbesondere als ein Unrecht gegen das Weib dar, das durch die natürlichen<lb/> Bedingungen genötigt wird, die Ehe in sehr jugendlichem Alter, also in voller<lb/> geistiger Unreife zu schließen, und das auch noch durch die sozialen<lb/> Anforderungen gezwungen ist, ohne Kenntnis des Liebeslebens in die Ehe<lb/> zu treten.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 37: </hi>Über die Wirkungen fortgesetzter sexueller Enthaltung haben<lb/> sich die Vertreter der medizinischen Wissenschaft sehr verschieden geäußert,<lb/> zum guten Teil aber darum, weil sie mit mehr oder minder klarer Absicht<lb/> Äußerungen zu vermeiden strebten, die der herrschenden Sexualordnung un<lb break="no"/>bequem sein mußten. Viele Ärzte belieben noch heute den mächtigen Geschlechts<lb break="no"/>trieb in einem Maße zu unterschätzen, daß es jedem Kenner der realen Ver<lb break="no"/>hältnisse als komisch erscheinen muß, und dies, weil sie meinen, daß es die<lb/> Würde der Wissenschaft von ihnen fordert.<lb break="paragraph"/></p> <p>Ich vertrete die Meinung, daß es nur einer geringen Minderzahl von<lb/> besonders glücklich konstituierten Menschen möglich ist, sexuelle Abstinenz<lb/> ohne Schädigung durchzuführen, sei es, daß sie kältere Naturen sind, sei es,<lb/> daß ihnen ganz außerordentliche Ablenkungen zu Hilfe kommen. Für die<lb/> große Mehrheit aber ist die sexuelle Abstinenz über eine längere Lebensstrecke<lb/> nahezu unmöglich; den bestehenden Erschwerungen pflegen sich nur Schwäch<lb break="no"/>linge zu fügen, kraftvollere Naturen aber regelmäßig zu entziehen. Es ist zu<lb break="no"/>zugeben, daß die sexuelle Abstinenz für sich allein nicht sehr häufig als<lb/> Krankheitsursache angetroffen wird; aber dies rührt hauptsächlich daher, daß<lb/> sie normal angelegte Menschen zu durchbrechen pflegen, so daß deren<lb/> Wirkungen eigentlich nur an den pathologisch veranlagten studiert werden<lb/> können, die sich häufig auch durch einen unzweckmäßigen Ersatz für den<lb/> Sexualverkehr schädigen. Die körperliche Schädigung bei konsequenter Sexual<lb break="no"/>enthaltung laßt sich als Disposition zu verschiedenen Formen von Nervosität<lb/> beschreiben; bedeutsamer erscheinen mir aber die in der Regel wenig beob<lb break="no"/>achteten psychischen Folgen unfreiwilliger Enthaltsamkeit. Das Individuum<lb/> verbraucht seine seelischen Kräfte in dem nie rastenden Kampfe gegen die<lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__e6c97808-625a-44e7-8d1a-655b92c913b4"/>
-            <fw type="pageNum">77</fw> <p>Versuchung, und verarmt dadurch an den Eigenschaften, die es zur Be<lb break="no"/>wältigung seiner sozialen Aufgaben bedarf: an Selbstvertrauen, Energie und<lb/> Wagemut.<lb break="paragraph"/></p> <p>Das hier Gesagte bezieht sich vor allem auf Männer und auf die For<lb break="no"/>derung der Enthaltung durch lange Zeiträume. Zeitweilige Enthaltsamkeit ist<lb/> dagegen leicht zu erreichen, und zwar um so leichter, je normaler der Mann in<lb/> seinem Geschlechtsleben ist, besonders wenn ausgiebige geistige Beschäftigung<lb/> vorliegt.<lb break="paragraph"/></p> <p>Für die Frauen scheint mir festzustehn, daß ihnen die Einhaltung der<lb/> Abstinenz häufiger als den Männern gelingt, vielen von ihnen aber noch<lb/> größere psychische Opfer kostet. Ein Teil der kultivierten Frauen scheint<lb/> übrigens bereits gegenwärtig auf Frigidität gezüchtet zu sein.<lb break="paragraph"/></p> <p>Ein Aufschub des Sexualverkehrs in der Jugend ist unter normalen Ver<lb break="no"/>hältnissen ohne Schädigung möglich.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 38:</hi> Es geht aus dem vorstehenden hervor, daß ein genereller An<lb break="no"/>spruch auf Enthaltsamkeit nicht erhoben werden kann, und daß aus der Tat<lb break="no"/>sache der Ehe für keinen Teil Sexualverpflichtungen abzuleiten sind, sobald<lb/> die Ehe die Aufgabe der Befriedigung des normalen Sexualtriebes nicht mehr<lb/> erfüllt.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 45:</hi> Anhaltender Irrsinn verdient, da er das Erlöschen der Persön<lb break="no"/>lichkeit bedeutet, einen Platz unter den Gründen der Ehetrennung.<lb break="paragraph"/></p> <p><hi rendition="#em">Ad 54:</hi> Es ist nur recht und billig, die Frauen zur Beschäftigung mit<lb/> den Problemen, die ihre wesentliche Rolle im Leben betreffen, heranzuziehen<lb/> und ihnen bei allen solchen Entscheidungen eine Stimme einzuräumen.<lb break="paragraph"/></p> <p>Professor <hi rendition="#smallcaps">Dr. Sigmund Freud</hi>.“<lb break="paragraph"/></p> <p>Experte Dr. Viktor Kienböck: Meine geehrten Damen und Herren ! Ich muß<lb/> zunächst Ihre freundliche Nachsicht in Anspruch nehmen. Ich wollte die Ein<lb break="no"/>ladung, welche mir von der geehrten Kulturpolitischen Gesellschaft zugekommen<lb/> ist, nicht ablehnen, ich wollte meine Einvernahme auch nicht fortwährend<lb/> verschieben, und so bin ich heute in der Lage, vor Ihnen zu sprechen, obwohl<lb/> ich gerade heute unter Ermüdung leide und mich nicht vorbereiten konnte.<lb/> Ich bitte also nicht einen vorbereiteten Vortrag zu erwarten, sondern einige<lb/> Bemerkungen, die ich zu dem Gegenstande zu machen habe. Die geehrte Ge<lb break="no"/>sellschaft hat mich gewiß in der Erwägung hier zu sprechen ersucht, weil<lb/> meine konservativen Anschauungen einzelnen Herren bekannt sind, und man<lb/> sich interessiert hat, in meiner Person die konservative Richtung hier zum<lb/> Worte gelangen zu lassen. Nun wurde mir von einigen Seiten übel genommen,<lb/> oder es wurde wenigstens nicht erfreulich begrüßt, daß ich hier das Wort<lb/> nehme, und zwar deswegen, weil in der Vorrede zu den Fragen eigentlich eine<lb/> gewisse Tendenz hindurchleuchtet. Ich muß das als richtig anerkennen, denn<lb/> der letzte Satz der Einleitung sagt, daß es sich um die praktische Durchsetzung<lb/> von Problemen handelt, welche gedanklich bereits überwunden sind. Ich gehe<lb/> jedoch darüber hinweg und halte es für erfreulich, wenn man in einem Kreise,<lb/> wo man gewiß sein kann, daß Mißverständnisse ausgeschlossen sind, zusammen<lb break="no"/>tritt, um verschiedene Anschauungen einander gegenüberstehen zu sehen.<lb break="paragraph"/></p> <p>Eine Frage wurde in den Vordergrund der Diskussion gerückt und mußte<lb/> wohl in den Vordergrund rücken, wenn man die Strömungen der Gegenwart<lb/> verfolgt, das ist die Frage der Auflöslichkeit der Ehe. Diese Frage kann man<lb/> nicht beantworten, ohne doch etwas weiter auszugreifen. Man kann ja über<lb/> die Beziehungen der Geschlechter zueinander gewiß sehr verschiedener Meinung<lb/> sein, charakteristisch erscheinen mir jedoch nur zwei Meinungen, die einander<lb/> scharf gegenüberstehen. Die eine Meinung ist die, daß es Pflicht des Menschen<lb/> ist, den Geschlechtstrieb sittlich zu regeln und zu beherrschen, die Herrschaft<lb break="paragraph"/></p>
-         
-         
-            <pb n="4" xml:id="page__8ab2cc70-ad62-4ee7-8e94-095b9a79abe2"/>
-            <p>Mitteilungen der kulturpolitischen Gesellschaft<lb break="paragraph"/></p> <p>Protokolle<lb break="paragraph"/></p> <p>der<lb break="paragraph"/></p> <p>Enquete<lb break="paragraph"/></p> <p>betreffend die<lb break="paragraph"/></p> <p>Reform des österreichischen<lb break="paragraph"/></p> <p>Eherechts<lb break="paragraph"/></p> <p>(vom 27. Jänner bis 24. Februar 1905)<lb break="paragraph"/></p> <p>unter dem Vorsitz des<lb break="paragraph"/></p> <p>Hofrat D<hi rendition="#sub">r.</hi> Karl von Pelser-Fürnberg<lb break="paragraph"/></p> <p>Wien, 1905<lb break="paragraph"/></p> <p>Im Verlag der Kulturpolitischen Gesellschaft<lb break="paragraph"/></p> <p> <lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__07d83cd5-cc80-4874-ada9-1a40f34d0345"/>
+        <fw type="pageNum">[75]</fw>
+        <p>4. Sitzung am 8. Februar 1905.<lb break="paragraph"/>
+        </p>
+        <p>Vorsitzender: Hofrat Dr. <hi rendition="#bold">v. Pelser-Fürnberg</hi>.<lb break="paragraph"/>
+        </p>
+        <p>Redner: Dr. <hi rendition="#bold">Viktor Kienböck.</hi>
+          <lb/> Frau <hi rendition="#bold">Grete Meisel-Heß.</hi>
+          <lb/> Fräulein <hi rendition="#bold">Kamilla Theimer.</hi>
+          <lb/>
+          <hi rendition="#bold">Fritz Riederer.</hi>
+          <lb/> Dr. <hi rendition="#bold">S. Zins.</hi>
+          <lb break="paragraph"/>
+        </p>
+        <p>(Beginn der Sitzung um 7 Uhr 35 Minuten abends.)<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#bold">Vorsitzender:</hi> Ich erkläre die 4. Sitzung unserer Enquete für eröffnet.<lb break="paragraph"/>
+        </p>
+        <p>Obmann Dr. <hi rendition="#bold">Scheu</hi>: Bevor wir in die heutige Tagesordnung eingehen,<lb/> werden wir uns erlauben, ein Gutachten des Herrn Professors <hi rendition="#smallcaps">Freud</hi> vorlesen<lb/> zu lassen. Herr Professor <hi rendition="#smallcaps">Freud</hi> hat sich und zwar mit Beziehung auf die<lb/> einzelnen Fragepunkte schriftlich geäußert.<lb break="paragraph"/>
+        </p>
+        <p>Bezüglich meiner Anregung in der letzten Versammlung habe ich folgenden<lb/> Versuch gemacht, Ich habe mir einen Meldzettel angeschafft und habe mich<lb/> überzeugt, daß hier unter der vierten Rubrik es folgendermaßen heißt: „Alter,<lb/> Religion, ledig oder verheiratet oder verwitwet?“ Daraus ersehe ich, daß der<lb/> Meldzettel den Begriff des Geschiedenseins und Getrenntseins nicht kennt, und<lb/> daß man folglich auch, nachdem danach nicht gefragt wird, nicht Auskunft<lb/> zu geben braucht, ob man geschieden oder getrennt ist. Nun weiß ich aller<lb break="no"/>dings, daß von der Polizei danach gefragt wird, denn unter der Rubrik: „Name<lb/> und Alter der Gattin und Kinder“ soll auch der Wohnort der Gattin oder des<lb/> Gatten angegeben werden, und ich erinnere mich an einen Prozeß, wo jemand<lb/> mit einer ziemlich empfindlichen Freiheitsstrafe verurteilt worden ist, weil er<lb/> sich bald als geschieden, bald als getrennt und bald als verheiratet ausgegeben<lb/> hat. (Heiterkeit.) Darin liegt entschieden ein Widerspruch, weil das Gesetz die<lb/> Geschiedenen als verheiratet betrachtet und diese also das Recht haben, sich<lb/> selbst verheiratet zu nennen. Nun werden wir vielleicht in der heutigen Debatte<lb/> Gelegenheit haben, darauf zurückzukommen, indem diesbezüglich ein Antrag<lb/> vorliegt. Ich teile heute schon mit, daß die Polizeibehörde, respektive ein Be<lb break="no"/>amter der Polizei, der Mitglied unserer Gesellschaft ist, vielleicht die Güte<lb/> haben wird, sich darüber zu äußern, ob diesbezüglich eine Änderung durch<lb break="no"/>zudringen Aussicht hätte.<lb break="paragraph"/>
+        </p>
+        <p>Ich bitte nunmehr unseren Herrn Schriftführer das Gutachten des Herrn<lb/> Professors <hi rendition="#smallcaps">Freud</hi>, aber immer mit bezug auch auf die Punkte des Fragebogens<lb/> zu verlesen.<lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__b2858fdb-3e07-42f2-bc54-fb94438a75bd"/>
+        <fw type="pageNum">76</fw>
+        <p>Schriftführer <hi rendition="#bold">Fred Fakler</hi>: Herr Professor <hi rendition="#smallcaps">Freud</hi> leitet ein (liest):<lb break="paragraph"/>
+        </p>
+        <p>„Ich antworte nur auf solche Fragen, die in näherer Beziehung zu meiner<lb/> Tätigkeit und meiner Erfahrung als Arzt stehen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 2:</hi> Ich kann mir sehr Wohl vorstellen, daß wenigstens sukzessive<lb/> Polygamie mit unseren Kulturanforderungen verträglich gemacht wird. Es wäre<lb/> dies ja zum teil nur Sanktion bereits bestehender Verhältnisse.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 7:</hi> Vielleicht der einzig praktikable Weg, die Sittlichkeit zu fördern,<lb/> wäre die Legalisierung andrer als der ehelichen Beziehungen zwischen den<lb/> Geschlechtern, also die Einschränkung des zu verbietenden, die Gewährung<lb/> eines größern Maßes von Sexualfreiheit.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 8:</hi> Die Gleichberechtigung beider Geschlechter schließt sich geradezu<lb/> aus durch ihre verschiedenartige Rolle in der Fortpfanzungsfunktion.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 9:</hi> Unsere heutige Kenntnis der Gesetze der Erblichkeit scheint mir<lb/> nicht weit genug zu reichen, um in zahlreichen Fällen — oder Kategorien<lb/> von Fällen — ein Eheverbot auf Grund der befürchteten Schädigung der Des<lb break="no"/>zendenz auszusprechen. Neben der allgemein anerkannten Degeneration infolge<lb/> von Erblichkeit müssen auch Regenerationsvorgänge in den nachkommenden<lb/> Geschlechtern zugegeben werden; wäre es anders, so müßten wir alle heute<lb/> Lebenden längst an der fortschreitenden hereditären Degeneration zugrunde<lb/> gegangen sem.<lb break="paragraph"/>
+        </p>
+        <p>Auch geht es nicht an, die Rechte der Lebenden allzu empfindlich zu<lb break="no"/>gunsten der Ungeborenen zu verkürzen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 25:</hi> Die Unauflöslichkeit der Ehe widerspricht bedeutenden ethischen<lb/> und hygienischen Grundsätzen und psychologischen Erfahrungen. Sie stellt sich<lb/> insbesondere als ein Unrecht gegen das Weib dar, das durch die natürlichen<lb/> Bedingungen genötigt wird, die Ehe in sehr jugendlichem Alter, also in voller<lb/> geistiger Unreife zu schließen, und das auch noch durch die sozialen<lb/> Anforderungen gezwungen ist, ohne Kenntnis des Liebeslebens in die Ehe<lb/> zu treten.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 37: </hi>Über die Wirkungen fortgesetzter sexueller Enthaltung haben<lb/> sich die Vertreter der medizinischen Wissenschaft sehr verschieden geäußert,<lb/> zum guten Teil aber darum, weil sie mit mehr oder minder klarer Absicht<lb/> Äußerungen zu vermeiden strebten, die der herrschenden Sexualordnung un<lb break="no"/>bequem sein mußten. Viele Ärzte belieben noch heute den mächtigen Geschlechts<lb break="no"/>trieb in einem Maße zu unterschätzen, daß es jedem Kenner der realen Ver<lb break="no"/>hältnisse als komisch erscheinen muß, und dies, weil sie meinen, daß es die<lb/> Würde der Wissenschaft von ihnen fordert.<lb break="paragraph"/>
+        </p>
+        <p>Ich vertrete die Meinung, daß es nur einer geringen Minderzahl von<lb/> besonders glücklich konstituierten Menschen möglich ist, sexuelle Abstinenz<lb/> ohne Schädigung durchzuführen, sei es, daß sie kältere Naturen sind, sei es,<lb/> daß ihnen ganz außerordentliche Ablenkungen zu Hilfe kommen. Für die<lb/> große Mehrheit aber ist die sexuelle Abstinenz über eine längere Lebensstrecke<lb/> nahezu unmöglich; den bestehenden Erschwerungen pflegen sich nur Schwäch<lb break="no"/>linge zu fügen, kraftvollere Naturen aber regelmäßig zu entziehen. Es ist zu<lb break="no"/>zugeben, daß die sexuelle Abstinenz für sich allein nicht sehr häufig als<lb/> Krankheitsursache angetroffen wird; aber dies rührt hauptsächlich daher, daß<lb/> sie normal angelegte Menschen zu durchbrechen pflegen, so daß deren<lb/> Wirkungen eigentlich nur an den pathologisch veranlagten studiert werden<lb/> können, die sich häufig auch durch einen unzweckmäßigen Ersatz für den<lb/> Sexualverkehr schädigen. Die körperliche Schädigung bei konsequenter Sexual<lb break="no"/>enthaltung laßt sich als Disposition zu verschiedenen Formen von Nervosität<lb/> beschreiben; bedeutsamer erscheinen mir aber die in der Regel wenig beob<lb break="no"/>achteten psychischen Folgen unfreiwilliger Enthaltsamkeit. Das Individuum<lb/> verbraucht seine seelischen Kräfte in dem nie rastenden Kampfe gegen die<lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__e6c97808-625a-44e7-8d1a-655b92c913b4"/>
+        <fw type="pageNum">77</fw>
+        <p>Versuchung, und verarmt dadurch an den Eigenschaften, die es zur Be<lb break="no"/>wältigung seiner sozialen Aufgaben bedarf: an Selbstvertrauen, Energie und<lb/> Wagemut.<lb break="paragraph"/>
+        </p>
+        <p>Das hier Gesagte bezieht sich vor allem auf Männer und auf die For<lb break="no"/>derung der Enthaltung durch lange Zeiträume. Zeitweilige Enthaltsamkeit ist<lb/> dagegen leicht zu erreichen, und zwar um so leichter, je normaler der Mann in<lb/> seinem Geschlechtsleben ist, besonders wenn ausgiebige geistige Beschäftigung<lb/> vorliegt.<lb break="paragraph"/>
+        </p>
+        <p>Für die Frauen scheint mir festzustehn, daß ihnen die Einhaltung der<lb/> Abstinenz häufiger als den Männern gelingt, vielen von ihnen aber noch<lb/> größere psychische Opfer kostet. Ein Teil der kultivierten Frauen scheint<lb/> übrigens bereits gegenwärtig auf Frigidität gezüchtet zu sein.<lb break="paragraph"/>
+        </p>
+        <p>Ein Aufschub des Sexualverkehrs in der Jugend ist unter normalen Ver<lb break="no"/>hältnissen ohne Schädigung möglich.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 38:</hi> Es geht aus dem vorstehenden hervor, daß ein genereller An<lb break="no"/>spruch auf Enthaltsamkeit nicht erhoben werden kann, und daß aus der Tat<lb break="no"/>sache der Ehe für keinen Teil Sexualverpflichtungen abzuleiten sind, sobald<lb/> die Ehe die Aufgabe der Befriedigung des normalen Sexualtriebes nicht mehr<lb/> erfüllt.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 45:</hi> Anhaltender Irrsinn verdient, da er das Erlöschen der Persön<lb break="no"/>lichkeit bedeutet, einen Platz unter den Gründen der Ehetrennung.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#em">Ad 54:</hi> Es ist nur recht und billig, die Frauen zur Beschäftigung mit<lb/> den Problemen, die ihre wesentliche Rolle im Leben betreffen, heranzuziehen<lb/> und ihnen bei allen solchen Entscheidungen eine Stimme einzuräumen.<lb break="paragraph"/>
+        </p>
+        <p>Professor <hi rendition="#smallcaps">Dr. Sigmund Freud</hi>.“<lb break="paragraph"/>
+        </p>
+        <p>Experte Dr. Viktor Kienböck: Meine geehrten Damen und Herren ! Ich muß<lb/> zunächst Ihre freundliche Nachsicht in Anspruch nehmen. Ich wollte die Ein<lb break="no"/>ladung, welche mir von der geehrten Kulturpolitischen Gesellschaft zugekommen<lb/> ist, nicht ablehnen, ich wollte meine Einvernahme auch nicht fortwährend<lb/> verschieben, und so bin ich heute in der Lage, vor Ihnen zu sprechen, obwohl<lb/> ich gerade heute unter Ermüdung leide und mich nicht vorbereiten konnte.<lb/> Ich bitte also nicht einen vorbereiteten Vortrag zu erwarten, sondern einige<lb/> Bemerkungen, die ich zu dem Gegenstande zu machen habe. Die geehrte Ge<lb break="no"/>sellschaft hat mich gewiß in der Erwägung hier zu sprechen ersucht, weil<lb/> meine konservativen Anschauungen einzelnen Herren bekannt sind, und man<lb/> sich interessiert hat, in meiner Person die konservative Richtung hier zum<lb/> Worte gelangen zu lassen. Nun wurde mir von einigen Seiten übel genommen,<lb/> oder es wurde wenigstens nicht erfreulich begrüßt, daß ich hier das Wort<lb/> nehme, und zwar deswegen, weil in der Vorrede zu den Fragen eigentlich eine<lb/> gewisse Tendenz hindurchleuchtet. Ich muß das als richtig anerkennen, denn<lb/> der letzte Satz der Einleitung sagt, daß es sich um die praktische Durchsetzung<lb/> von Problemen handelt, welche gedanklich bereits überwunden sind. Ich gehe<lb/> jedoch darüber hinweg und halte es für erfreulich, wenn man in einem Kreise,<lb/> wo man gewiß sein kann, daß Mißverständnisse ausgeschlossen sind, zusammen<lb break="no"/>tritt, um verschiedene Anschauungen einander gegenüberstehen zu sehen.<lb break="paragraph"/>
+        </p>
+        <p>Eine Frage wurde in den Vordergrund der Diskussion gerückt und mußte<lb/> wohl in den Vordergrund rücken, wenn man die Strömungen der Gegenwart<lb/> verfolgt, das ist die Frage der Auflöslichkeit der Ehe. Diese Frage kann man<lb/> nicht beantworten, ohne doch etwas weiter auszugreifen. Man kann ja über<lb/> die Beziehungen der Geschlechter zueinander gewiß sehr verschiedener Meinung<lb/> sein, charakteristisch erscheinen mir jedoch nur zwei Meinungen, die einander<lb/> scharf gegenüberstehen. Die eine Meinung ist die, daß es Pflicht des Menschen<lb/> ist, den Geschlechtstrieb sittlich zu regeln und zu beherrschen, die Herrschaft<lb break="paragraph"/>
+        </p>
+        <pb n="4" xml:id="page__8ab2cc70-ad62-4ee7-8e94-095b9a79abe2"/>
+        <p>Mitteilungen der kulturpolitischen Gesellschaft<lb break="paragraph"/>
+        </p>
+        <p>Protokolle<lb break="paragraph"/>
+        </p>
+        <p>der<lb break="paragraph"/>
+        </p>
+        <p>Enquete<lb break="paragraph"/>
+        </p>
+        <p>betreffend die<lb break="paragraph"/>
+        </p>
+        <p>Reform des österreichischen<lb break="paragraph"/>
+        </p>
+        <p>Eherechts<lb break="paragraph"/>
+        </p>
+        <p>(vom 27. Jänner bis 24. Februar 1905)<lb break="paragraph"/>
+        </p>
+        <p>unter dem Vorsitz des<lb break="paragraph"/>
+        </p>
+        <p>Hofrat D<hi rendition="#sub">r.</hi> Karl von Pelser-Fürnberg<lb break="paragraph"/>
+        </p>
+        <p>Wien, 1905<lb break="paragraph"/>
+        </p>
+        <p>Im Verlag der Kulturpolitischen Gesellschaft<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

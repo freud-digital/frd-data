@@ -1,314 +1,723 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1900-002): Cerebrale Kinderlähmung I-III [1898-1900]</title>
-            <title type="manifestation" level="a">Cerebrale Kinderlähmung [I] [32 Rezensionen] (1900-002/1898)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1900-002): Cerebrale Kinderlähmung I-III [1898-1900]</title>
+        <title type="manifestation" level="a">Cerebrale Kinderlähmung [I] [32 Rezensionen] (1900-002/1898)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1900-002-1900">
-                     <analytic>
-                        <title type="manifestation">Cerebrale Kinderlähmung [III] [32 Rezensionen und Zusammenfassungen]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
-                           <date when="1899-01-01">1899-01-01</date>
-                        </imprint>
-<extent>618 Seiten</extent>                        <biblScope unit="volume">3</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1900-002-1899">
-                     <analytic>
-                        <title type="manifestation">Cerebrale Kinderlähmung [II] [29 Rezensionen und Zusammenfassungen]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
-                           <date when="1898-01-01">1898-01-01</date>
-                        </imprint>
-<extent>642 Seiten</extent>                        <biblScope unit="volume">2</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1900-002-1898" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Cerebrale Kinderlähmung [I] [32 Rezensionen]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <imprint>
-                        <date when="1897-01-01">1897-01-01</date>
-                     </imprint>
-                     <extent>632 Seiten</extent>
-                     <biblScope unit="volume">1</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__631783c1-c02a-4818-962c-e58ffa4ab390">
-                        <title>Cerebrale Kinderlähmung [I] [32 Rezensionen]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1900-002-1900">
+            <analytic>
+              <title type="manifestation">Cerebrale Kinderlähmung [III] [32 Rezensionen und Zusammenfassungen]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <date when="1899-01-01">1899-01-01</date>
+              </imprint>
+              <extent>618 Seiten</extent>
+              <biblScope unit="volume">3</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1900-002-1899">
+            <analytic>
+              <title type="manifestation">Cerebrale Kinderlähmung [II] [29 Rezensionen und Zusammenfassungen]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <date when="1898-01-01">1898-01-01</date>
+              </imprint>
+              <extent>642 Seiten</extent>
+              <biblScope unit="volume">2</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1900-002-1898" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Cerebrale Kinderlähmung [I] [32 Rezensionen]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Jahresbericht über die Leistungen und Fortschritte auf dem Gebiete der Neurologie und Psychiatrie</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <date when="1897-01-01">1897-01-01</date>
+              </imprint>
+              <extent>632 Seiten</extent>
+              <biblScope unit="volume">1</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__631783c1-c02a-4818-962c-e58ffa4ab390">
+                <title>Cerebrale Kinderlähmung [I] [32 Rezensionen]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1900-002/1898</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/cerebrale-kinderlahmung-i-32-rezensionen/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/631783c1-c02a-4818-962c-e58ffa4ab390</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__a0372947-6920-4c0f-9906-283758c7f68c">
-                              <title>Freud, Sigmund  (1900-002): Cerebrale Kinderlähmung I-III [1898-1900]</title>
-                              <idno type="url">https://www.freud-edition.net/cerebrale-kinderlaehmung-iii</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0372947-6920-4c0f-9906-283758c7f68c</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1900-002/1898</idno>
+                <idno type="url">https://www.freud-edition.net/werke/cerebrale-kinderlahmung-i-32-rezensionen/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/631783c1-c02a-4818-962c-e58ffa4ab390</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__a0372947-6920-4c0f-9906-283758c7f68c">
+                    <title>Freud, Sigmund  (1900-002): Cerebrale Kinderlähmung I-III [1898-1900]</title>
+                    <idno type="url">https://www.freud-edition.net/cerebrale-kinderlaehmung-iii</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a0372947-6920-4c0f-9906-283758c7f68c</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-30">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__acf2e30b-3960-4a3b-b450-38f52ae44941"/>
-            <p>(lerehrulc l\'inderlzihmung. 613<lb break="paragraph"/></p> <p>Berührung (ler Narbe macht Schmerzen.1 Unruhe, Aengstliuhkeit untl<lb/> unangenehme Empﬁndungen im Kopf. An der linken Körperhälfte gering<lb break="no"/>fügige Herabsetzung der Empﬁnclungsfähigkeit für Berühruugen, leichte<lb/> Steigerung derselben für leelstiche. Muskulatur tler linken Glieder<lb/> etwas rigide. Active Bewegungen der linken Hand uncoordiniort. Ob<lb break="no"/>wohl der Kranke mit verbundenen Augen die allgemeinen Eigenschaften<lb/> der ihm in die linke Hand gelegten Gegenstände vrkannte (gross, dünn,<lb/> lung. rauh, rund, hart, schwer u. s. w.), vermochte er die Gegenstände<lb/> sell1&gt;t nicht zu erkennen, konntn- also die. vorhandenen elementaren Tast—<lb/> emptimlungen nicht zu einer rivhtig4—n 'l'nstvorstellnng verbinden.<lb break="paragraph"/></p> <p>Cerebrale Kinderlähmung.<lb break="paragraph"/></p> <p>Referent: Priv.-Doc. Dr. Freud—Wien.<lb break="paragraph"/></p> <p>l. ;\hruhuin„. Bertram, liemiplegin in an iuluut. Clinical Society of Lumlüll. L=“ICL'l<lb/> 3“. Okt.<lb break="paragraph"/></p> <p>2. vnn ,\schcn. H., Ueber die Stellung (lvr Inl'nnlilen Cerrln—nllülunung zu den<lb/> eiulugoncn Erkrankungen. Innug.-Üiss. Leipzig.<lb break="paragraph"/></p> <p>3. llischnft'. G., Cerebrnle Kinderlähmung urn-h Sehllüg0lblllhilig. Juhrl). f. P—“."£'"<lb break="no"/>und Nunrol. XV.<lb break="paragraph"/></p> <p>4— Bourneville et Relluy. lmln'rcilliti—, pnrnph":,"iu “P"—°°““'"“‘l“°i mal=ulie “" Little.<lb break="paragraph"/></p> <p>. l’rugri-s méd. Nu. ”ll.<lb break="paragraph"/></p> <p>z- liruwer. lt.. Four cases of Diplcgln in :- family of fivﬂ. Mctluciﬂ°, «lim.<lb break="paragraph"/></p> <p>. lluccelli. N.. Pnrnlisi Spinale e oerubrnle infnutilu n. formaepidemina. (Epitleniisch<lb/> uultretcnrle spinulc und cerehrale l\'inclerlithmung.) ll Policlinico. IV. M. p, 249.<lb break="paragraph"/></p> <p>7. llujt-rine. Dcnx aus du. rigidité spnsmmliquc eongénitulc Muladie de Little suivis<lb/> tl‘autupz.ie. Comptes Rnndua liehd. de ln Sue. (le Biol. 13. März.<lb break="paragraph"/></p> <p>3- llercnm, Three cases of the family type of cerebrnl diplegin. The Journ. of<lb/> nur. und ment. dis. No. 7.<lb break="paragraph"/></p> <p>9' Fé“y‘, Ch.. Note sur l’asymétrie rrnnin-fncinlo dans l‘hcmiplégie spnsnwtlique in<lb break="no"/>funtile. Nouv. Iconogr. de la Sulpétriéro.<lb break="paragraph"/></p> <p>;? Gusne, Denx cas de pnraplégie spusmodiqne inl'unlile. Gazette hebthm. No. 29.<lb break="paragraph"/></p> <p>' "ln Gehuehton, Malatlie de Little et rigiditt'- spnsmodique spinale (les enf:mts<lb/> mesuwant termß Revue neurol. No- 3.<lb break="paragraph"/></p> <p>9"’”&gt; J_, Ein Fall von angeborener ccrebmlnr Diplegie bei einem nur. exlruutcriner<lb break="paragraph"/></p> <p>h“l""mg'3rscl'mfl: stammenden Säugling. Arch. f. Kinderhk.<lb break="paragraph"/></p> <p>“““15l‘alter et Thiry, Denx cas de rigidité spasmuclique inl'nntile nvernutnpsle.<lb break="paragraph"/></p> <p>Commea rend. de in sec. de Biel 3. Juillet.<lb break="paragraph"/></p> <p>“°“. Vorstellung eines Falles von rechtsseitiger Hemiplegie (Aerztlicher Verein<lb break="paragraph"/></p> <p>Ill.Humb“rgy 15. Juni. Deutsche med. \\‘och. No. 46. Verein.—:br-ilugc).<lb break="paragraph"/></p> <p>. lt‘f'gdon nnd Russell, Infantile Certabml Degeneration. Nottingham Medien<lb break="no"/>(;‘1‘“5rg- Society. Lancet 27. Nov.<lb break="paragraph"/></p> <p>' It"'“€x Ueber cerebral bedingte Conuplirntionen, welche «ler ccrehrnlen Kinder<lb break="no"/>I"h"“lng wie (ler einfachen Idiotic gemeinsmn sind. sowin über die nl)orti\'en<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__be62c80c-2569-41bb-8a19-4bf8a1ab9b31"/>
-            <p>(il—l (‘ur.-hrale l\'indu)i'lülWiung.<lb break="paragraph"/></p> <p>Formen der an“-run. l3r-rl. Ge.—ollsch. [. l’sycli. u. Nervcnkr. Sitz. v. H. Juni.<lb/> Nvui'nl. ('vull‘alhl. No. 13.<lb break="paragraph"/></p> <p>17. Landau. lh-ilrag zur ;\L‘liiiliigiv tl\‘l' Ccrvlu'alliilimungen der Kinder. TIN-rap.<lb/> \\?)4'houm'lll'. Nu. -l(i.<lb break="paragraph"/></p> <p>IS. l.vdcrm ann. W.. ’clwr coruhrale Kimlm'lälnnung. (llemiplcgia spmlica iufan<lb break="no"/>lilis.) lnaug.-l‘ixs. Berlin.<lb break="paragraph"/></p> <p>19. l.v\'i. .‘\lllélllu l‘iiu Fall \"un lli‘iiiiplugia uui'ehrnlis nach l)lplltl)el‘ir'. Arch. f.<lb/> l(llllll‘l‘ll0lll(. ‘.’.. lid.<lb break="paragraph"/></p> <p>20. l.ornnz. .-\.. L’vlwl' die chirurgische llvliaiiqlliing nlnr augc‘lmrencn spuslisclnrn<lb/> (’ilimlvr.—la \Vivu. kliu Rundschau. No. 21—27.<lb break="paragraph"/></p> <p>21, Mann. |... \‘an (‘ivhnchhru‘n uvm“ 'l'henriu ill-cr die. Palliogenvse der l.inlo\rlxen<lb/> Krankheit. sowie dor spasli.—chon Liilnuungun im ,\llgemeiurn. l.hln(rallil. [. Norwa<lb break="no"/>lieilk. .\l: —.luni.<lb break="paragraph"/></p> <p>.\las.—talunuu, “„<lb break="paragraph"/></p> <p>Lu diplv;_-ie ü'l'4‘l)l'llll «lcll’ inlanzin (_uialaitia di Linda). !'lli0<lb break="paragraph"/></p> <p>'" ‘. ll l’olivliniuo l\". .\l. p, 31.<lb break="paragraph"/></p> <p>‘2.“., Ill ill&gt;. ('li. K.. „\ vn.xl‘ nl cru'x-lu‘al diplcgia. :lnni'u. nl'm-rv. und. man dia. NO.S.<lb break="paragraph"/></p> <p>24. Äluralnu‘. lJit‘ coug_wnilalc vurnlvralc Dipln-,g-ie als eine lilii|iwlig lir:lul;lmitsfurnl<lb/> (U x‘un_iu p.—ivlijali‘ji nvvrnlngji. Nu. ]. :.<lb break="paragraph"/></p> <p>“25. lh- lm. l\'lini&gt;che _nml pillllül'.",llü‘llt‘ Bei<lb/> ccrchralvn l.5ihmun;_r im l\'imlvsallvr. lt. Zn<lb break="paragraph"/></p> <p>unuhrah-u l\'imlu<lb break="paragraph"/></p> <p>«‘ zur Lohn- \'un der lmi4lvr.wiiigﬂn<lb break="paragraph"/></p> <p>hr. f. NPi'v-snhk. X.<lb break="paragraph"/></p> <p>“36. Philippi: nl (J.-,sinn. Etat du l'aisco,au ]._\'raniidnl (hullie er iuovlle) dan.— qualr0<lb/> cas de conti'acturv spnsnumliqnc inl'anlilv. ,_vmlromc de Lililo.3 l’l'ngr'cs inédical<lb/> VI. p. -l'ih’. Hq'miét(‘ de Biol. LS. Dez.<lb break="paragraph"/></p> <p>27. Raymond, Sur \in L': ‘. (ln rigidité &gt;|ia.—nimliqnv (l\=.&lt; nicmhrvs iul'i-i'ivul‘a (lualmlio<lb/> de Little). Smuaine nu'-rliralv. Nu. IT.<lb break="paragraph"/></p> <p>28. Sachs. B.. Little} lliseasv. &gt;llﬂll wo retaiu llll3 name? Journ.ufuerv. und nn'nl»<lb/> Dis. Dec-.<lb break="paragraph"/></p> <p>2fl. Spiller, “'n. S., .\ clinical study uf inl'anlilv hcmiplegia. Journ. uf nm'\u and<lb/> nu-nt. disvam‘.<lb break="paragraph"/></p> <p>30. Tauffui‘, W.. Ein Fall von augelinrmn‘l' cvl'xfhralvr l)ipleg_fir. Ai‘vli. l'. l\'invlürlllß<lb/> Bd. 22.<lb break="paragraph"/></p> <p>3l. Thum pson. .\luitlaml. (_'vr.-hral haenml‘rhagc in child. West l.nndun Med.<lb break="no"/>l,‘hir. Sm-ie ‘. Lan-set. 13. Nm".<lb break="paragraph"/></p> <p>3:3. l.'Urrinla, ("im (dc Panama). Paraplégiu &gt;pa.-Aiiuitliqi16 infanlilu. ,\ruh. de Neu<lb break="no"/>rologie. No. 18.<lb break="paragraph"/></p> <p>ill}. \\"oiss, II., l‘iin Fall mu Paraplegia spa.—lir.a inl'antilix Wiener kl. llnml&lt;rlia\l.<lb/> No. 8. W. Inediz. Clul„ hl. Frhr.<lb break="paragraph"/></p> <p>34. WV ().. Zur lmlm- der l\'iiiderliilunnng. l\'. klin. ;\erztctag in Zürich.<lb/> Schwow.ur (‘-nu‘ro&gt;p.-lllall, ]. Mai. ‘<lb break="paragraph"/></p> <p>A. 110 1uiplegien.<lb break="paragraph"/></p> <p>Splllet‘ ('29). Ausführliche- klinische Arbeit, reich an interessanten<lb/> Einzelheiten, gegründet auf die Unter=uchung von 233 Fällen aus<lb/> Cl]. K. Mills“ Ordination. 23 Mädchen, 10 Knaben. 17 rechtsseitige.v<lb/> 10 linksseitige Hemiplegien. Faciulparese in 6 Fällen, Zungennbwoicliu“ß<lb/> in —L. in 1 Falle deutliche halbseitige Atropl1ie der Zunge. In 16 Fälle“<lb/> Verschmälerung des Thorax der gelähmten Seite. lntelligenzabsrlnväcliü_ü%<lb/> in 13 Fällen. zwischen dieser und den motorischen Symptomen keine<lb/> feste Relation. Aplmsiea wurde nicht beobachtet, wn nicht hochgradig? ln—<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__e234659f-fc87-445c-ab4f-5c8a51fef959"/>
-            <p>(l‘ei'rbralc l\'imlerlübnulng. (il?)<lb break="paragraph"/></p> <p>telligenzsrlm'i'u'he bestand. 'l‘rophisebe Störungen bestanden in 231 Fällen.<lb/> Die Sensibilität war in allen Fällen normal.<lb break="paragraph"/></p> <p>Epileptiforme, Zufüllc bei 22 Fällen. Die Ant'i'dle vor dem .—\uftreten<lb/> der Lähmung werden als S_\'niptnme und nieht als \i'erursaebung des<lb/> Leidens aufgefasst.<lb break="paragraph"/></p> <p>Einzelne Fälle. die durch besundere Symptome. auffallen. werden<lb/> ausführlich mitgetheilt. Sn fl“all I von reebtsseitiger lleniiplegie mit<lb/> ;\trophie, der durch das Fehlen der ("ontrnrtnr und Reﬂexsteigeruug<lb/> bis auf geringe, Spuren zu diagnostisehen Bedenken Anlass gab. Fall Ill<lb/> zeigt erhebliche\Varbs'rhum\‘erkümmerung an den Endgliedern der gelühmtrn<lb/> Extremitäten bei gleicher Längenentwieklung. Fall l\' und \' geben<lb/> Beispiele für die in (5 Fällen beobachtete Ueberstrrckbarkeit und Seblaﬁ’—<lb/> llt‘l‘ der Finger, die selbst mit (,'ontrnrtur im Handgelenk vereinbar ist.<lb/> In Fall VI bestand eine latente Contrartur des llandgelenkes. die bei<lb/> passiven Bewegungen manifest wurde. Sp. fragt mit Recht, ob hier<lb/> therapeutische Massnahmen \'nn gewisser Art nicht die Gefahr mit &gt;'i«‘b<lb/> llflichten, die (antractur zu tixiren. An der Hand dieses Kindes waren<lb/> athetoide Bewegungen zu beobachten. Fall XI” zeigte sehr deutliche<lb/> Il€llliutrophia t'arinlis. der einzige der Sammlung; Fall XVIII war dureh<lb/> "kﬁw Uebungen von Seiten der Kranken sehr gebe&lt;=ert wurden. hir<lb break="no"/>Mlltter dieser Kranken hatte gleichfalls eine linkss ge llemiplrgie<lb/> besessen, sodass die Corigenitale Aﬂ'ektion der kleinen Patientin sehr whbl<lb/> berevlitür sein könnte, wie Oppenheim einen sulchen Fall besehrie'wn<lb/> hat. Full XXX zeigte Contractur an einem Arm und an beiden Bemen:<lb/> Full XXX] postbemiplegisrhen Tremor und Zur-kungen im Gesirbt.<lb break="paragraph"/></p> <p>Ferner werden zwei Sektionsbefunde mitgetbeilt. Das Gehirn de.—‘<lb/> ersten dieser Fälle zeigte. nichts als Sklerose in der linken Hemispbürr<lb/> ‘“1fllﬂs Gebiet der Arteria cerebri media beschränkt. Klinisch: Rechts<lb break="no"/>S“itige Hemiplegie seit einem „Schreck‘“ in früher Kindheit. Epilel‘ﬁl"<lb/> Erst mit 10 Jahren. Sehr mangelhaftes Sprachvermögen und schlechte<lb/> lnt.elligenz; bis zu 13 J. konnte der Knabe gehen, von da an\'ersehlimmerung,<lb/> die das Gehen unmöglich machte. Der zweite Sektiunsbet'und ist der<lb/> einer Poreneeplmlie der linken l-[emisphüre mit Einbeziehung der Brocﬂ'r‘efllt'"<lb/> '\_tellt'. Rechtsseitige Lähmung und Atrophie; das Kind konnte sehr “"“-'"<lb/> .&lt;lngen_<lb break="paragraph"/></p> <p>. Endlich einige Notizen über einen Fall rongenitaler Chorea mit leisen<lb/> hemll’le‘s’i5dlml Symptonen (linksseitigc Fucialparese. subjektive S\'b\\'i'll'll"<lb/> der linken Extremitäten). '<lb break="paragraph"/></p> <p>‘ Ledermann (IS). Darstellung des bekannten Krankheitsbiler und<lb/> Mlttheil‘mg ZWeier Fälle bei Personen reiferen Alters beobachtet. \'&lt;m<lb/> denen der zweite Fall eigentlieb als Poliomvelitis infant. diagnosticirt wird<lb/> und nur durch die Erhaltung des PMellm-retlexes Anlass zur (liagnnstisehen<lb/> B“"?lmng =lllf Cerebralläihmung giebt.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="4" xml:id="page__e49e130f-f90e-4d64-962b-b28372855ce4"/>
-            <p>(illi Ccl'ehralu l\'inqlerlühniung.<lb break="paragraph"/></p> <p>Wyss (fl-l). Vorstellung eines Falles mit rechtsseitiger totaler<lb/> l*‘urialislähinung und linksseitiger Extremitätenlähmung. D:). letztere zu<lb break="no"/>rückging, erstere blieb, und Tumor, Blutung, Embnlie und peripher.<lb/> ]f‘acialislähmung ausgeschlossen werden konnten. nahm W. eine Palin<lb break="no"/>&lt;-ncephalitis im Pens lokalisirt an. Elektrische Erregburkeit gut, noch<lb/> keine Atrnphie.<lb break="paragraph"/></p> <p>Hess (14). 5‘j._,j. Knabe, seit dem Alter um ‘:g J. plötzlich gelithmt,<lb/> Mutter erlitt intra pur-tum einen sehr grossen Schreck. Das Bein besserte<lb/> sich so rasch, dass das Kind mit; einem Jahr laufen lernte; der Arm ist<lb/> verkürzt und abgenmgert, ebenso die l'ntersehenkel, Beuge-Contrncturen<lb/> (les Armes. Der Fall wird als l’ulioencephalitis vorgestellt.<lb break="paragraph"/></p> <p>Abrahams (l). 2‘J,j. Kind, in den ersten Tagen einer nicht gerade<lb/> schweren Erkrankung an Keuchhusten plötzlich von rechtsseitigen Conrul<lb break="no"/>sionen befallen, bewusstlos. Pupillen erweitert, unempﬁndlich gegen Licht,<lb/> N)'stagrnus. Am. folgenden Tage einige leichtere Anfälle. Einige Tage<lb/> darauf complete rechtsseitige Hemiplegie (mit. Aphasie), die sich dann zu<lb/> besser-n begann und zwurnm Bein eher als am Arm. Herz gesund, etwas<lb/> Alhuminurie naclnveishar. A. hält eine Huemorrhagie für wahrscheinlicher<lb/> als eine Embolie. Sutherland berichtet über einen Fall mit. ganz<lb/> ähnlichem Beginn. der sich dann als tuherkulüse Meningitis herausstellte<lb break="no"/></p> <p>A. Levi (H)). Ü_iiihr. Kind, eine Woche nach der Erkrankung mit<lb/> .‘—*“"graenöser Form der Diphtheritis aufgenommen, und wiederholt mit<lb/> Behring’schem Serum injiriert. Am 13. Tag der Erkrankung wird die.<lb/> Sprache näselnd, drei Tage später I‘m-ese des Gnumensegels und der<lb/> Arcnmodation, später Nierennﬁ'ektion, Endocarditis acutu, Drüsvll<lb break="no"/>absr-edirung, Otitis (lextl'3. In der fünften Woche seit Krankheitsbeginn<lb/> plötzlicher npnplektiseher lnsult, linksseitige Facinlis— und Körperpm‘859,<lb/> die sich nach Stunden bessern. Am nächsten Tage dieselben Lithrnungiän<lb/> nach neuerlichem Insult, die jetzt anhalten. 57Tage später einseitige<lb/> Pan-se (ler Nackenrnuskeln, so dass der Kopf, gegen die linke Schulter<lb/> geneigt, mit dem Kinn das Sternum berührt. — Allmähliche Besserung<lb/> bis auf Schwäche. und Steifheit in den Bewegungen des linken Armes.<lb break="paragraph"/></p> <p>Zusammenstellung von 34 in der Literatur verzeichneten Fällen von<lb/> hemiplegischer Lähmung nach Diphtherie. Die Ursachen derselben scheinen<lb/> die nämlichen zu sein wie. bei andern Hemiplegien der Kinder, nämlich<lb/> Haenmrrhagie, l'31nbolie und Thrombose. ’<lb break="paragraph"/></p> <p>Bischoff (3).31jiihr. Krnnke, hereditiir nichts bekannt, bis 2% Jahr<lb/> gesund. Damals nach plötzlichem Anfall von Convulsionén rechtsseitig<lb/> gn=läihmt, allmählich stellten sich Contracturen ein. Häuﬁge Wiederkehr<lb/> «pileptischer Anfälle. Mit 26 Jahren nufgenonunen, zeigte sie. starke<lb/> rerhtsseitige Contrneturen, Fucialparese, typische Athetose der rechten<lb/> Hand, dort auch Schmerz und Berührungsempﬁndlichkeit stark abge<lb break="no"/>stumpt't. Reﬂexsteigerung, trophisches Zurückbleihen der rechten Gesichts<lb break="no"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="5" xml:id="page__730aec47-ec03-4a3a-b3b5-38c934318985"/>
-            <p>Cl:rebrule l\'inderliihmuug. 617<lb break="paragraph"/></p> <p>hälfte und der geliihmten Extremitäten. Leiehter Srln\'uchsinu, Tod im<lb/> Status epileptic-us„<lb break="paragraph"/></p> <p>Die Section ergab keine andere Veränderung als eine Cyste- im<lb/> dnrsulen Theil des linken Sehhügels. Die linke Pyramidenbahn, nicht<lb/> direkt geschädigt, zeigt nichts als eine gleirhmüssige Verkleinerung, uns<lb/> der man sich die schwere Hemiplegie nicht gut erklären kann. B. neigt<lb/> zu dem Erklärungsversuch, dass die Ilemiplegie durch die Unterbrechung<lb/> sensibler, zum motorischen Centrum führender, Bahnen herbeigeführt<lb/> wurde, nach dem von Exner entwickelten Prineip der Senso-Mobilität.<lb/> Ein Hauptinteresse der Mittheilung liegt in der Verwerthung des<lb/> putln‘ulogisehen Befunfles für den Fuserverlunf im Sehhügel.<lb break="paragraph"/></p> <p>B. Diplegien.<lb break="paragraph"/></p> <p>B. Sachs (28). Bei dem heutigen Stunde unserer Kenntnisse ist es<lb/> ganz der Willkür überlassen, was ein Autor unter dem Namen Little’srhe<lb/> Krankheit verstehen will, da weder Aetiologie noch Symptomatik die<lb/> Abgrenzung einer so zu bezeirhnenden Gruppe von Fällen im Sinne Little’s<lb/> gestalten. Die einzig zulässige Eintheilung der Fälle von lnfnntiler<lb/> (‘erebrnllähmung wäre die nach der Aetiologie in „prnenatnle. Geburts<lb break="no"/>lälunungen, und erworbene“ Fülle. Eine vom Autor mitgetheilte, von<lb/> Donuf bearbeitete Ueberselmu von 50 Beobachtungen erhärtet die<lb/> bnregelmässigkeit der Beziehungen zwischen den Krankln:itssymptomen<lb/> uml'der Little’schen Aetiologie. Die Versuche von Brissuud und<lb/> von Gehuohten, die Little’sche Krankheit zu deﬁniren, haben die hier<lb/> herrschende Verwirrung nur gesteigert durch unrechtmi'tssige Bestimmung<lb/> &lt;le Abgrenzungen und Zerreissung des klinischen Zusamnlenhnnges.<lb/> _Vfln (1'ehuchten’s Erklärung für das klinische Bild der parnplegischen<lb/> starre (uns dem Zurückbleihen der Axencylinden-bildung der Pyramiden<lb break="no"/>Stränge in Folge der Frühgeburt) ist unzuläuglinh.<lb break="paragraph"/></p> <p>, Der Autor räth dazu, den Terminus Little’sa—he Krankheit als der<lb/> \erwirrung dienend ausser Gebrauch zu setzen.<lb break="paragraph"/></p> <p>_ Van Gehuchten (11), welcher schon in einigen früheren Arbeiten<lb/> (nn Journal de neurologie et d’hypnologie 1896 und 1897) der von<lb/> l'i'eud versuchten, von Raymond u. A. ncceptirten Aufstellung einer<lb/> khmschen Einheit der „Cerebralen I)iplegien“ widersprechen, wiederholt<lb/> "1 diesem Aufsatz seine früher geüusserten Ansichten und deren Be<lb break="no"/>giün(lung_ Er stellt als die eine der zu sondernden Aﬂ'ektionen des<lb/> I“114103311.ex'sdie„Rigidit.é spusmodique spinnle. des enfunts nés avant<lb/> tel—me“ hin, die sich klinisch nuszeiehnet durch das Auftreten des<lb/> sl‘“5ti5°llen Symptomcomplexes (Contructur, Reﬂexsteigerunga Ab<lb break="no"/>-"Clliv="xchung des Willenseinﬂusses) ohne jede sonstige Complicati0n,<lb/> netrologisch durrh das Moment der Frühgeburt. und für die er im Gegen<lb break="no"/>iältz zu Marie und Brissuud eine spinale Herkunft beansprucht, da die<lb/> b-"ml’tmne der reinen parnplogischen Stm're sich nach ihm darauf zurück<lb break="no"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="6" xml:id="page__9eb9406a-4ce4-4ba3-b73c-7aa0a68dc1c2"/>
-            <p>618 ('erelvrale l(ilnlerliihlnung.<lb break="paragraph"/></p> <p>führen, dass die .\xrmg\'limler der l’_\' anlidenfasern zur Zeit der Früh<lb break="no"/></p> <p>guhurt nicht. über das llalsinark hinaus gewachsen sind. Vnn dieser<lb/> .\tl'ektinn sei scharf zu trennen die. spastisrhe Spinalparalyse Erh’s. die<lb/> auch beim Erwachsenen auftreten und beim Kind hereditärer Natur sein<lb/> kann. Zur Ente heidung der beiden Zustände dient, dass die Erb’sche,<lb/> Spinalparalyse durch :\ll'ektinn der bereits gebildeten PyramidenhaImeu<lb/> entsteht, d<lb break="paragraph"/></p> <p>a's sie keine Tendenz zur Besserung zeigt und sehr wahl als<lb/> rerebrale l€r mkung aufgefasst werden kann. Für das andere Material<lb break="paragraph"/></p> <p>der Kategorie „(‘erebrale Diplegien“ könne vorläuﬁg der Snlnmelmnne<lb/> „étuts ,spasmudiques infuntiles d"0rigine l‘,("l‘t"lll'zllt*“ gehraur'ld<lb/> werden.<lb break="paragraph"/></p> <p>Der Autor fordert. dass die in der Literatur mitgetheilten Bonb<lb break="no"/>nehtungen von rrrehrulen Diplegi0n gesammelt und narh Aetinlngie.<lb break="paragraph"/></p> <p>'mptmnen und Verlauf zu Gruppen zusammengefasst \\"i'irden. l'ir<lb/> scheint zu übersehen, dass diese Arbeit. bereits ,gesehehen ist, und da'&lt;<lb/> die Ansichten der von ihm augcgriﬂ'enen Autoren sich auf die lfir:-!""“'*"<lb/> derselben stützen.<lb break="paragraph"/></p> <p>Des W'eitercn vertheidigt der Autor seine Lehre. zur lflrkliirung der<lb/> sehlaffen Lähmung; und der (‘nntrartur gegen Einwände. die \"01! M).“<lb/> und Levi (Studio clinieo ed anntmnieo relativo ad un (‘n—&lt;“ ‘“ ‘lil’l"fll"<lb/> spasticn eongenita (nmrbu di Little). Rivista di patnlngia nur\'nsﬂ **<lb/> mentale, nov. 1896) erhoben werden sind.<lb break="paragraph"/></p> <p>Mann (21): Van Gehuehten hat in drei Arbeiten im Journal de<lb/> neurologie et. d’hypnnlogie 1896 und 1397 Anschauungen über iii" P"tl“"<lb/> gr.-uese der Contl'arturen und Liihmungen ausgesprochen. die er II““<lb/> Auf? ung der Little$('hen Krankheit verwendet, und die hier aus—<lb/> führlirh dargelegt und von M. einer scharfen Kritik unterzog0n \\‘vrdeil.<lb break="paragraph"/></p> <p>Naeh v. G. sind unter den Begriﬁ' der Little’sehen Krankheit zwei<lb/> Gruppen unterznhringen und scharf zu scheiden.<lb break="paragraph"/></p> <p>1. Die Zustände von Rigiditiit bei vorzeitig gelmrrnrll Kiml"“"<lb/> 2. die bei rechtzeitig. aber unter Guburtsschwierigkeifen 'n"r'lwl'em'n<lb/> Kindern. Bei den ersten sind die spa. schen Symptome einzig nl)!“<lb break="no"/>leiten von dem durch v. G. mnstatirten Befund, dass die. Axeneylimll"’<lb/> der Pyramident'asern zur Zeit der Geburt im Riickennmrke noch völlig<lb/> fehlen und ihre absteigende Entwickelnng extrauterin nur verzögert oder<lb/> mangelhaft vollziehen. Diese Alfektinn ist also spinaler Natur und zeigt<lb/> Tendenz zur Heilung. Die zweite Gruppe umfasst Fälle von Cerchi'ﬂl<lb break="no"/>erkrankuugen.<lb break="paragraph"/></p> <p>Der Einwand, warum denn beim Enraehsenen die Unterhrerhung<lb/> d""' Pyramidenbahn im Rückenmark Lähmung mache, während beim<lb/> Frühgelmrenen das Fehlen dieser Bahnen ("nntractur ohne, Lähmung be.<lb break="no"/>wirke. veranlasste v. G. zu behaupten, dass auch beim Erwachsenen die<lb/> U""""“'Pflllmﬂ (ler l‘_vhahn im liüekemnnrk nur Cnntrar-tur. die d""<lb/> r'erehrulen Ruhm-n (bei der llemiplegie) dagegen Lähmung l"“"i"k"'<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="7" xml:id="page__77ef512d-4ce7-4e58-ac21-977fe73c9de0"/>
-            <p>L‘-erehrale Kimlerlähniung. til!)<lb break="paragraph"/></p> <p>Die Heiniplegie ist narh seiner Ansicht eine srhlaﬁ'e Lähmung, und die<lb/> bei ihr auftretende (.'ontractur sei ihrem Wesen nach verschieden von<lb/> der spinalen Stnrre, sie sei eine passive Cont‘actur, durch _Retraktinn<lb/> der Beugemuskeln, während bei Unterbrechung der spinalen l’_vhnhn<lb/> eine active Contrn0tur (vermehrter Tonus) bestehe, aber keine Lähmung.<lb break="paragraph"/></p> <p>Den so construirten Gegensatz zwischen der Symptomatik einer<lb/> spinalen und einer cerebrnlen Läsion der Pyraniidenbahn erklärt v. (t.<lb/> durch eine anatomische Hypothese. Die Muskulatur sei mit. der Hirn<lb break="no"/>rimle durch zwei Bahnen verbunden, die. in der inneren Kapsel llul‘ll<lb/> zusammen laufen und sich dann trennen. Die eine dieser Bahnen ist die<lb/> als P_\‘bahii bekannte. die andere tritt von den Ponskernen aus in’s<lb/> Kluinhirn und erst von dort durch die unteren Kleinhirnsehenkel in die<lb/> VOHlf‘rrn Theile der Seitenstri'inge. L siuneu, die in der inneren Kapsel<lb/> ll€i(le Bahnen treﬁ'en, erzeugen Lähnumgen und zwar ohne ('ontraetur.<lb/> Spinale Läsionen lassen dagegen meist die Kleinhirnlmhn nnlwtlwilig_ft<lb/> und rufen darum nur Contraetnr ohne vollständige L:"ilnnung hervor.<lb/> Die l'linzelheiten dieser Erklärung in Bezug' auf ,\luskeltonus und Reﬂexe<lb/> lü“mnnn hier nieht ausgeführt worden.<lb break="paragraph"/></p> <p>Mann vertritt im Gegensatz hierzu den Standpunkt. llil«\'&gt;' ill‘l'<lb break="paragraph"/></p> <p>fi— ‘ensat7. zwisehen den klinisi'hen Symptomen der verehralen und<lb/> “liiﬂiileii Läsionen, den r. (i.’s 'I'ln-„rie erklären will. nieht besteht.<lb break="paragraph"/></p> <p>in beiden Fällen kommt, es zur Lähmung und zur aktiven ('on<lb break="no"/>lrartur. ln Betreff der Anwendung der v. (i.”s Lehrr- nut die Little‘srhe<lb/> Krankheit verweist Mann auf die bereits vun Freud (Nuthnugel's<lb/> l'laiidhnf‘h) an v. G. geübte Kritik.<lb break="paragraph"/></p> <p>Zu den früher publicirten sechs Fällen von Little'srher Krankheit<lb/> fügt Muratow (24) fünf neue. hinzu, deren Krankengeschichtt‘n das typische<lb/> Bild dieser Form zeigen. M. tlieilt auf Grund seiner Beobachtungen<lb/> die Krankhe „yinptume in die -ardinalen und die Begleiters('heinungen.<lb/> Zu den ersten gehören bei curebraler Diplegie l. die spnstische Paral ,<lb/> der beiden unteren Extremitäten, wobei die Intensität der Lühmungs<lb break="no"/>""Srllrinungen eine wechselnde ist, 2. das Leiden tritt congenital auf.<lb/> “'"l'ﬁi man meistens ananmestisch Geburtsannmalien fesstellen kann, und<lb/> 3. der regressive Verlauf der Krankheit. Zu den Begleiterscheinungon<lb/> ‘l_l"-&lt;‘?l' Krankheit gehören ]. Störung der psychischen Funktionen mitdem<lb/> 1._\'pus der mehr oder minder stark ausgeprägten Demenz, 2. Zwun.‘—'S'<lb/> l’°“"‘gllﬂgell verschiedener Art, 3. Atrophie der gelähmtt‘n th5keln‘ -L<lb/> “lim-male Innervatiun der Gesichts— und der Augenmuskeln (Nystagmus).<lb/> Diif€rential-diagnotisch müsse man diese Krankheit von folgenden ähnlichen<lb/> °“Mscheiden. 1. Von der Porent‘ephalia duplex. welche nach der Geburt<lb/> des Kindes eintritt, und sich sowohl durch eine unregelmi'issige Ver-theilnng<lb/> und grössere. Intensität der Lähmung, wie auch durch eine tiefere<lb/> l‘-*}'chische Störung und stärker ausgeprägte Mitbewegungen unterscheidet,<lb/> ?. von der diplegischen Form der selten hei Kindern auftretenden Pseudo—<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="8" xml:id="page__0cad0852-d4b8-41b9-b0a5-7fca35dd8602"/>
-            <p>620 (‘erebrule Kinderlülunung.<lb break="paragraph"/></p> <p>Bullyéirpurulyse (akutes Entstehen, bulbäre Symptome), 3. von den Diplegien,<lb/> die in seh\\'eren Formen des Hydroeephalus auftreten können (Verlauf<lb/> der Krankheit, Form des Schädels u. s. w.), 4. die Ausgangsformen der<lb/> Little‘seheu Krankheit können den Kontrakturen der Rhnchitis oder der<lb/> Hoffmann’sehen neurutischen Form der Muskelatrophie ähnlich erscheinen.<lb/> Die rhuchitiwhen Contrukturen werden aber nicht von Lähmungserschei—<lb/> nungen begleitet, und die Hoffmnnn‘sche Form zeigt einen peripherischen<lb/> Typus mit Beginn der Krankheit im Gebiete des N. peroneus. 5. Man<lb/> soll die Little’srho Krankheit von den diffusen spinulen Krankheiten,<lb/> nämlich von der multiplen Sklerose und von den syphilitischen Formen<lb/> unterscheiden. Was die. Aetiologie dieser Krankheit nnbetriﬂt, so meint<lb/> Verfasser, mit Little, Freud u. A., dass die Hauptrolle die Geburts<lb break="no"/>unmnalien bilden. Auch die Syphilis der Eltern giebt wahrscheinlich oft<lb/> einen günstigen Boden für die Entstehung der Krankheit ab, dagegen ist<lb/> die Meinung Fournier’s, dass die direkte Ursache der cerebrulen Diplegie<lb/> bei Kindern die angeborene Syphilis sei, noch nicht hinreichend gestüzt.<lb break="paragraph"/></p> <p>Was die puthnlogisch—unntomisehen Veränderungen bei der Little—<lb/> schen Krankheit anbetriﬁ't, so zeigte die Section und die mikroskopische<lb/> Untersuchung eines Falles Folgendes: In der Gegend der beiden Lohuli<lb/> pururentrales liess sich die Pia schwer abziehen. Die. Hinterhouptslappt’"<lb/> sind in ihrer Entwicklung zurück-geblieben. Die vordere und die hintere<lb/> Centrulwindung sind srlnnäiler und fühlen sich härter als in der Norm an.<lb/> Beim Durchschnitt durch diese letztere “’indung erscheint die Hirnrindo‘<lb/> ntrnphisch. Ebenfalls atrophisch erscheint die, weisse Substanz. Die.<lb/> Seitenventrikel sind stark erweitert. Die mikroskopische Untersuchung<lb/> zeigte. dass die gesammtc Oberﬂäche der Centrnlwindungen und d"5<lb/> Lobulus pnracentrnlis mit Kürnchen und Pigmentzellen besät war. Die<lb break="no"/>selben Blutungsresiduen fand man auf der oberen Fläche des Corpus<lb/> &lt;-nllnsum und am Fasciculus subcallosus. Die Blutung nimmt nur die<lb/> oberen Schichten ein und zerstört die unten liegenden Nervenzellen und<lb/> Norvenfasern. Ferner fand man Blutungsresiduen auf der Oberﬂäche des<lb/> Sohlu'igels und alte haenmrrhugisehe Herde (Cysten mit Pigmentzellen)<lb/> in den uentralen und parietnlen \Vindnngen. Ausserdem — Atrophie der<lb/> Corona radiata, des Corpus (tallosum. Fasciculns snbcallosns und sekun<lb break="no"/>däre Degeneration unterhalb der Hirnrinde der centralen Windungen.<lb/> Die sekundäre Degeneration tritt in dem mittleren Abschnitt der Hirn<lb break="no"/>schenkelbasis auf. Im Hirnstumm fund man ebenfalls Blutungen (speeiell<lb/> in den Vierbügeln). lm Rürkenmnrk waren die Py V und PyS (legenel'irt<lb/> Ausserdem Entartung in den Goll’schen Strängen des Halsmarks. In<lb/> der ganzen Peripherie der Randzone zerstreute Pigmentkugeln mit Faser<lb break="no"/>schwund, das Bild der Ran(lsklerose, dabei konnte man nirgends Neuroglia<lb break="no"/>wueherung konstutiren.<lb break="paragraph"/></p> <p>Dieser Befund zeigt, dass di“ 1\nthologisch-anntomische Gl'ul‘dlﬂgt"<lb/> der Krankheit nicht, in der intrarm-ningealen Ilämorrhagie bestellt<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="9" xml:id="page__8620f892-2007-484f-bf3b-54920c77b80e"/>
-            <p>Cerebrule Kinderlähmung. 021<lb break="paragraph"/></p> <p>(Gower‘s u. A.), sondern in diﬁ'user Blutung unter die pin runter. Diese<lb/> Blutung verursacht dann die Atrophie der Centralwindungen, und wenn<lb/> diese Alteration grösser wird, so entsteht das Bild der .Porem-ephalie.<lb/> Die Hauptsache bildet die primäre herdartige Erkrankung der Central<lb break="no"/>windungen der beiden Hemisphären mit seknndär auftretenden cerebrulrn<lb/> und spinalen Degenerationen.<lb break="paragraph"/></p> <p>Verfasser bemerkt noch, dass der bei Little‘srher Krankheit unf<lb break="no"/>tretende Nystugmus in manchen Fällen durch Blutung im Gebiete der<lb/> Ocumulotoriuskerne bedingt sein könne. (Edward Fin/au.)<lb break="paragraph"/></p> <p>Muratow (25): Die an eine früher n-röli'r-ntliehte Arbeit (ibid. VII)<lb/> nuküpfende Publikation enthält 5 Krankenheulmchtungen. darunter eine<lb/> mit Sektionsbefnnd.<lb break="paragraph"/></p> <p>Fall VII. 2U,jähriger Knabe, schwer und vorzeitig geboren, seit<lb/> der Geburt steif und gelühmt. Typische allgemeine Sturm, Hüften un<lb/> den Bauch angezogen, Pes equinus duplex. Reﬂexe erhöht. Tod an<lb/> Sehnrluchpneumonie. Antopsie. Im Gebiet der Paracentralläppchen<lb/> die Hirnsubstnnz fester, die weiche Hirnhuut mit der Rinde verwechsen.<lb/> Miuder feste Verwachsungen an anderen Stellen. Die Windungen (ler<lb/> Centrulluppen sehr dünn und ntrophisch, die Hinterhnnptswindungen<lb/> minder gut ausgebildet. Miikrosknpisch sichtbare Degenerationen im<lb/> R—ückenmurk. Die mikroskopische Untersuchung weist oherﬂa'ichlirhe<lb/> Hämorrhagien im Gebiet der Üentruhvindungen, im PloxuS chorioid., in<lb/> den Hirnventrikeln und in der Pin spinnlis nach. Sekundiire Degene<lb break="no"/>rationen der Rﬂdifirfuserung und des Balkens, Zerstörung der Nerven<lb break="no"/>zellen uml Fasern im Gebiet des ()cnlomotorins und Trnchleuris.<lb break="paragraph"/></p> <p>Full VIII. 1 Jahr alt; zehnte Geburt, Zwilling, asph_vktisch geboren.<lb/> Schwäche des Nackeng und Rumpfes, Arme später nur schwach, Beine<lb/> steif geli'ihmt. Beim Sitzen Pes equinus. Psychiseh zurückgebliehen.<lb break="paragraph"/></p> <p>Full IX. 13jähriger Knabe, rongenitnle Aﬂ'ektiun; begann mit<lb/> 9 Jahren zu gehen. Die Arme damals schon frei. Seitli('her Nystagmus<lb/> der Augen, leicht herabgesetzte Intelligenz, Arme völlig frei, Bewegungen<lb/> ‘ier Hüft- und Kniegelenke normal, Contractur in Fussgelenken. Extension<lb/> "" Füsse und Zehen beschränkt. Gang behindert, mässige Atrophie der<lb/> Beinmwkulutur.<lb break="paragraph"/></p> <p>Fall X. 33 Jahre, Frühgeburt, erschwert. Symptome in ersten Tagen<lb/> h(merkt, konnte nie, gehen, auch Arme stets schwach, seit dem 5.—6. Jahre<lb/> Völlig idiutisch. — Bettlage; Ungenügende träge Mimik, Arme in Schulter<lb break="no"/>gelenken paretisch, in anderen Gelenken steif und ungeschickt; Beine in<lb/> Beugecontmctur, völlig gelä'ihmt; Sprachvermögen aufgehoben<lb break="paragraph"/></p> <p>Full XI. 50jiihrige Frau, congenitnler Full, begann mit 10 Jahren<lb/> 111 gehen, intellektuell normal. Nystngmus, Sprache und Mimik gut.<lb/> V0l'n'iegende linksseitige Hemiplegip, mit Atrnphie. Auch das rm-htn<lb/> Bau steif und paretisch.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="10" xml:id="page__9ef85a18-c01b-4329-94be-4e6d35dad4ac"/>
-            <p>022 l‘urchrnle Kin(lcrlülnnnug.<lb break="paragraph"/></p> <p>.\nsehliesseml Bemerkungen über die klinischen, uetiologi5ehen unll<lb/> |mtlnvlogiseh-nnntmnisrhen l'ruhleme (ler eerebralen ])iplegien.<lb/> Die Erkrankungen un rerebrnlen Kintlerlühniungen tlieilt Massa<lb break="no"/>lungo (22) ein:<lb/> 1. in Fälle. von t.}‘piseh01'. allgemeiner Riginliti'it.,<lb/> in lui(‘htere Fülle allgemeiner l{igitlität,<lb/> in t'ormes frustes «ler allgemeinen Rigitlit,iit,<lb break="paragraph"/></p> <p>in Fein—rgnngsfnrmen zwisehen allgemeiner und pnruple;zisrhur<lb/> Rigiditiit„<lb break="paragraph"/></p> <p>; in rein pur:ipleyi rhe ,Rigiditﬁt.<lb break="paragraph"/></p> <p>tl. pn'nplegisclw Rigiclitäit mit llomipnrese.<lb break="paragraph"/></p> <p>7. '.illg_’:eilieiiW „ „ „<lb/> b. „ „ und spns-tisehe (lnppelseitigq llemi|xl0git‘,<lb/> ‘.l. il0p1n*l.&lt;ei’tige .&gt;\thetusn,<lb break="paragraph"/></p> <p>l“. :lllgeiiieilW spastische, ('hnren,<lb break="paragraph"/></p> <p>ll. mehr mle.r weniger 1liﬁ'use Rigiilitii’t mit (llmrcn oder Athe'tnsv‘.<lb/> 12. (\nnhinntimien ron Clinrun und Athetose.<lb break="paragraph"/></p> <p>Verf. t.lwilt, (lnnn 7 eigene Benlmchtungenrn mit. (“O \"1’l‘5l'lllt'llt’llt‘ll<lb break="paragraph"/></p> <p>(ler nl„-n l.wzeir-lmeten (irnmwn angehören. Allen genwinsmn waren<lb/> Mnxkelsteiligkeit, Störungen tler Sprache und (lc‘.&lt; (inngvs untl Altt‘»<lb/> ratinnen llf'l' Intelligenz. (Valentin)<lb break="paragraph"/></p> <p>Raymond (27). lt)jührige.&lt; Mädchen, vurzoitig und usph_vktisrll gt)<lb break="no"/>lmren. 2 Monate später (Tonvulsinnen, die seit dem Alter von Et Jahren<lb/> seltener kunnnen. Mit 11 Monaten wurde Steiﬁgkeit und Gefühllt. .<lb/> der Beine hemerkt, es stellten sich Störungen «ler Sphinctorenthi -',' ‘<lb/> ein, «ler Gang blieb el,—rhwerh Intelligenz gut entwickelt die Symptome<lb/> sind fluss('llllt"sli('ll nut die Beine besehrä'mkt und bestellen 1. in<lb/> &gt;|»:isﬁsrhei' Sturm mit lriehtcr Pnrese der Unterschenkelbeuger, spustisrhmu<lb/> (lung, Reﬂex 'lunus. wenn (ler Fuss den Boden berührt; keine Atr0pllié',<lb/> ' isihilitiit. "»rnngen grosser Partien «ler Beine. und der Bnnrhvnntl.<lb/> 1lil‘ l‘iinpfiittllit'lik it für Schincrz- und Tullll)t’l‘ﬁtlll"l’ln(ll‘Ü(‘kt‘ theilweise (“I'<lb break="no"/>hnlten, die, Bo uhrungseniplindlichkeit aufgelmhen; 3. Incontinenz der<lb/> lim-retionen, lmrtnäckige (’)hstipution,<lb break="paragraph"/></p> <p>ll. stellt. die klinisrhe Diagnose nurh eingehenden (liﬁ't‘l‘0ntiellen El“<lb break="no"/>Ö""""'“.‘IÜT\ "“ |:ittll“.&lt;vhu |\'rzinkln=it. erklärt es aber für lllllllü.‘l““h*<lb/> eine unntomisvhe.Dingnose zu machen. In einem Exenrse \"?!‘tritt er die<lb/> Ansicht, (lﬂxS nnrh «lie '.l'nhes spasticn der Erwachsenen keinn klinische<lb/> Einheit ist, ebensowenig wie die analoge Aﬂ“elctinn des Kindesalter&amp;<lb break="paragraph"/></p> <p>Dejel’ine IT), Full \. Patient im Alter von 79 Jahren untersucht,<lb/> """h‘7‘vitlg .'7'91’01‘9n. Seit friiher Kindheit. an den Beinen S('l1\\’ill'—lL Mii.&lt;Flf—"3<lb/> «tische, l’nrnplegie ohne, Atrophie, kann mit llült'e eines Stonkes gt‘lll’n<lb break="no"/>N-hnenretlexe gesteigert, lntelligenz mittelmi i_n_r. EpileptiSche. Anfülle<lb/> seit lll‘l' Kimlln-it. .-\nt0psie: Beitlvr.&lt;vitige l’oreneephnlit‘ mit: lhuliiir<lb break="no"/>5t"“““.'1 llﬂ' Win&lt;lllngen gegen (lie Defekte: rechts an lll‘l‘ Grrenze V0“<lb break="paragraph"/></p>
-         
-         
-            <pb n="11" xml:id="page__33c9e872-6862-4db5-9ecb-310e164be1f6"/>
-            <p>(,Torchrale Kinderliilunung. 623<lb break="paragraph"/></p> <p>!nitth‘l'clll untl unterem Drittel tler 1\’til:liitltfst‘luiii Fissur, links höher in<lb/> tlrrsclhen Region. Keine uh3teigenden Degeiltn'ationeu, Neurnglia<lb break="no"/>\\‘uchel'ung in den Seitenstriingen des Rückenmarkes.<lb break="paragraph"/></p> <p>Fall“. 44ji'thi'igtu' Mann, rechtzeitig geboren, von Geburt an starr;<lb/> hlich his zum Alter \‘0n 9—10 Jahren im Bett, konnte später mit,<lb/> l\'rücken gehen. Keine epileptischen Anfälle. Intelligenz herabgesetzt, alle<lb/> Her Extremitäten spnstis(rh geliihmt, die unteren stärkär, das linke Bt‘in<lb/> am .—‘t£'<lb break="paragraph"/></p> <p>ksten afﬁrirt, auch trophisch vcrkümmert. I’atellarreﬂem' ge—<lb/> Strigert, links Fussclonns. Auch tlie Beweglichkeit tler Arm.: ein<lb break="no"/>geschränkt. Sensibilität. Sphint‘tereimktiun normal. Autnpsic: Keine<lb/> \‘er:imlerungen im Gehirn, (las Riit‘kenmark im ganzen etwas kleiner, untl<lb/> zwar durch Betheiliglnlg tler VOl‘tlcrsc.ittanstrünge. Das linke Vnrtlerhurn<lb/> 9t\\'a&gt; kleiner als das rechte. Zahl der Nervenzellen l)eitlrrseits gleich.<lb/> Z\\'i&lt;chen dem ernten und zweiten (‘ervicalsegment eine llerdlaesimt der<lb/> illlltvl'lhil'lu'l‘ mit Sklerose untl Gefi<lb break="paragraph"/></p> <p>.ﬂ'verulirkung. Keine. aufsteigende<lb/> lh’-urneration in den Hinterstri'tngen. wohl aber in den l’_\‘ramitlenbahnen.<lb break="paragraph"/></p> <p>Der Autor ist geneigt, (lie Symptnme wm (l(‘l' (intrauterin erfolg-ten)<lb/> ll&lt;-nlläsittn des llüt‘kemnarkt-s abzuleiten. hetnnt alwr .—‘e|hst die Schwierig—<lb/> keiten tler Erklärung tuts diesem Befund.<lb break="paragraph"/></p> <p>Bourneville et Bellay (-l-). 13. Kind, rechtzeitig untl normal ge<lb break="no"/>lmren; Blutsturz tler Mutter im 5. Monat der (.iil':l\'lllliilf. “(ei tler (lchuit.<lb/> an.—rheineml normal; bereits auffällig. als 's mit 11 Monaten von tler<lb/> Antme zurückkam. Entwicklung (ll—Tr Sprache und de.: Seln-ermögcns<lb/> mim-hen G untl 7 Jahren; erst, seither rein. Angehlieh keine Convul<lb break="no"/>Sinnen. — Aus tler sehr au5führlielmn Aufnahme des Zustandes im<lb/> 11. Jahr .\l‘i hervorgehoben: An Kopf untl Gesicht wenig Almm-mes; mun<lb break="no"/>ph'tc :\norehydie, sonst normal gebildet. Die ‘Arme völlig frei. Dit:<lb/> Bl'illc im Stehen in allen Gelenken halb geheu_t,rt. Die t)herschcnln-l<lb/> narh innen gewentlct, so dass (ill: Knie sich berühren, Unterschenkel da<lb break="no"/>L'vuen nach auswärts. Das Kind hält sich nur mit Mühe aufrecht, die.<lb/> “"-‘hch liegen dem Boden nicht ganz nut] tler Rumpf schwankt heim<lb/> G_Ell€'n. Die Bewegungen der einzelnen ;\h.'\‘('hllitié der Beine ziemlich<lb/> (fingen-hinkt, die Start? am stärksten in «len Knien. lm Liegen ist.<lb/> (las linke Knie höher hinauf;rezotren als das rechte, Patellarretlexe. gt‘<lb break="no"/></p> <p>steigert, Fusst‘lonuS vorhanden. _ nsibilitä'tt. normal. Incontinentia urinae<lb/> "Octnrna. Die intellektuelle Entwucklung rechtfertigt die Diagnose eilN‘h'<lb/> hohen Grades von St‘h\\°ﬂchsinii. Spätere Untersuchung weist eine gewiss"<lb/> Starrheit l]Pl‘ Augenbewegungen nach. Die Beobachtung des Kranken<lb/> 9r&amp;tl'e(‘kt sich über 10 Jahre. Es; wurde ville erhebliche intellektuelle<lb/> Bf» erung erzielt. Physisch war die Eutwicklungsheinmung th's ganzen<lb/> L"tl‘rkürpers im Vergleich zum Olwl'kül‘lml' nuﬂ'üllig.<lb break="paragraph"/></p> <p>' Die Autoren legen Werth auf die heretlitz'iren Verhältnisse 065<lb/> ]\11' hen. die sie für äehr belasteml e achten. und auf die. durch tlie Blutung<lb/> |Ni7.eugte Störung tler Sclnvaugcrsclmft in tier Mitte der (ira\'itlitiita‘dauer.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="12" xml:id="page__1cbc0b06-a18c-469d-b943-9bcf187fb131"/>
-            <p>624 l'crcbralc Kinderlülunung.<lb break="paragraph"/></p> <p>Urriola (3:2). löjähriger Knabe. Zweites Kind von 9 Geschwistern.<lb/> unter denen Zwillingsgeburten; Vater Potator, erheblich älter als die<lb/> Mutter, die im 5. Monat der Gravidität über ein damals Panama<lb/> heimsuehendes Erdbeben heftig crschrak. Das Kind wurde rechtzeitig<lb/> und leicht geboren, war aber schwer usphyktisch. Sein Schädel war so<lb/> weich. dass er sich im ersten Lebensmonat nach der Unterlage abplatt9t9.<lb/> Die Entwicklung war eine ungemein verzögerte, die ersten Zähne traten<lb/> mit 6 Jahren auf, das Gehiss blieb sehr mangelhaft. Mit 3 Monaten<lb/> kamen Convulsionen, die sich indess nicht wiederholten. Den Kopf und<lb/> Rumpf aufrecht halten lernte er erst mit 6 Jahren. Mit 7 Jahren begann<lb/> er sich auf eigenthümlichc Weise. fortzubewegen, auf den Boden sitzend,<lb/> die Oberschenkel nbducirt, die. Unterschcnkel gegen einander gewendet,<lb/> so dass die, Sohlen einander berühren, wobei er sich mit den Händen<lb/> abstüsst. Im Stehen Addnktionscontrartur, krnmpfhafte Streckungen der<lb/> Zehen. Plattfii @, die Beine. kalt. in ihrer Muskulatur leicht atrophisch.<lb/> Die Reﬂexe beiderseits gesteigert.<lb break="paragraph"/></p> <p>Kein Strabismus, kein N_\‘stagmus, Augenhintergrund normal. Seit<lb/> dem 7. Jahr Entwickelung dcs Sprachrermi'vgens, doch articulirt er<lb/> schlecht und ist kaum verständlich. Er ist, nicht ohne. eine gewisr&lt;r<lb/> Intelligenz. Die. Det'ormation des Schädels wird eingehend beschrieben<lb/> Das Hauptintercsse des Falles ruht. in der Zurückfüln‘unnr auf din<lb break="no"/>Gemüthsbewcgung der Mutter in der Graviditüt als aetiologisches Moment.<lb break="paragraph"/></p> <p>Mills (23). 18jähl'iges Mädchen, mit Instrumentalhilfe geboren und<lb/> lange scheintodt, begann mit 15 Monaten zu gehen, wobei sie. bereit-=<lb/> den rechten Fuss nachzng. Im 8. Jahr, vor einer Erkrankung an<lb/> Scharlnch und Masern, scheint. der Tremor der Extremitäten zuerst bemerkt<lb break="no"/>wnrden zu sein. Keine Convulsionen. gute Intelligenz. keine ähnlirlwll<lb/> Attraktionen in der Familie.<lb break="paragraph"/></p> <p>Intelligente, wohl entwickelte Person mit starkem Tremor des Kopng<lb/> und des rechten Arms, gcringerem des linken. Die Bewegungen Sind<lb/> ungestüm, (‘l'folgen stossweise, am Kopf von einer Seite zur anderen. von<lb/> vorne nach rückwärts und in halben Drehungen; ähnliche Bewegungs—<lb/> sm"““ß‘*“ zeig“n die Beine beim Gehen und zwar das linke in höherem<lb/> Grade als, das rechte. Patellhrrcﬂexe gesteigert, Fussphänomen beider<lb break="no"/>seits. Der rechte Fuss wird nachgezngen, der rechte Unterschenkel ist.<lb/> kürzer und dünner als der linke. Hände und Füsse. meist kühl—<lb break="paragraph"/></p> <p>Gasne (10). Beschreibung zweier Fälle von Spustischer Paraplegh'<lb/> bei Kindern und Erörterung der zwischen vun Gehuchten und anderen<lb/> Autoren schwebeudcn Streitfragen über die Auffassung solcher Fülle.<lb/> Eine deﬁnitive Entscheidung über diese Probleme erscheint. dem Ä"““'<lb/> verfrüht.<lb break="paragraph"/></p> <p>J. GPDSZ (12). Die in mehrfacher Hinsicht interessante Beobachtung<lb/> lll’tri_ﬁ’t ein 2660 gr schweres Kind. welches extrauterin entwickelt. um<lb/> im‘ S“I'“’mbül' 1895 durch Bauchschnitt zur Welt gebracht \\‘ul‘llr. (Ob<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="13" xml:id="page__74179973-1ae6-4837-8cf5-7f949cf8fa87"/>
-            <p>(„',erelnrale. |\'imlerliihmnng.<lb break="paragraph"/></p> <p>vorzeitig?) Sein Schädel zeigte eine hochgradig»- lmgent'örruige ('nmprcssinn<lb/> links, welche der Autor davon nl)leitet, dass die linke Scliiidclhä'ilfte der<lb/> Frucht an die Cnnvexität der hinteren Gebärmutterwand lehnte und<lb/> durch den Fruclitsrick in dieser Lage erhalten wurde.<lb break="paragraph"/></p> <p>Von der Geburt an zeigte das Kind die Symptome einer rechts<lb break="no"/>seitigcn Hemiplegie: tieferen Stand des rechten Mundwinkols, den I\'npf<lb/> der rechten Srliulter zugewandet, der linke Sternorleidomastoideus dabei<lb/> strangförmig vorspringend, der rechte (‘ucullaris stärker contrahirt: die<lb/> rechte Extremität hypertonisch und in Z\\'nngsstellungen; die Beine über<lb break="no"/>einander geschlagen, doch wird das linke ungestört be\\'egt. während das<lb break="paragraph"/></p> <p>rechte bewegungslos mit eingelmgenem und mich innen rntirtem Knie<lb/> bleibt und der rechte Fuss in Equinornrusstellung rerharrt. Vom<lb/> 8-—10- Tage an bess(-‘.rte sich die Beweglichkeit des rechten Arines und<lb/> stellten sich t_vpisL‘he Atliet0sebewegungen an dessen Fingern ein. Bald<lb/> darauf änderte sich das Bild, der linke Arm gerieth in ll_\'pertnnie. \'l'l'lm'<lb/> seine Beweglichkeit, und auch an den Fingern der linken Hand traten<lb/> athetotische. Bewegungen auf. Das Kind stur!) am 9. Januar un den Folgen<lb/> eines Darmkntnrrhs, nachdem vorher die ('unt'arhli' auch du:—- linke Bein<lb/> ergriffen und nn allen vier Extremitäten lineligr:idigé Ausbildung: erlangt,<lb/> hatte.<lb break="paragraph"/></p> <p>Die Autupsie ergnb nebst den Zeichen der (Äninpressinn der linken<lb/> Helliisphiire eine Paehymeuingitis ehronicn interna hnernorrhngicu sinistrzr,<lb/> Abﬂiwliung und Windungsversclrmälerung des linken Stirn- und Pur-ietnl<lb break="no"/>lal’l"’115, Atrophie des linken Sehnerren, absteigende Degeneration im<lb/> Rückenmarke. Aus der genaueren Darstellung der Befunde sei hervor—<lb/> geh05m, dass auch die. rechte Kleinhirnhemisphi'nre cmuprimirt und<lb/> '““"gdlurft entwiiakelt war, die ganze rechte Hälfte des Rückenmnrkes<lb/> überhaupt kleiner und geweblirh gegen die linke ver-kümmert, dass die<lb/> Degeneration der cortieomusculä'u-en Bahn links sich bis. zur Brücke ver<lb break="no"/>i°li—'en liess, und dass die Mnrkentwickclung in mehreren Gebieten über<lb break="no"/>baum l'üi'kstr'mdig schien. Die Deutung des Falles ul.—- doppelseitige<lb/> spastische Heiniplegie ergiel)t sich leicht; den stärkeren Symptomen<lb/> tun der rechten Körperhiilfte entsprach die intensivere Si'llüiliglmg """<lb/> linken llemisphäre. Die Deutung der später auftretenden linksseitigen<lb/> "““ii'li'gie erscheint dem Verfasser schwieriger als &lt;ie der A utur nimmt,<lb/> Welcher die Sciriidiil.“ﬂg der i'erhten Hemispliiii'e vum ahdmnincll«m Druck<lb/> ableim_ obwohl dieses Moment zur Zeit, da die linkseitigeii Symptﬁmc<lb/> auftreten, nicht mehr da einwirken konnte.<lb break="paragraph"/></p> <p>H. Weiss (33). _ hrigcs Kind, Krankheit in ersten Mmmten be<lb break="no"/>merkt. Aufsetzen erst im iii. Jahre- möglich, selbständig geh?" konnte<lb/> es nie, Füsse geriethen bei Gehversuchenin Equinusstellung. Der Knabe<lb/> versteht, was zu ihm gesprochen wird. Kleinschädel mit „front nlympilm“,<lb/> 5trnbismns, Pl‘°gnnthie, Cvanose der Extremitäten: Vertheilung der Sturm<lb/> auf die Muskelgruppen wechselnd, Reﬂexe sl'lll‘ !_—"-""“‘£2“"“<lb break="paragraph"/></p> <p>thruberichi. {. Neurologie u. Psychiatrie 1891 4"<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="14" xml:id="page__3115d3b8-bb79-4243-a091-279e1f491cde"/>
-            <p>|;-)|5 l'erelri'uic Kinderlinhinung.<lb break="paragraph"/></p> <p>(‘. Fulnilii'ire Formen.<lb break="paragraph"/></p> <p>v. Aschen (L’). Beobachtung zweier 4'wsi'h\\'i.&lt;féi‘ von .") J. und von<lb/> S ,\Ionutvu. Die Mutter hat znvrst einmal :iluii'tii'i't. dann 4 Kinder ge<lb break="no"/>Inn-«n. din) nile mit 7 Munutun zur Welt gekommen sind. Das iiifie.&lt;£e, geguu<lb break="no"/>\\‘ili'tij: ."; Jahre mit, halt in den ersten 4 .\lnnnten nn Anfüllen gelitten, die<lb/> in \"vrdi'i-hvn der Augen. Spreizen der Finger und chkcn des Gesirlits<lb/> iw.—tundeu. Nut-h Hiller Luu;_fenwﬁzündun;r init 1 Jahr verlor das Kind<lb/> die hereit&gt; €*l'\\'l)l‘l)l'l\l' l:‘:"iliigkeil zu stehen. dir Sprache litt nicht dabei.<lb/> :? das Kind ausser deutlirher<lb break="paragraph"/></p> <p>lin Alter von 5 Jahren unh‘rsncht, 7<lb/> 'elnde Sprache, herabgesetzte Mimik,<lb break="paragraph"/></p> <p>|i|mrhitis :_"i‘l'ilh_{i* intelligenz, ni<lb/> &gt;'tmhisnins «nurerguns. Die 1\Inskuiutur ist sehr srlnrnrln. Die: Arm!<lb/> um ein Athetnsv<lb break="no"/></p> <p>gut, lu-\veglirh. doeh run geringur Kraft. Die l*‘ingvrze'_<lb/> :ir'riges Spreizon; lwi Intention starker Tremor. Dit) iinke Hund i&gt;t<lb/> ‘_i‘i’&gt;l'lli(‘kh'l' ul&gt; die i'ei'lite. _—\ufr1whtes Stehen ﬁlme suitiii‘hß Stütze nicht<lb/> möglich: Knpf meist zni‘i'irligeln-ngxt. Die Ruine werden im Liegen über<lb break="no"/>kr&lt;-uzf. können aktiv und 1»:\&gt;.«i\' _g‘o-hengt und gestreckt. uber nicht nl)—<lb/> durirt ner—len. Die Füsse hängen in Spitzfu&gt;sstuiluug herab, i:l.&lt;5"“<lb/> \il‘il uber niülwius dnrsu|ﬂuetin-n. Beim \'ersuvh zu strhen, knirkt Pat.<lb/> ein: die lin-Hexe sind sehr Inidmft. .\'e+n.&lt;ihilitiit und \“(‘_'_H‘tüti\'t‘ Funktinuvn<lb/> unrnml.<lb break="paragraph"/></p> <p>Hin Z\\'eitc.&lt;. vum .-\umr nivht unter.—‘nehtes Kind. wurde nur<lb/> 1‘ 4_, Jahre nh, kn,untv nicht greifen, nieht &gt;itzen, hat die Augen \’*'l"ll"’ht<lb/> und mit den Füssen gezurkt.<lb break="paragraph"/></p> <p>Ein drittes Kind. dns keine ähnlichen Symptonw _-_n-lmtcn. ist mit<lb/> 4 ,\lunnten an Breehdurrllfnll \ sturiu-n.<lb break="paragraph"/></p> <p>Das vierte, Kind konnt.- dwr Antur kurz vur seim"ln Tode —- Illi1 H<lb break="paragraph"/></p> <p>_\lnu:lten „„ sehen. Es ii:iﬂe \un (iulnii't un Zurkungen gehabt. 'N'iäft"<lb/> &gt;tnrke Hluu-hitis, Ntr:ihi&gt;mus i'un\*i-rgnus, stnriu- [{i-t‘lpxprruglmrkvit und<lb/> &gt;rhien ;lpalﬂlisrh.<lb break="paragraph"/></p> <p>Im Ansi'hlns&lt; an diese Fülle von familiärer Erkrnnlumg giebt der<lb/> ;\uior eine uusfüiirlirln: .\nnl_rse des All.&lt;4'liiiiﬂl« von Freud (Din<lb/> Infnntih’ (‘1-rehrnllühinuu;:: Nuthnngel‘s Unndhun-h)„ welcher die<lb/> h'tellun:_r dor familin lässt<lb break="paragraph"/></p> <p>-n und liei'mlitéireu Formen ln&gt;lnlnd4dh “““<lb/> die.<lb break="paragraph"/></p> <p>r eine sehr eingehende kritische Beleuchtung (Iq‘l' darin (eilthahi‘m‘n<lb/> B""“""““'S-f““ 30129"- Er sprirht sieh damean uns, dass die Ahtl'!‘""““f—'<lb break="paragraph"/></p> <p>'li«'&gt;l‘l' Formen von dem ührigun inlmlt der Krankhin gruppe auf Grund<lb break="paragraph"/></p> <p>eines nn_r_gvnnmim-nen Endugnne'15'lt derselben im Gegensatz tur an‘riden<lb break="no"/>hellen Aetiulogix- der übri—wn gem-hohen könne, und zählt seine ei.‘€“““"<lb/> Heuhuelntungen der .,]ufnntilvn Cure];rnlli'ihiuung“ ln-i.<lb break="paragraph"/></p> <p>Dercum (h) Der Y:iter der 3 kindlii'lien Kranken hat von seinen<lb/> beiden ersten Frauen normale Kinder gehabt, vun der dritt-en Frau vier<lb/> Kinder, von denen 3 die zu bnsrhrciiwude ,\ﬁ'nktinn zeigen. Di"<lb/> Mutter. selbst g_{usund, giebt an. dass «\in Kind einer ihrer 'l'nm‘en “‘“<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="15" xml:id="page__79327736-f0d4-4248-84eb-e887126cdc69"/>
-            <p>(,h:rebrnlc Kimlerlähniung, l)_'<lb break="paragraph"/></p> <p>Vätnrscite in ähnlicher Weise leidend i.&lt;t. N'hwnngcrschaft und Geburt<lb/> bei ulan Kindern normal.<lb break="paragraph"/></p> <p>Das älteste, 11Jahr, war bis zu 16 Monaten völlig normal, konnte<lb/> damals gut stehen und verfügte über einen reichen Spruchsclmtz. lfm<lb/> diese Zeit tl‘nt ein Anfall von upileptischen Krämpr auf. nach denen<lb/> es sprachlos, schwach und geistig beschädigt erschien. Buhl nnchlwrv<lb/> traten die, spastisehen Symptome. auf. die sich allmählich ausgebildet zu<lb/> haben scheinen. Es kann gegenwärtig gehen, duch nur eine kurze<lb/> Strecke. und geht. spnstisch und schwankenqL Die Beine zeigen Exten<lb break="no"/>sinnxcontrartur. Die Arme sind gleichfalls spnst.iséh, doch in geringerem<lb/> Grade: un den Händen hie untl da nthemide Bewegungen. im Sitzen<lb break="paragraph"/></p> <p>nehmen die Füsse Equino-vnrusstellung un. Die Sprache ist sehr<lb/> mangelhaft und unverständlich, häuﬁge Ant'ällc \0n Petit und: ldiutic,<lb break="paragraph"/></p> <p>Int-untinenz. .<lb break="paragraph"/></p> <p>Das zweite Kind. 6 Jahr, schien normal bis zum 4. Jahr. in der<lb break="paragraph"/></p> <p>er‘nnntl &lt;cenz von einer gelimlcn ]?Irkl'ﬂnkung nn Masern änderte &gt;ich<lb/> sein “ sen; es wurde blöde und schwach an allen 4_ Extremitäten. die.<lb/> Sclnräche zeigte sich auffülliger an der rechten Körperhälfte. Die.<lb/> sl’“-“tischen Symptome sind jetzt bei ihm .whr stark entwickelt. Heide<lb/> Beine vollkommen starr, in den Knien leicht tler-tirt. Die. Film-. über<lb break="no"/>extvudirt. Der rechte. Arm in Beugecuntrnctnr ﬁxirt. der linke. wiethl<lb/> gleichfalls starr. kann vom. Krullan einigermassen bewegt werden. Beim<lb/> Versuch zu gehen fällt. er hin und windet sich dann in ungem‘dncton<lb/> B&lt;‘“‘H„ﬁ*ungen. ln der Ruhe gelegentlich Zuckungen im Gesicht, in den<lb/> Armen und Beinen. Seine intelling ist. ctwus besser nl.&lt; die des<lb/> Bruders, seine Sprache ist. bradylne.<lb/> Häuﬁge Anfälle von Petit mal.<lb/> _ D” dritte Bruder. 2 Jahr, war b"<lb/> 1"‘l.'—'L’ (ler nämlichen Erkrankung an M &lt;ern wie sein Bruder dipleginch<lb/> und epileptiseh. Er kann indessen noch gehen, auch kleine. Gegenstundc<lb/> vum Boden aufheben. Er zeigt dieselben uthetniden Fingerl)ewcguugen<lb/> “'N‘ seine Brüder, scheint intelligenter als sie.<lb break="paragraph"/></p> <p>Das Sehv9rmögen, dessen genauere Untersuchung nicht möglich<lb/> nur. scheint bei allen gelitten zu haben. ‘lin einziges dcr Gcs.clnristcr,<lb/> l"'“ t)‘,'„ Jahre, erweist sich als normal.<lb break="paragraph"/></p> <p>Der Autor Sl'llliesst. diese Fälle von familiärer All'cktiun un die<lb/> ähnlichen von Pelizneus. Sachs, (lee. Freud und L\ltlsäﬂlllllg0<lb/> lkw-hriebenen nn.<lb break="paragraph"/></p> <p>Brower (5). Gesunde und nicht. belustete Mutter, alle (} Geburten<lb/> ":)riual; der Vater erhlich belastet, Alkoholikcr, vielleicht luctisch, mit<lb/> I\'li‘\l"gluuä,l Zittern, Sprachstörung behaftet, ohne Sehnenretlexe. Alle<lb/> Kinder bei der Geburt ungewöhnlich gross. Das erste (eine Knabe wie<lb/> alle tl;»lgenden), 12 Jahre, hat es nic zu einer motorischen Leistung ge<lb break="no"/>bracht; cl' krmm„ etwas sprechen, seit einem lieberhnt'ten Anfall mit<lb break="paragraph"/></p> <p>41)‘<lb break="paragraph"/></p> <p>h aber leichter verständlich.<lb break="paragraph"/></p> <p>vor Kurzem normal, wurde in<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="16" xml:id="page__bd114a38-eb51-4a03-8bb5-2324aa682b92"/>
-            <p>525 (.'eruhrnlo. l\'indorlähmung.<lb break="paragraph"/></p> <p>ö Jahn-n ist die Hprurho unverständlich. Gedächtnis gut. N}<lb/> Strnl_1isiuus iutnrnus, Athetnse, Lähmung, Contrnctur und Atropliie aller<lb/> 4 l‘]xt1w1uit£irv11, keine Zähne, Schlingen erschwert; Sphinkteren. Sensibilität<lb/> normal. (:‘rosivlitsasyrnn1etriv, hnher Gaumen. Der Zustand wurde im<lb/> Alter von 4——li Wochen bemerkt<lb break="paragraph"/></p> <p>Das zweite Kind. im Alter von 4')‘„ Jahren verstorbe-n, war normal.<lb/> Ein dritter Knabe, 8 Jahre. hat schlerht ausgebildete Zähne und un—<lb/> vvrstümllivlue Sprache, sonst die nämlichen Symptome wie derält1-ste.<lb/> Symptome vrst im Alter von 4 Jahren nach Erysipel aufgetreten. Der<lb/> vivrte. (% Jahre, scheint giesnn&lt;l, leidet an Kopfschmerzen. Der fünfte,<lb/> 4 Jahre alt. s1=it (lem “l.—3. Monat an allen 4 Extremitäten gel5.bnlt,<lb/> an1ubilnlung sttl1l1:(fl1t; Atlwtnse und Illuskelntruphie fehlen hier.<lb break="paragraph"/></p> <p>Der sechste zeigt bald nach (ler Geburt die nämlichon Symphune<lb break="paragraph"/></p> <p>stng1n us,.<lb break="paragraph"/></p> <p>11‘iv (ler vorige,<lb break="paragraph"/></p> <p>Hinweis auf eine pri'matule Aotinlugiu). Krim‘ A11gvnspiogeluntw<lb break="no"/>surhung.<lb break="paragraph"/></p> <p>Kingdon und Russel (1:3) Das häuﬁg familiär nut<lb/> zeigt sich in den 1' ‘ten vavnsmonuten mit Muskelschw<lb/> des llumpfes und (los Nuckuns, schreitet bis. zu fast allgemeinvr Muskel<lb break="no"/>lähmung furt' und führt zum Tod am Ende des zweiten Lebensjahres.<lb/> l)ur ophtluiluu.»skopisrhu. Befund, der frühzeitig kenntlich ist und (li?<lb/> gunz1l Zeit über unw‘ändrrt bleibt, besteht im Auftreten einer weiss—<lb/> R"'=“u*u Flvrknng mit rothem Centrum in jeder Muculn; spi'1tt‘1'tl'm<lb/> UI‘li"“3"'tl"’l‘lll" (“i'1- Die in zwei Fällen ausgeführte mikroskopisi'll?<lb break="paragraph"/></p> <p>uten1le Imiden<lb/> uclw. lu-sontlel‘5<lb break="paragraph"/></p> <p>l!ntrrsuchung zeigtt‘ Degeneration der grossen Rindﬂnzr‘llen 1l111'1'h'h‘ :‘—"“”‘°<lb/> (11&gt;|111'11 und ubstelge1u'lv spmale Degnm—ratmnen. (Ob ltlellll5"h "“t d"" "““<lb/> Surhs bnsvl1riulwnun fmnilv l1lim‘v? lief.)<lb break="paragraph"/></p> <p>Vermischtes.<lb/> N111‘l1 vinfu‘ eiugoluuulnn Schildvrung; der bei dieser Alfektion zu<lb/> . | , 1 . _ -- .. . ‘)<lb/> l11\11l1.11l1t1111l1‘11 lunmen 1011 Bewegun;zs „rung erklurt Lorenz (ZU) "‘”<lb/> ll1er:1pw lucr tür nicht su tmstlos, wie sie, von den Neumpathﬂ“‘ä“"<lb/> nngvnmnmvn wird. Wenn man es: versteht, seine Fäll? 111137.11511('l11'1h<lb/> also lwi Scitv bis t<lb break="paragraph"/></p> <p>wo Sl'l111'1‘1'6 psychische Störungen und ander?<lb/> Cmnpli1‘ntinucn (las zu erroichemle Ziel entwerthen, so kann man fusi<lb break="no"/>rﬂgvlmäissig «lin Aufgabe lösen, dass man die Kranken zur selbstäntliY—'““<lb/> lmknmotiun uluw Apparat? oder Krücken bringt. Die Fälle von 11llgt‘<lb break="no"/>mainvr und zumal von pnrnpleg_ziscl1er Starre stt-llen (ler nrtl10pueilisüh?"<lb/> Chirurrvio vivlmnhr 1l:mkburo Aufgaben. und die Behauclluntf kann hier<lb/> :1111l1 11111l11 leistvu :lls lwi (ler spi1mlon l\inderläiluuung. Bei den reiner?"<lb/> 1"‘”“““ “'" ““Wie ülwi‘\\itlgt bekanntlich die ll)]1ertonie des Muskel—‘!<lb/> wr-it übur 111-ssm1 lml1n1uug.1iud den Angritl'spunkt für die 'lhvrnpie_ ezieht<lb/> "'" l‘.1115 '"llf_'. (ln&lt;s rin in ('. Ontrurtur beﬁndln l101' Muskel 1in14hn.us nicht<lb/> nhm- “nik-ws 1-inmu gul£ihmten _-_rlpip|l gpstg]lt werden d„,-f, Spine<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="17" xml:id="page__05a966bb-02f1-4492-8c19-3921d0ccb4b6"/>
-            <p>Cel‘ebrule l\'imlerliih mung. (5—_)9<lb break="paragraph"/></p> <p>\\‘illkürliche Aktion ist in den Fällen von Sturre keineswegs nut}_relmhen,<lb/> sondern nur behindert, und es gilt eine. Reihe. von I'lindernissen zu über<lb break="no"/>winden, um ihn wieder brauchbar zu machen. Das; ll:|upthinderniss<lb/> gleichmiissiger Bewegungen ist die gewissermnssen zügellnse Aktion. mit<lb/> der spustische Muskeln auf lnuerrationsimpulse antworten. Ein zweites<lb/> Hinderniss ist die Contractur der Gelenke, welche. durch das Ueberwiegeu<lb/> gewisser Muskelgruppen bedingt wird, sei es, dass diese Muskeln starker<lb/> ‘p.lstisch :lfﬁcirt worden sind (Alltlitl'tote‘.ﬂ), oder von vornherein im<lb/> l'ehergewichte waren. Sekundiir entstehen dann neue Hindernisse aus<lb/> der trophisrhen Verkürzung der die (alelenkscontrzwtur tixirendeu<lb/> Muskeln. und diese werden dann gesteigert durch die \"eriimlerungzen der<lb/> Gelenkkupsel und die Del'ormirung der Gelenkenden. Die Aufgabe<lb/> der doch nur s_v1uptonmtisrhen 'l‘herupie kann nur durin bestehen, den<lb/> inügliehsten Ausgleieh in der vorhandenen Gleiehgewi(‘htsstürung des<lb/> Muskel-Antugonismus herbeizufﬂhren. Der beste Weg: hierzu besteht in<lb/> der llerabmindterung des Be\regungs0ﬂhhes der üherwiegemlen Muskeln<lb break="paragraph"/></p> <p>durrh Tenntomit': die anderen Hindernisse werden mittelst des nindel<lb break="no"/>lin-„den Redressements beseitigt. '<lb break="paragraph"/></p> <p>Das Verfahren der Selmendurrhschneidnng wird vun lmrenx<lb/> “""“ £"gen mehrfnrhe Vorwürfe vertheidigt. und die Effekte der \'ur<lb break="no"/>Ill"f-f‘fl'llug der Sehnen durch eingesclmltetes Narhengewche für die. Leistung<lb/> des Muskuls erörtert. Es handelt sich bei der Therapie der Allgemeinen<lb/> und Puruplegisclmn Sturm darum, die dm-ehschnittenen Sehnen ll] öglie list<lb/> stark zu verlängern. Zu diesem Zweck stellt man eine lfelmrem‘reetur<lb/> der Contructur her, und sucht diese möglichst lange Zeit nachher fest<lb break="no"/>zuhalten. Die Behandlung des spnstische,n Spitzfusses ist eine relativ<lb/> l*’if‘llte und galt run jeher die hesten Resultate. Lorenz erörtert nun<lb/> die Behandlung der Beugerontructur im Knie, mittelst I)ur('hsuluwidung_r<lb/> d"!“ l Beugese,hnen und narht'olgender l'eherstreekung des Kniegelenkes<lb/> mit seinem Sei]rnubenredresseur: er zieht die suhcutune Sehnendurch<lb break="no"/>Sf‘lineidung der in offener Wunde weit vor: durch mechanische Dehnung;<lb/> (]_H' spustischen Muskeln allein lässt sich ein dauernder Effekt nie. er<lb break="no"/>Zlf’l"ll— In sehr schweren Fällen kann die. Tenectomie an Stelle der<lb/> 'lleuut0mie- treten. Eine wesentliche Bedeutung für die Herstellung der<lb/> Funktion hat die Beseitigung des Adduetorenspasmus, du selbst leise<lb/> ISP-“te. desselben mit. den: Gehen unvert.riiglich sind. Eine dauernde Ver<lb break="no"/>1_““.'—"fl‘llng der Adductoren lässt sich auf unhlutigem Weg durrh Myorlwxis<lb/> '“ \l"r Narkose erreichen, wenn man Abductiouen im Hiit'tgelenk bis<lb/> uber 90" durchführt, doch zieht Lorenz die subcutune Durchschneidnng<lb/> (ll'r Addurtorensohnen bei Weitem vor. Bei sehr honhgrndigem Addur—<lb/> timluspﬂsmﬂs wird die Resektion des N. obturutnrius vorgenommen.<lb/> 'll'mz der dann vollständigen Ausschaltung der Adductorenmuskeln bleibt, die<lb/> A'l‘lllction doch möglich in Folge. der Aktien des Hartnrius. Gegen (lie<lb/> -"I'=‘&gt;Usrhe Beugecnntrnctur im llüftgelenk vnrzugehen. ei‘g_rnh sich kein<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="18" xml:id="page__57eed293-6e1e-4708-a5c7-579b02d1dc44"/>
-            <p>(};.m t‘erebrale Kindfrrlühmilng.<lb break="paragraph"/></p> <p>Anlass. Wenn «lie nen gmvmnielien Stellungen durch Verbände ﬁxirt<lb/> sind. bruuehen die Kinder keineswegs das Bett zu hüt.en; frühzeitige<lb/> lmknmotiun ist vielmehr von \"nrtbeilf Naeh —l-——Ö Wochen. wenn die<lb/> Verl ”nude ;ll)"'L'lll)lllllll'll werden. sind die Resultate noch keineswegs be—<lb/> friedigend. folgt jetzt der zweite, weit mühsamere Theil der Be<lb break="no"/></p> <p>handlung. der sieh bestrebt, durch Erziehung und Gewöhnung die<lb/> gewünsebten Bewegung.—”impnlse herbeizuführen. Hierzu bevorzugt<lb/> Lorenz “: '!e und vor Allem aktive Gymnastik weit. mehr als den<lb/> die Kinder leiebt sc‘bl‘eekenden faradisrhen Strom. Das Vorgehen bei<lb/> dieser .\'ueInbelmmllung wird eingehend beschrieben.<lb break="paragraph"/></p> <p>Lorenz hat in 12 Jahren 50 Fälle von (‘erehraler Killdt‘l'-&lt;UHTU<lb/> gesehen. er fügt die Krnnken;_msrhiehteu einiger von ihm &lt;‘llll'lll'gi—“ll<lb/> belnnnlelten “:‘ille um um Beispiele für die von ihm erzielten Erfolge zu<lb/> gl5llt'll. '<lb break="paragraph"/></p> <p>Als ..romplientorisehe Symptome“ der eerebrnlen Kintlerlähmung f:l-&lt;&gt;'t<lb/> Koenig (16) die Epilepsie, Spontanl,)e\\'egiiligelii. (,‘nordinationsstih‘ungrll,<lb/> Atl'eetiunen der Augenmuskelnerven und dergleichen zusammen. Dlm'll<lb/> Rüeksirbtnulune auf tlh'se Symptome sueht K. die Yer1nuthnng Freu d‘s<lb/> zu erweisen. dass von dem Schw hsinn der nerebralen Kinderlühmung<lb/> bis zur einfuehen ldiotie eine ununterbrochene klinische Reihe führe. Es<lb/> giebt nämlieh erstens Fälle von ldintie. die zwar keine hemiplegisehen mlrl'<lb/> dipln’egisehen. wohl aber einzelne der sog. eomplieatoris‘beﬁ Symptnme<lb/> aufweisen. In 6 von 30 sulehe.r Fälle bestand Epilepsie; dazu zeigte<lb/> einer dieser Fälle clun‘eutisehe Bewegungen. ein zweiter partiell? 0k‘nlmnu<lb break="no"/>torinslühmnng, ein dritter ()phthalmnplegia interna. ein vierter uml<lb/> fünfte—r dnppelseitige Abdueenslähmnng mit N. ..tagmus. ln weiter?" 13<lb/> Fällen waren Spontzmbewegungen zu beobaehten‘, von diesen wiesen<lb/> \\"if‘derum 8 Complientiunen mit Augenninskelstörungen auf. Eine. zweite<lb/> Gruppe bilden solche Fälle von ldiotie. die gleichsam als Ahort.ivformen<lb/> der rerebralen l\'in(lerliihmung auf'gefasst werden können, indem si€<lb/> leirbte. Spasmen der Beine erkennen lassen. In nnderen Fällen zeig“‘"<lb/> 'eh diese Spnsmen deutlicher und gestatteten, die Reihe bis zur nn<lb break="no"/>mreifelhnften spastisohen l’urnplegie fortzusetzen. Fiir die. von di"&gt;“"<lb/> Fällen gebotenen Phänomene schlägt, K. den Namen Pnraspasmus 'mlul'<lb/> (“" beiden oberen Extremitäten) Dispusmns eerebralis vor. “<lb/> die-*" Fällt! noch zur eerebrnlen Kinderlälunung zu rechnen sind, lw\""l-‘t<lb/> ferner das Auftreten allerlei „vomplieatnrisehcr“ Symptome bei ihnen<lb/> und die Uebereiustimmung der nnamnestiseb zu erbebentlen Aetiolnf-‘l‘i'<lb break="paragraph"/></p> <p>Philippe und Gestern (26). ‘<lb break="paragraph"/></p> <p>Full L —ljähr., Asl’ll}'Xie bei Geburt. Cnnvulsionen rom lll‘l“"“<lb/> Tag an. blindf hat nie gespruehen_ nie gegangen. (‘nntractureu der<lb/> Arme und Beine. nn letzteren allgemein, Oberschenkel gebeugt "nd<lb/> :uldueirt. Füsse in Equinus t.ellnn_t_n Autopsie: fihrüse Paehvnmningitl5<lb/> diffus mit erhebliehr‘m Sehwund der \Vindnngen. .<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="19" xml:id="page__daec50af-1f9f-4247-ad8a-99dbc87cb0cc"/>
-            <p>(fm'ehrale l\'imlerliihnnlng. (BI<lb break="paragraph"/></p> <p>Fall ll. 12jilhr., \'atﬂr '.l‘rinkl‘r. ll_\'ilrziliiiiin.&lt; \\‘iihi'ellil .*elnvanger<lb break="no"/>schaft. rechtzeitig geboren, mit iiniseliliingener Nahelst-hnar. Mit 7<lb/> Monaten Convnlsinnen, später oft wiederholt. Hydrocephalisehe Hesiehts<lb break="no"/></p> <p>bildung. starre tler unteren ]‘3xtremitäteu mit ll'lelln‘xsteigerung. Autnps .<lb/> lly(lrocephalie, die llirnsuhstanz auf Einige (‘entiineter Dicke redneirt.<lb/> Anwachsnng der Pin in (ler 'J‘empm'alregion. '<lb break="paragraph"/></p> <p>Fall 11]. l2jälu'., mangelhafte Anamne&gt;e_ normale (‘n-hart. lilintiv.<lb/> Stau-re aller 4 Extremitäten, Gang nnlniiglil'h. ;\ut.npsie: At.mphie<lb/> einzelner Windangen (Central- und Sehläfelappt‘").<lb break="paragraph"/></p> <p>Fall IV. 15jz'ihr., Vater Trinken-_ (,h-hart normal. ,\lit [ Jahre<lb/> Convulsionen, von da an link:—‘seitige spastisehe llemiplegie, Häuﬁg<lb/> \\"lHllerkelll'9!l(l€ epi_lnptisvhc Ant'älle. ;\thetnse llül' linken Hand. ;\ utn |.sie:<lb/> Leit‘hte Atrophie des hinteren Theils der ersten Nlllllilfl“ll\\'llhltlll_‘_" reeht&lt;.<lb/> Verkleinerung der ('entralnn grauen Massen rechts.<lb break="paragraph"/></p> <p>ln all diesen Fällen war (lie l’}ramiclenhahn völlig nurmal. nlnlr‘<lb/> Sklerose und ohne. Zeichen «ler .-\genesie in lll'l' thengata wie im<lb/> Rückenmark.<lb break="paragraph"/></p> <p>Die Autoren stellen sich 1lit‘l"ra;_re, nl) man (lie „le.&lt;ion essentielle“<lb/> lh‘r Little’schen Krankheit nieht vielmehr in den Nervenzellen tler<lb/> Vonlerhörner zu suehen hahe.<lb break="paragraph"/></p> <p>J. Landau (17) Beobachtung eiuus —l_iäihr. Kindes. \"nn gesunden<lb/> Eltern nach normalem Geburtmw-rlant' als Zwillingskiml gehnreu; da&lt;<lb/> andere Kind nach 8 Tagen an Kri'unpt'en gestnrben. Sehnn während (ler<lb/> Hrsten Lehenstage Krmupt'anfülle, (ln'auf normales Beﬁnden. lm ti.<lb/> [“91’9115111011'dt Impfung, von 3nmnatlieher Eiterung gefolgt. Verspätun—<lb/> Entn‘iCklung, läuft am E;„lp des zweiten .luhros, begann erst. vor wenigen<lb/> Wochen zu sprechen. Im 2. Lebensjahre Wimlerauftreten der Krampf—<lb/> anl'illle, auf die rechte Körperhälfte lnkalisirt. llewegun;1&gt;heanuung lle.&lt;<lb/> Fechten Armes zu Ende (les ersten Jahres bemerkt.<lb break="paragraph"/></p> <p>Rochtsseitige spastische llemiplegie, 1nässige. trophisehe Verkümme<lb break="no"/>r:"‘£l der rechten Extremitäten, gem: valgnm und lies \algns tlextv3r.<lb/> Gang scmol’pend. Sprache auf wenige Worte beschränkt, Erhehlirlw<lb break="paragraph"/></p> <p>esse"““8 unter Behandlung (Furmlisntion, Massage. graue Salbe.<lb/> S)’l'. fellow).<lb break="paragraph"/></p> <p>Der Autor schwankt zwisehen der Annahme. oino=r rungenital1-n<lb/> A.ﬂ"‘n"tinn und de!“ Verursaehung dureh die Kuhpm-knn-Impfung, oh\mhl<lb/> Ihe_z“'i“i"8389blll't, der Tml des anderen Kindes unter Krämpfen. alas<lb/> A_'lftreten der Krämpfe heim Uebnrlehenrlen in den ersten Lehenstagun<lb/> die Entscheidung leicht machen.<lb break="paragraph"/></p> <p>,_ Th0mpson (31) 13}ühriger Knahe klagt. in der llecnnvaleseenz narll<lb/> "“hﬂfhlnttern über l\'upfs&lt;rhmerzen, erbrirht, lll'l(l ist. eine Stunde später<lb/> l&gt;ff\\'usstl„s. Kein Strahismus. Die Beine werden gestreckt gehalten, “‘N'!”<lb/> nicht be“‘P—gt. Dunn treten Cnnvnlsinnen ein und der Knabe stirht<lb/> mit} Stunden nach Beginn (les (Unna. Bei «ler Sektion ﬁndet man 4la&lt;<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="20" xml:id="page__330473a4-8a35-4b3a-9fd7-82f64e68184d"/>
-            <p>„3.3 ('.-rul»rnl« l\'indci°lühiimiig.<lb break="paragraph"/></p> <p>(h-hirn hy1yvruelnisrli und den rm'hten 'l‘empurn9phenoida.lluppun von<lb/> lilutungvn ihirrh\\‘ühli. Div Srh\viorig_dwiton der Diagnose bei einem so<lb/> sult»nvii l"ullv sind zu hl'touen.<lb break="paragraph"/></p> <p>In dvr Discussion erwähnt Kontur ciuvs ähnlirlmn Falles. der mit<lb/> Srh\rindﬂl. ]‘il'lbl'4'l'lli'll und thiiuhung_r ohne Lokals_vmptnme begann und<lb/> zum Tod um svlhen Abend führtn. Blutung der rechten llemisphäre. mit<lb/> Durrhlwm-h in die \‘nntrikel. ('olman hat einen Fall von Gehirnblutung<lb/> hni eiiwm Kind in Zusammenhang mit Endocnrditis nic-erosn gesehen.<lb/> l\lurtinwr führt als dic l'rsm-lw der hei Kindern so seltenen Hirn<lb break="no"/>h:wlnnrrhzij_Vivn: .\s|ihyxiv. l’nrpurn, Srm'l)ilt, niilim'e Aneurysmun und<lb/> 4'hmnisvhp .\'vphritis auf. l’ottvr hetnnt dus Vorkonunen vpnösor<lb/> .lllntungen.<lb break="paragraph"/></p> <p>Buceelli ((i). Bn-nhnvhtung einer Epidvmin —— 18 Fälle — von theils<lb/> 4-ureln‘nler. tlwils Sllillillt‘l' Kindvi'h'ihniung. ln einigen ergriffenen Familien<lb/> li1'r dus win? Kind an der (‘vrehrnlcln Pin anderes im der spinaleu Form.<lb/> \?1'l':is&gt;oi' hält |Wlll(* Krankheiten fiir infoktiöson ['rsprungs und glaubt<lb/> du.—&gt; si(- ileiiisvllwn iitiu|o<lb break="paragraph"/></p> <p>' rlwn Faktor ihr» Entstehung \'Pl'dﬂuken. Auch<lb/> div .lnhi'vskurwn der llüulig'lwit l)(!llll‘l' i\’runklwitvn lunfen parallel.<lb/> Valenlz'n<lb/> Fél’é (5°): \Vii'll' ;\ s}'iiiiin14ti'i&lt;lii l'llfgb'llt'll der Beobachtung. wennman sich<lb/> nicht «le-r liisii'unn-nh— zur Mussung deivnt. deren Anwendung lwim<lb/> lwlwnden nllvrdings S('ll\\'il‘l'lgk(‘iißll mit Slt’ll bringt. F. hat bei15<lb/> Fiillpn \‘nn Kindurhomiplegio folgt‘ndu drei Mnnsse untersucht: Den<lb/> “lll‘k'lllili'sse‘l' \‘nn (ll'l' Prnhilwr:mtiu noripitnlis his zu den beiden Stil“"'<lb/> iiiil'lu‘l'll. div Dinwnsiuncu dm- Orbit.u trunsvvrsul und ve tikal, die. Länge<lb/> des l‘nturkivfors vun don] Angulns his zur l’rutuhernntiu nu‘ntulis. hir<lb/> llnsultuh- dvr Mwsnngun sind in oinvr Tabelle mitgetheilt. DPF Stirn<lb break="no"/>ln"wknr kann auf dvr hienuiplcgi.&lt;vlwn Smith ﬂacher sein als auf der ge<lb break="no"/>,snudvii (T [“z'iile win 1.3). ulwr uurh _£:'ll*ll‘ll n(ll’.l' selbst stärker \'01'S[H'lng““d<lb/> (4 “Hi l:'i}- lk‘i' \“Prtikalv llurrhniessvr der ()1'bitzl ist in 10 "011 1'5<lb/> l“:'illvn \'(‘l'l(ill'li. Div Liing,xn des l'nh=rkivfixrs zeigt sich, in 12 "011 15<lb/> Fällen. auf (l(‘l' S4‘itll d@r Lähmungr \'vrringei't. ])il‘ trophische Hemmung<lb/> l't'i dor l\'indui'lniini|&gt;lvf_ﬂ'iu hmm \ui'.&lt;('hindpnu Störungen der Filrlu«n hei"<lb break="no"/>\Hl'l'llfl'll. dit“ man sun&gt;i in-i l)(‘u'l’lll‘l'il'i0il lindut und auf .\ﬂwisrnus zu—<lb/> ri'n-kl'ührt. » Der .-\hsvhluss lll'l‘ .\rlwit ste-ht uns.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__acf2e30b-3960-4a3b-b450-38f52ae44941"/>
+        <p>(lerehrulc l\'inderlzihmung. 613<lb break="paragraph"/>
+        </p>
+        <p>Berührung (ler Narbe macht Schmerzen.1 Unruhe, Aengstliuhkeit untl<lb/> unangenehme Empﬁndungen im Kopf. An der linken Körperhälfte gering<lb break="no"/>fügige Herabsetzung der Empﬁnclungsfähigkeit für Berühruugen, leichte<lb/> Steigerung derselben für leelstiche. Muskulatur tler linken Glieder<lb/> etwas rigide. Active Bewegungen der linken Hand uncoordiniort. Ob<lb break="no"/>wohl der Kranke mit verbundenen Augen die allgemeinen Eigenschaften<lb/> der ihm in die linke Hand gelegten Gegenstände vrkannte (gross, dünn,<lb/> lung. rauh, rund, hart, schwer u. s. w.), vermochte er die Gegenstände<lb/> sell1&gt;t nicht zu erkennen, konntn- also die. vorhandenen elementaren Tast—<lb/> emptimlungen nicht zu einer rivhtig4—n 'l'nstvorstellnng verbinden.<lb break="paragraph"/>
+        </p>
+        <p>Cerebrale Kinderlähmung.<lb break="paragraph"/>
+        </p>
+        <p>Referent: Priv.-Doc. Dr. Freud—Wien.<lb break="paragraph"/>
+        </p>
+        <p>l. ;\hruhuin„. Bertram, liemiplegin in an iuluut. Clinical Society of Lumlüll. L=“ICL'l<lb/> 3“. Okt.<lb break="paragraph"/>
+        </p>
+        <p>2. vnn ,\schcn. H., Ueber die Stellung (lvr Inl'nnlilen Cerrln—nllülunung zu den<lb/> eiulugoncn Erkrankungen. Innug.-Üiss. Leipzig.<lb break="paragraph"/>
+        </p>
+        <p>3. llischnft'. G., Cerebrnle Kinderlähmung urn-h Sehllüg0lblllhilig. Juhrl). f. P—“."£'"<lb break="no"/>und Nunrol. XV.<lb break="paragraph"/>
+        </p>
+        <p>4— Bourneville et Relluy. lmln'rcilliti—, pnrnph":,"iu “P"—°°““'"“‘l“°i mal=ulie “" Little.<lb break="paragraph"/>
+        </p>
+        <p>. l’rugri-s méd. Nu. ”ll.<lb break="paragraph"/>
+        </p>
+        <p>z- liruwer. lt.. Four cases of Diplcgln in :- family of fivﬂ. Mctluciﬂ°, «lim.<lb break="paragraph"/>
+        </p>
+        <p>. lluccelli. N.. Pnrnlisi Spinale e oerubrnle infnutilu n. formaepidemina. (Epitleniisch<lb/> uultretcnrle spinulc und cerehrale l\'inclerlithmung.) ll Policlinico. IV. M. p, 249.<lb break="paragraph"/>
+        </p>
+        <p>7. llujt-rine. Dcnx aus du. rigidité spnsmmliquc eongénitulc Muladie de Little suivis<lb/> tl‘autupz.ie. Comptes Rnndua liehd. de ln Sue. (le Biol. 13. März.<lb break="paragraph"/>
+        </p>
+        <p>3- llercnm, Three cases of the family type of cerebrnl diplegin. The Journ. of<lb/> nur. und ment. dis. No. 7.<lb break="paragraph"/>
+        </p>
+        <p>9' Fé“y‘, Ch.. Note sur l’asymétrie rrnnin-fncinlo dans l‘hcmiplégie spnsnwtlique in<lb break="no"/>funtile. Nouv. Iconogr. de la Sulpétriéro.<lb break="paragraph"/>
+        </p>
+        <p>;? Gusne, Denx cas de pnraplégie spusmodiqne inl'unlile. Gazette hebthm. No. 29.<lb break="paragraph"/>
+        </p>
+        <p>' "ln Gehuehton, Malatlie de Little et rigiditt'- spnsmodique spinale (les enf:mts<lb/> mesuwant termß Revue neurol. No- 3.<lb break="paragraph"/>
+        </p>
+        <p>9"’”&gt; J_, Ein Fall von angeborener ccrebmlnr Diplegie bei einem nur. exlruutcriner<lb break="paragraph"/>
+        </p>
+        <p>h“l""mg'3rscl'mfl: stammenden Säugling. Arch. f. Kinderhk.<lb break="paragraph"/>
+        </p>
+        <p>“““15l‘alter et Thiry, Denx cas de rigidité spasmuclique inl'nntile nvernutnpsle.<lb break="paragraph"/>
+        </p>
+        <p>Commea rend. de in sec. de Biel 3. Juillet.<lb break="paragraph"/>
+        </p>
+        <p>“°“. Vorstellung eines Falles von rechtsseitiger Hemiplegie (Aerztlicher Verein<lb break="paragraph"/>
+        </p>
+        <p>Ill.Humb“rgy 15. Juni. Deutsche med. \\‘och. No. 46. Verein.—:br-ilugc).<lb break="paragraph"/>
+        </p>
+        <p>. lt‘f'gdon nnd Russell, Infantile Certabml Degeneration. Nottingham Medien<lb break="no"/>(;‘1‘“5rg- Society. Lancet 27. Nov.<lb break="paragraph"/>
+        </p>
+        <p>' It"'“€x Ueber cerebral bedingte Conuplirntionen, welche «ler ccrehrnlen Kinder<lb break="no"/>I"h"“lng wie (ler einfachen Idiotic gemeinsmn sind. sowin über die nl)orti\'en<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__be62c80c-2569-41bb-8a19-4bf8a1ab9b31"/>
+        <p>(il—l (‘ur.-hrale l\'indu)i'lülWiung.<lb break="paragraph"/>
+        </p>
+        <p>Formen der an“-run. l3r-rl. Ge.—ollsch. [. l’sycli. u. Nervcnkr. Sitz. v. H. Juni.<lb/> Nvui'nl. ('vull‘alhl. No. 13.<lb break="paragraph"/>
+        </p>
+        <p>17. Landau. lh-ilrag zur ;\L‘liiiliigiv tl\‘l' Ccrvlu'alliilimungen der Kinder. TIN-rap.<lb/> \\?)4'houm'lll'. Nu. -l(i.<lb break="paragraph"/>
+        </p>
+        <p>IS. l.vdcrm ann. W.. ’clwr coruhrale Kimlm'lälnnung. (llemiplcgia spmlica iufan<lb break="no"/>lilis.) lnaug.-l‘ixs. Berlin.<lb break="paragraph"/>
+        </p>
+        <p>19. l.v\'i. .‘\lllélllu l‘iiu Fall \"un lli‘iiiiplugia uui'ehrnlis nach l)lplltl)el‘ir'. Arch. f.<lb/> l(llllll‘l‘ll0lll(. ‘.’.. lid.<lb break="paragraph"/>
+        </p>
+        <p>20. l.ornnz. .-\.. L’vlwl' die chirurgische llvliaiiqlliing nlnr augc‘lmrencn spuslisclnrn<lb/> (’ilimlvr.—la \Vivu. kliu Rundschau. No. 21—27.<lb break="paragraph"/>
+        </p>
+        <p>21, Mann. |... \‘an (‘ivhnchhru‘n uvm“ 'l'henriu ill-cr die. Palliogenvse der l.inlo\rlxen<lb/> Krankheit. sowie dor spasli.—chon Liilnuungun im ,\llgemeiurn. l.hln(rallil. [. Norwa<lb break="no"/>lieilk. .\l: —.luni.<lb break="paragraph"/>
+        </p>
+        <p>.\las.—talunuu, “„<lb break="paragraph"/>
+        </p>
+        <p>Lu diplv;_-ie ü'l'4‘l)l'llll «lcll’ inlanzin (_uialaitia di Linda). !'lli0<lb break="paragraph"/>
+        </p>
+        <p>'" ‘. ll l’olivliniuo l\". .\l. p, 31.<lb break="paragraph"/>
+        </p>
+        <p>‘2.“., Ill ill&gt;. ('li. K.. „\ vn.xl‘ nl cru'x-lu‘al diplcgia. :lnni'u. nl'm-rv. und. man dia. NO.S.<lb break="paragraph"/>
+        </p>
+        <p>24. Äluralnu‘. lJit‘ coug_wnilalc vurnlvralc Dipln-,g-ie als eine lilii|iwlig lir:lul;lmitsfurnl<lb/> (U x‘un_iu p.—ivlijali‘ji nvvrnlngji. Nu. ]. :.<lb break="paragraph"/>
+        </p>
+        <p>“25. lh- lm. l\'lini&gt;che _nml pillllül'.",llü‘llt‘ Bei<lb/> ccrchralvn l.5ihmun;_r im l\'imlvsallvr. lt. Zn<lb break="paragraph"/>
+        </p>
+        <p>unuhrah-u l\'imlu<lb break="paragraph"/>
+        </p>
+        <p>«‘ zur Lohn- \'un der lmi4lvr.wiiigﬂn<lb break="paragraph"/>
+        </p>
+        <p>hr. f. NPi'v-snhk. X.<lb break="paragraph"/>
+        </p>
+        <p>“36. Philippi: nl (J.-,sinn. Etat du l'aisco,au ]._\'raniidnl (hullie er iuovlle) dan.— qualr0<lb/> cas de conti'acturv spnsnumliqnc inl'anlilv. ,_vmlromc de Lililo.3 l’l'ngr'cs inédical<lb/> VI. p. -l'ih’. Hq'miét(‘ de Biol. LS. Dez.<lb break="paragraph"/>
+        </p>
+        <p>27. Raymond, Sur \in L': ‘. (ln rigidité &gt;|ia.—nimliqnv (l\=.&lt; nicmhrvs iul'i-i'ivul‘a (lualmlio<lb/> de Little). Smuaine nu'-rliralv. Nu. IT.<lb break="paragraph"/>
+        </p>
+        <p>28. Sachs. B.. Little} lliseasv. &gt;llﬂll wo retaiu llll3 name? Journ.ufuerv. und nn'nl»<lb/> Dis. Dec-.<lb break="paragraph"/>
+        </p>
+        <p>2fl. Spiller, “'n. S., .\ clinical study uf inl'anlilv hcmiplegia. Journ. uf nm'\u and<lb/> nu-nt. disvam‘.<lb break="paragraph"/>
+        </p>
+        <p>30. Tauffui‘, W.. Ein Fall von augelinrmn‘l' cvl'xfhralvr l)ipleg_fir. Ai‘vli. l'. l\'invlürlllß<lb/> Bd. 22.<lb break="paragraph"/>
+        </p>
+        <p>3l. Thum pson. .\luitlaml. (_'vr.-hral haenml‘rhagc in child. West l.nndun Med.<lb break="no"/>l,‘hir. Sm-ie ‘. Lan-set. 13. Nm".<lb break="paragraph"/>
+        </p>
+        <p>3:3. l.'Urrinla, ("im (dc Panama). Paraplégiu &gt;pa.-Aiiuitliqi16 infanlilu. ,\ruh. de Neu<lb break="no"/>rologie. No. 18.<lb break="paragraph"/>
+        </p>
+        <p>ill}. \\"oiss, II., l‘iin Fall mu Paraplegia spa.—lir.a inl'antilix Wiener kl. llnml&lt;rlia\l.<lb/> No. 8. W. Inediz. Clul„ hl. Frhr.<lb break="paragraph"/>
+        </p>
+        <p>34. WV ().. Zur lmlm- der l\'iiiderliilunnng. l\'. klin. ;\erztctag in Zürich.<lb/> Schwow.ur (‘-nu‘ro&gt;p.-lllall, ]. Mai. ‘<lb break="paragraph"/>
+        </p>
+        <p>A. 110 1uiplegien.<lb break="paragraph"/>
+        </p>
+        <p>Splllet‘ ('29). Ausführliche- klinische Arbeit, reich an interessanten<lb/> Einzelheiten, gegründet auf die Unter=uchung von 233 Fällen aus<lb/> Cl]. K. Mills“ Ordination. 23 Mädchen, 10 Knaben. 17 rechtsseitige.v<lb/> 10 linksseitige Hemiplegien. Faciulparese in 6 Fällen, Zungennbwoicliu“ß<lb/> in —L. in 1 Falle deutliche halbseitige Atropl1ie der Zunge. In 16 Fälle“<lb/> Verschmälerung des Thorax der gelähmten Seite. lntelligenzabsrlnväcliü_ü%<lb/> in 13 Fällen. zwischen dieser und den motorischen Symptomen keine<lb/> feste Relation. Aplmsiea wurde nicht beobachtet, wn nicht hochgradig? ln—<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__e234659f-fc87-445c-ab4f-5c8a51fef959"/>
+        <p>(l‘ei'rbralc l\'imlerlübnulng. (il?)<lb break="paragraph"/>
+        </p>
+        <p>telligenzsrlm'i'u'he bestand. 'l‘rophisebe Störungen bestanden in 231 Fällen.<lb/> Die Sensibilität war in allen Fällen normal.<lb break="paragraph"/>
+        </p>
+        <p>Epileptiforme, Zufüllc bei 22 Fällen. Die Ant'i'dle vor dem .—\uftreten<lb/> der Lähmung werden als S_\'niptnme und nieht als \i'erursaebung des<lb/> Leidens aufgefasst.<lb break="paragraph"/>
+        </p>
+        <p>Einzelne Fälle. die durch besundere Symptome. auffallen. werden<lb/> ausführlich mitgetheilt. Sn fl“all I von reebtsseitiger lleniiplegie mit<lb/> ;\trophie, der durch das Fehlen der ("ontrnrtnr und Reﬂexsteigeruug<lb/> bis auf geringe, Spuren zu diagnostisehen Bedenken Anlass gab. Fall Ill<lb/> zeigt erhebliche\Varbs'rhum\‘erkümmerung an den Endgliedern der gelühmtrn<lb/> Extremitäten bei gleicher Längenentwieklung. Fall l\' und \' geben<lb/> Beispiele für die in (5 Fällen beobachtete Ueberstrrckbarkeit und Seblaﬁ’—<lb/> llt‘l‘ der Finger, die selbst mit (,'ontrnrtur im Handgelenk vereinbar ist.<lb/> In Fall VI bestand eine latente Contrartur des llandgelenkes. die bei<lb/> passiven Bewegungen manifest wurde. Sp. fragt mit Recht, ob hier<lb/> therapeutische Massnahmen \'nn gewisser Art nicht die Gefahr mit &gt;'i«‘b<lb/> llflichten, die (antractur zu tixiren. An der Hand dieses Kindes waren<lb/> athetoide Bewegungen zu beobachten. Fall XI” zeigte sehr deutliche<lb/> Il€llliutrophia t'arinlis. der einzige der Sammlung; Fall XVIII war dureh<lb/> "kﬁw Uebungen von Seiten der Kranken sehr gebe&lt;=ert wurden. hir<lb break="no"/>Mlltter dieser Kranken hatte gleichfalls eine linkss ge llemiplrgie<lb/> besessen, sodass die Corigenitale Aﬂ'ektion der kleinen Patientin sehr whbl<lb/> berevlitür sein könnte, wie Oppenheim einen sulchen Fall besehrie'wn<lb/> hat. Full XXX zeigte Contractur an einem Arm und an beiden Bemen:<lb/> Full XXX] postbemiplegisrhen Tremor und Zur-kungen im Gesirbt.<lb break="paragraph"/>
+        </p>
+        <p>Ferner werden zwei Sektionsbefunde mitgetbeilt. Das Gehirn de.—‘<lb/> ersten dieser Fälle zeigte. nichts als Sklerose in der linken Hemispbürr<lb/> ‘“1fllﬂs Gebiet der Arteria cerebri media beschränkt. Klinisch: Rechts<lb break="no"/>S“itige Hemiplegie seit einem „Schreck‘“ in früher Kindheit. Epilel‘ﬁl"<lb/> Erst mit 10 Jahren. Sehr mangelhaftes Sprachvermögen und schlechte<lb/> lnt.elligenz; bis zu 13 J. konnte der Knabe gehen, von da an\'ersehlimmerung,<lb/> die das Gehen unmöglich machte. Der zweite Sektiunsbet'und ist der<lb/> einer Poreneeplmlie der linken l-[emisphüre mit Einbeziehung der Brocﬂ'r‘efllt'"<lb/> '\_tellt'. Rechtsseitige Lähmung und Atrophie; das Kind konnte sehr “"“-'"<lb/> .&lt;lngen_<lb break="paragraph"/>
+        </p>
+        <p>. Endlich einige Notizen über einen Fall rongenitaler Chorea mit leisen<lb/> hemll’le‘s’i5dlml Symptonen (linksseitigc Fucialparese. subjektive S\'b\\'i'll'll"<lb/> der linken Extremitäten). '<lb break="paragraph"/>
+        </p>
+        <p>‘ Ledermann (IS). Darstellung des bekannten Krankheitsbiler und<lb/> Mlttheil‘mg ZWeier Fälle bei Personen reiferen Alters beobachtet. \'&lt;m<lb/> denen der zweite Fall eigentlieb als Poliomvelitis infant. diagnosticirt wird<lb/> und nur durch die Erhaltung des PMellm-retlexes Anlass zur (liagnnstisehen<lb/> B“"?lmng =lllf Cerebralläihmung giebt.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="4" xml:id="page__e49e130f-f90e-4d64-962b-b28372855ce4"/>
+        <p>(illi Ccl'ehralu l\'inqlerlühniung.<lb break="paragraph"/>
+        </p>
+        <p>Wyss (fl-l). Vorstellung eines Falles mit rechtsseitiger totaler<lb/> l*‘urialislähinung und linksseitiger Extremitätenlähmung. D:). letztere zu<lb break="no"/>rückging, erstere blieb, und Tumor, Blutung, Embnlie und peripher.<lb/> ]f‘acialislähmung ausgeschlossen werden konnten. nahm W. eine Palin<lb break="no"/>&lt;-ncephalitis im Pens lokalisirt an. Elektrische Erregburkeit gut, noch<lb/> keine Atrnphie.<lb break="paragraph"/>
+        </p>
+        <p>Hess (14). 5‘j._,j. Knabe, seit dem Alter um ‘:g J. plötzlich gelithmt,<lb/> Mutter erlitt intra pur-tum einen sehr grossen Schreck. Das Bein besserte<lb/> sich so rasch, dass das Kind mit; einem Jahr laufen lernte; der Arm ist<lb/> verkürzt und abgenmgert, ebenso die l'ntersehenkel, Beuge-Contrncturen<lb/> (les Armes. Der Fall wird als l’ulioencephalitis vorgestellt.<lb break="paragraph"/>
+        </p>
+        <p>Abrahams (l). 2‘J,j. Kind, in den ersten Tagen einer nicht gerade<lb/> schweren Erkrankung an Keuchhusten plötzlich von rechtsseitigen Conrul<lb break="no"/>sionen befallen, bewusstlos. Pupillen erweitert, unempﬁndlich gegen Licht,<lb/> N)'stagrnus. Am. folgenden Tage einige leichtere Anfälle. Einige Tage<lb/> darauf complete rechtsseitige Hemiplegie (mit. Aphasie), die sich dann zu<lb/> besser-n begann und zwurnm Bein eher als am Arm. Herz gesund, etwas<lb/> Alhuminurie naclnveishar. A. hält eine Huemorrhagie für wahrscheinlicher<lb/> als eine Embolie. Sutherland berichtet über einen Fall mit. ganz<lb/> ähnlichem Beginn. der sich dann als tuherkulüse Meningitis herausstellte<lb break="no"/>
+        </p>
+        <p>A. Levi (H)). Ü_iiihr. Kind, eine Woche nach der Erkrankung mit<lb/> .‘—*“"graenöser Form der Diphtheritis aufgenommen, und wiederholt mit<lb/> Behring’schem Serum injiriert. Am 13. Tag der Erkrankung wird die.<lb/> Sprache näselnd, drei Tage später I‘m-ese des Gnumensegels und der<lb/> Arcnmodation, später Nierennﬁ'ektion, Endocarditis acutu, Drüsvll<lb break="no"/>absr-edirung, Otitis (lextl'3. In der fünften Woche seit Krankheitsbeginn<lb/> plötzlicher npnplektiseher lnsult, linksseitige Facinlis— und Körperpm‘859,<lb/> die sich nach Stunden bessern. Am nächsten Tage dieselben Lithrnungiän<lb/> nach neuerlichem Insult, die jetzt anhalten. 57Tage später einseitige<lb/> Pan-se (ler Nackenrnuskeln, so dass der Kopf, gegen die linke Schulter<lb/> geneigt, mit dem Kinn das Sternum berührt. — Allmähliche Besserung<lb/> bis auf Schwäche. und Steifheit in den Bewegungen des linken Armes.<lb break="paragraph"/>
+        </p>
+        <p>Zusammenstellung von 34 in der Literatur verzeichneten Fällen von<lb/> hemiplegischer Lähmung nach Diphtherie. Die Ursachen derselben scheinen<lb/> die nämlichen zu sein wie. bei andern Hemiplegien der Kinder, nämlich<lb/> Haenmrrhagie, l'31nbolie und Thrombose. ’<lb break="paragraph"/>
+        </p>
+        <p>Bischoff (3).31jiihr. Krnnke, hereditiir nichts bekannt, bis 2% Jahr<lb/> gesund. Damals nach plötzlichem Anfall von Convulsionén rechtsseitig<lb/> gn=läihmt, allmählich stellten sich Contracturen ein. Häuﬁge Wiederkehr<lb/> «pileptischer Anfälle. Mit 26 Jahren nufgenonunen, zeigte sie. starke<lb/> rerhtsseitige Contrneturen, Fucialparese, typische Athetose der rechten<lb/> Hand, dort auch Schmerz und Berührungsempﬁndlichkeit stark abge<lb break="no"/>stumpt't. Reﬂexsteigerung, trophisches Zurückbleihen der rechten Gesichts<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="5" xml:id="page__730aec47-ec03-4a3a-b3b5-38c934318985"/>
+        <p>Cl:rebrule l\'inderliihmuug. 617<lb break="paragraph"/>
+        </p>
+        <p>hälfte und der geliihmten Extremitäten. Leiehter Srln\'uchsinu, Tod im<lb/> Status epileptic-us„<lb break="paragraph"/>
+        </p>
+        <p>Die Section ergab keine andere Veränderung als eine Cyste- im<lb/> dnrsulen Theil des linken Sehhügels. Die linke Pyramidenbahn, nicht<lb/> direkt geschädigt, zeigt nichts als eine gleirhmüssige Verkleinerung, uns<lb/> der man sich die schwere Hemiplegie nicht gut erklären kann. B. neigt<lb/> zu dem Erklärungsversuch, dass die Ilemiplegie durch die Unterbrechung<lb/> sensibler, zum motorischen Centrum führender, Bahnen herbeigeführt<lb/> wurde, nach dem von Exner entwickelten Prineip der Senso-Mobilität.<lb/> Ein Hauptinteresse der Mittheilung liegt in der Verwerthung des<lb/> putln‘ulogisehen Befunfles für den Fuserverlunf im Sehhügel.<lb break="paragraph"/>
+        </p>
+        <p>B. Diplegien.<lb break="paragraph"/>
+        </p>
+        <p>B. Sachs (28). Bei dem heutigen Stunde unserer Kenntnisse ist es<lb/> ganz der Willkür überlassen, was ein Autor unter dem Namen Little’srhe<lb/> Krankheit verstehen will, da weder Aetiologie noch Symptomatik die<lb/> Abgrenzung einer so zu bezeirhnenden Gruppe von Fällen im Sinne Little’s<lb/> gestalten. Die einzig zulässige Eintheilung der Fälle von lnfnntiler<lb/> (‘erebrnllähmung wäre die nach der Aetiologie in „prnenatnle. Geburts<lb break="no"/>lälunungen, und erworbene“ Fülle. Eine vom Autor mitgetheilte, von<lb/> Donuf bearbeitete Ueberselmu von 50 Beobachtungen erhärtet die<lb/> bnregelmässigkeit der Beziehungen zwischen den Krankln:itssymptomen<lb/> uml'der Little’schen Aetiologie. Die Versuche von Brissuud und<lb/> von Gehuohten, die Little’sche Krankheit zu deﬁniren, haben die hier<lb/> herrschende Verwirrung nur gesteigert durch unrechtmi'tssige Bestimmung<lb/> &lt;le Abgrenzungen und Zerreissung des klinischen Zusamnlenhnnges.<lb/> _Vfln (1'ehuchten’s Erklärung für das klinische Bild der parnplegischen<lb/> starre (uns dem Zurückbleihen der Axencylinden-bildung der Pyramiden<lb break="no"/>Stränge in Folge der Frühgeburt) ist unzuläuglinh.<lb break="paragraph"/>
+        </p>
+        <p>, Der Autor räth dazu, den Terminus Little’sa—he Krankheit als der<lb/> \erwirrung dienend ausser Gebrauch zu setzen.<lb break="paragraph"/>
+        </p>
+        <p>_ Van Gehuchten (11), welcher schon in einigen früheren Arbeiten<lb/> (nn Journal de neurologie et d’hypnologie 1896 und 1897) der von<lb/> l'i'eud versuchten, von Raymond u. A. ncceptirten Aufstellung einer<lb/> khmschen Einheit der „Cerebralen I)iplegien“ widersprechen, wiederholt<lb/> "1 diesem Aufsatz seine früher geüusserten Ansichten und deren Be<lb break="no"/>giün(lung_ Er stellt als die eine der zu sondernden Aﬂ'ektionen des<lb/> I“114103311.ex'sdie„Rigidit.é spusmodique spinnle. des enfunts nés avant<lb/> tel—me“ hin, die sich klinisch nuszeiehnet durch das Auftreten des<lb/> sl‘“5ti5°llen Symptomcomplexes (Contructur, Reﬂexsteigerunga Ab<lb break="no"/>-"Clliv="xchung des Willenseinﬂusses) ohne jede sonstige Complicati0n,<lb/> netrologisch durrh das Moment der Frühgeburt. und für die er im Gegen<lb break="no"/>iältz zu Marie und Brissuud eine spinale Herkunft beansprucht, da die<lb/> b-"ml’tmne der reinen parnplogischen Stm're sich nach ihm darauf zurück<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="6" xml:id="page__9eb9406a-4ce4-4ba3-b73c-7aa0a68dc1c2"/>
+        <p>618 ('erelvrale l(ilnlerliihlnung.<lb break="paragraph"/>
+        </p>
+        <p>führen, dass die .\xrmg\'limler der l’_\' anlidenfasern zur Zeit der Früh<lb break="no"/>
+        </p>
+        <p>guhurt nicht. über das llalsinark hinaus gewachsen sind. Vnn dieser<lb/> .\tl'ektinn sei scharf zu trennen die. spastisrhe Spinalparalyse Erh’s. die<lb/> auch beim Erwachsenen auftreten und beim Kind hereditärer Natur sein<lb/> kann. Zur Ente heidung der beiden Zustände dient, dass die Erb’sche,<lb/> Spinalparalyse durch :\ll'ektinn der bereits gebildeten PyramidenhaImeu<lb/> entsteht, d<lb break="paragraph"/>
+        </p>
+        <p>a's sie keine Tendenz zur Besserung zeigt und sehr wahl als<lb/> rerebrale l€r mkung aufgefasst werden kann. Für das andere Material<lb break="paragraph"/>
+        </p>
+        <p>der Kategorie „(‘erebrale Diplegien“ könne vorläuﬁg der Snlnmelmnne<lb/> „étuts ,spasmudiques infuntiles d"0rigine l‘,("l‘t"lll'zllt*“ gehraur'ld<lb/> werden.<lb break="paragraph"/>
+        </p>
+        <p>Der Autor fordert. dass die in der Literatur mitgetheilten Bonb<lb break="no"/>nehtungen von rrrehrulen Diplegi0n gesammelt und narh Aetinlngie.<lb break="paragraph"/>
+        </p>
+        <p>'mptmnen und Verlauf zu Gruppen zusammengefasst \\"i'irden. l'ir<lb/> scheint zu übersehen, dass diese Arbeit. bereits ,gesehehen ist, und da'&lt;<lb/> die Ansichten der von ihm augcgriﬂ'enen Autoren sich auf die lfir:-!""“'*"<lb/> derselben stützen.<lb break="paragraph"/>
+        </p>
+        <p>Des W'eitercn vertheidigt der Autor seine Lehre. zur lflrkliirung der<lb/> sehlaffen Lähmung; und der (‘nntrartur gegen Einwände. die \"01! M).“<lb/> und Levi (Studio clinieo ed anntmnieo relativo ad un (‘n—&lt;“ ‘“ ‘lil’l"fll"<lb/> spasticn eongenita (nmrbu di Little). Rivista di patnlngia nur\'nsﬂ **<lb/> mentale, nov. 1896) erhoben werden sind.<lb break="paragraph"/>
+        </p>
+        <p>Mann (21): Van Gehuehten hat in drei Arbeiten im Journal de<lb/> neurologie et. d’hypnnlogie 1896 und 1397 Anschauungen über iii" P"tl“"<lb/> gr.-uese der Contl'arturen und Liihmungen ausgesprochen. die er II““<lb/> Auf? ung der Little$('hen Krankheit verwendet, und die hier aus—<lb/> führlirh dargelegt und von M. einer scharfen Kritik unterzog0n \\‘vrdeil.<lb break="paragraph"/>
+        </p>
+        <p>Naeh v. G. sind unter den Begriﬁ' der Little’sehen Krankheit zwei<lb/> Gruppen unterznhringen und scharf zu scheiden.<lb break="paragraph"/>
+        </p>
+        <p>1. Die Zustände von Rigiditiit bei vorzeitig gelmrrnrll Kiml"“"<lb/> 2. die bei rechtzeitig. aber unter Guburtsschwierigkeifen 'n"r'lwl'em'n<lb/> Kindern. Bei den ersten sind die spa. schen Symptome einzig nl)!“<lb break="no"/>leiten von dem durch v. G. mnstatirten Befund, dass die. Axeneylimll"’<lb/> der Pyramident'asern zur Zeit der Geburt im Riickennmrke noch völlig<lb/> fehlen und ihre absteigende Entwickelnng extrauterin nur verzögert oder<lb/> mangelhaft vollziehen. Diese Alfektinn ist also spinaler Natur und zeigt<lb/> Tendenz zur Heilung. Die zweite Gruppe umfasst Fälle von Cerchi'ﬂl<lb break="no"/>erkrankuugen.<lb break="paragraph"/>
+        </p>
+        <p>Der Einwand, warum denn beim Enraehsenen die Unterhrerhung<lb/> d""' Pyramidenbahn im Rückenmark Lähmung mache, während beim<lb/> Frühgelmrenen das Fehlen dieser Bahnen ("nntractur ohne, Lähmung be.<lb break="no"/>wirke. veranlasste v. G. zu behaupten, dass auch beim Erwachsenen die<lb/> U""""“'Pflllmﬂ (ler l‘_vhahn im liüekemnnrk nur Cnntrar-tur. die d""<lb/> r'erehrulen Ruhm-n (bei der llemiplegie) dagegen Lähmung l"“"i"k"'<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="7" xml:id="page__77ef512d-4ce7-4e58-ac21-977fe73c9de0"/>
+        <p>L‘-erehrale Kimlerlähniung. til!)<lb break="paragraph"/>
+        </p>
+        <p>Die Heiniplegie ist narh seiner Ansicht eine srhlaﬁ'e Lähmung, und die<lb/> bei ihr auftretende (.'ontractur sei ihrem Wesen nach verschieden von<lb/> der spinalen Stnrre, sie sei eine passive Cont‘actur, durch _Retraktinn<lb/> der Beugemuskeln, während bei Unterbrechung der spinalen l’_vhnhn<lb/> eine active Contrn0tur (vermehrter Tonus) bestehe, aber keine Lähmung.<lb break="paragraph"/>
+        </p>
+        <p>Den so construirten Gegensatz zwischen der Symptomatik einer<lb/> spinalen und einer cerebrnlen Läsion der Pyraniidenbahn erklärt v. (t.<lb/> durch eine anatomische Hypothese. Die Muskulatur sei mit. der Hirn<lb break="no"/>rimle durch zwei Bahnen verbunden, die. in der inneren Kapsel llul‘ll<lb/> zusammen laufen und sich dann trennen. Die eine dieser Bahnen ist die<lb/> als P_\‘bahii bekannte. die andere tritt von den Ponskernen aus in’s<lb/> Kluinhirn und erst von dort durch die unteren Kleinhirnsehenkel in die<lb/> VOHlf‘rrn Theile der Seitenstri'inge. L siuneu, die in der inneren Kapsel<lb/> ll€i(le Bahnen treﬁ'en, erzeugen Lähnumgen und zwar ohne ('ontraetur.<lb/> Spinale Läsionen lassen dagegen meist die Kleinhirnlmhn nnlwtlwilig_ft<lb/> und rufen darum nur Contraetnr ohne vollständige L:"ilnnung hervor.<lb/> Die l'linzelheiten dieser Erklärung in Bezug' auf ,\luskeltonus und Reﬂexe<lb/> lü“mnnn hier nieht ausgeführt worden.<lb break="paragraph"/>
+        </p>
+        <p>Mann vertritt im Gegensatz hierzu den Standpunkt. llil«\'&gt;' ill‘l'<lb break="paragraph"/>
+        </p>
+        <p>fi— ‘ensat7. zwisehen den klinisi'hen Symptomen der verehralen und<lb/> “liiﬂiileii Läsionen, den r. (i.’s 'I'ln-„rie erklären will. nieht besteht.<lb break="paragraph"/>
+        </p>
+        <p>in beiden Fällen kommt, es zur Lähmung und zur aktiven ('on<lb break="no"/>lrartur. ln Betreff der Anwendung der v. (i.”s Lehrr- nut die Little‘srhe<lb/> Krankheit verweist Mann auf die bereits vun Freud (Nuthnugel's<lb/> l'laiidhnf‘h) an v. G. geübte Kritik.<lb break="paragraph"/>
+        </p>
+        <p>Zu den früher publicirten sechs Fällen von Little'srher Krankheit<lb/> fügt Muratow (24) fünf neue. hinzu, deren Krankengeschichtt‘n das typische<lb/> Bild dieser Form zeigen. M. tlieilt auf Grund seiner Beobachtungen<lb/> die Krankhe „yinptume in die -ardinalen und die Begleiters('heinungen.<lb/> Zu den ersten gehören bei curebraler Diplegie l. die spnstische Paral ,<lb/> der beiden unteren Extremitäten, wobei die Intensität der Lühmungs<lb break="no"/>""Srllrinungen eine wechselnde ist, 2. das Leiden tritt congenital auf.<lb/> “'"l'ﬁi man meistens ananmestisch Geburtsannmalien fesstellen kann, und<lb/> 3. der regressive Verlauf der Krankheit. Zu den Begleiterscheinungon<lb/> ‘l_l"-&lt;‘?l' Krankheit gehören ]. Störung der psychischen Funktionen mitdem<lb/> 1._\'pus der mehr oder minder stark ausgeprägten Demenz, 2. Zwun.‘—'S'<lb/> l’°“"‘gllﬂgell verschiedener Art, 3. Atrophie der gelähmtt‘n th5keln‘ -L<lb/> “lim-male Innervatiun der Gesichts— und der Augenmuskeln (Nystagmus).<lb/> Diif€rential-diagnotisch müsse man diese Krankheit von folgenden ähnlichen<lb/> °“Mscheiden. 1. Von der Porent‘ephalia duplex. welche nach der Geburt<lb/> des Kindes eintritt, und sich sowohl durch eine unregelmi'issige Ver-theilnng<lb/> und grössere. Intensität der Lähmung, wie auch durch eine tiefere<lb/> l‘-*}'chische Störung und stärker ausgeprägte Mitbewegungen unterscheidet,<lb/> ?. von der diplegischen Form der selten hei Kindern auftretenden Pseudo—<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="8" xml:id="page__0cad0852-d4b8-41b9-b0a5-7fca35dd8602"/>
+        <p>620 (‘erebrule Kinderlülunung.<lb break="paragraph"/>
+        </p>
+        <p>Bullyéirpurulyse (akutes Entstehen, bulbäre Symptome), 3. von den Diplegien,<lb/> die in seh\\'eren Formen des Hydroeephalus auftreten können (Verlauf<lb/> der Krankheit, Form des Schädels u. s. w.), 4. die Ausgangsformen der<lb/> Little‘seheu Krankheit können den Kontrakturen der Rhnchitis oder der<lb/> Hoffmann’sehen neurutischen Form der Muskelatrophie ähnlich erscheinen.<lb/> Die rhuchitiwhen Contrukturen werden aber nicht von Lähmungserschei—<lb/> nungen begleitet, und die Hoffmnnn‘sche Form zeigt einen peripherischen<lb/> Typus mit Beginn der Krankheit im Gebiete des N. peroneus. 5. Man<lb/> soll die Little’srho Krankheit von den diffusen spinulen Krankheiten,<lb/> nämlich von der multiplen Sklerose und von den syphilitischen Formen<lb/> unterscheiden. Was die. Aetiologie dieser Krankheit nnbetriﬂt, so meint<lb/> Verfasser, mit Little, Freud u. A., dass die Hauptrolle die Geburts<lb break="no"/>unmnalien bilden. Auch die Syphilis der Eltern giebt wahrscheinlich oft<lb/> einen günstigen Boden für die Entstehung der Krankheit ab, dagegen ist<lb/> die Meinung Fournier’s, dass die direkte Ursache der cerebrulen Diplegie<lb/> bei Kindern die angeborene Syphilis sei, noch nicht hinreichend gestüzt.<lb break="paragraph"/>
+        </p>
+        <p>Was die puthnlogisch—unntomisehen Veränderungen bei der Little—<lb/> schen Krankheit anbetriﬁ't, so zeigte die Section und die mikroskopische<lb/> Untersuchung eines Falles Folgendes: In der Gegend der beiden Lohuli<lb/> pururentrales liess sich die Pia schwer abziehen. Die. Hinterhouptslappt’"<lb/> sind in ihrer Entwicklung zurück-geblieben. Die vordere und die hintere<lb/> Centrulwindung sind srlnnäiler und fühlen sich härter als in der Norm an.<lb/> Beim Durchschnitt durch diese letztere “’indung erscheint die Hirnrindo‘<lb/> ntrnphisch. Ebenfalls atrophisch erscheint die, weisse Substanz. Die.<lb/> Seitenventrikel sind stark erweitert. Die mikroskopische Untersuchung<lb/> zeigte. dass die gesammtc Oberﬂäche der Centrnlwindungen und d"5<lb/> Lobulus pnracentrnlis mit Kürnchen und Pigmentzellen besät war. Die<lb break="no"/>selben Blutungsresiduen fand man auf der oberen Fläche des Corpus<lb/> &lt;-nllnsum und am Fasciculus subcallosus. Die Blutung nimmt nur die<lb/> oberen Schichten ein und zerstört die unten liegenden Nervenzellen und<lb/> Norvenfasern. Ferner fand man Blutungsresiduen auf der Oberﬂäche des<lb/> Sohlu'igels und alte haenmrrhugisehe Herde (Cysten mit Pigmentzellen)<lb/> in den uentralen und parietnlen \Vindnngen. Ausserdem — Atrophie der<lb/> Corona radiata, des Corpus (tallosum. Fasciculns snbcallosns und sekun<lb break="no"/>däre Degeneration unterhalb der Hirnrinde der centralen Windungen.<lb/> Die sekundäre Degeneration tritt in dem mittleren Abschnitt der Hirn<lb break="no"/>schenkelbasis auf. Im Hirnstumm fund man ebenfalls Blutungen (speeiell<lb/> in den Vierbügeln). lm Rürkenmnrk waren die Py V und PyS (legenel'irt<lb/> Ausserdem Entartung in den Goll’schen Strängen des Halsmarks. In<lb/> der ganzen Peripherie der Randzone zerstreute Pigmentkugeln mit Faser<lb break="no"/>schwund, das Bild der Ran(lsklerose, dabei konnte man nirgends Neuroglia<lb break="no"/>wueherung konstutiren.<lb break="paragraph"/>
+        </p>
+        <p>Dieser Befund zeigt, dass di“ 1\nthologisch-anntomische Gl'ul‘dlﬂgt"<lb/> der Krankheit nicht, in der intrarm-ningealen Ilämorrhagie bestellt<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="9" xml:id="page__8620f892-2007-484f-bf3b-54920c77b80e"/>
+        <p>Cerebrule Kinderlähmung. 021<lb break="paragraph"/>
+        </p>
+        <p>(Gower‘s u. A.), sondern in diﬁ'user Blutung unter die pin runter. Diese<lb/> Blutung verursacht dann die Atrophie der Centralwindungen, und wenn<lb/> diese Alteration grösser wird, so entsteht das Bild der .Porem-ephalie.<lb/> Die Hauptsache bildet die primäre herdartige Erkrankung der Central<lb break="no"/>windungen der beiden Hemisphären mit seknndär auftretenden cerebrulrn<lb/> und spinalen Degenerationen.<lb break="paragraph"/>
+        </p>
+        <p>Verfasser bemerkt noch, dass der bei Little‘srher Krankheit unf<lb break="no"/>tretende Nystugmus in manchen Fällen durch Blutung im Gebiete der<lb/> Ocumulotoriuskerne bedingt sein könne. (Edward Fin/au.)<lb break="paragraph"/>
+        </p>
+        <p>Muratow (25): Die an eine früher n-röli'r-ntliehte Arbeit (ibid. VII)<lb/> nuküpfende Publikation enthält 5 Krankenheulmchtungen. darunter eine<lb/> mit Sektionsbefnnd.<lb break="paragraph"/>
+        </p>
+        <p>Fall VII. 2U,jähriger Knabe, schwer und vorzeitig geboren, seit<lb/> der Geburt steif und gelühmt. Typische allgemeine Sturm, Hüften un<lb/> den Bauch angezogen, Pes equinus duplex. Reﬂexe erhöht. Tod an<lb/> Sehnrluchpneumonie. Antopsie. Im Gebiet der Paracentralläppchen<lb/> die Hirnsubstnnz fester, die weiche Hirnhuut mit der Rinde verwechsen.<lb/> Miuder feste Verwachsungen an anderen Stellen. Die Windungen (ler<lb/> Centrulluppen sehr dünn und ntrophisch, die Hinterhnnptswindungen<lb/> minder gut ausgebildet. Miikrosknpisch sichtbare Degenerationen im<lb/> R—ückenmurk. Die mikroskopische Untersuchung weist oherﬂa'ichlirhe<lb/> Hämorrhagien im Gebiet der Üentruhvindungen, im PloxuS chorioid., in<lb/> den Hirnventrikeln und in der Pin spinnlis nach. Sekundiire Degene<lb break="no"/>rationen der Rﬂdifirfuserung und des Balkens, Zerstörung der Nerven<lb break="no"/>zellen uml Fasern im Gebiet des ()cnlomotorins und Trnchleuris.<lb break="paragraph"/>
+        </p>
+        <p>Full VIII. 1 Jahr alt; zehnte Geburt, Zwilling, asph_vktisch geboren.<lb/> Schwäche des Nackeng und Rumpfes, Arme später nur schwach, Beine<lb/> steif geli'ihmt. Beim Sitzen Pes equinus. Psychiseh zurückgebliehen.<lb break="paragraph"/>
+        </p>
+        <p>Full IX. 13jähriger Knabe, rongenitnle Aﬂ'ektiun; begann mit<lb/> 9 Jahren zu gehen. Die Arme damals schon frei. Seitli('her Nystagmus<lb/> der Augen, leicht herabgesetzte Intelligenz, Arme völlig frei, Bewegungen<lb/> ‘ier Hüft- und Kniegelenke normal, Contractur in Fussgelenken. Extension<lb/> "" Füsse und Zehen beschränkt. Gang behindert, mässige Atrophie der<lb/> Beinmwkulutur.<lb break="paragraph"/>
+        </p>
+        <p>Fall X. 33 Jahre, Frühgeburt, erschwert. Symptome in ersten Tagen<lb/> h(merkt, konnte nie, gehen, auch Arme stets schwach, seit dem 5.—6. Jahre<lb/> Völlig idiutisch. — Bettlage; Ungenügende träge Mimik, Arme in Schulter<lb break="no"/>gelenken paretisch, in anderen Gelenken steif und ungeschickt; Beine in<lb/> Beugecontmctur, völlig gelä'ihmt; Sprachvermögen aufgehoben<lb break="paragraph"/>
+        </p>
+        <p>Full XI. 50jiihrige Frau, congenitnler Full, begann mit 10 Jahren<lb/> 111 gehen, intellektuell normal. Nystngmus, Sprache und Mimik gut.<lb/> V0l'n'iegende linksseitige Hemiplegip, mit Atrnphie. Auch das rm-htn<lb/> Bau steif und paretisch.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="10" xml:id="page__9ef85a18-c01b-4329-94be-4e6d35dad4ac"/>
+        <p>022 l‘urchrnle Kin(lcrlülnnnug.<lb break="paragraph"/>
+        </p>
+        <p>.\nsehliesseml Bemerkungen über die klinischen, uetiologi5ehen unll<lb/> |mtlnvlogiseh-nnntmnisrhen l'ruhleme (ler eerebralen ])iplegien.<lb/> Die Erkrankungen un rerebrnlen Kintlerlühniungen tlieilt Massa<lb break="no"/>lungo (22) ein:<lb/> 1. in Fälle. von t.}‘piseh01'. allgemeiner Riginliti'it.,<lb/> in lui(‘htere Fülle allgemeiner l{igitlität,<lb/> in t'ormes frustes «ler allgemeinen Rigitlit,iit,<lb break="paragraph"/>
+        </p>
+        <p>in Fein—rgnngsfnrmen zwisehen allgemeiner und pnruple;zisrhur<lb/> Rigiditiit„<lb break="paragraph"/>
+        </p>
+        <p>; in rein pur:ipleyi rhe ,Rigiditﬁt.<lb break="paragraph"/>
+        </p>
+        <p>tl. pn'nplegisclw Rigiclitäit mit llomipnrese.<lb break="paragraph"/>
+        </p>
+        <p>7. '.illg_’:eilieiiW „ „ „<lb/> b. „ „ und spns-tisehe (lnppelseitigq llemi|xl0git‘,<lb/> ‘.l. il0p1n*l.&lt;ei’tige .&gt;\thetusn,<lb break="paragraph"/>
+        </p>
+        <p>l“. :lllgeiiieilW spastische, ('hnren,<lb break="paragraph"/>
+        </p>
+        <p>ll. mehr mle.r weniger 1liﬁ'use Rigiilitii’t mit (llmrcn oder Athe'tnsv‘.<lb/> 12. (\nnhinntimien ron Clinrun und Athetose.<lb break="paragraph"/>
+        </p>
+        <p>Verf. t.lwilt, (lnnn 7 eigene Benlmchtungenrn mit. (“O \"1’l‘5l'lllt'llt’llt‘ll<lb break="paragraph"/>
+        </p>
+        <p>(ler nl„-n l.wzeir-lmeten (irnmwn angehören. Allen genwinsmn waren<lb/> Mnxkelsteiligkeit, Störungen tler Sprache und (lc‘.&lt; (inngvs untl Altt‘»<lb/> ratinnen llf'l' Intelligenz. (Valentin)<lb break="paragraph"/>
+        </p>
+        <p>Raymond (27). lt)jührige.&lt; Mädchen, vurzoitig und usph_vktisrll gt)<lb break="no"/>lmren. 2 Monate später (Tonvulsinnen, die seit dem Alter von Et Jahren<lb/> seltener kunnnen. Mit 11 Monaten wurde Steiﬁgkeit und Gefühllt. .<lb/> der Beine hemerkt, es stellten sich Störungen «ler Sphinctorenthi -',' ‘<lb/> ein, «ler Gang blieb el,—rhwerh Intelligenz gut entwickelt die Symptome<lb/> sind fluss('llllt"sli('ll nut die Beine besehrä'mkt und bestellen 1. in<lb/> &gt;|»:isﬁsrhei' Sturm mit lriehtcr Pnrese der Unterschenkelbeuger, spustisrhmu<lb/> (lung, Reﬂex 'lunus. wenn (ler Fuss den Boden berührt; keine Atr0pllié',<lb/> ' isihilitiit. "»rnngen grosser Partien «ler Beine. und der Bnnrhvnntl.<lb/> 1lil‘ l‘iinpfiittllit'lik it für Schincrz- und Tullll)t’l‘ﬁtlll"l’ln(ll‘Ü(‘kt‘ theilweise (“I'<lb break="no"/>hnlten, die, Bo uhrungseniplindlichkeit aufgelmhen; 3. Incontinenz der<lb/> lim-retionen, lmrtnäckige (’)hstipution,<lb break="paragraph"/>
+        </p>
+        <p>ll. stellt. die klinisrhe Diagnose nurh eingehenden (liﬁ't‘l‘0ntiellen El“<lb break="no"/>Ö""""'“.‘IÜT\ "“ |:ittll“.&lt;vhu |\'rzinkln=it. erklärt es aber für lllllllü.‘l““h*<lb/> eine unntomisvhe.Dingnose zu machen. In einem Exenrse \"?!‘tritt er die<lb/> Ansicht, (lﬂxS nnrh «lie '.l'nhes spasticn der Erwachsenen keinn klinische<lb/> Einheit ist, ebensowenig wie die analoge Aﬂ“elctinn des Kindesalter&amp;<lb break="paragraph"/>
+        </p>
+        <p>Dejel’ine IT), Full \. Patient im Alter von 79 Jahren untersucht,<lb/> """h‘7‘vitlg .'7'91’01‘9n. Seit friiher Kindheit. an den Beinen S('l1\\’ill'—lL Mii.&lt;Flf—"3<lb/> «tische, l’nrnplegie ohne, Atrophie, kann mit llült'e eines Stonkes gt‘lll’n<lb break="no"/>N-hnenretlexe gesteigert, lntelligenz mittelmi i_n_r. EpileptiSche. Anfülle<lb/> seit lll‘l' Kimlln-it. .-\nt0psie: Beitlvr.&lt;vitige l’oreneephnlit‘ mit: lhuliiir<lb break="no"/>5t"“““.'1 llﬂ' Win&lt;lllngen gegen (lie Defekte: rechts an lll‘l‘ Grrenze V0“<lb break="paragraph"/>
+        </p>
+        <pb n="11" xml:id="page__33c9e872-6862-4db5-9ecb-310e164be1f6"/>
+        <p>(,Torchrale Kinderliilunung. 623<lb break="paragraph"/>
+        </p>
+        <p>!nitth‘l'clll untl unterem Drittel tler 1\’til:liitltfst‘luiii Fissur, links höher in<lb/> tlrrsclhen Region. Keine uh3teigenden Degeiltn'ationeu, Neurnglia<lb break="no"/>\\‘uchel'ung in den Seitenstriingen des Rückenmarkes.<lb break="paragraph"/>
+        </p>
+        <p>Fall“. 44ji'thi'igtu' Mann, rechtzeitig geboren, von Geburt an starr;<lb/> hlich his zum Alter \‘0n 9—10 Jahren im Bett, konnte später mit,<lb/> l\'rücken gehen. Keine epileptischen Anfälle. Intelligenz herabgesetzt, alle<lb/> Her Extremitäten spnstis(rh geliihmt, die unteren stärkär, das linke Bt‘in<lb/> am .—‘t£'<lb break="paragraph"/>
+        </p>
+        <p>ksten afﬁrirt, auch trophisch vcrkümmert. I’atellarreﬂem' ge—<lb/> Strigert, links Fussclonns. Auch tlie Beweglichkeit tler Arm.: ein<lb break="no"/>geschränkt. Sensibilität. Sphint‘tereimktiun normal. Autnpsic: Keine<lb/> \‘er:imlerungen im Gehirn, (las Riit‘kenmark im ganzen etwas kleiner, untl<lb/> zwar durch Betheiliglnlg tler VOl‘tlcrsc.ittanstrünge. Das linke Vnrtlerhurn<lb/> 9t\\'a&gt; kleiner als das rechte. Zahl der Nervenzellen l)eitlrrseits gleich.<lb/> Z\\'i&lt;chen dem ernten und zweiten (‘ervicalsegment eine llerdlaesimt der<lb/> illlltvl'lhil'lu'l‘ mit Sklerose untl Gefi<lb break="paragraph"/>
+        </p>
+        <p>.ﬂ'verulirkung. Keine. aufsteigende<lb/> lh’-urneration in den Hinterstri'tngen. wohl aber in den l’_\‘ramitlenbahnen.<lb break="paragraph"/>
+        </p>
+        <p>Der Autor ist geneigt, (lie Symptnme wm (l(‘l' (intrauterin erfolg-ten)<lb/> ll&lt;-nlläsittn des llüt‘kemnarkt-s abzuleiten. hetnnt alwr .—‘e|hst die Schwierig—<lb/> keiten tler Erklärung tuts diesem Befund.<lb break="paragraph"/>
+        </p>
+        <p>Bourneville et Bellay (-l-). 13. Kind, rechtzeitig untl normal ge<lb break="no"/>lmren; Blutsturz tler Mutter im 5. Monat der (.iil':l\'lllliilf. “(ei tler (lchuit.<lb/> an.—rheineml normal; bereits auffällig. als 's mit 11 Monaten von tler<lb/> Antme zurückkam. Entwicklung (ll—Tr Sprache und de.: Seln-ermögcns<lb/> mim-hen G untl 7 Jahren; erst, seither rein. Angehlieh keine Convul<lb break="no"/>Sinnen. — Aus tler sehr au5führlielmn Aufnahme des Zustandes im<lb/> 11. Jahr .\l‘i hervorgehoben: An Kopf untl Gesicht wenig Almm-mes; mun<lb break="no"/>ph'tc :\norehydie, sonst normal gebildet. Die ‘Arme völlig frei. Dit:<lb/> Bl'illc im Stehen in allen Gelenken halb geheu_t,rt. Die t)herschcnln-l<lb/> narh innen gewentlct, so dass (ill: Knie sich berühren, Unterschenkel da<lb break="no"/>L'vuen nach auswärts. Das Kind hält sich nur mit Mühe aufrecht, die.<lb/> “"-‘hch liegen dem Boden nicht ganz nut] tler Rumpf schwankt heim<lb/> G_Ell€'n. Die Bewegungen der einzelnen ;\h.'\‘('hllitié der Beine ziemlich<lb/> (fingen-hinkt, die Start? am stärksten in «len Knien. lm Liegen ist.<lb/> (las linke Knie höher hinauf;rezotren als das rechte, Patellarretlexe. gt‘<lb break="no"/>
+        </p>
+        <p>steigert, Fusst‘lonuS vorhanden. _ nsibilitä'tt. normal. Incontinentia urinae<lb/> "Octnrna. Die intellektuelle Entwucklung rechtfertigt die Diagnose eilN‘h'<lb/> hohen Grades von St‘h\\°ﬂchsinii. Spätere Untersuchung weist eine gewiss"<lb/> Starrheit l]Pl‘ Augenbewegungen nach. Die Beobachtung des Kranken<lb/> 9r&amp;tl'e(‘kt sich über 10 Jahre. Es; wurde ville erhebliche intellektuelle<lb/> Bf» erung erzielt. Physisch war die Eutwicklungsheinmung th's ganzen<lb/> L"tl‘rkürpers im Vergleich zum Olwl'kül‘lml' nuﬂ'üllig.<lb break="paragraph"/>
+        </p>
+        <p>' Die Autoren legen Werth auf die heretlitz'iren Verhältnisse 065<lb/> ]\11' hen. die sie für äehr belasteml e achten. und auf die. durch tlie Blutung<lb/> |Ni7.eugte Störung tler Sclnvaugcrsclmft in tier Mitte der (ira\'itlitiita‘dauer.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="12" xml:id="page__1cbc0b06-a18c-469d-b943-9bcf187fb131"/>
+        <p>624 l'crcbralc Kinderlülunung.<lb break="paragraph"/>
+        </p>
+        <p>Urriola (3:2). löjähriger Knabe. Zweites Kind von 9 Geschwistern.<lb/> unter denen Zwillingsgeburten; Vater Potator, erheblich älter als die<lb/> Mutter, die im 5. Monat der Gravidität über ein damals Panama<lb/> heimsuehendes Erdbeben heftig crschrak. Das Kind wurde rechtzeitig<lb/> und leicht geboren, war aber schwer usphyktisch. Sein Schädel war so<lb/> weich. dass er sich im ersten Lebensmonat nach der Unterlage abplatt9t9.<lb/> Die Entwicklung war eine ungemein verzögerte, die ersten Zähne traten<lb/> mit 6 Jahren auf, das Gehiss blieb sehr mangelhaft. Mit 3 Monaten<lb/> kamen Convulsionen, die sich indess nicht wiederholten. Den Kopf und<lb/> Rumpf aufrecht halten lernte er erst mit 6 Jahren. Mit 7 Jahren begann<lb/> er sich auf eigenthümlichc Weise. fortzubewegen, auf den Boden sitzend,<lb/> die Oberschenkel nbducirt, die. Unterschcnkel gegen einander gewendet,<lb/> so dass die, Sohlen einander berühren, wobei er sich mit den Händen<lb/> abstüsst. Im Stehen Addnktionscontrartur, krnmpfhafte Streckungen der<lb/> Zehen. Plattfii @, die Beine. kalt. in ihrer Muskulatur leicht atrophisch.<lb/> Die Reﬂexe beiderseits gesteigert.<lb break="paragraph"/>
+        </p>
+        <p>Kein Strabismus, kein N_\‘stagmus, Augenhintergrund normal. Seit<lb/> dem 7. Jahr Entwickelung dcs Sprachrermi'vgens, doch articulirt er<lb/> schlecht und ist kaum verständlich. Er ist, nicht ohne. eine gewisr&lt;r<lb/> Intelligenz. Die. Det'ormation des Schädels wird eingehend beschrieben<lb/> Das Hauptintercsse des Falles ruht. in der Zurückfüln‘unnr auf din<lb break="no"/>Gemüthsbewcgung der Mutter in der Graviditüt als aetiologisches Moment.<lb break="paragraph"/>
+        </p>
+        <p>Mills (23). 18jähl'iges Mädchen, mit Instrumentalhilfe geboren und<lb/> lange scheintodt, begann mit 15 Monaten zu gehen, wobei sie. bereit-=<lb/> den rechten Fuss nachzng. Im 8. Jahr, vor einer Erkrankung an<lb/> Scharlnch und Masern, scheint. der Tremor der Extremitäten zuerst bemerkt<lb break="no"/>wnrden zu sein. Keine Convulsionen. gute Intelligenz. keine ähnlirlwll<lb/> Attraktionen in der Familie.<lb break="paragraph"/>
+        </p>
+        <p>Intelligente, wohl entwickelte Person mit starkem Tremor des Kopng<lb/> und des rechten Arms, gcringerem des linken. Die Bewegungen Sind<lb/> ungestüm, (‘l'folgen stossweise, am Kopf von einer Seite zur anderen. von<lb/> vorne nach rückwärts und in halben Drehungen; ähnliche Bewegungs—<lb/> sm"““ß‘*“ zeig“n die Beine beim Gehen und zwar das linke in höherem<lb/> Grade als, das rechte. Patellhrrcﬂexe gesteigert, Fussphänomen beider<lb break="no"/>seits. Der rechte Fuss wird nachgezngen, der rechte Unterschenkel ist.<lb/> kürzer und dünner als der linke. Hände und Füsse. meist kühl—<lb break="paragraph"/>
+        </p>
+        <p>Gasne (10). Beschreibung zweier Fälle von Spustischer Paraplegh'<lb/> bei Kindern und Erörterung der zwischen vun Gehuchten und anderen<lb/> Autoren schwebeudcn Streitfragen über die Auffassung solcher Fülle.<lb/> Eine deﬁnitive Entscheidung über diese Probleme erscheint. dem Ä"““'<lb/> verfrüht.<lb break="paragraph"/>
+        </p>
+        <p>J. GPDSZ (12). Die in mehrfacher Hinsicht interessante Beobachtung<lb/> lll’tri_ﬁ’t ein 2660 gr schweres Kind. welches extrauterin entwickelt. um<lb/> im‘ S“I'“’mbül' 1895 durch Bauchschnitt zur Welt gebracht \\‘ul‘llr. (Ob<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="13" xml:id="page__74179973-1ae6-4837-8cf5-7f949cf8fa87"/>
+        <p>(„',erelnrale. |\'imlerliihmnng.<lb break="paragraph"/>
+        </p>
+        <p>vorzeitig?) Sein Schädel zeigte eine hochgradig»- lmgent'örruige ('nmprcssinn<lb/> links, welche der Autor davon nl)leitet, dass die linke Scliiidclhä'ilfte der<lb/> Frucht an die Cnnvexität der hinteren Gebärmutterwand lehnte und<lb/> durch den Fruclitsrick in dieser Lage erhalten wurde.<lb break="paragraph"/>
+        </p>
+        <p>Von der Geburt an zeigte das Kind die Symptome einer rechts<lb break="no"/>seitigcn Hemiplegie: tieferen Stand des rechten Mundwinkols, den I\'npf<lb/> der rechten Srliulter zugewandet, der linke Sternorleidomastoideus dabei<lb/> strangförmig vorspringend, der rechte (‘ucullaris stärker contrahirt: die<lb/> rechte Extremität hypertonisch und in Z\\'nngsstellungen; die Beine über<lb break="no"/>einander geschlagen, doch wird das linke ungestört be\\'egt. während das<lb break="paragraph"/>
+        </p>
+        <p>rechte bewegungslos mit eingelmgenem und mich innen rntirtem Knie<lb/> bleibt und der rechte Fuss in Equinornrusstellung rerharrt. Vom<lb/> 8-—10- Tage an bess(-‘.rte sich die Beweglichkeit des rechten Arines und<lb/> stellten sich t_vpisL‘he Atliet0sebewegungen an dessen Fingern ein. Bald<lb/> darauf änderte sich das Bild, der linke Arm gerieth in ll_\'pertnnie. \'l'l'lm'<lb/> seine Beweglichkeit, und auch an den Fingern der linken Hand traten<lb/> athetotische. Bewegungen auf. Das Kind stur!) am 9. Januar un den Folgen<lb/> eines Darmkntnrrhs, nachdem vorher die ('unt'arhli' auch du:—- linke Bein<lb/> ergriffen und nn allen vier Extremitäten lineligr:idigé Ausbildung: erlangt,<lb/> hatte.<lb break="paragraph"/>
+        </p>
+        <p>Die Autupsie ergnb nebst den Zeichen der (Äninpressinn der linken<lb/> Helliisphiire eine Paehymeuingitis ehronicn interna hnernorrhngicu sinistrzr,<lb/> Abﬂiwliung und Windungsversclrmälerung des linken Stirn- und Pur-ietnl<lb break="no"/>lal’l"’115, Atrophie des linken Sehnerren, absteigende Degeneration im<lb/> Rückenmarke. Aus der genaueren Darstellung der Befunde sei hervor—<lb/> geh05m, dass auch die. rechte Kleinhirnhemisphi'nre cmuprimirt und<lb/> '““"gdlurft entwiiakelt war, die ganze rechte Hälfte des Rückenmnrkes<lb/> überhaupt kleiner und geweblirh gegen die linke ver-kümmert, dass die<lb/> Degeneration der cortieomusculä'u-en Bahn links sich bis. zur Brücke ver<lb break="no"/>i°li—'en liess, und dass die Mnrkentwickclung in mehreren Gebieten über<lb break="no"/>baum l'üi'kstr'mdig schien. Die Deutung des Falles ul.—- doppelseitige<lb/> spastische Heiniplegie ergiel)t sich leicht; den stärkeren Symptomen<lb/> tun der rechten Körperhiilfte entsprach die intensivere Si'llüiliglmg """<lb/> linken llemisphäre. Die Deutung der später auftretenden linksseitigen<lb/> "““ii'li'gie erscheint dem Verfasser schwieriger als &lt;ie der A utur nimmt,<lb/> Welcher die Sciriidiil.“ﬂg der i'erhten Hemispliiii'e vum ahdmnincll«m Druck<lb/> ableim_ obwohl dieses Moment zur Zeit, da die linkseitigeii Symptﬁmc<lb/> auftreten, nicht mehr da einwirken konnte.<lb break="paragraph"/>
+        </p>
+        <p>H. Weiss (33). _ hrigcs Kind, Krankheit in ersten Mmmten be<lb break="no"/>merkt. Aufsetzen erst im iii. Jahre- möglich, selbständig geh?" konnte<lb/> es nie, Füsse geriethen bei Gehversuchenin Equinusstellung. Der Knabe<lb/> versteht, was zu ihm gesprochen wird. Kleinschädel mit „front nlympilm“,<lb/> 5trnbismns, Pl‘°gnnthie, Cvanose der Extremitäten: Vertheilung der Sturm<lb/> auf die Muskelgruppen wechselnd, Reﬂexe sl'lll‘ !_—"-""“‘£2“"“<lb break="paragraph"/>
+        </p>
+        <p>thruberichi. {. Neurologie u. Psychiatrie 1891 4"<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="14" xml:id="page__3115d3b8-bb79-4243-a091-279e1f491cde"/>
+        <p>|;-)|5 l'erelri'uic Kinderlinhinung.<lb break="paragraph"/>
+        </p>
+        <p>(‘. Fulnilii'ire Formen.<lb break="paragraph"/>
+        </p>
+        <p>v. Aschen (L’). Beobachtung zweier 4'wsi'h\\'i.&lt;féi‘ von .") J. und von<lb/> S ,\Ionutvu. Die Mutter hat znvrst einmal :iluii'tii'i't. dann 4 Kinder ge<lb break="no"/>Inn-«n. din) nile mit 7 Munutun zur Welt gekommen sind. Das iiifie.&lt;£e, geguu<lb break="no"/>\\‘ili'tij: ."; Jahre mit, halt in den ersten 4 .\lnnnten nn Anfüllen gelitten, die<lb/> in \"vrdi'i-hvn der Augen. Spreizen der Finger und chkcn des Gesirlits<lb/> iw.—tundeu. Nut-h Hiller Luu;_fenwﬁzündun;r init 1 Jahr verlor das Kind<lb/> die hereit&gt; €*l'\\'l)l‘l)l'l\l' l:‘:"iliigkeil zu stehen. dir Sprache litt nicht dabei.<lb/> :? das Kind ausser deutlirher<lb break="paragraph"/>
+        </p>
+        <p>lin Alter von 5 Jahren unh‘rsncht, 7<lb/> 'elnde Sprache, herabgesetzte Mimik,<lb break="paragraph"/>
+        </p>
+        <p>|i|mrhitis :_"i‘l'ilh_{i* intelligenz, ni<lb/> &gt;'tmhisnins «nurerguns. Die 1\Inskuiutur ist sehr srlnrnrln. Die: Arm!<lb/> um ein Athetnsv<lb break="no"/>
+        </p>
+        <p>gut, lu-\veglirh. doeh run geringur Kraft. Die l*‘ingvrze'_<lb/> :ir'riges Spreizon; lwi Intention starker Tremor. Dit) iinke Hund i&gt;t<lb/> ‘_i‘i’&gt;l'lli(‘kh'l' ul&gt; die i'ei'lite. _—\ufr1whtes Stehen ﬁlme suitiii‘hß Stütze nicht<lb/> möglich: Knpf meist zni‘i'irligeln-ngxt. Die Ruine werden im Liegen über<lb break="no"/>kr&lt;-uzf. können aktiv und 1»:\&gt;.«i\' _g‘o-hengt und gestreckt. uber nicht nl)—<lb/> durirt ner—len. Die Füsse hängen in Spitzfu&gt;sstuiluug herab, i:l.&lt;5"“<lb/> \il‘il uber niülwius dnrsu|ﬂuetin-n. Beim \'ersuvh zu strhen, knirkt Pat.<lb/> ein: die lin-Hexe sind sehr Inidmft. .\'e+n.&lt;ihilitiit und \“(‘_'_H‘tüti\'t‘ Funktinuvn<lb/> unrnml.<lb break="paragraph"/>
+        </p>
+        <p>Hin Z\\'eitc.&lt;. vum .-\umr nivht unter.—‘nehtes Kind. wurde nur<lb/> 1‘ 4_, Jahre nh, kn,untv nicht greifen, nieht &gt;itzen, hat die Augen \’*'l"ll"’ht<lb/> und mit den Füssen gezurkt.<lb break="paragraph"/>
+        </p>
+        <p>Ein drittes Kind. dns keine ähnlichen Symptonw _-_n-lmtcn. ist mit<lb/> 4 ,\lunnten an Breehdurrllfnll \ sturiu-n.<lb break="paragraph"/>
+        </p>
+        <p>Das vierte, Kind konnt.- dwr Antur kurz vur seim"ln Tode —- Illi1 H<lb break="paragraph"/>
+        </p>
+        <p>_\lnu:lten „„ sehen. Es ii:iﬂe \un (iulnii't un Zurkungen gehabt. 'N'iäft"<lb/> &gt;tnrke Hluu-hitis, Ntr:ihi&gt;mus i'un\*i-rgnus, stnriu- [{i-t‘lpxprruglmrkvit und<lb/> &gt;rhien ;lpalﬂlisrh.<lb break="paragraph"/>
+        </p>
+        <p>Im Ansi'hlns&lt; an diese Fülle von familiärer Erkrnnlumg giebt der<lb/> ;\uior eine uusfüiirlirln: .\nnl_rse des All.&lt;4'liiiiﬂl« von Freud (Din<lb/> Infnntih’ (‘1-rehrnllühinuu;:: Nuthnngel‘s Unndhun-h)„ welcher die<lb/> h'tellun:_r dor familin lässt<lb break="paragraph"/>
+        </p>
+        <p>-n und liei'mlitéireu Formen ln&gt;lnlnd4dh “““<lb/> die.<lb break="paragraph"/>
+        </p>
+        <p>r eine sehr eingehende kritische Beleuchtung (Iq‘l' darin (eilthahi‘m‘n<lb/> B""“""““'S-f““ 30129"- Er sprirht sieh damean uns, dass die Ahtl'!‘""““f—'<lb break="paragraph"/>
+        </p>
+        <p>'li«'&gt;l‘l' Formen von dem ührigun inlmlt der Krankhin gruppe auf Grund<lb break="paragraph"/>
+        </p>
+        <p>eines nn_r_gvnnmim-nen Endugnne'15'lt derselben im Gegensatz tur an‘riden<lb break="no"/>hellen Aetiulogix- der übri—wn gem-hohen könne, und zählt seine ei.‘€“““"<lb/> Heuhuelntungen der .,]ufnntilvn Cure];rnlli'ihiuung“ ln-i.<lb break="paragraph"/>
+        </p>
+        <p>Dercum (h) Der Y:iter der 3 kindlii'lien Kranken hat von seinen<lb/> beiden ersten Frauen normale Kinder gehabt, vun der dritt-en Frau vier<lb/> Kinder, von denen 3 die zu bnsrhrciiwude ,\ﬁ'nktinn zeigen. Di"<lb/> Mutter. selbst g_{usund, giebt an. dass «\in Kind einer ihrer 'l'nm‘en “‘“<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="15" xml:id="page__79327736-f0d4-4248-84eb-e887126cdc69"/>
+        <p>(,h:rebrnlc Kimlerlähniung, l)_'<lb break="paragraph"/>
+        </p>
+        <p>Vätnrscite in ähnlicher Weise leidend i.&lt;t. N'hwnngcrschaft und Geburt<lb/> bei ulan Kindern normal.<lb break="paragraph"/>
+        </p>
+        <p>Das älteste, 11Jahr, war bis zu 16 Monaten völlig normal, konnte<lb/> damals gut stehen und verfügte über einen reichen Spruchsclmtz. lfm<lb/> diese Zeit tl‘nt ein Anfall von upileptischen Krämpr auf. nach denen<lb/> es sprachlos, schwach und geistig beschädigt erschien. Buhl nnchlwrv<lb/> traten die, spastisehen Symptome. auf. die sich allmählich ausgebildet zu<lb/> haben scheinen. Es kann gegenwärtig gehen, duch nur eine kurze<lb/> Strecke. und geht. spnstisch und schwankenqL Die Beine zeigen Exten<lb break="no"/>sinnxcontrartur. Die Arme sind gleichfalls spnst.iséh, doch in geringerem<lb/> Grade: un den Händen hie untl da nthemide Bewegungen. im Sitzen<lb break="paragraph"/>
+        </p>
+        <p>nehmen die Füsse Equino-vnrusstellung un. Die Sprache ist sehr<lb/> mangelhaft und unverständlich, häuﬁge Ant'ällc \0n Petit und: ldiutic,<lb break="paragraph"/>
+        </p>
+        <p>Int-untinenz. .<lb break="paragraph"/>
+        </p>
+        <p>Das zweite Kind. 6 Jahr, schien normal bis zum 4. Jahr. in der<lb break="paragraph"/>
+        </p>
+        <p>er‘nnntl &lt;cenz von einer gelimlcn ]?Irkl'ﬂnkung nn Masern änderte &gt;ich<lb/> sein “ sen; es wurde blöde und schwach an allen 4_ Extremitäten. die.<lb/> Sclnräche zeigte sich auffülliger an der rechten Körperhälfte. Die.<lb/> sl’“-“tischen Symptome sind jetzt bei ihm .whr stark entwickelt. Heide<lb/> Beine vollkommen starr, in den Knien leicht tler-tirt. Die. Film-. über<lb break="no"/>extvudirt. Der rechte. Arm in Beugecuntrnctnr ﬁxirt. der linke. wiethl<lb/> gleichfalls starr. kann vom. Krullan einigermassen bewegt werden. Beim<lb/> Versuch zu gehen fällt. er hin und windet sich dann in ungem‘dncton<lb/> B&lt;‘“‘H„ﬁ*ungen. ln der Ruhe gelegentlich Zuckungen im Gesicht, in den<lb/> Armen und Beinen. Seine intelling ist. ctwus besser nl.&lt; die des<lb/> Bruders, seine Sprache ist. bradylne.<lb/> Häuﬁge Anfälle von Petit mal.<lb/> _ D” dritte Bruder. 2 Jahr, war b"<lb/> 1"‘l.'—'L’ (ler nämlichen Erkrankung an M &lt;ern wie sein Bruder dipleginch<lb/> und epileptiseh. Er kann indessen noch gehen, auch kleine. Gegenstundc<lb/> vum Boden aufheben. Er zeigt dieselben uthetniden Fingerl)ewcguugen<lb/> “'N‘ seine Brüder, scheint intelligenter als sie.<lb break="paragraph"/>
+        </p>
+        <p>Das Sehv9rmögen, dessen genauere Untersuchung nicht möglich<lb/> nur. scheint bei allen gelitten zu haben. ‘lin einziges dcr Gcs.clnristcr,<lb/> l"'“ t)‘,'„ Jahre, erweist sich als normal.<lb break="paragraph"/>
+        </p>
+        <p>Der Autor Sl'llliesst. diese Fälle von familiärer All'cktiun un die<lb/> ähnlichen von Pelizneus. Sachs, (lee. Freud und L\ltlsäﬂlllllg0<lb/> lkw-hriebenen nn.<lb break="paragraph"/>
+        </p>
+        <p>Brower (5). Gesunde und nicht. belustete Mutter, alle (} Geburten<lb/> ":)riual; der Vater erhlich belastet, Alkoholikcr, vielleicht luctisch, mit<lb/> I\'li‘\l"gluuä,l Zittern, Sprachstörung behaftet, ohne Sehnenretlexe. Alle<lb/> Kinder bei der Geburt ungewöhnlich gross. Das erste (eine Knabe wie<lb/> alle tl;»lgenden), 12 Jahre, hat es nic zu einer motorischen Leistung ge<lb break="no"/>bracht; cl' krmm„ etwas sprechen, seit einem lieberhnt'ten Anfall mit<lb break="paragraph"/>
+        </p>
+        <p>41)‘<lb break="paragraph"/>
+        </p>
+        <p>h aber leichter verständlich.<lb break="paragraph"/>
+        </p>
+        <p>vor Kurzem normal, wurde in<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="16" xml:id="page__bd114a38-eb51-4a03-8bb5-2324aa682b92"/>
+        <p>525 (.'eruhrnlo. l\'indorlähmung.<lb break="paragraph"/>
+        </p>
+        <p>ö Jahn-n ist die Hprurho unverständlich. Gedächtnis gut. N}<lb/> Strnl_1isiuus iutnrnus, Athetnse, Lähmung, Contrnctur und Atropliie aller<lb/> 4 l‘]xt1w1uit£irv11, keine Zähne, Schlingen erschwert; Sphinkteren. Sensibilität<lb/> normal. (:‘rosivlitsasyrnn1etriv, hnher Gaumen. Der Zustand wurde im<lb/> Alter von 4——li Wochen bemerkt<lb break="paragraph"/>
+        </p>
+        <p>Das zweite Kind. im Alter von 4')‘„ Jahren verstorbe-n, war normal.<lb/> Ein dritter Knabe, 8 Jahre. hat schlerht ausgebildete Zähne und un—<lb/> vvrstümllivlue Sprache, sonst die nämlichen Symptome wie derält1-ste.<lb/> Symptome vrst im Alter von 4 Jahren nach Erysipel aufgetreten. Der<lb/> vivrte. (% Jahre, scheint giesnn&lt;l, leidet an Kopfschmerzen. Der fünfte,<lb/> 4 Jahre alt. s1=it (lem “l.—3. Monat an allen 4 Extremitäten gel5.bnlt,<lb/> an1ubilnlung sttl1l1:(fl1t; Atlwtnse und Illuskelntruphie fehlen hier.<lb break="paragraph"/>
+        </p>
+        <p>Der sechste zeigt bald nach (ler Geburt die nämlichon Symphune<lb break="paragraph"/>
+        </p>
+        <p>stng1n us,.<lb break="paragraph"/>
+        </p>
+        <p>11‘iv (ler vorige,<lb break="paragraph"/>
+        </p>
+        <p>Hinweis auf eine pri'matule Aotinlugiu). Krim‘ A11gvnspiogeluntw<lb break="no"/>surhung.<lb break="paragraph"/>
+        </p>
+        <p>Kingdon und Russel (1:3) Das häuﬁg familiär nut<lb/> zeigt sich in den 1' ‘ten vavnsmonuten mit Muskelschw<lb/> des llumpfes und (los Nuckuns, schreitet bis. zu fast allgemeinvr Muskel<lb break="no"/>lähmung furt' und führt zum Tod am Ende des zweiten Lebensjahres.<lb/> l)ur ophtluiluu.»skopisrhu. Befund, der frühzeitig kenntlich ist und (li?<lb/> gunz1l Zeit über unw‘ändrrt bleibt, besteht im Auftreten einer weiss—<lb/> R"'=“u*u Flvrknng mit rothem Centrum in jeder Muculn; spi'1tt‘1'tl'm<lb/> UI‘li"“3"'tl"’l‘lll" (“i'1- Die in zwei Fällen ausgeführte mikroskopisi'll?<lb break="paragraph"/>
+        </p>
+        <p>uten1le Imiden<lb/> uclw. lu-sontlel‘5<lb break="paragraph"/>
+        </p>
+        <p>l!ntrrsuchung zeigtt‘ Degeneration der grossen Rindﬂnzr‘llen 1l111'1'h'h‘ :‘—"“”‘°<lb/> (11&gt;|111'11 und ubstelge1u'lv spmale Degnm—ratmnen. (Ob ltlellll5"h "“t d"" "““<lb/> Surhs bnsvl1riulwnun fmnilv l1lim‘v? lief.)<lb break="paragraph"/>
+        </p>
+        <p>Vermischtes.<lb/> N111‘l1 vinfu‘ eiugoluuulnn Schildvrung; der bei dieser Alfektion zu<lb/> . | , 1 . _ -- .. . ‘)<lb/> l11\11l1.11l1t1111l1‘11 lunmen 1011 Bewegun;zs „rung erklurt Lorenz (ZU) "‘”<lb/> ll1er:1pw lucr tür nicht su tmstlos, wie sie, von den Neumpathﬂ“‘ä“"<lb/> nngvnmnmvn wird. Wenn man es: versteht, seine Fäll? 111137.11511('l11'1h<lb/> also lwi Scitv bis t<lb break="paragraph"/>
+        </p>
+        <p>wo Sl'l111'1‘1'6 psychische Störungen und ander?<lb/> Cmnpli1‘ntinucn (las zu erroichemle Ziel entwerthen, so kann man fusi<lb break="no"/>rﬂgvlmäissig «lin Aufgabe lösen, dass man die Kranken zur selbstäntliY—'““<lb/> lmknmotiun uluw Apparat? oder Krücken bringt. Die Fälle von 11llgt‘<lb break="no"/>mainvr und zumal von pnrnpleg_ziscl1er Starre stt-llen (ler nrtl10pueilisüh?"<lb/> Chirurrvio vivlmnhr 1l:mkburo Aufgaben. und die Behauclluntf kann hier<lb/> :1111l1 11111l11 leistvu :lls lwi (ler spi1mlon l\inderläiluuung. Bei den reiner?"<lb/> 1"‘”“““ “'" ““Wie ülwi‘\\itlgt bekanntlich die ll)]1ertonie des Muskel—‘!<lb/> wr-it übur 111-ssm1 lml1n1uug.1iud den Angritl'spunkt für die 'lhvrnpie_ ezieht<lb/> "'" l‘.1115 '"llf_'. (ln&lt;s rin in ('. Ontrurtur beﬁndln l101' Muskel 1in14hn.us nicht<lb/> nhm- “nik-ws 1-inmu gul£ihmten _-_rlpip|l gpstg]lt werden d„,-f, Spine<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="17" xml:id="page__05a966bb-02f1-4492-8c19-3921d0ccb4b6"/>
+        <p>Cel‘ebrule l\'imlerliih mung. (5—_)9<lb break="paragraph"/>
+        </p>
+        <p>\\‘illkürliche Aktion ist in den Fällen von Sturre keineswegs nut}_relmhen,<lb/> sondern nur behindert, und es gilt eine. Reihe. von I'lindernissen zu über<lb break="no"/>winden, um ihn wieder brauchbar zu machen. Das; ll:|upthinderniss<lb/> gleichmiissiger Bewegungen ist die gewissermnssen zügellnse Aktion. mit<lb/> der spustische Muskeln auf lnuerrationsimpulse antworten. Ein zweites<lb/> Hinderniss ist die Contractur der Gelenke, welche. durch das Ueberwiegeu<lb/> gewisser Muskelgruppen bedingt wird, sei es, dass diese Muskeln starker<lb/> ‘p.lstisch :lfﬁcirt worden sind (Alltlitl'tote‘.ﬂ), oder von vornherein im<lb/> l'ehergewichte waren. Sekundiir entstehen dann neue Hindernisse aus<lb/> der trophisrhen Verkürzung der die (alelenkscontrzwtur tixirendeu<lb/> Muskeln. und diese werden dann gesteigert durch die \"eriimlerungzen der<lb/> Gelenkkupsel und die Del'ormirung der Gelenkenden. Die Aufgabe<lb/> der doch nur s_v1uptonmtisrhen 'l‘herupie kann nur durin bestehen, den<lb/> inügliehsten Ausgleieh in der vorhandenen Gleiehgewi(‘htsstürung des<lb/> Muskel-Antugonismus herbeizufﬂhren. Der beste Weg: hierzu besteht in<lb/> der llerabmindterung des Be\regungs0ﬂhhes der üherwiegemlen Muskeln<lb break="paragraph"/>
+        </p>
+        <p>durrh Tenntomit': die anderen Hindernisse werden mittelst des nindel<lb break="no"/>lin-„den Redressements beseitigt. '<lb break="paragraph"/>
+        </p>
+        <p>Das Verfahren der Selmendurrhschneidnng wird vun lmrenx<lb/> “""“ £"gen mehrfnrhe Vorwürfe vertheidigt. und die Effekte der \'ur<lb break="no"/>Ill"f-f‘fl'llug der Sehnen durch eingesclmltetes Narhengewche für die. Leistung<lb/> des Muskuls erörtert. Es handelt sich bei der Therapie der Allgemeinen<lb/> und Puruplegisclmn Sturm darum, die dm-ehschnittenen Sehnen ll] öglie list<lb/> stark zu verlängern. Zu diesem Zweck stellt man eine lfelmrem‘reetur<lb/> der Contructur her, und sucht diese möglichst lange Zeit nachher fest<lb break="no"/>zuhalten. Die Behandlung des spnstische,n Spitzfusses ist eine relativ<lb/> l*’if‘llte und galt run jeher die hesten Resultate. Lorenz erörtert nun<lb/> die Behandlung der Beugerontructur im Knie, mittelst I)ur('hsuluwidung_r<lb/> d"!“ l Beugese,hnen und narht'olgender l'eherstreekung des Kniegelenkes<lb/> mit seinem Sei]rnubenredresseur: er zieht die suhcutune Sehnendurch<lb break="no"/>Sf‘lineidung der in offener Wunde weit vor: durch mechanische Dehnung;<lb/> (]_H' spustischen Muskeln allein lässt sich ein dauernder Effekt nie. er<lb break="no"/>Zlf’l"ll— In sehr schweren Fällen kann die. Tenectomie an Stelle der<lb/> 'lleuut0mie- treten. Eine wesentliche Bedeutung für die Herstellung der<lb/> Funktion hat die Beseitigung des Adduetorenspasmus, du selbst leise<lb/> ISP-“te. desselben mit. den: Gehen unvert.riiglich sind. Eine dauernde Ver<lb break="no"/>1_““.'—"fl‘llng der Adductoren lässt sich auf unhlutigem Weg durrh Myorlwxis<lb/> '“ \l"r Narkose erreichen, wenn man Abductiouen im Hiit'tgelenk bis<lb/> uber 90" durchführt, doch zieht Lorenz die subcutune Durchschneidnng<lb/> (ll'r Addurtorensohnen bei Weitem vor. Bei sehr honhgrndigem Addur—<lb/> timluspﬂsmﬂs wird die Resektion des N. obturutnrius vorgenommen.<lb/> 'll'mz der dann vollständigen Ausschaltung der Adductorenmuskeln bleibt, die<lb/> A'l‘lllction doch möglich in Folge. der Aktien des Hartnrius. Gegen (lie<lb/> -"I'=‘&gt;Usrhe Beugecnntrnctur im llüftgelenk vnrzugehen. ei‘g_rnh sich kein<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="18" xml:id="page__57eed293-6e1e-4708-a5c7-579b02d1dc44"/>
+        <p>(};.m t‘erebrale Kindfrrlühmilng.<lb break="paragraph"/>
+        </p>
+        <p>Anlass. Wenn «lie nen gmvmnielien Stellungen durch Verbände ﬁxirt<lb/> sind. bruuehen die Kinder keineswegs das Bett zu hüt.en; frühzeitige<lb/> lmknmotiun ist vielmehr von \"nrtbeilf Naeh —l-——Ö Wochen. wenn die<lb/> Verl ”nude ;ll)"'L'lll)lllllll'll werden. sind die Resultate noch keineswegs be—<lb/> friedigend. folgt jetzt der zweite, weit mühsamere Theil der Be<lb break="no"/>
+        </p>
+        <p>handlung. der sieh bestrebt, durch Erziehung und Gewöhnung die<lb/> gewünsebten Bewegung.—”impnlse herbeizuführen. Hierzu bevorzugt<lb/> Lorenz “: '!e und vor Allem aktive Gymnastik weit. mehr als den<lb/> die Kinder leiebt sc‘bl‘eekenden faradisrhen Strom. Das Vorgehen bei<lb/> dieser .\'ueInbelmmllung wird eingehend beschrieben.<lb break="paragraph"/>
+        </p>
+        <p>Lorenz hat in 12 Jahren 50 Fälle von (‘erehraler Killdt‘l'-&lt;UHTU<lb/> gesehen. er fügt die Krnnken;_msrhiehteu einiger von ihm &lt;‘llll'lll'gi—“ll<lb/> belnnnlelten “:‘ille um um Beispiele für die von ihm erzielten Erfolge zu<lb/> gl5llt'll. '<lb break="paragraph"/>
+        </p>
+        <p>Als ..romplientorisehe Symptome“ der eerebrnlen Kintlerlähmung f:l-&lt;&gt;'t<lb/> Koenig (16) die Epilepsie, Spontanl,)e\\'egiiligelii. (,‘nordinationsstih‘ungrll,<lb/> Atl'eetiunen der Augenmuskelnerven und dergleichen zusammen. Dlm'll<lb/> Rüeksirbtnulune auf tlh'se Symptome sueht K. die Yer1nuthnng Freu d‘s<lb/> zu erweisen. dass von dem Schw hsinn der nerebralen Kinderlühmung<lb/> bis zur einfuehen ldiotie eine ununterbrochene klinische Reihe führe. Es<lb/> giebt nämlieh erstens Fälle von ldintie. die zwar keine hemiplegisehen mlrl'<lb/> dipln’egisehen. wohl aber einzelne der sog. eomplieatoris‘beﬁ Symptnme<lb/> aufweisen. In 6 von 30 sulehe.r Fälle bestand Epilepsie; dazu zeigte<lb/> einer dieser Fälle clun‘eutisehe Bewegungen. ein zweiter partiell? 0k‘nlmnu<lb break="no"/>torinslühmnng, ein dritter ()phthalmnplegia interna. ein vierter uml<lb/> fünfte—r dnppelseitige Abdueenslähmnng mit N. ..tagmus. ln weiter?" 13<lb/> Fällen waren Spontzmbewegungen zu beobaehten‘, von diesen wiesen<lb/> \\"if‘derum 8 Complientiunen mit Augenninskelstörungen auf. Eine. zweite<lb/> Gruppe bilden solche Fälle von ldiotie. die gleichsam als Ahort.ivformen<lb/> der rerebralen l\'in(lerliihmung auf'gefasst werden können, indem si€<lb/> leirbte. Spasmen der Beine erkennen lassen. In nnderen Fällen zeig“‘"<lb/> 'eh diese Spnsmen deutlicher und gestatteten, die Reihe bis zur nn<lb break="no"/>mreifelhnften spastisohen l’urnplegie fortzusetzen. Fiir die. von di"&gt;“"<lb/> Fällen gebotenen Phänomene schlägt, K. den Namen Pnraspasmus 'mlul'<lb/> (“" beiden oberen Extremitäten) Dispusmns eerebralis vor. “<lb/> die-*" Fällt! noch zur eerebrnlen Kinderlälunung zu rechnen sind, lw\""l-‘t<lb/> ferner das Auftreten allerlei „vomplieatnrisehcr“ Symptome bei ihnen<lb/> und die Uebereiustimmung der nnamnestiseb zu erbebentlen Aetiolnf-‘l‘i'<lb break="paragraph"/>
+        </p>
+        <p>Philippe und Gestern (26). ‘<lb break="paragraph"/>
+        </p>
+        <p>Full L —ljähr., Asl’ll}'Xie bei Geburt. Cnnvulsionen rom lll‘l“"“<lb/> Tag an. blindf hat nie gespruehen_ nie gegangen. (‘nntractureu der<lb/> Arme und Beine. nn letzteren allgemein, Oberschenkel gebeugt "nd<lb/> :uldueirt. Füsse in Equinus t.ellnn_t_n Autopsie: fihrüse Paehvnmningitl5<lb/> diffus mit erhebliehr‘m Sehwund der \Vindnngen. .<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="19" xml:id="page__daec50af-1f9f-4247-ad8a-99dbc87cb0cc"/>
+        <p>(fm'ehrale l\'imlerliihnnlng. (BI<lb break="paragraph"/>
+        </p>
+        <p>Fall ll. 12jilhr., \'atﬂr '.l‘rinkl‘r. ll_\'ilrziliiiiin.&lt; \\‘iihi'ellil .*elnvanger<lb break="no"/>schaft. rechtzeitig geboren, mit iiniseliliingener Nahelst-hnar. Mit 7<lb/> Monaten Convnlsinnen, später oft wiederholt. Hydrocephalisehe Hesiehts<lb break="no"/>
+        </p>
+        <p>bildung. starre tler unteren ]‘3xtremitäteu mit ll'lelln‘xsteigerung. Autnps .<lb/> lly(lrocephalie, die llirnsuhstanz auf Einige (‘entiineter Dicke redneirt.<lb/> Anwachsnng der Pin in (ler 'J‘empm'alregion. '<lb break="paragraph"/>
+        </p>
+        <p>Fall 11]. l2jälu'., mangelhafte Anamne&gt;e_ normale (‘n-hart. lilintiv.<lb/> Stau-re aller 4 Extremitäten, Gang nnlniiglil'h. ;\ut.npsie: At.mphie<lb/> einzelner Windangen (Central- und Sehläfelappt‘").<lb break="paragraph"/>
+        </p>
+        <p>Fall IV. 15jz'ihr., Vater Trinken-_ (,h-hart normal. ,\lit [ Jahre<lb/> Convulsionen, von da an link:—‘seitige spastisehe llemiplegie, Häuﬁg<lb/> \\"lHllerkelll'9!l(l€ epi_lnptisvhc Ant'älle. ;\thetnse llül' linken Hand. ;\ utn |.sie:<lb/> Leit‘hte Atrophie des hinteren Theils der ersten Nlllllilfl“ll\\'llhltlll_‘_" reeht&lt;.<lb/> Verkleinerung der ('entralnn grauen Massen rechts.<lb break="paragraph"/>
+        </p>
+        <p>ln all diesen Fällen war (lie l’}ramiclenhahn völlig nurmal. nlnlr‘<lb/> Sklerose und ohne. Zeichen «ler .-\genesie in lll'l' thengata wie im<lb/> Rückenmark.<lb break="paragraph"/>
+        </p>
+        <p>Die Autoren stellen sich 1lit‘l"ra;_re, nl) man (lie „le.&lt;ion essentielle“<lb/> lh‘r Little’schen Krankheit nieht vielmehr in den Nervenzellen tler<lb/> Vonlerhörner zu suehen hahe.<lb break="paragraph"/>
+        </p>
+        <p>J. Landau (17) Beobachtung eiuus —l_iäihr. Kindes. \"nn gesunden<lb/> Eltern nach normalem Geburtmw-rlant' als Zwillingskiml gehnreu; da&lt;<lb/> andere Kind nach 8 Tagen an Kri'unpt'en gestnrben. Sehnn während (ler<lb/> Hrsten Lehenstage Krmupt'anfülle, (ln'auf normales Beﬁnden. lm ti.<lb/> [“91’9115111011'dt Impfung, von 3nmnatlieher Eiterung gefolgt. Verspätun—<lb/> Entn‘iCklung, läuft am E;„lp des zweiten .luhros, begann erst. vor wenigen<lb/> Wochen zu sprechen. Im 2. Lebensjahre Wimlerauftreten der Krampf—<lb/> anl'illle, auf die rechte Körperhälfte lnkalisirt. llewegun;1&gt;heanuung lle.&lt;<lb/> Fechten Armes zu Ende (les ersten Jahres bemerkt.<lb break="paragraph"/>
+        </p>
+        <p>Rochtsseitige spastische llemiplegie, 1nässige. trophisehe Verkümme<lb break="no"/>r:"‘£l der rechten Extremitäten, gem: valgnm und lies \algns tlextv3r.<lb/> Gang scmol’pend. Sprache auf wenige Worte beschränkt, Erhehlirlw<lb break="paragraph"/>
+        </p>
+        <p>esse"““8 unter Behandlung (Furmlisntion, Massage. graue Salbe.<lb/> S)’l'. fellow).<lb break="paragraph"/>
+        </p>
+        <p>Der Autor schwankt zwisehen der Annahme. oino=r rungenital1-n<lb/> A.ﬂ"‘n"tinn und de!“ Verursaehung dureh die Kuhpm-knn-Impfung, oh\mhl<lb/> Ihe_z“'i“i"8389blll't, der Tml des anderen Kindes unter Krämpfen. alas<lb/> A_'lftreten der Krämpfe heim Uebnrlehenrlen in den ersten Lehenstagun<lb/> die Entscheidung leicht machen.<lb break="paragraph"/>
+        </p>
+        <p>,_ Th0mpson (31) 13}ühriger Knahe klagt. in der llecnnvaleseenz narll<lb/> "“hﬂfhlnttern über l\'upfs&lt;rhmerzen, erbrirht, lll'l(l ist. eine Stunde später<lb/> l&gt;ff\\'usstl„s. Kein Strahismus. Die Beine werden gestreckt gehalten, “‘N'!”<lb/> nicht be“‘P—gt. Dunn treten Cnnvnlsinnen ein und der Knabe stirht<lb/> mit} Stunden nach Beginn (les (Unna. Bei «ler Sektion ﬁndet man 4la&lt;<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="20" xml:id="page__330473a4-8a35-4b3a-9fd7-82f64e68184d"/>
+        <p>„3.3 ('.-rul»rnl« l\'indci°lühiimiig.<lb break="paragraph"/>
+        </p>
+        <p>(h-hirn hy1yvruelnisrli und den rm'hten 'l‘empurn9phenoida.lluppun von<lb/> lilutungvn ihirrh\\‘ühli. Div Srh\viorig_dwiton der Diagnose bei einem so<lb/> sult»nvii l"ullv sind zu hl'touen.<lb break="paragraph"/>
+        </p>
+        <p>In dvr Discussion erwähnt Kontur ciuvs ähnlirlmn Falles. der mit<lb/> Srh\rindﬂl. ]‘il'lbl'4'l'lli'll und thiiuhung_r ohne Lokals_vmptnme begann und<lb/> zum Tod um svlhen Abend führtn. Blutung der rechten llemisphäre. mit<lb/> Durrhlwm-h in die \‘nntrikel. ('olman hat einen Fall von Gehirnblutung<lb/> hni eiiwm Kind in Zusammenhang mit Endocnrditis nic-erosn gesehen.<lb/> l\lurtinwr führt als dic l'rsm-lw der hei Kindern so seltenen Hirn<lb break="no"/>h:wlnnrrhzij_Vivn: .\s|ihyxiv. l’nrpurn, Srm'l)ilt, niilim'e Aneurysmun und<lb/> 4'hmnisvhp .\'vphritis auf. l’ottvr hetnnt dus Vorkonunen vpnösor<lb/> .lllntungen.<lb break="paragraph"/>
+        </p>
+        <p>Buceelli ((i). Bn-nhnvhtung einer Epidvmin —— 18 Fälle — von theils<lb/> 4-ureln‘nler. tlwils Sllillillt‘l' Kindvi'h'ihniung. ln einigen ergriffenen Familien<lb/> li1'r dus win? Kind an der (‘vrehrnlcln Pin anderes im der spinaleu Form.<lb/> \?1'l':is&gt;oi' hält |Wlll(* Krankheiten fiir infoktiöson ['rsprungs und glaubt<lb/> du.—&gt; si(- ileiiisvllwn iitiu|o<lb break="paragraph"/>
+        </p>
+        <p>' rlwn Faktor ihr» Entstehung \'Pl'dﬂuken. Auch<lb/> div .lnhi'vskurwn der llüulig'lwit l)(!llll‘l' i\’runklwitvn lunfen parallel.<lb/> Valenlz'n<lb/> Fél’é (5°): \Vii'll' ;\ s}'iiiiin14ti'i&lt;lii l'llfgb'llt'll der Beobachtung. wennman sich<lb/> nicht «le-r liisii'unn-nh— zur Mussung deivnt. deren Anwendung lwim<lb/> lwlwnden nllvrdings S('ll\\'il‘l'lgk(‘iißll mit Slt’ll bringt. F. hat bei15<lb/> Fiillpn \‘nn Kindurhomiplegio folgt‘ndu drei Mnnsse untersucht: Den<lb/> “lll‘k'lllili'sse‘l' \‘nn (ll'l' Prnhilwr:mtiu noripitnlis his zu den beiden Stil“"'<lb/> iiiil'lu‘l'll. div Dinwnsiuncu dm- Orbit.u trunsvvrsul und ve tikal, die. Länge<lb/> des l‘nturkivfors vun don] Angulns his zur l’rutuhernntiu nu‘ntulis. hir<lb/> llnsultuh- dvr Mwsnngun sind in oinvr Tabelle mitgetheilt. DPF Stirn<lb break="no"/>ln"wknr kann auf dvr hienuiplcgi.&lt;vlwn Smith ﬂacher sein als auf der ge<lb break="no"/>,snudvii (T [“z'iile win 1.3). ulwr uurh _£:'ll*ll‘ll n(ll’.l' selbst stärker \'01'S[H'lng““d<lb/> (4 “Hi l:'i}- lk‘i' \“Prtikalv llurrhniessvr der ()1'bitzl ist in 10 "011 1'5<lb/> l“:'illvn \'(‘l'l(ill'li. Div Liing,xn des l'nh=rkivfixrs zeigt sich, in 12 "011 15<lb/> Fällen. auf (l(‘l' S4‘itll d@r Lähmungr \'vrringei't. ])il‘ trophische Hemmung<lb/> l't'i dor l\'indui'lniini|&gt;lvf_ﬂ'iu hmm \ui'.&lt;('hindpnu Störungen der Filrlu«n hei"<lb break="no"/>\Hl'l'llfl'll. dit“ man sun&gt;i in-i l)(‘u'l’lll‘l'il'i0il lindut und auf .\ﬂwisrnus zu—<lb/> ri'n-kl'ührt. » Der .-\hsvhluss lll'l‘ .\rlwit ste-ht uns.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

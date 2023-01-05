@@ -109,12 +109,6 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002None">
-                     <analytic>
-                        <title type="manifestation">XII. Determinismus, Zufalls- und Aberglauben, Gesichtspunkte</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
                   <biblStruct xml:id="bibl-1901-002-1901.2">
                      <analytic>
                         <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
@@ -228,19 +222,6 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                         <imprint>
                            <date when="1923-01-01">1923-01-01</date>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1901.01">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">[Reinschrift]</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
                         </imprint>
                      </monogr>
                   </biblStruct>
@@ -388,7 +369,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
          </langUsage>
       </profileDesc>
       <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
+         <change who="#dstoxreiter" when="2023-1-4">
             Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
          </change>
       </revisionDesc>
@@ -977,7 +958,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
          
          
             
-              <p>Zwischen „Verschreiben“ und „Vergessen“ darf man den Fall<lb/> einschalten, daß jemand eine Unterschrift anzubringen vergißt.<lb/> Ein nicht unterschriebener Scheck ist soviel wie ein ver<lb break="no"/>gessener. Für die Bedeutung eines solchen Vergessens will ich<lb/> eine Stelle aus einem Roman anführen, die Dr. H. <hi rendition="#smallcaps">Sachs</hi><lb/> aufgefallen ist:<lb break="paragraph"/></p> <p>„Ein sehr lehrreiches und durchsichtiges Beispiel, mit welcher<lb/> Sicherheit die Dichter den Mechanismus der Fehl- und<lb/> Symptomhandlungen im Sinne der Psychoanalyse zu verwenden<lb/> wissen, enthält der Roman von John <hi rendition="#smallcaps">Galsworthy</hi>: ,The<lb/> Island Pharisees.‘ Im Mittelpunkte steht das Schwanken eines<lb/> jungen Mannes, der dem reichen Mittelstand angehört, zwischen<lb/> tiefem sozialen Mitgefühl und den gesellschaftlichen Kon<lb break="no"/>ventionen seiner Klasse. Im XXVI. Kapitel wird geschildert, wie<lb/> er auf einen Brief eines jungen Vagabunden reagiert, den er,<lb/> durch seine originelle Lehensauffassung angezogen, einigemal<lb/> unterstützt hatte. Der Brief enthält keine direkte Bitte um Geld,<lb/> aber die Schilderung einer großen Notlage, die keine andere<lb/> Deutung zuläßt. Der Empfänger weist zunächst den Gedanken<lb/> von sich, das Geld an einen Unverbesserlichen wegzuwerfen,<lb/> statt damit wohltätige Anstalten zu unterstützen. ,Eine helfende<lb/> Hand, ein Stück von sich selbst, ein kameradschaftlliches Nicken<lb/> einem Mitgeschöpf zu geben, ohne Rücksicht auf einen Anspruch,<lb/> nur weil es ihm eben schlecht ging, welch ein sentimentaler<lb/> Unsinn! Irgendwo muß der Scheidestrich gezogen werden!‘ Aber<lb/> während er diese Schlußfolgerung vor sich hinmurmelte, fühlte<lb/> er, wie seine Aufrichtigkeit Einspruch erhob: ,Schwindler! Du<lb/> willst dein Geld behalten, das ist alles!‘<lb break="paragraph"/></p>
+              <p>Zwischen „Verschreiben“ und „Vergessen“ darf man den Fall<lb/> einschalten, daß jemand eine Unterschrift anzubringen vergißt.<lb/> Ein nicht unterschriebener Scheck ist soviel wie ein ver<lb break="no"/>gessener. Für die Bedeutung eines solchen Vergessens will ich<lb/> eine Stelle aus einem Roman anführen, die Dr. H. <hi rendition="#smallcaps">Sachs</hi><lb/> aufgefallen ist:<lb break="paragraph"/></p> <p>„Ein sehr lehrreiches und durchsichtiges Beispiel, mit welcher<lb/> Sicherheit die Dichter den Mechanismus der Fehl- und<lb/> Symptomhandlungen im Sinne der Psychoanalyse zu verwenden<lb/> wissen, enthält der Roman von John <hi rendition="#smallcaps">Galsworthy</hi>: ,The<lb/> Island Pharisees.‘ Im Mittelpunkte steht das Schwanken eines<lb/> jungen Mannes, der dem reichen Mittelstand angehört, zwischen<lb/> tiefem sozialen Mitgefühl und den gesellschaftlichen Kon<lb break="no"/>ventionen seiner Klasse. Im XXVI. Kapitel wird geschildert, wie<lb/> er auf einen Brief eines jungen Vagabunden reagiert, den er,<lb/> durch seine originelle Lehensauffassung angezogen, einigemal<lb/> unterstützt hatte. Der Brief enthält keine direkte Bitte um Geld,<lb/> aber die Schilderung einer großen Notlage, die keine andere<lb/> Deutung zuläßt. Der Empfänger weist zunächst den Gedanken<lb/> von sich, das Geld an einen Unverbesserlichen wegzuwerfen,<lb/> statt damit wohltätige Anstalten zu unterstützen. ,Eine helfende<lb/> Hand, ein Stück von sich selbst, ein kameradschaftliches Nicken<lb/> einem Mitgeschöpf zu geben, ohne Rücksicht auf einen Anspruch,<lb/> nur weil es ihm eben schlecht ging, welch ein sentimentaler<lb/> Unsinn! Irgendwo muß der Scheidestrich gezogen werden!‘ Aber<lb/> während er diese Schlußfolgerung vor sich hinmurmelte, fühlte<lb/> er, wie seine Aufrichtigkeit Einspruch erhob: ,Schwindler! Du<lb/> willst dein Geld behalten, das ist alles!‘<lb break="paragraph"/></p>
          
          
             <pb n="30" xml:id="page__80c29283-8e55-4fa7-9f49-94e9ffd98ee2"/>

@@ -109,12 +109,6 @@
                         </imprint>
                      </monogr>
                   </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002None">
-                     <analytic>
-                        <title type="manifestation">XII. Determinismus, Zufalls- und Aberglauben, Gesichtspunkte</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
                   <biblStruct xml:id="bibl-1901-002-1901.2">
                      <analytic>
                         <title type="manifestation">Zur Psychopathologie des Alltagslebens (Vergessen, Versprechen, Vergreifen) nebst Bemerkungen über eine Wurzel des Aberglaubens. (Schluss.) </title>
@@ -233,19 +227,6 @@
                         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
                         <imprint>
                            <date when="1923-01-01">1923-01-01</date>
-                        </imprint>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1901-002-1901.01">
-                     <analytic>
-                        <title type="manifestation">Zur Psychopathologie des Alltagslebens</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">[Reinschrift]</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
                         </imprint>
                      </monogr>
                   </biblStruct>
@@ -389,7 +370,7 @@ Buch aus <material>Papier</material> in Druckschrift .                          
          </langUsage>
       </profileDesc>
       <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-31">
+         <change who="#dstoxreiter" when="2023-1-4">
             Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
          </change>
       </revisionDesc>

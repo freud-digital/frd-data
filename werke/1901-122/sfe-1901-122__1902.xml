@@ -1,225 +1,243 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1901-122; 1902a): Über Zufall und Aberglauben [Erwähnung]</title>
-            <title type="manifestation" level="a">Über Zufall und Aberglaube (1901-122/1902)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1901-122; 1902a): Über Zufall und Aberglauben [Erwähnung]</title>
+        <title type="manifestation" level="a">Über Zufall und Aberglaube (1901-122/1902)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>OCR korr. SL</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1901-122-1902" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Über Zufall und Aberglaube</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__179a9b89-b10b-4ecb-ba32-be9dbcf60f46">B'nai B'rith</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1902-01-01">1902-01-01</date>
-                     </imprint>
-                     <extent>108 Seiten</extent>
-                     <biblScope unit="volume">3</biblScope>
-                     <biblScope unit="year">4</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__2112c6db-bd4f-495f-bca2-486e4220e281">
-                        <title>Über Zufall und Aberglaube</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>OCR korr. SL</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1901-122-1902" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Über Zufall und Aberglaube</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__179a9b89-b10b-4ecb-ba32-be9dbcf60f46">B'nai B'rith</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1902-01-01">1902-01-01</date>
+              </imprint>
+              <extent>108 Seiten</extent>
+              <biblScope unit="volume">3</biblScope>
+              <biblScope unit="year">4</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__2112c6db-bd4f-495f-bca2-486e4220e281">
+                <title>Über Zufall und Aberglaube</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1901-122/1902</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/uber-zufall-und-aberglaube/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/2112c6db-bd4f-495f-bca2-486e4220e281</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__67ba4138-65e5-41c2-be6f-ee50868d5c00">
-                              <title>Freud, Sigmund  (1901-122; 1902a): Über Zufall und Aberglauben [Erwähnung]</title>
-                              <idno type="url">https://www.freud-edition.net/ueber-zufall-und-aberglauben</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/67ba4138-65e5-41c2-be6f-ee50868d5c00</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1901-122/1902</idno>
+                <idno type="url">https://www.freud-edition.net/werke/uber-zufall-und-aberglaube/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/2112c6db-bd4f-495f-bca2-486e4220e281</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__67ba4138-65e5-41c2-be6f-ee50868d5c00">
+                    <title>Freud, Sigmund  (1901-122; 1902a): Über Zufall und Aberglauben [Erwähnung]</title>
+                    <idno type="url">https://www.freud-edition.net/ueber-zufall-und-aberglauben</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/67ba4138-65e5-41c2-be6f-ee50868d5c00</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-30">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__7b3e171a-48b2-4c01-945d-2ee96305ead6"/>
-            <fw type="pageNum">106</fw> <p rendition="#level_2">Officielle Berichte<lb/> der einzelnen Vereinigungen.</p><p rendition="#level_3">„Wien.“</p><p>Der Rückblick auf das abgelaufene jahr 1901 zeigt uns vor<lb/> allem die erfreuliche Thatsache, dass unsere Mitgliederanzahl in<lb/> demselben um 19 sich vermehrt hat und dass wir daher am<lb/> Schluss des Jahres einen Mitgliederstand von 188 Brüdern zu<lb/> verzeichnen das Glück haben. Wenn auch eine Zahl von Brüdern<lb/> bei uns aufgenommen wurde, welche die Bestimmung haben, die von<lb/> uns geplante neue Vereinigung zu bilden, so ist es doch für uns<lb/> im höchsten Grade erfreulich, dass die Idee der Bnai-Brith-Ver<lb break="no"/>einigungen immer weitere Kreise an sich zieht und immer<lb/> grössere Verbreitung gewinnt. Das erfüllt uns mit gerechtem Stolze,<lb/> denn nicht nur die Idee als solche hat diesen Sieg erfochten,<lb/> sondern auch die Bethätigung derselben durch uns hat uns hier<lb/> in Wien ein Ansehen zu verschaffen gewusst, das der Sache<lb/> selbst nur zu grösstem Ruhme gereichen kann.<lb break="paragraph"/></p> <p>Aber nicht nur quantitativ haben wir Ursache, mit dem<lb/> abgelaufenen Jahre zufrieden zu sein, sondern auch qualitativ. Denn<lb/> die interne Ausgestaltung unserer hiesigen Vereinigung gibt uns<lb/> Grund zur Zufriedenheit, das Interesse der lieben Brüder an<lb/> unseren Arbeiten hat sich vertieft, die Antheilnahme an den<lb/> Arbeiten und an den Sitzungen war befriedigend. Die Durch<lb break="no"/>schnittsziffer des Besuches unserer Sitzungen war 93. Von allen<lb/> Brüdern waren nur zwei, die heuer überhaupt zu keiner Sitzung<lb/> erschienen sind, und während einer von diesen durch Berufs<lb break="no"/>geschäfte vielleicht entschuldigt werden könnte, so gilt dies von<lb/> dem zweiten Bruder nicht, der die vollständigste Interesselosigkeit<lb/> für unsere Vereinigung an den Tag legt. Unser w. Präsident hat<lb/> in den letzten Tagen Schritte eingeleitet, um diesen Misstand<lb/> nach der einen oder anderen Seite hin zu beseitigen. Wir können<lb/> nicht genug oft betonen, dass wir auf die persönliche Mitarbeit<lb/> der Brüder das Hauptgewicht legen, denn nur durch Mitarbeit<lb/> kann der Bruder die hohe ethische Bedeutung unserer Be<lb break="no"/>strebungen erfassen, und wenn diese fehlt, dann fehlt auch uns<lb/> jedes Interesse an einem Bruder, der sich in solcher Weise an<lb/> den vomehmlichsten Pflichten, die uns obliegen, vergeht.<lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__f2ce057d-9354-4189-9898-de68a256e08a"/>
-            <fw type="pageNum">107</fw> <p>Unsere Sitzungen im abgelaufenen Jahre haben sich interes<lb break="no"/>sant gestaltet. Im Frühjahre hat uns eine Discussion über die<lb/> sociale Frage, angeregt vom Br. <hi rendition="#smallcaps">Zucker</hi>, in lebhaftester Weise<lb/> beschäftigt, und dieses Thema wurde von verschiedenen Brüdern<lb/> in glänzender Weise behandelt, von den verschiedensten Gesichts<lb break="no"/>punkten aus erörtert. Wenn auch selbstverständlich kein positives<lb/> Resultat hieraus sich ergeben konnte; so hat sie doch dazu<lb/> gedient, allen Brüdern die Nothwendigkeit evident zu machen,<lb/> dass die vornehmste Pﬂicht des jetzigen Jahrhunderts sein wird<lb/> und sein muss. den socialen Uebelständen abzuhelfen und dadurch<lb/> zur relativen Zufriedenheit aller Menschen, ob reich, ob arm,<lb/> beizutragen. Im Herbste hatten wir eine sehr interessante<lb/> Discussion über die Ziele und Zwecke unserer Vereinigungen,<lb/> an der sich in hervorragender Weise <hi rendition="#smallcaps">jüngere</hi> Mitglieder<lb/> unserer Vereinigung betheiligten. Auch diese hat zu unser aller<lb/> Befriedigung ergeben, dass die Brüder die Aufgaben derselben<lb/> zu erfassen verstanden haben und mit warmer Hingebung bereit<lb/> sind und waren, für unsere Ziele und Zwecke einzutreten und für<lb/> sie zu propagiren.<lb break="paragraph"/></p> <p>An Vorträgen hatten wir heuer das Vergnügen von:<lb break="paragraph"/></p> <p>Br. Docenten Dr. <hi rendition="#smallcaps">Freud</hi>: „Ueber Zufall und Aberglauben“ am<lb/> 26. Februar,<lb break="paragraph"/></p> <p>Br. Docenten Dr. <hi rendition="#smallcaps">Braun</hi>: „Ueber Pettenkofer im Anschlusse<lb/> an die bei uns stattgehabte Discussion über die sociale<lb/> Frage“ am 12. März,<lb break="paragraph"/></p> <p>Frau Jenny <hi rendition="#smallcaps">Frank</hi>: „Ueber die Lebensbedürfnisse des<lb/> Menschen“ am 9. März,<lb break="paragraph"/></p> <p>Br. Vicepräsidenten Dr. <hi rendition="#smallcaps">Schnabel</hi>: „Ueber Heilstätten für Lungen<lb break="no"/>kranke“ am 29. April,<lb break="paragraph"/></p> <p>Br. Expr. Prof. <hi rendition="#smallcaps">Ehrmann</hi>: „Ueber die Entwicklung der Lebe<lb break="no"/>wesen“ am 19. November,<lb break="paragraph"/></p> <p>Br. Architekten <hi rendition="#smallcaps">Fleischer</hi>: „Ueber Bibliotheken“ am 3. December<lb/> zu hören, und wir statten den geehrten Vortragenden auch hier<lb/> unseren wärmsten Dank für dieselben ab.<lb break="paragraph"/></p> <p>Von diesen Vorträgen fanden drei in Gegenwart der Frauen<lb/> unserer Brüder statt, und bei Gelegenheit der darauf folgenden<lb/> geselligen Zusammenkünfte sowohl, wie bei allen Brudermahlen,<lb/> hatten wir reichlich Gelegenheit zu erkennen, wie wohlthätig die im<lb/> heurigen Jahre neuadaptirten Geselligkeitsräume und der Speisesaal<lb/> auf unser ganzes Vereinsleben einwirken. Die Geselligkeit ist ein<lb/> nicht zu unterschätzender Factor in unseren Vereinigungen und<lb/> mit ein Hauptmittel, die Brüder nicht nur mit einander bekannt,<lb/> sondern auch wirklich befreundet zu machen für das ganze Leben.<lb break="paragraph"/></p> <p>Wir hatten heuer ferner die definitive Constituirung des<lb/> galizischen Hilfsvereines, der das Werk aller Vereinigungen B. B.<lb/> ist, mit Freude zu begrüssen. Diese fand am 24. Februar statt;<lb/> die Gründung der Ortsgruppen fand in der Provinz schon in<lb/> mehreren Städten statt, während die Constituirung derselben in<lb break="paragraph"/><pb n="3" xml:id="page__148c12d0-7c91-4999-b2d3-10900d0a2496"/><fw type="pageNum">108</fw>Wien im Laufe des nächsten Monates zu gegenwärtigen ist. Hoffen<lb/> wir, dass wir einst mit Befriedigung auf dieses Hilfswerk werden<lb/> zurückblicken können, das allerdings eine unausgesetzte und hin<lb break="no"/>gebende Tätigkeit durch Dezennien erfordern wird. Die Grösse<lb/> der Arbeit jedoch wird uns nicht abhalten, mit Muth und Feuer<lb break="no"/>eifer ans Werk zu gehen.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Wir haben ferner im heurigen Jahre infolge der Anregung<lb/> des Br. Director <hi rendition="#smallcaps">Kux</hi> definitiv beschlossen, uns durch Delegirung<lb/> mehrerer Brüder in den Vorstand des „Vereines zur unentgelt<lb break="no"/>lichen Verpflegung Brustleidender auf dem Lande“ an dem segens<lb break="no"/>reichen Wirken und den edlen Bestrebungen desselben zu be<lb break="no"/>teiligen. Unsere Vereinigung hat sich mit einem jährlichen Bei<lb break="no"/>trage von K 960.— aus den Zinsen des Rosenfeldfonds an<lb/> die Spitze der Brüder gestellt, die zum grossen Theile als<lb/> Mitglieder mit ansehnlichen Jahresbeiträgen dem genannten Ver<lb break="no"/>eine beitraten. Unser warmes Interesse bleibt demselben er<lb break="no"/>halten. Wenn wir Ihnen nun, liebe Brüder, mittheilen, dass der<lb/> von uns ins Leben gerufene „Verein für untentgeltlichen Arbeits<lb break="no"/>nachweis“ unter der zielbewussten Leitung mehrerer unserer<lb/> Brüder so gedeiht und steigende Erfolge aufzuweisen in der Lage<lb/> ist, so können wir sagen, dass wir unsere Pflichten auf dem<lb/> Gebiete der Menschenliebe und Opferwilligkeit erfüllt, aber nicht<lb/> erschöpft haben.<lb break="paragraph"/></p> <p>Lassen Sie uns weiter rastlos arbeiten auf diesem Gebiete<lb/> socialer Wohlthätigkeit, die darin besteht, arme Glaubensbrüder<lb/> zur Arbeit zu <hi rendition="#smallcaps">erziehen</hi> und ihnen Arbeitsgelegenheit zu ver<lb break="no"/>schaffen, und kranken Glaubensgenossen wieder zur Gesundheit<lb/> zu verhelfen und sie der Arbeit wiederzugeben. Arbeit adelt den<lb/> Menschen, gibt ihm die Mittel, sich nicht nur zu erhalten und zu<lb/> ernähren, sondern macht ihn auch empfänglich für geistige<lb/> Nahrung, für ethische Aufgaben. Wir sind mit unseren Bestre<lb break="no"/>bungen auf dem rechten Wege, lassen Sie ihn uns auch weiter<lb break="no"/>hin unentwegt verfolgen.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__7b3e171a-48b2-4c01-945d-2ee96305ead6"/>
+        <fw type="pageNum">106</fw>
+        <p rendition="#level_2">Officielle Berichte<lb/> der einzelnen Vereinigungen.</p>
+        <p rendition="#level_3">„Wien.“</p>
+        <p>Der Rückblick auf das abgelaufene jahr 1901 zeigt uns vor<lb/> allem die erfreuliche Thatsache, dass unsere Mitgliederanzahl in<lb/> demselben um 19 sich vermehrt hat und dass wir daher am<lb/> Schluss des Jahres einen Mitgliederstand von 188 Brüdern zu<lb/> verzeichnen das Glück haben. Wenn auch eine Zahl von Brüdern<lb/> bei uns aufgenommen wurde, welche die Bestimmung haben, die von<lb/> uns geplante neue Vereinigung zu bilden, so ist es doch für uns<lb/> im höchsten Grade erfreulich, dass die Idee der Bnai-Brith-Ver<lb break="no"/>einigungen immer weitere Kreise an sich zieht und immer<lb/> grössere Verbreitung gewinnt. Das erfüllt uns mit gerechtem Stolze,<lb/> denn nicht nur die Idee als solche hat diesen Sieg erfochten,<lb/> sondern auch die Bethätigung derselben durch uns hat uns hier<lb/> in Wien ein Ansehen zu verschaffen gewusst, das der Sache<lb/> selbst nur zu grösstem Ruhme gereichen kann.<lb break="paragraph"/>
+        </p>
+        <p>Aber nicht nur quantitativ haben wir Ursache, mit dem<lb/> abgelaufenen Jahre zufrieden zu sein, sondern auch qualitativ. Denn<lb/> die interne Ausgestaltung unserer hiesigen Vereinigung gibt uns<lb/> Grund zur Zufriedenheit, das Interesse der lieben Brüder an<lb/> unseren Arbeiten hat sich vertieft, die Antheilnahme an den<lb/> Arbeiten und an den Sitzungen war befriedigend. Die Durch<lb break="no"/>schnittsziffer des Besuches unserer Sitzungen war 93. Von allen<lb/> Brüdern waren nur zwei, die heuer überhaupt zu keiner Sitzung<lb/> erschienen sind, und während einer von diesen durch Berufs<lb break="no"/>geschäfte vielleicht entschuldigt werden könnte, so gilt dies von<lb/> dem zweiten Bruder nicht, der die vollständigste Interesselosigkeit<lb/> für unsere Vereinigung an den Tag legt. Unser w. Präsident hat<lb/> in den letzten Tagen Schritte eingeleitet, um diesen Misstand<lb/> nach der einen oder anderen Seite hin zu beseitigen. Wir können<lb/> nicht genug oft betonen, dass wir auf die persönliche Mitarbeit<lb/> der Brüder das Hauptgewicht legen, denn nur durch Mitarbeit<lb/> kann der Bruder die hohe ethische Bedeutung unserer Be<lb break="no"/>strebungen erfassen, und wenn diese fehlt, dann fehlt auch uns<lb/> jedes Interesse an einem Bruder, der sich in solcher Weise an<lb/> den vomehmlichsten Pflichten, die uns obliegen, vergeht.<lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__f2ce057d-9354-4189-9898-de68a256e08a"/>
+        <fw type="pageNum">107</fw>
+        <p>Unsere Sitzungen im abgelaufenen Jahre haben sich interes<lb break="no"/>sant gestaltet. Im Frühjahre hat uns eine Discussion über die<lb/> sociale Frage, angeregt vom Br. <hi rendition="#smallcaps">Zucker</hi>, in lebhaftester Weise<lb/> beschäftigt, und dieses Thema wurde von verschiedenen Brüdern<lb/> in glänzender Weise behandelt, von den verschiedensten Gesichts<lb break="no"/>punkten aus erörtert. Wenn auch selbstverständlich kein positives<lb/> Resultat hieraus sich ergeben konnte; so hat sie doch dazu<lb/> gedient, allen Brüdern die Nothwendigkeit evident zu machen,<lb/> dass die vornehmste Pﬂicht des jetzigen Jahrhunderts sein wird<lb/> und sein muss. den socialen Uebelständen abzuhelfen und dadurch<lb/> zur relativen Zufriedenheit aller Menschen, ob reich, ob arm,<lb/> beizutragen. Im Herbste hatten wir eine sehr interessante<lb/> Discussion über die Ziele und Zwecke unserer Vereinigungen,<lb/> an der sich in hervorragender Weise <hi rendition="#smallcaps">jüngere</hi> Mitglieder<lb/> unserer Vereinigung betheiligten. Auch diese hat zu unser aller<lb/> Befriedigung ergeben, dass die Brüder die Aufgaben derselben<lb/> zu erfassen verstanden haben und mit warmer Hingebung bereit<lb/> sind und waren, für unsere Ziele und Zwecke einzutreten und für<lb/> sie zu propagiren.<lb break="paragraph"/>
+        </p>
+        <p>An Vorträgen hatten wir heuer das Vergnügen von:<lb break="paragraph"/>
+        </p>
+        <p>Br. Docenten Dr. <hi rendition="#smallcaps">Freud</hi>: „Ueber Zufall und Aberglauben“ am<lb/> 26. Februar,<lb break="paragraph"/>
+        </p>
+        <p>Br. Docenten Dr. <hi rendition="#smallcaps">Braun</hi>: „Ueber Pettenkofer im Anschlusse<lb/> an die bei uns stattgehabte Discussion über die sociale<lb/> Frage“ am 12. März,<lb break="paragraph"/>
+        </p>
+        <p>Frau Jenny <hi rendition="#smallcaps">Frank</hi>: „Ueber die Lebensbedürfnisse des<lb/> Menschen“ am 9. März,<lb break="paragraph"/>
+        </p>
+        <p>Br. Vicepräsidenten Dr. <hi rendition="#smallcaps">Schnabel</hi>: „Ueber Heilstätten für Lungen<lb break="no"/>kranke“ am 29. April,<lb break="paragraph"/>
+        </p>
+        <p>Br. Expr. Prof. <hi rendition="#smallcaps">Ehrmann</hi>: „Ueber die Entwicklung der Lebe<lb break="no"/>wesen“ am 19. November,<lb break="paragraph"/>
+        </p>
+        <p>Br. Architekten <hi rendition="#smallcaps">Fleischer</hi>: „Ueber Bibliotheken“ am 3. December<lb/> zu hören, und wir statten den geehrten Vortragenden auch hier<lb/> unseren wärmsten Dank für dieselben ab.<lb break="paragraph"/>
+        </p>
+        <p>Von diesen Vorträgen fanden drei in Gegenwart der Frauen<lb/> unserer Brüder statt, und bei Gelegenheit der darauf folgenden<lb/> geselligen Zusammenkünfte sowohl, wie bei allen Brudermahlen,<lb/> hatten wir reichlich Gelegenheit zu erkennen, wie wohlthätig die im<lb/> heurigen Jahre neuadaptirten Geselligkeitsräume und der Speisesaal<lb/> auf unser ganzes Vereinsleben einwirken. Die Geselligkeit ist ein<lb/> nicht zu unterschätzender Factor in unseren Vereinigungen und<lb/> mit ein Hauptmittel, die Brüder nicht nur mit einander bekannt,<lb/> sondern auch wirklich befreundet zu machen für das ganze Leben.<lb break="paragraph"/>
+        </p>
+        <p>Wir hatten heuer ferner die definitive Constituirung des<lb/> galizischen Hilfsvereines, der das Werk aller Vereinigungen B. B.<lb/> ist, mit Freude zu begrüssen. Diese fand am 24. Februar statt;<lb/> die Gründung der Ortsgruppen fand in der Provinz schon in<lb/> mehreren Städten statt, während die Constituirung derselben in<lb break="paragraph"/>
+          <pb n="3" xml:id="page__148c12d0-7c91-4999-b2d3-10900d0a2496"/>
+          <fw type="pageNum">108</fw>Wien im Laufe des nächsten Monates zu gegenwärtigen ist. Hoffen<lb/> wir, dass wir einst mit Befriedigung auf dieses Hilfswerk werden<lb/> zurückblicken können, das allerdings eine unausgesetzte und hin<lb break="no"/>gebende Tätigkeit durch Dezennien erfordern wird. Die Grösse<lb/> der Arbeit jedoch wird uns nicht abhalten, mit Muth und Feuer<lb break="no"/>eifer ans Werk zu gehen.<lb break="paragraph"/>
+        </p>
+        <p>Wir haben ferner im heurigen Jahre infolge der Anregung<lb/> des Br. Director <hi rendition="#smallcaps">Kux</hi> definitiv beschlossen, uns durch Delegirung<lb/> mehrerer Brüder in den Vorstand des „Vereines zur unentgelt<lb break="no"/>lichen Verpflegung Brustleidender auf dem Lande“ an dem segens<lb break="no"/>reichen Wirken und den edlen Bestrebungen desselben zu be<lb break="no"/>teiligen. Unsere Vereinigung hat sich mit einem jährlichen Bei<lb break="no"/>trage von K 960.— aus den Zinsen des Rosenfeldfonds an<lb/> die Spitze der Brüder gestellt, die zum grossen Theile als<lb/> Mitglieder mit ansehnlichen Jahresbeiträgen dem genannten Ver<lb break="no"/>eine beitraten. Unser warmes Interesse bleibt demselben er<lb break="no"/>halten. Wenn wir Ihnen nun, liebe Brüder, mittheilen, dass der<lb/> von uns ins Leben gerufene „Verein für untentgeltlichen Arbeits<lb break="no"/>nachweis“ unter der zielbewussten Leitung mehrerer unserer<lb/> Brüder so gedeiht und steigende Erfolge aufzuweisen in der Lage<lb/> ist, so können wir sagen, dass wir unsere Pflichten auf dem<lb/> Gebiete der Menschenliebe und Opferwilligkeit erfüllt, aber nicht<lb/> erschöpft haben.<lb break="paragraph"/>
+        </p>
+        <p>Lassen Sie uns weiter rastlos arbeiten auf diesem Gebiete<lb/> socialer Wohlthätigkeit, die darin besteht, arme Glaubensbrüder<lb/> zur Arbeit zu <hi rendition="#smallcaps">erziehen</hi> und ihnen Arbeitsgelegenheit zu ver<lb break="no"/>schaffen, und kranken Glaubensgenossen wieder zur Gesundheit<lb/> zu verhelfen und sie der Arbeit wiederzugeben. Arbeit adelt den<lb/> Menschen, gibt ihm die Mittel, sich nicht nur zu erhalten und zu<lb/> ernähren, sondern macht ihn auch empfänglich für geistige<lb/> Nahrung, für ethische Aufgaben. Wir sind mit unseren Bestre<lb break="no"/>bungen auf dem rechten Wege, lassen Sie ihn uns auch weiter<lb break="no"/>hin unentwegt verfolgen.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

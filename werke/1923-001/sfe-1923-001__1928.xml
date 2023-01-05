@@ -1,278 +1,282 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
-            <title type="manifestation" level="a">Libidotheorie (1923-001/1928)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
+        <title type="manifestation" level="a">Libidotheorie (1923-001/1928)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>OCR korr. SL</p>
-<p>2. OCR Korr KK</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1923-001-1923">
-                     <analytic>
-                        <title type="manifestation">Libidotheorie</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-                        <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Bonn</pubPlace>
-                           <date when="1923-01-01">1923-01-01</date>
-                        </imprint>
-<extent>298 Seiten</extent>                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1923-001-1922.01">
-                     <analytic>
-                        <title type="manifestation">Libidotheorie</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1923-001-1926">
-                     <analytic>
-                        <title type="manifestation">Libidotheorie</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-                        <title type="publication-sub">Enzyklopädie der natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Bonn</pubPlace>
-                           <date when="1926-01-01">1926-01-01</date>
-                        </imprint>
-<extent>427 Seiten</extent>                        <biblScope unit="issue">Zweite stark vermehrte Auflage mit 140 Abbildungen</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1923-001-1928" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Libidotheorie</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short">GS 11</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Zürich</pubPlace>
-                        <date when="1928-01-01">1928-01-01</date>
-                     </imprint>
-                     <extent>223 Seiten</extent>
-                     <biblScope unit="volume">11. Band</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__d9a972a2-2c6f-4c05-9e94-0959f6b5edb7">
-                        <title>Libidotheorie</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>OCR korr. SL</p>
+          <p>2. OCR Korr KK</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1923-001-1923">
+            <analytic>
+              <title type="manifestation">Libidotheorie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+              <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Bonn</pubPlace>
+                <date when="1923-01-01">1923-01-01</date>
+              </imprint>
+              <extent>298 Seiten</extent>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1923-001-1926">
+            <analytic>
+              <title type="manifestation">Libidotheorie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
+              <title type="publication-sub">Enzyklopädie der natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Bonn</pubPlace>
+                <date when="1926-01-01">1926-01-01</date>
+              </imprint>
+              <extent>427 Seiten</extent>
+              <biblScope unit="issue">Zweite stark vermehrte Auflage mit 140 Abbildungen</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1923-001-1928" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Libidotheorie</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 11</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1928-01-01">1928-01-01</date>
+              </imprint>
+              <extent>223 Seiten</extent>
+              <biblScope unit="volume">11. Band</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__d9a972a2-2c6f-4c05-9e94-0959f6b5edb7">
+                <title>Libidotheorie</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1923-001/1928</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/libidotheorie/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d9a972a2-2c6f-4c05-9e94-0959f6b5edb7</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__f7c42032-fa71-4592-84c7-b265fb93ac36">
-                              <title>Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/libidotheorie</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f7c42032-fa71-4592-84c7-b265fb93ac36</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1923-001/1928</idno>
+                <idno type="url">https://www.freud-edition.net/werke/libidotheorie/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d9a972a2-2c6f-4c05-9e94-0959f6b5edb7</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__f7c42032-fa71-4592-84c7-b265fb93ac36">
+                    <title>Freud, Sigmund  (1923-001; 1923a [1922]): Libidotheorie</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/libidotheorie</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/f7c42032-fa71-4592-84c7-b265fb93ac36</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__08c0c903-68cf-43b5-a864-7dc3351b8c50"/>
-            <fw type="pageNum">219</fw> <p rendition="#level_3">II<lb/> <hi rendition="#em">Libidotheorie</hi></p><p>LIBIDO ist ein Terminus aus der Trieblehre, zur Bezeichnung des<lb/> dynamischen Ausdrucks der Sexualität schon von A. Moll in diesem Sinne<lb/> gebraucht (Untersuchungen über die Libido sexualis 1898), vom Referenten<lb/> in die <hi rendition="#smallcaps">Psychoanalyse</hi> eingeführt. Im folgenden soll nur dargestellt werden,<lb/> welche Entwicklungen, die noch nicht abgeschlossen sind, die Trieblehre<lb/> in der Psychoanalyse erfahren hat.<lb break="paragraph"/></p> <p>GEGENSATZ VON SEXUALTRIEBEN UND ICHTRIEBEN.<lb/> Die Psychoanalyse, die bald erkannte, daß sie alles seelische Geschehen über<lb/> dem Kräftespiel der elementaren Triebe aufbauen müsse, sah sich in der<lb break="paragraph"/><pb n="2" xml:id="page__69dabf21-a47b-4f22-a41a-0a3c4a948dbf"/><fw type="pageNum">220</fw>übelsten Lage, da es in der Psychologie eine Trieblehre nicht gab und ihr<lb/> niemand sagen konnte, was ein Trieb eigentlich ist. Es herrschte vollste<lb/> Willkür, jeder Psychologe pflegte solche und so viele Triebe anzunehmen,<lb/> als ihm beliebte. Das erste Erscheinungsgebiet, welches die Psychoanalyse<lb/> studierte, waren die sogenannten Übertragungsneurosen (Hysterie und Zwangs<lb break="no"/>neurose). Die Symptome derselben entstanden dadurch, daß sexuelle Trieb<lb break="no"/>regungen von der Persönlichkeit (dem Ich) abgewiesen (verdrängt) worden<lb/> waren und sich auf Umwegen durch das Unbewußte einen Ausdruck ver<lb break="no"/>schafft hatten. Somit konnte man zurechtkommen, wenn man den Sexual<lb break="no"/>trieben Ichtriebe (<hi rendition="#smallcaps">Selbsterhaltungstriebe</hi>) entgegenstellte, und befand<lb/> sich dann in Übereinstimmung mit der populär gewordenen Aussage des<lb/> Dichters, der das Weltgetriebe „durch Hunger und durch Liebe“ erhalten<lb/> werden läßt. Die Libido war in gleichem Sinne die Kraftäußerung der<lb/> Liebe, wie der Hunger des Selbsterhaltungstriebes. Die Natur der Ichtriebe<lb/> blieb dabei zunächst unbestimmt und der Analyse unzugänglich wie alle<lb/> anderen Charaktere des Ichs. Ob und welche qualitativen Unterschiede<lb/> zwischen beiden Triebarten anzunehmen sind, war nicht anzugeben.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>DIE URLIBIDO. Diese Dunkelheit versuchte C. G. <hi rendition="#smallcaps">Jung</hi> auf spekula<lb break="no"/>tivem Wege zu überwinden, indem er nur eine einzige Urlibido annahm,<lb/> die sexualisiert und desexualisiert werden konnte, und also im Wesen mit<lb/> der seelischen Energie überhaupt zusammenfiel. Diese Neuerung war metho<lb break="no"/>disch anfechtbar, sie stiftete viel Verwirrung, setzte den Terminus Libido<lb/> zu einem überflüssigen Synonym herab und mußte in der Praxis doch<lb/> immer zwischen sexueller und asexueller Libido unterscheiden. Der Unter<lb break="no"/>schied zwischen den Sexualtrieben und den Trieben mit anderen Zielen<lb/> war eben auf dem Wege einer neuen Definition nicht aufzuheben.<lb break="paragraph"/></p> <p>DIE SUBLIMIERUNG. Das bedächtige Studium der allein analytisch<lb/> zugänglichen Sexualstrebungen hatte unterdes bemerkenswerte Einzelein<lb break="no"/>sichten ergeben. Was man den Sexualtrieb nannte, war hoch zusammen<lb break="no"/>gesetzt und konnte wieder in seine Partialtriebe zerfallen. Jeder Partialtrieb<lb/> war unabänderlich charakterisiert durch seine <hi rendition="#smallcaps">Quelle</hi>, nämlich die Körper<lb break="no"/>region oder Zone, aus welcher er seine Erregung bezog. Außerdem war an<lb/> ihm ein <hi rendition="#smallcaps">Objekt</hi> und ein <hi rendition="#smallcaps">Ziel</hi> zu unterscheiden. Das Ziel war immer<lb/> die Befriedigungsabfuhr, es konnte aber eine Wandlung von der Aktivität<lb/> zur Passivität erfahren. Das Objekt hing dem Trieb minder fest an als<lb/> man zunächst gemeint hatte, es wurde leicht gegen ein anderes eingetauscht,<lb/> auch konnte der Trieb, der ein äußeres Objekt gehabt hatte, gegen die<lb break="paragraph"/><pb n="3" xml:id="page__af3ffa1c-c696-4329-ab08-ae6b68730cba"/><fw type="pageNum">221</fw>eigene Person gewendet werden. Die einzelnen Triebe konnten unabhängig<lb/> voneinander bleiben oder — in noch unvorstellbarer Weise — sich kom<lb break="no"/>binieren, zur gemeinsamen Arbeit verschmelzen. Sie konnten auch für<lb break="no"/>einander eintreten, einander ihre Libidobesetzung übertragen, so daß die<lb/> Befriedigung des einen an Stelle der Befriedigung der anderen trat. Am<lb/> bedeutsamsten erschien das Triebschicksal der <hi rendition="#smallcaps">Sublimierung</hi>, bei dem<lb/> Objekt und Ziel gewechselt werden, sodaß der ursprünglich sexuelle Trieb<lb/> nun in einer nicht mehr sexuellen, sozial oder ethisch höher gewerteten<lb/> Leistung Befriedigung findet. Alles dies sind Züge, welche sich noch zu<lb/> keinem Gesamtbild zusammensetzen.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>DER NARZISSMUS. Ein entscheidender Fortschritt erfolgte, als man<lb/> sich an die Analyse der Dementia praecox und anderer psychotischer Affek<lb break="no"/>tionen heranwagte und somit das Ich selbst zu studieren begann, das man<lb/> bisher nur als verdrängende und widerstrebende Instanz gekannt hatte. Man<lb/> erkannte als den pathogenen Vorgang bei der Demenz, daß die Libido von<lb/> den Objekten abgezogen und im Ich eingeführt wird, während die lärmenden<lb/> Krankheitserscheinungen von dem vergeblichen Bestreben der Libido her<lb break="no"/>rühren, den Rückweg zu den Objekten zu finden. Es war also möglich,<lb/> daß sich Objektlibido in Ichbesetzung umwandte, und umgekehrt. Weitere<lb/> Erwägungen zeigten, daß dieser Vorgang im größten Ausmaß anzunehmen<lb/> sei, daß das Ich vielmehr als ein großes Libidoreservoir angesehen werden<lb/> mußte, aus dem Libido auf die Objekte entsandt wird, und das immer<lb/> bereit ist, die von den Objekten rückströmende Libido aufzunehmen. Die<lb/> Selbsterhaltungstriebe waren also auch libidinöser Natur, es waren Sexual<lb break="no"/>triebe die anstatt der äußeren Objekte das eigene Ich zum Objekt genommen<lb/> hatten. Man kannte aus der klinischen Erfahrung Personen, die sich in auf<lb break="no"/>fälliger Weise so benahmen, als wären sie in sich selbst verliebt, und hatte<lb/> diese Perversion <hi rendition="#smallcaps">Narzißmus</hi> genannt. Nun hieß man die Libido der Selbst<lb break="no"/>erhaltungstriebe <hi rendition="#smallcaps">narzißtische Libido</hi> und anerkannte ein hohes Maß von<lb/> solcher Selbstliebe als den primären und normalen Zustand. Die frühere<lb/> Formel für die Übertragungsneurosen bedurfte jetzt zwar nicht einer Kor<lb break="no"/>rektur, aber doch einer Modifikation; anstatt von einem Konflikt zwischen<lb/> Sexualtrieben und Ichtrieben sprach man besser vom Konflikt zwischen<lb/> Objektlibido und Ichlibido, oder, da die Natur der Triebe dieselbe war,<lb/> zwischen den Objektbesetzungen und dem Ich.<lb break="paragraph"/></p> <p>SCHEINBARE ANNÄHERUNG AN DIE JUNGSCHE AUFFASSUNG.<lb/> Auf solche Art gewann es den Anschein, als ob auch die langsame psycho<lb break="no"/><pb n="4" xml:id="page__79fb8494-d76c-43ce-8336-9dc97841838a"/><fw type="pageNum">222</fw>analytische Forschung der Jungschen Spekulation von der Urlibido nach<lb break="no"/>gekommen wäre, besonders da mit der Umwandlung der Objektlibido in<lb/> Narzißrnus eine gewisse Desexualisierung, ein Aufgeben der speziellen Sexual<lb break="no"/>ziele, unvermeidlich verbunden ist. Indes drängt sich die Erwägung auf,<lb/> daß, wenn die Selbsterhaltungstriebe des Ichs als libidinös anerkannt sind,<lb/> damit noch nicht bewiesen ist, daß im Ich keine anderen Triebe wirken.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>DER HERDENTRIEB. Von vielen Seiten wird behauptet, daß es einen<lb/> besonderen, angeborenen und nicht weiter auflösbaren „Herdentrieb“ gibt, der<lb/> das soziale Verhalten der Menschen bestimmt, die einzelnen zur Vereinigung<lb/> in größeren Gemeinschaften drängt. Die Psychoanalyse muß dieser Auf<lb break="no"/>stellung widersprechen. Wenn der soziale Trieb auch angeboren sein mag,<lb/> so ist er doch ohne Schwierigkeit auf ursprünglich libidinöse Objekt<lb break="no"/>besetzungen zurückzuführen und entwickelt sich beim kindlichen Indivi<lb break="no"/>duum als Reaktionsbildung auf feindselige Rivalitätseinstellungen. Er beruht<lb/> auf einer besonderen Art von Identifizierung mit dem anderen.<lb break="paragraph"/></p> <p>ZIELGEHEMMTE SEXUALSTREBUNGEN. Die sozialen Triebe<lb/> gehören zu einer Klasse von Triebregungen, die man noch nicht sublimierte<lb/> zu nennen braucht, wenngleich sie diesen nahestehen. Sie haben ihre direkt<lb/> sexuellen Ziele nicht aufgegeben, werden aber von der Erreichung derselben<lb/> durch innere Widerstände abgehalten, begnügen sich mit gewissen An<lb break="no"/>näherungen an die Befriedigung und stellen gerade darum besonders feste<lb/> und dauerhafte Bindungen unter den Menschen her. Von dieser Art sind<lb/> insbesondere die ursprünglich vollsexuellen Zärtlichkeitsbeziehungen zwischen<lb/> Eltern und Kindern, die Gefühle der Freundschaft und die aus sexueller<lb/> Zuneigung hervorgegangenen Gefühlsbindungen in der Ehe.<lb break="paragraph"/></p> <p>ANERKENNUNG ZWEIER TRIEBARTEN IM SEELENLEBEN.<lb/> Während die psychoanalytische Arbeit sonst bestrebt ist, ihre Lehren mög<lb break="no"/>lichst unabhängig von denen anderer Wissenschaften zu entwickeln, sieht<lb/> sie sich doch genötigt, für die Trieblehre Anlehnung bei der Biologie zu<lb/> suchen. Auf Grund weitläufiger Erwägungen über die Vorgänge, die das<lb/> Leben ausmachen und die zum Tode führen, wird es wahrscheinlich, daß<lb/> man zwei Triebarten anzuerkennen hat, entsprechend den entgegengesetzten<lb/> Prozessen von Aufbau und Abbau im Organismus. Die einen Triebe, die<lb/> im Grunde geräuschlos arbeiten, verfolgten das Ziel, das lebende Wesen<lb/> zum Tode zu führen, verdienten darum den Namen der „<hi rendition="#smallcaps">Todestriebe</hi>“<lb/> und würden, durch das Zusammenwirken der vielen zelligen Elementar<lb break="no"/><pb n="5" xml:id="page__51ca5b1a-321b-47b8-95f3-b5f2b991a2db"/><fw type="pageNum">225</fw>organismen nach außen gewendet, als <hi rendition="#smallcaps">Destruktions</hi>- oder <hi rendition="#smallcaps">Aggressions</hi><lb break="no"/>tendenzen zum Vorschein kommen. Die anderen wären die uns analytisch<lb/> besser bekannten libidinösen Sexual- oder Lebenstriebe, am besten als Eros<lb/> zusammengefaßt, deren Absicht es wäre, aus der lebenden Substanz immer<lb/> größere Einheiten zu gestalten, somit die Fortdauer des Lebens zu erhalten<lb/> und es Zu höheren Entwicklungen zu führen. In den Lebewesen wären die<lb/> erotischen und die Todestriebe regelmäßige Vermischungen, Legierungen,<lb/> eingegangen; es wären aber auch Entmischungen derselben möglich; das<lb/> Leben bestünde in den Äußerungen des Konflikts oder der Interferenz<lb/> beider Triebarten und brächte dem Individuum den Sieg der Destruktions<lb break="no"/>triebe durch den Tod, aber auch den Sieg des Eros durch die Fortpflanzung.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>DIE NATUR DER TRIEBE. Auf dem Boden dieser Auffassung läßt<lb/> sich für die Triebe die Charakteristik geben, sie seien der lebenden Substanz<lb/> innewohnende Tendenzen zur Wiederherstellung eines früheren Zustandes,<lb/> also historisch bedingt, konservativer Natur, und gleichsam der Ausdruck<lb/> einer Trägheit oder Elastizität des Organischen. Beide Triebarten, der Eros<lb/> wie der Todestrieb, würden von der ersten Entstehung des Lebens an wirken<lb/> und gegen einander arbeiten.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__08c0c903-68cf-43b5-a864-7dc3351b8c50"/>
+        <fw type="pageNum">219</fw>
+        <p rendition="#level_3">II<lb/>
+          <hi rendition="#em">Libidotheorie</hi>
+        </p>
+        <p>LIBIDO ist ein Terminus aus der Trieblehre, zur Bezeichnung des<lb/> dynamischen Ausdrucks der Sexualität schon von A. Moll in diesem Sinne<lb/> gebraucht (Untersuchungen über die Libido sexualis 1898), vom Referenten<lb/> in die <hi rendition="#smallcaps">Psychoanalyse</hi> eingeführt. Im folgenden soll nur dargestellt werden,<lb/> welche Entwicklungen, die noch nicht abgeschlossen sind, die Trieblehre<lb/> in der Psychoanalyse erfahren hat.<lb break="paragraph"/>
+        </p>
+        <p>GEGENSATZ VON SEXUALTRIEBEN UND ICHTRIEBEN.<lb/> Die Psychoanalyse, die bald erkannte, daß sie alles seelische Geschehen über<lb/> dem Kräftespiel der elementaren Triebe aufbauen müsse, sah sich in der<lb break="paragraph"/>
+          <pb n="2" xml:id="page__69dabf21-a47b-4f22-a41a-0a3c4a948dbf"/>
+          <fw type="pageNum">220</fw>übelsten Lage, da es in der Psychologie eine Trieblehre nicht gab und ihr<lb/> niemand sagen konnte, was ein Trieb eigentlich ist. Es herrschte vollste<lb/> Willkür, jeder Psychologe pflegte solche und so viele Triebe anzunehmen,<lb/> als ihm beliebte. Das erste Erscheinungsgebiet, welches die Psychoanalyse<lb/> studierte, waren die sogenannten Übertragungsneurosen (Hysterie und Zwangs<lb break="no"/>neurose). Die Symptome derselben entstanden dadurch, daß sexuelle Trieb<lb break="no"/>regungen von der Persönlichkeit (dem Ich) abgewiesen (verdrängt) worden<lb/> waren und sich auf Umwegen durch das Unbewußte einen Ausdruck ver<lb break="no"/>schafft hatten. Somit konnte man zurechtkommen, wenn man den Sexual<lb break="no"/>trieben Ichtriebe (<hi rendition="#smallcaps">Selbsterhaltungstriebe</hi>) entgegenstellte, und befand<lb/> sich dann in Übereinstimmung mit der populär gewordenen Aussage des<lb/> Dichters, der das Weltgetriebe „durch Hunger und durch Liebe“ erhalten<lb/> werden läßt. Die Libido war in gleichem Sinne die Kraftäußerung der<lb/> Liebe, wie der Hunger des Selbsterhaltungstriebes. Die Natur der Ichtriebe<lb/> blieb dabei zunächst unbestimmt und der Analyse unzugänglich wie alle<lb/> anderen Charaktere des Ichs. Ob und welche qualitativen Unterschiede<lb/> zwischen beiden Triebarten anzunehmen sind, war nicht anzugeben.<lb break="paragraph"/>
+        </p>
+        <p>DIE URLIBIDO. Diese Dunkelheit versuchte C. G. <hi rendition="#smallcaps">Jung</hi> auf spekula<lb break="no"/>tivem Wege zu überwinden, indem er nur eine einzige Urlibido annahm,<lb/> die sexualisiert und desexualisiert werden konnte, und also im Wesen mit<lb/> der seelischen Energie überhaupt zusammenfiel. Diese Neuerung war metho<lb break="no"/>disch anfechtbar, sie stiftete viel Verwirrung, setzte den Terminus Libido<lb/> zu einem überflüssigen Synonym herab und mußte in der Praxis doch<lb/> immer zwischen sexueller und asexueller Libido unterscheiden. Der Unter<lb break="no"/>schied zwischen den Sexualtrieben und den Trieben mit anderen Zielen<lb/> war eben auf dem Wege einer neuen Definition nicht aufzuheben.<lb break="paragraph"/>
+        </p>
+        <p>DIE SUBLIMIERUNG. Das bedächtige Studium der allein analytisch<lb/> zugänglichen Sexualstrebungen hatte unterdes bemerkenswerte Einzelein<lb break="no"/>sichten ergeben. Was man den Sexualtrieb nannte, war hoch zusammen<lb break="no"/>gesetzt und konnte wieder in seine Partialtriebe zerfallen. Jeder Partialtrieb<lb/> war unabänderlich charakterisiert durch seine <hi rendition="#smallcaps">Quelle</hi>, nämlich die Körper<lb break="no"/>region oder Zone, aus welcher er seine Erregung bezog. Außerdem war an<lb/> ihm ein <hi rendition="#smallcaps">Objekt</hi> und ein <hi rendition="#smallcaps">Ziel</hi> zu unterscheiden. Das Ziel war immer<lb/> die Befriedigungsabfuhr, es konnte aber eine Wandlung von der Aktivität<lb/> zur Passivität erfahren. Das Objekt hing dem Trieb minder fest an als<lb/> man zunächst gemeint hatte, es wurde leicht gegen ein anderes eingetauscht,<lb/> auch konnte der Trieb, der ein äußeres Objekt gehabt hatte, gegen die<lb break="paragraph"/>
+          <pb n="3" xml:id="page__af3ffa1c-c696-4329-ab08-ae6b68730cba"/>
+          <fw type="pageNum">221</fw>eigene Person gewendet werden. Die einzelnen Triebe konnten unabhängig<lb/> voneinander bleiben oder — in noch unvorstellbarer Weise — sich kom<lb break="no"/>binieren, zur gemeinsamen Arbeit verschmelzen. Sie konnten auch für<lb break="no"/>einander eintreten, einander ihre Libidobesetzung übertragen, so daß die<lb/> Befriedigung des einen an Stelle der Befriedigung der anderen trat. Am<lb/> bedeutsamsten erschien das Triebschicksal der <hi rendition="#smallcaps">Sublimierung</hi>, bei dem<lb/> Objekt und Ziel gewechselt werden, sodaß der ursprünglich sexuelle Trieb<lb/> nun in einer nicht mehr sexuellen, sozial oder ethisch höher gewerteten<lb/> Leistung Befriedigung findet. Alles dies sind Züge, welche sich noch zu<lb/> keinem Gesamtbild zusammensetzen.<lb break="paragraph"/>
+        </p>
+        <p>DER NARZISSMUS. Ein entscheidender Fortschritt erfolgte, als man<lb/> sich an die Analyse der Dementia praecox und anderer psychotischer Affek<lb break="no"/>tionen heranwagte und somit das Ich selbst zu studieren begann, das man<lb/> bisher nur als verdrängende und widerstrebende Instanz gekannt hatte. Man<lb/> erkannte als den pathogenen Vorgang bei der Demenz, daß die Libido von<lb/> den Objekten abgezogen und im Ich eingeführt wird, während die lärmenden<lb/> Krankheitserscheinungen von dem vergeblichen Bestreben der Libido her<lb break="no"/>rühren, den Rückweg zu den Objekten zu finden. Es war also möglich,<lb/> daß sich Objektlibido in Ichbesetzung umwandte, und umgekehrt. Weitere<lb/> Erwägungen zeigten, daß dieser Vorgang im größten Ausmaß anzunehmen<lb/> sei, daß das Ich vielmehr als ein großes Libidoreservoir angesehen werden<lb/> mußte, aus dem Libido auf die Objekte entsandt wird, und das immer<lb/> bereit ist, die von den Objekten rückströmende Libido aufzunehmen. Die<lb/> Selbsterhaltungstriebe waren also auch libidinöser Natur, es waren Sexual<lb break="no"/>triebe die anstatt der äußeren Objekte das eigene Ich zum Objekt genommen<lb/> hatten. Man kannte aus der klinischen Erfahrung Personen, die sich in auf<lb break="no"/>fälliger Weise so benahmen, als wären sie in sich selbst verliebt, und hatte<lb/> diese Perversion <hi rendition="#smallcaps">Narzißmus</hi> genannt. Nun hieß man die Libido der Selbst<lb break="no"/>erhaltungstriebe <hi rendition="#smallcaps">narzißtische Libido</hi> und anerkannte ein hohes Maß von<lb/> solcher Selbstliebe als den primären und normalen Zustand. Die frühere<lb/> Formel für die Übertragungsneurosen bedurfte jetzt zwar nicht einer Kor<lb break="no"/>rektur, aber doch einer Modifikation; anstatt von einem Konflikt zwischen<lb/> Sexualtrieben und Ichtrieben sprach man besser vom Konflikt zwischen<lb/> Objektlibido und Ichlibido, oder, da die Natur der Triebe dieselbe war,<lb/> zwischen den Objektbesetzungen und dem Ich.<lb break="paragraph"/>
+        </p>
+        <p>SCHEINBARE ANNÄHERUNG AN DIE JUNGSCHE AUFFASSUNG.<lb/> Auf solche Art gewann es den Anschein, als ob auch die langsame psycho<lb break="no"/>
+          <pb n="4" xml:id="page__79fb8494-d76c-43ce-8336-9dc97841838a"/>
+          <fw type="pageNum">222</fw>analytische Forschung der Jungschen Spekulation von der Urlibido nach<lb break="no"/>gekommen wäre, besonders da mit der Umwandlung der Objektlibido in<lb/> Narzißrnus eine gewisse Desexualisierung, ein Aufgeben der speziellen Sexual<lb break="no"/>ziele, unvermeidlich verbunden ist. Indes drängt sich die Erwägung auf,<lb/> daß, wenn die Selbsterhaltungstriebe des Ichs als libidinös anerkannt sind,<lb/> damit noch nicht bewiesen ist, daß im Ich keine anderen Triebe wirken.<lb break="paragraph"/>
+        </p>
+        <p>DER HERDENTRIEB. Von vielen Seiten wird behauptet, daß es einen<lb/> besonderen, angeborenen und nicht weiter auflösbaren „Herdentrieb“ gibt, der<lb/> das soziale Verhalten der Menschen bestimmt, die einzelnen zur Vereinigung<lb/> in größeren Gemeinschaften drängt. Die Psychoanalyse muß dieser Auf<lb break="no"/>stellung widersprechen. Wenn der soziale Trieb auch angeboren sein mag,<lb/> so ist er doch ohne Schwierigkeit auf ursprünglich libidinöse Objekt<lb break="no"/>besetzungen zurückzuführen und entwickelt sich beim kindlichen Indivi<lb break="no"/>duum als Reaktionsbildung auf feindselige Rivalitätseinstellungen. Er beruht<lb/> auf einer besonderen Art von Identifizierung mit dem anderen.<lb break="paragraph"/>
+        </p>
+        <p>ZIELGEHEMMTE SEXUALSTREBUNGEN. Die sozialen Triebe<lb/> gehören zu einer Klasse von Triebregungen, die man noch nicht sublimierte<lb/> zu nennen braucht, wenngleich sie diesen nahestehen. Sie haben ihre direkt<lb/> sexuellen Ziele nicht aufgegeben, werden aber von der Erreichung derselben<lb/> durch innere Widerstände abgehalten, begnügen sich mit gewissen An<lb break="no"/>näherungen an die Befriedigung und stellen gerade darum besonders feste<lb/> und dauerhafte Bindungen unter den Menschen her. Von dieser Art sind<lb/> insbesondere die ursprünglich vollsexuellen Zärtlichkeitsbeziehungen zwischen<lb/> Eltern und Kindern, die Gefühle der Freundschaft und die aus sexueller<lb/> Zuneigung hervorgegangenen Gefühlsbindungen in der Ehe.<lb break="paragraph"/>
+        </p>
+        <p>ANERKENNUNG ZWEIER TRIEBARTEN IM SEELENLEBEN.<lb/> Während die psychoanalytische Arbeit sonst bestrebt ist, ihre Lehren mög<lb break="no"/>lichst unabhängig von denen anderer Wissenschaften zu entwickeln, sieht<lb/> sie sich doch genötigt, für die Trieblehre Anlehnung bei der Biologie zu<lb/> suchen. Auf Grund weitläufiger Erwägungen über die Vorgänge, die das<lb/> Leben ausmachen und die zum Tode führen, wird es wahrscheinlich, daß<lb/> man zwei Triebarten anzuerkennen hat, entsprechend den entgegengesetzten<lb/> Prozessen von Aufbau und Abbau im Organismus. Die einen Triebe, die<lb/> im Grunde geräuschlos arbeiten, verfolgten das Ziel, das lebende Wesen<lb/> zum Tode zu führen, verdienten darum den Namen der „<hi rendition="#smallcaps">Todestriebe</hi>“<lb/> und würden, durch das Zusammenwirken der vielen zelligen Elementar<lb break="no"/>
+          <pb n="5" xml:id="page__51ca5b1a-321b-47b8-95f3-b5f2b991a2db"/>
+          <fw type="pageNum">225</fw>organismen nach außen gewendet, als <hi rendition="#smallcaps">Destruktions</hi>- oder <hi rendition="#smallcaps">Aggressions</hi>
+          <lb break="no"/>tendenzen zum Vorschein kommen. Die anderen wären die uns analytisch<lb/> besser bekannten libidinösen Sexual- oder Lebenstriebe, am besten als Eros<lb/> zusammengefaßt, deren Absicht es wäre, aus der lebenden Substanz immer<lb/> größere Einheiten zu gestalten, somit die Fortdauer des Lebens zu erhalten<lb/> und es Zu höheren Entwicklungen zu führen. In den Lebewesen wären die<lb/> erotischen und die Todestriebe regelmäßige Vermischungen, Legierungen,<lb/> eingegangen; es wären aber auch Entmischungen derselben möglich; das<lb/> Leben bestünde in den Äußerungen des Konflikts oder der Interferenz<lb/> beider Triebarten und brächte dem Individuum den Sieg der Destruktions<lb break="no"/>triebe durch den Tod, aber auch den Sieg des Eros durch die Fortpflanzung.<lb break="paragraph"/>
+        </p>
+        <p>DIE NATUR DER TRIEBE. Auf dem Boden dieser Auffassung läßt<lb/> sich für die Triebe die Charakteristik geben, sie seien der lebenden Substanz<lb/> innewohnende Tendenzen zur Wiederherstellung eines früheren Zustandes,<lb/> also historisch bedingt, konservativer Natur, und gleichsam der Ausdruck<lb/> einer Trägheit oder Elastizität des Organischen. Beide Triebarten, der Eros<lb/> wie der Todestrieb, würden von der ersten Entstehung des Lebens an wirken<lb/> und gegen einander arbeiten.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

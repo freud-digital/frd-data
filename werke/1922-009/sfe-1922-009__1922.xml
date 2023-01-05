@@ -1,216 +1,266 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1922-009): Freud, Sigmund [›Who’s Who‹]</title>
-            <title type="manifestation" level="a">Freud, Sigmund (1922-009/1922)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1922-009): Freud, Sigmund [›Who’s Who‹]</title>
+        <title type="manifestation" level="a">Freud, Sigmund (1922-009/1922)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1922-009-1922" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Freud, Sigmund</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Who’s Who</title>
-                     <title type="publication-sub">An annual biographical dictionary with which is incorporated "Men and Women of the Time"</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__fcfe6fa9-000c-41fb-8227-cfe3bbce349c">Black, Charles</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>London</pubPlace>
-                        <date when="1922-01-01">1922-01-01</date>
-                     </imprint>
-                     <extent>977</extent>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__1900839b-2bd5-426c-bf5d-dd16eccd90ed">
-                        <title>Freud, Sigmund</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-009-1922" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Freud, Sigmund</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Who’s Who</title>
+              <title type="publication-sub">An annual biographical dictionary with which is incorporated "Men and Women of the Time"</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__fcfe6fa9-000c-41fb-8227-cfe3bbce349c">Black, Charles</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>977</extent>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__1900839b-2bd5-426c-bf5d-dd16eccd90ed">
+                <title>Freud, Sigmund</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1922-009/1922</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-5</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1900839b-2bd5-426c-bf5d-dd16eccd90ed</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__d1dc4495-c9cc-49f7-9660-8d2f19cd2b10">
-                              <title>Freud, Sigmund  (1922-009): Freud, Sigmund [›Who’s Who‹]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-whos-who</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/d1dc4495-c9cc-49f7-9660-8d2f19cd2b10</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1922-009/1922</idno>
+                <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/druckversion-5</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/1900839b-2bd5-426c-bf5d-dd16eccd90ed</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__d1dc4495-c9cc-49f7-9660-8d2f19cd2b10">
+                    <title>Freud, Sigmund  (1922-009): Freud, Sigmund [›Who’s Who‹]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/freud-sigmund-whos-who</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/d1dc4495-c9cc-49f7-9660-8d2f19cd2b10</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-30">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__d00ddf2b-3a29-4c03-a2b6-acf8a4552e95"/>
-            <p>VVHO'S WHO<lb break="paragraph"/></p> <p>AN 'ANNUAL<lb/> BIOGRAPHICAL' D ICTI ONARY<lb/> WITH'WHICH<lb/> IS°INCORPORATED<lb break="paragraph"/></p> <p>"MEN-ANDWOMENOFTHE-TIME"<lb break="paragraph"/></p> <p>’UBLISHED - BY ' A - &amp;- ' C ' BLACK" LIMITED<lb/> % 5 ' &amp;; 6 - SOHO ' SQUARE -‘1.0NDON ' W-l<lb break="paragraph"/></p> <p>_Pn'nled in Great Brilal'n ty R. b' R. Cini. Limited. Edinhrgt.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__505a6874-134d-463c-acda-aaf42ab0247c"/>
-            <p>WIIO'B WHO, 1952<lb break="paragraph"/></p> <p>in. Ink. Flamme. d. anti .m, Rev. Robert En '.<lb/> Blubu o! Cnpemwu : va ;. (,wu d.; in ,<lb/> Be. ee Mury, ,1. of Rich-rd Whlsh Brlgmm.<lb/> ll.ß. nnd lila ILN., of Beymm-, Byrln; four ll.<lb/> 0nlniued 1857; Cilmßol Ella Wlit.nki ”Hai 11.<lb/> New Zeallnd, lSST-SS; BD. John. Wliko -'<lb/> N.Z„ 1888-00; Vieuof Wlihlki, 189595; '<lb/> ul \Vlitnfarl, 1395-97; Clll'l'ß of 8tlnfu‘ni in the<lb/> Vale, Bel'ku, 1597—99; Vim o! Tilxlleui. mm<lb break="no"/>1001 : Rück)! of Boanllal‘lüvlßlghbertml.<lb/> 11063; 0.9, 191549. Alklrc-B: Hayden BM'MI.'}'.<lb break="paragraph"/></p> <p>Din.<lb/> PR!!! Rev. WIR" now-m; b. 1865;<lb/> !. of Phillp l-lowml Fun of mm. Hmm, .<lb/> Cumll. mm..- sum: of Trlu. 0011. c....<lb break="no"/>blidgo (Ist cluss Clmle»). Wells '!!leulbxll'al<lb/> . 1386&lt;7; nl). una; Ullmul „r b".upney<lb/> Puls Cllumh. 1857-92; since um. uemburo<lb/> the Community of m Raulreeliuu; Enm<lb/> ﬂug Chapluin m m; Bishl3; nl“ southwnrk. 180<lb/> 1909; Selecleuelmru mbrldgn, mel,mu.<lb/> um! 1lll:l.uml0xford, 1018.1D14;ällperiorafﬂm<lb/> Community of um llauneell.m, mol—m. und<lb/> um»! mu Puthiom: 'l1loblnrinnßewliuu.<lb/> l896; Bunum Cardu. 1597; Thu Use of Barum.<lb/> ! vuls., 1598 und um; New Hlmnr nl um<lb/> Book of Common I’myur, ml ; Engllniz (:|-uqu<lb/> Bimry. 1558-1024; Rund-n Cllumll Hismry,<lb/> ms; wrlwr null editor or othur hlﬂ.oriclll |an<lb/> llburgl'lal books. Ad.1m.u- Hamm »! me nu<lb break="no"/>surrection. Min-held. T '<lb/> P R n l u P l B I. n u; ,<lb/> H.;, Hau. D.C I..- ll. 21 Apr. 184.5; 0. .. u!hw<lb/> &amp; R. Fruh dbmoke Park. Sum und<lb/> June.d. an.“ .Cm.-m.d. untl-onen ofAlpim<lb break="no"/>B w.yn,unl A1’ourln um Grimm; 1u.Augueßn<lb/> (: „um: 4. leue,=.u.anm Holm. w mwm.:,<lb/> Alivm@ e|lul1 nt Culcuﬂa. 1W. (nur «.<lb/> Bd_uc.: Rum; Univ. Coll. 0xlzml. Dart. mu;<lb/> edmni Alpme .lmmul, ls72-50; Mamba nl<lb/> Council ILO.B. 1878-94 und 1905; mm 01 Bon.<lb/> &amp;nmhrleu. wenn; Foundar'l Gum man.<lb/> 19% ; Vice-l‘rwidunt. 190l-19; Prelklont Alpine<lb/> (_.lu_h. man-95; Preuidnllh, Royal Geoyn &gt;hlcll<lb/> ben-why, ll&gt;lA—l7; Pmidmt Gmgmphlcll 891:<lb break="no"/>u«. nnuun Ami-clan. um; 'Pnlasum<lb/> llonun mluuy; mann af«u;. mm..<lb/> tion of Geogmplklﬂl Tuclwnl, warum;<lb/> Clnlnnm of the Society of Aulllm, wow;<lb/> lua tmvelled beyond haben lm-.kn iu Ju ,<lb/> l.lla Hlmllnyl, Ugmdu. Syrlu, Algerln, the <lb break="no"/>mus, Armonlu, Coral-n. um Apeunmu, und<lb/> mm mm of um Alle region. Pubtdmll'alu:<lb/> Tnvulx ln th. Gum-ul (human und Bahn,<lb/> law; The Inn» Alp-. 1875; 'The Expluntlun<lb/> of the (hun-,un. law; Round Kunschuujun<lb/> um; H1nnlllul mm mm. um; vum nu<lb/> Hm». mu; Lil: or a. u de Hmm-m.<lb/> "um; edllov of Alpin- Jourunl, una;<lb/> edll'4zr two ndluonn n! Inu-ny'u Swluurlmd,<lb/> lud ulnl,ealllcr of Boy-l Gucgnphlul Boulety'u<lb/> lin- m 'l'rlvellerl. usa. me. 1 Manu<lb/> “man lnvol, mnunuln upluntiun. climbing.<lb/> mluwlng. Addml:Wych Oma. Blau, Fomt<lb/> lhw, Sun-ex. T.A. .- mmm,u an; T.:<lb/> Forest Ruw.ﬂ. (Mb-: Ah!-mann. Unibad<lb/> Unlvmlty. Alpine. Am.<lb/> „wma; ‘.*;°‘<lb/> 0 |... no M.A..<lb/> mr.. m (hmlrrhx° Hanau,”?! m:.<lb/> D.;-:llgräloPäyilglcn m Wubüm skin kg:-g lm;<lb/> . Georuu'l o- ul; nm<lb break="no"/>|» um Vunm..l mm. sl. Georgß'. HuspiL-nl;<lb/> Fallen Boyd Baum. nr Hudiulne‘ Number<lb/> Baum. Olmllrldß nlvunlty; ». éolnlmk,<lb/> Buch: L of Jo hmm-m, m Wlllon,<lb/> Oolnbmk; ». lm. ld; Hurir.l, d. o! R. n.<lb/> “Milo. Dndeellnu om :. one «1. mm.:<lb/> Wal-nimm: Scham Trlnny Collage, c..»<lb break="no"/>bﬂdne ; un George”- Bouplül ; wm nur! am<lb/> Unlveniuun. waun1n Nut. 8eienee Trlpou,<lb/> Couub.. then ult.nnee mholmlle n sv. Gnolxo'u<lb/> Homlglbnl; um unlirylnu held m-lum lmplml<lb/> nummmmu. lullnd ln Diueum or<lb break="paragraph"/></p> <p>PklwlN-LATON<lb break="paragraph"/></p> <p>ln-Chnpellu Unim'lliet; was Il|\pl1inbed h:<lb/> 11.00 in charge of riuglmrnl use». Bla.<lb/> nul1leruus<lb break="paragraph"/></p> <p>'! I BnlpltaL Publiqu -'<lb break="paragraph"/></p> <p>."l‘.: hnghllll Mu.<lb/> .] null)! Coultituünnll. _<lb break="paragraph"/></p> <p>PRBVD, “mund, DLD., LL,D.:_ Prutuuor<lb/> of Neumlogy, \'lemu Univmlty, nmel me;<lb/> ?Wchonnulyst: b. Freiberg, Konl'ia 0 Bl<lb/> 85«;m.1880; Lhreekﬂll’ßﬂd. Educ.. Vlemm'<lb/> ßllpell’iöl'e. Plu'll. MJ). 1551; Pri\'lldnuuli.<lb/> 1885; Pml. .-.mwnl., ma; LL,D.mn.)cm-k<lb/> Unirelwilly “'omtster. Null.. 1909' Title me.<lb/> ord. um. 1‘ubh'ouliml: . Au sung del<lb break="no"/>Aphul'ell, läﬂil' Einﬂuß mungen. 1591-9591;<lb/> Suudlen ühcr kyn'erh null. J. Brauer), 18Da<lb/> Trluundeuhung, Nil) uychopuﬂnologlo de<lb/> Allugulebenu, m . den Traum, 1901;<lb/> Wiuundueilm Kerle] ugz.UnboqunJ "<lb break="no"/>8 Ahbmdlungen z. Semlﬂleorle, 1005; Wlllu<lb/> uud 1'riuune, in Jemen's Glurlil'l 1907 ; Klud<lb break="no"/>hﬂlMl-illnerulllg du Leonardo Vlncl, ID“);<lb/> Slnlllllnug klelner Schriwa :.<lb/> erbte 'bls view: Folge 1M- , I’P5Y°<lb break="paragraph"/></p> <p>e (0rlgln und e\'ulopmenn of Puydlo<lb break="no"/>Au- ‘s) 1910; Vorlalmgen :. Eluflllmmg ln<lb/> un.- Pn mmlyne, um ; raum und um, uns;<lb/> Jenna"; den Lunl.pulnzlpc, 1920; Blumenpuy_<lb/> uhlllug'ie nur] Annlysß du; Ich; “HI; COM-N‘<lb/> blltionn to Internat. Zeit:le nu— Plycho<lb break="no"/>nnulyue,nnd [m.-um; Editor onmu 01 sohrlll.en<lb/> lnrlmgewnndtel'l Seelcllkunlh l.-x(‘ll!x mm<lb break="no"/>m- of alle lnmrnnuonnl Jam-mu ar i&gt;xycho<lb break="no"/>Anllyniu, etc.; mut a! um puhllexclom nn<lb/> mnulumcl imo English md other hngungen.<lb/> Adalmu: Bu m 10 irnnl IX.<lb break="paragraph"/></p> <p>rnswnu, mu al. hin. mm<lb/> mm D. le Nov. 1886: |. of Col. Stephan<lb/> F‘rewen-laton, („., xml Emily Alu;qu 4. of<lb/> Wurm w. n. Peauocku. of Kl‘l'nrd l’urk. Hmm:<lb/> ill. 1917, Clmlin: M=fumh, .. IL uf Edward<lb/> Wilmot8itwell. (ll &amp; !llhy Home. 8mlllny,<lb/> Del‘byl'him; mw ;. uns 1. mm:, : \Vlncheehel'.<lb/> Jollllsd 4bll Butt. Kill ’! Roy-l Blﬂul, mus;<lb/> uerved ul. home und n Inlill; left in 1011:<lb/> mtumnd (or the Wu; mved vllth “nach BIN,<lb/> King’u |!»an unten, in ihnen. l'or l.wmlJy—nne<lb/> monlhl, lud wnlnluﬂed Hut. hlthlion fm- ulx<lb/> months. Inclmilng the Sol-ums blltl_e (D.S.O.,<lb/> deepul.clleu Lwicu). Ruvmt(md: Illlllng,»lnoob<lb/> In]. hunting. Addral: Ohndum lluugmvo<lb/> n:ﬁmmn' Sommer.. Club: Nun] un<lb break="paragraph"/></p> <p>_ .<lb break="paragraph"/></p> <p>PER HN, Murnau ﬂ.l'. North.<lb/> Fall Cork, IMO—ll; J.P. oe. G-lu1y Ill-l<lb/> Dark; |. er Im Thom-u Frawen. M.P. S.<lb/> [gieeulgnhlru1 b. 1858 : m. (}}-m. li. of Mon-ni<lb/> hmm! of NI). Yurk; “rn :. OIM d.<lb/> ’l'rinfl. Golluge. Cunhrldgc an.) A VI<lb/> Pre-i ent lmporixl Fedenuon Lungau. und u<lb/> fruquenh Writer In the Bowlen an economic<lb break="paragraph"/></p> <p>lblamn, nur ...u um Exdlnngßn. Bl!<lb break="paragraph"/></p> <p>Vellerl exhuulvuly. MW: The Bar<lb/> nomlc Crlzla, etc. Adam: Bude Pina.<lb/> tin-nl, T.A. : man, London. Club:<lb/> ürltnll.<lb break="paragraph"/></p> <p>Se: uhu ﬂlrl. C. Snﬂﬁdlll.<lb break="paragraph"/></p> <p>PRBWEN-LA'I'ON, Golannl l”lﬂ'll<lb/> J,P. ; „und; b. 11 Aug isn; m. Emily. ind<lb/> url-u M, R. Pumke, Eﬂ'lmi Puk, um“; hm<lb/> !. ons d. Ruine. : Trinity Call 0, (&gt;mbrlrIn-I<lb/> Enlm'ed mu kaum. um; vum. 1586.<lb/> "der, Im; Lt.&amp;lonel. lm; A-D.O. 1.0 In:<lb/> ulncbur«üunml al 0-vulry. Inlund, lese-m).<lb break="paragraph"/></p> <p>A um“; Yaman üvulry. !DO'I—G; D.AA<lb break="paragraph"/></p> <p>nm Q.H.G.. Ban-mad». 1m;A„A.-ndü ' .<lb break="paragraph"/></p> <p>am. (Wald!) Divluloll. ﬂ' m:. 1- nrw!<lb break="paragraph"/></p> <p>South Abi-n. 1900 (ng;- ., Quec- 1 modul,<lb break="paragraph"/></p> <p>B ﬁll!“ ; mmmunrlml ll!ßh Lamm In lblli|fuf<lb break="paragraph"/></p> <p>),;|„.}„,Ly .,..1 Eurdubelß Holy : ;. :. hl.. -Unl.<lb break="paragraph"/></p> <p>an n<lb/> t. . ßldn “ler ttudy man. Berlin, und Air<lb break="no"/></p> <p>hwn Emmen, q.l. ddr-n: Clls;%ull Nu»<lb break="no"/></p> <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__d00ddf2b-3a29-4c03-a2b6-acf8a4552e95"/>
+        <p>VVHO'S WHO<lb break="paragraph"/>
+        </p>
+        <p>AN 'ANNUAL<lb/> BIOGRAPHICAL' D ICTI ONARY<lb/> WITH'WHICH<lb/> IS°INCORPORATED<lb break="paragraph"/>
+        </p>
+        <p>"MEN-ANDWOMENOFTHE-TIME"<lb break="paragraph"/>
+        </p>
+        <p>’UBLISHED - BY ' A - &amp;- ' C ' BLACK" LIMITED<lb/> % 5 ' &amp;; 6 - SOHO ' SQUARE -‘1.0NDON ' W-l<lb break="paragraph"/>
+        </p>
+        <p>_Pn'nled in Great Brilal'n ty R. b' R. Cini. Limited. Edinhrgt.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__505a6874-134d-463c-acda-aaf42ab0247c"/>
+        <p>WIIO'B WHO, 1952<lb break="paragraph"/>
+        </p>
+        <p>in. Ink. Flamme. d. anti .m, Rev. Robert En '.<lb/> Blubu o! Cnpemwu : va ;. (,wu d.; in ,<lb/> Be. ee Mury, ,1. of Rich-rd Whlsh Brlgmm.<lb/> ll.ß. nnd lila ILN., of Beymm-, Byrln; four ll.<lb/> 0nlniued 1857; Cilmßol Ella Wlit.nki ”Hai 11.<lb/> New Zeallnd, lSST-SS; BD. John. Wliko -'<lb/> N.Z„ 1888-00; Vieuof Wlihlki, 189595; '<lb/> ul \Vlitnfarl, 1395-97; Clll'l'ß of 8tlnfu‘ni in the<lb/> Vale, Bel'ku, 1597—99; Vim o! Tilxlleui. mm<lb break="no"/>1001 : Rück)! of Boanllal‘lüvlßlghbertml.<lb/> 11063; 0.9, 191549. Alklrc-B: Hayden BM'MI.'}'.<lb break="paragraph"/>
+        </p>
+        <p>Din.<lb/> PR!!! Rev. WIR" now-m; b. 1865;<lb/> !. of Phillp l-lowml Fun of mm. Hmm, .<lb/> Cumll. mm..- sum: of Trlu. 0011. c....<lb break="no"/>blidgo (Ist cluss Clmle»). Wells '!!leulbxll'al<lb/> . 1386&lt;7; nl). una; Ullmul „r b".upney<lb/> Puls Cllumh. 1857-92; since um. uemburo<lb/> the Community of m Raulreeliuu; Enm<lb/> ﬂug Chapluin m m; Bishl3; nl“ southwnrk. 180<lb/> 1909; Selecleuelmru mbrldgn, mel,mu.<lb/> um! 1lll:l.uml0xford, 1018.1D14;ällperiorafﬂm<lb/> Community of um llauneell.m, mol—m. und<lb/> um»! mu Puthiom: 'l1loblnrinnßewliuu.<lb/> l896; Bunum Cardu. 1597; Thu Use of Barum.<lb/> ! vuls., 1598 und um; New Hlmnr nl um<lb/> Book of Common I’myur, ml ; Engllniz (:|-uqu<lb/> Bimry. 1558-1024; Rund-n Cllumll Hismry,<lb/> ms; wrlwr null editor or othur hlﬂ.oriclll |an<lb/> llburgl'lal books. Ad.1m.u- Hamm »! me nu<lb break="no"/>surrection. Min-held. T '<lb/> P R n l u P l B I. n u; ,<lb/> H.;, Hau. D.C I..- ll. 21 Apr. 184.5; 0. .. u!hw<lb/> &amp; R. Fruh dbmoke Park. Sum und<lb/> June.d. an.“ .Cm.-m.d. untl-onen ofAlpim<lb break="no"/>B w.yn,unl A1’ourln um Grimm; 1u.Augueßn<lb/> (: „um: 4. leue,=.u.anm Holm. w mwm.:,<lb/> Alivm@ e|lul1 nt Culcuﬂa. 1W. (nur «.<lb/> Bd_uc.: Rum; Univ. Coll. 0xlzml. Dart. mu;<lb/> edmni Alpme .lmmul, ls72-50; Mamba nl<lb/> Council ILO.B. 1878-94 und 1905; mm 01 Bon.<lb/> &amp;nmhrleu. wenn; Foundar'l Gum man.<lb/> 19% ; Vice-l‘rwidunt. 190l-19; Prelklont Alpine<lb/> (_.lu_h. man-95; Preuidnllh, Royal Geoyn &gt;hlcll<lb/> ben-why, ll&gt;lA—l7; Pmidmt Gmgmphlcll 891:<lb break="no"/>u«. nnuun Ami-clan. um; 'Pnlasum<lb/> llonun mluuy; mann af«u;. mm..<lb/> tion of Geogmplklﬂl Tuclwnl, warum;<lb/> Clnlnnm of the Society of Aulllm, wow;<lb/> lua tmvelled beyond haben lm-.kn iu Ju ,<lb/> l.lla Hlmllnyl, Ugmdu. Syrlu, Algerln, the <lb break="no"/>mus, Armonlu, Coral-n. um Apeunmu, und<lb/> mm mm of um Alle region. Pubtdmll'alu:<lb/> Tnvulx ln th. Gum-ul (human und Bahn,<lb/> law; The Inn» Alp-. 1875; 'The Expluntlun<lb/> of the (hun-,un. law; Round Kunschuujun<lb/> um; H1nnlllul mm mm. um; vum nu<lb/> Hm». mu; Lil: or a. u de Hmm-m.<lb/> "um; edllov of Alpin- Jourunl, una;<lb/> edll'4zr two ndluonn n! Inu-ny'u Swluurlmd,<lb/> lud ulnl,ealllcr of Boy-l Gucgnphlul Boulety'u<lb/> lin- m 'l'rlvellerl. usa. me. 1 Manu<lb/> “man lnvol, mnunuln upluntiun. climbing.<lb/> mluwlng. Addml:Wych Oma. Blau, Fomt<lb/> lhw, Sun-ex. T.A. .- mmm,u an; T.:<lb/> Forest Ruw.ﬂ. (Mb-: Ah!-mann. Unibad<lb/> Unlvmlty. Alpine. Am.<lb/> „wma; ‘.*;°‘<lb/> 0 |... no M.A..<lb/> mr.. m (hmlrrhx° Hanau,”?! m:.<lb/> D.;-:llgräloPäyilglcn m Wubüm skin kg:-g lm;<lb/> . Georuu'l o- ul; nm<lb break="no"/>|» um Vunm..l mm. sl. Georgß'. HuspiL-nl;<lb/> Fallen Boyd Baum. nr Hudiulne‘ Number<lb/> Baum. Olmllrldß nlvunlty; ». éolnlmk,<lb/> Buch: L of Jo hmm-m, m Wlllon,<lb/> Oolnbmk; ». lm. ld; Hurir.l, d. o! R. n.<lb/> “Milo. Dndeellnu om :. one «1. mm.:<lb/> Wal-nimm: Scham Trlnny Collage, c..»<lb break="no"/>bﬂdne ; un George”- Bouplül ; wm nur! am<lb/> Unlveniuun. waun1n Nut. 8eienee Trlpou,<lb/> Couub.. then ult.nnee mholmlle n sv. Gnolxo'u<lb/> Homlglbnl; um unlirylnu held m-lum lmplml<lb/> nummmmu. lullnd ln Diueum or<lb break="paragraph"/>
+        </p>
+        <p>PklwlN-LATON<lb break="paragraph"/>
+        </p>
+        <p>ln-Chnpellu Unim'lliet; was Il|\pl1inbed h:<lb/> 11.00 in charge of riuglmrnl use». Bla.<lb/> nul1leruus<lb break="paragraph"/>
+        </p>
+        <p>'! I BnlpltaL Publiqu -'<lb break="paragraph"/>
+        </p>
+        <p>."l‘.: hnghllll Mu.<lb/> .] null)! Coultituünnll. _<lb break="paragraph"/>
+        </p>
+        <p>PRBVD, “mund, DLD., LL,D.:_ Prutuuor<lb/> of Neumlogy, \'lemu Univmlty, nmel me;<lb/> ?Wchonnulyst: b. Freiberg, Konl'ia 0 Bl<lb/> 85«;m.1880; Lhreekﬂll’ßﬂd. Educ.. Vlemm'<lb/> ßllpell’iöl'e. Plu'll. MJ). 1551; Pri\'lldnuuli.<lb/> 1885; Pml. .-.mwnl., ma; LL,D.mn.)cm-k<lb/> Unirelwilly “'omtster. Null.. 1909' Title me.<lb/> ord. um. 1‘ubh'ouliml: . Au sung del<lb break="no"/>Aphul'ell, läﬂil' Einﬂuß mungen. 1591-9591;<lb/> Suudlen ühcr kyn'erh null. J. Brauer), 18Da<lb/> Trluundeuhung, Nil) uychopuﬂnologlo de<lb/> Allugulebenu, m . den Traum, 1901;<lb/> Wiuundueilm Kerle] ugz.UnboqunJ "<lb break="no"/>8 Ahbmdlungen z. Semlﬂleorle, 1005; Wlllu<lb/> uud 1'riuune, in Jemen's Glurlil'l 1907 ; Klud<lb break="no"/>hﬂlMl-illnerulllg du Leonardo Vlncl, ID“);<lb/> Slnlllllnug klelner Schriwa :.<lb/> erbte 'bls view: Folge 1M- , I’P5Y°<lb break="paragraph"/>
+        </p>
+        <p>e (0rlgln und e\'ulopmenn of Puydlo<lb break="no"/>Au- ‘s) 1910; Vorlalmgen :. Eluflllmmg ln<lb/> un.- Pn mmlyne, um ; raum und um, uns;<lb/> Jenna"; den Lunl.pulnzlpc, 1920; Blumenpuy_<lb/> uhlllug'ie nur] Annlysß du; Ich; “HI; COM-N‘<lb/> blltionn to Internat. Zeit:le nu— Plycho<lb break="no"/>nnulyue,nnd [m.-um; Editor onmu 01 sohrlll.en<lb/> lnrlmgewnndtel'l Seelcllkunlh l.-x(‘ll!x mm<lb break="no"/>m- of alle lnmrnnuonnl Jam-mu ar i&gt;xycho<lb break="no"/>Anllyniu, etc.; mut a! um puhllexclom nn<lb/> mnulumcl imo English md other hngungen.<lb/> Adalmu: Bu m 10 irnnl IX.<lb break="paragraph"/>
+        </p>
+        <p>rnswnu, mu al. hin. mm<lb/> mm D. le Nov. 1886: |. of Col. Stephan<lb/> F‘rewen-laton, („., xml Emily Alu;qu 4. of<lb/> Wurm w. n. Peauocku. of Kl‘l'nrd l’urk. Hmm:<lb/> ill. 1917, Clmlin: M=fumh, .. IL uf Edward<lb/> Wilmot8itwell. (ll &amp; !llhy Home. 8mlllny,<lb/> Del‘byl'him; mw ;. uns 1. mm:, : \Vlncheehel'.<lb/> Jollllsd 4bll Butt. Kill ’! Roy-l Blﬂul, mus;<lb/> uerved ul. home und n Inlill; left in 1011:<lb/> mtumnd (or the Wu; mved vllth “nach BIN,<lb/> King’u |!»an unten, in ihnen. l'or l.wmlJy—nne<lb/> monlhl, lud wnlnluﬂed Hut. hlthlion fm- ulx<lb/> months. Inclmilng the Sol-ums blltl_e (D.S.O.,<lb/> deepul.clleu Lwicu). Ruvmt(md: Illlllng,»lnoob<lb/> In]. hunting. Addral: Ohndum lluugmvo<lb/> n:ﬁmmn' Sommer.. Club: Nun] un<lb break="paragraph"/>
+        </p>
+        <p>_ .<lb break="paragraph"/>
+        </p>
+        <p>PER HN, Murnau ﬂ.l'. North.<lb/> Fall Cork, IMO—ll; J.P. oe. G-lu1y Ill-l<lb/> Dark; |. er Im Thom-u Frawen. M.P. S.<lb/> [gieeulgnhlru1 b. 1858 : m. (}}-m. li. of Mon-ni<lb/> hmm! of NI). Yurk; “rn :. OIM d.<lb/> ’l'rinfl. Golluge. Cunhrldgc an.) A VI<lb/> Pre-i ent lmporixl Fedenuon Lungau. und u<lb/> fruquenh Writer In the Bowlen an economic<lb break="paragraph"/>
+        </p>
+        <p>lblamn, nur ...u um Exdlnngßn. Bl!<lb break="paragraph"/>
+        </p>
+        <p>Vellerl exhuulvuly. MW: The Bar<lb/> nomlc Crlzla, etc. Adam: Bude Pina.<lb/> tin-nl, T.A. : man, London. Club:<lb/> ürltnll.<lb break="paragraph"/>
+        </p>
+        <p>Se: uhu ﬂlrl. C. Snﬂﬁdlll.<lb break="paragraph"/>
+        </p>
+        <p>PRBWEN-LA'I'ON, Golannl l”lﬂ'll<lb/> J,P. ; „und; b. 11 Aug isn; m. Emily. ind<lb/> url-u M, R. Pumke, Eﬂ'lmi Puk, um“; hm<lb/> !. ons d. Ruine. : Trinity Call 0, (&gt;mbrlrIn-I<lb/> Enlm'ed mu kaum. um; vum. 1586.<lb/> "der, Im; Lt.&amp;lonel. lm; A-D.O. 1.0 In:<lb/> ulncbur«üunml al 0-vulry. Inlund, lese-m).<lb break="paragraph"/>
+        </p>
+        <p>A um“; Yaman üvulry. !DO'I—G; D.AA<lb break="paragraph"/>
+        </p>
+        <p>nm Q.H.G.. Ban-mad». 1m;A„A.-ndü ' .<lb break="paragraph"/>
+        </p>
+        <p>am. (Wald!) Divluloll. ﬂ' m:. 1- nrw!<lb break="paragraph"/>
+        </p>
+        <p>South Abi-n. 1900 (ng;- ., Quec- 1 modul,<lb break="paragraph"/>
+        </p>
+        <p>B ﬁll!“ ; mmmunrlml ll!ßh Lamm In lblli|fuf<lb break="paragraph"/>
+        </p>
+        <p>),;|„.}„,Ly .,..1 Eurdubelß Holy : ;. :. hl.. -Unl.<lb break="paragraph"/>
+        </p>
+        <p>an n<lb/> t. . ßldn “ler ttudy man. Berlin, und Air<lb break="no"/>
+        </p>
+        <p>hwn Emmen, q.l. ddr-n: Clls;%ull Nu»<lb break="no"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

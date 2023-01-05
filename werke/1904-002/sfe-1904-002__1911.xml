@@ -1,359 +1,384 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-            <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1911)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+        <title type="manifestation" level="a">Die Freudsche psychoanalytische Methode (1904-002/1911)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="comment_intern">
-               <p>OCR korr., SL, S. 1-7</p>
-<p>2. OCR korr KK</p>
-            </note>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1904-002-1920">
-                     <analytic>
-                        <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                        <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                        <title type="publication-short">SKSN 1 (3. Auflage)</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1920-01-01">1920-01-01</date>
-                        </imprint>
-<extent>219 Seiten</extent>                        <biblScope unit="volume">1. Folge</biblScope>
-                        <biblScope unit="issue">3. unveränderte Auflage</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1904-002-1906">
-                     <analytic>
-                        <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                        <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                        <title type="publication-short">SKSN 1</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1906-01-01">1906-01-01</date>
-                        </imprint>
-<extent>224 Seiten</extent>                        <biblScope unit="volume">1. Folge</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1904-002-1904">
-                     <analytic>
-                        <title type="manifestation">Die Freud’sche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Die psychischen Zwangserscheinungen</title>
-                        <title type="publication-sub">Auf klinischer Grundlage dargestellt</title>
-                        <title type="publication-short"/>
-                        <imprint>
-                           <pubPlace>Wiesbaden</pubPlace>
-                           <date when="1904-01-01">1904-01-01</date>
-                        </imprint>
-<extent>551 Seiten</extent>                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1904-002-1924">
-                     <analytic>
-                        <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1924-01-01">1924-01-01</date>
-                        </imprint>
-<extent>10 Seiten</extent>                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1904-002-1925">
-                     <analytic>
-                        <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">GS 6</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1925-01-01">1925-01-01</date>
-                        </imprint>
-<extent>10 Seiten</extent>                        <biblScope unit="volume">6. Band</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1904-002-1922">
-                     <analytic>
-                        <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                        <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                        <title type="publication-short">SKSN 1 (4. Auflage)</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Wien</pubPlace>
-                           <date when="1922-01-01">1922-01-01</date>
-                        </imprint>
-<extent>219 Seiten</extent>                        <biblScope unit="volume">1. Folge</biblScope>
-                        <biblScope unit="issue">4. unveränderte Auflage</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1904-002-1911" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
-                     <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
-                     <title type="publication-short">SKSN 1 (2. Auflage)</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1911-01-01">1911-01-01</date>
-                     </imprint>
-                     <extent>219 Seiten</extent>
-                     <biblScope unit="volume">1. Folge</biblScope>
-                     <biblScope unit="issue">2. unveränderte Auflage</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__8aa18cde-e8f5-4e98-b547-471460e0fa25">
-                        <title>Die Freudsche psychoanalytische Methode</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="comment_intern">
+          <p>OCR korr., SL, S. 1-7</p>
+          <p>2. OCR korr KK</p>
+        </note>
+      </notesStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1904-002-1920">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+              <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+              <title type="publication-short">SKSN 1 (3. Auflage)</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1920-01-01">1920-01-01</date>
+              </imprint>
+              <extent>219 Seiten</extent>
+              <biblScope unit="volume">1. Folge</biblScope>
+              <biblScope unit="issue">3. unveränderte Auflage</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1906">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+              <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+              <title type="publication-short">SKSN 1</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1906-01-01">1906-01-01</date>
+              </imprint>
+              <extent>224 Seiten</extent>
+              <biblScope unit="volume">1. Folge</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1904">
+            <analytic>
+              <title type="manifestation">Die Freud’sche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Die psychischen Zwangserscheinungen</title>
+              <title type="publication-sub">Auf klinischer Grundlage dargestellt</title>
+              <title type="publication-short"/>
+              <imprint>
+                <pubPlace>Wiesbaden</pubPlace>
+                <date when="1904-01-01">1904-01-01</date>
+              </imprint>
+              <extent>551 Seiten</extent>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1924">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Zur Technik der Psychoanalyse und zur Metapsychologie</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1924-01-01">1924-01-01</date>
+              </imprint>
+              <extent>10 Seiten</extent>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1925">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 6</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1925-01-01">1925-01-01</date>
+              </imprint>
+              <extent>10 Seiten</extent>
+              <biblScope unit="volume">6. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1922">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+              <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+              <title type="publication-short">SKSN 1 (4. Auflage)</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>219 Seiten</extent>
+              <biblScope unit="volume">1. Folge</biblScope>
+              <biblScope unit="issue">4. unveränderte Auflage</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1904-002-1911" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Die Freudsche psychoanalytische Methode</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Sammlung kleiner Schriften zur Neurosenlehre</title>
+              <title type="publication-sub">[Sammlung kleiner Schriften zur Neurosenlehre aus den Jahren 1893-1906]</title>
+              <title type="publication-short">SKSN 1 (2. Auflage)</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1911-01-01">1911-01-01</date>
+              </imprint>
+              <extent>219 Seiten</extent>
+              <biblScope unit="volume">1. Folge</biblScope>
+              <biblScope unit="issue">2. unveränderte Auflage</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__8aa18cde-e8f5-4e98-b547-471460e0fa25">
+                <title>Die Freudsche psychoanalytische Methode</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1904-002/1911</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-4</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8aa18cde-e8f5-4e98-b547-471460e0fa25</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
-                              <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="IPU">Freud_1911_Sammlung_kleiner_Schriften_2te</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1904-002/1911</idno>
+                <idno type="url">https://www.freud-edition.net/werke/die-freudsche-psychoanalytische-methode/druckversion-4</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8aa18cde-e8f5-4e98-b547-471460e0fa25</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__1197f64d-a3f2-4400-a42b-2923ebbc58aa">
+                    <title>Freud, Sigmund  (1904-002; 1904a): Die Freudsche psychoanalytische Methode</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-freudsche-psychoanalytische-methode</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/1197f64d-a3f2-4400-a42b-2923ebbc58aa</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="IPU">Freud_1911_Sammlung_kleiner_Schriften_2te</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__859fdcba-d182-4787-ba17-c60004648e02"/>
-            <fw type="pageNum">[213]</fw> <p rendition="#level_3">XIII.<lb/> Die Freudsche psychoanalytische Methode<hi rendition="#footnote-index">1)</hi>.</p><p>„Die eigentümliche Methode der Psychotherapie, die<lb/> <hi rendition="#smallcaps">Freud</hi> ausübt und als Psychoanalyse bezeichnet, ist aus dem<lb/> sogenannten kathartischen Verfahren hervorgegangen, über wel<lb break="no"/>ches er seinerzeit in den „Studien über Hysterie“ 1895 in<lb/> Gemeinschaft mit J. <hi rendition="#smallcaps">Breuer</hi> berichtet hat. Die kathartische<lb/> Therapie war eine Erfindung <hi rendition="#smallcaps">Breuers</hi>, der mit ihrer Hilfe<lb/> zuerst etwa ein Dezennium vorher eine hysterische Kranke her<lb break="no"/>gestellt und dabei Einsicht in die Pathogenese ihrer Symptome<lb/> gewonnen hatte. Infolge einer persönlichen Anregung <hi rendition="#smallcaps">Breuers</hi><lb/> nahm dann <hi rendition="#smallcaps">Freud</hi> das Verfahren wieder auf und erprobte es<lb/> an einer größeren Anzahl von Kranken.<lb break="paragraph"/></p> <p>Das kathartische Verfahren setzte voraus, daß der Patient<lb/> hypnotisierbar sei und beruhte auf der Erweiterung des Bewußt<lb break="no"/>seins, die in der Hypnose eintritt. Es setzte sich die Beseiti<lb break="no"/>gung der Krankheitssymptome zum Ziele und erreichte dies,<lb/> indem es den Patienten sich in den psychischen Zustand zurück<lb break="no"/>versetzen ließ, in welchem das Symptom zum ersten Male auf<lb break="no"/>getreten war. Es tauchten dann bei dem hypnotisierten Kranken<lb/> Erinnerungen, Gedanken und Impulse auf, die in seinem Be<lb break="no"/>wußtsein bisher ausgefallen waren, und wenn er diese seine<lb/> seelischen Vorgänge unter intensiven Affektäußerungen dem<lb/> Arzte mitgeteilt hatte, war das Symptom überwunden, die<lb/> Wiederkehr desselben aufgehoben. Diese regelmäßig zu wieder<lb break="no"/>holende Erfahrung erläuterten die beiden Autoren in ihrer ge<lb break="no"/>meinsamen Arbeit dahin, daß das Symptom an Stelle von<lb/> unterdrückten und nicht zum Bewußtsein gelangten psychischen<lb break="paragraph"/><pb n="2" xml:id="page__d9946bc2-5470-4a07-9a36-80cada468087"/><fw type="pageNum">214</fw>Vorgängen stehe, also eine Umwandlung („Konversion“) der<lb/> letzteren darstelle. Die therapeutische Wirksamkeit ihres Ver<lb break="no"/>fahrens erklärten sie sich aus der Abfuhr des bis dahin gleich<lb break="no"/>sam „eingeklemmten“ Affektes, der an den unterdrückten seeli<lb break="no"/>schen Aktionen gehaftet hatte („Abreagieren“). Das einfache<lb/> Schema des therapeutischen Eingriffes komplizierte sich aber<lb/> nahezu alle Male, indem sich zeigte, daß nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/> beteiligt sei.<lb break="paragraph"/></p> <note type="footnote"><hi rendition="#footnote-index">1)</hi> Aus: <hi rendition="#smallcaps">Löwenfeld</hi>, Psychische Zwangserscheinungen, 1904.<lb break="paragraph"/></note>
-         
-         
-            
-              <p>Der Hauptcharakter der kathartischen Methode, der sie<lb/> in Gegensatz zu allen anderen Verfahren der Psychotherapie<lb/> setzt, liegt also darin, daß bei ihr die therapeutische Wirksam<lb break="no"/>keit nicht einem suggestiven Verbot des Arztes übertragen wird.<lb/> Sie erwartet vielmehr, daß die Symptome von selbst verschwin<lb break="no"/>den werden, wenn es dem Eingriff, der sich auf gewisse Voraus<lb break="no"/>setzungen über den psychischen Mechanismus beruft, gelungen<lb/> ist, seelische Vorgänge zu einem andern als dem bisherigen<lb/> Verlaufe zu bringen, der in die Symptombildung einge<lb break="no"/>mündet hat.<lb break="paragraph"/></p> <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen<lb/> Verfahren <hi rendition="#smallcaps">Breuers</hi> vornahm, waren zunächst Änderungen<lb/> der Technik; diese brachten aber neue Ergebnisse und haben<lb/> in weiterer Folge zu einer andersartigen, wiewohl der früheren<lb/> nicht widersprechenden, Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"/></p> <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose aufzugeben. Er behandelt gegenwärtig seine Kranken,<lb/> indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf einem Ruhebett einnehmen läßt, während er<lb/> selbst ihrem Anblick entzogen auf einem Stuhle hinter ihnen<lb/> sitzt. Auch den Verschluß der Augen fordert er von ihnen<lb/> nicht und vermeidet jede Berührung sowie jede andere Proze<lb break="no"/>dur, die an Hypnose mahnen könnte. Eine solche Sitzung ver<lb break="no"/>läuft also wie ein Gespräch zwischen zwei gleich wachen Per<lb break="no"/>sonen, von denen die eine sich jede Muskelanstrengung und<lb/> jeden ablenkenden Sinneseindruck erspart, die sie in der Kon<lb break="no"/><pb n="3" xml:id="page__e72a8a0d-9b04-46e2-903c-2a0c7d228333"/><fw type="pageNum">215</fw>zentration ihrer Aufmerksamkeit auf ihre eigene seelische Tätig<lb break="no"/>keit stören könnten.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Da das Hypnotisiertwerden, trotz aller Geschicklichkeit des<lb/> Arztes, bekanntlich in der Willkür des Patienten liegt, und eine<lb/> große Anzahl neurotischer Personen durch kein Verfahren in<lb/> Hypnose zu versetzen ist, so war durch den Verzicht auf die<lb/> Hypnose die Anwendbarkeit des Verfahrens auf eine unein<lb break="no"/>geschränkte Anzahl von Kranken gesichert. Anderseits fiel die<lb/> Erweiterung des Bewußtseins weg, welche dem Arzt gerade<lb/> jenes psychische Material an Erinnerungen und Vorstellungen<lb/> geliefert hatte, mit dessen Hilfe sich die Umsetzung der Sym<lb break="no"/>ptome und die Befreiung der Affekte vollziehen ließ. Wenn für<lb/> diesen Ausfall kein Ersatz zu schaffen war, konnte auch von<lb/> einer therapeutischen Einwirkung keine Rede sein.<lb break="paragraph"/></p> <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps">Freud</hi><lb/> in den Einfällen der Kranken, d. h. in den ungewollten, meist<lb/> als störend empfundenen und darum unter gewöhnlichen Ver<lb break="no"/>hältnissen beseitigten Gedanken, die den Zusammenhang einer<lb/> beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich<lb/> dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich<lb/> in ihren Mitteilungen gehen zu lassen, „wie man es etwa in<lb/> einem Gespräche tut, bei welchem man aus dem Hundertsten<lb/> in das Tausendste gerät“. Er schärft ihnen, ehe er sie zur de<lb break="no"/>taillierten Erzählung ihrer Krankengeschichte auffordert, ein,<lb/> alles mit zu sagen, was ihnen dabei durch den Kopf geht, auch<lb/> wenn sie meinen, es sei unwichtig, oder es gehöre nicht dazu,<lb/> oder es sei unsinnig. Mit besonderem Nachdrucke aber wird von<lb/> ihnen verlangt, daß sie keinen Gedanken oder Einfall darum<lb/> von der Mitteilung ausschließen, weil ihnen diese Mitteilung<lb/> beschämend oder peinlich ist. Bei den Bemühungen, dieses<lb/> Material an sonst vernachlässigten Einfällen zu sammeln, machte<lb/> nun <hi rendition="#smallcaps">Freud</hi> die Beobachtungen, die für seine ganze Auffassung<lb/> bestimmend geworden sind. Schon bei der Erzählung der Kranken<lb break="no"/>geschichte stellen sich bei den Kranken Lücken der Erinnerung<lb/> heraus, sei es, daß tatsächliche Vorgänge vergessen worden, sei<lb/> es, daß zeitliche Beziehungen verwirrt oder Kausalzusammen<lb break="no"/>hänge zerrissen worden sind, so daß sich unbegreifliche Effekte<lb/> ergeben. Ohne Amnesie irgend einer Art gibt es keine neuro<lb break="no"/><pb n="4" xml:id="page__177da0b9-9f52-4862-9fca-9e951636b09f"/><fw type="pageNum">216</fw>tische Krankengeschichte. Drängt man den Erzählenden, diese<lb/> Lücken seines Gedächtnisses durch angestrengte Arbeit der<lb/> Aufmerksamkeit auszufüllen, so merkt man, daß die hierzu sich<lb/> einstellenden Einfälle von ihm mit allen Mitteln der Kritik<lb/> zurückgedrängt werden, bis er endlich das direkte Unbehagen<lb/> verspürt, wenn sich die Erinnerung wirklich eingestellt hat.<lb/> Aus dieser Erfahrung schließt <hi rendition="#smallcaps">Freud</hi>, daß die Amnesien das<lb/> Ergebnis eines Vorganges sind, den er <hi rendition="#smallcaps">Verdrängung</hi> heißt,<lb/> und als dessen Motiv er Unlustgefühle erkennt. Die psychischen<lb/> Kräfte, welche diese Verdrängung herbeigeführt haben, meint<lb/> er in dem <hi rendition="#smallcaps">Widerstand</hi>, der sich gegen die Wiederherstellung<lb/> erhebt, zu verspüren.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Das Moment des Widerstandes ist eines der Fundamente<lb/> seiner Theorie geworden. Die sonst unter allerlei Vorwänden<lb/> (wie sie die obige Formel aufzählt) beseitigten Einfälle be<lb break="no"/>trachtet er aber als Abkömmlinge der verdrängten psychischen<lb/> Gebilde (Gedanken und Regungen), als Entstellungen derselben<lb/> infolge des gegen ihre Reproduktion bestehenden Widerstandes.<lb break="paragraph"/></p> <p>Je größer der Widerstand, desto ausgiebiger diese Ent<lb break="no"/>stellung. In dieser Beziehung der unbeabsichtigten Einfälle zum<lb/> verdrängten psychischen Material ruht nun ihr Wert für die<lb/> therapeutische Technik. Wenn man ein Verfahren besitzt, wel<lb break="no"/>ches ermöglicht, von den Einfällen aus zu dem Verdrängten,<lb/> von den Entstellungen zum Entstellten zu gelangen, so kann<lb/> man auch ohne Hypnose das früher Unbewußte im Seelenleben<lb/> dem Bewußtsein zugänglich machen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps">Deutungskunst</hi> ausgebildet,<lb/> welcher diese Leistung zufällt, die gleichsam aus den Erzen<lb/> der unbeabsichtigten Einfälle den Metallgehalt an verdrängten<lb/> Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind<lb/> nicht allein die Einfälle der Kranken, sondern auch seine<lb/> Träume, die den direktesten Zugang zur Kenntnis des Un<lb break="no"/>bewußten eröffnen, seine unbeabsichtigten, wie planlosen Hand<lb break="no"/>lungen (Symptomhandlungen) und die Irrungen seiner Leistungen<lb/> im Alltagsleben (Versprechen, Vergreifen u. dgl.). Die Details<lb/> dieser Deutungs- oder Übersetzungstechnik sind von <hi rendition="#smallcaps">Freud</hi><lb/> noch nicht veröffentlicht werden. Es sind nach seinen Andeu<lb break="no"/>tungen eine Reihe von empirisch gewonnenen Regeln, wie aus<lb break="paragraph"/><pb n="5" xml:id="page__754b8a6b-4ec2-4652-ac58-b11d71695d90"/><fw type="pageNum">217</fw>den Einfällen das unbewußte Material zu konstruieren ist, An<lb break="no"/>weisungen, wie man es zu verstehen habe, wenn die Einfälle<lb/> des Patienten versagen, und Erfahrungen über die wichtigsten<lb/> typischen Widerstände, die sich im Laufe einer solchen Behand<lb break="no"/>lung einstellen. Ein umfangreiches Buch über „Traumdeutung“,<lb/> 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als Vorläufer einer solchen Ein<lb break="no"/>führung in die Technik anzusehen.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Man könnte aus diesen Andeutungen über die Technik<lb/> der psychoanalytischen Methode schließen, daß deren Erfinder<lb/> sich überflüssige Mühe verursacht und Unrecht getan hat, das<lb/> wenig komplizierte hypnotische Verfahren zu verlassen. Aber<lb/> einerseits ist die Technik der Psychoanalyse viel leichter aus<lb break="no"/>zuüben, wenn man sie einmal erlernt hat, als es bei einer Be<lb break="no"/>schreibung den Anschein hat, anderseits führt kein anderer<lb/> Weg zum Ziele, und darum ist der mühselige Weg noch der<lb/> kürzeste. Der Hypnose ist vorzuwerfen, daß sie den Widerstand<lb/> verdeckt und dadurch dem Arzt den Einblick in das Spiel der<lb/> psychischen Kräfte verwehrt hat. Sie räumt aber mit dem<lb/> Widerstande nicht auf, sondern weicht ihm nur aus und ergibt<lb/> dagegen nur unvollständige Auskünfte und nur vorübergehende<lb/> Erfolge.<lb break="paragraph"/></p> <p>Die Aufgabe, welche die psychoanalytische Methode zu<lb/> lösen bestrebt ist, läßt sich in verschiedenen Formeln aus<lb break="no"/>drücken, die aber ihrem Wesen nach äquivalent sind. Man kann<lb/> sagen: Aufgabe der Kur sei, die Amnesien aufzuheben. Wenn<lb/> alle Erinnerungslücken ausgefüllt, alle rätselhaften Effekte des<lb/> psychischen Lebens aufgeklärt sind, ist der Fortbestand, ja eine<lb/> Neubildung des Leidens unmöglich gemacht. Man kann die<lb/> Bedingung anders fassen: es seien alle Verdrängungen rück<lb break="no"/>gängig zu machen; der psychische Zustand ist dann derselbe,<lb/> in dem alle Amnesien ausgefüllt sind. Weittragender ist eine<lb/> andere Fassung: es handle sich darum, das Unbewußte dem<lb/> Bewußtsein zugänglich zu machen, was durch Überwindung der<lb/> Widerstände geschieht. Man darf aber dabei nicht vergessen,<lb/> daß ein solcher Idealzustand auch beim normalen Menschen<lb/> nicht besteht, und daß man nur selten in die Lage kommen<lb/> kann, die Behandlung annähernd so weit zu treiben. So wie<lb/> Gesundheit und Krankheit nicht prinzipiell geschieden, sondern<lb break="paragraph"/><pb n="6" xml:id="page__e08c1630-91f4-427a-843f-3daf0232c255"/><fw type="pageNum">218</fw>nur durch eine praktisch bestimmbare Summationsgrenze ge<lb break="no"/>sondert sind, so wird man sich auch nie etwas anderes zum<lb/> Ziel der Behandlung setzen als die praktische Genesung des<lb/> Kranken, die Herstellung seiner Leistungs- und Genußfähigkeit.<lb/> Bei unvollständiger Kur oder unvollkommenem Erfolge der<lb break="no"/>selben erreicht man vor allem eine bedeutende Hebung des<lb/> psychischen Allgemeinzustandes, während die Symptome, aber<lb/> mit geminderter Bedeutung für den Kranken, fortbestehen<lb/> können, ohne ihn zu einem Kranken zu stempeln.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Das therapeutische Verfahren bleibt, von geringen Mo<lb break="no"/>difikationen abgesehen, das nämliche für alle Symptombilder<lb/> der vielgestaltigen Hysterie und ebenso für alle Ausbildungen<lb/> der Zwangsneurose. Von einer unbeschränkten Anwendbarkeit<lb/> desselben ist aber keine Rede. Die Natur der psychoanaly<lb break="no"/>tischen Methode schafft Indikationen und Gegenanzeigen so<lb break="no"/>wohl von seiten der zu behandelnden Personen, als auch<lb/> mit Rücksicht auf das Krankheitsbild. Am günstigsten für<lb/> die Psychoanalyse sind die chronischen Fälle von Psycho<lb break="no"/>neurosen mit wenig stürmischen oder gefahrdrohenden Sym<lb break="no"/>ptomen, also zunächst alle Arten der Zwangsneurose, Zwangs<lb break="no"/>denken und Zwangshandeln, und Fälle von Hysterie, in denen<lb/> Phobien und Abulien die Hauptrolle spielen, weiterhin aber<lb/> auch alle somatischen Ausprägungen der Hysterie, insoferne<lb/> nicht, wie bei der Anorexie, rasche Beseitigung der Symptome<lb/> zur Hauptaufgabe des Arztes wird. Bei akuten Fällen von<lb/> Hysterie wird man den Eintritt eines ruhigeren Stadiums abzu<lb break="no"/>warten haben; in allen Fällen, bei denen die nervöse Er<lb break="no"/>schöpfung obenan steht, wird man ein Verfahren vermeiden,<lb/> welches selbst Anstrengung erfordert, nur langsame Fortschritte<lb/> zeitigt und auf die Fortdauer der Symptome eine Zeitlang keine<lb/> Rücksicht nehmen kann.<lb break="paragraph"/></p> <p>An die Person, die man mit Vorteil der Psychoanalyse<lb/> unterziehen soll, sind mehrfache Forderungen zu stellen. Sie<lb/> muß erstens eines psychischen Normalzustandes fähig sein; in<lb/> Zeiten der Verworrenheit oder melancholischer Depression<lb/> ist auch bei einer Hysterie nichts auszurichten. Man darf<lb/> ferner ein gewisses Maß natürlicher Intelligenz und ethischer<lb/> Entwicklung fordern; bei wertlosen Personen läßt den Arzt<lb break="paragraph"/><pb n="7" xml:id="page__abb4a18a-9f5b-4f93-932f-d587a45442d0"/><fw type="pageNum">219</fw>bald das Interesse im Stiche, welches ihn zur Vertiefung in<lb/> das Seelenleben des Kranken befähigt. Ausgeprägte Charakter<lb break="no"/>verbildungen, Züge von wirklich degenerativer Konstitution<lb/> äußern sich bei der Kur als Quelle von kaum zu überwindenden<lb/> Widerständen. Insoweit setzt überhaupt die Konstitution eine<lb/> Grenze für die Heilbarkeit durch Psychotherapie. Auch eine<lb/> Altersstufe in der Nähe des fünften Dezenniums schafft un<lb break="no"/>günstige Bedingungen für die Psychoanalyse. Die Masse des<lb/> psychischen Materials ist dann nicht mehr zu bewältigen, die<lb/> zur Herstellung erforderliche Zeit wird zu lang, und die<lb/> Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt<lb/> zu erlahmen.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>Trotz aller dieser Einschränkungen ist die Anzahl der<lb/> für die Psychoanalyse geeigneten Personen eine außerordentlich<lb/> große, und die Erweiterung unseres therapeutischen Könnens<lb/> durch dieses Verfahren nach den Behauptungen <hi rendition="#smallcaps">Freuds</hi> eine<lb/> sehr beträchtliche. <hi rendition="#smallcaps">Freud</hi> beansprucht lange Zeiträume, ½ Jahr<lb/> bis 3 Jahre für eine wirksame Behandlung; er gibt aber die<lb/> Auskunft, daß er bisher infolge verschiedener leicht zu erratender<lb/> Umstände meist nur in die Lage gekommen ist, seine Behandlung<lb/> an sehr schweren Fällen zu erproben, Personen mit vieljähriger<lb/> Krankheitsdauer und völliger Leistungsunfähigkeit, die, durch<lb/> alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei<lb/> seinem neuen und viel angezweifelten Verfahren gesucht haben.<lb/> In Fällen leichterer Erkrankung dürfte sich die Behandlungs<lb break="no"/>dauer sehr verkürzen und ein außerordentlicher Gewinn an<lb/> Vorbeugung für die Zukunft erzielen lassen.“<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="complete">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__859fdcba-d182-4787-ba17-c60004648e02"/>
+        <fw type="pageNum">[213]</fw>
+        <p rendition="#level_3">XIII.<lb/> Die Freudsche psychoanalytische Methode<hi rendition="#footnote-index">1)</hi>.</p>
+        <p>„Die eigentümliche Methode der Psychotherapie, die<lb/>
+          <hi rendition="#smallcaps">Freud</hi> ausübt und als Psychoanalyse bezeichnet, ist aus dem<lb/> sogenannten kathartischen Verfahren hervorgegangen, über wel<lb break="no"/>ches er seinerzeit in den „Studien über Hysterie“ 1895 in<lb/> Gemeinschaft mit J. <hi rendition="#smallcaps">Breuer</hi> berichtet hat. Die kathartische<lb/> Therapie war eine Erfindung <hi rendition="#smallcaps">Breuers</hi>, der mit ihrer Hilfe<lb/> zuerst etwa ein Dezennium vorher eine hysterische Kranke her<lb break="no"/>gestellt und dabei Einsicht in die Pathogenese ihrer Symptome<lb/> gewonnen hatte. Infolge einer persönlichen Anregung <hi rendition="#smallcaps">Breuers</hi>
+          <lb/> nahm dann <hi rendition="#smallcaps">Freud</hi> das Verfahren wieder auf und erprobte es<lb/> an einer größeren Anzahl von Kranken.<lb break="paragraph"/>
+        </p>
+        <p>Das kathartische Verfahren setzte voraus, daß der Patient<lb/> hypnotisierbar sei und beruhte auf der Erweiterung des Bewußt<lb break="no"/>seins, die in der Hypnose eintritt. Es setzte sich die Beseiti<lb break="no"/>gung der Krankheitssymptome zum Ziele und erreichte dies,<lb/> indem es den Patienten sich in den psychischen Zustand zurück<lb break="no"/>versetzen ließ, in welchem das Symptom zum ersten Male auf<lb break="no"/>getreten war. Es tauchten dann bei dem hypnotisierten Kranken<lb/> Erinnerungen, Gedanken und Impulse auf, die in seinem Be<lb break="no"/>wußtsein bisher ausgefallen waren, und wenn er diese seine<lb/> seelischen Vorgänge unter intensiven Affektäußerungen dem<lb/> Arzte mitgeteilt hatte, war das Symptom überwunden, die<lb/> Wiederkehr desselben aufgehoben. Diese regelmäßig zu wieder<lb break="no"/>holende Erfahrung erläuterten die beiden Autoren in ihrer ge<lb break="no"/>meinsamen Arbeit dahin, daß das Symptom an Stelle von<lb/> unterdrückten und nicht zum Bewußtsein gelangten psychischen<lb break="paragraph"/>
+          <pb n="2" xml:id="page__d9946bc2-5470-4a07-9a36-80cada468087"/>
+          <fw type="pageNum">214</fw>Vorgängen stehe, also eine Umwandlung („Konversion“) der<lb/> letzteren darstelle. Die therapeutische Wirksamkeit ihres Ver<lb break="no"/>fahrens erklärten sie sich aus der Abfuhr des bis dahin gleich<lb break="no"/>sam „eingeklemmten“ Affektes, der an den unterdrückten seeli<lb break="no"/>schen Aktionen gehaftet hatte („Abreagieren“). Das einfache<lb/> Schema des therapeutischen Eingriffes komplizierte sich aber<lb/> nahezu alle Male, indem sich zeigte, daß nicht ein einzelner<lb/> („traumatischer“) Eindruck, sondern meist eine schwer zu über<lb break="no"/>sehende Reihe von solchen an der Entstehung des Symptoms<lb/> beteiligt sei.<lb break="paragraph"/>
+        </p>
+        <note type="footnote">
+          <hi rendition="#footnote-index">1)</hi> Aus: <hi rendition="#smallcaps">Löwenfeld</hi>, Psychische Zwangserscheinungen, 1904.<lb break="paragraph"/>
+        </note>
+        <p>Der Hauptcharakter der kathartischen Methode, der sie<lb/> in Gegensatz zu allen anderen Verfahren der Psychotherapie<lb/> setzt, liegt also darin, daß bei ihr die therapeutische Wirksam<lb break="no"/>keit nicht einem suggestiven Verbot des Arztes übertragen wird.<lb/> Sie erwartet vielmehr, daß die Symptome von selbst verschwin<lb break="no"/>den werden, wenn es dem Eingriff, der sich auf gewisse Voraus<lb break="no"/>setzungen über den psychischen Mechanismus beruft, gelungen<lb/> ist, seelische Vorgänge zu einem andern als dem bisherigen<lb/> Verlaufe zu bringen, der in die Symptombildung einge<lb break="no"/>mündet hat.<lb break="paragraph"/>
+        </p>
+        <p>Die Abänderungen, welche <hi rendition="#smallcaps">Freud</hi> an dem kathartischen<lb/> Verfahren <hi rendition="#smallcaps">Breuers</hi> vornahm, waren zunächst Änderungen<lb/> der Technik; diese brachten aber neue Ergebnisse und haben<lb/> in weiterer Folge zu einer andersartigen, wiewohl der früheren<lb/> nicht widersprechenden, Auffassung der therapeutischen Arbeit<lb/> genötigt.<lb break="paragraph"/>
+        </p>
+        <p>Hatte die kathartische Methode bereits auf die Suggestion<lb/> verzichtet, so unternahm <hi rendition="#smallcaps">Freud</hi> den weiteren Schritt, auch die<lb/> Hypnose aufzugeben. Er behandelt gegenwärtig seine Kranken,<lb/> indem er sie ohne andersartige Beeinflussung eine bequeme<lb/> Rückenlage auf einem Ruhebett einnehmen läßt, während er<lb/> selbst ihrem Anblick entzogen auf einem Stuhle hinter ihnen<lb/> sitzt. Auch den Verschluß der Augen fordert er von ihnen<lb/> nicht und vermeidet jede Berührung sowie jede andere Proze<lb break="no"/>dur, die an Hypnose mahnen könnte. Eine solche Sitzung ver<lb break="no"/>läuft also wie ein Gespräch zwischen zwei gleich wachen Per<lb break="no"/>sonen, von denen die eine sich jede Muskelanstrengung und<lb/> jeden ablenkenden Sinneseindruck erspart, die sie in der Kon<lb break="no"/>
+          <pb n="3" xml:id="page__e72a8a0d-9b04-46e2-903c-2a0c7d228333"/>
+          <fw type="pageNum">215</fw>zentration ihrer Aufmerksamkeit auf ihre eigene seelische Tätig<lb break="no"/>keit stören könnten.<lb break="paragraph"/>
+        </p>
+        <p>Da das Hypnotisiertwerden, trotz aller Geschicklichkeit des<lb/> Arztes, bekanntlich in der Willkür des Patienten liegt, und eine<lb/> große Anzahl neurotischer Personen durch kein Verfahren in<lb/> Hypnose zu versetzen ist, so war durch den Verzicht auf die<lb/> Hypnose die Anwendbarkeit des Verfahrens auf eine unein<lb break="no"/>geschränkte Anzahl von Kranken gesichert. Anderseits fiel die<lb/> Erweiterung des Bewußtseins weg, welche dem Arzt gerade<lb/> jenes psychische Material an Erinnerungen und Vorstellungen<lb/> geliefert hatte, mit dessen Hilfe sich die Umsetzung der Sym<lb break="no"/>ptome und die Befreiung der Affekte vollziehen ließ. Wenn für<lb/> diesen Ausfall kein Ersatz zu schaffen war, konnte auch von<lb/> einer therapeutischen Einwirkung keine Rede sein.<lb break="paragraph"/>
+        </p>
+        <p>Einen solchen völlig ausreichenden Ersatz fand nun <hi rendition="#smallcaps">Freud</hi>
+          <lb/> in den Einfällen der Kranken, d. h. in den ungewollten, meist<lb/> als störend empfundenen und darum unter gewöhnlichen Ver<lb break="no"/>hältnissen beseitigten Gedanken, die den Zusammenhang einer<lb/> beabsichtigten Darstellung zu durchkreuzen pflegen. Um sich<lb/> dieser Einfälle zu bemächtigen, fordert er die Kranken auf, sich<lb/> in ihren Mitteilungen gehen zu lassen, „wie man es etwa in<lb/> einem Gespräche tut, bei welchem man aus dem Hundertsten<lb/> in das Tausendste gerät“. Er schärft ihnen, ehe er sie zur de<lb break="no"/>taillierten Erzählung ihrer Krankengeschichte auffordert, ein,<lb/> alles mit zu sagen, was ihnen dabei durch den Kopf geht, auch<lb/> wenn sie meinen, es sei unwichtig, oder es gehöre nicht dazu,<lb/> oder es sei unsinnig. Mit besonderem Nachdrucke aber wird von<lb/> ihnen verlangt, daß sie keinen Gedanken oder Einfall darum<lb/> von der Mitteilung ausschließen, weil ihnen diese Mitteilung<lb/> beschämend oder peinlich ist. Bei den Bemühungen, dieses<lb/> Material an sonst vernachlässigten Einfällen zu sammeln, machte<lb/> nun <hi rendition="#smallcaps">Freud</hi> die Beobachtungen, die für seine ganze Auffassung<lb/> bestimmend geworden sind. Schon bei der Erzählung der Kranken<lb break="no"/>geschichte stellen sich bei den Kranken Lücken der Erinnerung<lb/> heraus, sei es, daß tatsächliche Vorgänge vergessen worden, sei<lb/> es, daß zeitliche Beziehungen verwirrt oder Kausalzusammen<lb break="no"/>hänge zerrissen worden sind, so daß sich unbegreifliche Effekte<lb/> ergeben. Ohne Amnesie irgend einer Art gibt es keine neuro<lb break="no"/>
+          <pb n="4" xml:id="page__177da0b9-9f52-4862-9fca-9e951636b09f"/>
+          <fw type="pageNum">216</fw>tische Krankengeschichte. Drängt man den Erzählenden, diese<lb/> Lücken seines Gedächtnisses durch angestrengte Arbeit der<lb/> Aufmerksamkeit auszufüllen, so merkt man, daß die hierzu sich<lb/> einstellenden Einfälle von ihm mit allen Mitteln der Kritik<lb/> zurückgedrängt werden, bis er endlich das direkte Unbehagen<lb/> verspürt, wenn sich die Erinnerung wirklich eingestellt hat.<lb/> Aus dieser Erfahrung schließt <hi rendition="#smallcaps">Freud</hi>, daß die Amnesien das<lb/> Ergebnis eines Vorganges sind, den er <hi rendition="#smallcaps">Verdrängung</hi> heißt,<lb/> und als dessen Motiv er Unlustgefühle erkennt. Die psychischen<lb/> Kräfte, welche diese Verdrängung herbeigeführt haben, meint<lb/> er in dem <hi rendition="#smallcaps">Widerstand</hi>, der sich gegen die Wiederherstellung<lb/> erhebt, zu verspüren.<lb break="paragraph"/>
+        </p>
+        <p>Das Moment des Widerstandes ist eines der Fundamente<lb/> seiner Theorie geworden. Die sonst unter allerlei Vorwänden<lb/> (wie sie die obige Formel aufzählt) beseitigten Einfälle be<lb break="no"/>trachtet er aber als Abkömmlinge der verdrängten psychischen<lb/> Gebilde (Gedanken und Regungen), als Entstellungen derselben<lb/> infolge des gegen ihre Reproduktion bestehenden Widerstandes.<lb break="paragraph"/>
+        </p>
+        <p>Je größer der Widerstand, desto ausgiebiger diese Ent<lb break="no"/>stellung. In dieser Beziehung der unbeabsichtigten Einfälle zum<lb/> verdrängten psychischen Material ruht nun ihr Wert für die<lb/> therapeutische Technik. Wenn man ein Verfahren besitzt, wel<lb break="no"/>ches ermöglicht, von den Einfällen aus zu dem Verdrängten,<lb/> von den Entstellungen zum Entstellten zu gelangen, so kann<lb/> man auch ohne Hypnose das früher Unbewußte im Seelenleben<lb/> dem Bewußtsein zugänglich machen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Freud</hi> hat darauf eine <hi rendition="#smallcaps">Deutungskunst</hi> ausgebildet,<lb/> welcher diese Leistung zufällt, die gleichsam aus den Erzen<lb/> der unbeabsichtigten Einfälle den Metallgehalt an verdrängten<lb/> Gedanken darstellen soll. Objekt dieser Deutungsarbeit sind<lb/> nicht allein die Einfälle der Kranken, sondern auch seine<lb/> Träume, die den direktesten Zugang zur Kenntnis des Un<lb break="no"/>bewußten eröffnen, seine unbeabsichtigten, wie planlosen Hand<lb break="no"/>lungen (Symptomhandlungen) und die Irrungen seiner Leistungen<lb/> im Alltagsleben (Versprechen, Vergreifen u. dgl.). Die Details<lb/> dieser Deutungs- oder Übersetzungstechnik sind von <hi rendition="#smallcaps">Freud</hi>
+          <lb/> noch nicht veröffentlicht werden. Es sind nach seinen Andeu<lb break="no"/>tungen eine Reihe von empirisch gewonnenen Regeln, wie aus<lb break="paragraph"/>
+          <pb n="5" xml:id="page__754b8a6b-4ec2-4652-ac58-b11d71695d90"/>
+          <fw type="pageNum">217</fw>den Einfällen das unbewußte Material zu konstruieren ist, An<lb break="no"/>weisungen, wie man es zu verstehen habe, wenn die Einfälle<lb/> des Patienten versagen, und Erfahrungen über die wichtigsten<lb/> typischen Widerstände, die sich im Laufe einer solchen Behand<lb break="no"/>lung einstellen. Ein umfangreiches Buch über „Traumdeutung“,<lb/> 1900 von <hi rendition="#smallcaps">Freud</hi> publiziert, ist als Vorläufer einer solchen Ein<lb break="no"/>führung in die Technik anzusehen.<lb break="paragraph"/>
+        </p>
+        <p>Man könnte aus diesen Andeutungen über die Technik<lb/> der psychoanalytischen Methode schließen, daß deren Erfinder<lb/> sich überflüssige Mühe verursacht und Unrecht getan hat, das<lb/> wenig komplizierte hypnotische Verfahren zu verlassen. Aber<lb/> einerseits ist die Technik der Psychoanalyse viel leichter aus<lb break="no"/>zuüben, wenn man sie einmal erlernt hat, als es bei einer Be<lb break="no"/>schreibung den Anschein hat, anderseits führt kein anderer<lb/> Weg zum Ziele, und darum ist der mühselige Weg noch der<lb/> kürzeste. Der Hypnose ist vorzuwerfen, daß sie den Widerstand<lb/> verdeckt und dadurch dem Arzt den Einblick in das Spiel der<lb/> psychischen Kräfte verwehrt hat. Sie räumt aber mit dem<lb/> Widerstande nicht auf, sondern weicht ihm nur aus und ergibt<lb/> dagegen nur unvollständige Auskünfte und nur vorübergehende<lb/> Erfolge.<lb break="paragraph"/>
+        </p>
+        <p>Die Aufgabe, welche die psychoanalytische Methode zu<lb/> lösen bestrebt ist, läßt sich in verschiedenen Formeln aus<lb break="no"/>drücken, die aber ihrem Wesen nach äquivalent sind. Man kann<lb/> sagen: Aufgabe der Kur sei, die Amnesien aufzuheben. Wenn<lb/> alle Erinnerungslücken ausgefüllt, alle rätselhaften Effekte des<lb/> psychischen Lebens aufgeklärt sind, ist der Fortbestand, ja eine<lb/> Neubildung des Leidens unmöglich gemacht. Man kann die<lb/> Bedingung anders fassen: es seien alle Verdrängungen rück<lb break="no"/>gängig zu machen; der psychische Zustand ist dann derselbe,<lb/> in dem alle Amnesien ausgefüllt sind. Weittragender ist eine<lb/> andere Fassung: es handle sich darum, das Unbewußte dem<lb/> Bewußtsein zugänglich zu machen, was durch Überwindung der<lb/> Widerstände geschieht. Man darf aber dabei nicht vergessen,<lb/> daß ein solcher Idealzustand auch beim normalen Menschen<lb/> nicht besteht, und daß man nur selten in die Lage kommen<lb/> kann, die Behandlung annähernd so weit zu treiben. So wie<lb/> Gesundheit und Krankheit nicht prinzipiell geschieden, sondern<lb break="paragraph"/>
+          <pb n="6" xml:id="page__e08c1630-91f4-427a-843f-3daf0232c255"/>
+          <fw type="pageNum">218</fw>nur durch eine praktisch bestimmbare Summationsgrenze ge<lb break="no"/>sondert sind, so wird man sich auch nie etwas anderes zum<lb/> Ziel der Behandlung setzen als die praktische Genesung des<lb/> Kranken, die Herstellung seiner Leistungs- und Genußfähigkeit.<lb/> Bei unvollständiger Kur oder unvollkommenem Erfolge der<lb break="no"/>selben erreicht man vor allem eine bedeutende Hebung des<lb/> psychischen Allgemeinzustandes, während die Symptome, aber<lb/> mit geminderter Bedeutung für den Kranken, fortbestehen<lb/> können, ohne ihn zu einem Kranken zu stempeln.<lb break="paragraph"/>
+        </p>
+        <p>Das therapeutische Verfahren bleibt, von geringen Mo<lb break="no"/>difikationen abgesehen, das nämliche für alle Symptombilder<lb/> der vielgestaltigen Hysterie und ebenso für alle Ausbildungen<lb/> der Zwangsneurose. Von einer unbeschränkten Anwendbarkeit<lb/> desselben ist aber keine Rede. Die Natur der psychoanaly<lb break="no"/>tischen Methode schafft Indikationen und Gegenanzeigen so<lb break="no"/>wohl von seiten der zu behandelnden Personen, als auch<lb/> mit Rücksicht auf das Krankheitsbild. Am günstigsten für<lb/> die Psychoanalyse sind die chronischen Fälle von Psycho<lb break="no"/>neurosen mit wenig stürmischen oder gefahrdrohenden Sym<lb break="no"/>ptomen, also zunächst alle Arten der Zwangsneurose, Zwangs<lb break="no"/>denken und Zwangshandeln, und Fälle von Hysterie, in denen<lb/> Phobien und Abulien die Hauptrolle spielen, weiterhin aber<lb/> auch alle somatischen Ausprägungen der Hysterie, insoferne<lb/> nicht, wie bei der Anorexie, rasche Beseitigung der Symptome<lb/> zur Hauptaufgabe des Arztes wird. Bei akuten Fällen von<lb/> Hysterie wird man den Eintritt eines ruhigeren Stadiums abzu<lb break="no"/>warten haben; in allen Fällen, bei denen die nervöse Er<lb break="no"/>schöpfung obenan steht, wird man ein Verfahren vermeiden,<lb/> welches selbst Anstrengung erfordert, nur langsame Fortschritte<lb/> zeitigt und auf die Fortdauer der Symptome eine Zeitlang keine<lb/> Rücksicht nehmen kann.<lb break="paragraph"/>
+        </p>
+        <p>An die Person, die man mit Vorteil der Psychoanalyse<lb/> unterziehen soll, sind mehrfache Forderungen zu stellen. Sie<lb/> muß erstens eines psychischen Normalzustandes fähig sein; in<lb/> Zeiten der Verworrenheit oder melancholischer Depression<lb/> ist auch bei einer Hysterie nichts auszurichten. Man darf<lb/> ferner ein gewisses Maß natürlicher Intelligenz und ethischer<lb/> Entwicklung fordern; bei wertlosen Personen läßt den Arzt<lb break="paragraph"/>
+          <pb n="7" xml:id="page__abb4a18a-9f5b-4f93-932f-d587a45442d0"/>
+          <fw type="pageNum">219</fw>bald das Interesse im Stiche, welches ihn zur Vertiefung in<lb/> das Seelenleben des Kranken befähigt. Ausgeprägte Charakter<lb break="no"/>verbildungen, Züge von wirklich degenerativer Konstitution<lb/> äußern sich bei der Kur als Quelle von kaum zu überwindenden<lb/> Widerständen. Insoweit setzt überhaupt die Konstitution eine<lb/> Grenze für die Heilbarkeit durch Psychotherapie. Auch eine<lb/> Altersstufe in der Nähe des fünften Dezenniums schafft un<lb break="no"/>günstige Bedingungen für die Psychoanalyse. Die Masse des<lb/> psychischen Materials ist dann nicht mehr zu bewältigen, die<lb/> zur Herstellung erforderliche Zeit wird zu lang, und die<lb/> Fähigkeit, psychische Vorgänge rückgängig zu machen, beginnt<lb/> zu erlahmen.<lb break="paragraph"/>
+        </p>
+        <p>Trotz aller dieser Einschränkungen ist die Anzahl der<lb/> für die Psychoanalyse geeigneten Personen eine außerordentlich<lb/> große, und die Erweiterung unseres therapeutischen Könnens<lb/> durch dieses Verfahren nach den Behauptungen <hi rendition="#smallcaps">Freuds</hi> eine<lb/> sehr beträchtliche. <hi rendition="#smallcaps">Freud</hi> beansprucht lange Zeiträume, ½ Jahr<lb/> bis 3 Jahre für eine wirksame Behandlung; er gibt aber die<lb/> Auskunft, daß er bisher infolge verschiedener leicht zu erratender<lb/> Umstände meist nur in die Lage gekommen ist, seine Behandlung<lb/> an sehr schweren Fällen zu erproben, Personen mit vieljähriger<lb/> Krankheitsdauer und völliger Leistungsunfähigkeit, die, durch<lb/> alle Behandlungen getäuscht, gleichsam eine letzte Zuflucht bei<lb/> seinem neuen und viel angezweifelten Verfahren gesucht haben.<lb/> In Fällen leichterer Erkrankung dürfte sich die Behandlungs<lb break="no"/>dauer sehr verkürzen und ein außerordentlicher Gewinn an<lb/> Vorbeugung für die Zukunft erzielen lassen.“<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

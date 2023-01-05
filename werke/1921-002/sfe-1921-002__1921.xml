@@ -1,230 +1,250 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1921-002; 1921a): Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
-            <title type="manifestation" level="a">Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹] (1921-002/1921)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1921-002; 1921a): Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
+        <title type="manifestation" level="a">Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹] (1921-002/1921)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1921-002-1928">
-                     <analytic>
-                        <title type="manifestation">Preface zu: Putnam, James J[ackson] (1921) ›Adresses on Psycho-Analysis‹</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">GS 11</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1928-01-01">1928-01-01</date>
-                        </imprint>
-<extent>263 Seiten</extent>                        <biblScope unit="volume">11. Band</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1921-002-1921" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__d37bef3a-8bc8-4a0a-b701-828d0492493b">
-                        <title>Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1921-002-1928">
+            <analytic>
+              <title type="manifestation">Preface zu: Putnam, James J[ackson] (1921) ›Adresses on Psycho-Analysis‹</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 11</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1928-01-01">1928-01-01</date>
+              </imprint>
+              <extent>263 Seiten</extent>
+              <biblScope unit="volume">11. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1921-002-1921" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__d37bef3a-8bc8-4a0a-b701-828d0492493b">
+                <title>Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1921-002/1921</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/preface-zu-putnam-james-j-addresses-psycho-analysis/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d37bef3a-8bc8-4a0a-b701-828d0492493b</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__ba05508f-7ead-4a54-9de5-bca89b5cf51f">
-                              <title>Freud, Sigmund  (1921-002; 1921a): Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/preface-zu-putnam-james-j-addresses-psycho-analysis</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ba05508f-7ead-4a54-9de5-bca89b5cf51f</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1921-002/1921</idno>
+                <idno type="url">https://www.freud-edition.net/werke/preface-zu-putnam-james-j-addresses-psycho-analysis/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/d37bef3a-8bc8-4a0a-b701-828d0492493b</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__ba05508f-7ead-4a54-9de5-bca89b5cf51f">
+                    <title>Freud, Sigmund  (1921-002; 1921a): Preface [zu: Putnam, James J. ›Addresses on Psycho-Analysis‹]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/preface-zu-putnam-james-j-addresses-psycho-analysis</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/ba05508f-7ead-4a54-9de5-bca89b5cf51f</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="Titelblatt" xml:id="page__67948b70-0b0a-486e-88a7-3034916681f7"/>
-            <p>INTERNATIONAL PSYCHO-ANALYTICAL LIBRARY<lb/> No. 1<lb break="paragraph"/></p> <p rendition="#h1"><title>ADRESSES<lb/> ON<lb/> PSYCHO-ANALYSIS<lb break="paragraph"/></title></p> <p>BY<lb break="paragraph"/></p> <p>J. J. PUNTNAM, M.D.<lb/> EMERITUS PROFESSOR OF NEUROLOGY<lb/> HARVARD UNIVERSITY<lb break="paragraph"/></p> <p>WITH A PREFACE BY<lb/> SIGM. FREUD, M.D., L.L.D.<lb break="paragraph"/></p> <p>THE INTERNATIONAL PSYCHO-ANALYTICAL PRESS<lb/> LONDON VIENNA NEW YORK<lb/> 1921<lb break="paragraph"/></p>
-         
-         
-            <pb n="iii" xml:id="page__96c580d8-c2aa-4773-a197-600aa62b3ead"/>
-            <p><hi rendition="#bold">iii</hi><lb break="paragraph"/></p> <p rendition="#level_2">PREFACE</p><p>The Editor of this series must feel a special satis<lb break="no"/>faction in being able to issue as its Opening volume this<lb/> collection of the psycho-analytical writings of Professor<lb/> James J. Putnam, the distinguished neurologist of Harvard<lb/> University. Professor Putnam, who died in 1918 at the<lb/> age of seventy-two, was not only the first American to<lb/> interest himself in psycho-analysis, but soon became<lb/> its most decided supporter and its most influential<lb/> representative in America. In consequence of the established<lb/> reputation which he had gained through his activities as<lb/> a teacher, as well as through his important work in the<lb/> domain of organic nervous disease, and thanks to the<lb/> universal respect which his personality enjoyed, he was<lb/> able to do perhaps more than anyone for the spread of<lb/> psycho-analysis in his own country, and was able to<lb/> protect it from aspersions which, on the other side of<lb/> the Atlantic no less than this, would inevitably have been<lb/> cast upon it. But all such reproaches were bound to be<lb/> silenced when a man of Putnam’s lofty ethical standards<lb/> and more rectitude had ranged himself among the sup<lb break="no"/>porters of the new science and of the therapeutics based<lb/> upon it.<lb break="paragraph"/></p> <p>The papers here collected into a single volume, which<lb/> were written by Putnam between 1909 and the end of<lb/> his life, give a good picture of his relations to psycho<lb break="no"/>analysis. They show how he was at first occupied in<lb/> correeting a provisional judgement which was based on<lb/> insufficient knowledge; how he then accepted the essence<lb/> of analysis, recognized its capacity for throwing a clear<lb/> light upon the origin of human imperfections and failings,<lb break="paragraph"/><pb n="iv" xml:id="page__35b6d345-17f2-48c9-9607-62dadc6d93f1"/><fw type="pageNum"/>and how he was struclt by the prospect of contributing<lb/> towards the improvement of humanity along analytical<lb/> lines; how he then became convinced by his own activi<lb break="no"/>ties as a physician as to the truth of most of the psycho<lb break="no"/>analytical conclusions and postulates, and then in his turn<lb/> bare witness to the fact that the physician who makes<lb/> use of analysis understands far more about the sufferings<lb/> of his patients and can do far more for them than was<lb/> possible with the earlier methods of treatment; and<lb/> ﬁnal how he began to extend beyond the limits of<lb/> analysis, demanding that as a science it should be linked<lb/> on to a particular philosophical system, and that its<lb/> practice should be openly associated with a particular<lb/> set of ethical doctrines.<lb break="paragraph"/></p>
-         
-         
-            
-            <p><hi rendition="#bold">iv</hi><lb break="paragraph"/></p>  <p>So it is not to be wondered at that a mind with<lb/> such pre-eminently ethical and philosophical tendencies as<lb/> Putnam’s should have desired, after he had plunged deep<lb/> into psycho-analysis, to establish the closest relation<lb/> between it and the aims which lay nearest his heart. But<lb/> his enthusiasm, so admirable in a man of his advanced<lb/> age, did not succeed in carrying others along with him.<lb/> Younger people remained cooler. It was especially<lb/> Ferenczi who expressed the opposite view. The decisive<lb/> reason for the rejection of Putnam’s proposals was the doubt<lb/> as to which of the countless philosophical systems should be<lb/> accepted, since they all seemed to rest on an equally<lb/> insecure basis, and since everything had up till then been<lb/> sacrificed for the sake of the relative certainty of the<lb/> results of psycho-analysis. It seemed more prudent to<lb/> wait, and to discover whether a particular attitude towards<lb/> life might be forced upon us with all the weight of<lb/> necessity by analytical investigation itself.<lb break="paragraph"/></p> <p>It is our duty to express our thanks to the author’s<lb/> widow, Mrs. Pumami, for her assistance with the manu<lb break="no"/>scripts, with the copyright, and with financial support,<lb break="paragraph"/><pb n="v" xml:id="page__daa3dc99-bcd9-485c-9df4-73a28b40e054"/><fw type="pageNum">v</fw>without all of which the publication of this volume would<lb/> have been impossible. No English manuscripts were<lb/> forthcoming in the case of the papers numbered VI, VII,<lb/> and X. They have been translated into English by<lb/> Dr. Katherine Jones from the German text which originated<lb/> from Putnam himself.<lb break="paragraph"/></p>
-         
-         
-            
-              <p>This volume will keep fresh in analytical circles the<lb/> memory of the friend whose loss we so profoundly<lb/> deplore. May it be the ﬁrst of a series of publications<lb/> which shall serve the end of furthering the understanding<lb/> and application of psycho-analysis among those who speak<lb/> the English tongue — an end to which James J. Putnam<lb/> dedicated the last ten years of his fruitful life.<lb break="paragraph"/></p> <p>Jan. 1921<lb break="paragraph"/></p> <p>SIGM. FREUD<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="Titelblatt" xml:id="page__67948b70-0b0a-486e-88a7-3034916681f7"/>
+        <p>INTERNATIONAL PSYCHO-ANALYTICAL LIBRARY<lb/> No. 1<lb break="paragraph"/>
+        </p>
+        <p rendition="#h1">
+          <title>ADRESSES<lb/> ON<lb/> PSYCHO-ANALYSIS<lb break="paragraph"/>
+          </title>
+        </p>
+        <p>BY<lb break="paragraph"/>
+        </p>
+        <p>J. J. PUNTNAM, M.D.<lb/> EMERITUS PROFESSOR OF NEUROLOGY<lb/> HARVARD UNIVERSITY<lb break="paragraph"/>
+        </p>
+        <p>WITH A PREFACE BY<lb/> SIGM. FREUD, M.D., L.L.D.<lb break="paragraph"/>
+        </p>
+        <p>THE INTERNATIONAL PSYCHO-ANALYTICAL PRESS<lb/> LONDON VIENNA NEW YORK<lb/> 1921<lb break="paragraph"/>
+        </p>
+        <pb n="iii" xml:id="page__96c580d8-c2aa-4773-a197-600aa62b3ead"/>
+        <p>
+          <hi rendition="#bold">iii</hi>
+          <lb break="paragraph"/>
+        </p>
+        <p rendition="#level_2">PREFACE</p>
+        <p>The Editor of this series must feel a special satis<lb break="no"/>faction in being able to issue as its Opening volume this<lb/> collection of the psycho-analytical writings of Professor<lb/> James J. Putnam, the distinguished neurologist of Harvard<lb/> University. Professor Putnam, who died in 1918 at the<lb/> age of seventy-two, was not only the first American to<lb/> interest himself in psycho-analysis, but soon became<lb/> its most decided supporter and its most influential<lb/> representative in America. In consequence of the established<lb/> reputation which he had gained through his activities as<lb/> a teacher, as well as through his important work in the<lb/> domain of organic nervous disease, and thanks to the<lb/> universal respect which his personality enjoyed, he was<lb/> able to do perhaps more than anyone for the spread of<lb/> psycho-analysis in his own country, and was able to<lb/> protect it from aspersions which, on the other side of<lb/> the Atlantic no less than this, would inevitably have been<lb/> cast upon it. But all such reproaches were bound to be<lb/> silenced when a man of Putnam’s lofty ethical standards<lb/> and more rectitude had ranged himself among the sup<lb break="no"/>porters of the new science and of the therapeutics based<lb/> upon it.<lb break="paragraph"/>
+        </p>
+        <p>The papers here collected into a single volume, which<lb/> were written by Putnam between 1909 and the end of<lb/> his life, give a good picture of his relations to psycho<lb break="no"/>analysis. They show how he was at first occupied in<lb/> correeting a provisional judgement which was based on<lb/> insufficient knowledge; how he then accepted the essence<lb/> of analysis, recognized its capacity for throwing a clear<lb/> light upon the origin of human imperfections and failings,<lb break="paragraph"/>
+          <pb n="iv" xml:id="page__35b6d345-17f2-48c9-9607-62dadc6d93f1"/>
+          <fw type="pageNum"/>and how he was struclt by the prospect of contributing<lb/> towards the improvement of humanity along analytical<lb/> lines; how he then became convinced by his own activi<lb break="no"/>ties as a physician as to the truth of most of the psycho<lb break="no"/>analytical conclusions and postulates, and then in his turn<lb/> bare witness to the fact that the physician who makes<lb/> use of analysis understands far more about the sufferings<lb/> of his patients and can do far more for them than was<lb/> possible with the earlier methods of treatment; and<lb/> ﬁnal how he began to extend beyond the limits of<lb/> analysis, demanding that as a science it should be linked<lb/> on to a particular philosophical system, and that its<lb/> practice should be openly associated with a particular<lb/> set of ethical doctrines.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#bold">iv</hi>
+          <lb break="paragraph"/>
+        </p>
+        <p>So it is not to be wondered at that a mind with<lb/> such pre-eminently ethical and philosophical tendencies as<lb/> Putnam’s should have desired, after he had plunged deep<lb/> into psycho-analysis, to establish the closest relation<lb/> between it and the aims which lay nearest his heart. But<lb/> his enthusiasm, so admirable in a man of his advanced<lb/> age, did not succeed in carrying others along with him.<lb/> Younger people remained cooler. It was especially<lb/> Ferenczi who expressed the opposite view. The decisive<lb/> reason for the rejection of Putnam’s proposals was the doubt<lb/> as to which of the countless philosophical systems should be<lb/> accepted, since they all seemed to rest on an equally<lb/> insecure basis, and since everything had up till then been<lb/> sacrificed for the sake of the relative certainty of the<lb/> results of psycho-analysis. It seemed more prudent to<lb/> wait, and to discover whether a particular attitude towards<lb/> life might be forced upon us with all the weight of<lb/> necessity by analytical investigation itself.<lb break="paragraph"/>
+        </p>
+        <p>It is our duty to express our thanks to the author’s<lb/> widow, Mrs. Pumami, for her assistance with the manu<lb break="no"/>scripts, with the copyright, and with financial support,<lb break="paragraph"/>
+          <pb n="v" xml:id="page__daa3dc99-bcd9-485c-9df4-73a28b40e054"/>
+          <fw type="pageNum">v</fw>without all of which the publication of this volume would<lb/> have been impossible. No English manuscripts were<lb/> forthcoming in the case of the papers numbered VI, VII,<lb/> and X. They have been translated into English by<lb/> Dr. Katherine Jones from the German text which originated<lb/> from Putnam himself.<lb break="paragraph"/>
+        </p>
+        <p>This volume will keep fresh in analytical circles the<lb/> memory of the friend whose loss we so profoundly<lb/> deplore. May it be the ﬁrst of a series of publications<lb/> which shall serve the end of furthering the understanding<lb/> and application of psycho-analysis among those who speak<lb/> the English tongue — an end to which James J. Putnam<lb/> dedicated the last ten years of his fruitful life.<lb break="paragraph"/>
+        </p>
+        <p>Jan. 1921<lb break="paragraph"/>
+        </p>
+        <p>SIGM. FREUD<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

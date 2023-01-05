@@ -1,203 +1,209 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1923-101): Skizze</title>
-            <title type="manifestation" level="a">Skizze (1923-101/1923.01)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1923-101): Skizze</title>
+        <title type="manifestation" level="a">Skizze (1923-101/1923.01)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1923-101-1923.01" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Skizze</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__354edaaf-2a90-4c1d-b9e3-82e7d7788970">
-                        <title>Skizze</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1923-101-1923.01" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Skizze</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__354edaaf-2a90-4c1d-b9e3-82e7d7788970">
+                <title>Skizze</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1923-101/1923.01</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/skizze/handschrift</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/354edaaf-2a90-4c1d-b9e3-82e7d7788970</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__a5345a2e-8278-4405-a0be-4cd5aab3b907">
-                              <title>Freud, Sigmund  (1923-101): Skizze</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/skizze</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a5345a2e-8278-4405-a0be-4cd5aab3b907</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>Library of Congress, Freud Archives</repository>
-                           <idno type="Library-of-Congress,-Freud-Archives">OV14 Box 40/13</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1923-101/1923.01</idno>
+                <idno type="url">https://www.freud-edition.net/werke/skizze/handschrift</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/354edaaf-2a90-4c1d-b9e3-82e7d7788970</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__a5345a2e-8278-4405-a0be-4cd5aab3b907">
+                    <title>Freud, Sigmund  (1923-101): Skizze</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/skizze</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/a5345a2e-8278-4405-a0be-4cd5aab3b907</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>Library of Congress, Freud Archives</repository>
+                  <idno type="Library-of-Congress,-Freud-Archives">OV14 Box 40/13</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/04d6c0bc-d371-4f08-87fe-ccb20581f6ca</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Blatt/Blätter aus <material>Papier</material> in Handschrift Freud (Kurrent) Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Handschrift Freud (Kurrent) Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Handschrift</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__f0176d96-4a42-4bbd-94c1-c2523fbc1a79"/>
-            <p><u>Skizze</u><lb break="paragraph"/></p> <p>Allgemein bekannt, wofür <u>Mitteilung</u> an <lb/> andere Person dient für Befriedigung <lb/> der eigenen Bedürfniße mit Hilfe <lb/> dieser anderen. Das schließt Fall ein, daß <lb/> dies Bedürfnis bloß ist, von dieser Person <lb/> geliebt zu werden (im extremen Fall Liebes<lb break="no"/>Erklärung)<lb break="paragraph"/></p> <p>Vorteil einfach. Situation ändert sich, wenn <lb/> Kritik oder Verwerfung der eigenen <lb/> Bedürfniße eintritt, sodaß ein Teil <lb/> unerlaubt wird und vor anderen ver<lb break="no"/>borgen werden soll, weil Gefahr des <lb/> Liebesverlustes droht. Dann sollten solche<lb/> Mitteilungen unterbleiben. Erfahrung <lb/> zeigt, daß sie auf dann vorkmmen als <lb/> Fehlleistungen, und als Symptome,. Die Person <lb/> sagt dann mehr u anderes als sie beab<lb break="no"/>züchtigt oder weiß, ihre Mitteilung wird <lb/> was man Geständnis heißt. Normaler <lb/> Weise entsteht ein Geständnis, indem eine <lb/> Person sich von dem Vorwurf Selbst<lb break="no"/>wegen des bösen Bedürfnißes (Trieb<lb break="no"/>regung) entlastet. Es will sage: wenn Du <lb/> nicht verzeihst, verzeihe ich mir selbst<lb/> u. die Gefahr des Liebesverlustes wird<lb/> beschweren durch die Versicherg dass<lb/> man die andere Person so liebt, wie<lb/> sein besseres Selbst sein eigenes<lb/> Überich. Ein solches Geständniss ist im<lb/> Grunde ein Bettel um Liebe an Stelle<lb/> der gestörten hiebe zwischen Ich u Überich.<lb break="paragraph"/></p> <p>Fehlleistungen und Symptome sind nicht<lb/> so klar Gestaendniße, eigentlich nur Selbstver<lb break="no"/>rat. Man will nichts Genantes mitteilen, <lb/> es ist nicht ersichtlich, daß man um<lb/> Liebe bettelt. Vielleicht erklärt sich<lb/> ihr Zustandekom̄en einfach aus der<lb/> Stärke der Triebregung die sich trotz<lb/> Widerstrebens durchsetzt. Aber wahr<lb break="no"/>scheinlich ist hier schon jenes Moment<lb/> hinzugekom̄en, das zum zweiten Mal<lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__8135f778-3446-4974-9006-ea811972e814"/>
-            <p>eine neue Situation schafft, das Schuldgefühl oder<lb/> Strafbedürfnis. Dies macht aus Geständnis<lb/> den Geständniszwang. Der Konflikt zwischen<lb/> Überich u Ich kann nicht nur beschwichtigt<lb/> werden, wenn man Liebe von einem<lb/> anderen Ueberich bekom̄t, sondern auch<lb/> wenn man die Strafe annim̄t. Man<lb/> braucht dann den anderen nicht, es ist<lb/> Art von narzißtisch Regression, die Mit<lb break="no"/>teilung des Verbotenen ermöglicht <lb break="paragraph"/></p> <p>In Analyse wo ja Mitteilg, Geständnis <lb/> besondere Rolle spielt, ist die Situation<lb/> dem Geständnis auch dem unbeabsichtigt<lb/> sehr erleichtert. Denn Geständis<lb/> wird nachträglich sekundär, nachdem<lb/> Strafe gewesen war, wieder Mittel <lb/> Liebeserwerb, als Gehorsam gegen<lb/> Analytiker.<lb break="paragraph"/></p> <p>2) Soweit das Alte. Nun einige Zusätze, die<lb/> sich auf Entwicklg des Zwanges be<lb break="no"/>ziehen also auf Zeit vor Unterwerfg<lb/> unter Strafbedürfnis. Vielleicht<lb/> nicht genug gewürdigt worden. Nämlich<lb/> betreffs Mitteilg sexuell Bedürfniße<lb/> in Kindheit. Form, in der sex Mitteilg auftritt <lb/> ist die Exhibition, die wir wissen, im̄er<lb/> Verführgsversuch ist. [<del>xx</del>] nach Eintreten<lb/> des Verbots wird deutlich, dass diese früh<lb break="no"/>kindlichen Exhibitionen u Verführgen<lb/> als direkte Triebansprüche dazu beitragen,<lb/> die Mitteilung zwanghaft durchzusetzen<lb/> u als Gestaendnis aufzutreten.<lb break="paragraph"/></p> <p>–––––<lb break="paragraph"/></p> <p>Nur Rahmen der Ausfuehnzng bedürftig<lb/> besonders der zweite Teil, der das Neue<lb/> bringt.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Handschrift Freud (Kurrent) Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Handschrift</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__f0176d96-4a42-4bbd-94c1-c2523fbc1a79"/>
+        <p>
+          <u>Skizze</u>
+          <lb break="paragraph"/>
+        </p>
+        <p>Allgemein bekannt, wofür <u>Mitteilung</u> an <lb/> andere Person dient für Befriedigung <lb/> der eigenen Bedürfniße mit Hilfe <lb/> dieser anderen. Das schließt Fall ein, daß <lb/> dies Bedürfnis bloß ist, von dieser Person <lb/> geliebt zu werden (im extremen Fall Liebes<lb break="no"/>Erklärung)<lb break="paragraph"/>
+        </p>
+        <p>Vorteil einfach. Situation ändert sich, wenn <lb/> Kritik oder Verwerfung der eigenen <lb/> Bedürfniße eintritt, sodaß ein Teil <lb/> unerlaubt wird und vor anderen ver<lb break="no"/>borgen werden soll, weil Gefahr des <lb/> Liebesverlustes droht. Dann sollten solche<lb/> Mitteilungen unterbleiben. Erfahrung <lb/> zeigt, daß sie auf dann vorkmmen als <lb/> Fehlleistungen, und als Symptome,. Die Person <lb/> sagt dann mehr u anderes als sie beab<lb break="no"/>züchtigt oder weiß, ihre Mitteilung wird <lb/> was man Geständnis heißt. Normaler <lb/> Weise entsteht ein Geständnis, indem eine <lb/> Person sich von dem Vorwurf Selbst<lb break="no"/>wegen des bösen Bedürfnißes (Trieb<lb break="no"/>regung) entlastet. Es will sage: wenn Du <lb/> nicht verzeihst, verzeihe ich mir selbst<lb/> u. die Gefahr des Liebesverlustes wird<lb/> beschweren durch die Versicherg dass<lb/> man die andere Person so liebt, wie<lb/> sein besseres Selbst sein eigenes<lb/> Überich. Ein solches Geständniss ist im<lb/> Grunde ein Bettel um Liebe an Stelle<lb/> der gestörten hiebe zwischen Ich u Überich.<lb break="paragraph"/>
+        </p>
+        <p>Fehlleistungen und Symptome sind nicht<lb/> so klar Gestaendniße, eigentlich nur Selbstver<lb break="no"/>rat. Man will nichts Genantes mitteilen, <lb/> es ist nicht ersichtlich, daß man um<lb/> Liebe bettelt. Vielleicht erklärt sich<lb/> ihr Zustandekom̄en einfach aus der<lb/> Stärke der Triebregung die sich trotz<lb/> Widerstrebens durchsetzt. Aber wahr<lb break="no"/>scheinlich ist hier schon jenes Moment<lb/> hinzugekom̄en, das zum zweiten Mal<lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__8135f778-3446-4974-9006-ea811972e814"/>
+        <p>eine neue Situation schafft, das Schuldgefühl oder<lb/> Strafbedürfnis. Dies macht aus Geständnis<lb/> den Geständniszwang. Der Konflikt zwischen<lb/> Überich u Ich kann nicht nur beschwichtigt<lb/> werden, wenn man Liebe von einem<lb/> anderen Ueberich bekom̄t, sondern auch<lb/> wenn man die Strafe annim̄t. Man<lb/> braucht dann den anderen nicht, es ist<lb/> Art von narzißtisch Regression, die Mit<lb break="no"/>teilung des Verbotenen ermöglicht <lb break="paragraph"/>
+        </p>
+        <p>In Analyse wo ja Mitteilg, Geständnis <lb/> besondere Rolle spielt, ist die Situation<lb/> dem Geständnis auch dem unbeabsichtigt<lb/> sehr erleichtert. Denn Geständis<lb/> wird nachträglich sekundär, nachdem<lb/> Strafe gewesen war, wieder Mittel <lb/> Liebeserwerb, als Gehorsam gegen<lb/> Analytiker.<lb break="paragraph"/>
+        </p>
+        <p>2) Soweit das Alte. Nun einige Zusätze, die<lb/> sich auf Entwicklg des Zwanges be<lb break="no"/>ziehen also auf Zeit vor Unterwerfg<lb/> unter Strafbedürfnis. Vielleicht<lb/> nicht genug gewürdigt worden. Nämlich<lb/> betreffs Mitteilg sexuell Bedürfniße<lb/> in Kindheit. Form, in der sex Mitteilg auftritt <lb/> ist die Exhibition, die wir wissen, im̄er<lb/> Verführgsversuch ist. [<del>xx</del>] nach Eintreten<lb/> des Verbots wird deutlich, dass diese früh<lb break="no"/>kindlichen Exhibitionen u Verführgen<lb/> als direkte Triebansprüche dazu beitragen,<lb/> die Mitteilung zwanghaft durchzusetzen<lb/> u als Gestaendnis aufzutreten.<lb break="paragraph"/>
+        </p>
+        <p>–––––<lb break="paragraph"/>
+        </p>
+        <p>Nur Rahmen der Ausfuehnzng bedürftig<lb/> besonders der zweite Teil, der das Neue<lb/> bringt.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

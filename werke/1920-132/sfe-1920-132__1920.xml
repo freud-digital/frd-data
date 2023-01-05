@@ -1,227 +1,329 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1920-132; 1920h): Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
-            <title type="manifestation" level="a">Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920 (1920-132/1920)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1920-132; 1920h): Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
+        <title type="manifestation" level="a">Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920 (1920-132/1920)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1920-132-1920" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
-                     <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
-                     <title type="publication-short">IZP</title>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1920-01-01">1920-01-01</date>
-                     </imprint>
-                     <extent>391 Seiten</extent>
-                     <biblScope unit="volume">4</biblScope>
-                     <biblScope unit="year">6</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__fb2d1005-4a95-4143-ad5f-78382561e24c">
-                        <title>Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1920-132-1920" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Internationale Zeitschrift für Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication-short">IZP</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1920-01-01">1920-01-01</date>
+              </imprint>
+              <extent>391 Seiten</extent>
+              <biblScope unit="volume">4</biblScope>
+              <biblScope unit="year">6</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__fb2d1005-4a95-4143-ad5f-78382561e24c">
+                <title>Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1920-132/1920</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/diskussionsbemerkungen-auf-der-geschaftssitzung-des-6-internationalen-psychoanalytischen</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fb2d1005-4a95-4143-ad5f-78382561e24c</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__7e516723-25b1-48c7-b607-c2140e08292a">
-                              <title>Freud, Sigmund  (1920-132; 1920h): Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/diskussionsbemerkungen-auf-der-geschaftssitzung-des-6-internationalen</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7e516723-25b1-48c7-b607-c2140e08292a</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>IPU</repository>
-                           <idno type="IPU">InternationaleZeitschriftFuumlrPsychoanalyseXv1929Heft4</idno>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1920-132/1920</idno>
+                <idno type="url">https://www.freud-edition.net/werke/diskussionsbemerkungen-auf-der-geschaftssitzung-des-6-internationalen-psychoanalytischen</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/fb2d1005-4a95-4143-ad5f-78382561e24c</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__7e516723-25b1-48c7-b607-c2140e08292a">
+                    <title>Freud, Sigmund  (1920-132; 1920h): Diskussionsbemerkungen auf der Geschäftssitzung des 6. Internationalen Psychoanalytischen Kongresses in Den Haag, 8.-11.9.1920</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/diskussionsbemerkungen-auf-der-geschaftssitzung-des-6-internationalen</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/7e516723-25b1-48c7-b607-c2140e08292a</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>IPU</repository>
+                  <idno type="IPU">InternationaleZeitschriftFuumlrPsychoanalyseXv1929Heft4</idno>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="complete">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'complete' entspricht einer abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__5c6086ec-fa70-45ac-a0d6-3382bd9dfb3e"/>
-            <fw type="pageNum">388</fw> <p>Pfarrer <hi rendition="#smallcaps">Pfister </hi>(Zürich) stellt folgenden Antrag: Die Lei<lb break="no"/>tung der Internationalen Psychoanalytischen Vereinigung wird auf<lb break="no"/>gefordert zu prüfen und dem nächsten Kongreß Vorschläge darüber<lb/> zu unterbreiten, ob und eventuell unter welchen Bedingungen <hi rendition="#smallcaps">Di<lb break="no"/>plome</hi> für Psychoanalytiker ausgestellt werden sollen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Sachs </hi>(Wien) beantragt die Annahme dieses wichtigen und<lb/> vorsichtig formulierten Antrages.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Liebermann </hi>(Berlin) möchte, daß sich der Kongreß jetzt<lb/> über diese Frage schlüssig werde.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Eitingon </hi>(Berlin) hält den Antrag in dieser Form für nicht<lb/> akzeptabel, gesteht aber die Wichtigkeit zu, einen Weg zu finden,<lb/> der das Diplom dann nicht mehr nötig mache.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Freud </hi>(Wien) erklärt das Thema für so kompliziert und<lb/> wichtig, daß es ohne Vorbereitung nicht Gegenstand der Beratung<lb/> werden könne und schließt sich darum dem Antrag an, es dem<lb/> nächsten Kongreß vorzubehalten.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Abraham </hi>(Berlin) stimmt zu, hält aber den angegebenen<lb/> Weg nicht ohne weiteres gangbar.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Bryan </hi>(London) schlägt vor, daß jede Gruppe den Vorschlag<lb/> für sich diskutiere und das Ergebnis an die Zentrale weiterleiten<lb/> möge.<lb break="paragraph"/></p> <p>Nachdem schließlich <hi rendition="#smallcaps">Ferenczi </hi>(Budapest) noch für <hi rendition="#smallcaps">Pfisters</hi><lb/> Antrag eingetreten war, wurde derselbe vom Kongreß angenommen.<lb break="paragraph"/></p> <p>Dr. Hans <hi rendition="#smallcaps">Liebermann </hi>(Berlin) stellt den Antrag, der Kon<lb break="no"/>greß möge sich dahin einigen, nach welchen Gesichtspunkten bei<lb/> der Aufnahme neuer Mitglieder verfahren werden solle.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Jones </hi>(London) stellt hierauf einen Antrag, der schließlich<lb/> in folgender, von Prof. <hi rendition="#smallcaps">Freud </hi>vorgeschlagenen Fassung ange<lb/> nommen wird:<lb break="paragraph"/></p> <p>„<hi rendition="#smallcaps">Die Aufnahme in eine ortsfremde Gruppe bedarf<lb/> der Einwilligung der Zentralleitung</hi>“,<lb break="paragraph"/></p> <p>wozu <hi rendition="#smallcaps">Abraham </hi>(Berlin) den Zusatz fügt, daß sich bei jeder<lb/> ortsfremden Neubewerbung die Schriftführer der betreffenden Grup<lb break="no"/>pen in Verbindung setzen sollen.<lb break="paragraph"/></p> <p>Dr. v. <hi rendition="#smallcaps">Hattingberg </hi>(München) möchte die <hi rendition="#smallcaps">Bedingungen</hi><lb/> für die <hi rendition="#smallcaps">Mitgliedschaft </hi>überhaupt festgestellt sehen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Ferenczi </hi>(Budapest) ist für Beibehaltung des bisherigen<lb/> Modus.<lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__e6221ca5-d531-4609-92c1-a3901f00aba6"/>
-            <fw type="pageNum">389</fw> <p><hi rendition="#smallcaps">Freud </hi>(Wien) möchte diese wichtige Frage im Zusammenhang<lb/> mit der eng dazugehörigen Diplomfrage auch auf den nächsten<lb/> Kongreß vertagen.<lb break="paragraph"/></p> <p>Dieser Antrag wird einstimmig angenommen.<lb break="paragraph"/></p> <p>Vorsitzender Dr. <hi rendition="#smallcaps">Ferenczi </hi>schlägt nun vor, das „<hi rendition="#smallcaps">Inter<lb break="no"/>national Journal of Psycho-Analysis</hi>“ zum offiziellen<lb/> Vereinsorgan der englisch sprechenden Gruppe zu machen und er<lb break="no"/>teilt zur Begründung dieses Vorschlages Dr. <hi rendition="#smallcaps">Rank </hi>das Wort, der<lb/> einen kurzen Überblick über die Motive gibt, die zur Gründung<lb/> des englischen Journals geführt haben sowie über seine Ziele und<lb/> Absichten.<lb break="paragraph"/></p> <p>R. de <hi rendition="#smallcaps">Saussure </hi>(Genf) möchte für die französiech sprechen<lb break="no"/>den Kollegen in der Welschschweiz die Möglichkeit offen sehen,<lb/> statt der beiden deutschen Zeitschriften die englische zu abon<lb break="no"/>nieren, welchen Vorschlag Pfister dahin ergänzt, daß es allen<lb/> nicht deutsch sprechenden Mitgliedern frei stehen solle, das eng<lb break="no"/>lische Journal zu wählen.<lb break="paragraph"/></p> <p>Dieser Antrag wird vom Kongreß angenommen.<lb break="paragraph"/></p> <p>Dr. Adolph <hi rendition="#smallcaps">Stern</hi> (New York) stimmt als Sekretär der New<lb/> Yorker Gruppe dafür, das Journal zum offiziellen Organ zu<lb/> machen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Bryan</hi> (London) stimmt als Sekretär der „British Society“<lb/> gleichfalls dafür.<lb break="paragraph"/></p> <p>Hierauf erhebt der Kongreß den Antrag, das „International<lb/> Journal of Psycho-Analysis“ zum offiziellen Vereinsorgan neben der<lb/> „Zeitschrift“ und „Imago“ zu machen, einstimmig zum Beschluß.<lb break="paragraph"/></p> <p>Prof. <hi rendition="#smallcaps">Freud </hi>dankt als Herausgeber des englischen Journals<lb/> den englisch sprechenden Gruppen und möchte deren Wünsche be<lb break="no"/>züglich der Redaktionsführung Rechnung tragen, Vorläufig sei<lb/> Dr. Ernest <hi rendition="#smallcaps">Jones </hi>(London) provisorisch alleiniger Redakteur; die<lb/> anglo-amerikanischen Gruppen mögen sich äußern, ob dies so blei<lb break="no"/>ben solle oder ob und wie viele Mitredakteure und wie viele aus<lb/> jeder Gruppe zu bestimmen seien.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Pfister </hi>schlägt vor, auch einen Amerikaner zum Redakteur<lb/> zu wählen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Jones </hi>setzt die Nachteile eines mehrköpfigen Redaktions<lb break="no"/>komitees auseinander und begründet die Notwendigkeit einer Zen<lb break="no"/>tralstelle.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Bryan </hi>(London) meint, es genüge ein Editor für England.<lb/> Im übrigen habe die Frage der Redakteurschaft der Verlag zu ent<lb break="no"/>scheiden.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Stern </hi>(New York) schlägt vor, die Gruppen sollen ihre Re<lb break="no"/>dakteure wählen.<lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__4ba5c21d-cf77-47fd-ab9d-bc236bb7c434"/>
-            <fw type="pageNum">390</fw> <p>Der Kongreß beschließt, <hi rendition="#smallcaps">Jones</hi> als Hauptredakteur zu be<lb break="no"/>stätigen und eine vorzuschlagende Liste von Subredakteuren aus<lb/> England und Amerika einzuholen.<lb break="paragraph"/></p> <p>Präsident Dr. <hi rendition="#smallcaps">Ferenczi </hi>bringt hierauf die Frage des näch<lb break="no"/>sten Kongresses zur Sprache mit dem Bemerken, daß bereits<lb/> zwei Einladungen, und zwar eine nach Berlin von Dr. <hi rendition="#smallcaps">Abraham</hi><lb/> unterbreitete, und eine nach der Schweiz von Dr. <hi rendition="#smallcaps">Pfister </hi>über<lb break="no"/>brachte, vorliegen.<lb break="paragraph"/></p> <p>Nachdem <hi rendition="#smallcaps">Jones </hi>in längerer Rede die nach verschiedenen Rich<lb break="no"/>tungen zu begründende Priorität Berlins hervorgehoben hat, zieht<lb/> Pfister die Einladung zurück, worauf noch Prof. <hi rendition="#smallcaps">Freud </hi>(Wien),<lb/> <hi rendition="#smallcaps">Stern </hi>(New York) und <hi rendition="#smallcaps">Stoddart </hi>(London) für Berlin eintreten,<lb/> das einstimmig als nächster Kongreßort gewählt wird.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Liebermann </hi>(Berlin) dankt als Sekretär namens seiner<lb/> Ortsgruppe.<lb break="paragraph"/></p> <p>Die vom. Vorsitzenden hierauf angeschnittene Frage des <hi rendition="#smallcaps">Zeit<lb break="no"/>punktes</hi> für den nächsten Kongreß möchte Prof. <hi rendition="#smallcaps">Freud</hi> jetzt<lb/> noch nicht entscheiden. <hi rendition="#smallcaps">Abraham</hi> stimmt ihm zu, hält es aber<lb/> für wissenswert, die Stimmung des Kongresses darüber einzuholen.<lb/> Die Abstimmung hierüber ergibt eine große Mehrheit für die Ab<lb break="no"/>haltung des Kongresses möglichst schon im kommenden Jahr.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Rank</hi> (Wien) fordert zur Organisierung des <hi rendition="#smallcaps">Refe<lb break="no"/>ratenwesens</hi> in allen Ortsgruppen nachdrücklich auf.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Jones</hi> schlägt vor, eigene Reieratensekretäre für diesen Zweck<lb/> in den einzelnen Gruppen zu bestimmen, wie dies bereits Wien<lb/> in Dr. <hi rendition="#smallcaps">Hitschmann</hi> und New York in Dr. <hi rendition="#smallcaps">Stern</hi>, dem Cor<lb break="no"/>responding Secretary der New Yorker Gruppe, besitzen.<lb break="paragraph"/></p> <p>Der Vorsitzende schreitet nunmehr zur <hi rendition="#smallcaps">Präsidentenwahl</hi><lb/> und übergibt die stellvertretende Präsidentschaft Dr. <hi rendition="#smallcaps">Stoddart</hi><lb/> (London).<lb break="paragraph"/></p> <p>Dr. <hi rendition="#smallcaps">Abraham</hi> (Berlin) schlägt die Wahl des zeitweiligen<lb/> provisorischen Präsidenten Dr. Ernest <hi rendition="#smallcaps">Jones</hi> (London) zum Prä<lb break="no"/>sidenten vor.<lb break="paragraph"/></p> <p>Prof. <hi rendition="#smallcaps">Freud</hi> unterstützt diesen Vorschlag, nicht ohne sein<lb/> Bedauern auszusprechen, daß es dem bisherigen Präsidenten Dr. <hi rendition="#smallcaps">Fe<lb break="no"/>renczi</hi> in Budapest durch die Ungunst der Verhältnisse verwehrt<lb/> war, sein Amt voll zu erfüllen. Er habe jedoch in der Zeit seiner<lb/> Präsidentschaft die erste ordentliche Professur für Psychoanalyse<lb/> während der kurzen Zeit der Räteherrschaft innegehabt.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Eitingon</hi> (Berlin) teilt mit, daß <hi rendition="#smallcaps">Ferenczi</hi> zum Ehren<lb break="no"/>mitglied der Berliner Gruppe gewählt wurde.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Ferenczi</hi> dankt für die Ehrung.<lb break="paragraph"/></p>
-         
-         
-            <pb n="4" xml:id="page__c28269a9-ec14-4a68-9bdc-d617914bb99e"/>
-            <fw type="pageNum">391</fw> <p>Hierauf wird Dr. Ernest <hi rendition="#smallcaps">Jones</hi> (London) einstimmig zum<lb/> Präsidemten der Internationalen Psychoanalytischen Vereinigung<lb/> gewählt.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Jones</hi> dankt für die Wahl, übernimmt das Präsidium und<lb/> nominiert Mr. J. C. <hi rendition="#smallcaps">Flügel</hi> als <hi rendition="#smallcaps">Zentralsekretär</hi>.<lb break="paragraph"/></p> <p>Frau Dr. <hi rendition="#smallcaps">Spielrein</hi> (Lausanne) teilt mit, sie beabsichtige<lb/> nach Genf zu übersiedeln, um dort am Institut Jean Jaques Rous<lb break="no"/>seau zu arbeiten und trägt ihre Mitwirkung bei der Wieder<lb break="no"/>anknüpfung literarischer Beziehungen zu Rußland an. Sie schlägt<lb/> u. a. vor, den Kongreßbericht ins Russische zu übersetzen und auch.<lb/> russische Beiträge zur Psychoanalyse zu sammeln und eventuell zu<lb/> publizieren.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Reik</hi> (Wien) meint, daß die Druckkosten zur Publikation<lb/> dieser russischen Literatur heute noch zu groß wären, um dieses.<lb/> Unternehmen zu lohnen.<lb break="paragraph"/></p> <p><hi rendition="#smallcaps">Eitingon</hi> (Berlin) möchte den Vorschlag unterstützen, das<lb break="no"/>russische Material wenigstens zu sammeln und das Wichtigste zu<lb/> übersetzen.<lb break="paragraph"/></p> <p>Prof. <hi rendition="#smallcaps">Freud</hi> weist darauf hin, daß eine eventuelle Subven<lb break="no"/>tionierung dieser Aktion eine Angelegenheit des psychoanalytischen<lb/> Fonds sei, der sich dafür interessieren werde.<lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="progress">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__5c6086ec-fa70-45ac-a0d6-3382bd9dfb3e"/>
+        <fw type="pageNum">388</fw>
+        <p>Pfarrer <hi rendition="#smallcaps">Pfister </hi>(Zürich) stellt folgenden Antrag: Die Lei<lb break="no"/>tung der Internationalen Psychoanalytischen Vereinigung wird auf<lb break="no"/>gefordert zu prüfen und dem nächsten Kongreß Vorschläge darüber<lb/> zu unterbreiten, ob und eventuell unter welchen Bedingungen <hi rendition="#smallcaps">Di<lb break="no"/>plome</hi> für Psychoanalytiker ausgestellt werden sollen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Sachs </hi>(Wien) beantragt die Annahme dieses wichtigen und<lb/> vorsichtig formulierten Antrages.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Liebermann </hi>(Berlin) möchte, daß sich der Kongreß jetzt<lb/> über diese Frage schlüssig werde.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Eitingon </hi>(Berlin) hält den Antrag in dieser Form für nicht<lb/> akzeptabel, gesteht aber die Wichtigkeit zu, einen Weg zu finden,<lb/> der das Diplom dann nicht mehr nötig mache.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Freud </hi>(Wien) erklärt das Thema für so kompliziert und<lb/> wichtig, daß es ohne Vorbereitung nicht Gegenstand der Beratung<lb/> werden könne und schließt sich darum dem Antrag an, es dem<lb/> nächsten Kongreß vorzubehalten.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Abraham </hi>(Berlin) stimmt zu, hält aber den angegebenen<lb/> Weg nicht ohne weiteres gangbar.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Bryan </hi>(London) schlägt vor, daß jede Gruppe den Vorschlag<lb/> für sich diskutiere und das Ergebnis an die Zentrale weiterleiten<lb/> möge.<lb break="paragraph"/>
+        </p>
+        <p>Nachdem schließlich <hi rendition="#smallcaps">Ferenczi </hi>(Budapest) noch für <hi rendition="#smallcaps">Pfisters</hi>
+          <lb/> Antrag eingetreten war, wurde derselbe vom Kongreß angenommen.<lb break="paragraph"/>
+        </p>
+        <p>Dr. Hans <hi rendition="#smallcaps">Liebermann </hi>(Berlin) stellt den Antrag, der Kon<lb break="no"/>greß möge sich dahin einigen, nach welchen Gesichtspunkten bei<lb/> der Aufnahme neuer Mitglieder verfahren werden solle.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Jones </hi>(London) stellt hierauf einen Antrag, der schließlich<lb/> in folgender, von Prof. <hi rendition="#smallcaps">Freud </hi>vorgeschlagenen Fassung ange<lb/> nommen wird:<lb break="paragraph"/>
+        </p>
+        <p>„<hi rendition="#smallcaps">Die Aufnahme in eine ortsfremde Gruppe bedarf<lb/> der Einwilligung der Zentralleitung</hi>“,<lb break="paragraph"/>
+        </p>
+        <p>wozu <hi rendition="#smallcaps">Abraham </hi>(Berlin) den Zusatz fügt, daß sich bei jeder<lb/> ortsfremden Neubewerbung die Schriftführer der betreffenden Grup<lb break="no"/>pen in Verbindung setzen sollen.<lb break="paragraph"/>
+        </p>
+        <p>Dr. v. <hi rendition="#smallcaps">Hattingberg </hi>(München) möchte die <hi rendition="#smallcaps">Bedingungen</hi>
+          <lb/> für die <hi rendition="#smallcaps">Mitgliedschaft </hi>überhaupt festgestellt sehen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Ferenczi </hi>(Budapest) ist für Beibehaltung des bisherigen<lb/> Modus.<lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__e6221ca5-d531-4609-92c1-a3901f00aba6"/>
+        <fw type="pageNum">389</fw>
+        <p>
+          <hi rendition="#smallcaps">Freud </hi>(Wien) möchte diese wichtige Frage im Zusammenhang<lb/> mit der eng dazugehörigen Diplomfrage auch auf den nächsten<lb/> Kongreß vertagen.<lb break="paragraph"/>
+        </p>
+        <p>Dieser Antrag wird einstimmig angenommen.<lb break="paragraph"/>
+        </p>
+        <p>Vorsitzender Dr. <hi rendition="#smallcaps">Ferenczi </hi>schlägt nun vor, das „<hi rendition="#smallcaps">Inter<lb break="no"/>national Journal of Psycho-Analysis</hi>“ zum offiziellen<lb/> Vereinsorgan der englisch sprechenden Gruppe zu machen und er<lb break="no"/>teilt zur Begründung dieses Vorschlages Dr. <hi rendition="#smallcaps">Rank </hi>das Wort, der<lb/> einen kurzen Überblick über die Motive gibt, die zur Gründung<lb/> des englischen Journals geführt haben sowie über seine Ziele und<lb/> Absichten.<lb break="paragraph"/>
+        </p>
+        <p>R. de <hi rendition="#smallcaps">Saussure </hi>(Genf) möchte für die französiech sprechen<lb break="no"/>den Kollegen in der Welschschweiz die Möglichkeit offen sehen,<lb/> statt der beiden deutschen Zeitschriften die englische zu abon<lb break="no"/>nieren, welchen Vorschlag Pfister dahin ergänzt, daß es allen<lb/> nicht deutsch sprechenden Mitgliedern frei stehen solle, das eng<lb break="no"/>lische Journal zu wählen.<lb break="paragraph"/>
+        </p>
+        <p>Dieser Antrag wird vom Kongreß angenommen.<lb break="paragraph"/>
+        </p>
+        <p>Dr. Adolph <hi rendition="#smallcaps">Stern</hi> (New York) stimmt als Sekretär der New<lb/> Yorker Gruppe dafür, das Journal zum offiziellen Organ zu<lb/> machen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Bryan</hi> (London) stimmt als Sekretär der „British Society“<lb/> gleichfalls dafür.<lb break="paragraph"/>
+        </p>
+        <p>Hierauf erhebt der Kongreß den Antrag, das „International<lb/> Journal of Psycho-Analysis“ zum offiziellen Vereinsorgan neben der<lb/> „Zeitschrift“ und „Imago“ zu machen, einstimmig zum Beschluß.<lb break="paragraph"/>
+        </p>
+        <p>Prof. <hi rendition="#smallcaps">Freud </hi>dankt als Herausgeber des englischen Journals<lb/> den englisch sprechenden Gruppen und möchte deren Wünsche be<lb break="no"/>züglich der Redaktionsführung Rechnung tragen, Vorläufig sei<lb/> Dr. Ernest <hi rendition="#smallcaps">Jones </hi>(London) provisorisch alleiniger Redakteur; die<lb/> anglo-amerikanischen Gruppen mögen sich äußern, ob dies so blei<lb break="no"/>ben solle oder ob und wie viele Mitredakteure und wie viele aus<lb/> jeder Gruppe zu bestimmen seien.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Pfister </hi>schlägt vor, auch einen Amerikaner zum Redakteur<lb/> zu wählen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Jones </hi>setzt die Nachteile eines mehrköpfigen Redaktions<lb break="no"/>komitees auseinander und begründet die Notwendigkeit einer Zen<lb break="no"/>tralstelle.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Bryan </hi>(London) meint, es genüge ein Editor für England.<lb/> Im übrigen habe die Frage der Redakteurschaft der Verlag zu ent<lb break="no"/>scheiden.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Stern </hi>(New York) schlägt vor, die Gruppen sollen ihre Re<lb break="no"/>dakteure wählen.<lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__4ba5c21d-cf77-47fd-ab9d-bc236bb7c434"/>
+        <fw type="pageNum">390</fw>
+        <p>Der Kongreß beschließt, <hi rendition="#smallcaps">Jones</hi> als Hauptredakteur zu be<lb break="no"/>stätigen und eine vorzuschlagende Liste von Subredakteuren aus<lb/> England und Amerika einzuholen.<lb break="paragraph"/>
+        </p>
+        <p>Präsident Dr. <hi rendition="#smallcaps">Ferenczi </hi>bringt hierauf die Frage des näch<lb break="no"/>sten Kongresses zur Sprache mit dem Bemerken, daß bereits<lb/> zwei Einladungen, und zwar eine nach Berlin von Dr. <hi rendition="#smallcaps">Abraham</hi>
+          <lb/> unterbreitete, und eine nach der Schweiz von Dr. <hi rendition="#smallcaps">Pfister </hi>über<lb break="no"/>brachte, vorliegen.<lb break="paragraph"/>
+        </p>
+        <p>Nachdem <hi rendition="#smallcaps">Jones </hi>in längerer Rede die nach verschiedenen Rich<lb break="no"/>tungen zu begründende Priorität Berlins hervorgehoben hat, zieht<lb/> Pfister die Einladung zurück, worauf noch Prof. <hi rendition="#smallcaps">Freud </hi>(Wien),<lb/>
+          <hi rendition="#smallcaps">Stern </hi>(New York) und <hi rendition="#smallcaps">Stoddart </hi>(London) für Berlin eintreten,<lb/> das einstimmig als nächster Kongreßort gewählt wird.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Liebermann </hi>(Berlin) dankt als Sekretär namens seiner<lb/> Ortsgruppe.<lb break="paragraph"/>
+        </p>
+        <p>Die vom. Vorsitzenden hierauf angeschnittene Frage des <hi rendition="#smallcaps">Zeit<lb break="no"/>punktes</hi> für den nächsten Kongreß möchte Prof. <hi rendition="#smallcaps">Freud</hi> jetzt<lb/> noch nicht entscheiden. <hi rendition="#smallcaps">Abraham</hi> stimmt ihm zu, hält es aber<lb/> für wissenswert, die Stimmung des Kongresses darüber einzuholen.<lb/> Die Abstimmung hierüber ergibt eine große Mehrheit für die Ab<lb break="no"/>haltung des Kongresses möglichst schon im kommenden Jahr.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Rank</hi> (Wien) fordert zur Organisierung des <hi rendition="#smallcaps">Refe<lb break="no"/>ratenwesens</hi> in allen Ortsgruppen nachdrücklich auf.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Jones</hi> schlägt vor, eigene Reieratensekretäre für diesen Zweck<lb/> in den einzelnen Gruppen zu bestimmen, wie dies bereits Wien<lb/> in Dr. <hi rendition="#smallcaps">Hitschmann</hi> und New York in Dr. <hi rendition="#smallcaps">Stern</hi>, dem Cor<lb break="no"/>responding Secretary der New Yorker Gruppe, besitzen.<lb break="paragraph"/>
+        </p>
+        <p>Der Vorsitzende schreitet nunmehr zur <hi rendition="#smallcaps">Präsidentenwahl</hi>
+          <lb/> und übergibt die stellvertretende Präsidentschaft Dr. <hi rendition="#smallcaps">Stoddart</hi>
+          <lb/> (London).<lb break="paragraph"/>
+        </p>
+        <p>Dr. <hi rendition="#smallcaps">Abraham</hi> (Berlin) schlägt die Wahl des zeitweiligen<lb/> provisorischen Präsidenten Dr. Ernest <hi rendition="#smallcaps">Jones</hi> (London) zum Prä<lb break="no"/>sidenten vor.<lb break="paragraph"/>
+        </p>
+        <p>Prof. <hi rendition="#smallcaps">Freud</hi> unterstützt diesen Vorschlag, nicht ohne sein<lb/> Bedauern auszusprechen, daß es dem bisherigen Präsidenten Dr. <hi rendition="#smallcaps">Fe<lb break="no"/>renczi</hi> in Budapest durch die Ungunst der Verhältnisse verwehrt<lb/> war, sein Amt voll zu erfüllen. Er habe jedoch in der Zeit seiner<lb/> Präsidentschaft die erste ordentliche Professur für Psychoanalyse<lb/> während der kurzen Zeit der Räteherrschaft innegehabt.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Eitingon</hi> (Berlin) teilt mit, daß <hi rendition="#smallcaps">Ferenczi</hi> zum Ehren<lb break="no"/>mitglied der Berliner Gruppe gewählt wurde.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Ferenczi</hi> dankt für die Ehrung.<lb break="paragraph"/>
+        </p>
+        <pb n="4" xml:id="page__c28269a9-ec14-4a68-9bdc-d617914bb99e"/>
+        <fw type="pageNum">391</fw>
+        <p>Hierauf wird Dr. Ernest <hi rendition="#smallcaps">Jones</hi> (London) einstimmig zum<lb/> Präsidemten der Internationalen Psychoanalytischen Vereinigung<lb/> gewählt.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Jones</hi> dankt für die Wahl, übernimmt das Präsidium und<lb/> nominiert Mr. J. C. <hi rendition="#smallcaps">Flügel</hi> als <hi rendition="#smallcaps">Zentralsekretär</hi>.<lb break="paragraph"/>
+        </p>
+        <p>Frau Dr. <hi rendition="#smallcaps">Spielrein</hi> (Lausanne) teilt mit, sie beabsichtige<lb/> nach Genf zu übersiedeln, um dort am Institut Jean Jaques Rous<lb break="no"/>seau zu arbeiten und trägt ihre Mitwirkung bei der Wieder<lb break="no"/>anknüpfung literarischer Beziehungen zu Rußland an. Sie schlägt<lb/> u. a. vor, den Kongreßbericht ins Russische zu übersetzen und auch.<lb/> russische Beiträge zur Psychoanalyse zu sammeln und eventuell zu<lb/> publizieren.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Reik</hi> (Wien) meint, daß die Druckkosten zur Publikation<lb/> dieser russischen Literatur heute noch zu groß wären, um dieses.<lb/> Unternehmen zu lohnen.<lb break="paragraph"/>
+        </p>
+        <p>
+          <hi rendition="#smallcaps">Eitingon</hi> (Berlin) möchte den Vorschlag unterstützen, das<lb break="no"/>russische Material wenigstens zu sammeln und das Wichtigste zu<lb/> übersetzen.<lb break="paragraph"/>
+        </p>
+        <p>Prof. <hi rendition="#smallcaps">Freud</hi> weist darauf hin, daß eine eventuelle Subven<lb break="no"/>tionierung dieser Aktion eine Angelegenheit des psychoanalytischen<lb/> Fonds sei, der sich dafür interessieren werde.<lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

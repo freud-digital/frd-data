@@ -1,218 +1,526 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1922-007; 1922i): An die Künstler und Intellektuellen Österreichs  [Spendenaufruf]</title>
-            <title type="manifestation" level="a">An die Künstler und Intellektuellen Oesterreichs (1922-007/1922)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1922-007; 1922i): An die Künstler und Intellektuellen Österreichs  [Spendenaufruf]</title>
+        <title type="manifestation" level="a">An die Künstler und Intellektuellen Oesterreichs (1922-007/1922)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-               <biblStruct xml:id="bibl-1922-007-1922" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">An die Künstler und Intellektuellen Oesterreichs</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">Neue Freie Presse</title>
-                     <title type="publication-sub">Morgenblatt</title>
-                     <title type="publication-short"/>
-                     <respStmt>
-                        <resp>Herausgegeben von</resp>
-                        <name type="person" ref="#p__ab6e2f19-a455-4fa1-984e-020aa2e181e9">Benedikt, Ernst</name>
-                     </respStmt>
-                     <imprint>
-                        <pubPlace>Wien</pubPlace>
-                        <date when="1922-02-03">1922-02-03</date>
-                     </imprint>
-                     <extent>5</extent>
-                     <biblScope unit="volume">Nr. 20630</biblScope>
-                     <biblScope unit="year">59</biblScope>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__e2102733-57e6-41e3-8358-1780052ab2f8">
-                        <title>An die Künstler und Intellektuellen Oesterreichs</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1922-007-1922" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">An die Künstler und Intellektuellen Oesterreichs</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Neue Freie Presse</title>
+              <title type="publication-sub">Morgenblatt</title>
+              <title type="publication-short"/>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__ab6e2f19-a455-4fa1-984e-020aa2e181e9">Benedikt, Ernst</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Wien</pubPlace>
+                <date when="1922-02-03">1922-02-03</date>
+              </imprint>
+              <extent>5</extent>
+              <biblScope unit="volume">Nr. 20630</biblScope>
+              <biblScope unit="year">59</biblScope>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__e2102733-57e6-41e3-8358-1780052ab2f8">
+                <title>An die Künstler und Intellektuellen Oesterreichs</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1922-007/1922</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/die-kunstler-und-intellektuellen-oesterreichs/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/e2102733-57e6-41e3-8358-1780052ab2f8</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__47d68286-2264-431c-89c8-66c543f874ee">
-                              <title>Freud, Sigmund  (1922-007; 1922i): An die Künstler und Intellektuellen Österreichs  [Spendenaufruf]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-kunstler-und-intellektuellen-osterreichs-spendenaufruf</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/47d68286-2264-431c-89c8-66c543f874ee</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <msIdentifier>
-                           <repository>Anno</repository>
-                           <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7718d195-549a-4c87-b4ca-43ca04f8058e</idno>
-                        </msIdentifier>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1922-007/1922</idno>
+                <idno type="url">https://www.freud-edition.net/werke/die-kunstler-und-intellektuellen-oesterreichs/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/e2102733-57e6-41e3-8358-1780052ab2f8</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__47d68286-2264-431c-89c8-66c543f874ee">
+                    <title>Freud, Sigmund  (1922-007; 1922i): An die Künstler und Intellektuellen Österreichs  [Spendenaufruf]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/die-kunstler-und-intellektuellen-osterreichs-spendenaufruf</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/47d68286-2264-431c-89c8-66c543f874ee</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <msIdentifier>
+                  <repository>Anno</repository>
+                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/7718d195-549a-4c87-b4ca-43ca04f8058e</idno>
+                </msIdentifier>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-30">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__cb4f6fb6-8f63-4fc7-9ac2-739f10b21060"/>
-            <p>.? _,lr _1MBO<lb break="paragraph"/></p> <p>m.... \\u\\\. me ga... un\\\ \..n..\.'.\.\\\ @...m. |»...<lb break="no"/>}_._\_}__:\\_.\„ü m......uüwaw. \\... .c;.m:’ ...). m;: am...»<lb/> \\4\ ..u<lb break="paragraph"/></p> <p>\illittldjutfﬂnht ®vlubuuum _hv: uugun[üyzu<lb break="paragraph"/></p> <p>Zizynruﬂuunhumuuﬂiuh.<lb break="paragraph"/></p> <p>\\...m... ... „\\.„ mm \M|\'\<lb break="paragraph"/></p> <p>?. n......n, ° «an...<lb/> , me im. B am... m \7.‘e=..m\\a.\.komuu \\|\ am rm<lb/> M B..h.xpc|n‘K (.....m: ....» €)auuh.\.nmmur“:\e E \c..<lb/> am um \&amp;.&lt;\;r.ü„.;..... ua.. ...... &amp;.....nm- ....» A.:... ..<lb/> ‘..u.m...g..umg.m. \\.1u...\,b.z .... . nl: «mm.. 21..muuu<lb/> :::|r\a\.|....... m m...... \.\\m |. ....l |. {auch \\n‘. &lt;ac—<lb/> mm.:m... !\r\..:hm zb.. ||:a..„a.....e:.......|\.n ...: |i\2<lb/> ,«pui am“. |: um im mmabinuu ....<lb/> Vﬂn_ge \m \...„az\|\\..|\ umnmunn.u.en<lb/> „um......<lb break="paragraph"/></p> <p>[Immaan im: {lilßhmtengruv : mli bu:<lb/> “th-u: £nnhmlrh-ilurm iu uuuueli.<lb/> ßuhlplﬂ, ?. wma.<lb/> \\... an...» um:: hi: m......\....... \\...<lb/> sw iben:tngtuppt \\. Wu\mnnlm|mumhmg ....<lb/> \\. m...... mm....u- ...:. m...._...«nnu „n...... ,.<lb/> an.: bu u...... g...»....\.p..\.\ „m...... ...... \u__\<lb/> w...... m m:.\|n.ympo„.m ®...y... mm..<lb/> w.....„mm \\..\..\\\\\ w....m \\. s...... @...<lb/> m.\„m.„. ....n b.. gmm[mn\ mm;... (:.a<lb/> m an .. ...... w...... Raum} ., |... ...: l.b\;a|\e.. ::.....<lb/> gebungm wma. wm...<lb break="paragraph"/></p> <p>si. m|mnw|nng m <a href="mailto:hilrtnl@llduu">hilrtnl@llduu</a> malen:<lb break="no"/>|.1...mem\me \n Ilunum.<lb/> an... \\\| \\...m.<lb break="paragraph"/></p> <p>«ﬁ... m...:m. \\. \\\\\....m\..\\.u« \\;.\.\\ m m.<lb/> :...„.\...g \\. |...m...\\.\,.\...„n| \\. €lnnlßldnubm»<lb/> \\\...\m\\m ...; \\. m.xr.uqa.d\ \\... \\ m.|...\c|...__._ .|\<lb/> |... „zum... \\. zum. w......„m. w...ﬂ4..n\|m©<lb/> ::..... ...... \\\\\.\\\\.\ „\\. :\. \\.\\\\\4\\ )8£r19||<lb/> .... \..\\\.|4.\_1\\\.; m......m..... „...... \...<lb break="paragraph"/></p> <p>Wien. mia...<lb break="paragraph"/></p> <p>\\...<lb/> im.<lb break="paragraph"/></p> <p>m...... \\. \\. . ..... .\...|\.\\\\.\\ am \\ \... man.<lb/> \\.|\\\\.\\\\\\ß|\ \\... „.... .., „m.... ... m...:<lb/> bei an &amp;:aniﬂhnﬂ: „€.. Da cumu mm..fm.n \\\\\}.\\. z....<lb/> gr....|. |...» v\.4.....«\.\umum ...... h.. m„.m. ...} ... um.<lb/> Ilm.mmg \n...\.}\.. % m....n..„.. ...„|. m...... v..., n_.}__\..<lb/> ....1m :\.\.......m. blmbmbrl: „un...... .<lb break="paragraph"/></p> <p>...... .. \\. s...... »....\. \\. m......mun...<lb break="paragraph"/></p> <p>:-. .... .. \ \\...14.| \.}\ mm... ...... m mu...m.m<lb/> ;.\a.K‘..... _\...“Euu.p.‘jm|„„b f...».<lb break="paragraph"/></p> <p>Wanii&amp;c °anbdslnmmn in “In.<lb break="paragraph"/></p> <p>\ |.\|\\ \\...d...\..\\.d.m z"hi7\. ..m...\\.\\.. m... \.\\\<lb break="paragraph"/></p> <p>Neue F. em Presse.<lb break="paragraph"/></p> <p>\\. .\\|.h\...|@\ 239 mm. \_\\\nm\\\\.\\ba\<lb break="paragraph"/></p> <p>}\__\. .. \\. um...<lb/> um im.... |\\, \\ une. me|ex )3mmn<lb break="paragraph"/></p> <p>.}u..:m..'<lb/> .\.\\<lb/> \\\\|\\\ m.}...„n... \\. mm.. mm, ||. um.. .... ?,me |\\7|_\.|_,<lb/> |:.\\\\.\ \\ \... mm.. \\... 93\.nh..,:|nf\|mc, m \\... .<lb/> \\... m...\u..y.\\.ß um... m\\,|\. @. \..\\\\\..\._.__\\ __..m|::_._|__\.g<lb/> ﬂ:m.\bnhm.m \\... \\. m...} \\||n\.\n__ \\m. , i\\\.\\\ in m_\\<lb/> m m...—x... ...} 7 \\ ......,\.— \ m n... .\7\\.|\<lb/> m... “...“..me um.. \\ \..‘ „mu... m....u.g....q ...‘\ \...<lb/> nn... \ m, mu „€... .\| .\.\\ „Aut.. m\.\.\..|\\..\m m..»<lb/> \\.\. .... .\.\\\\\.\\\ hu... \\..m l;c1lmhm }\.\.\\\\\ |...<lb break="paragraph"/></p> <p>m.. \\. ::.. }..\ |... hmm... \\. m.....„... ..|\.\... mm....<lb/> n...... \. „Ja um...... ...... n... u...... ...a. \...|<lb/> „um...... \..|\\.. |\\ EN,} \..\|\\\ ßn...muu..m .... \\.<lb/> z_\\.\_,_:e ....» ...n|:..nna.e \\. \\\\|\ ...|\\\\ m......“ \\.\, nm<lb/> \4..\,\\ 4.|.\\ .... um um. b\\ w.»... \\|\\..\\\, |... |||. um<lb/> ihm:} ...... ...} g.|...\\m\ }...m, .u \4. .... en.. ,\\.<lb break="paragraph"/></p> <p>B|Hmn \ .... nun:. .::. }..nn... „um......<lb break="no"/>hp... \ Mminlm} }__};||un. in} \\\.\\\\ „\\. u\||z\ 5..um<lb/> .... na. .\\.\ .\.\ «...... \\... u.a. \3.\\\_\\\|\\. m.. Im ......<lb/> „um... ...... mm:: mm... \\. „:|. mit am. ...mmmmn.<lb break="paragraph"/></p> <p>|: .<lb/> „| \\ „_...\\. __ _____ M _<lb break="paragraph"/></p> <p>EMO nik(_n_ ||| [ein lub mm im<lb/> a.....m...u.“ ea... \ n„n\u.|u \\...<lb/> ....|..... e.... |...\ \,}. .‘ mm.... m...... mm.<lb/> }\|\\\ |uü|\ﬂnen„ m „ be. \\ \..| m ﬂtmngtd an ||»..<lb break="no"/>.\\..\\\\_} ...... h....\\ m...... e...... ....\ ..... ne. .:... um<lb/> mm. mm |m(d|n||k \\ :.»...71m .. \... |:4. u.... \. «mm<lb/> . wenn 31mm \\|..\.b\\\. mi...: |anu |\\\|\\ \. A..... |» „mm<lb break="no"/>}\m\\\\\ G_ﬂydn :mrmuhmm \|\‘\. m: nn .n\\ ....\\m mm<lb/> .. .... \\.\\..a.\|\\ am, sah.... glummgn .. ...»... \6<lb/> \n. \\... m...... ä“"‘"“ ...... ,...... ,\„ \\. m......um ..<lb/> |...\\\, m.... |. \n.- :.. n...:ng. \\4\ mb. _unun\:mn \K:,<lb/> ...... |\\ Rhein: zu lnunq .. n.... m.:<lb/> sum \\ .... \ ....» \\: um: »... :(..nl. \n. \\m mu<lb/> „um. zum: \\ e. |\\\ "‘ää,’ ...... ...... „um...<lb/> n....._\|y... ...... \\\\ m..m .. \\\\ ...}.\\ \\... \\ ......<lb/> \ \\... :... ,...... \...bm .. \u ); „hub: mm...<lb/> ...mm wm: __muﬁl: .. mm:. \|\\ \\}\|\\\\ MI m..<lb break="paragraph"/></p> <p>\ e..\\ ...}_ ...... .... ..\.\.\\.b\\ b.. n...\mn.<lb break="paragraph"/></p> <p>Ed|obn1|'|hnﬁn \\ ul ...... ...“ D.....|.\.o.<lb/> anei um ..u\\. \. b..|.. am.... um»... um \\..| :.\‘<lb/> |\\d.\\\\\ \\... ::..}... |\a\\n., \\. a.. „...im...<lb/> \\... om „.:... (mm „m...;<lb break="paragraph"/></p> <p>qm....<lb/> \\ ....m. \\..A vv.|\.i„ .... |\|\.. ...:<lb/> \..n___.-,\....,_ „\\. „m.: :|. \\..\\u...\\\\n|\&amp;. um..<lb/> \\ .\.\1.\\.|....\.\ : ne \\... s....,.„.m \...\.\\, hu<lb/> “‘uwn.u.|m änm|u \\. Nr:-:lmung \\}... mm:»:<lb/> ..:„5. ...e. .. \\. n. \ |... um... .. \\...\\...., M.<lb/> \\... 25\\.\|\\..„ m B...-::..... .:.. ...} .... ...imm.<lb/> $"ä".. wma \» uam»: |m r.; m...... hmmm.<lb break="paragraph"/></p> <p>w.... „\n inlﬁdnnhm ... „|... ||\.......|. ..., i...; ....<lb/> \\\ ml....<lb/> gun... \\.<lb/> \...\\\<lb break="paragraph"/></p> <p>mm.-.<lb break="paragraph"/></p> <p>mm kann... me..| |.\\ \. .. ......<lb break="paragraph"/></p> <p>i...:.\\ |... um.-„m ...} ml.... Orbim ||.<lb/> „||. .:}. .„\, ||| n.: \\ \ .... .... ... ......<lb/> Mm: \\ |..: nl. U...}:ü. &amp;: mm .... in un<lb break="paragraph"/></p> <p>”:;‘annmnren<lb break="paragraph"/></p> <p>8 mm... 1922<lb break="paragraph"/></p> <p>...... ....- ..,uuna. u...-„u....<lb break="paragraph"/></p> <p>BRILLANTEN<lb break="paragraph"/></p> <p>ii'äi'ii'iﬁimuf äurﬂi'h'"ﬂﬂ<lb/> Wien. I.. Gruben \\... mm \- 29.<lb break="paragraph"/></p> <p>| 'l'lﬂnnnnl. ...... n...-.»! www.-m n.<lb break="no"/></p> <p>M.-L<lb break="paragraph"/></p> <p>nun... 4<lb break="paragraph"/></p> <p>Erin"! ‘m‘lä<lb/> :uwnli-r rom. l._, I::lnhunmun<lb break="paragraph"/></p> <p>\\ .... ...„\.„„„,..<lb break="paragraph"/></p> <p>„_ _llllnrlaln-Auktlon<lb break="paragraph"/></p> <p>m...... ._,:ng;_____ .... "nun-\, um..<lb break="paragraph"/></p> <p>Aus::lllunn: 3'.‘.?äf«ä‘f.‘t.'.‘ \%.'\'\' KL.’- «<lb break="no"/>Vnrulelgarnn "“ ‘"<lb break="paragraph"/></p> <p>N," „. "°... \ ’.m...:.\z:\ \„<lb/> nn l:hlulol‘:_llunnluuklimhnun<lb/> \.<lb break="paragraph"/></p> <p>mm.-mm<lb break="paragraph"/></p> <p>||.\..,|. m...... {um um „una.<lb/> „m....<lb break="paragraph"/></p> <p>Perserf‘eppiche<lb break="paragraph"/></p> <p>‘ _|t mm... \\ «um. ,| um Ann“ |- .»<lb break="paragraph"/></p> <p>quh:uar T:npinhnnhwumms Bunny!<lb break="paragraph"/></p> <p>VII.. Nauhlug„„ os_w „|... um<lb break="paragraph"/></p> <p>umwnsr “\lßDlw4,‘ |a:wum<lb break="paragraph"/></p> <p>”o<lb/> E'ICRISI'<lb break="paragraph"/></p> <p>__ _Nhn. ! Might. _ mm;... "::: m)": ill_ﬂv‘lb_imunie„ _}mv‘i “<lb/> ) 331 dm ﬂh[ll l1uälcn Elrnmmluu Mm nich g__mg_m\ 11 mir um Im m \\!,yi “‘<lb/> ‘ n » |||: ! \ \\ \ b w. |»: Ill: [# zu A- ni» ma dl<lb/> 5:31:39\;\;*:..%?.5.3_'|6....::;“.",_“;.. . ......A'... „“...... ‘ .: mm'3m<lb/> .. ...... . . „.<lb/> £.K.ß..“w°\ä‘a,..äf"iii"" .|\3..\. ..."“K'fnéä, mﬂ'.. ..\.\K.u mm;;<lb/> mm.. \\. m:— „„...... »- „.... ...... „.. „ ...... _...„..,. „. „„.....m Em: :rmnmnhu Eonlleunaﬂ um hier<lb/> " ""“” Mm!“ “““ " “"“ ‘" °‘""““““‘“' ”°“ ka..|xn'|"_|u \\ im an. \\4} an !lnnbi „::..-m...<lb/> \!h im»: \\... |... ||... \\... alu-mm „ _12 g':'_„_, _A\„_ Q" „____<lb/> m......n...___.u,a.aa.u. w n....n. mm... ..|..4p|\.\h “",?“_'_Ml"_ ,_"„__, _. _ , |_," _ „_ __„_ ___,“<lb/> hm Emmi lnﬁzil IMB inxhutr unter Öimllel‘ m| ”“ “" “ " m:" (|; ”"”” |1°_ '“ ‘<lb/> \... ...... mm.... wa‘fﬂ... man .... „un...... g.\. .. |.|c\g. .\.\.g m |... | Mi um .: ben „. n<lb/> mm m...... n n...... | \ mma.mm..-__ em.... _fé “HM”! _<lb/> .. — ' n...... ...... mm mm... n.... m..._,_mmm_.u. um . .— u„g mm,. &lt;—<lb/> ' ' n .. um man.. \n pam... u.a.:chnulu % _____n|=.n „sammlw , 1 B<lb/> €..."ﬁa... |.'.""...'..| ‘|KL u34...||. man... umnllallzt Gnuubnu- .... ,. ,„ ez.,<lb/> mm m.... ma. a...».mmm \... .... m_c.___ mwm......uu..„, ::” am}. ...a. m _Mntmu dm . \ ag Graben 26<lb/> &amp;am.... Mi.. S“zn%ﬁin mm max.»: b_o:umumm ...». »\. \\.}_l nl‘|lbclall __ __ _<lb/> Mb. \\..u .muWu |||... ___:n»innn“"m '|„ 15 M.:. biz an:-ü. („... ..).m www-v<lb break="no"/>ﬂulli m In lvl Ellﬁlmmln ﬂuﬁlhnllﬁerﬁlbml Hiller ‘miﬂ'lililll __ ”In“ Sohlltllnlmet<lb/> ,. „ ___„.'___ ....<lb/> ' Spelﬂezlnlﬂtt<lb/> a....smf» um::__-n_:__ su u;:_.:__c_ mamma . ”WWW" 'E'EJ‘“ “"““ S. Still". Hotrcnllmanz<lb break="paragraph"/></p> <p>'r m......" .. ..... ....n a...-..<lb/> F [,t M<lb/> am. |... ||..||\\m_ .1‘%m._e____mnq_ﬂ'__i..}um._. |.._\_._____ \\.|<lb/> |.xehuun. \. \\. \. .. ...... „u...<lb/> £K."...“"u .".‘.‘. 1|"5|...m|m mr. ..... Kauf.... „mm:...<lb/> lll(l’l"lll mulhl.ll kann<lb break="paragraph"/></p> <p>ll_:ime md.irﬂ;: gr:_al_l_=xa: ,nur arm: an<lb break="paragraph"/></p> <p>«A...... .... ...... a.... mm<lb/> f.... : um.<lb/> Dammhv', M mm M „am...... m...-.... nal,<lb/> :mmnﬂ.z \... Dé|nm\d. |..uu MI nu ..\d\||\ zn<lb/> ...... ...:. wmm__auß:_:ßl___ﬁz2ßegn_l_dzq b__l__Izl[l,_b:_ll<lb/> |... \\ \ ..<lb/> 1.‘}\Ku|°ﬁn||m.untz ..\. ni.9«h\u|..m| ..mnumu<lb/> |... masz "nr. (nun n..|=\ne |.4; .. m...}. man...<lb/> nunm- ..b |... man». mamma. |||-.....<lb break="paragraph"/></p> <p>ßﬁdzlulnhn ﬂuuhtnlmll|lnl mm ärl|ulnugs—<lb/> urlaub.<lb break="paragraph"/></p> <p>E.:-, 1 am....<lb break="paragraph"/></p> <p>üu..nz:t4mlrg amb_u .|\ |..\\\\ mm Mmm<lb break="paragraph"/></p> <p>Urlaub |. im. ungmnﬁm un: \... |.\m ®,wem.<lb/> Dunn übnnnmmzn,<lb break="paragraph"/></p> <p>mm:: m giunuamiuilhn und: Uran.<lb/> m.. . „....<lb/> ..». 1&gt;r.mqt„ \\ ...». ......n }.<lb/> |... ""‘73‘ﬁKÜKKKKW.....R \n.\...\.\\, Im .\.\\;. ...} qm..<lb/> „......<lb break="paragraph"/></p> <p>u.\m<lb break="paragraph"/></p> <p>Elr. 5tauk ihm: Die ﬁlelm|u bu man.<lb/> Mu|lßnn |||! Uzgimmg ämnhn.<lb/> rm... Dwoihnm \\... [m. man.<lb break="paragraph"/></p> <p>n.... \ g......<lb break="paragraph"/></p> <p>m \\.‘pnc\\\.a.p .,ß:vln_mmﬁhnmwnuhm, ....\\\\ a..<lb/> line! \\ n.... \\\|\\_"|\.\.. man“Mu.hmu_metlammhmq m<lb/> \,..n:..... \\. mm.... \... \\ ‘ß\_|i\\h \\.\\.\\\\ \\|1,\\\\ %<lb/> „mm. $.. |4||k w...4.. „hu hie z\\.}\\\\ m K\\.<lb/> * :ofnnelmbnbm .: Du um Ehnmmm ßnüßvnxm ||| hm (am:<lb/> 5||.,.,_.;_. &amp; „a...... \\. .. Et|ldém um......„z. m m...};<lb/> im»: -a .... hy|'mhu um: um, nam-Me. „&amp;.th _<lb break="paragraph"/></p> <p>Ilm ti: RE:-mu .» Smalde Datum666.<lb/> \. \ | \1| \. .. ...“...<lb break="paragraph"/></p> <p>„..?„T%.2KKKK"T£„ ?„‘".u.‘.f.„.f.f'\ä'äß„ .... £K.".<lb break="paragraph"/></p> <p>..|a.n..m.._mi| #...ma. \\... „.....„m. „mama...<lb break="paragraph"/></p> <p>£...,_...\\ ""3„ ‘n. um... um \\... nme.» „\ „m......<lb/> ......„g. \ mg...“ .“.K“KÄ'K .\\| :.. g...»... „....|...\.\.,<lb break="paragraph"/></p> <p>.. nhk .: \|.\\. ...m „. „|... m...... „...;<lb/> .. m... \. „. |..|.\.\mn, .. „\\ 4... ,|... ..... mama.<lb/> » ___...A an numnul .... mu. m....<lb break="paragraph"/></p> <p>a... \.4 \.\.\\\. ...| |.. .:... „mm<lb break="paragraph"/></p> <p>i"i...-m:...» man m...<lb break="paragraph"/></p> <p>&amp; .. \ n . . \ \<lb/> m [min 5».- na um.. ...im<lb/> „mi..., \\... |\. ......ug \. um}... an.. .. my ..‘gm ...<lb/> an.. |... ...... m.... \\.A.<lb/> \ludz .. \\. an.. \n! m___i giim Bm- m......<lb/> „.... \. mim}. „w....un<lb/> ...u___.||.__| _ __ _ «___ nn: \i\;.a\}ri\n_zm<lb/> ...... ..... \\ „\ „un......<lb/> "2531... "KG.... .... .. ......<lb/> mm:. um... „um. \\ in... um...“.<lb/> „_l_nﬂl_uﬁh \' |: a......n... _...<lb/> h}:b|ßel. |..‘.\..\ „n.<lb/> ....u" a. \n... n.yu...i.ac _.\.\___|,<lb break="paragraph"/></p> <p>\\.<lb break="paragraph"/></p> <p>gz|\gn|\ \\\ .|\r\.. L..<lb/> n... o.ä....» .'1' —m.g „\<lb break="paragraph"/></p> <p>.... an... ....\ merk ..<lb/> e.i|\.\ \_ hie „\\. ‘€‘"‘ „\\... .. \\... mm....nwmu....<lb/> m:... .. m...... ...|\|. am:... :....n „mug.<lb break="paragraph"/></p> <p>lebl|lm, @“ r! Hill mm mmmlll her 5 i n, Inlfﬁ:\|ll<lb/> ha,. m.....m \\ em.. 4||timmx ...... Inlubmnnn: ......<lb/> m.... ....» &amp;»... „mi. |... „mm... „\... ......<lb/> ...\\ lm Bannjlnku|\ |'l“1'“hc4\rm. n......m... mal......<lb/> \\... üml:}__ „\ ...“}... ......» .. m...... \\... \..._}.\\<lb/> A|: br! "unit lglfﬂhﬂhm mth {n<lb/> “| mmmen. 5 IQ |! e ||?rrn Mmmul .llll<lb/> mm hr: \“!1Hl’ﬁm “\ '%°r“"mbg Ril=ﬂ‘ _m "MW Üfblll, ﬂ“.<lb/> [Emm'%lßmﬁcllell Ilhb Gulli Mr: man: man.<lb/> an ßnmiltl „RDIIIHEX' lll_l' i|\r h|e<lb/> 9..„\.\.|„. \\. ..|\\ „|.<lb/> Dem ﬂü)llhll nlijl’m mit! n|'.bl\wl 3Mc}emmm<lb/> :\.....u.n, 5em...ﬂ .|._\, n...}...n in...». :|:..m ..<lb/> ä: : ut, ﬂnt|mnh 5rl ®Gkßilloln her lßmhm „HEILMIL_ ßiml.<lb/> Wim“ _‘ä5_ifﬂfl1_ﬂiiä_rﬁ "é“ [Ägéläwﬁniät1‘qwr‘ll '<lb/> ... . . .. .. . „. ...._. ..<lb/> ..|\ \\ t....u mm... man ä....<lb/> "%."Äa'“‘h|w :&gt;: m. u.... am:“<lb/> ...... . .. ...... .. ,\ ...,<lb/> u.a.:- .:m. hund. nun—ﬁ ng.<lb break="paragraph"/></p> <p>o.,|...\ „m.... _<lb break="paragraph"/></p> <p>Ham... :. . \\...»<lb break="paragraph"/></p> <p>m... .. lmnnmrlillﬂ, |z. ||. .. ‘f.°‘.‘„‘:iffiff.„<lb break="paragraph"/></p> <p>..i-. K..“ „„„„_ .. 31.355" Werkulnen<lb break="paragraph"/></p> <p>HERZMFINSKY<lb break="paragraph"/></p> <p>...::fz“<lb/> R:lun-l.u‘in "schon In |Il|n (:|-“nun.<lb/> Meine “um".<lb break="paragraph"/></p> <p>‘. _ ___ ll||. :. __<lb/> 4_;___ u...] __|.\|\\\ me.?|q_e_ß ..<lb break="paragraph"/></p> <p>\\ \\.|<lb/> m». a,.n'.n.'. .. e......‘."‘ „...... w...... \\.<lb/> u.a. \. “ullnmuunlmunq<lb/> sum. |...- ..\.4 .. .... om 'n. M...... m. |||bll|,<lb/> ,... nah. .... \\. .|\.‘. 3.\mä{_ u.\\... e... \ u..<lb/> ,n„|„.m um |\\ |\lq\u\\ m lene| \\.||\.mmi\uuv \\<lb/> m...... zu @\|a\\M\ „um... |..q \\ bel |\e|uM0|m<lb/> K‘"‘"“""‘ „\\. a.....mW «.... .\\|\\\..\ \\\.| «|| um...“<lb/> \\ mz..._\..m....fg \\\\\\„.\ \\.\.\ F.... mm. \\ ... .a.n .... _<lb/> im Druiunnua \\ 7|_(n Huhu " X1\|' Klick: u.waﬁm ”\ o—<lb/> |\||\. m. an... &amp; ||| ._._.q wm... m\a....„..|u........<lb/> ‘, M:| TR|\| um III 'N' lillanulee .:<lb/> 4hl ]! \nh4un' ll: IO "‘ht "WM; “||| |||“!an “ein<lb/> „um...... \\...n . pn... \\... Ümz|mäﬂnilmn<lb/> u...... |... \\._\_\_.\_. „mamma. .. „...... mia-unten<lb/> ,in an... 7..\ \\. an .“ e\\....\..4. 4.____m\ _ o\.-\<lb/> u....u e„.._._ z". ___£a___ .. \\... .. .....5 ....<lb/> .nmnl \\.- m.... .. __}\_e\ ..:n .."..4 .\\\.\\\\\.<lb/> \ w... .. in. ‘. "n.-u. nun... neu ®..n.\ \. Jn|\uurl<lb/> , III hu Hn\nnﬁuh i!m|k}un. _lll bis mehelballr Numn||_ um<lb/> bl! llniue MI ﬂ)\m - |luu<lb/> _!<lb/> 9__4_m „mm.... |. m...! n.. m.... }...\\\..<lb/> llxan.ln Yin“ ”(nur hai In In" „Emm . [ n||.ﬁm<lb/> End)m|d| ul il|lfmlhl mm NN|üLLHI\ in 51 «\ nenn:<lb/> „... m...... m..., buß m}...\\... m...... \)..\.. a....<lb/> mam=zm..‘.|m... «am... a. n., um \\. ud. n.. Vdnu|.| ..\\<lb/> _n.m.ypmy Ian.“ mhrm| Maul. hni| ||| hu Mm)": :}<lb/> .... „...... „um... v.|.\m|..... ||l||hu| mm... m..<lb/> | man... \\.|\\\\..\\\ |.|.. \\. ...... \\. „\\... mm.. \\. ::....<lb/> }|.}\\...__ „\\... .. .. |.„.\\\ |ü:|e\ \._\\ﬁ__p \\..4. \\. un<lb/> u_ß_d&amp;l_bs „Mk! Mm<lb break="paragraph"/></p> <p>...<lb break="paragraph"/></p> <p>ZE‘E<lb break="paragraph"/></p> <p>\\ \\.<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__90a37911-1dc3-4a2e-901d-31fc778214fd"/>
-            <p>ESAM.<lb break="paragraph"/></p> <p>lang!-i. u-i:|=n_:__u-n, mm<lb break="paragraph"/></p> <p>Neue<lb break="paragraph"/></p> <p>:...<lb/> :<lb break="paragraph"/></p> <p>m:. ..: :. Du“! I:... A'». :::...<lb/> ..::: :: :.: ::::„mm ::.:m.<lb/> - ......» mw...<lb break="paragraph"/></p> <p>. ' „, ..::-,mm:: ;— T.":<lb/> : : „„ .<lb/> rele resse "' Nil—: ‘“<lb/> :, =t<lb/> . , , , _ 0 &amp;:<lb/> „_ a.„wrm°.:é.::„— ’ “"<lb/> -17:1:"45E"$53i73;:„„ w:::„„. , :. '<lb/> ‘ ..“:„xfegxf'lm: - M0!39113?13ﬂ5 ä‘rﬁ„„g._.„l:r "<lb/> , :::. „:::-«m :.=m-- ‘ . ...: :":2‘3:.1.'.":.3.“:3““4_<lb/> N- 2063}0 28im, ürtitug, nen 3. %thnmr — 1922. }<lb break="paragraph"/></p> <p>Sie ﬂrcbithorlage iiw<lb/> £eiicrrcidy in %rauftcid).<lb break="paragraph"/></p> <p>an: ihm:: :::: 55 uiu::::: zum.<lb/> su:::z:::::: ::v:::: mm:-am<lb/> am:,z am::<lb/> to:: im::aüf :: £nmmu :::—m: :::: :::: ::::<lb/> ?"“ mm:: «.:y::,::m:ü umgekgi._bunb hm<lb/> :: ER: „:::: „mm:—.::: „in, mm:-„::::<lb/> :::: ::::iq:: :::: ::::„oawnn:::::<lb/> ?"““3 :: ::::a:::, .: :: :::: :: ::: 5::::<lb/> i::n::3::x::::: ,me:: ::: „::.:<lb/> &amp;öy'lLiqrn e:::r,: :::: Mrd.! :::;„nyu::<lb/> :<lb break="paragraph"/></p> <p>ll k:lhltc.<lb break="paragraph"/></p> <p>D::- a.x::::::x:::::: ::<lb/> man:: ::::n, :::: :::: f: :_<lb/> :::: n:ä :: ::::umn «__<lb/> :::: : : eingehtnﬂ11<lb/> a::n::„: :::L:é::::f<lb break="paragraph"/></p> <p>@<lb break="paragraph"/></p> <p>:::»: :::, :::: :::: ::::<lb/> 'L vmntirijulien, Emi; «mann<lb/> :::: :::: ::::m::,:::<lb/> ::::n, ::::.:::<lb/> :„„„;„:„_<lb break="paragraph"/></p> <p>: min ®:“: im:: :::): ::::::: :::: „ml-:::“ ::<lb/> mm:: :: {mm: :::: :: a::„:::::_„ :: -|s_:::::m::<lb/> ::::m: Hmm, ::: :: :: :::: :::: ::: m:::n::n_ng<lb break="paragraph"/></p> <p>:: :::: :: 9:1:::::4, ::::::: ﬁ::: :::: ,cm:: :: ::::<lb/> :u:::::: ::::m ::::::: :::: :: :::: :::_:::::m:, ::::<lb break="paragraph"/></p> <p>:::; Dem g:; _ _ _<lb break="paragraph"/></p> <p>mm:: ::::::,:: : :::: ®:, :::: :::: y::;::u:q:::::<lb break="paragraph"/></p> <p>:::: ,n::n:::: ::n:: :::: :: „': auf-,:: m:: ::::<lb break="paragraph"/></p> <p>p::::::z::m ‘]ﬂﬂlmunn °,liunh, ::» :::-::: :::-::: „am:: _:u :<lb break="paragraph"/></p> <p>:::: :: es:: uuinai 5:::::::::m: :: w:::::::_::::n :<lb break="paragraph"/></p> <p>hub m:uimiv:: „(mm.<lb break="paragraph"/></p> <p>nimm Rita $nlllutﬂ} gmmmi.<lb break="paragraph"/></p> <p>Rn In: &amp; Ethni<lb break="no"/>u::ä:w :: ::m:m::ﬁm g_::e (.:: :::: ::::<lb/> „:::: a:::«::::: :: M.::m hrid}muen, :::as::m:::::<lb/> :: mm::m:: ::::ﬁ:::igm _<lb/> mi:lini b:: um:: ::::cud,: mm::mm<lb/> mm:: „:::. :::: :::—,<lb/> '.‘J! H n mu. ?. ädmm'.<lb/> a:: man:: :::: ::::15: :: :::: ::<lb/> m:r::: :: Emma «(::: „:::: ::— &lt;A&gt;:;:::,:: man::<lb/> :::: ::::u: :: im:. Sie ::::::::: x:::a: :::: ::::<lb/> h:: ::: m::::n:ﬂ:si::u:::m ::::n:::n: ::<lb/> an:: „:::. __ «<lb break="paragraph"/></p> <p>ﬂh 8alguunhinhnng Ettlin-Qlicu uam:<lb break="no"/>hmmm.<lb/> Ideamllim unlczei SYvnehu-mbnlwl»<lb/> inle ? %:_ﬁ_u;n. _<lb/> s: : b:s si:'::::f,::zan:in: :“; : ::<lb/> viumémg\e ::::::::9::c:::au:g ::n:<lb/> m:: :::::i:::::::<lb break="paragraph"/></p> <p>Qßmtrulﬂrrilt iin giergnrlr_eitet<lb/> in her ®;rdw-i'unwukn.<lb break="paragraph"/></p> <p>‘ ‘Ei: km\mlm \'::::::::u::::h::m ::: am::<lb/> a::::::: ::::L:„:: :::: :: :ug:::::::: m::<lb break="paragraph"/></p> <p>:::::::zy::::k, :: :: m‘:::::::m:::: :: ::::<lb/> ::::g::: :::a::r:::: ,j :::::::::a::::::::: :::::s<lb break="paragraph"/></p> <p>5:|,1::1::: :::».<lb break="paragraph"/></p> <p>mii:lidazr (€thth ®tudjmlntitbg m hie<lb/> am:: (udn-iz.<lb/> n:::::::: :::-m:: Swmlvnnma.<lb/> m::::::, 51 5::::::<lb/> nun: m::„::: :=: :::::':: rd: :<lb/> : : :: : : : _: : : :::: :::::::1::<lb/> im :fu:::m:::n:: ;:<lb/> ::1::::3:::: :::: ::::<lb break="paragraph"/></p> <p>:::: ::::m ::.:<lb/> :::: ::: ::::::m::<lb/> am :::: am:: :::.::m<lb/> :::: :i:: ::::m um::y:.mz<lb break="paragraph"/></p> <p>‘ ::::— . ::.::: :::<lb/> :::-„am:: ::9::: , _<lb/> „w.. a‘ :.m:':. .. :::: l::uug::1q:l::gnummm<lb/> ::: :::y:.:::n ::. :::: ::fan::::, :::: :: m::_:::n<lb/> (mm: :::. mx:::::::u:„::::: ;,:::.::::<lb/> m:„::::::::nm: " 1:::«: ::-:::am<lb/> :::: „::/:::: o: :: :: ::» ::::<lb/> ,::::e: ..:«::»::::.::z :: „:::: m:::::. „.::-::.<lb break="paragraph"/></p> <p>®:: :::::,::: :::::::m:u::::y mm:: :::.<lb/> ::::u: :: :::: b:: :(:m m:: :: ::::<lb/> ::::e:„::g::: :::: :::: :::: :::: ß::::_ !<lb break="no"/>:5::.::, ::: :: :::: mli:m'tamymeum q;_:, :,<lb/> :: „: :::—.: :: ::::1::5::g:: @;:::::::<lb/> nimm: ::::m: , :::: :::—::: :: :::: ,::: :: : 13 z :<lb/> €::mn @:::3::1:: :_ :: m: _n:::::<lb break="paragraph"/></p> <p>um!“ , .-„32ä—: , ‘ 4<lb break="paragraph"/></p> <p>:\unn‘tligm xml: im en:: 150 31mm:<lb break="no"/></p> <p>:::::::y:: oa:—,::::u„:::: ,<lb break="paragraph"/></p> <p>a=<lb break="paragraph"/></p> <p>:<lb break="paragraph"/></p> <p>:<lb break="paragraph"/></p> <p>:: :::: __, pa.»<lb/> 1%»:<lb break="no"/></p> <p>, :: ::::<lb break="paragraph"/></p> <p>ﬁemn‘unu unit ”urlummt iu<lb/> Alent[d,lauh gegen hm Gülca<lb break="no"/>hahuttltctilt.<lb/> Hulk 6alhmg ba %ugialhtmniralzn.<lb break="paragraph"/></p> <p>!Biem 2. 54mm<lb/> _!ui :::: b::ua,:: ::::l::::: :::: :::: „:::: :::<lb/> $"Ä'Ä :: :::_:„:::ﬁ@m Malmö %:x::::::: :::: ::::<lb/> :: :: « : :_:::::, :: :::: am:: um”: ::::<lb/> Nummern bu : :::“: :::: m:: g:: ::::m: z,:m::::qz,<lb/> :::: :::Lte: w::::: :::: :::; (:::: :: su::::::m:::<lb/> «:::: sm: :::: „»3:::, :::: fu: : :::: mmu:::’zan:m<lb/> :::: :::: ,:f:::x::m::n_ Twlgen isin :::; ::: :: :„,„„;,<lb/> ::::d: :: st:x.1::::_:: „:::: ::: gmßm sum: nun:: ::::<lb/> mm::u: m::x:::: ,: :::: ::: :: ::::n: u:::::m:::, ::<lb/> Dan-. a:: “game 91an« nung alle: man: nﬁhg mm, in:<lb/> mm ::::mb::: :: wz:u:::::: :: { :::: gmmgm man.<lb/> ä:::y:: :: ni: am:: ::: g::::m :::: L::::m::: gc[ungen<lb/> :::: :::: :::: h:: am:: :::: ::: he&lt;ä My:: min<lb/> »: 1::::_:::::am €mik und: [mm: ::::x: :: „::::<lb/> mar: ::::m: :: m:z::::: ::: ß:x:::::::n:m:: ::::::::::u:<lb/> a:_l_:m; aber. Mi mim; nid;t„ hnß mc ‘Emuimmg un<lb/> gab zguug 'Mä $:rﬁeyna lm hen |mtqhqiim ‘ßunﬁlcn cut:<lb/> :::: :::: ::: :::: (:::: m::mm:::: :::u::ud: ::: ::::<lb/> W"'""bz :::: ::::w:::m:::: 9:i::: :: teunriﬁmn ::::m:<lb/> :: y: ::::::::r :n ::, :::, {::: :: :: ae: m:: :::: ::<lb/> »}:r1mgnt :::: :::: ::m::::u::: u'::::i::::::ii1 :: :::<lb/> ;(ßtn_oulhm ::gm:\m :::: 5:::::::::: :::: :::: ::::<lb/> :::: :: :::: — ::::a::: a:: ünaniwwx ::: am::<lb break="paragraph"/></p> <p>„:::: :: : „:::: ::: e“:::::::::am:: :::: :::: ':,u:f::<lb break="paragraph"/></p> <p>am:: gegen ::: :: ::::y'm man:: 'nc:üble „::::<lb break="paragraph"/></p> <p>mm.<lb/> in:: m::':,: ma:x:sm: :: :: :::: ::i::ei “In :::<lb break="paragraph"/></p> <p>:, :: am in: mzlnm3nlariy‘dx m::a°:fxfx::fm2<lb/> zy_:-:::w:::: ﬂlzin_ql :::—m:: :: . ®:: ws::t:::::: :::: [:::<lb/> :: :: m:: :: ::::me: 3:::::: :::: :::: ::: ::: ::::<lb/> Bern: :::: :: :::: „:::: E7:urm\e :::: 1 :) !]!invmlm:<lb break="paragraph"/></p> <p>m:: „:::, :::: :: mm:: vermag ,":: L:: „: ::<lb/> «:::: ma :::: sk::::m::: :: :::. ::, : :: ::::<lb break="no"/>::d::: :':: i::u::: m: „:::: e:::::t::::mt :::: :::<lb break="paragraph"/></p> <p>ä'i'ff‘“ ::::ﬁm :::»: Cm: e::::z::::„:::: ::: m::::::::::<lb/> rcn="rouhm, ::: :: :: :ii:::: sa::::, ::: m::<lb/> ::::y:::g:: ::u:::k, :::: :::: an:: :::: m:3::::::n: ::::<lb/> 50 ::::i::o:: ::::::::::c:: ::::- ::n :::: ::::<lb break="paragraph"/></p> <p>:: m:: ::: am:: e.: m::dn:n:„:: :<lb/> ::: u::::n:m:: ::::n im::im: ::: °:::n::ufm:<lb/> :::|:::,:: :::m::. :: Eenmlenmibilevm :::: : :<lb break="paragraph"/></p> <p>„:::—=»: ::n::: mm:: ::::m: 23:::::: :: m::::, :::: ,.<lb/> [::: :::: ,;inlbzmnhmi, :: [::nm, ::: i:::: :::,f:::::„:,<lb/> „:::: @::::n:::::n:_bm:g: ‘![zbciummmu r:: ,::::<lb/> ::: am:: um:: :::: :::: m:um::m mm:: :::: :::: ::<lb/> m:::q:::ga::: :::: :: ::::_:_„:uu:::::: a::::y :: ::::<lb break="paragraph"/></p> <p>:::-.::: mm:-h:: ::::mimt: ::::m::: :::—:::.<lb/> a:: ::::::„ h:: m:::::::::: t,: ::: sm: . m::<lb/> um:: :: am ::::„m: ::: :: _|: „:|:: [H: i:<lb/> ::::::::n:: :: in, :::: mm:: ::::n: :::: :::: m::::r:::::<lb/> :: w::i:::i: :::: D::::m:„ :: „:::: ©: m::::::: ::::n:<lb/> :::: :::: mm:: ::i::y‘:: :::, :: :: was:: im::<lb/> :::i:,u:r:: {::: :::: :: m:::y::x::n ne: :::an1:::::, ::::<lb/> :::—„:::: :::: ::::,mmm: ::: m::g:: :: :5iu: ;: [mm:<lb/> m:: m: ::::s: :::: um»: ‘ . m:: :::: :::: e:' ::<lb break="paragraph"/></p> <p>fe:giü3tnn.<lb break="paragraph"/></p> <p>nug:mr!ua :::: 0riﬂvngn.<lb/> wenmm m ﬂug-Cl Gnllrt.<lb break="paragraph"/></p> <p>a:: m:::ui::: ::: „am:: am:: v41::s1:1::n::(:::<lb/> :::: :::: ::::n:::m Minis: :: a::::::::,<lb break="paragraph"/></p> <p>a:: :::: :::s :: mm:: mm:: ::<lb/> „mm:: mm:! :::: :: :. :::: :::: ::::„m: ::<lb/> -n:::::::::„:: h:: „:::: uägnbz b:: ®Emunlu: ::<lb/> :: ::::n wir::n:?::: :::::::na: am:: :::: ::<lb/> ﬁ::: :::: ::::m :::n::: s:n::: :: :: :: Boni: :::<lb/> „g:: „:::: :::: s::m::w:g, :::: :: Du::::l. :::: ::<lb/> ::l:::::::n m:|:::n::, ::::::::::::, „:::: „:::: ::<lb/> M::z::: :::: „:::: :|:. s?:::::::m: mm:: :::: ::: :::<lb/> 3::::w 9::::: :: w: :::::1:::„__:: ::::xg:__ab: M.::<lb/> :: :::: wa::::::. :: :::: :::: :: :::: :: am::<lb/> um:: ::::x::::_ :::u, :::w ::::iqm: :: ::::a:<lb/> n:i:m::::: ::ysqt:a mm:: mm:: :::: :::: :::: az::::g<lb/> im:: B :i:_ mamlhi ::ﬁ:d: ::: :::r m:<lb/> (lm i'x"“1"ﬁ “M Q,„‘ !'5.. ,MW ”!="<lb/> ::::n, m:: ai: ::;m: i:b:::' :::: :: ß::u::::m<lb/> m::,mg :::-::... ax_:: m:: :::: :::-::: n::u::: _:::: ::<lb/> uns: ::,»nqu ,mw: g:: üg::uun::<lb break="paragraph"/></p> <p>‘ .EMMMB &amp;&amp;<lb break="paragraph"/></p> <p>:::: im:: bug :: b:: hm :::: b:: :::—m:: czu::l:::::a:<lb break="paragraph"/></p> <p>::::n: pmuuamnen m:::::' :::l memger :: nmmef!l<lb/> ,5nlhmmgm gtf)t :::: :: :::: an'rwznbt :::: :::: ma<lb/> pun\3\plxllt 5::gc h:: ä::::::::::::_<lb break="paragraph"/></p> <p>:::: Qunk(n mad: hat in: Eli:kﬁanma\mng null<lb/> '.r::::::::mune ::: m::::: ::: :::r: wu mamma ai:<lb/> w::::he: :: bi: @:::::::::fuuw: „:::: b::::: 50 mit:<lb/> (um:: :::, „:::: hm v:::::b:: :::: ::: gy::: H:: ::::L<lb break="no"/>g::::::n :::. ,m:: z,::: :::: £:rglmdy um un[eml 3:iim:<lb/> :: bzhcz:::uz :::—::, mm hmm :.»: u:::x:;::rh :: ::::m:<lb/> 11:::::::::: ::::ußm, :::: :: ‘$elinmllnuégnflm .: _un(tmu<lb/> m;:n::: „:::-:: ,:::: ;::: ::::n Is::':m :::: MU mm::mm<lb/> um:: :::, c:::um:q :: :::: ::::<lb/> |:i:::: n:::m:::::g,::m u:\, '<lb/> um:, :: :::: :::: man @:b::atann$:ßainn<lb/> :.:u: {::: mn:::::::: w:::e::::::: :::: ::<lb/> :::: ::::w: MI :::: .:gmiicb: mm::a:::, ::::mm<lb/> n::q:,n:: cm:: *:»: a:::::y:::::.»:m:: g::h:: :“<lb/> :::: ::: ' :::: :::: mag:, ::: km:: um: ::::<lb break="no"/>::h::: 61m: :: „:::: \'lhzxivnﬁcn mm {mm: :|:: im<lb/> m::u:::: m:: um:: :::: :::::::: u;::::u:iyg:: ::: :::!<lb/> :::mgzm I:: ::: is:::::: :::: ::.: as:[:m::: ::: u:::«<lb/> :::m::: :: :ü::ni:::: m:m:b: :. im:::::, :::mmm :;<lb/> «M:: ':i: ::::am::::::::: m::::::::: %:g hmmm:<lb/> ﬁ:n::: ::u :::::1:ﬁ:: :::: ::5::: ::: :::: kann: ai:<lb break="no"/>:::::::::::, :::: :::,» :: mm:? M::::: :: :: m:»<lb/> „:::: :::: burd7fv.bﬂmt :r:, ::mn: mc „::::mqau<lb/> J::mtn, :::»: :::: m:uwue: mm:»: m: :::: «:::»:<lb/> ::::::::::: :::: ::::rmidyiren :::,» gmx:::: ::: ElbItémmg<lb/> ße:n b:: ©:wa „’: :u:::::a:. b:: :: ? mus: ::::uu<lb/> :::: m: am:: ::i::::&lt;::::u:: mm:: ::<lb break="paragraph"/></p> <p>, sam-:::: :::: h:: W x,:n’m: ::::qmar: mg bi:<lb/> m::::umu: :: Emmen: me:::u::; :: :: 1::g:::, h::<lb/> b:: t::::::: :::: :: @:1nmrmm:::; :::: ::: „:::: ::::<lb/> :::: uninbzgr g:::::pouriu :n::::;::: &amp;r::::::::: lm un;<lb/> :: :::: :::: :::i: M1mlmm‘nﬂnge :::: Bm‘nlkmmg<lb/> mm m:: m:: am :::: m::::: :::: ::::m: am::<lb/> am:: :::: Q:f:m:_:: :::; ::.: :::: :::— '3:::m[:::n hi:<lb break="paragraph"/></p> <p>mu::m:::bi:hm :::: :: w:::::::nmg b:: mim;<lb/> ::: :: am: Die gast: ::::müu: bu Sum: :: ::::<lb/> u:::1 :::::::::n::_:::m:: :::: am:: :: :: ::<lb break="paragraph"/></p> <p>„:::: @:::::::::::::: ::::::: :.: v::::::::u: s::::::„<lb/> m:: „:::, :::: :: :::: ::::m: :::::x::::: :: m::n<lb/> :: „:::: e::::o :: aa:::::::::::x uu:1;unb:: in mit<lb/> :: im am:: :::: :: ::::e: :: :::: :: mm::<lb/> $::':::::::„ ::::mm: ::: mM :: » ::1:::::: :::: m<lb/> :: sn:::::::_:, :::: :::„: ::::::::: :3:::::::::: ::.<lb/> «E:: ::::u:: :—,‘:, „:::: :: :::: ::n:::x:: :::: ::::<lb/> :::. „:::—„:::: ﬁ::b:::„„ „:::: :::: :: :::: :: ::::n:<lb break="paragraph"/></p> <p>J: :::: ::::::::, m:: :: :: ::::<lb break="paragraph"/></p> <p>ua:: mm:: „::::m:<lb/> m::u:::::: :: :zx:::g::u :: ::: :::: :::: ::::<lb/> :::: m:::y:::f: :::: z:::: ,:::: \ : ::: m::x:g::::<lb break="paragraph"/></p> <p>:<lb/> :::: :.: ::: an::_:,:: :: al:i::::::::::::„ :::: :<lb break="no"/>s:::::: ::::g:: ::::u, :: :::: :::y: :::-1: :: ::: :u::::mh:<lb/> :: ::::u: : ::::gamm, ::: :: imma sm:i:: ::::<lb/> ::::::x:::: a::n:m::: am“hmgm :::, :: :::»: :::;<lb/> mm:: :: x: ::::n: m:: :: \mpmbuﬁtun g:::::: ::::y<lb/> p:::::: mm7m. r::::::, :: :: .::...mmm :: mm:,<lb/> D:; url) mi) iynmihﬁtlv ﬁcmw;c aim Minen müM'<lb/> aber :: ::::.s::: w::(::::g:: :: «; :::: :m::t:::: :: :::i<lb/> :: e:::f::m :::: b:: :::n::::: ﬂ:$:l:t::g :: auf:: ‘s::n<lb/> (:::: ::: :::: :u::.:: mm:: :: :::—:, :: »: „:::: ::<lb/> y::i:xn:::::::.:m: $:z::: :::: ::,— :::: I1«lbm m: : ::<lb/> c:r::::m:: :::: man, im:: :::: :: ::: am: :::.<lb/> !<lb break="paragraph"/></p> <p>1.3:::@:1:::::„::1m::<lb break="paragraph"/></p> <p>@:u::r„:: :::: :: ®m:ß:b:vi, x:::b::z::m<lb/> u::::„:, ::::::,m::: m::yau: :::: ::3 mamma: ::<lb/> cs::::::': :: ty::::::::: :::: ::::m: 1::: » mm :: i::::::a:<lb/> ni: km :b:m g:::::: m::,t:w:: 3::::::: : am: unin ::::<lb/> Iicd „E:::m:n::b1dua“ q::':::m:h :::: „um: :::<lb/> u::::: :::: :::::ﬁ::: :::;::: mm:: :::: ::::g: :::: ::<lb/> fe:m:m::i: «mm:. @: Mu_wn :: m::,::::::::: ::: :::.<lb/> ::::::: ::::no: :. mm:: :::::::: Emm, :: :: ::::<lb/> :::: :m::::: :::: w:f:::b::c: %: :: wm<lb/> :, Klemm, um: «um:: ®::::: 3: : :, gung“ :: <lb break="no"/>r:::::::: :::. vi: :: ®:: : ::: «::: um:: :::: ':<lb/> ::::n: :::: :::: :::: „:::: „.\:::gm::", m: ::::<lb/> „:::: ::::t:n:::,:: :::. m:: „:::: „::: m:::::::::=<lb/> :::: „B::bapnif: :: „ß:::: .5::::::::_:" ;<lb break="paragraph"/></p> <p>„m:: „:::: mm:? :::::::x;: ;: man:: in.-, um: ni<lb/> m::::,:: (:::f :::: :::: :: am: im:, :: {man an<lb/> cm:: :::: :::: :: :: :::—:: :::: :::: :: :::; ::::<lb/> ::: Y(Mnﬂ :::: :::: ::: mm:: M: s::::::n :::: “<lb/> mim trat am:: : mm:: m:: :: an am hi<lb/> mm:: :::M m: Wknlﬁm"<lb break="paragraph"/></p> <p>,m: m::: '.vimn’ :: im:: e;,:::: mx «in:: :o: im.u<lb break="paragraph"/></p> <p>':_43. um_x::::z, „mm:, :::. :: :::1_1m: ®ea_<lb/> , . mäßig? £ä le! li<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__cb4f6fb6-8f63-4fc7-9ac2-739f10b21060"/>
+        <p>.? _,lr _1MBO<lb break="paragraph"/>
+        </p>
+        <p>m.... \\u\\\. me ga... un\\\ \..n..\.'.\.\\\ @...m. |»...<lb break="no"/>}_._\_}__:\\_.\„ü m......uüwaw. \\... .c;.m:’ ...). m;: am...»<lb/> \\4\ ..u<lb break="paragraph"/>
+        </p>
+        <p>\illittldjutfﬂnht ®vlubuuum _hv: uugun[üyzu<lb break="paragraph"/>
+        </p>
+        <p>Zizynruﬂuunhumuuﬂiuh.<lb break="paragraph"/>
+        </p>
+        <p>\\...m... ... „\\.„ mm \M|\'\<lb break="paragraph"/>
+        </p>
+        <p>?. n......n, ° «an...<lb/> , me im. B am... m \7.‘e=..m\\a.\.komuu \\|\ am rm<lb/> M B..h.xpc|n‘K (.....m: ....» €)auuh.\.nmmur“:\e E \c..<lb/> am um \&amp;.&lt;\;r.ü„.;..... ua.. ...... &amp;.....nm- ....» A.:... ..<lb/> ‘..u.m...g..umg.m. \\.1u...\,b.z .... . nl: «mm.. 21..muuu<lb/> :::|r\a\.|....... m m...... \.\\m |. ....l |. {auch \\n‘. &lt;ac—<lb/> mm.:m... !\r\..:hm zb.. ||:a..„a.....e:.......|\.n ...: |i\2<lb/> ,«pui am“. |: um im mmabinuu ....<lb/> Vﬂn_ge \m \...„az\|\\..|\ umnmunn.u.en<lb/> „um......<lb break="paragraph"/>
+        </p>
+        <p>[Immaan im: {lilßhmtengruv : mli bu:<lb/> “th-u: £nnhmlrh-ilurm iu uuuueli.<lb/> ßuhlplﬂ, ?. wma.<lb/> \\... an...» um:: hi: m......\....... \\...<lb/> sw iben:tngtuppt \\. Wu\mnnlm|mumhmg ....<lb/> \\. m...... mm....u- ...:. m...._...«nnu „n...... ,.<lb/> an.: bu u...... g...»....\.p..\.\ „m...... ...... \u__\<lb/> w...... m m:.\|n.ympo„.m ®...y... mm..<lb/> w.....„mm \\..\..\\\\\ w....m \\. s...... @...<lb/> m.\„m.„. ....n b.. gmm[mn\ mm;... (:.a<lb/> m an .. ...... w...... Raum} ., |... ...: l.b\;a|\e.. ::.....<lb/> gebungm wma. wm...<lb break="paragraph"/>
+        </p>
+        <p>si. m|mnw|nng m <a href="mailto:hilrtnl@llduu">hilrtnl@llduu</a> malen:<lb break="no"/>|.1...mem\me \n Ilunum.<lb/> an... \\\| \\...m.<lb break="paragraph"/>
+        </p>
+        <p>«ﬁ... m...:m. \\. \\\\\....m\..\\.u« \\;.\.\\ m m.<lb/> :...„.\...g \\. |...m...\\.\,.\...„n| \\. €lnnlßldnubm»<lb/> \\\...\m\\m ...; \\. m.xr.uqa.d\ \\... \\ m.|...\c|...__._ .|\<lb/> |... „zum... \\. zum. w......„m. w...ﬂ4..n\|m©<lb/> ::..... ...... \\\\\.\\\\.\ „\\. :\. \\.\\\\\4\\ )8£r19||<lb/> .... \..\\\.|4.\_1\\\.; m......m..... „...... \...<lb break="paragraph"/>
+        </p>
+        <p>Wien. mia...<lb break="paragraph"/>
+        </p>
+        <p>\\...<lb/> im.<lb break="paragraph"/>
+        </p>
+        <p>m...... \\. \\. . ..... .\...|\.\\\\.\\ am \\ \... man.<lb/> \\.|\\\\.\\\\\\ß|\ \\... „.... .., „m.... ... m...:<lb/> bei an &amp;:aniﬂhnﬂ: „€.. Da cumu mm..fm.n \\\\\}.\\. z....<lb/> gr....|. |...» v\.4.....«\.\umum ...... h.. m„.m. ...} ... um.<lb/> Ilm.mmg \n...\.}\.. % m....n..„.. ...„|. m...... v..., n_.}__\..<lb/> ....1m :\.\.......m. blmbmbrl: „un...... .<lb break="paragraph"/>
+        </p>
+        <p>...... .. \\. s...... »....\. \\. m......mun...<lb break="paragraph"/>
+        </p>
+        <p>:-. .... .. \ \\...14.| \.}\ mm... ...... m mu...m.m<lb/> ;.\a.K‘..... _\...“Euu.p.‘jm|„„b f...».<lb break="paragraph"/>
+        </p>
+        <p>Wanii&amp;c °anbdslnmmn in “In.<lb break="paragraph"/>
+        </p>
+        <p>\ |.\|\\ \\...d...\..\\.d.m z"hi7\. ..m...\\.\\.. m... \.\\\<lb break="paragraph"/>
+        </p>
+        <p>Neue F. em Presse.<lb break="paragraph"/>
+        </p>
+        <p>\\. .\\|.h\...|@\ 239 mm. \_\\\nm\\\\.\\ba\<lb break="paragraph"/>
+        </p>
+        <p>}\__\. .. \\. um...<lb/> um im.... |\\, \\ une. me|ex )3mmn<lb break="paragraph"/>
+        </p>
+        <p>.}u..:m..'<lb/> .\.\\<lb/> \\\\|\\\ m.}...„n... \\. mm.. mm, ||. um.. .... ?,me |\\7|_\.|_,<lb/> |:.\\\\.\ \\ \... mm.. \\... 93\.nh..,:|nf\|mc, m \\... .<lb/> \\... m...\u..y.\\.ß um... m\\,|\. @. \..\\\\\..\._.__\\ __..m|::_._|__\.g<lb/> ﬂ:m.\bnhm.m \\... \\. m...} \\||n\.\n__ \\m. , i\\\.\\\ in m_\\<lb/> m m...—x... ...} 7 \\ ......,\.— \ m n... .\7\\.|\<lb/> m... “...“..me um.. \\ \..‘ „mu... m....u.g....q ...‘\ \...<lb/> nn... \ m, mu „€... .\| .\.\\ „Aut.. m\.\.\..|\\..\m m..»<lb/> \\.\. .... .\.\\\\\.\\\ hu... \\..m l;c1lmhm }\.\.\\\\\ |...<lb break="paragraph"/>
+        </p>
+        <p>m.. \\. ::.. }..\ |... hmm... \\. m.....„... ..|\.\... mm....<lb/> n...... \. „Ja um...... ...... n... u...... ...a. \...|<lb/> „um...... \..|\\.. |\\ EN,} \..\|\\\ ßn...muu..m .... \\.<lb/> z_\\.\_,_:e ....» ...n|:..nna.e \\. \\\\|\ ...|\\\\ m......“ \\.\, nm<lb/> \4..\,\\ 4.|.\\ .... um um. b\\ w.»... \\|\\..\\\, |... |||. um<lb/> ihm:} ...... ...} g.|...\\m\ }...m, .u \4. .... en.. ,\\.<lb break="paragraph"/>
+        </p>
+        <p>B|Hmn \ .... nun:. .::. }..nn... „um......<lb break="no"/>hp... \ Mminlm} }__};||un. in} \\\.\\\\ „\\. u\||z\ 5..um<lb/> .... na. .\\.\ .\.\ «...... \\... u.a. \3.\\\_\\\|\\. m.. Im ......<lb/> „um... ...... mm:: mm... \\. „:|. mit am. ...mmmmn.<lb break="paragraph"/>
+        </p>
+        <p>|: .<lb/> „| \\ „_...\\. __ _____ M _<lb break="paragraph"/>
+        </p>
+        <p>EMO nik(_n_ ||| [ein lub mm im<lb/> a.....m...u.“ ea... \ n„n\u.|u \\...<lb/> ....|..... e.... |...\ \,}. .‘ mm.... m...... mm.<lb/> }\|\\\ |uü|\ﬂnen„ m „ be. \\ \..| m ﬂtmngtd an ||»..<lb break="no"/>.\\..\\\\_} ...... h....\\ m...... e...... ....\ ..... ne. .:... um<lb/> mm. mm |m(d|n||k \\ :.»...71m .. \... |:4. u.... \. «mm<lb/> . wenn 31mm \\|..\.b\\\. mi...: |anu |\\\|\\ \. A..... |» „mm<lb break="no"/>}\m\\\\\ G_ﬂydn :mrmuhmm \|\‘\. m: nn .n\\ ....\\m mm<lb/> .. .... \\.\\..a.\|\\ am, sah.... glummgn .. ...»... \6<lb/> \n. \\... m...... ä“"‘"“ ...... ,...... ,\„ \\. m......um ..<lb/> |...\\\, m.... |. \n.- :.. n...:ng. \\4\ mb. _unun\:mn \K:,<lb/> ...... |\\ Rhein: zu lnunq .. n.... m.:<lb/> sum \\ .... \ ....» \\: um: »... :(..nl. \n. \\m mu<lb/> „um. zum: \\ e. |\\\ "‘ää,’ ...... ...... „um...<lb/> n....._\|y... ...... \\\\ m..m .. \\\\ ...}.\\ \\... \\ ......<lb/> \ \\... :... ,...... \...bm .. \u ); „hub: mm...<lb/> ...mm wm: __muﬁl: .. mm:. \|\\ \\}\|\\\\ MI m..<lb break="paragraph"/>
+        </p>
+        <p>\ e..\\ ...}_ ...... .... ..\.\.\\.b\\ b.. n...\mn.<lb break="paragraph"/>
+        </p>
+        <p>Ed|obn1|'|hnﬁn \\ ul ...... ...“ D.....|.\.o.<lb/> anei um ..u\\. \. b..|.. am.... um»... um \\..| :.\‘<lb/> |\\d.\\\\\ \\... ::..}... |\a\\n., \\. a.. „...im...<lb/> \\... om „.:... (mm „m...;<lb break="paragraph"/>
+        </p>
+        <p>qm....<lb/> \\ ....m. \\..A vv.|\.i„ .... |\|\.. ...:<lb/> \..n___.-,\....,_ „\\. „m.: :|. \\..\\u...\\\\n|\&amp;. um..<lb/> \\ .\.\1.\\.|....\.\ : ne \\... s....,.„.m \...\.\\, hu<lb/> “‘uwn.u.|m änm|u \\. Nr:-:lmung \\}... mm:»:<lb/> ..:„5. ...e. .. \\. n. \ |... um... .. \\...\\...., M.<lb/> \\... 25\\.\|\\..„ m B...-::..... .:.. ...} .... ...imm.<lb/> $"ä".. wma \» uam»: |m r.; m...... hmmm.<lb break="paragraph"/>
+        </p>
+        <p>w.... „\n inlﬁdnnhm ... „|... ||\.......|. ..., i...; ....<lb/> \\\ ml....<lb/> gun... \\.<lb/> \...\\\<lb break="paragraph"/>
+        </p>
+        <p>mm.-.<lb break="paragraph"/>
+        </p>
+        <p>mm kann... me..| |.\\ \. .. ......<lb break="paragraph"/>
+        </p>
+        <p>i...:.\\ |... um.-„m ...} ml.... Orbim ||.<lb/> „||. .:}. .„\, ||| n.: \\ \ .... .... ... ......<lb/> Mm: \\ |..: nl. U...}:ü. &amp;: mm .... in un<lb break="paragraph"/>
+        </p>
+        <p>”:;‘annmnren<lb break="paragraph"/>
+        </p>
+        <p>8 mm... 1922<lb break="paragraph"/>
+        </p>
+        <p>...... ....- ..,uuna. u...-„u....<lb break="paragraph"/>
+        </p>
+        <p>BRILLANTEN<lb break="paragraph"/>
+        </p>
+        <p>ii'äi'ii'iﬁimuf äurﬂi'h'"ﬂﬂ<lb/> Wien. I.. Gruben \\... mm \- 29.<lb break="paragraph"/>
+        </p>
+        <p>| 'l'lﬂnnnnl. ...... n...-.»! www.-m n.<lb break="no"/>
+        </p>
+        <p>M.-L<lb break="paragraph"/>
+        </p>
+        <p>nun... 4<lb break="paragraph"/>
+        </p>
+        <p>Erin"! ‘m‘lä<lb/> :uwnli-r rom. l._, I::lnhunmun<lb break="paragraph"/>
+        </p>
+        <p>\\ .... ...„\.„„„,..<lb break="paragraph"/>
+        </p>
+        <p>„_ _llllnrlaln-Auktlon<lb break="paragraph"/>
+        </p>
+        <p>m...... ._,:ng;_____ .... "nun-\, um..<lb break="paragraph"/>
+        </p>
+        <p>Aus::lllunn: 3'.‘.?äf«ä‘f.‘t.'.‘ \%.'\'\' KL.’- «<lb break="no"/>Vnrulelgarnn "“ ‘"<lb break="paragraph"/>
+        </p>
+        <p>N," „. "°... \ ’.m...:.\z:\ \„<lb/> nn l:hlulol‘:_llunnluuklimhnun<lb/> \.<lb break="paragraph"/>
+        </p>
+        <p>mm.-mm<lb break="paragraph"/>
+        </p>
+        <p>||.\..,|. m...... {um um „una.<lb/> „m....<lb break="paragraph"/>
+        </p>
+        <p>Perserf‘eppiche<lb break="paragraph"/>
+        </p>
+        <p>‘ _|t mm... \\ «um. ,| um Ann“ |- .»<lb break="paragraph"/>
+        </p>
+        <p>quh:uar T:npinhnnhwumms Bunny!<lb break="paragraph"/>
+        </p>
+        <p>VII.. Nauhlug„„ os_w „|... um<lb break="paragraph"/>
+        </p>
+        <p>umwnsr “\lßDlw4,‘ |a:wum<lb break="paragraph"/>
+        </p>
+        <p>”o<lb/> E'ICRISI'<lb break="paragraph"/>
+        </p>
+        <p>__ _Nhn. ! Might. _ mm;... "::: m)": ill_ﬂv‘lb_imunie„ _}mv‘i “<lb/> ) 331 dm ﬂh[ll l1uälcn Elrnmmluu Mm nich g__mg_m\ 11 mir um Im m \\!,yi “‘<lb/> ‘ n » |||: ! \ \\ \ b w. |»: Ill: [# zu A- ni» ma dl<lb/> 5:31:39\;\;*:..%?.5.3_'|6....::;“.",_“;.. . ......A'... „“...... ‘ .: mm'3m<lb/> .. ...... . . „.<lb/> £.K.ß..“w°\ä‘a,..äf"iii"" .|\3..\. ..."“K'fnéä, mﬂ'.. ..\.\K.u mm;;<lb/> mm.. \\. m:— „„...... »- „.... ...... „.. „ ...... _...„..,. „. „„.....m Em: :rmnmnhu Eonlleunaﬂ um hier<lb/> " ""“” Mm!“ “““ " “"“ ‘" °‘""““““‘“' ”°“ ka..|xn'|"_|u \\ im an. \\4} an !lnnbi „::..-m...<lb/> \!h im»: \\... |... ||... \\... alu-mm „ _12 g':'_„_, _A\„_ Q" „____<lb/> m......n...___.u,a.aa.u. w n....n. mm... ..|..4p|\.\h “",?“_'_Ml"_ ,_"„__, _. _ , |_," _ „_ __„_ ___,“<lb/> hm Emmi lnﬁzil IMB inxhutr unter Öimllel‘ m| ”“ “" “ " m:" (|; ”"”” |1°_ '“ ‘<lb/> \... ...... mm.... wa‘fﬂ... man .... „un...... g.\. .. |.|c\g. .\.\.g m |... | Mi um .: ben „. n<lb/> mm m...... n n...... | \ mma.mm..-__ em.... _fé “HM”! _<lb/> .. — ' n...... ...... mm mm... n.... m..._,_mmm_.u. um . .— u„g mm,. &lt;—<lb/> ' ' n .. um man.. \n pam... u.a.:chnulu % _____n|=.n „sammlw , 1 B<lb/> €..."ﬁa... |.'.""...'..| ‘|KL u34...||. man... umnllallzt Gnuubnu- .... ,. ,„ ez.,<lb/> mm m.... ma. a...».mmm \... .... m_c.___ mwm......uu..„, ::” am}. ...a. m _Mntmu dm . \ ag Graben 26<lb/> &amp;am.... Mi.. S“zn%ﬁin mm max.»: b_o:umumm ...». »\. \\.}_l nl‘|lbclall __ __ _<lb/> Mb. \\..u .muWu |||... ___:n»innn“"m '|„ 15 M.:. biz an:-ü. („... ..).m www-v<lb break="no"/>ﬂulli m In lvl Ellﬁlmmln ﬂuﬁlhnllﬁerﬁlbml Hiller ‘miﬂ'lililll __ ”In“ Sohlltllnlmet<lb/> ,. „ ___„.'___ ....<lb/> ' Spelﬂezlnlﬂtt<lb/> a....smf» um::__-n_:__ su u;:_.:__c_ mamma . ”WWW" 'E'EJ‘“ “"““ S. Still". Hotrcnllmanz<lb break="paragraph"/>
+        </p>
+        <p>'r m......" .. ..... ....n a...-..<lb/> F [,t M<lb/> am. |... ||..||\\m_ .1‘%m._e____mnq_ﬂ'__i..}um._. |.._\_._____ \\.|<lb/> |.xehuun. \. \\. \. .. ...... „u...<lb/> £K."...“"u .".‘.‘. 1|"5|...m|m mr. ..... Kauf.... „mm:...<lb/> lll(l’l"lll mulhl.ll kann<lb break="paragraph"/>
+        </p>
+        <p>ll_:ime md.irﬂ;: gr:_al_l_=xa: ,nur arm: an<lb break="paragraph"/>
+        </p>
+        <p>«A...... .... ...... a.... mm<lb/> f.... : um.<lb/> Dammhv', M mm M „am...... m...-.... nal,<lb/> :mmnﬂ.z \... Dé|nm\d. |..uu MI nu ..\d\||\ zn<lb/> ...... ...:. wmm__auß:_:ßl___ﬁz2ßegn_l_dzq b__l__Izl[l,_b:_ll<lb/> |... \\ \ ..<lb/> 1.‘}\Ku|°ﬁn||m.untz ..\. ni.9«h\u|..m| ..mnumu<lb/> |... masz "nr. (nun n..|=\ne |.4; .. m...}. man...<lb/> nunm- ..b |... man». mamma. |||-.....<lb break="paragraph"/>
+        </p>
+        <p>ßﬁdzlulnhn ﬂuuhtnlmll|lnl mm ärl|ulnugs—<lb/> urlaub.<lb break="paragraph"/>
+        </p>
+        <p>E.:-, 1 am....<lb break="paragraph"/>
+        </p>
+        <p>üu..nz:t4mlrg amb_u .|\ |..\\\\ mm Mmm<lb break="paragraph"/>
+        </p>
+        <p>Urlaub |. im. ungmnﬁm un: \... |.\m ®,wem.<lb/> Dunn übnnnmmzn,<lb break="paragraph"/>
+        </p>
+        <p>mm:: m giunuamiuilhn und: Uran.<lb/> m.. . „....<lb/> ..». 1&gt;r.mqt„ \\ ...». ......n }.<lb/> |... ""‘73‘ﬁKÜKKKKW.....R \n.\...\.\\, Im .\.\\;. ...} qm..<lb/> „......<lb break="paragraph"/>
+        </p>
+        <p>u.\m<lb break="paragraph"/>
+        </p>
+        <p>Elr. 5tauk ihm: Die ﬁlelm|u bu man.<lb/> Mu|lßnn |||! Uzgimmg ämnhn.<lb/> rm... Dwoihnm \\... [m. man.<lb break="paragraph"/>
+        </p>
+        <p>n.... \ g......<lb break="paragraph"/>
+        </p>
+        <p>m \\.‘pnc\\\.a.p .,ß:vln_mmﬁhnmwnuhm, ....\\\\ a..<lb/> line! \\ n.... \\\|\\_"|\.\.. man“Mu.hmu_metlammhmq m<lb/> \,..n:..... \\. mm.... \... \\ ‘ß\_|i\\h \\.\\.\\\\ \\|1,\\\\ %<lb/> „mm. $.. |4||k w...4.. „hu hie z\\.}\\\\ m K\\.<lb/> * :ofnnelmbnbm .: Du um Ehnmmm ßnüßvnxm ||| hm (am:<lb/> 5||.,.,_.;_. &amp; „a...... \\. .. Et|ldém um......„z. m m...};<lb/> im»: -a .... hy|'mhu um: um, nam-Me. „&amp;.th _<lb break="paragraph"/>
+        </p>
+        <p>Ilm ti: RE:-mu .» Smalde Datum666.<lb/> \. \ | \1| \. .. ...“...<lb break="paragraph"/>
+        </p>
+        <p>„..?„T%.2KKKK"T£„ ?„‘".u.‘.f.„.f.f'\ä'äß„ .... £K.".<lb break="paragraph"/>
+        </p>
+        <p>..|a.n..m.._mi| #...ma. \\... „.....„m. „mama...<lb break="paragraph"/>
+        </p>
+        <p>£...,_...\\ ""3„ ‘n. um... um \\... nme.» „\ „m......<lb/> ......„g. \ mg...“ .“.K“KÄ'K .\\| :.. g...»... „....|...\.\.,<lb break="paragraph"/>
+        </p>
+        <p>.. nhk .: \|.\\. ...m „. „|... m...... „...;<lb/> .. m... \. „. |..|.\.\mn, .. „\\ 4... ,|... ..... mama.<lb/> » ___...A an numnul .... mu. m....<lb break="paragraph"/>
+        </p>
+        <p>a... \.4 \.\.\\\. ...| |.. .:... „mm<lb break="paragraph"/>
+        </p>
+        <p>i"i...-m:...» man m...<lb break="paragraph"/>
+        </p>
+        <p>&amp; .. \ n . . \ \<lb/> m [min 5».- na um.. ...im<lb/> „mi..., \\... |\. ......ug \. um}... an.. .. my ..‘gm ...<lb/> an.. |... ...... m.... \\.A.<lb/> \ludz .. \\. an.. \n! m___i giim Bm- m......<lb/> „.... \. mim}. „w....un<lb/> ...u___.||.__| _ __ _ «___ nn: \i\;.a\}ri\n_zm<lb/> ...... ..... \\ „\ „un......<lb/> "2531... "KG.... .... .. ......<lb/> mm:. um... „um. \\ in... um...“.<lb/> „_l_nﬂl_uﬁh \' |: a......n... _...<lb/> h}:b|ßel. |..‘.\..\ „n.<lb/> ....u" a. \n... n.yu...i.ac _.\.\___|,<lb break="paragraph"/>
+        </p>
+        <p>\\.<lb break="paragraph"/>
+        </p>
+        <p>gz|\gn|\ \\\ .|\r\.. L..<lb/> n... o.ä....» .'1' —m.g „\<lb break="paragraph"/>
+        </p>
+        <p>.... an... ....\ merk ..<lb/> e.i|\.\ \_ hie „\\. ‘€‘"‘ „\\... .. \\... mm....nwmu....<lb/> m:... .. m...... ...|\|. am:... :....n „mug.<lb break="paragraph"/>
+        </p>
+        <p>lebl|lm, @“ r! Hill mm mmmlll her 5 i n, Inlfﬁ:\|ll<lb/> ha,. m.....m \\ em.. 4||timmx ...... Inlubmnnn: ......<lb/> m.... ....» &amp;»... „mi. |... „mm... „\... ......<lb/> ...\\ lm Bannjlnku|\ |'l“1'“hc4\rm. n......m... mal......<lb/> \\... üml:}__ „\ ...“}... ......» .. m...... \\... \..._}.\\<lb/> A|: br! "unit lglfﬂhﬂhm mth {n<lb/> “| mmmen. 5 IQ |! e ||?rrn Mmmul .llll<lb/> mm hr: \“!1Hl’ﬁm “\ '%°r“"mbg Ril=ﬂ‘ _m "MW Üfblll, ﬂ“.<lb/> [Emm'%lßmﬁcllell Ilhb Gulli Mr: man: man.<lb/> an ßnmiltl „RDIIIHEX' lll_l' i|\r h|e<lb/> 9..„\.\.|„. \\. ..|\\ „|.<lb/> Dem ﬂü)llhll nlijl’m mit! n|'.bl\wl 3Mc}emmm<lb/> :\.....u.n, 5em...ﬂ .|._\, n...}...n in...». :|:..m ..<lb/> ä: : ut, ﬂnt|mnh 5rl ®Gkßilloln her lßmhm „HEILMIL_ ßiml.<lb/> Wim“ _‘ä5_ifﬂfl1_ﬂiiä_rﬁ "é“ [Ägéläwﬁniät1‘qwr‘ll '<lb/> ... . . .. .. . „. ...._. ..<lb/> ..|\ \\ t....u mm... man ä....<lb/> "%."Äa'“‘h|w :&gt;: m. u.... am:“<lb/> ...... . .. ...... .. ,\ ...,<lb/> u.a.:- .:m. hund. nun—ﬁ ng.<lb break="paragraph"/>
+        </p>
+        <p>o.,|...\ „m.... _<lb break="paragraph"/>
+        </p>
+        <p>Ham... :. . \\...»<lb break="paragraph"/>
+        </p>
+        <p>m... .. lmnnmrlillﬂ, |z. ||. .. ‘f.°‘.‘„‘:iffiff.„<lb break="paragraph"/>
+        </p>
+        <p>..i-. K..“ „„„„_ .. 31.355" Werkulnen<lb break="paragraph"/>
+        </p>
+        <p>HERZMFINSKY<lb break="paragraph"/>
+        </p>
+        <p>...::fz“<lb/> R:lun-l.u‘in "schon In |Il|n (:|-“nun.<lb/> Meine “um".<lb break="paragraph"/>
+        </p>
+        <p>‘. _ ___ ll||. :. __<lb/> 4_;___ u...] __|.\|\\\ me.?|q_e_ß ..<lb break="paragraph"/>
+        </p>
+        <p>\\ \\.|<lb/> m». a,.n'.n.'. .. e......‘."‘ „...... w...... \\.<lb/> u.a. \. “ullnmuunlmunq<lb/> sum. |...- ..\.4 .. .... om 'n. M...... m. |||bll|,<lb/> ,... nah. .... \\. .|\.‘. 3.\mä{_ u.\\... e... \ u..<lb/> ,n„|„.m um |\\ |\lq\u\\ m lene| \\.||\.mmi\uuv \\<lb/> m...... zu @\|a\\M\ „um... |..q \\ bel |\e|uM0|m<lb/> K‘"‘"“""‘ „\\. a.....mW «.... .\\|\\\..\ \\\.| «|| um...“<lb/> \\ mz..._\..m....fg \\\\\\„.\ \\.\.\ F.... mm. \\ ... .a.n .... _<lb/> im Druiunnua \\ 7|_(n Huhu " X1\|' Klick: u.waﬁm ”\ o—<lb/> |\||\. m. an... &amp; ||| ._._.q wm... m\a....„..|u........<lb/> ‘, M:| TR|\| um III 'N' lillanulee .:<lb/> 4hl ]! \nh4un' ll: IO "‘ht "WM; “||| |||“!an “ein<lb/> „um...... \\...n . pn... \\... Ümz|mäﬂnilmn<lb/> u...... |... \\._\_\_.\_. „mamma. .. „...... mia-unten<lb/> ,in an... 7..\ \\. an .“ e\\....\..4. 4.____m\ _ o\.-\<lb/> u....u e„.._._ z". ___£a___ .. \\... .. .....5 ....<lb/> .nmnl \\.- m.... .. __}\_e\ ..:n .."..4 .\\\.\\\\\.<lb/> \ w... .. in. ‘. "n.-u. nun... neu ®..n.\ \. Jn|\uurl<lb/> , III hu Hn\nnﬁuh i!m|k}un. _lll bis mehelballr Numn||_ um<lb/> bl! llniue MI ﬂ)\m - |luu<lb/> _!<lb/> 9__4_m „mm.... |. m...! n.. m.... }...\\\..<lb/> llxan.ln Yin“ ”(nur hai In In" „Emm . [ n||.ﬁm<lb/> End)m|d| ul il|lfmlhl mm NN|üLLHI\ in 51 «\ nenn:<lb/> „... m...... m..., buß m}...\\... m...... \)..\.. a....<lb/> mam=zm..‘.|m... «am... a. n., um \\. ud. n.. Vdnu|.| ..\\<lb/> _n.m.ypmy Ian.“ mhrm| Maul. hni| ||| hu Mm)": :}<lb/> .... „...... „um... v.|.\m|..... ||l||hu| mm... m..<lb/> | man... \\.|\\\\..\\\ |.|.. \\. ...... \\. „\\... mm.. \\. ::....<lb/> }|.}\\...__ „\\... .. .. |.„.\\\ |ü:|e\ \._\\ﬁ__p \\..4. \\. un<lb/> u_ß_d&amp;l_bs „Mk! Mm<lb break="paragraph"/>
+        </p>
+        <p>...<lb break="paragraph"/>
+        </p>
+        <p>ZE‘E<lb break="paragraph"/>
+        </p>
+        <p>\\ \\.<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__90a37911-1dc3-4a2e-901d-31fc778214fd"/>
+        <p>ESAM.<lb break="paragraph"/>
+        </p>
+        <p>lang!-i. u-i:|=n_:__u-n, mm<lb break="paragraph"/>
+        </p>
+        <p>Neue<lb break="paragraph"/>
+        </p>
+        <p>:...<lb/> :<lb break="paragraph"/>
+        </p>
+        <p>m:. ..: :. Du“! I:... A'». :::...<lb/> ..::: :: :.: ::::„mm ::.:m.<lb/> - ......» mw...<lb break="paragraph"/>
+        </p>
+        <p>. ' „, ..::-,mm:: ;— T.":<lb/> : : „„ .<lb/> rele resse "' Nil—: ‘“<lb/> :, =t<lb/> . , , , _ 0 &amp;:<lb/> „_ a.„wrm°.:é.::„— ’ “"<lb/> -17:1:"45E"$53i73;:„„ w:::„„. , :. '<lb/> ‘ ..“:„xfegxf'lm: - M0!39113?13ﬂ5 ä‘rﬁ„„g._.„l:r "<lb/> , :::. „:::-«m :.=m-- ‘ . ...: :":2‘3:.1.'.":.3.“:3““4_<lb/> N- 2063}0 28im, ürtitug, nen 3. %thnmr — 1922. }<lb break="paragraph"/>
+        </p>
+        <p>Sie ﬂrcbithorlage iiw<lb/> £eiicrrcidy in %rauftcid).<lb break="paragraph"/>
+        </p>
+        <p>an: ihm:: :::: 55 uiu::::: zum.<lb/> su:::z:::::: ::v:::: mm:-am<lb/> am:,z am::<lb/> to:: im::aüf :: £nmmu :::—m: :::: :::: ::::<lb/> ?"“ mm:: «.:y::,::m:ü umgekgi._bunb hm<lb/> :: ER: „:::: „mm:—.::: „in, mm:-„::::<lb/> :::: ::::iq:: :::: ::::„oawnn:::::<lb/> ?"““3 :: ::::a:::, .: :: :::: :: ::: 5::::<lb/> i::n::3::x::::: ,me:: ::: „::.:<lb/> &amp;öy'lLiqrn e:::r,: :::: Mrd.! :::;„nyu::<lb/> :<lb break="paragraph"/>
+        </p>
+        <p>ll k:lhltc.<lb break="paragraph"/>
+        </p>
+        <p>D::- a.x::::::x:::::: ::<lb/> man:: ::::n, :::: :::: f: :_<lb/> :::: n:ä :: ::::umn «__<lb/> :::: : : eingehtnﬂ11<lb/> a::n::„: :::L:é::::f<lb break="paragraph"/>
+        </p>
+        <p>@<lb break="paragraph"/>
+        </p>
+        <p>:::»: :::, :::: :::: ::::<lb/> 'L vmntirijulien, Emi; «mann<lb/> :::: :::: ::::m::,:::<lb/> ::::n, ::::.:::<lb/> :„„„;„:„_<lb break="paragraph"/>
+        </p>
+        <p>: min ®:“: im:: :::): ::::::: :::: „ml-:::“ ::<lb/> mm:: :: {mm: :::: :: a::„:::::_„ :: -|s_:::::m::<lb/> ::::m: Hmm, ::: :: :: :::: :::: ::: m:::n::n_ng<lb break="paragraph"/>
+        </p>
+        <p>:: :::: :: 9:1:::::4, ::::::: ﬁ::: :::: ,cm:: :: ::::<lb/> :u:::::: ::::m ::::::: :::: :: :::: :::_:::::m:, ::::<lb break="paragraph"/>
+        </p>
+        <p>:::; Dem g:; _ _ _<lb break="paragraph"/>
+        </p>
+        <p>mm:: ::::::,:: : :::: ®:, :::: :::: y::;::u:q:::::<lb break="paragraph"/>
+        </p>
+        <p>:::: ,n::n:::: ::n:: :::: :: „': auf-,:: m:: ::::<lb break="paragraph"/>
+        </p>
+        <p>p::::::z::m ‘]ﬂﬂlmunn °,liunh, ::» :::-::: :::-::: „am:: _:u :<lb break="paragraph"/>
+        </p>
+        <p>:::: :: es:: uuinai 5:::::::::m: :: w:::::::_::::n :<lb break="paragraph"/>
+        </p>
+        <p>hub m:uimiv:: „(mm.<lb break="paragraph"/>
+        </p>
+        <p>nimm Rita $nlllutﬂ} gmmmi.<lb break="paragraph"/>
+        </p>
+        <p>Rn In: &amp; Ethni<lb break="no"/>u::ä:w :: ::m:m::ﬁm g_::e (.:: :::: ::::<lb/> „:::: a:::«::::: :: M.::m hrid}muen, :::as::m:::::<lb/> :: mm::m:: ::::ﬁ:::igm _<lb/> mi:lini b:: um:: ::::cud,: mm::mm<lb/> mm:: „:::. :::: :::—,<lb/> '.‘J! H n mu. ?. ädmm'.<lb/> a:: man:: :::: ::::15: :: :::: ::<lb/> m:r::: :: Emma «(::: „:::: ::— &lt;A&gt;:;:::,:: man::<lb/> :::: ::::u: :: im:. Sie ::::::::: x:::a: :::: ::::<lb/> h:: ::: m::::n:ﬂ:si::u:::m ::::n:::n: ::<lb/> an:: „:::. __ «<lb break="paragraph"/>
+        </p>
+        <p>ﬂh 8alguunhinhnng Ettlin-Qlicu uam:<lb break="no"/>hmmm.<lb/> Ideamllim unlczei SYvnehu-mbnlwl»<lb/> inle ? %:_ﬁ_u;n. _<lb/> s: : b:s si:'::::f,::zan:in: :“; : ::<lb/> viumémg\e ::::::::9::c:::au:g ::n:<lb/> m:: :::::i:::::::<lb break="paragraph"/>
+        </p>
+        <p>Qßmtrulﬂrrilt iin giergnrlr_eitet<lb/> in her ®;rdw-i'unwukn.<lb break="paragraph"/>
+        </p>
+        <p>‘ ‘Ei: km\mlm \'::::::::u::::h::m ::: am::<lb/> a::::::: ::::L:„:: :::: :: :ug:::::::: m::<lb break="paragraph"/>
+        </p>
+        <p>:::::::zy::::k, :: :: m‘:::::::m:::: :: ::::<lb/> ::::g::: :::a::r:::: ,j :::::::::a::::::::: :::::s<lb break="paragraph"/>
+        </p>
+        <p>5:|,1::1::: :::».<lb break="paragraph"/>
+        </p>
+        <p>mii:lidazr (€thth ®tudjmlntitbg m hie<lb/> am:: (udn-iz.<lb/> n:::::::: :::-m:: Swmlvnnma.<lb/> m::::::, 51 5::::::<lb/> nun: m::„::: :=: :::::':: rd: :<lb/> : : :: : : : _: : : :::: :::::::1::<lb/> im :fu:::m:::n:: ;:<lb/> ::1::::3:::: :::: ::::<lb break="paragraph"/>
+        </p>
+        <p>:::: ::::m ::.:<lb/> :::: ::: ::::::m::<lb/> am :::: am:: :::.::m<lb/> :::: :i:: ::::m um::y:.mz<lb break="paragraph"/>
+        </p>
+        <p>‘ ::::— . ::.::: :::<lb/> :::-„am:: ::9::: , _<lb/> „w.. a‘ :.m:':. .. :::: l::uug::1q:l::gnummm<lb/> ::: :::y:.:::n ::. :::: ::fan::::, :::: :: m::_:::n<lb/> (mm: :::. mx:::::::u:„::::: ;,:::.::::<lb/> m:„::::::::nm: " 1:::«: ::-:::am<lb/> :::: „::/:::: o: :: :: ::» ::::<lb/> ,::::e: ..:«::»::::.::z :: „:::: m:::::. „.::-::.<lb break="paragraph"/>
+        </p>
+        <p>®:: :::::,::: :::::::m:u::::y mm:: :::.<lb/> ::::u: :: :::: b:: :(:m m:: :: ::::<lb/> ::::e:„::g::: :::: :::: :::: :::: ß::::_ !<lb break="no"/>:5::.::, ::: :: :::: mli:m'tamymeum q;_:, :,<lb/> :: „: :::—.: :: ::::1::5::g:: @;:::::::<lb/> nimm: ::::m: , :::: :::—::: :: :::: ,::: :: : 13 z :<lb/> €::mn @:::3::1:: :_ :: m: _n:::::<lb break="paragraph"/>
+        </p>
+        <p>um!“ , .-„32ä—: , ‘ 4<lb break="paragraph"/>
+        </p>
+        <p>:\unn‘tligm xml: im en:: 150 31mm:<lb break="no"/>
+        </p>
+        <p>:::::::y:: oa:—,::::u„:::: ,<lb break="paragraph"/>
+        </p>
+        <p>a=<lb break="paragraph"/>
+        </p>
+        <p>:<lb break="paragraph"/>
+        </p>
+        <p>:<lb break="paragraph"/>
+        </p>
+        <p>:: :::: __, pa.»<lb/> 1%»:<lb break="no"/>
+        </p>
+        <p>, :: ::::<lb break="paragraph"/>
+        </p>
+        <p>ﬁemn‘unu unit ”urlummt iu<lb/> Alent[d,lauh gegen hm Gülca<lb break="no"/>hahuttltctilt.<lb/> Hulk 6alhmg ba %ugialhtmniralzn.<lb break="paragraph"/>
+        </p>
+        <p>!Biem 2. 54mm<lb/> _!ui :::: b::ua,:: ::::l::::: :::: :::: „:::: :::<lb/> $"Ä'Ä :: :::_:„:::ﬁ@m Malmö %:x::::::: :::: ::::<lb/> :: :: « : :_:::::, :: :::: am:: um”: ::::<lb/> Nummern bu : :::“: :::: m:: g:: ::::m: z,:m::::qz,<lb/> :::: :::Lte: w::::: :::: :::; (:::: :: su::::::m:::<lb/> «:::: sm: :::: „»3:::, :::: fu: : :::: mmu:::’zan:m<lb/> :::: :::: ,:f:::x::m::n_ Twlgen isin :::; ::: :: :„,„„;,<lb/> ::::d: :: st:x.1::::_:: „:::: ::: gmßm sum: nun:: ::::<lb/> mm::u: m::x:::: ,: :::: ::: :: ::::n: u:::::m:::, ::<lb/> Dan-. a:: “game 91an« nung alle: man: nﬁhg mm, in:<lb/> mm ::::mb::: :: wz:u:::::: :: { :::: gmmgm man.<lb/> ä:::y:: :: ni: am:: ::: g::::m :::: L::::m::: gc[ungen<lb/> :::: :::: :::: h:: am:: :::: ::: he&lt;ä My:: min<lb/> »: 1::::_:::::am €mik und: [mm: ::::x: :: „::::<lb/> mar: ::::m: :: m:z::::: ::: ß:x:::::::n:m:: ::::::::::u:<lb/> a:_l_:m; aber. Mi mim; nid;t„ hnß mc ‘Emuimmg un<lb/> gab zguug 'Mä $:rﬁeyna lm hen |mtqhqiim ‘ßunﬁlcn cut:<lb/> :::: :::: ::: :::: (:::: m::mm:::: :::u::ud: ::: ::::<lb/> W"'""bz :::: ::::w:::m:::: 9:i::: :: teunriﬁmn ::::m:<lb/> :: y: ::::::::r :n ::, :::, {::: :: :: ae: m:: :::: ::<lb/> »}:r1mgnt :::: :::: ::m::::u::: u'::::i::::::ii1 :: :::<lb/> ;(ßtn_oulhm ::gm:\m :::: 5:::::::::: :::: :::: ::::<lb/> :::: :: :::: — ::::a::: a:: ünaniwwx ::: am::<lb break="paragraph"/>
+        </p>
+        <p>„:::: :: : „:::: ::: e“:::::::::am:: :::: :::: ':,u:f::<lb break="paragraph"/>
+        </p>
+        <p>am:: gegen ::: :: ::::y'm man:: 'nc:üble „::::<lb break="paragraph"/>
+        </p>
+        <p>mm.<lb/> in:: m::':,: ma:x:sm: :: :: :::: ::i::ei “In :::<lb break="paragraph"/>
+        </p>
+        <p>:, :: am in: mzlnm3nlariy‘dx m::a°:fxfx::fm2<lb/> zy_:-:::w:::: ﬂlzin_ql :::—m:: :: . ®:: ws::t:::::: :::: [:::<lb/> :: :: m:: :: ::::me: 3:::::: :::: :::: ::: ::: ::::<lb/> Bern: :::: :: :::: „:::: E7:urm\e :::: 1 :) !]!invmlm:<lb break="paragraph"/>
+        </p>
+        <p>m:: „:::, :::: :: mm:: vermag ,":: L:: „: ::<lb/> «:::: ma :::: sk::::m::: :: :::. ::, : :: ::::<lb break="no"/>::d::: :':: i::u::: m: „:::: e:::::t::::mt :::: :::<lb break="paragraph"/>
+        </p>
+        <p>ä'i'ff‘“ ::::ﬁm :::»: Cm: e::::z::::„:::: ::: m::::::::::<lb/> rcn="rouhm, ::: :: :: :ii:::: sa::::, ::: m::<lb/> ::::y:::g:: ::u:::k, :::: :::: an:: :::: m:3::::::n: ::::<lb/> 50 ::::i::o:: ::::::::::c:: ::::- ::n :::: ::::<lb break="paragraph"/>
+        </p>
+        <p>:: m:: ::: am:: e.: m::dn:n:„:: :<lb/> ::: u::::n:m:: ::::n im::im: ::: °:::n::ufm:<lb/> :::|:::,:: :::m::. :: Eenmlenmibilevm :::: : :<lb break="paragraph"/>
+        </p>
+        <p>„:::—=»: ::n::: mm:: ::::m: 23:::::: :: m::::, :::: ,.<lb/> [::: :::: ,;inlbzmnhmi, :: [::nm, ::: i:::: :::,f:::::„:,<lb/> „:::: @::::n:::::n:_bm:g: ‘![zbciummmu r:: ,::::<lb/> ::: am:: um:: :::: :::: m:um::m mm:: :::: :::: ::<lb/> m:::q:::ga::: :::: :: ::::_:_„:uu:::::: a::::y :: ::::<lb break="paragraph"/>
+        </p>
+        <p>:::-.::: mm:-h:: ::::mimt: ::::m::: :::—:::.<lb/> a:: ::::::„ h:: m:::::::::: t,: ::: sm: . m::<lb/> um:: :: am ::::„m: ::: :: _|: „:|:: [H: i:<lb/> ::::::::n:: :: in, :::: mm:: ::::n: :::: :::: m::::r:::::<lb/> :: w::i:::i: :::: D::::m:„ :: „:::: ©: m::::::: ::::n:<lb/> :::: :::: mm:: ::i::y‘:: :::, :: :: was:: im::<lb/> :::i:,u:r:: {::: :::: :: m:::y::x::n ne: :::an1:::::, ::::<lb/> :::—„:::: :::: ::::,mmm: ::: m::g:: :: :5iu: ;: [mm:<lb/> m:: m: ::::s: :::: um»: ‘ . m:: :::: :::: e:' ::<lb break="paragraph"/>
+        </p>
+        <p>fe:giü3tnn.<lb break="paragraph"/>
+        </p>
+        <p>nug:mr!ua :::: 0riﬂvngn.<lb/> wenmm m ﬂug-Cl Gnllrt.<lb break="paragraph"/>
+        </p>
+        <p>a:: m:::ui::: ::: „am:: am:: v41::s1:1::n::(:::<lb/> :::: :::: ::::n:::m Minis: :: a::::::::,<lb break="paragraph"/>
+        </p>
+        <p>a:: :::: :::s :: mm:: mm:: ::<lb/> „mm:: mm:! :::: :: :. :::: :::: ::::„m: ::<lb/> -n:::::::::„:: h:: „:::: uägnbz b:: ®Emunlu: ::<lb/> :: ::::n wir::n:?::: :::::::na: am:: :::: ::<lb/> ﬁ::: :::: ::::m :::n::: s:n::: :: :: :: Boni: :::<lb/> „g:: „:::: :::: s::m::w:g, :::: :: Du::::l. :::: ::<lb/> ::l:::::::n m:|:::n::, ::::::::::::, „:::: „:::: ::<lb/> M::z::: :::: „:::: :|:. s?:::::::m: mm:: :::: ::: :::<lb/> 3::::w 9::::: :: w: :::::1:::„__:: ::::xg:__ab: M.::<lb/> :: :::: wa::::::. :: :::: :::: :: :::: :: am::<lb/> um:: ::::x::::_ :::u, :::w ::::iqm: :: ::::a:<lb/> n:i:m::::: ::ysqt:a mm:: mm:: :::: :::: :::: az::::g<lb/> im:: B :i:_ mamlhi ::ﬁ:d: ::: :::r m:<lb/> (lm i'x"“1"ﬁ “M Q,„‘ !'5.. ,MW ”!="<lb/> ::::n, m:: ai: ::;m: i:b:::' :::: :: ß::u::::m<lb/> m::,mg :::-::... ax_:: m:: :::: :::-::: n::u::: _:::: ::<lb/> uns: ::,»nqu ,mw: g:: üg::uun::<lb break="paragraph"/>
+        </p>
+        <p>‘ .EMMMB &amp;&amp;<lb break="paragraph"/>
+        </p>
+        <p>:::: im:: bug :: b:: hm :::: b:: :::—m:: czu::l:::::a:<lb break="paragraph"/>
+        </p>
+        <p>::::n: pmuuamnen m:::::' :::l memger :: nmmef!l<lb/> ,5nlhmmgm gtf)t :::: :: :::: an'rwznbt :::: :::: ma<lb/> pun\3\plxllt 5::gc h:: ä::::::::::::_<lb break="paragraph"/>
+        </p>
+        <p>:::: Qunk(n mad: hat in: Eli:kﬁanma\mng null<lb/> '.r::::::::mune ::: m::::: ::: :::r: wu mamma ai:<lb/> w::::he: :: bi: @:::::::::fuuw: „:::: b::::: 50 mit:<lb/> (um:: :::, „:::: hm v:::::b:: :::: ::: gy::: H:: ::::L<lb break="no"/>g::::::n :::. ,m:: z,::: :::: £:rglmdy um un[eml 3:iim:<lb/> :: bzhcz:::uz :::—::, mm hmm :.»: u:::x:;::rh :: ::::m:<lb/> 11:::::::::: ::::ußm, :::: :: ‘$elinmllnuégnflm .: _un(tmu<lb/> m;:n::: „:::-:: ,:::: ;::: ::::n Is::':m :::: MU mm::mm<lb/> um:: :::, c:::um:q :: :::: ::::<lb/> |:i:::: n:::m:::::g,::m u:\, '<lb/> um:, :: :::: :::: man @:b::atann$:ßainn<lb/> :.:u: {::: mn:::::::: w:::e::::::: :::: ::<lb/> :::: ::::w: MI :::: .:gmiicb: mm::a:::, ::::mm<lb/> n::q:,n:: cm:: *:»: a:::::y:::::.»:m:: g::h:: :“<lb/> :::: ::: ' :::: :::: mag:, ::: km:: um: ::::<lb break="no"/>::h::: 61m: :: „:::: \'lhzxivnﬁcn mm {mm: :|:: im<lb/> m::u:::: m:: um:: :::: :::::::: u;::::u:iyg:: ::: :::!<lb/> :::mgzm I:: ::: is:::::: :::: ::.: as:[:m::: ::: u:::«<lb/> :::m::: :: :ü::ni:::: m:m:b: :. im:::::, :::mmm :;<lb/> «M:: ':i: ::::am::::::::: m::::::::: %:g hmmm:<lb/> ﬁ:n::: ::u :::::1:ﬁ:: :::: ::5::: ::: :::: kann: ai:<lb break="no"/>:::::::::::, :::: :::,» :: mm:? M::::: :: :: m:»<lb/> „:::: :::: burd7fv.bﬂmt :r:, ::mn: mc „::::mqau<lb/> J::mtn, :::»: :::: m:uwue: mm:»: m: :::: «:::»:<lb/> ::::::::::: :::: ::::rmidyiren :::,» gmx:::: ::: ElbItémmg<lb/> ße:n b:: ©:wa „’: :u:::::a:. b:: :: ? mus: ::::uu<lb/> :::: m: am:: ::i::::&lt;::::u:: mm:: ::<lb break="paragraph"/>
+        </p>
+        <p>, sam-:::: :::: h:: W x,:n’m: ::::qmar: mg bi:<lb/> m::::umu: :: Emmen: me:::u::; :: :: 1::g:::, h::<lb/> b:: t::::::: :::: :: @:1nmrmm:::; :::: ::: „:::: ::::<lb/> :::: uninbzgr g:::::pouriu :n::::;::: &amp;r::::::::: lm un;<lb/> :: :::: :::: :::i: M1mlmm‘nﬂnge :::: Bm‘nlkmmg<lb/> mm m:: m:: am :::: m::::: :::: ::::m: am::<lb/> am:: :::: Q:f:m:_:: :::; ::.: :::: :::— '3:::m[:::n hi:<lb break="paragraph"/>
+        </p>
+        <p>mu::m:::bi:hm :::: :: w:::::::nmg b:: mim;<lb/> ::: :: am: Die gast: ::::müu: bu Sum: :: ::::<lb/> u:::1 :::::::::n::_:::m:: :::: am:: :: :: ::<lb break="paragraph"/>
+        </p>
+        <p>„:::: @:::::::::::::: ::::::: :.: v::::::::u: s::::::„<lb/> m:: „:::, :::: :: :::: ::::m: :::::x::::: :: m::n<lb/> :: „:::: e::::o :: aa:::::::::::x uu:1;unb:: in mit<lb/> :: im am:: :::: :: ::::e: :: :::: :: mm::<lb/> $::':::::::„ ::::mm: ::: mM :: » ::1:::::: :::: m<lb/> :: sn:::::::_:, :::: :::„: ::::::::: :3:::::::::: ::.<lb/> «E:: ::::u:: :—,‘:, „:::: :: :::: ::n:::x:: :::: ::::<lb/> :::. „:::—„:::: ﬁ::b:::„„ „:::: :::: :: :::: :: ::::n:<lb break="paragraph"/>
+        </p>
+        <p>J: :::: ::::::::, m:: :: :: ::::<lb break="paragraph"/>
+        </p>
+        <p>ua:: mm:: „::::m:<lb/> m::u:::::: :: :zx:::g::u :: ::: :::: :::: ::::<lb/> :::: m:::y:::f: :::: z:::: ,:::: \ : ::: m::x:g::::<lb break="paragraph"/>
+        </p>
+        <p>:<lb/> :::: :.: ::: an::_:,:: :: al:i::::::::::::„ :::: :<lb break="no"/>s:::::: ::::g:: ::::u, :: :::: :::y: :::-1: :: ::: :u::::mh:<lb/> :: ::::u: : ::::gamm, ::: :: imma sm:i:: ::::<lb/> ::::::x:::: a::n:m::: am“hmgm :::, :: :::»: :::;<lb/> mm:: :: x: ::::n: m:: :: \mpmbuﬁtun g:::::: ::::y<lb/> p:::::: mm7m. r::::::, :: :: .::...mmm :: mm:,<lb/> D:; url) mi) iynmihﬁtlv ﬁcmw;c aim Minen müM'<lb/> aber :: ::::.s::: w::(::::g:: :: «; :::: :m::t:::: :: :::i<lb/> :: e:::f::m :::: b:: :::n::::: ﬂ:$:l:t::g :: auf:: ‘s::n<lb/> (:::: ::: :::: :u::.:: mm:: :: :::—:, :: »: „:::: ::<lb/> y::i:xn:::::::.:m: $:z::: :::: ::,— :::: I1«lbm m: : ::<lb/> c:r::::m:: :::: man, im:: :::: :: ::: am: :::.<lb/> !<lb break="paragraph"/>
+        </p>
+        <p>1.3:::@:1:::::„::1m::<lb break="paragraph"/>
+        </p>
+        <p>@:u::r„:: :::: :: ®m:ß:b:vi, x:::b::z::m<lb/> u::::„:, ::::::,m::: m::yau: :::: ::3 mamma: ::<lb/> cs::::::': :: ty::::::::: :::: ::::m: 1::: » mm :: i::::::a:<lb/> ni: km :b:m g:::::: m::,t:w:: 3::::::: : am: unin ::::<lb/> Iicd „E:::m:n::b1dua“ q::':::m:h :::: „um: :::<lb/> u::::: :::: :::::ﬁ::: :::;::: mm:: :::: ::::g: :::: ::<lb/> fe:m:m::i: «mm:. @: Mu_wn :: m::,::::::::: ::: :::.<lb/> ::::::: ::::no: :. mm:: :::::::: Emm, :: :: ::::<lb/> :::: :m::::: :::: w:f:::b::c: %: :: wm<lb/> :, Klemm, um: «um:: ®::::: 3: : :, gung“ :: <lb break="no"/>r:::::::: :::. vi: :: ®:: : ::: «::: um:: :::: ':<lb/> ::::n: :::: :::: :::: „:::: „.\:::gm::", m: ::::<lb/> „:::: ::::t:n:::,:: :::. m:: „:::: „::: m:::::::::=<lb/> :::: „B::bapnif: :: „ß:::: .5::::::::_:" ;<lb break="paragraph"/>
+        </p>
+        <p>„m:: „:::: mm:? :::::::x;: ;: man:: in.-, um: ni<lb/> m::::,:: (:::f :::: :::: :: am: im:, :: {man an<lb/> cm:: :::: :::: :: :: :::—:: :::: :::: :: :::; ::::<lb/> ::: Y(Mnﬂ :::: :::: ::: mm:: M: s::::::n :::: “<lb/> mim trat am:: : mm:: m:: :: an am hi<lb/> mm:: :::M m: Wknlﬁm"<lb break="paragraph"/>
+        </p>
+        <p>,m: m::: '.vimn’ :: im:: e;,:::: mx «in:: :o: im.u<lb break="paragraph"/>
+        </p>
+        <p>':_43. um_x::::z, „mm:, :::. :: :::1_1m: ®ea_<lb/> , . mäßig? £ä le! li<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>

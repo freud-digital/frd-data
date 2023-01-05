@@ -1,248 +1,256 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-   <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title type="work" level="a">Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
-            <title type="manifestation" level="a">Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹] (1921-003/1921)</title>
-            <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
-            <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-            <editor>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </editor>
-            <funder>
-               <name>FWF Der Wissenschaftsfond.</name>
-               <address>
-                  <street>Sensengasse 1</street>
-                  <postCode>1090 Wien</postCode>
-                  <placeName>
-                     <country>Österreich</country>
-                     <settlement>Wien</settlement>
-                  </placeName>
-               </address>
-            </funder>
-         </titleStmt>
-         <editionStmt>
-            <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
-            <respStmt>
-               <resp>Herausgegeben von</resp>
-               <name>Diercks, Christine</name>
-               <name>Rohrwasser, Michael</name>
-            </respStmt>
-            <respStmt>
-               <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
-               <name>Diercks, Christine</name>
-            </respStmt>
-            <respStmt>
-               <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
-               <name>Blatow, Arkadi</name>
-            </respStmt>
-            <respStmt>
-               <resp>Diplomatische Umschrift, Lektorat</resp>
-               <name>Diercks, Christine</name>
-               <name>Huber, Christian</name>
-               <name>Kaufmann, Kira</name>
-               <name>Liepold, Sophie</name>
-            </respStmt>
-            <respStmt>
-               <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
-               <name>Roedelius, Julian</name>
-            </respStmt>
-            <respStmt>
-               <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
-               <name>Andorfer, Peter</name>
-               <name>Stoxreiter, Daniel</name>
-            </respStmt>
-         </editionStmt>
-         <publicationStmt>
-            <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
-            <pubPlace>Wien</pubPlace>
-            <date when="2022">2022</date>
-            <availability>
-               <licence target="https://creativecommons.org/licenses/by/4.0">
-                  <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-                  <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-                  <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-                  <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="work" level="a">Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
+        <title type="manifestation" level="a">Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹] (1921-003/1921)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+        <editor>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </editor>
+        <funder>
+          <name>FWF Der Wissenschaftsfond.</name>
+          <address>
+            <street>Sensengasse 1</street>
+            <postCode>1090 Wien</postCode>
+            <placeName>
+              <country>Österreich</country>
+              <settlement>Wien</settlement>
+            </placeName>
+          </address>
+        </funder>
+      </titleStmt>
+      <editionStmt>
+        <edition>Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</edition>
+        <respStmt>
+          <resp>Herausgegeben von</resp>
+          <name>Diercks, Christine</name>
+          <name>Rohrwasser, Michael</name>
+        </respStmt>
+        <respStmt>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <name>Diercks, Christine</name>
+        </respStmt>
+        <respStmt>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <name>Blatow, Arkadi</name>
+        </respStmt>
+        <respStmt>
+          <resp>Diplomatische Umschrift, Lektorat</resp>
+          <name>Diercks, Christine</name>
+          <name>Huber, Christian</name>
+          <name>Kaufmann, Kira</name>
+          <name>Liepold, Sophie</name>
+        </respStmt>
+        <respStmt>
+          <resp>Technische Umsetzung der Datenbank und der digitalen Instrumente</resp>
+          <name>Roedelius, Julian</name>
+        </respStmt>
+        <respStmt>
+          <resp>Datenexport aus Drupal und TEI Serialisierung</resp>
+          <name>Andorfer, Peter</name>
+          <name>Stoxreiter, Daniel</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Austrian Centre for Digital Humanities and Cultural Heritage</publisher>
+        <pubPlace>Wien</pubPlace>
+        <date when="2022">2022</date>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by/4.0">
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
                      Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
                      gerade Sie oder Ihre Nutzung besonders.</p>
-                  <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
                      die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
-                  <p>Hinweise:</p>
-                  <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
+            <p>Hinweise:</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
                      Schranken des Urheberrechts gedeckt sind.</p>
-                  <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
                      Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
                      die Sie für die jeweilige Nutzung brauchen.
                      Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
-               </licence>
-            </availability>
-         </publicationStmt>
-         <notesStmt>
-            <note type="doc_component">
-               Vollständige Manifestation
-            </note>
-            <note type="man_type">
-               Historische Ausgaben
-            </note>
-         </notesStmt>
-         <sourceDesc>
-            <listBibl>
-               <head>Publikationsgeschichte</head>
-                  <biblStruct xml:id="bibl-1921-003-1922">
-                     <analytic>
-                        <title type="manifestation">Geleitwort [zu: Varendonck, Julien, ›Über das vorbewusste phantasierende Denken‹]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Über das vorbewusste phantasierende Denken</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short"/>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1922-01-01">1922-01-01</date>
-                        </imprint>
-<extent>iii</extent>                        <biblScope unit="series">Internationale Psychoanalytische Bibliothek</biblScope>
-                     </monogr>
-                  </biblStruct>
-                  <biblStruct xml:id="bibl-1921-003-1928">
-                     <analytic>
-                        <title type="manifestation">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                     </analytic>
-                     <monogr>
-                        <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
-                        <title type="publication-sub"/>
-                        <title type="publication-short">GS 11</title>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
-                        </respStmt>
-                        <imprint>
-                           <pubPlace>Zürich</pubPlace>
-                           <date when="1928-01-01">1928-01-01</date>
-                        </imprint>
-<extent>264</extent>                        <biblScope unit="volume">11. Band</biblScope>
-                     </monogr>
-                  </biblStruct>
-               <biblStruct xml:id="bibl-1921-003-1921" type="guidingManifestation">
-                  <analytic>
-                     <title type="manifestation">Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹]</title>
-                     <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                  </analytic>
-                  <monogr>
-                     <title type="publication">The Psychology of Day-Dreams</title>
-                     <title type="publication-sub"/>
-                     <title type="publication-short"/>
-                     <imprint>
-                        <pubPlace>London</pubPlace>
-                        <date when="1921-01-01">1921-01-01</date>
-                     </imprint>
-                     <extent>10 Seiten</extent>
-                  </monogr>
-                  <relatedItem type="digitisedVersion">
-                     <bibl xml:id="bibl__6b85a6c1-ece0-4fd8-95e3-91b932d9a98e">
-                        <title>Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹]</title>
-                        <series>
-                           <title type="main">Sigmund Freud Edition</title>
-                           <editor>Diercks, Christine</editor>
-                           <editor>Rohrwasser, Michael</editor>
-                           <idno type="url">https://www.freud-edition.net</idno>
-                        </series>
-                        <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
-                        <respStmt>
-                           <resp>Herausgegeben von</resp>
-                           <name>Diercks, Christine</name>
-                           <name>Rohrwasser, Michael</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listBibl>
+          <head>Publikationsgeschichte</head>
+          <biblStruct xml:id="bibl-1921-003-1922">
+            <analytic>
+              <title type="manifestation">Geleitwort [zu: Varendonck, Julien, ›Über das vorbewusste phantasierende Denken‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Über das vorbewusste phantasierende Denken</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1922-01-01">1922-01-01</date>
+              </imprint>
+              <extent>iii</extent>
+              <biblScope unit="series">Internationale Psychoanalytische Bibliothek</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1921-003-1928">
+            <analytic>
+              <title type="manifestation">Geleitwort [zu: Varendonck, Julien ›Über das vorbewusste phantasierende Denken‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">Gesammelte Schriften von Sigm. Freud</title>
+              <title type="publication-sub"/>
+              <title type="publication-short">GS 11</title>
+              <respStmt>
+                <resp>Herausgegeben von</resp>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+              </respStmt>
+              <imprint>
+                <pubPlace>Zürich</pubPlace>
+                <date when="1928-01-01">1928-01-01</date>
+              </imprint>
+              <extent>264</extent>
+              <biblScope unit="volume">11. Band</biblScope>
+            </monogr>
+          </biblStruct>
+          <biblStruct xml:id="bibl-1921-003-1921" type="guidingManifestation">
+            <analytic>
+              <title type="manifestation">Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹]</title>
+              <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+            </analytic>
+            <monogr>
+              <title type="publication">The Psychology of Day-Dreams</title>
+              <title type="publication-sub"/>
+              <title type="publication-short"/>
+              <imprint>
+                <pubPlace>London</pubPlace>
+                <date when="1921-01-01">1921-01-01</date>
+              </imprint>
+              <extent>10 Seiten</extent>
+            </monogr>
+            <relatedItem type="digitisedVersion">
+              <bibl xml:id="bibl__6b85a6c1-ece0-4fd8-95e3-91b932d9a98e">
+                <title>Introduction [zu: Varendonck, Julien, ›The Psychology of Day-Dreams‹]</title>
+                <series>
+                  <title type="main">Sigmund Freud Edition</title>
+                  <editor>Diercks, Christine</editor>
+                  <editor>Rohrwasser, Michael</editor>
+                  <idno type="url">https://www.freud-edition.net</idno>
+                </series>
+                <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
+                <respStmt>
+                  <resp>Herausgegeben von</resp>
+                  <name>Diercks, Christine</name>
+                  <name>Rohrwasser, Michael</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
                               Signaturen, Referenzsystem</resp>
-                           <name>Diercks, Christine</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+                  <name>Diercks, Christine</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
                               Faksimile-Ausgabe, Bibliografie</resp>
-                           <name>Blatow, Arkadi</name>
-                        </respStmt>
-                        <respStmt>
-                           <resp>Diplomatische Umschrift, Lektorat</resp>
-                           <name>Huber, Christian</name>
-                           <name>Kaufmann, Kira</name>
-                           <name>Liepold, Sophie</name>
-                        </respStmt>
-                        <date when="2022">2022</date>
-                        <idno type="signature">1921-003/1921</idno>
-                        <idno type="url">https://www.freud-edition.net/werke/introduction-zu-varendonck-julien-psychology-day-dreams/druckversion</idno>
-                        <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b85a6c1-ece0-4fd8-95e3-91b932d9a98e</idno>
-                        <relatedItem type="work">
-                           <bibl xml:id="bibl__c144cac9-3aea-477f-9ef7-ee05df6eee77">
-                              <title>Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
-                              <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/introduction-zu-varendonck-julien-psychology-day-dreams</idno>
-                              <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c144cac9-3aea-477f-9ef7-ee05df6eee77</idno>
-                           </bibl>
-                        </relatedItem>
-                     </bibl>
-                  </relatedItem>
-                  <relatedItem type="exemplar">
-                     <msDesc>
-                        <physDesc>
-                           <objectDesc>
-                              <supportDesc>
-                                 <support>
+                  <name>Blatow, Arkadi</name>
+                </respStmt>
+                <respStmt>
+                  <resp>Diplomatische Umschrift, Lektorat</resp>
+                  <name>Huber, Christian</name>
+                  <name>Kaufmann, Kira</name>
+                  <name>Liepold, Sophie</name>
+                </respStmt>
+                <date when="2022">2022</date>
+                <idno type="signature">1921-003/1921</idno>
+                <idno type="url">https://www.freud-edition.net/werke/introduction-zu-varendonck-julien-psychology-day-dreams/druckversion</idno>
+                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/6b85a6c1-ece0-4fd8-95e3-91b932d9a98e</idno>
+                <relatedItem type="work">
+                  <bibl xml:id="bibl__c144cac9-3aea-477f-9ef7-ee05df6eee77">
+                    <title>Freud, Sigmund  (1921-003; 1921b): Introduction [zu: Varendonck, Julien ›The Psychology of Day-Dreams‹]</title>
+                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/introduction-zu-varendonck-julien-psychology-day-dreams</idno>
+                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/c144cac9-3aea-477f-9ef7-ee05df6eee77</idno>
+                  </bibl>
+                </relatedItem>
+              </bibl>
+            </relatedItem>
+            <relatedItem type="exemplar">
+              <msDesc>
+                <physDesc>
+                  <objectDesc>
+                    <supportDesc>
+                      <support>
 Buch aus <material>Papier</material> in Druckschrift .                                 </support>
-                              </supportDesc>
-                           </objectDesc>
-                           <handDesc>
-                              <p>Druckschrift </p>
-                           </handDesc>
-                           <typeDesc>
-                              <p>Druckversion</p>
-                           </typeDesc>
-                        </physDesc>
-                     </msDesc>
-                  </relatedItem>
-               </biblStruct>
-            </listBibl>
-         </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
-         <tagsDecl>
-            <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
-            <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
-            <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-            <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-            <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
-            <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
-            <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
-         </tagsDecl>
-      </encodingDesc>
-      <profileDesc>
-         <langUsage>
-            <language ident="de">Deutsch</language>
-         </langUsage>
-      </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2022-12-31">
-            Der Status 'proposed' entspricht einer nicht abgeschlossenen Korrektur der OCR Umschrift.
-         </change>
-      </revisionDesc>
-   </teiHeader>
-   <text>
-      <body><div>
-         
-            <pb n="1" xml:id="page__77c02ad9-469c-4142-9515-eadfd447efc5"/>
-            <p>INTRODUCTION<lb break="paragraph"/></p> <p>Il! PHOFESSOR DR, SIGM. FREUD<lb break="paragraph"/></p> <p>ans present volume of Dr, Varendonck’s contains &amp; signiﬁ<lb break="no"/>cant novelty, und will justly mouse the interest of all<lb/> philosophers, psychologists and psycho-analysts. After an<lb/> eﬂort lasting f some years the author has sucoeeded in<lb/> getting hold of the mode of thuught- activity to which one<lb/> abandons onesel during the state of distmction into which<lb/> we readin pass before sleep or upon incomplete nwakening.j‘<lb/> He has brought to the consciousness the chains of thought<lb/> originating in these conditions without the interi'erenoe of the<lb/> will; he has written them down, studied their peculiaritics<lb/> sind differences with directed conscious thinking, and has<lb/> made thereby a. series of important discoveries which lead<lb/> to still vnster problems and give rise to the formulation of<lb/> still more far-renohing questions. Many n point in the<lb/> psychology of the dream and the defective. act ﬁnds, thanks<lb/> to the observations of Dr. Varendonck, n. trustworthy<lb/> settlement.<lb break="paragraph"/></p> <p>It is not my intention to give a review of the nuthor’s<lb/> results. I will content myself with painting to the signiﬁ<lb break="no"/>cance of his work and will permit myself only a remark con<lb break="no"/>cerning the terminology which he has adopted. He include:<lb/> the sort of thought-activity which he has observecl in<lb/> Bleulcr’s nutistic thinking, but calls it, M &amp; rule, fon<lb break="no"/>wneniaus thinking, according to the custom preveilh&amp;_in<lb/> psycho-annlysis. However, the autistic thiziking of Bléuler<lb break="paragraph"/></p> <p>" 4<lb/> .<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="2" xml:id="page__c93ad916-4c8b-4ef7-963e-76841c6da327"/>
-            <p>10 THE PSYCHOLOGY OF DAY-DREAMS<lb break="paragraph"/></p> <p>does not hy any means eorrespond with the extension und<lb/> the contents of the fore—conseious, neither can I ndniit that<lb/> the name used by Bleuler has been happin chosen. The<lb/> designution “fore-conscious ” thinking itself as a characteristie<lb/> nppears to me misleading und unsatisfactory. The point in<lb/> question is that the sort of thought—activity of which the<lb/> Well-known day-dream is an example—complete by itself,<lb/> developing a situation or im net that is being brought to<lb/> &amp; close—constitutes the best and until now the only studied<lb/> example. This day-dreaming does not owe its peculiarities<lb/> to the circumstance that’it proceeds mostly fore-conseiously,<lb/> nor are the forms changed when it is accomplished consciously.<lb/> From another point of View We know also that even strictiy<lb/> directed reﬁection may be achieved without the eo-operation<lb/> of consoiousness, that is to say, fore—eonsciously. For that<lb/> reason I think it is advisable, when establ‘ßhing a distinction<lb/> between the different modes of thought-activity, not to utilize<lb/> the relation to eonseiousness in the ﬁrst instance, and to<lb/> designete the day-dream, as well as the Chains of thought<lb/> studied by Varendonck, as freely wandering or phantastic<lb/> thinking, in opposition to intentionally directed reﬂection.<lb/> At the same time it should be taken into consideration<lb/> that even phantastie thinking is not invariahly in want of<lb/> an aim anal end-representations. '<lb break="paragraph"/></p> <p><lb break="paragraph"/></p>
-         
-         
-            <pb n="3" xml:id="page__6079974c-f876-4a58-9f91-a06665279a28"/>
-            <p><lb break="paragraph"/></p>
-         
-      </div></body>
-   </text>
+                    </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Druckschrift </p>
+                  </handDesc>
+                  <typeDesc>
+                    <p>Druckversion</p>
+                  </typeDesc>
+                </physDesc>
+              </msDesc>
+            </relatedItem>
+          </biblStruct>
+        </listBibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <tagsDecl>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
+        <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
+        <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
+        <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
+      </tagsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="de">Deutsch</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc status="proposed">
+      <change who="#dstoxreiter" when="2022-12-19">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="1" xml:id="page__77c02ad9-469c-4142-9515-eadfd447efc5"/>
+        <p>INTRODUCTION<lb break="paragraph"/>
+        </p>
+        <p>Il! PHOFESSOR DR, SIGM. FREUD<lb break="paragraph"/>
+        </p>
+        <p>ans present volume of Dr, Varendonck’s contains &amp; signiﬁ<lb break="no"/>cant novelty, und will justly mouse the interest of all<lb/> philosophers, psychologists and psycho-analysts. After an<lb/> eﬂort lasting f some years the author has sucoeeded in<lb/> getting hold of the mode of thuught- activity to which one<lb/> abandons onesel during the state of distmction into which<lb/> we readin pass before sleep or upon incomplete nwakening.j‘<lb/> He has brought to the consciousness the chains of thought<lb/> originating in these conditions without the interi'erenoe of the<lb/> will; he has written them down, studied their peculiaritics<lb/> sind differences with directed conscious thinking, and has<lb/> made thereby a. series of important discoveries which lead<lb/> to still vnster problems and give rise to the formulation of<lb/> still more far-renohing questions. Many n point in the<lb/> psychology of the dream and the defective. act ﬁnds, thanks<lb/> to the observations of Dr. Varendonck, n. trustworthy<lb/> settlement.<lb break="paragraph"/>
+        </p>
+        <p>It is not my intention to give a review of the nuthor’s<lb/> results. I will content myself with painting to the signiﬁ<lb break="no"/>cance of his work and will permit myself only a remark con<lb break="no"/>cerning the terminology which he has adopted. He include:<lb/> the sort of thought-activity which he has observecl in<lb/> Bleulcr’s nutistic thinking, but calls it, M &amp; rule, fon<lb break="no"/>wneniaus thinking, according to the custom preveilh&amp;_in<lb/> psycho-annlysis. However, the autistic thiziking of Bléuler<lb break="paragraph"/>
+        </p>
+        <p>" 4<lb/> .<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="2" xml:id="page__c93ad916-4c8b-4ef7-963e-76841c6da327"/>
+        <p>10 THE PSYCHOLOGY OF DAY-DREAMS<lb break="paragraph"/>
+        </p>
+        <p>does not hy any means eorrespond with the extension und<lb/> the contents of the fore—conseious, neither can I ndniit that<lb/> the name used by Bleuler has been happin chosen. The<lb/> designution “fore-conscious ” thinking itself as a characteristie<lb/> nppears to me misleading und unsatisfactory. The point in<lb/> question is that the sort of thought—activity of which the<lb/> Well-known day-dream is an example—complete by itself,<lb/> developing a situation or im net that is being brought to<lb/> &amp; close—constitutes the best and until now the only studied<lb/> example. This day-dreaming does not owe its peculiarities<lb/> to the circumstance that’it proceeds mostly fore-conseiously,<lb/> nor are the forms changed when it is accomplished consciously.<lb/> From another point of View We know also that even strictiy<lb/> directed reﬁection may be achieved without the eo-operation<lb/> of consoiousness, that is to say, fore—eonsciously. For that<lb/> reason I think it is advisable, when establ‘ßhing a distinction<lb/> between the different modes of thought-activity, not to utilize<lb/> the relation to eonseiousness in the ﬁrst instance, and to<lb/> designete the day-dream, as well as the Chains of thought<lb/> studied by Varendonck, as freely wandering or phantastic<lb/> thinking, in opposition to intentionally directed reﬂection.<lb/> At the same time it should be taken into consideration<lb/> that even phantastie thinking is not invariahly in want of<lb/> an aim anal end-representations. '<lb break="paragraph"/>
+        </p>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+        <pb n="3" xml:id="page__6079974c-f876-4a58-9f91-a06665279a28"/>
+        <p>
+          <lb break="paragraph"/>
+        </p>
+      </div>
+    </body>
+  </text>
 </TEI>
