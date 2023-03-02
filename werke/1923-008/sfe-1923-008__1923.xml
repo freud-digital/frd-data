@@ -2,9 +2,13 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1923-008; 1923g): Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
-        <title type="manifestation" level="a">Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹] (1923-008/1923)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <title type="work" level="a">Freud, Sigmund (1923-008; 1923g): Vorwort [zu: Eitingon, Max
+          ›Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni
+          1922)‹]</title>
+        <title type="manifestation" level="a">Vorwort [zu: Eitingon, Max ›Bericht über die Berliner
+          psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹] (1923-008/1923)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
+          Gesamtausgabe</title>
         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
         <editor>
           <name>Diercks, Christine</name>
@@ -30,11 +34,13 @@
           <name>Rohrwasser, Michael</name>
         </respStmt>
         <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+            Signaturen, Referenzsystem</resp>
           <name>Diercks, Christine</name>
         </respStmt>
         <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+            Faksimile-Ausgabe, Bibliografie</resp>
           <name>Blatow, Arkadi</name>
         </respStmt>
         <respStmt>
@@ -60,21 +66,29 @@
         <date when="2022">2022</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und
+              weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+              beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+              Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+              zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+              dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass
+              der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+              besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+              technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+              Lizenz erlaubt.</p>
             <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+              Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen
+              und Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+              verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige
+              Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits-
+              undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+              beschränken.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -89,7 +103,8 @@
           <head>Publikationsgeschichte</head>
           <biblStruct xml:id="bibl-1923-008-1928">
             <analytic>
-              <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
+              <title type="manifestation"> [Vorwort zu: Eitingon, Max (1923) ›Bericht über die
+                Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹]</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -98,7 +113,8 @@
               <title type="publication-short">GS 11</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                  A.J.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -110,11 +126,13 @@
           </biblStruct>
           <biblStruct xml:id="bibl-1923-008-1923" type="guidingManifestation">
             <analytic>
-              <title type="manifestation">Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹]</title>
+              <title type="manifestation">Vorwort [zu: Eitingon, Max ›Bericht über die Berliner
+                psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹]</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)</title>
+              <title type="publication">Bericht über die Berliner psychoanalytische Poliklinik (März
+                1920 bis Juni 1922)</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
               <imprint>
@@ -125,7 +143,8 @@
             </monogr>
             <relatedItem type="digitisedVersion">
               <bibl xml:id="bibl__aa07c5da-d0bb-4d40-af0e-4976e2a4aa8f">
-                <title>Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni 1922)‹]</title>
+                <title>Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische
+                  Poliklinik (März 1920 bis Juni 1922)‹]</title>
                 <series>
                   <title type="main">Sigmund Freud Edition</title>
                   <editor>Diercks, Christine</editor>
@@ -140,12 +159,12 @@
                 </respStmt>
                 <respStmt>
                   <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
-                              Signaturen, Referenzsystem</resp>
+                    Signaturen, Referenzsystem</resp>
                   <name>Diercks, Christine</name>
                 </respStmt>
                 <respStmt>
                   <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
-                              Faksimile-Ausgabe, Bibliografie</resp>
+                    Faksimile-Ausgabe, Bibliografie</resp>
                   <name>Blatow, Arkadi</name>
                 </respStmt>
                 <respStmt>
@@ -156,13 +175,19 @@
                 </respStmt>
                 <date when="2022">2022</date>
                 <idno type="signature">1923-008/1923</idno>
-                <idno type="url">https://www.freud-edition.net/werke/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik-marz-1920-0</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/aa07c5da-d0bb-4d40-af0e-4976e2a4aa8f</idno>
+                <idno type="url"
+                  >https://www.freud-edition.net/werke/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik-marz-1920-0</idno>
+                <idno type="api"
+                  >https://www.freud-edition.net/jsonapi/node/manifestation/aa07c5da-d0bb-4d40-af0e-4976e2a4aa8f</idno>
                 <relatedItem type="work">
                   <bibl xml:id="bibl__2a3944b4-3ff5-472f-8da9-9951f8b57301">
-                    <title>Freud, Sigmund  (1923-008; 1923g): Vorwort [zu: Eitingon, Max ›Bericht über die Berliner psychoanalytische Poliklinik (März  1920 bis Juni 1922)‹]</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/2a3944b4-3ff5-472f-8da9-9951f8b57301</idno>
+                    <title>Freud, Sigmund (1923-008; 1923g): Vorwort [zu: Eitingon, Max ›Bericht
+                      über die Berliner psychoanalytische Poliklinik (März 1920 bis Juni
+                      1922)‹]</title>
+                    <idno type="url"
+                      >https://www.freud-edition.net/werke/freud-sigmund/vorwort-zu-eitingon-max-bericht-uber-die-berliner-psychoanalytische-poliklinik</idno>
+                    <idno type="api"
+                      >https://www.freud-edition.net/jsonapi/node/werk/2a3944b4-3ff5-472f-8da9-9951f8b57301</idno>
                   </bibl>
                 </relatedItem>
               </bibl>
@@ -171,13 +196,13 @@
               <msDesc>
                 <msIdentifier>
                   <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api"
+                    >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
                     <supportDesc>
-                      <support>
-Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                      <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                     </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -195,11 +220,14 @@ Buch aus <material>Papier</material> in Druckschrift .                          
     </fileDesc>
     <encodingDesc>
       <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi"
+          >font-variant:small-caps;letter-spacing:8px;</rendition>
         <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
         <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
         <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
         <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
         <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
@@ -211,15 +239,35 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="complete">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'complete' entspricht einer
+        abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <body>
       <div>
         <pb n="3" xml:id="page__ae702e1f-5f17-4d09-a2ab-894179243639"/>
-        <p>Mein Freund Max <hi rendition="#smallcaps">Eitingon</hi>, der die <hi rendition="#smallcaps">Berliner Psycho<lb break="no"/>analytische Poliklinik</hi> geschaffen und bisher aus eigenen<lb/> Mitteln erhalten hat, berichtet auf den nachstehenden Blättern der<lb/> Öffentlichkeit über die Motive seiner Gründung, wie über Ein<lb break="no"/>richtung und Leistung des Instituts. Ich kann zu dieser Schrift<lb/> nur den Wunsch beitragen, daß sich bald auch an anderen Orten<lb/> Männer oder Vereinigungen finden mögen, welche, dem Beispiele<lb/>
-          <hi rendition="#smallcaps">Eitingons</hi> folgend, ähnliche Anstalten ins Leben rufen. Wenn die<lb/> Psychoanalyse neben ihrer wissenschaftlichen Bedeutung einen Wert<lb/> als therapeutische Methode besitzt, wenn sie imstande ist, leidenden<lb/> Menschen im Kampf um die Erfüllung der kulturellen Forderungen<lb/> beizustehen, so soll diese Hilfeleistung auch der großen Menge<lb/> jener zuteil werden, die zu arm sind, um den Analytiker für<lb/> seine mühevolle Arbeit selbst zu entlohnen. Zumal in unseren<lb/> Zeiten erscheint dies als soziale Notwendigkeit, da die der Neurose<lb/> besonders ausgesetzten intellektuellen Volksschichten unaufhaltsam<lb/> in die Verarmung herabsinken. Solche Institute wie die Berliner<lb/> Poliklinik sind auch allein imstande, die Schwierigkeiten zu über<lb break="no"/>winden, welche sich sonst einem gründlichen Unterricht in der<lb/> Psychoanalyse entgegenstellen. Sie machen die Ausbildung einer<lb/> größeren Anzahl von geschulten Analytikern möglich, in deren<lb/> Wirksamkeit man den einzig möglichen Schutz gegen die Schä<lb break="no"/>digung der Kranken durch Unkundige und Unberufene, seien es<lb/> nun Laien oder Ärzte, erblicken muß.<lb break="paragraph"/>
+        <p>Mein Freund Max <hi rendition="#smallcaps">Eitingon</hi>, der die <hi
+            rendition="#smallcaps">Berliner Psycho<lb break="no"/>analytische Poliklinik</hi>
+          geschaffen und bisher aus eigenen<lb/> Mitteln erhalten hat, berichtet auf den
+          nachstehenden Blättern der<lb/> Öffentlichkeit über die Motive seiner Gründung, wie über
+            Ein<lb break="no"/>richtung und Leistung des Instituts. Ich kann zu dieser Schrift<lb/>
+          nur den Wunsch beitragen, daß sich bald auch an anderen Orten<lb/> Männer oder
+          Vereinigungen finden mögen, welche, dem Beispiele<lb/>
+          <hi rendition="#smallcaps">Eitingons</hi> folgend, ähnliche Anstalten ins Leben rufen.
+          Wenn die<lb/> Psychoanalyse neben ihrer wissenschaftlichen Bedeutung einen Wert<lb/> als
+          therapeutische Methode besitzt, wenn sie imstande ist, leidenden<lb/> Menschen im Kampf um
+          die Erfüllung der kulturellen Forderungen<lb/> beizustehen, so soll diese Hilfeleistung
+          auch der großen Menge<lb/> jener zuteil werden, die zu arm sind, um den Analytiker
+          für<lb/> seine mühevolle Arbeit selbst zu entlohnen. Zumal in unseren<lb/> Zeiten
+          erscheint dies als soziale Notwendigkeit, da die der Neurose<lb/> besonders ausgesetzten
+          intellektuellen Volksschichten unaufhaltsam<lb/> in die Verarmung herabsinken. Solche
+          Institute wie die Berliner<lb/> Poliklinik sind auch allein imstande, die Schwierigkeiten
+          zu über<lb break="no"/>winden, welche sich sonst einem gründlichen Unterricht in der<lb/>
+          Psychoanalyse entgegenstellen. Sie machen die Ausbildung einer<lb/> größeren Anzahl von
+          geschulten Analytikern möglich, in deren<lb/> Wirksamkeit man den einzig möglichen Schutz
+          gegen die Schä<lb break="no"/>digung der Kranken durch Unkundige und Unberufene, seien
+          es<lb/> nun Laien oder Ärzte, erblicken muß.<lb break="paragraph"/>
         </p>
         <p>
           <hi rendition="#smallcaps">Wien</hi>, März 1923<lb break="paragraph"/>

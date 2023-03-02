@@ -2,9 +2,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1923-002; 1923a [1922]): Psychoanalyse</title>
+        <title type="work" level="a">Freud, Sigmund (1923-002; 1923a [1922]): Psychoanalyse</title>
         <title type="manifestation" level="a">Psychoanalyse (1923-002/1928)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
+          Gesamtausgabe</title>
         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
         <editor>
           <name>Diercks, Christine</name>
@@ -30,11 +31,13 @@
           <name>Rohrwasser, Michael</name>
         </respStmt>
         <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+            Signaturen, Referenzsystem</resp>
           <name>Diercks, Christine</name>
         </respStmt>
         <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+            Faksimile-Ausgabe, Bibliografie</resp>
           <name>Blatow, Arkadi</name>
         </respStmt>
         <respStmt>
@@ -60,21 +63,29 @@
         <date when="2022">2022</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und
+              weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+              beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+              Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+              zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+              dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass
+              der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+              besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+              technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+              Lizenz erlaubt.</p>
             <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+              Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen
+              und Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+              verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige
+              Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits-
+              undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+              beschränken.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -94,11 +105,13 @@
             </analytic>
             <monogr>
               <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-              <title type="publication-sub">Enzyklopädie der natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+              <title type="publication-sub">Enzyklopädie der natur- und kulturwissenschaftlichen
+                Sexualkunde des Menschen</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse,
+                  Max</name>
               </respStmt>
               <imprint>
                 <pubPlace>Bonn</pubPlace>
@@ -115,11 +128,13 @@
             </analytic>
             <monogr>
               <title type="publication">Handwörterbuch der Sexualwissenschaft</title>
-              <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen Sexualkunde des Menschen</title>
+              <title type="publication-sub">Enzyklopädie der Natur- und kulturwissenschaftlichen
+                Sexualkunde des Menschen</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse, Max</name>
+                <name type="person" ref="#p__095152e1-c5db-4b4b-ad33-d26283f61c52">Marcuse,
+                  Max</name>
               </respStmt>
               <imprint>
                 <pubPlace>Bonn</pubPlace>
@@ -139,7 +154,8 @@
               <title type="publication-short">GS 11</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                  A.J.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -165,12 +181,12 @@
                 </respStmt>
                 <respStmt>
                   <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
-                              Signaturen, Referenzsystem</resp>
+                    Signaturen, Referenzsystem</resp>
                   <name>Diercks, Christine</name>
                 </respStmt>
                 <respStmt>
                   <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
-                              Faksimile-Ausgabe, Bibliografie</resp>
+                    Faksimile-Ausgabe, Bibliografie</resp>
                   <name>Blatow, Arkadi</name>
                 </respStmt>
                 <respStmt>
@@ -181,13 +197,17 @@
                 </respStmt>
                 <date when="2022">2022</date>
                 <idno type="signature">1923-002/1928</idno>
-                <idno type="url">https://www.freud-edition.net/werke/psychoanalyse/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9d53f3f7-8c60-4426-9c30-d4906fc90611</idno>
+                <idno type="url"
+                  >https://www.freud-edition.net/werke/psychoanalyse/druckversion</idno>
+                <idno type="api"
+                  >https://www.freud-edition.net/jsonapi/node/manifestation/9d53f3f7-8c60-4426-9c30-d4906fc90611</idno>
                 <relatedItem type="work">
                   <bibl xml:id="bibl__17c2e35c-4ef5-4db6-9bcf-05ca0af5d2bf">
-                    <title>Freud, Sigmund  (1923-002; 1923a [1922]): Psychoanalyse</title>
-                    <idno type="url">https://www.freud-edition.net/werke/freud-sigmund/psychoanalyse</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/17c2e35c-4ef5-4db6-9bcf-05ca0af5d2bf</idno>
+                    <title>Freud, Sigmund (1923-002; 1923a [1922]): Psychoanalyse</title>
+                    <idno type="url"
+                      >https://www.freud-edition.net/werke/freud-sigmund/psychoanalyse</idno>
+                    <idno type="api"
+                      >https://www.freud-edition.net/jsonapi/node/werk/17c2e35c-4ef5-4db6-9bcf-05ca0af5d2bf</idno>
                   </bibl>
                 </relatedItem>
               </bibl>
@@ -197,13 +217,13 @@
                 <msIdentifier>
                   <repository>IPU</repository>
                   <idno type="IPU">Freud_1928_Gesammelte_Schriften_XI_Vermischte_Schriften_k</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api"
+                    >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
                     <supportDesc>
-                      <support>
-Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                      <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                     </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -221,11 +241,14 @@ Buch aus <material>Papier</material> in Druckschrift .                          
     </fileDesc>
     <encodingDesc>
       <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi"
+          >font-variant:small-caps;letter-spacing:8px;</rendition>
         <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
         <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
         <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
         <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
         <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
@@ -237,7 +260,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="progress">
-      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-13">Der Status 'progress' entspricht einer noch nicht
+        abgeschlossenen Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -247,138 +271,736 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <fw type="pageNum">[201]</fw>
         <p rendition="#level_2">»PSYCHOANALYSE« UND »LIBIDOTHEORIE«</p>
         <p>
-          <hi rendition="#em">Diese beiden Artikel sind im Sommer 1922<lb/> für das „Handwörterbuch für Sexualwissen<lb break="no"/>schaft“ geschrieben worden, das — heraus<lb break="no"/>gegeben von Max Marcuse in Marcus&amp;Weber’s<lb/> Verlag in Bonn — 1923 erschien.</hi>
+          <hi rendition="#em">Diese beiden Artikel sind im Sommer 1922<lb/> für das „Handwörterbuch
+            für Sexualwissen<lb break="no"/>schaft“ geschrieben worden, das — heraus<lb break="no"
+            />gegeben von Max Marcuse in Marcus&amp;Weber’s<lb/> Verlag in Bonn — 1923
+            erschien.</hi>
           <lb break="paragraph"/>
         </p>
         <p rendition="#level_3">I<lb/>
           <hi rendition="#em">Psychoanalyse</hi>
         </p>
-        <p>PSYCHOANALYSE ist der Name 1) eines Verfahrens zur Untersuchung<lb/> seelischer Vorgänge, welche sonst kaum zugänglich sind; 2) einer Behand<lb break="no"/>lungsmethode neurotischer Störungen, die sich auf diese Untersuchung<lb/> gründet; 3) einer Reihe von psychologischen, auf solchem Wege gewon<lb break="no"/>nenen Einsichten, die allmählich zu einer neuen wissenschaftlichen Diszi<lb break="no"/>plin zusammenwachsen.<lb break="paragraph"/>
+        <p>PSYCHOANALYSE ist der Name 1) eines Verfahrens zur Untersuchung<lb/> seelischer Vorgänge,
+          welche sonst kaum zugänglich sind; 2) einer Behand<lb break="no"/>lungsmethode
+          neurotischer Störungen, die sich auf diese Untersuchung<lb/> gründet; 3) einer Reihe von
+          psychologischen, auf solchem Wege gewon<lb break="no"/>nenen Einsichten, die allmählich zu
+          einer neuen wissenschaftlichen Diszi<lb break="no"/>plin zusammenwachsen.<lb
+            break="paragraph"/>
         </p>
-        <p>GESCHICHTE. Man versteht die Psychoanalyse immer noch am<lb/> besten, wenn man ihre Entstehung und Entwicklung verfolgt. In den<lb/> Jahren 1880 und 1881 beschäftigte sich Dr. Josef Breuer in Wien, bekannt<lb/> als Internist und Experimentalphysiologe, mit der Behandlung eines wäh<lb break="no"/>rend der Pflege ihres kranken Vaters an schwerer Hysterie erkrankten<lb/> Mädchens, deren Zustandsbild aus motorischen Lähmungen, Hemmungen<lb/> und Bewußtseinsstörungen zusammengesetzt war. Einem Wink der sehr<lb/> intelligenten Patientin folgend, versetzte er sie in Hypnose und erreichte<lb/> so, daß sie durch Mitteilung der sie beherrschenden Stimmungen und Ge<lb break="no"/>danken jedesmal wieder in normale seelische Verfassung geriet. Durch<lb/> konsequente Wiederholung desselben mühseligen Verfahrens gelang es ihm,<lb/> sie von allen ihren Hemmungen und Lähmungen zu befreien, so daß<lb/> er am Ende seine Mühe durch einen großen therapeutischen Erfolg wie<lb break="paragraph"/>
+        <p>GESCHICHTE. Man versteht die Psychoanalyse immer noch am<lb/> besten, wenn man ihre
+          Entstehung und Entwicklung verfolgt. In den<lb/> Jahren 1880 und 1881 beschäftigte sich
+          Dr. Josef Breuer in Wien, bekannt<lb/> als Internist und Experimentalphysiologe, mit der
+          Behandlung eines wäh<lb break="no"/>rend der Pflege ihres kranken Vaters an schwerer
+          Hysterie erkrankten<lb/> Mädchens, deren Zustandsbild aus motorischen Lähmungen,
+          Hemmungen<lb/> und Bewußtseinsstörungen zusammengesetzt war. Einem Wink der sehr<lb/>
+          intelligenten Patientin folgend, versetzte er sie in Hypnose und erreichte<lb/> so, daß
+          sie durch Mitteilung der sie beherrschenden Stimmungen und Ge<lb break="no"/>danken
+          jedesmal wieder in normale seelische Verfassung geriet. Durch<lb/> konsequente
+          Wiederholung desselben mühseligen Verfahrens gelang es ihm,<lb/> sie von allen ihren
+          Hemmungen und Lähmungen zu befreien, so daß<lb/> er am Ende seine Mühe durch einen großen
+          therapeutischen Erfolg wie<lb break="paragraph"/>
           <pb n="2" xml:id="page__43498710-8977-46d8-bec3-9b302c137a6c"/>
-          <fw type="pageNum">202</fw>durch unerwartete Einsichten in das Wesen der rätselhaften Neurose be<lb break="no"/>lohnt fand. Doch hielt sich Breuer von der weiteren Verfolgung seines<lb/> Fundes ferne und veröffentlichte nichts darüber etwa ein Jahrzehnt lang,<lb/> bis es dem persönlichen Einfluß des Referenten (<hi rendition="#smallcaps">Freud</hi>, der 1886 aus<lb/> der Schule Charcots nach Wien zurückgekehrt war) gelang, ihn zur Wieder<lb break="no"/>aufnahme des Gegenstandes und zur gemeinsamen Arbeit an demselben<lb/> zu bewegen. Die beiden, Breuer und Freud, veröffentlichten dann 1893<lb/> eine vorläufige Mitteilung „Über den psychischen Mechanismus hysteri<lb break="no"/>scher Phänomene“ und 1895 ein Buch „Studien über Hysterie“ (1922<lb/> in vierter Auflage abgedruckt), in dem sie ihr Heilverfahren als das<lb/> „<hi rendition="#smallcaps">kathartische</hi>“ bezeichneten.<lb break="paragraph"/>
+          <fw type="pageNum">202</fw>durch unerwartete Einsichten in das Wesen der rätselhaften
+          Neurose be<lb break="no"/>lohnt fand. Doch hielt sich Breuer von der weiteren Verfolgung
+          seines<lb/> Fundes ferne und veröffentlichte nichts darüber etwa ein Jahrzehnt lang,<lb/>
+          bis es dem persönlichen Einfluß des Referenten (<hi rendition="#smallcaps">Freud</hi>, der
+          1886 aus<lb/> der Schule Charcots nach Wien zurückgekehrt war) gelang, ihn zur Wieder<lb
+            break="no"/>aufnahme des Gegenstandes und zur gemeinsamen Arbeit an demselben<lb/> zu
+          bewegen. Die beiden, Breuer und Freud, veröffentlichten dann 1893<lb/> eine vorläufige
+          Mitteilung „Über den psychischen Mechanismus hysteri<lb break="no"/>scher Phänomene“ und
+          1895 ein Buch „Studien über Hysterie“ (1922<lb/> in vierter Auflage abgedruckt), in dem
+          sie ihr Heilverfahren als das<lb/> „<hi rendition="#smallcaps">kathartische</hi>“
+            bezeichneten.<lb break="paragraph"/>
         </p>
-        <p>DIE KATHARSIS. Aus den Untersuchungen, die den Studien von<lb/> Breuer und Freud zugrunde lagen, ergaben sich vor allem zwei Resultate,<lb/> die auch durch die spätere Erfahrung nicht erschüttert wurden, erstens:<lb/> daß die hysterischen Symptome Sinn und Bedeutung haben, indem sie Er<lb break="no"/>satz sind für normale seelische Akte; und zweitens: daß die Aufdeckung<lb/> dieses unbekannten Sinnes mit der Aufhebung der Symptome zusammen<lb break="no"/>fällt, daß also hiebei wissenschaftliche Forschung und therapeutische Be<lb break="no"/>mühung sich decken. Die Beobachtungen waren an einer Reihe von Kran<lb break="no"/>ken gemacht, die so behandelt wurden wie Breuers erste Patientin, also<lb/> in tiefe Hypnose versetzt, und die Erfolge schienen glänzend, bis sich<lb/> später deren schwache Seite herausstellte. Die theoretischen Vorstellungen,<lb/> welche Breuer und Freud sich damals machten, waren von Charcots Lehren<lb/> über die traumatische Hysterie beeinflußt und konnten sich an die Er<lb break="no"/>mittlungen seines Schülers P. Janet anlehnen, die zwar früher veröffentlicht<lb/> worden waren als die „Studien“, aber doch zeitlich hinter Breuers erstem<lb/> Fall zurückstanden. Von allem Anfang an war in ihnen das <hi rendition="#smallcaps">affektive</hi>
-          <lb/> Moment in den Vordergrund gerückt; die hysterischen Symptome sollten<lb/> dadurch entstehen, daß ein mit starkem Affekt beladener seelischer Vorgang<lb/> irgendwie verhindert wurde, sich auf dem normalen bis zum Bewußtsein<lb/> und zur Motilität führenden Wege abzugleichen (<hi rendition="#smallcaps">abreagieren</hi>), worauf<lb/> dann der gewissermaßen „<hi rendition="#smallcaps">eingeklemmte</hi>“ Affekt auf falsche Wege geriet<lb/> und einen Abfluß in die Körperinnervation fand (<hi rendition="#smallcaps">Konversion</hi>). Die Gelegen<lb break="no"/>heiten, bei denen solche pathogene „Vorstellungen“ entstanden, wurden<lb/> von Breuer und Freud als „<hi rendition="#smallcaps">psychische Traumen</hi>“ bezeichnet, und da<lb/> sie oftmals längst vergangenen Zeiten angehörten, konnten die Autoren<lb/> sagen, die Hysterischen litten großenteils an (unerledigten) Reminiszenzen.<lb break="paragraph"/>
+        <p>DIE KATHARSIS. Aus den Untersuchungen, die den Studien von<lb/> Breuer und Freud zugrunde
+          lagen, ergaben sich vor allem zwei Resultate,<lb/> die auch durch die spätere Erfahrung
+          nicht erschüttert wurden, erstens:<lb/> daß die hysterischen Symptome Sinn und Bedeutung
+          haben, indem sie Er<lb break="no"/>satz sind für normale seelische Akte; und zweitens: daß
+          die Aufdeckung<lb/> dieses unbekannten Sinnes mit der Aufhebung der Symptome zusammen<lb
+            break="no"/>fällt, daß also hiebei wissenschaftliche Forschung und therapeutische Be<lb
+            break="no"/>mühung sich decken. Die Beobachtungen waren an einer Reihe von Kran<lb
+            break="no"/>ken gemacht, die so behandelt wurden wie Breuers erste Patientin, also<lb/>
+          in tiefe Hypnose versetzt, und die Erfolge schienen glänzend, bis sich<lb/> später deren
+          schwache Seite herausstellte. Die theoretischen Vorstellungen,<lb/> welche Breuer und
+          Freud sich damals machten, waren von Charcots Lehren<lb/> über die traumatische Hysterie
+          beeinflußt und konnten sich an die Er<lb break="no"/>mittlungen seines Schülers P. Janet
+          anlehnen, die zwar früher veröffentlicht<lb/> worden waren als die „Studien“, aber doch
+          zeitlich hinter Breuers erstem<lb/> Fall zurückstanden. Von allem Anfang an war in ihnen
+          das <hi rendition="#smallcaps">affektive</hi>
+          <lb/> Moment in den Vordergrund gerückt; die hysterischen Symptome sollten<lb/> dadurch
+          entstehen, daß ein mit starkem Affekt beladener seelischer Vorgang<lb/> irgendwie
+          verhindert wurde, sich auf dem normalen bis zum Bewußtsein<lb/> und zur Motilität
+          führenden Wege abzugleichen (<hi rendition="#smallcaps">abreagieren</hi>), worauf<lb/>
+          dann der gewissermaßen „<hi rendition="#smallcaps">eingeklemmte</hi>“ Affekt auf falsche
+          Wege geriet<lb/> und einen Abfluß in die Körperinnervation fand (<hi
+            rendition="#smallcaps">Konversion</hi>). Die Gelegen<lb break="no"/>heiten, bei denen
+          solche pathogene „Vorstellungen“ entstanden, wurden<lb/> von Breuer und Freud als „<hi
+            rendition="#smallcaps">psychische Traumen</hi>“ bezeichnet, und da<lb/> sie oftmals
+          längst vergangenen Zeiten angehörten, konnten die Autoren<lb/> sagen, die Hysterischen
+          litten großenteils an (unerledigten) Reminiszenzen.<lb break="paragraph"/>
         </p>
         <pb n="3" xml:id="page__1f004ef9-d93b-40bf-9ac7-eef6f367cc01"/>
         <fw type="pageNum">203</fw>
-        <p>Die „<hi rendition="#smallcaps">Katharsis</hi>“ erfolgte dann unter der Behandlung durch Eröffnung<lb/> des Weges zum Bewußtsein und normale Entladung des Affekts. Die An<lb break="no"/>nahme <hi rendition="#smallcaps">unbewußter</hi> seelischer Vorgänge war, wie man sieht, ein un<lb break="no"/>erläßliches Stück dieser Theorie. Auch Janet hatte mit unbewußten Akten<lb/> im Seelenleben gearbeitet, aber wie er in späteren Polemiken gegen die<lb/> Psychoanalyse betonte, war dies für ihn nur ein Hilfsausdruck, <hi rendition="#em">une manière<lb/> de parler</hi>, mit dem er keine neue Einsicht andeuten wollte.<lb break="paragraph"/>
+        <p>Die „<hi rendition="#smallcaps">Katharsis</hi>“ erfolgte dann unter der Behandlung durch
+          Eröffnung<lb/> des Weges zum Bewußtsein und normale Entladung des Affekts. Die An<lb
+            break="no"/>nahme <hi rendition="#smallcaps">unbewußter</hi> seelischer Vorgänge war,
+          wie man sieht, ein un<lb break="no"/>erläßliches Stück dieser Theorie. Auch Janet hatte
+          mit unbewußten Akten<lb/> im Seelenleben gearbeitet, aber wie er in späteren Polemiken
+          gegen die<lb/> Psychoanalyse betonte, war dies für ihn nur ein Hilfsausdruck, <hi
+            rendition="#em">une manière<lb/> de parler</hi>, mit dem er keine neue Einsicht andeuten
+            wollte.<lb break="paragraph"/>
         </p>
-        <p>In einem theoretischen Abschnitt der Studien teilte Breuer einige spekula<lb break="no"/>tive Gedanken über die Erregungsvorgänge im Seelischen mit, welche<lb/> richtunggebend für die Zukunft geblieben sind und noch heute nicht ihre<lb/> volle Würdigung gefunden haben. Damit hatten seine Beiträge zu diesem<lb/> Wissensgebiet ein Ende, er zog sich bald nachher von der gemeinsamen<lb/> Arbeit zurück.<lb break="paragraph"/>
+        <p>In einem theoretischen Abschnitt der Studien teilte Breuer einige spekula<lb break="no"
+          />tive Gedanken über die Erregungsvorgänge im Seelischen mit, welche<lb/> richtunggebend
+          für die Zukunft geblieben sind und noch heute nicht ihre<lb/> volle Würdigung gefunden
+          haben. Damit hatten seine Beiträge zu diesem<lb/> Wissensgebiet ein Ende, er zog sich bald
+          nachher von der gemeinsamen<lb/> Arbeit zurück.<lb break="paragraph"/>
         </p>
-        <p>DER ÜBERGANG ZUR PSYCHOANALYSE. Schon in den „Stu<lb break="no"/>dien“ hatten sich Gegensätze in den Auffassungen der beiden Autoren an<lb break="no"/>gezeigt. Breuer nahm an, daß die pathogenen Vorstellungen darum trauma<lb break="no"/>tische Wirkung äußern, weil sie in „<hi rendition="#smallcaps">hypnoiden Zuständen</hi>“ entstanden<lb/> sind, in denen die seelische Leistung besonderen Einschränkungen unterliegt.<lb/> Referent lehnte diese Erklärung ab und glaubte zu erkennen, daß eine<lb/> Vorstellung dann pathogen wird, wenn ihr Inhalt den herrschenden Ten<lb break="no"/>denzen des Seelenlebens widerstrebt, so daß sie die „<hi rendition="#smallcaps">Abwehr</hi>“ des Indivi<lb break="no"/>duums hervorruft (Janet hatte den Hysterischen eine konstitutionelle Unfähig<lb break="no"/>keit zum Zusammenhalten ihrer psychischen Inhalte zugeschrieben; an<lb/> dieser Stelle schieden sich die Wege Breuers und Freuds von seinem). Auch<lb/> die beiden Neuerungen, mit denen Referent bald darauf den Boden der<lb/> Katharsis verließ, hatten bereits in den „Studien“ Erwähnung gefunden.<lb/> Sie wurden nun nach Breuers Rücktritt der Ausgang weiterer Entwicklungen.<lb break="paragraph"/>
+        <p>DER ÜBERGANG ZUR PSYCHOANALYSE. Schon in den „Stu<lb break="no"/>dien“ hatten sich
+          Gegensätze in den Auffassungen der beiden Autoren an<lb break="no"/>gezeigt. Breuer nahm
+          an, daß die pathogenen Vorstellungen darum trauma<lb break="no"/>tische Wirkung äußern,
+          weil sie in „<hi rendition="#smallcaps">hypnoiden Zuständen</hi>“ entstanden<lb/> sind, in
+          denen die seelische Leistung besonderen Einschränkungen unterliegt.<lb/> Referent lehnte
+          diese Erklärung ab und glaubte zu erkennen, daß eine<lb/> Vorstellung dann pathogen wird,
+          wenn ihr Inhalt den herrschenden Ten<lb break="no"/>denzen des Seelenlebens widerstrebt,
+          so daß sie die „<hi rendition="#smallcaps">Abwehr</hi>“ des Indivi<lb break="no"/>duums
+          hervorruft (Janet hatte den Hysterischen eine konstitutionelle Unfähig<lb break="no"/>keit
+          zum Zusammenhalten ihrer psychischen Inhalte zugeschrieben; an<lb/> dieser Stelle schieden
+          sich die Wege Breuers und Freuds von seinem). Auch<lb/> die beiden Neuerungen, mit denen
+          Referent bald darauf den Boden der<lb/> Katharsis verließ, hatten bereits in den „Studien“
+          Erwähnung gefunden.<lb/> Sie wurden nun nach Breuers Rücktritt der Ausgang weiterer
+            Entwicklungen.<lb break="paragraph"/>
         </p>
-        <p>VERZICHT AUF DIE HYPNOSE. Die eine dieser Neuerungen fußte<lb/> auf einer praktischen Erfahrung und führte zu einer Änderung der Technik,<lb/> die andere bestand in einem Fortschritt in der klinischen Erkenntnis der<lb/> Neurose. Es zeigte sich bald, daß die therapeutischen Hoffnungen, die man<lb/> auf die kathartische Behandlung in der Hypnose gesetzt hatte, in gewissem<lb/> Sinne unerfüllt blieben. Das Verschwinden der Symptome ging zwar der<lb/> Katharsis parallel, aber der Gesamterfolg zeigte sich doch durchaus ab<lb break="no"/>hängig von der Beziehung des Patienten zum Arzt, benahm sich also wie<lb/> ein Erfolg der „Suggestion“, und wenn diese Beziehung zerstört wurde,<lb/> traten alle Symptome wieder auf, als ob sie niemals eine Lösung gefunden<lb break="paragraph"/>
+        <p>VERZICHT AUF DIE HYPNOSE. Die eine dieser Neuerungen fußte<lb/> auf einer praktischen
+          Erfahrung und führte zu einer Änderung der Technik,<lb/> die andere bestand in einem
+          Fortschritt in der klinischen Erkenntnis der<lb/> Neurose. Es zeigte sich bald, daß die
+          therapeutischen Hoffnungen, die man<lb/> auf die kathartische Behandlung in der Hypnose
+          gesetzt hatte, in gewissem<lb/> Sinne unerfüllt blieben. Das Verschwinden der Symptome
+          ging zwar der<lb/> Katharsis parallel, aber der Gesamterfolg zeigte sich doch durchaus
+            ab<lb break="no"/>hängig von der Beziehung des Patienten zum Arzt, benahm sich also
+          wie<lb/> ein Erfolg der „Suggestion“, und wenn diese Beziehung zerstört wurde,<lb/> traten
+          alle Symptome wieder auf, als ob sie niemals eine Lösung gefunden<lb break="paragraph"/>
           <pb n="4" xml:id="page__fcb1ca1f-fafb-4ad4-9b65-ffb256817a30"/>
-          <fw type="pageNum">204</fw>hätten. Dazu kam noch, daß die geringe Anzahl der Personen, welche sich<lb/> in tiefe Hypnose versetzen ließen, eine ärztlich sehr bedeutsame Einschrän<lb break="no"/>kung in der Anwendung des kathartischen Verfahrens mit sich brachte.<lb/> Aus diesen Gründen entschloß sich Referent, die Hypnose aufzugeben.<lb/> Gleichzeitig aber entnahm er seinen Eindrücken von der Hypnose die<lb/> Mittel, sie zu ersetzen.<lb break="paragraph"/>
+          <fw type="pageNum">204</fw>hätten. Dazu kam noch, daß die geringe Anzahl der Personen,
+          welche sich<lb/> in tiefe Hypnose versetzen ließen, eine ärztlich sehr bedeutsame
+            Einschrän<lb break="no"/>kung in der Anwendung des kathartischen Verfahrens mit sich
+          brachte.<lb/> Aus diesen Gründen entschloß sich Referent, die Hypnose aufzugeben.<lb/>
+          Gleichzeitig aber entnahm er seinen Eindrücken von der Hypnose die<lb/> Mittel, sie zu
+            ersetzen.<lb break="paragraph"/>
         </p>
-        <p>DIE FREIE ASSOZIATION. Der hypnotische Zustand hatte beim<lb/> Patienten eine solche Erweiterung der Assoziationsfähigkeit zur Folge ge<lb break="no"/>habt, daß er sofort den für sein bewußtes Nachdenken unzugänglichen<lb/> Weg vom Symptom zu den mit ihm verknüpften Gedanken und Erinne<lb break="no"/>rungen zu finden wußte. Der Wegfall der Hypnose schien eine hilflose<lb/> Situation zu schaffen, aber Referent erinnerte sich an Bernheims Nachweis,<lb/> daß das im Somnambulismus Erlebte nur scheinbar vergessen war und<lb/> jederzeit durch die dringende Versicherung des Arztes, daß man es wisse,<lb/> der Erinnerung zugeführt werden konnte. Er versuchte es also, auch seine<lb/> nicht hypnotisierten Patienten zur Mitteilung von Assoziationen zu drän<lb break="no"/>gen, um durch solches Material den Weg zum Vergessenen oder Abge<lb break="no"/>wehrten zu finden. Später merkte er, daß es eines solchen Drängens nicht<lb/> bedürfe, daß beim Patienten fast immer reichliche Einfälle auftauchten,<lb/> diese aber durch bestimmte Einwendungen, die er sich selbst machte, von<lb/> der Mitteilung, ja vom Bewußtsein selbst, abgehalten wurden. In der der<lb break="no"/>zeit noch unbewiesenen, später durch reichhaltige Erfahrung bestätigten<lb/> Erwartung, daß alles, was dem Patienten zu einem gewissen Ausgangspunkt<lb/> einfiele, auch in innerem Zusammenhang mit diesem stehen müsse, ergab<lb/> sich daraus die Technik, den Patienten zum Verzicht auf alle seine kriti<lb break="no"/>schen Einstellungen zu erziehen und das dann zutage geförderte Material<lb/> von Einfällen zur Aufdeckung der gesuchten Zusammenhänge zu verwerten.<lb/> Ein starkes Zutrauen zur Strenge der Determinierung im Seelischen war<lb/> sicherlich an der Wendung zu dieser Technik, welche die Hypnose ersetzen<lb/> sollte, beteiligt.<lb break="paragraph"/>
+        <p>DIE FREIE ASSOZIATION. Der hypnotische Zustand hatte beim<lb/> Patienten eine solche
+          Erweiterung der Assoziationsfähigkeit zur Folge ge<lb break="no"/>habt, daß er sofort den
+          für sein bewußtes Nachdenken unzugänglichen<lb/> Weg vom Symptom zu den mit ihm
+          verknüpften Gedanken und Erinne<lb break="no"/>rungen zu finden wußte. Der Wegfall der
+          Hypnose schien eine hilflose<lb/> Situation zu schaffen, aber Referent erinnerte sich an
+          Bernheims Nachweis,<lb/> daß das im Somnambulismus Erlebte nur scheinbar vergessen war
+          und<lb/> jederzeit durch die dringende Versicherung des Arztes, daß man es wisse,<lb/> der
+          Erinnerung zugeführt werden konnte. Er versuchte es also, auch seine<lb/> nicht
+          hypnotisierten Patienten zur Mitteilung von Assoziationen zu drän<lb break="no"/>gen, um
+          durch solches Material den Weg zum Vergessenen oder Abge<lb break="no"/>wehrten zu finden.
+          Später merkte er, daß es eines solchen Drängens nicht<lb/> bedürfe, daß beim Patienten
+          fast immer reichliche Einfälle auftauchten,<lb/> diese aber durch bestimmte Einwendungen,
+          die er sich selbst machte, von<lb/> der Mitteilung, ja vom Bewußtsein selbst, abgehalten
+          wurden. In der der<lb break="no"/>zeit noch unbewiesenen, später durch reichhaltige
+          Erfahrung bestätigten<lb/> Erwartung, daß alles, was dem Patienten zu einem gewissen
+          Ausgangspunkt<lb/> einfiele, auch in innerem Zusammenhang mit diesem stehen müsse,
+          ergab<lb/> sich daraus die Technik, den Patienten zum Verzicht auf alle seine kriti<lb
+            break="no"/>schen Einstellungen zu erziehen und das dann zutage geförderte Material<lb/>
+          von Einfällen zur Aufdeckung der gesuchten Zusammenhänge zu verwerten.<lb/> Ein starkes
+          Zutrauen zur Strenge der Determinierung im Seelischen war<lb/> sicherlich an der Wendung
+          zu dieser Technik, welche die Hypnose ersetzen<lb/> sollte, beteiligt.<lb
+            break="paragraph"/>
         </p>
-        <p>DIE „TECHNISCHE GRUNDREGEL“, dies Verfahren der „freien<lb/> Assoziation“, ist seither in der psychoanalytischen Arbeit festgehalten worden.<lb/> Man leitet die Behandlung ein, indem man den Patienten auffordert, sich<lb/> in die Lage eines aufmerksamen und leidenschaftslosen Selbstbeobachters<lb/> zu versetzen, immer nur die Oberfläche seines Bewußtseins abzulesen und<lb/> einerseits sich die vollste Aufrichtigkeit zur Pflicht zu machen, anderseits<lb/> keinen Einfall von der Mitteilung auszuschließen, auch wenn man 1) ihn allzu<lb break="paragraph"/>
+        <p>DIE „TECHNISCHE GRUNDREGEL“, dies Verfahren der „freien<lb/> Assoziation“, ist seither in
+          der psychoanalytischen Arbeit festgehalten worden.<lb/> Man leitet die Behandlung ein,
+          indem man den Patienten auffordert, sich<lb/> in die Lage eines aufmerksamen und
+          leidenschaftslosen Selbstbeobachters<lb/> zu versetzen, immer nur die Oberfläche seines
+          Bewußtseins abzulesen und<lb/> einerseits sich die vollste Aufrichtigkeit zur Pflicht zu
+          machen, anderseits<lb/> keinen Einfall von der Mitteilung auszuschließen, auch wenn man 1)
+          ihn allzu<lb break="paragraph"/>
           <pb n="5" xml:id="page__395c22a7-9728-41e6-8ef2-530be820011c"/>
-          <fw type="pageNum">205</fw>unangenehm empfinden sollte, oder wenn man 2) urteilen müßte, er sei unsinnig,<lb/> 3) allzu unwichtig, 4) gehöre nicht zu dem, was man suche. Es zeigt sich regel<lb break="no"/>mäßig, daß gerade Einfälle, welche die letzterwähnten Ausstellungen hervor<lb break="no"/>rufen, für die Auffindung des Vergessenen von besonderem Wert sind.<lb break="paragraph"/>
+          <fw type="pageNum">205</fw>unangenehm empfinden sollte, oder wenn man 2) urteilen müßte,
+          er sei unsinnig,<lb/> 3) allzu unwichtig, 4) gehöre nicht zu dem, was man suche. Es zeigt
+          sich regel<lb break="no"/>mäßig, daß gerade Einfälle, welche die letzterwähnten
+          Ausstellungen hervor<lb break="no"/>rufen, für die Auffindung des Vergessenen von
+          besonderem Wert sind.<lb break="paragraph"/>
         </p>
-        <p>DIE PSYCHOANALYSE ALS DEUTUNGSKUNST. Die neue Technik<lb/> änderte den Eindruck der Behandlung so sehr ab, brachte den Arzt in so<lb/> neue Beziehungen zum Kranken und lieferte so viel überraschende Ergebnisse,<lb/> daß es berechtigt schien, das Verfahren durch einen Namen von der kathar<lb break="no"/>tischen Methode zu scheiden. Referent wählte für die Behandlungsweise,<lb/> die nun auf viele andere Formen neurotischer Störung ausgedehnt werden<lb/> konnte, den Namen <hi rendition="#smallcaps">Psychoanalyse</hi>. Diese Psychoanalyse war nun in erster<lb/> Linie eine Kunst der Deutung und stellte sich die Aufgabe, die erste der<lb/> großen Entdeckungen Breuers, daß die neurotischen Symptome ein sinn<lb break="no"/>voller Ersatz für andere unterbliebene seelische Akte seien, zu vertiefen.<lb/> Es kam jetzt darauf an, das Material, welches die Einfälle der Patienten<lb/> lieferten, so aufzufassen, als ob es auf einen verborgenen Sinn hindeutete,<lb/> diesen Sinn aus ihm zu erraten. Die Erfahrung zeigte bald, daß der analy<lb break="no"/>sierende Arzt sich dabei am zweckmäßigsten verhalte, wenn er sich selbst<lb/> bei <hi rendition="#smallcaps">gleichschwebender Aufmerksamkeit</hi> seiner eigenen unbewußten<lb/> Geistestätigkeit überlasse, Nachdenken und Bildung bewußter Erwartungen<lb/> möglichst vermeide, nichts von dem Gehörten sich besonders im Gedächtnis<lb/> fixieren wolle, und solcher Art das Unbewußte des Patienten mit seinem<lb/> eigenen Unbewußten auffange. Dann merkte man, wenn die Verhältnisse<lb/> nicht allzu ungünstig waren, daß die Einfälle des Patienten sich gewisser<lb break="no"/>maßen wie Anspielungen an ein bestimmtes Thema herantasteten, und brauchte<lb/> selbst nur einen Schritt weiter zu wagen, um das ihm selbst Verborgene<lb/> zu erraten und ihm mitteilen zu können. Gewiß war diese Deutungsarbeit<lb/> nicht streng in Regeln zu fassen und ließ dem Takt und der Geschicklich<lb break="no"/>keit des Arztes einen großen Spielraum, allein wenn man Unparteilichkeit<lb/> mit Übung verband, gelangte man in der Regel zu verläßlichen Resultaten,<lb/> d. h. zu solchen, die sich durch Wiederholung in ähnlichen Fällen bestätigten.<lb/> Zur Zeit, da über das Unbewußte, die Struktur der Neurosen und die patho<lb break="no"/>logischen Vorgänge hinter denselben noch so wenig bekannt war, mußte<lb/> man zufrieden sein, sich einer solchen Technik bedienen zu können, auch<lb/> wenn sie theoretisch nicht besser fundiert war. Man übt sie übrigens auch<lb/> in der heutigen Analyse in gleicher Weise, nur mit dem Gefühl größerer<lb/> Sicherheit und besserem Verständnis für ihre Schranken.<lb break="paragraph"/>
+        <p>DIE PSYCHOANALYSE ALS DEUTUNGSKUNST. Die neue Technik<lb/> änderte den Eindruck der
+          Behandlung so sehr ab, brachte den Arzt in so<lb/> neue Beziehungen zum Kranken und
+          lieferte so viel überraschende Ergebnisse,<lb/> daß es berechtigt schien, das Verfahren
+          durch einen Namen von der kathar<lb break="no"/>tischen Methode zu scheiden. Referent
+          wählte für die Behandlungsweise,<lb/> die nun auf viele andere Formen neurotischer Störung
+          ausgedehnt werden<lb/> konnte, den Namen <hi rendition="#smallcaps">Psychoanalyse</hi>.
+          Diese Psychoanalyse war nun in erster<lb/> Linie eine Kunst der Deutung und stellte sich
+          die Aufgabe, die erste der<lb/> großen Entdeckungen Breuers, daß die neurotischen Symptome
+          ein sinn<lb break="no"/>voller Ersatz für andere unterbliebene seelische Akte seien, zu
+          vertiefen.<lb/> Es kam jetzt darauf an, das Material, welches die Einfälle der
+          Patienten<lb/> lieferten, so aufzufassen, als ob es auf einen verborgenen Sinn
+          hindeutete,<lb/> diesen Sinn aus ihm zu erraten. Die Erfahrung zeigte bald, daß der
+            analy<lb break="no"/>sierende Arzt sich dabei am zweckmäßigsten verhalte, wenn er sich
+          selbst<lb/> bei <hi rendition="#smallcaps">gleichschwebender Aufmerksamkeit</hi> seiner
+          eigenen unbewußten<lb/> Geistestätigkeit überlasse, Nachdenken und Bildung bewußter
+          Erwartungen<lb/> möglichst vermeide, nichts von dem Gehörten sich besonders im
+          Gedächtnis<lb/> fixieren wolle, und solcher Art das Unbewußte des Patienten mit
+          seinem<lb/> eigenen Unbewußten auffange. Dann merkte man, wenn die Verhältnisse<lb/> nicht
+          allzu ungünstig waren, daß die Einfälle des Patienten sich gewisser<lb break="no"/>maßen
+          wie Anspielungen an ein bestimmtes Thema herantasteten, und brauchte<lb/> selbst nur einen
+          Schritt weiter zu wagen, um das ihm selbst Verborgene<lb/> zu erraten und ihm mitteilen zu
+          können. Gewiß war diese Deutungsarbeit<lb/> nicht streng in Regeln zu fassen und ließ dem
+          Takt und der Geschicklich<lb break="no"/>keit des Arztes einen großen Spielraum, allein
+          wenn man Unparteilichkeit<lb/> mit Übung verband, gelangte man in der Regel zu
+          verläßlichen Resultaten,<lb/> d. h. zu solchen, die sich durch Wiederholung in ähnlichen
+          Fällen bestätigten.<lb/> Zur Zeit, da über das Unbewußte, die Struktur der Neurosen und
+          die patho<lb break="no"/>logischen Vorgänge hinter denselben noch so wenig bekannt war,
+          mußte<lb/> man zufrieden sein, sich einer solchen Technik bedienen zu können, auch<lb/>
+          wenn sie theoretisch nicht besser fundiert war. Man übt sie übrigens auch<lb/> in der
+          heutigen Analyse in gleicher Weise, nur mit dem Gefühl größerer<lb/> Sicherheit und
+          besserem Verständnis für ihre Schranken.<lb break="paragraph"/>
         </p>
         <pb n="6" xml:id="page__e6ad4614-47e0-4186-bed2-cba525577fc5"/>
         <fw type="pageNum">206</fw>
-        <p>DIE DEUTUNG DER FEHLLEISTUNGEN UND ZUFALLS<lb break="no"/>HANDLUNGEN. Es war ein Triumph für die Deutungskunst der Psycho<lb break="no"/>analyse, als ihr der Nachweis gelang, daß gewisse häufige seelische Akte<lb/> der normalen Menschen, für die man bisher eine psychologische Erklärung<lb/> überhaupt nicht in Anspruch genommen hatte, so zu verstehen seien wie<lb/> die Symptome der Neurotiker, d.h. daß sie einen Sinn haben, welcher der<lb/> Person nicht bekannt ist und durch analytische Bemühung leicht gefunden<lb/> werden kann. Die betreffenden Phänomene, das zeitweilige Vergessen von<lb/> sonst wohlbekannten Worten und Namen, das Vergessen von Vorsätzen, das<lb/> so häufige Versprechen, Verlesen, Verschreiben, Verlieren, Verlegen von<lb/> Gegenständen, manche Irrtümer, Akte von anscheinend zufälliger Selbst<lb break="no"/>beschädigung, endlich Bewegungen, die man gewohnheitsmäßig wie un<lb break="no"/>absichtlich und spielend ausführt, Melodien, die man „gedankenlos“<lb/> summt u. dgl. m. — all dies wurde der physiologischen Erklärung, wo<lb/> eine solche überhaupt versucht worden war, entzogen, als streng deter<lb break="no"/>miniert aufgezeigt und als Äußerung von unterdrückten Absichten der<lb/> Person oder als Folge von Interferenz zweier Absichten, von denen die<lb/> eine dauernd oder derzeit unbewußt war, erkannt. Der Wert dieses Bei<lb break="no"/>trages zur Psychologie war ein mehrfacher. Der Umfang der seelischen<lb/> Determinierung wurde dadurch in ungeahnter Weise erweitert; die ange<lb break="no"/>nommene Kluft zwischen normalem und krankhaftem seelischem Geschehen<lb/> verringert; in vielen Fällen ergab sich ein bequemer Einblick in das<lb/> Spiel seelischer Kräfte, das man hinter den Phänomenen vermuten mußte.<lb/> Endlich gewann man so ein Material, welches wie kein anderes geeignet<lb/> ist, den Glauben an die Existenz unbewußter seelischer Akte auch bei<lb/> solchen zu erwecken, denen die Annahme eines unbewußten Psychischen<lb/> fremdartig, ja sogar absurd erscheint. Das Studium der eigenen Fehl<lb break="no"/>leistungen und Zufallshandlungen, wozu sich den meisten reichlich Ge<lb break="no"/>legenheit bietet, ist noch heute die beste Vorbereitung für ein Eindringen<lb/> in die Psychoanalyse. In der analytischen Behandlung behauptet die Deutung<lb/> der Fehlleistungen einen Platz als Mittel zur Aufdeckung des Unbewußten<lb/> neben der ungleich wichtigeren Deutung der Einfälle.<lb break="paragraph"/>
+        <p>DIE DEUTUNG DER FEHLLEISTUNGEN UND ZUFALLS<lb break="no"/>HANDLUNGEN. Es war ein Triumph
+          für die Deutungskunst der Psycho<lb break="no"/>analyse, als ihr der Nachweis gelang, daß
+          gewisse häufige seelische Akte<lb/> der normalen Menschen, für die man bisher eine
+          psychologische Erklärung<lb/> überhaupt nicht in Anspruch genommen hatte, so zu verstehen
+          seien wie<lb/> die Symptome der Neurotiker, d.h. daß sie einen Sinn haben, welcher
+          der<lb/> Person nicht bekannt ist und durch analytische Bemühung leicht gefunden<lb/>
+          werden kann. Die betreffenden Phänomene, das zeitweilige Vergessen von<lb/> sonst
+          wohlbekannten Worten und Namen, das Vergessen von Vorsätzen, das<lb/> so häufige
+          Versprechen, Verlesen, Verschreiben, Verlieren, Verlegen von<lb/> Gegenständen, manche
+          Irrtümer, Akte von anscheinend zufälliger Selbst<lb break="no"/>beschädigung, endlich
+          Bewegungen, die man gewohnheitsmäßig wie un<lb break="no"/>absichtlich und spielend
+          ausführt, Melodien, die man „gedankenlos“<lb/> summt u. dgl. m. — all dies wurde der
+          physiologischen Erklärung, wo<lb/> eine solche überhaupt versucht worden war, entzogen,
+          als streng deter<lb break="no"/>miniert aufgezeigt und als Äußerung von unterdrückten
+          Absichten der<lb/> Person oder als Folge von Interferenz zweier Absichten, von denen
+          die<lb/> eine dauernd oder derzeit unbewußt war, erkannt. Der Wert dieses Bei<lb
+            break="no"/>trages zur Psychologie war ein mehrfacher. Der Umfang der seelischen<lb/>
+          Determinierung wurde dadurch in ungeahnter Weise erweitert; die ange<lb break="no"
+          />nommene Kluft zwischen normalem und krankhaftem seelischem Geschehen<lb/> verringert; in
+          vielen Fällen ergab sich ein bequemer Einblick in das<lb/> Spiel seelischer Kräfte, das
+          man hinter den Phänomenen vermuten mußte.<lb/> Endlich gewann man so ein Material, welches
+          wie kein anderes geeignet<lb/> ist, den Glauben an die Existenz unbewußter seelischer Akte
+          auch bei<lb/> solchen zu erwecken, denen die Annahme eines unbewußten Psychischen<lb/>
+          fremdartig, ja sogar absurd erscheint. Das Studium der eigenen Fehl<lb break="no"
+          />leistungen und Zufallshandlungen, wozu sich den meisten reichlich Ge<lb break="no"
+          />legenheit bietet, ist noch heute die beste Vorbereitung für ein Eindringen<lb/> in die
+          Psychoanalyse. In der analytischen Behandlung behauptet die Deutung<lb/> der
+          Fehlleistungen einen Platz als Mittel zur Aufdeckung des Unbewußten<lb/> neben der
+          ungleich wichtigeren Deutung der Einfälle.<lb break="paragraph"/>
         </p>
-        <p>DIE DEUTUNG DER TRÄUME. Ein neuer Zugang zu den Tiefen<lb/> des Seelenlebens eröffnete sich, als man die Technik der freien Assoziation<lb/> auf die Träume, eigene oder die analytischer Patienten, anwendete. In der<lb/> Tat rührt das Meiste und Beste, was wir von den Vorgängen in den un<lb break="no"/>bewußten Seelenschichten wissen, aus der Deutung der Träume her. Die<lb break="paragraph"/>
+        <p>DIE DEUTUNG DER TRÄUME. Ein neuer Zugang zu den Tiefen<lb/> des Seelenlebens eröffnete
+          sich, als man die Technik der freien Assoziation<lb/> auf die Träume, eigene oder die
+          analytischer Patienten, anwendete. In der<lb/> Tat rührt das Meiste und Beste, was wir von
+          den Vorgängen in den un<lb break="no"/>bewußten Seelenschichten wissen, aus der Deutung
+          der Träume her. Die<lb break="paragraph"/>
           <pb n="7" xml:id="page__a27a0357-f53b-4e3f-80bb-2add18583a56"/>
-          <fw type="pageNum">207</fw>Psychoanalyse hat dem Traum die Bedeutung wiedergegeben, die ihm in<lb/> alten Zeiten einst allgemein zuerkannt war, aber sie verfährt anders mit<lb/> ihm. Sie verläßt sich nicht auf den Witz des Traumdeuters, sondern über<lb break="no"/>trägt die Aufgabe zum größten Teil dem Träumer selbst, indem sie ihn<lb/> nach seinen Assoziationen zu den einzelnen Elementen des Traumes befragt.<lb/> Durch die weitere Verfolgung dieser Assoziationen kommt man zur Kenntnis<lb/> von Gedanken, welche den Traum vollkommen decken, sich aber — bis<lb/> auf einen Punkt — als vollwertige, durchaus verständliche Stücke der wachen<lb/> Seelentätigkeit erkennen lassen. Es stellt sich so der erinnerte Traum als<lb/>
-          <hi rendition="#smallcaps">manifester Trauminhalt</hi> den durch Deutung gefundenen <hi rendition="#smallcaps">latenten</hi>
+          <fw type="pageNum">207</fw>Psychoanalyse hat dem Traum die Bedeutung wiedergegeben, die
+          ihm in<lb/> alten Zeiten einst allgemein zuerkannt war, aber sie verfährt anders mit<lb/>
+          ihm. Sie verläßt sich nicht auf den Witz des Traumdeuters, sondern über<lb break="no"
+          />trägt die Aufgabe zum größten Teil dem Träumer selbst, indem sie ihn<lb/> nach seinen
+          Assoziationen zu den einzelnen Elementen des Traumes befragt.<lb/> Durch die weitere
+          Verfolgung dieser Assoziationen kommt man zur Kenntnis<lb/> von Gedanken, welche den Traum
+          vollkommen decken, sich aber — bis<lb/> auf einen Punkt — als vollwertige, durchaus
+          verständliche Stücke der wachen<lb/> Seelentätigkeit erkennen lassen. Es stellt sich so
+          der erinnerte Traum als<lb/>
+          <hi rendition="#smallcaps">manifester Trauminhalt</hi> den durch Deutung gefundenen <hi
+            rendition="#smallcaps">latenten</hi>
           <lb/>
-          <hi rendition="#smallcaps">Traumgedanken</hi> gegenüber. Der Vorgang, welcher die letzteren in den<lb/> ersteren, eben den „Traum“, umgesetzt hat und der durch die Deutungs<lb break="no"/>arbeit rückgängig gemacht wird, darf <hi rendition="#smallcaps">Traumarbeit</hi> genannt werden.<lb break="paragraph"/>
+          <hi rendition="#smallcaps">Traumgedanken</hi> gegenüber. Der Vorgang, welcher die
+          letzteren in den<lb/> ersteren, eben den „Traum“, umgesetzt hat und der durch die
+            Deutungs<lb break="no"/>arbeit rückgängig gemacht wird, darf <hi rendition="#smallcaps"
+            >Traumarbeit</hi> genannt werden.<lb break="paragraph"/>
         </p>
-        <p>Die latenten Traumgedanken heißen wir wegen ihrer Beziehung zum<lb/> Wachleben auch <hi rendition="#smallcaps">Tagesreste</hi>. Sie werden durch die Traumarbeit, der man<lb/> durchaus mit Unrecht „schöpferischen“ Charakter zuschreiben würde, in<lb/> merkwürdiger Weise <hi rendition="#smallcaps">verdichtet</hi>, durch die <hi rendition="#smallcaps">Verschiebung</hi> psychischer<lb/> Intensitäten <hi rendition="#smallcaps">entstellt</hi>, zur <hi rendition="#smallcaps">Darstellung in visuellen Bildern</hi> her<lb break="no"/>gerichtet, und unterliegen überdies, ehe es zur Gestaltung des manifesten<lb/> Traumes kommt, einer <hi rendition="#smallcaps">sekundären Bearbeitung</hi>, welche dem neuen<lb/> Gebilde etwas wie Sinn und Zusammenhang geben möchte. Dieser letzte<lb/> Vorgang gehört eigentlich nicht mehr der Traumarbeit an.<lb break="paragraph"/>
+        <p>Die latenten Traumgedanken heißen wir wegen ihrer Beziehung zum<lb/> Wachleben auch <hi
+            rendition="#smallcaps">Tagesreste</hi>. Sie werden durch die Traumarbeit, der man<lb/>
+          durchaus mit Unrecht „schöpferischen“ Charakter zuschreiben würde, in<lb/> merkwürdiger
+          Weise <hi rendition="#smallcaps">verdichtet</hi>, durch die <hi rendition="#smallcaps"
+            >Verschiebung</hi> psychischer<lb/> Intensitäten <hi rendition="#smallcaps"
+            >entstellt</hi>, zur <hi rendition="#smallcaps">Darstellung in visuellen Bildern</hi>
+            her<lb break="no"/>gerichtet, und unterliegen überdies, ehe es zur Gestaltung des
+          manifesten<lb/> Traumes kommt, einer <hi rendition="#smallcaps">sekundären
+            Bearbeitung</hi>, welche dem neuen<lb/> Gebilde etwas wie Sinn und Zusammenhang geben
+          möchte. Dieser letzte<lb/> Vorgang gehört eigentlich nicht mehr der Traumarbeit an.<lb
+            break="paragraph"/>
         </p>
-        <p>DYNAMISCHE THEORIE DER TRAUMBILDUNG. Es hat nicht<lb/> zuviel Schwierigkeiten gemacht, die Dynamik der Traumbildung zu durch<lb break="no"/>schauen. Die Triebkraft zur Traumbildung wird nicht von den latenten<lb/> Traumgedanken oder Tagesresten beigestellt, sondern von einer unbewußten,<lb/> bei Tag verdrängten Strebung, mit der sich die Tagesreste in Verbindung<lb/> setzen konnten, und die sich aus dem Material der latenten Gedanken eine<lb/>
-          <hi rendition="#smallcaps">Wunscherfüllung</hi> zurechtmacht. Somit ist jeder Traum einerseits eine<lb/> Wunscherfüllung des Unbewußten, anderseits, insofern es ihm gelingt, den<lb/> Schlafzustand vor Störung zu bewahren, eine Erfüllung des normalen Schlaf<lb break="no"/>wunsches, der den Schlaf eingeleitet hat. Sieht man vom unbewußten Bei<lb break="no"/>trag zur Traumbildung ab und reduziert den Traum auf seine latenten<lb/> Gedanken, so kann er alles vertreten, was das Wachleben beschäftigt hat,<lb/> eine Überlegung, Warnung, einen Vorsatz, eine Vorbereitung auf die nächste<lb/> Zukunft oder ebenfalls die Befriedigung eines unerfüllten Wunsches. Die<lb/> Unkenntlichkeit, Fremdartigkeit, Absurdität des manifesten Traumes ist zu<lb break="paragraph"/>
+        <p>DYNAMISCHE THEORIE DER TRAUMBILDUNG. Es hat nicht<lb/> zuviel Schwierigkeiten gemacht,
+          die Dynamik der Traumbildung zu durch<lb break="no"/>schauen. Die Triebkraft zur
+          Traumbildung wird nicht von den latenten<lb/> Traumgedanken oder Tagesresten beigestellt,
+          sondern von einer unbewußten,<lb/> bei Tag verdrängten Strebung, mit der sich die
+          Tagesreste in Verbindung<lb/> setzen konnten, und die sich aus dem Material der latenten
+          Gedanken eine<lb/>
+          <hi rendition="#smallcaps">Wunscherfüllung</hi> zurechtmacht. Somit ist jeder Traum
+          einerseits eine<lb/> Wunscherfüllung des Unbewußten, anderseits, insofern es ihm gelingt,
+          den<lb/> Schlafzustand vor Störung zu bewahren, eine Erfüllung des normalen Schlaf<lb
+            break="no"/>wunsches, der den Schlaf eingeleitet hat. Sieht man vom unbewußten Bei<lb
+            break="no"/>trag zur Traumbildung ab und reduziert den Traum auf seine latenten<lb/>
+          Gedanken, so kann er alles vertreten, was das Wachleben beschäftigt hat,<lb/> eine
+          Überlegung, Warnung, einen Vorsatz, eine Vorbereitung auf die nächste<lb/> Zukunft oder
+          ebenfalls die Befriedigung eines unerfüllten Wunsches. Die<lb/> Unkenntlichkeit,
+          Fremdartigkeit, Absurdität des manifesten Traumes ist zu<lb break="paragraph"/>
           <pb n="8" xml:id="page__5b650142-0b92-4c87-9cb2-d032bf435dde"/>
-          <fw type="pageNum">208</fw>einem Teil die Folge der Überführung der Traumgedanken in eine andere,<lb/> als <hi rendition="#smallcaps">archaisch</hi> zu bezeichnende Ausdrucksweise, zum anderen Teil aber die<lb/> Wirkung einer einschränkenden, kritisch ablehnenden Instanz, welche auch<lb/> während des Schlafes nicht ganz aufgehoben ist. Es liegt nahe, anzunehmen,<lb/> daß die „<hi rendition="#smallcaps">Traumzensur</hi>“, welche wir in erster Linie für die Entstellung<lb/> der Traumgedanken zum manifesten Traum verantwortlich machen, eine<lb/> Äußerung derselben seelischen Kräfte ist, welche tagsüber die unbewußte<lb/> Wunschregung hintangehalten, <hi rendition="#smallcaps">verdrängt</hi> hatten.<lb break="paragraph"/>
+          <fw type="pageNum">208</fw>einem Teil die Folge der Überführung der Traumgedanken in eine
+          andere,<lb/> als <hi rendition="#smallcaps">archaisch</hi> zu bezeichnende Ausdrucksweise,
+          zum anderen Teil aber die<lb/> Wirkung einer einschränkenden, kritisch ablehnenden
+          Instanz, welche auch<lb/> während des Schlafes nicht ganz aufgehoben ist. Es liegt nahe,
+          anzunehmen,<lb/> daß die „<hi rendition="#smallcaps">Traumzensur</hi>“, welche wir in
+          erster Linie für die Entstellung<lb/> der Traumgedanken zum manifesten Traum
+          verantwortlich machen, eine<lb/> Äußerung derselben seelischen Kräfte ist, welche tagsüber
+          die unbewußte<lb/> Wunschregung hintangehalten, <hi rendition="#smallcaps">verdrängt</hi>
+            hatten.<lb break="paragraph"/>
         </p>
-        <p>Es verlohnte sich, auf die Aufklärung der Träume näher einzugehen,<lb/> denn die analytische Arbeit hat gezeigt, daß die Dynamik der Traum<lb break="no"/>bildung dieselbe ist wie die der Symptombildung. Hier wie dort erkennen<lb/> wir einen Widerstreit zweier Tendenzen, einer unbewußten, sonst ver<lb break="no"/>drängten, die nach Befriedigung — Wunscherfüllung — strebt, und einer<lb/> wahrscheinlich dem bewußten Ich angehörenden, ablehnenden und ver<lb break="no"/>drängenden, und als Ergebnis dieses Konflikts eine Kompromißbildung, —<lb/> den Traum, das Symptom, — in welcher beide Tendenzen einen unvoll<lb break="no"/>kommenen Ausdruck gefunden haben. Die theoretische Bedeutung dieser<lb/> Übereinstimmung ist einleuchtend. Da der Traum kein pathologisches<lb/> Phänomen ist, wird durch sie der Nachweis erbracht, daß die seelischen<lb/> Mechanismen, welche die Krankheitssymptome erzeugen, auch schon im<lb/> normalen Seelenleben vorhanden sind, daß die nämliche Gesetzmäßigkeit<lb/> Normales und Abnormes umfaßt, und daß die Ergebnisse der Forschung<lb/> an Neurotikern oder Geisteskranken nicht bedeutungslos für das Verständnis<lb/> der gesunden Psyche sein können,<lb break="paragraph"/>
+        <p>Es verlohnte sich, auf die Aufklärung der Träume näher einzugehen,<lb/> denn die
+          analytische Arbeit hat gezeigt, daß die Dynamik der Traum<lb break="no"/>bildung dieselbe
+          ist wie die der Symptombildung. Hier wie dort erkennen<lb/> wir einen Widerstreit zweier
+          Tendenzen, einer unbewußten, sonst ver<lb break="no"/>drängten, die nach Befriedigung —
+          Wunscherfüllung — strebt, und einer<lb/> wahrscheinlich dem bewußten Ich angehörenden,
+          ablehnenden und ver<lb break="no"/>drängenden, und als Ergebnis dieses Konflikts eine
+          Kompromißbildung, —<lb/> den Traum, das Symptom, — in welcher beide Tendenzen einen
+            unvoll<lb break="no"/>kommenen Ausdruck gefunden haben. Die theoretische Bedeutung
+          dieser<lb/> Übereinstimmung ist einleuchtend. Da der Traum kein pathologisches<lb/>
+          Phänomen ist, wird durch sie der Nachweis erbracht, daß die seelischen<lb/> Mechanismen,
+          welche die Krankheitssymptome erzeugen, auch schon im<lb/> normalen Seelenleben vorhanden
+          sind, daß die nämliche Gesetzmäßigkeit<lb/> Normales und Abnormes umfaßt, und daß die
+          Ergebnisse der Forschung<lb/> an Neurotikern oder Geisteskranken nicht bedeutungslos für
+          das Verständnis<lb/> der gesunden Psyche sein können,<lb break="paragraph"/>
         </p>
-        <p>DIE SYMBOLIK. Beim Studium der durch die Traumarbeit geschaffenen<lb/> Ausdrucksweise stieß man auf die überraschende Tatsache, daß gewisse<lb/> Gegenstände, Verrichtungen und Beziehungen im Traum gewissermaßen<lb/> indirekt durch „Symbole“ dargestellt werden, die der Träumer gebraucht,<lb/> ohne ihre Bedeutung zu kennen, und zu denen auch gewöhnlich seine<lb/> Assoziation nichts liefert. Ihre Übersetzung muß vom Analytiker gegeben<lb/> werden, der sie selbst nur empirisch, durch versuchsweises Einsetzen in den<lb/> Zusammenhang finden kann. Es ergab sich später, daß Sprachgebrauch,<lb/> Mythologie und Folklore die reichlichsten Analogien zu den Traumsymbolen<lb/> enthalten. Die Symbole, an welche sich die interessantesten, noch un<lb break="no"/>gelösten Probleme knüpfen, scheinen ein Stück uralten seelischen Erb<lb break="no"/>gutes zu sein. Die Symbolgemeinschaft reicht über die Sprachgemeinschaft<lb/> hinaus.<lb break="paragraph"/>
+        <p>DIE SYMBOLIK. Beim Studium der durch die Traumarbeit geschaffenen<lb/> Ausdrucksweise
+          stieß man auf die überraschende Tatsache, daß gewisse<lb/> Gegenstände, Verrichtungen und
+          Beziehungen im Traum gewissermaßen<lb/> indirekt durch „Symbole“ dargestellt werden, die
+          der Träumer gebraucht,<lb/> ohne ihre Bedeutung zu kennen, und zu denen auch gewöhnlich
+          seine<lb/> Assoziation nichts liefert. Ihre Übersetzung muß vom Analytiker gegeben<lb/>
+          werden, der sie selbst nur empirisch, durch versuchsweises Einsetzen in den<lb/>
+          Zusammenhang finden kann. Es ergab sich später, daß Sprachgebrauch,<lb/> Mythologie und
+          Folklore die reichlichsten Analogien zu den Traumsymbolen<lb/> enthalten. Die Symbole, an
+          welche sich die interessantesten, noch un<lb break="no"/>gelösten Probleme knüpfen,
+          scheinen ein Stück uralten seelischen Erb<lb break="no"/>gutes zu sein. Die
+          Symbolgemeinschaft reicht über die Sprachgemeinschaft<lb/> hinaus.<lb break="paragraph"/>
         </p>
         <pb n="9" xml:id="page__ba3fc797-8240-4a92-a712-048e0100722e"/>
         <fw type="pageNum">209</fw>
-        <p>DIE ÄTIOLOGISCHE BEDEUTUNG DES SEXUALLEBENS.<lb/> Die zweite Neuheit, welche sich ergab, nachdem man die hypnotische<lb/> Technik durch die freie Assoziation ersetzt hatte, war klinischer Natur und<lb/> wurde bei der fortgesetzten Suche nach den traumatischen Erlebnissen ge<lb break="no"/>funden, von denen sich die hysterischen Symptome abzuleiten schienen.<lb/> Je sorgfältiger man diese Verfolgung betrieb, desto reichhaltiger enthüllte<lb/> sich die Verkettung solcher ätiologisch bedeutsamer Eindrücke, aber desto<lb/> weiter griffen sie auch in die Pubertät oder Kindheit des Neurotikers zurück.<lb/> Gleichzeitig nahmen sie einen einheitlichen Charakter an und endlich mußte<lb/> man sich vor der Evidenz beugen und anerkennen, daß an der Wurzel aller<lb/> Symptombildung traumatische Eindrücke aus dem Sexualleben der Frühzeit<lb/> zu finden seien. Das sexuelle Trauma trat so an die Stelle des banalen<lb/> Traumas und das letztere verdankte seine ätiologische Bedeutung der assozia<lb break="no"/>tiven oder symbolischen Beziehung zum ersteren, das vorangegangen war.<lb/> Da die gleichzeitig vorgenommene Untersuchung von Fällen gemeiner, als<lb/>
-          <hi rendition="#smallcaps">Neurasthenie</hi> und <hi rendition="#smallcaps">Angstneurose</hi> klassifizierter Nervosität den Aufschluß<lb/> erbrachte, daß sich diese Störungen auf aktuelle Mißbräuche im Sexualleben<lb/> zurückführen und durch Abstellung derselben beseitigen lassen, lag die<lb/> Folgerung nahe, die Neurosen seien überhaupt der Ausdruck von Störungen<lb/> im Sexualleben, die sogenannten <hi rendition="#smallcaps">Aktual</hi>neurosen der (chemisch vermittelte)<lb/> Ausdruck von gegenwärtigen, die <hi rendition="#smallcaps">Psychoneurosen</hi> der (psychisch ver<lb break="no"/>arbeitete) Ausdruck von längstvergangenen Schädigungen dieser biologisch<lb/> so wichtigen, von der Wissenschaft bislang arg vernachlässigten Funktion.<lb/> Keine der Aufstellungen der Psychoanalyse hat so hartnäckigen Unglauben<lb/> und so erbitterten Widerstand gefunden, wie diese von der überragenden<lb/> ätiologischen Bedeutung des Sexuallebens für die Neurosen. Es sei aber aus<lb break="no"/>drücklich bemerkt, daß auch die Psychoanalyse in ihrer Entwicklung bis<lb/> auf den heutigen Tag keinen Anlaß gefunden hat, von dieser Behauptung<lb/> zurückzutreten.<lb break="paragraph"/>
+        <p>DIE ÄTIOLOGISCHE BEDEUTUNG DES SEXUALLEBENS.<lb/> Die zweite Neuheit, welche sich ergab,
+          nachdem man die hypnotische<lb/> Technik durch die freie Assoziation ersetzt hatte, war
+          klinischer Natur und<lb/> wurde bei der fortgesetzten Suche nach den traumatischen
+          Erlebnissen ge<lb break="no"/>funden, von denen sich die hysterischen Symptome abzuleiten
+          schienen.<lb/> Je sorgfältiger man diese Verfolgung betrieb, desto reichhaltiger
+          enthüllte<lb/> sich die Verkettung solcher ätiologisch bedeutsamer Eindrücke, aber
+          desto<lb/> weiter griffen sie auch in die Pubertät oder Kindheit des Neurotikers
+          zurück.<lb/> Gleichzeitig nahmen sie einen einheitlichen Charakter an und endlich
+          mußte<lb/> man sich vor der Evidenz beugen und anerkennen, daß an der Wurzel aller<lb/>
+          Symptombildung traumatische Eindrücke aus dem Sexualleben der Frühzeit<lb/> zu finden
+          seien. Das sexuelle Trauma trat so an die Stelle des banalen<lb/> Traumas und das letztere
+          verdankte seine ätiologische Bedeutung der assozia<lb break="no"/>tiven oder symbolischen
+          Beziehung zum ersteren, das vorangegangen war.<lb/> Da die gleichzeitig vorgenommene
+          Untersuchung von Fällen gemeiner, als<lb/>
+          <hi rendition="#smallcaps">Neurasthenie</hi> und <hi rendition="#smallcaps"
+            >Angstneurose</hi> klassifizierter Nervosität den Aufschluß<lb/> erbrachte, daß sich
+          diese Störungen auf aktuelle Mißbräuche im Sexualleben<lb/> zurückführen und durch
+          Abstellung derselben beseitigen lassen, lag die<lb/> Folgerung nahe, die Neurosen seien
+          überhaupt der Ausdruck von Störungen<lb/> im Sexualleben, die sogenannten <hi
+            rendition="#smallcaps">Aktual</hi>neurosen der (chemisch vermittelte)<lb/> Ausdruck von
+          gegenwärtigen, die <hi rendition="#smallcaps">Psychoneurosen</hi> der (psychisch ver<lb
+            break="no"/>arbeitete) Ausdruck von längstvergangenen Schädigungen dieser
+          biologisch<lb/> so wichtigen, von der Wissenschaft bislang arg vernachlässigten
+          Funktion.<lb/> Keine der Aufstellungen der Psychoanalyse hat so hartnäckigen
+          Unglauben<lb/> und so erbitterten Widerstand gefunden, wie diese von der überragenden<lb/>
+          ätiologischen Bedeutung des Sexuallebens für die Neurosen. Es sei aber aus<lb break="no"
+          />drücklich bemerkt, daß auch die Psychoanalyse in ihrer Entwicklung bis<lb/> auf den
+          heutigen Tag keinen Anlaß gefunden hat, von dieser Behauptung<lb/> zurückzutreten.<lb
+            break="paragraph"/>
         </p>
-        <p>DIE INFANTILE SEXUALITÄT. Durch ihre ätiologische Forschung<lb/> geriet die Psychoanalyse in die Lage, sich mit einem Thema zu beschäftigen,<lb/> dessen Existenz vor ihr kaum vermutet worden war. Man hatte sich in der<lb/> Wissenschaft daran gewöhnt, das Sexualleben mit der Pubertät beginnen zu<lb/> lassen, und Äußerungen kindlicher Sexualität als seltene Anzeichen von<lb/> abnormer Frühreife und Degeneration beurteilt. Nun enthüllte die Psycho<lb break="no"/>analyse eine Fülle von ebenso merkwürdigen als regelmäßigen Phänomenen,<lb/> durch die man gezwungen wurde, den Beginn der Sexualfunktion beim<lb break="paragraph"/>
+        <p>DIE INFANTILE SEXUALITÄT. Durch ihre ätiologische Forschung<lb/> geriet die Psychoanalyse
+          in die Lage, sich mit einem Thema zu beschäftigen,<lb/> dessen Existenz vor ihr kaum
+          vermutet worden war. Man hatte sich in der<lb/> Wissenschaft daran gewöhnt, das
+          Sexualleben mit der Pubertät beginnen zu<lb/> lassen, und Äußerungen kindlicher Sexualität
+          als seltene Anzeichen von<lb/> abnormer Frühreife und Degeneration beurteilt. Nun
+          enthüllte die Psycho<lb break="no"/>analyse eine Fülle von ebenso merkwürdigen als
+          regelmäßigen Phänomenen,<lb/> durch die man gezwungen wurde, den Beginn der Sexualfunktion
+            beim<lb break="paragraph"/>
           <pb n="10" xml:id="page__5d2f53d7-30fb-44a9-87c1-649accf6087a"/>
-          <fw type="pageNum">210</fw>Kinde fast mit dem Anfang des extrauterinen Lebens zusammenfallen zu<lb/> lassen, und man fragte sich erstaunt, wie es möglich gewesen sei, dies alles<lb/> zu übersehen. Die ersten Einsichten in die kindliche Sexualität waren zwar<lb/> durch analytische Erforschung Erwachsener gewonnen und demnach mit<lb/> all den Zweifeln und Fehlerquellen behaftet, die man einer so späten Rück<lb break="no"/>schau zutrauen konnte, aber als man später (von 1908 an) begann, Kinder<lb/> selbst zu analysieren und unbefangen zu beobachten, gewann man für allen<lb/> tatsächlichen Inhalt der neuen Auffassung die direkte Bestätigung.<lb break="paragraph"/>
+          <fw type="pageNum">210</fw>Kinde fast mit dem Anfang des extrauterinen Lebens
+          zusammenfallen zu<lb/> lassen, und man fragte sich erstaunt, wie es möglich gewesen sei,
+          dies alles<lb/> zu übersehen. Die ersten Einsichten in die kindliche Sexualität waren
+          zwar<lb/> durch analytische Erforschung Erwachsener gewonnen und demnach mit<lb/> all den
+          Zweifeln und Fehlerquellen behaftet, die man einer so späten Rück<lb break="no"/>schau
+          zutrauen konnte, aber als man später (von 1908 an) begann, Kinder<lb/> selbst zu
+          analysieren und unbefangen zu beobachten, gewann man für allen<lb/> tatsächlichen Inhalt
+          der neuen Auffassung die direkte Bestätigung.<lb break="paragraph"/>
         </p>
-        <p>Die kindliche Sexualität zeigte in manchen Stücken ein anderes Bild<lb/> als die der Erwachsenen und überraschte durch zahlreiche Züge von dem,<lb/> was bei Erwachsenen als „<hi rendition="#smallcaps">Perversion</hi>“ verurteilt wurde. Man mußte den<lb/> Begriff des Sexuellen erweitern, bis er mehr umfaßte als das Streben nach<lb/> der Vereinigung der beiden Geschlechter im Sexualakt oder nach der Her<lb break="no"/>vorrufung bestimmter Lustempfindungen an den Genitalien. Aber diese<lb/> Erweiterung belohnte sich dadurch, daß es möglich wurde, kindliches,<lb/> normales und perverses Sexualleben aus einem Zusammenhange zu begreifen.<lb break="paragraph"/>
+        <p>Die kindliche Sexualität zeigte in manchen Stücken ein anderes Bild<lb/> als die der
+          Erwachsenen und überraschte durch zahlreiche Züge von dem,<lb/> was bei Erwachsenen als
+            „<hi rendition="#smallcaps">Perversion</hi>“ verurteilt wurde. Man mußte den<lb/>
+          Begriff des Sexuellen erweitern, bis er mehr umfaßte als das Streben nach<lb/> der
+          Vereinigung der beiden Geschlechter im Sexualakt oder nach der Her<lb break="no"
+          />vorrufung bestimmter Lustempfindungen an den Genitalien. Aber diese<lb/> Erweiterung
+          belohnte sich dadurch, daß es möglich wurde, kindliches,<lb/> normales und perverses
+          Sexualleben aus einem Zusammenhange zu begreifen.<lb break="paragraph"/>
         </p>
-        <p>Die analytische Forschung des Referenten verfiel zunächst in den Irrtum,<lb/> die <hi rendition="#smallcaps">Verführung</hi> als Quelle der kindlichen Sexualäußerungen und Keim<lb/> der neurotischen Symptombildung weit zu überschätzen. Die Überwindung<lb/> dieser Täuschung gelang, als sich die außerordentlich große Rolle der<lb/>
-          <hi rendition="#smallcaps">Phantasietätigkeit</hi> im Seelenleben der Neurotiker erkennen ließ, die für<lb/> die Neurose offenbar maßgebender war als die äußere Realität. Hinter diesen<lb/> Phantasien kam dann das Material zum Vorschein, welches folgende Schilde<lb break="no"/>rung von der Entwicklung der Sexualfunktion zu geben gestattet.<lb break="paragraph"/>
+        <p>Die analytische Forschung des Referenten verfiel zunächst in den Irrtum,<lb/> die <hi
+            rendition="#smallcaps">Verführung</hi> als Quelle der kindlichen Sexualäußerungen und
+          Keim<lb/> der neurotischen Symptombildung weit zu überschätzen. Die Überwindung<lb/>
+          dieser Täuschung gelang, als sich die außerordentlich große Rolle der<lb/>
+          <hi rendition="#smallcaps">Phantasietätigkeit</hi> im Seelenleben der Neurotiker erkennen
+          ließ, die für<lb/> die Neurose offenbar maßgebender war als die äußere Realität. Hinter
+          diesen<lb/> Phantasien kam dann das Material zum Vorschein, welches folgende Schilde<lb
+            break="no"/>rung von der Entwicklung der Sexualfunktion zu geben gestattet.<lb
+            break="paragraph"/>
         </p>
-        <p>DIE ENTWICKLUNG DER LIBIDO. Der Sexualtrieb, dessen dyna<lb break="no"/>mische Äußerung im Seelenleben „<hi rendition="#smallcaps">Libido</hi>“ genannt sei, ist aus Partial<lb break="no"/>trieben zusammengesetzt, in die er auch wieder zerfallen kann, und die<lb/> sich erst allmählich zu bestimmten Organisationen vereinigen. Quelle dieser<lb/> Partialtriebe sind die Körperorgane, besonders gewisse ausgezeichnete <hi rendition="#smallcaps">ero<lb break="no"/>gene Zonen</hi>, aber Beiträge zur Libido werden auch von allen wichtigen<lb/> funktionellen Vorgängen im Körper geliefert. Die einzelnen Partialtriebe<lb/> streben zunächst unabhängig voneinander nach Befriedigung, werden aber<lb/> im Lauf der Entwicklung immer mehr zusammengefaßt, zentriert. Als erste<lb/> (prägenitale) Organisationsstufe läßt sich die <hi rendition="#smallcaps">orale</hi> erkennen, in welcher<lb/> entsprechend dem Hauptinteresse des Säuglings die <hi rendition="#smallcaps">Mundzone</hi> die Haupt<lb break="no"/>rolle spielt. Ihr folgt die <hi rendition="#smallcaps">sadistisch-anale</hi> Organisation, in welcher der<lb/> Partialtrieb des <hi rendition="#smallcaps">Sadismus</hi> und die <hi rendition="#smallcaps">Afterzone</hi> sich besonders hervortun;<lb break="paragraph"/>
+        <p>DIE ENTWICKLUNG DER LIBIDO. Der Sexualtrieb, dessen dyna<lb break="no"/>mische Äußerung
+          im Seelenleben „<hi rendition="#smallcaps">Libido</hi>“ genannt sei, ist aus Partial<lb
+            break="no"/>trieben zusammengesetzt, in die er auch wieder zerfallen kann, und die<lb/>
+          sich erst allmählich zu bestimmten Organisationen vereinigen. Quelle dieser<lb/>
+          Partialtriebe sind die Körperorgane, besonders gewisse ausgezeichnete <hi
+            rendition="#smallcaps">ero<lb break="no"/>gene Zonen</hi>, aber Beiträge zur Libido
+          werden auch von allen wichtigen<lb/> funktionellen Vorgängen im Körper geliefert. Die
+          einzelnen Partialtriebe<lb/> streben zunächst unabhängig voneinander nach Befriedigung,
+          werden aber<lb/> im Lauf der Entwicklung immer mehr zusammengefaßt, zentriert. Als
+          erste<lb/> (prägenitale) Organisationsstufe läßt sich die <hi rendition="#smallcaps"
+            >orale</hi> erkennen, in welcher<lb/> entsprechend dem Hauptinteresse des Säuglings die
+            <hi rendition="#smallcaps">Mundzone</hi> die Haupt<lb break="no"/>rolle spielt. Ihr
+          folgt die <hi rendition="#smallcaps">sadistisch-anale</hi> Organisation, in welcher
+          der<lb/> Partialtrieb des <hi rendition="#smallcaps">Sadismus</hi> und die <hi
+            rendition="#smallcaps">Afterzone</hi> sich besonders hervortun;<lb break="paragraph"/>
           <pb n="11" xml:id="page__54cad0d6-d3ac-4952-bf22-bec121f3798b"/>
-          <fw type="pageNum"> 211</fw>der Geschlechtsunterschied wird hier durch den Gegensatz von aktiv und<lb/> passiv vertreten. Die dritte und endgiltige Organisationsstufe ist die Zu<lb break="no"/>sammenfassung der meisten Partialtriebe unter dem <hi rendition="#smallcaps">Primat der Genital<lb break="no"/>zonen</hi>. Diese Entwicklung wird in der Regel rasch und unauffällig durch<lb break="no"/>laufen, doch bleiben einzelne Anteile der Triebe auf den Vorstufen des<lb/> Endausganges stehen und ergeben so die <hi rendition="#smallcaps">Fixierungen</hi> der Libido, welche<lb/> als Dispositionen für spätere Durchbrüche verdrängter Strebungen wichtig<lb/> sind und zur Entwicklung von späteren Neurosen und Perversionen in be<lb break="no"/>stimmter Beziehung stehen. (Siehe Libidotheorie.)<lb break="paragraph"/>
+          <fw type="pageNum"> 211</fw>der Geschlechtsunterschied wird hier durch den Gegensatz von
+          aktiv und<lb/> passiv vertreten. Die dritte und endgiltige Organisationsstufe ist die
+            Zu<lb break="no"/>sammenfassung der meisten Partialtriebe unter dem <hi
+            rendition="#smallcaps">Primat der Genital<lb break="no"/>zonen</hi>. Diese Entwicklung
+          wird in der Regel rasch und unauffällig durch<lb break="no"/>laufen, doch bleiben einzelne
+          Anteile der Triebe auf den Vorstufen des<lb/> Endausganges stehen und ergeben so die <hi
+            rendition="#smallcaps">Fixierungen</hi> der Libido, welche<lb/> als Dispositionen für
+          spätere Durchbrüche verdrängter Strebungen wichtig<lb/> sind und zur Entwicklung von
+          späteren Neurosen und Perversionen in be<lb break="no"/>stimmter Beziehung stehen. (Siehe
+            Libidotheorie.)<lb break="paragraph"/>
         </p>
-        <p>DIE OBJEKTFINDUNG UND DER ÖDIPUS-KOMPLEX. Der<lb/> orale Partialtrieb findet zuerst seine Befriedigung in <hi rendition="#smallcaps">Anlehnung</hi> an die<lb/> Sättigung des Nahrungsbedürfnisses und sein Objekt in der Mutterbrust.<lb/> Er löst sich dann ab, wird selbständig und gleichzeitig <hi rendition="#smallcaps">autoerotisch</hi>,<lb/> d. h. er findet sein Objekt am eigenen Körper. Auch andere Partialtriebe<lb/> benehmen sich zuerst autoerotisch und werden erst später auf ein fremdes<lb/> Objekt gelenkt. Von besonderer Bedeutung ist es, daß die Partialtriebe der<lb/> Genitalzone regelmäßig eine Periode intensiver autoerotischer Befriedigung<lb/> durchmachen. Für die endgiltige Genitalorganisation der Libido sind nicht<lb/> alle Partialtriebe gleich verwendbar, einige von ihnen (z. B. die analen)<lb/> werden darum beiseite gelassen, unterdrückt oder unterliegen komplizierten<lb/> Umwandlungen.<lb break="paragraph"/>
+        <p>DIE OBJEKTFINDUNG UND DER ÖDIPUS-KOMPLEX. Der<lb/> orale Partialtrieb findet zuerst seine
+          Befriedigung in <hi rendition="#smallcaps">Anlehnung</hi> an die<lb/> Sättigung des
+          Nahrungsbedürfnisses und sein Objekt in der Mutterbrust.<lb/> Er löst sich dann ab, wird
+          selbständig und gleichzeitig <hi rendition="#smallcaps">autoerotisch</hi>,<lb/> d. h. er
+          findet sein Objekt am eigenen Körper. Auch andere Partialtriebe<lb/> benehmen sich zuerst
+          autoerotisch und werden erst später auf ein fremdes<lb/> Objekt gelenkt. Von besonderer
+          Bedeutung ist es, daß die Partialtriebe der<lb/> Genitalzone regelmäßig eine Periode
+          intensiver autoerotischer Befriedigung<lb/> durchmachen. Für die endgiltige
+          Genitalorganisation der Libido sind nicht<lb/> alle Partialtriebe gleich verwendbar,
+          einige von ihnen (z. B. die analen)<lb/> werden darum beiseite gelassen, unterdrückt oder
+          unterliegen komplizierten<lb/> Umwandlungen.<lb break="paragraph"/>
         </p>
-        <p>Schon in den ersten Kinderjahren (etwa von 2 bis 5 Jahren) stellt sich<lb/> eine Zusammenfassung der Sexualstrebungen her, deren Objekt beim<lb/> Knaben die Mutter ist. Diese Objektwahl nebst der dazugehörigen Ein<lb break="no"/>stellung von Rivalität und Feindseligkeit gegen den Vater ist der Inhalt<lb/> des sogenannten <hi rendition="#smallcaps">Ödipus—Komplexes</hi>, dem bei allen Menschen die größte<lb/> Bedeutung für die Endgestaltung des Liebeslebens zukommt. Man hat es<lb/> als charakteristisch für den Normalen hingestellt, daß er den Ödipus<lb break="no"/>Komplex bewältigen lernt, während der Neurotiker an ihm haften bleibt.<lb break="paragraph"/>
+        <p>Schon in den ersten Kinderjahren (etwa von 2 bis 5 Jahren) stellt sich<lb/> eine
+          Zusammenfassung der Sexualstrebungen her, deren Objekt beim<lb/> Knaben die Mutter ist.
+          Diese Objektwahl nebst der dazugehörigen Ein<lb break="no"/>stellung von Rivalität und
+          Feindseligkeit gegen den Vater ist der Inhalt<lb/> des sogenannten <hi
+            rendition="#smallcaps">Ödipus—Komplexes</hi>, dem bei allen Menschen die größte<lb/>
+          Bedeutung für die Endgestaltung des Liebeslebens zukommt. Man hat es<lb/> als
+          charakteristisch für den Normalen hingestellt, daß er den Ödipus<lb break="no"/>Komplex
+          bewältigen lernt, während der Neurotiker an ihm haften bleibt.<lb break="paragraph"/>
         </p>
-        <p>DER ZWEIZEITIGE ANSATZ DER SEXUALENTWICKLUNG.<lb/> Diese Frühperiode des Sexuallebens findet gegen das fünfte Jahr hin nor<lb break="no"/>malerweise ein Ende und wird von einer Zeit mehr oder minder voll<lb break="no"/>ständiger <hi rendition="#smallcaps">Latenz</hi> abgelöst, während welcher die ethischen Einschränkungen<lb/> als Schutzbildungen gegen die Wunschregungen des Ödipus-Komplexes auf<lb break="no"/>gebaut werden. In der darauffolgenden Zeit der <hi rendition="#smallcaps">Pubertät</hi> erfährt der<lb/> Ödipus-Komplex eine Neubelebung im Unbewußten und geht seinen weiteren<lb/> Umbildungen entgegen. Erst die Pubertätszeit entwickelt die Sexualtriebe<lb break="paragraph"/>
+        <p>DER ZWEIZEITIGE ANSATZ DER SEXUALENTWICKLUNG.<lb/> Diese Frühperiode des Sexuallebens
+          findet gegen das fünfte Jahr hin nor<lb break="no"/>malerweise ein Ende und wird von einer
+          Zeit mehr oder minder voll<lb break="no"/>ständiger <hi rendition="#smallcaps">Latenz</hi>
+          abgelöst, während welcher die ethischen Einschränkungen<lb/> als Schutzbildungen gegen die
+          Wunschregungen des Ödipus-Komplexes auf<lb break="no"/>gebaut werden. In der
+          darauffolgenden Zeit der <hi rendition="#smallcaps">Pubertät</hi> erfährt der<lb/>
+          Ödipus-Komplex eine Neubelebung im Unbewußten und geht seinen weiteren<lb/> Umbildungen
+          entgegen. Erst die Pubertätszeit entwickelt die Sexualtriebe<lb break="paragraph"/>
           <pb n="12" xml:id="page__fd8cd2c9-e699-45d8-a795-963a52ff4aeb"/>
-          <fw type="pageNum">212</fw>zu ihrer vollen Intensität; die Richtung dieser Entwicklung und alle daran<lb/> haftenden Dispositionen sind aber bereits durch die vorher abgelaufene<lb/> infantile Frühblüte der Sexualität bestimmt. Diese zweizeitige, durch die<lb/> Latenzzeit unterbrochene Entwicklung der Sexualfunktion scheint eine<lb/> biologische Besonderheit der menschlichen Art zu sein und die Bedingung<lb/> für die Entstehung der Neurosen zu enthalten.<lb break="paragraph"/>
+          <fw type="pageNum">212</fw>zu ihrer vollen Intensität; die Richtung dieser Entwicklung und
+          alle daran<lb/> haftenden Dispositionen sind aber bereits durch die vorher
+          abgelaufene<lb/> infantile Frühblüte der Sexualität bestimmt. Diese zweizeitige, durch
+          die<lb/> Latenzzeit unterbrochene Entwicklung der Sexualfunktion scheint eine<lb/>
+          biologische Besonderheit der menschlichen Art zu sein und die Bedingung<lb/> für die
+          Entstehung der Neurosen zu enthalten.<lb break="paragraph"/>
         </p>
-        <p>DIE VERDRÄNGUNGSLEHRE. Der Zusammenhalt dieser theore<lb break="no"/>tischen Erkenntnisse mit den unmittelbaren Eindrücken der analytischen<lb/> Arbeit führt zu einer Auffassung der Neurosen, die in ihren rohesten Um<lb break="no"/>rissen etwa so lautet: Die Neurosen sind der Ausdruck von Konflikten<lb/> zwischen dem Ich und solchen Sexualstrebungen, die dem Ich als unver<lb break="no"/>träglich mit seiner Integrität oder seinen ethischen Ansprüchen erscheinen.<lb/> Das Ich hat diese nicht <hi rendition="#smallcaps">ichgerechten</hi> Strebungen <hi rendition="#smallcaps">verdrängt</hi>, d. h. ihnen<lb/> sein Interesse entzogen und sie vom Bewußtwerden wie von der motorischen<lb/> Abfuhr zur Befriedigung abgesperrt. Wenn man in der analytischen<lb/> Arbeit versucht, diese verdrängten Regungen bewußt zu machen, bekommt<lb/> man die <hi rendition="#smallcaps">verdrängenden</hi> Kräfte als <hi rendition="#smallcaps">Widerstand</hi> zu spüren. Aber die<lb/> Leistung der Verdrängung versagt an den Sexualtrieben besonders leicht.<lb/> Deren aufgestaute Libido schafft sich vom Unbewußten her andere Aus<lb break="no"/>wege, indem sie auf frühere Entwicklungsphasen und Objekteinstellungen<lb/>
-          <hi rendition="#smallcaps">regrediert</hi>, und dort, wo sich infantile Fixierungen vorfinden, an den<lb/> schwachen Stellen der Libidoentwicklung zum Bewußtsein und zur Abfuhr<lb/> durchbricht. Was so entsteht, ist ein <hi rendition="#smallcaps">Symptom</hi> und demnach im Grunde<lb/> eine sexuelle Ersatzbefriedigung, aber auch das Symptom kann sich dem<lb/> Einfluß der verdrängenden Kräfte des Ichs noch nicht ganz entziehen, so<lb/> daß es sich Abänderungen und Verschiebungen gefallen lassen muß, —<lb/> ganz ähnlich wie der Traum — durch welche sein Charakter als Sexual<lb break="no"/>befriedigung unkenntlich wird. Das Symptom erhält so den Charakter einer<lb/>
-          <hi rendition="#smallcaps">Kompromißbildung</hi> zwischen den verdrängten Sexualtrieben und den ver<lb break="no"/>drängenden Ichtrieben, einer gleichzeitigen aber beiderseits unvollkommenen<lb/> Wunscherfüllung für beide Partner des Konflikts. Dies gilt in voller Strenge<lb/> für die Symptome der Hysterie, während an den Symptomen der Zwangs<lb break="no"/>neurose häufig der Anteil der verdrängenden Instanz durch Herstellung<lb/> von Reaktionsbildungen (Sicherungen gegen die Sexualbefriedigung) zu<lb/> stärkerem Ausdruck kommt.<lb break="paragraph"/>
+        <p>DIE VERDRÄNGUNGSLEHRE. Der Zusammenhalt dieser theore<lb break="no"/>tischen Erkenntnisse
+          mit den unmittelbaren Eindrücken der analytischen<lb/> Arbeit führt zu einer Auffassung
+          der Neurosen, die in ihren rohesten Um<lb break="no"/>rissen etwa so lautet: Die Neurosen
+          sind der Ausdruck von Konflikten<lb/> zwischen dem Ich und solchen Sexualstrebungen, die
+          dem Ich als unver<lb break="no"/>träglich mit seiner Integrität oder seinen ethischen
+          Ansprüchen erscheinen.<lb/> Das Ich hat diese nicht <hi rendition="#smallcaps"
+            >ichgerechten</hi> Strebungen <hi rendition="#smallcaps">verdrängt</hi>, d. h.
+          ihnen<lb/> sein Interesse entzogen und sie vom Bewußtwerden wie von der motorischen<lb/>
+          Abfuhr zur Befriedigung abgesperrt. Wenn man in der analytischen<lb/> Arbeit versucht,
+          diese verdrängten Regungen bewußt zu machen, bekommt<lb/> man die <hi
+            rendition="#smallcaps">verdrängenden</hi> Kräfte als <hi rendition="#smallcaps"
+            >Widerstand</hi> zu spüren. Aber die<lb/> Leistung der Verdrängung versagt an den
+          Sexualtrieben besonders leicht.<lb/> Deren aufgestaute Libido schafft sich vom Unbewußten
+          her andere Aus<lb break="no"/>wege, indem sie auf frühere Entwicklungsphasen und Objekteinstellungen<lb/>
+          <hi rendition="#smallcaps">regrediert</hi>, und dort, wo sich infantile Fixierungen
+          vorfinden, an den<lb/> schwachen Stellen der Libidoentwicklung zum Bewußtsein und zur
+          Abfuhr<lb/> durchbricht. Was so entsteht, ist ein <hi rendition="#smallcaps">Symptom</hi>
+          und demnach im Grunde<lb/> eine sexuelle Ersatzbefriedigung, aber auch das Symptom kann
+          sich dem<lb/> Einfluß der verdrängenden Kräfte des Ichs noch nicht ganz entziehen, so<lb/>
+          daß es sich Abänderungen und Verschiebungen gefallen lassen muß, —<lb/> ganz ähnlich wie
+          der Traum — durch welche sein Charakter als Sexual<lb break="no"/>befriedigung unkenntlich
+          wird. Das Symptom erhält so den Charakter einer<lb/>
+          <hi rendition="#smallcaps">Kompromißbildung</hi> zwischen den verdrängten Sexualtrieben
+          und den ver<lb break="no"/>drängenden Ichtrieben, einer gleichzeitigen aber beiderseits
+          unvollkommenen<lb/> Wunscherfüllung für beide Partner des Konflikts. Dies gilt in voller
+          Strenge<lb/> für die Symptome der Hysterie, während an den Symptomen der Zwangs<lb
+            break="no"/>neurose häufig der Anteil der verdrängenden Instanz durch Herstellung<lb/>
+          von Reaktionsbildungen (Sicherungen gegen die Sexualbefriedigung) zu<lb/> stärkerem
+          Ausdruck kommt.<lb break="paragraph"/>
         </p>
-        <p>DIE ÜBERTRAGUNG. Wenn es noch eines weiteren Beweises für<lb/> den Satz bedürfte, daß die Triebkräfte der neurotischen Symptombildung<lb break="paragraph"/>
+        <p>DIE ÜBERTRAGUNG. Wenn es noch eines weiteren Beweises für<lb/> den Satz bedürfte, daß die
+          Triebkräfte der neurotischen Symptombildung<lb break="paragraph"/>
           <pb n="13" xml:id="page__5a2074cf-e44b-4670-ace3-5cc906125735"/>
-          <fw type="pageNum">213</fw>sexueller Natur sind, so würde er in der Tatsache gefunden werden, daß<lb/> sich regelmäßig während der analytischen Behandlung eine besondere Ge<lb break="no"/>fühlsbeziehung des Patienten zum Arzt herstellt, welche Weit über das<lb/> rationelle Maß hinausgeht, von der zärtlichsten Hingebung bis zur hart<lb break="no"/>näckigsten Feindseligkeit variiert, und alle ihre Eigentümlichkeiten früheren,<lb/> unbewußt gewordenen Liebeseinstellungen des Patienten entlehnt. Diese<lb/>
-          <hi rendition="#smallcaps">Übertragung</hi>, welche sowohl in ihrer positiven wie in ihrer negativen<lb/> Form in den Dienst des<hi rendition="#smallcaps"> Widerstandes tritt</hi>, wird in den Händen des<lb/> Arztes zum mächtigsten Hilfsmittel der Behandlung und spielt in der<lb/> Dynamik des Heilungsvorganges eine kaum zu überschätzende Rolle.<lb break="paragraph"/>
+          <fw type="pageNum">213</fw>sexueller Natur sind, so würde er in der Tatsache gefunden
+          werden, daß<lb/> sich regelmäßig während der analytischen Behandlung eine besondere Ge<lb
+            break="no"/>fühlsbeziehung des Patienten zum Arzt herstellt, welche Weit über das<lb/>
+          rationelle Maß hinausgeht, von der zärtlichsten Hingebung bis zur hart<lb break="no"
+          />näckigsten Feindseligkeit variiert, und alle ihre Eigentümlichkeiten früheren,<lb/>
+          unbewußt gewordenen Liebeseinstellungen des Patienten entlehnt. Diese<lb/>
+          <hi rendition="#smallcaps">Übertragung</hi>, welche sowohl in ihrer positiven wie in ihrer
+          negativen<lb/> Form in den Dienst des<hi rendition="#smallcaps"> Widerstandes tritt</hi>,
+          wird in den Händen des<lb/> Arztes zum mächtigsten Hilfsmittel der Behandlung und spielt
+          in der<lb/> Dynamik des Heilungsvorganges eine kaum zu überschätzende Rolle.<lb
+            break="paragraph"/>
         </p>
-        <p>DIE GRUNDPFEILER DER PSYCHOANALYTISCHEN THEORIE.<lb/> Die Annahme unbewußter seelischer Vorgänge, die Anerkennung der Lehre<lb/> vom Widerstand und der Verdrängung, die Einschätzung der Sexualität und<lb/> des Ödipus-Komplexes sind die Hauptinhalte der Psychoanalyse und die<lb/> Grundlagen ihrer Theorie, und wer sie nicht alle gutzuheißen vermag,<lb/> sollte sich nicht zu den Psychoanalytikern zählen.<lb break="paragraph"/>
+        <p>DIE GRUNDPFEILER DER PSYCHOANALYTISCHEN THEORIE.<lb/> Die Annahme unbewußter seelischer
+          Vorgänge, die Anerkennung der Lehre<lb/> vom Widerstand und der Verdrängung, die
+          Einschätzung der Sexualität und<lb/> des Ödipus-Komplexes sind die Hauptinhalte der
+          Psychoanalyse und die<lb/> Grundlagen ihrer Theorie, und wer sie nicht alle gutzuheißen
+          vermag,<lb/> sollte sich nicht zu den Psychoanalytikern zählen.<lb break="paragraph"/>
         </p>
-        <p>WEITERE SCHICKSALE DER PSYCHOANALYSE. Etwa so weit<lb/> als im Vorstehenden angedeutet, war die Psychoanalyse durch die Arbeit<lb/> des Referenten vorgeschritten, der sie durch länger als ein Jahrzehnt allein<lb/> vertrat. Im Jahre 1906 begannen die Schweizer Psychiater E. Bleuler und<lb/> C. G. Jung lebhaften Anteil an der Analyse zu nehmen, 1907 fand in<lb/> Salzburg eine erste Zusammenkunft ihrer Anhänger statt, und bald sah<lb/> sich die junge Wissenschaft im Mittelpunkt des Interesses der Psychiater<lb/> wie der Laien. Die Art der Aufnahme in dem autoritätssüchtigen Deutsch<lb break="no"/>land war gerade nicht rühmlich für die deutsche Wissenschaft und forderte<lb/> selbst einen so kühlen Parteigänger wie E. Bleuler zu einer energischen<lb/> Abwehr heraus. Doch vermochten alle offiziellen Verurteilungen und Er<lb break="no"/>ledigungen auf Kongressen das innere Wachstum und die äußere Aus<lb break="no"/>breitung der Psychoanalyse nicht aufzuhalten, welche nun im Laufe der<lb/> nächsten zehn Jahre weit über die Grenzen Europas vordrang und be<lb break="no"/>sonders in den Vereinigten Staaten Amerikas populär wurde, nicht zum<lb/> mindesten dank der Förderung oder Mitarbeiterschaft von J. Putnam<lb/> (Boston), Ernest Jones (Toronto, später London), Flournoy (Genf), Ferenczi<lb/> (Budapest), Abraham (Berlin) und vieler anderer. Das über die Psycho<lb break="no"/>analyse verhängte Anathem veranlaßte ihre Anhänger sich zu einer inter<lb break="no"/>nationalen Organisation zusammenzuschließen, welche in diesem Jahre<lb/> (1922) ihren achten Privatkongreß in Berlin abhält und gegenwärtig die<lb break="paragraph"/>
+        <p>WEITERE SCHICKSALE DER PSYCHOANALYSE. Etwa so weit<lb/> als im Vorstehenden angedeutet,
+          war die Psychoanalyse durch die Arbeit<lb/> des Referenten vorgeschritten, der sie durch
+          länger als ein Jahrzehnt allein<lb/> vertrat. Im Jahre 1906 begannen die Schweizer
+          Psychiater E. Bleuler und<lb/> C. G. Jung lebhaften Anteil an der Analyse zu nehmen, 1907
+          fand in<lb/> Salzburg eine erste Zusammenkunft ihrer Anhänger statt, und bald sah<lb/>
+          sich die junge Wissenschaft im Mittelpunkt des Interesses der Psychiater<lb/> wie der
+          Laien. Die Art der Aufnahme in dem autoritätssüchtigen Deutsch<lb break="no"/>land war
+          gerade nicht rühmlich für die deutsche Wissenschaft und forderte<lb/> selbst einen so
+          kühlen Parteigänger wie E. Bleuler zu einer energischen<lb/> Abwehr heraus. Doch
+          vermochten alle offiziellen Verurteilungen und Er<lb break="no"/>ledigungen auf Kongressen
+          das innere Wachstum und die äußere Aus<lb break="no"/>breitung der Psychoanalyse nicht
+          aufzuhalten, welche nun im Laufe der<lb/> nächsten zehn Jahre weit über die Grenzen
+          Europas vordrang und be<lb break="no"/>sonders in den Vereinigten Staaten Amerikas populär
+          wurde, nicht zum<lb/> mindesten dank der Förderung oder Mitarbeiterschaft von J.
+          Putnam<lb/> (Boston), Ernest Jones (Toronto, später London), Flournoy (Genf),
+          Ferenczi<lb/> (Budapest), Abraham (Berlin) und vieler anderer. Das über die Psycho<lb
+            break="no"/>analyse verhängte Anathem veranlaßte ihre Anhänger sich zu einer inter<lb
+            break="no"/>nationalen Organisation zusammenzuschließen, welche in diesem Jahre<lb/>
+          (1922) ihren achten Privatkongreß in Berlin abhält und gegenwärtig die<lb
+            break="paragraph"/>
           <pb n="14" xml:id="page__d4f69555-8187-46bf-8d51-79501011e193"/>
-          <fw type="pageNum">214</fw>Ortsgruppen: Wien, Budapest, Berlin, Holland, Zürich, London, New York,<lb/> Kalkutta und Moskau umfaßt. Auch der Weltkrieg unterbrach diese Ent<lb break="no"/>wicklung nicht. 1918/19 wurde von Dr. Anton v. Freund (Budapest) der<lb/>
-          <hi rendition="#smallcaps">Internationale Psychoanalytische Verlag</hi> gegründet, der die der<lb/> Psychoanalyse dienenden Zeitschriften und Bücher publiziert, 1920 wurde<lb/> von Dr. M. Eitingon die erste „Psychoanalytische Poliklinik“ zur Behand<lb break="no"/>lung mittelloser Nervöser in Berlin eröffnet. Übersetzungen der Hauptwerke<lb/> des Referenten ins Französische, Italienische und Spanische, die eben jetzt<lb/> vorbereitet werden, bezeugen das Erwachen des Interesses für die Psycho<lb break="no"/>analyse auch in der romanischen Welt. In den Jahren 1911 bis 1913<lb/> zweigten von der Psychoanalyse zwei Richtungen ab, welche offenbar be<lb break="no"/>strebt waren, die Anstößigkeiten derselben zu mildern. Die eine, von<lb/> C. G. Jung eingeschlagene, suchte ethischen Ansprüchen gerecht zu werden,<lb/> entkleidete den Ödipus-Komplex seiner realen Bedeutung durch symboli<lb break="no"/>sierende Umwertung und vernachlässigte in der Praxis die Aufdeckung der<lb/> vergessenen, „prähistorisch“ zu nennenden Kindheitsperiode. Die andere,<lb/> die Alf. Adler in Wien zum Urheber hat, brachte manche Momente der<lb/> Psychoanalyse unter anderem Namen wieder, z. B. die Verdrängung in<lb/> sexualisierter Auffassung als „männlichen Protest“, sah aber sonst vom Un<lb break="no"/>bewußten und von den Sexualtrieben ab und versuchte Charakter- wie<lb/> Neurosenentwicklung auf den Willen zur Macht zurückzuführen, der die<lb/> aus Organminderwertigkeiten drohenden Gefahren durch Überkompensation<lb/> hintanzuhalten strebt. Beide systemartig ausgebauten Richtungen haben die<lb/> Entwicklung der Psychoanalyse nicht nachhaltig beeinflußt; von der Adler<lb break="no"/>schen ist bald klar geworden, daß sie mit der Psychoanalyse, die sie er<lb break="no"/>setzen wollte, zu wenig gemein hat.<lb break="paragraph"/>
+          <fw type="pageNum">214</fw>Ortsgruppen: Wien, Budapest, Berlin, Holland, Zürich, London,
+          New York,<lb/> Kalkutta und Moskau umfaßt. Auch der Weltkrieg unterbrach diese Ent<lb
+            break="no"/>wicklung nicht. 1918/19 wurde von Dr. Anton v. Freund (Budapest) der<lb/>
+          <hi rendition="#smallcaps">Internationale Psychoanalytische Verlag</hi> gegründet, der die
+          der<lb/> Psychoanalyse dienenden Zeitschriften und Bücher publiziert, 1920 wurde<lb/> von
+          Dr. M. Eitingon die erste „Psychoanalytische Poliklinik“ zur Behand<lb break="no"/>lung
+          mittelloser Nervöser in Berlin eröffnet. Übersetzungen der Hauptwerke<lb/> des Referenten
+          ins Französische, Italienische und Spanische, die eben jetzt<lb/> vorbereitet werden,
+          bezeugen das Erwachen des Interesses für die Psycho<lb break="no"/>analyse auch in der
+          romanischen Welt. In den Jahren 1911 bis 1913<lb/> zweigten von der Psychoanalyse zwei
+          Richtungen ab, welche offenbar be<lb break="no"/>strebt waren, die Anstößigkeiten
+          derselben zu mildern. Die eine, von<lb/> C. G. Jung eingeschlagene, suchte ethischen
+          Ansprüchen gerecht zu werden,<lb/> entkleidete den Ödipus-Komplex seiner realen Bedeutung
+          durch symboli<lb break="no"/>sierende Umwertung und vernachlässigte in der Praxis die
+          Aufdeckung der<lb/> vergessenen, „prähistorisch“ zu nennenden Kindheitsperiode. Die
+          andere,<lb/> die Alf. Adler in Wien zum Urheber hat, brachte manche Momente der<lb/>
+          Psychoanalyse unter anderem Namen wieder, z. B. die Verdrängung in<lb/> sexualisierter
+          Auffassung als „männlichen Protest“, sah aber sonst vom Un<lb break="no"/>bewußten und von
+          den Sexualtrieben ab und versuchte Charakter- wie<lb/> Neurosenentwicklung auf den Willen
+          zur Macht zurückzuführen, der die<lb/> aus Organminderwertigkeiten drohenden Gefahren
+          durch Überkompensation<lb/> hintanzuhalten strebt. Beide systemartig ausgebauten
+          Richtungen haben die<lb/> Entwicklung der Psychoanalyse nicht nachhaltig beeinflußt; von
+          der Adler<lb break="no"/>schen ist bald klar geworden, daß sie mit der Psychoanalyse, die
+          sie er<lb break="no"/>setzen wollte, zu wenig gemein hat.<lb break="paragraph"/>
         </p>
-        <p>NEUERE FORTSCHRITTE DER PSYCHOANALYSE. Seitdem die<lb/> Psychoanalyse Arbeitsgebiet einer so großen Zahl von Beobachtern geworden<lb/> ist, hat sie Bereicherungen und Vertiefungen gewonnen, denen in diesem<lb/> Aufsatz leider nur die knappste Erwähnung zuteil werden kann.<lb break="paragraph"/>
+        <p>NEUERE FORTSCHRITTE DER PSYCHOANALYSE. Seitdem die<lb/> Psychoanalyse Arbeitsgebiet einer
+          so großen Zahl von Beobachtern geworden<lb/> ist, hat sie Bereicherungen und Vertiefungen
+          gewonnen, denen in diesem<lb/> Aufsatz leider nur die knappste Erwähnung zuteil werden
+            kann.<lb break="paragraph"/>
         </p>
-        <p>DER NARZISSMUS. Ihr wichtigster theoretischer Fortschritt war wohl<lb/> die Anwendung der Libidolehre auf das verdrängende Ich. Man kam dazu,<lb/> sich das Ich selbst als ein Reservoir von — narzißtisch genannter —<lb/> Libido vorzustellen, aus welchem die Libidobesetzungen der Objekte er<lb break="no"/>fließen und in welches diese wieder eingezogen werden können. Mit Hilfe<lb/> dieser Vorstellung wurde es möglich, an die Analyse des Ichs heranzutreten<lb/> und die klinische Scheidung der Psychoneurosen in <hi rendition="#smallcaps">Übertragungs-</hi>
+        <p>DER NARZISSMUS. Ihr wichtigster theoretischer Fortschritt war wohl<lb/> die Anwendung der
+          Libidolehre auf das verdrängende Ich. Man kam dazu,<lb/> sich das Ich selbst als ein
+          Reservoir von — narzißtisch genannter —<lb/> Libido vorzustellen, aus welchem die
+          Libidobesetzungen der Objekte er<lb break="no"/>fließen und in welches diese wieder
+          eingezogen werden können. Mit Hilfe<lb/> dieser Vorstellung wurde es möglich, an die
+          Analyse des Ichs heranzutreten<lb/> und die klinische Scheidung der Psychoneurosen in <hi
+            rendition="#smallcaps">Übertragungs-</hi>
           <lb break="paragraph"/>
           <pb n="15" xml:id="page__3c385666-504d-4a9c-8891-a5470850923f"/>
           <fw type="pageNum">215</fw>
-          <hi rendition="#smallcaps">neurosen</hi> und <hi rendition="#smallcaps">narzißtische</hi> Affektionen vorzunehmen. Bei den ersteren<lb/> (Hysterie und Zwangsneurose) ist ein nach Übertragung auf fremde Objekte<lb/> strebendes Maß von Libido verfügbar, welches zur Durchführung der<lb/> analytischen Behandlung in Anspruch genommen wird; die narzißtischen<lb/> Störungen (Dementia praecox, Paranoia, Melancholie) sind im Gegenteil<lb/> durch die Abziehung der Libido von den Objekten charakterisiert und<lb/> darum der analytischen Therapie kaum zugänglich. Diese therapeutische<lb/> Unzulänglichkeit hat aber die Analyse nicht behindert, die reichhaltigsten<lb/> Ansätze zum tieferen Verständnis dieser den Psychosen zugerechneten Leiden<lb/> zu machen.<lb break="paragraph"/>
+          <hi rendition="#smallcaps">neurosen</hi> und <hi rendition="#smallcaps">narzißtische</hi>
+          Affektionen vorzunehmen. Bei den ersteren<lb/> (Hysterie und Zwangsneurose) ist ein nach
+          Übertragung auf fremde Objekte<lb/> strebendes Maß von Libido verfügbar, welches zur
+          Durchführung der<lb/> analytischen Behandlung in Anspruch genommen wird; die
+          narzißtischen<lb/> Störungen (Dementia praecox, Paranoia, Melancholie) sind im
+          Gegenteil<lb/> durch die Abziehung der Libido von den Objekten charakterisiert und<lb/>
+          darum der analytischen Therapie kaum zugänglich. Diese therapeutische<lb/>
+          Unzulänglichkeit hat aber die Analyse nicht behindert, die reichhaltigsten<lb/> Ansätze
+          zum tieferen Verständnis dieser den Psychosen zugerechneten Leiden<lb/> zu machen.<lb
+            break="paragraph"/>
         </p>
-        <p>WENDUNG DER TECHNIK. Nachdem die Ausbildung der Deutungs<lb break="no"/>technik sozusagen die Wißbegierde des Analytikers befriedigt hatte, mußte<lb/> sich das Interesse dem Problem zuwenden, auf welchen Wegen die zweck<lb break="no"/>dienlichste Beeinflussung des Patienten zu erreichen sei. Es ergab sich<lb/> bald als die nächste Aufgabe des Arztes, dem Patienten zur Kenntnis und<lb/> später zur Überwindung der <hi rendition="#smallcaps">Widerstände</hi> zu verhelfen, die während der<lb/> Behandlung bei ihm auftreten und die ihm anfänglich selbst nicht bewußt<lb/> sind. Auch erkannte man gleichzeitig, daß das wesentliche Stück der<lb/> Heilungsarbeit in der Überwindung dieser Widerstände besteht, und daß<lb/> ohne diese Leistung eine dauerhafte seelische Veränderung des Patienten<lb/> nicht erzielt werden kann. Seitdem sich die Arbeit des Analytikers so auf<lb/> den Widerstand des Kranken einstellt, hat die analytische Technik eine<lb/> Bestimmtheit und Feinheit gewonnen, die mit der chirurgischen Technik<lb/> wetteifert. Es ist also dringend davon abzuraten, daß man ohne strenge<lb/> Schulung psychoanalytische Behandlungen unternimmt, und der Arzt, der<lb/> solches im Vertrauen auf sein staatlich anerkanntes Diplom wagt, ist um<lb/> nichts besser als ein Laie.<lb break="paragraph"/>
+        <p>WENDUNG DER TECHNIK. Nachdem die Ausbildung der Deutungs<lb break="no"/>technik sozusagen
+          die Wißbegierde des Analytikers befriedigt hatte, mußte<lb/> sich das Interesse dem
+          Problem zuwenden, auf welchen Wegen die zweck<lb break="no"/>dienlichste Beeinflussung des
+          Patienten zu erreichen sei. Es ergab sich<lb/> bald als die nächste Aufgabe des Arztes,
+          dem Patienten zur Kenntnis und<lb/> später zur Überwindung der <hi rendition="#smallcaps"
+            >Widerstände</hi> zu verhelfen, die während der<lb/> Behandlung bei ihm auftreten und
+          die ihm anfänglich selbst nicht bewußt<lb/> sind. Auch erkannte man gleichzeitig, daß das
+          wesentliche Stück der<lb/> Heilungsarbeit in der Überwindung dieser Widerstände besteht,
+          und daß<lb/> ohne diese Leistung eine dauerhafte seelische Veränderung des Patienten<lb/>
+          nicht erzielt werden kann. Seitdem sich die Arbeit des Analytikers so auf<lb/> den
+          Widerstand des Kranken einstellt, hat die analytische Technik eine<lb/> Bestimmtheit und
+          Feinheit gewonnen, die mit der chirurgischen Technik<lb/> wetteifert. Es ist also dringend
+          davon abzuraten, daß man ohne strenge<lb/> Schulung psychoanalytische Behandlungen
+          unternimmt, und der Arzt, der<lb/> solches im Vertrauen auf sein staatlich anerkanntes
+          Diplom wagt, ist um<lb/> nichts besser als ein Laie.<lb break="paragraph"/>
         </p>
-        <p>DIE PSYCHOANALYSE ALS THERAPEUTISCHE METHODE.<lb/> Die Psychoanalyse hat sich nie für eine Panazee ausgegeben oder bean<lb break="no"/>sprucht Wunder zu tun. Auf einem der schwierigsten Gebiete ärztlicher<lb/> Tätigkeit ist sie für einzelne Leiden die einzig mögliche, für andere die<lb/> Methode, welche die besten oder dauerhaftesten Resultate liefert, niemals<lb/> ohne entsprechenden Aufwand an Zeit und Arbeit. Dem Arzt, welcher<lb/> nicht ganz in der Aufgabe der Hilfeleistung aufgeht, lohnt sie die Mühe<lb/> reichlich durch ungeahnte Einsichten in die Verwicklungen des seelischen<lb/> Lebens und die Zusammenhänge zwischen Seelischem und Leiblichem.<lb/> Wo sie gegenwärtig nicht Abhilfe, sondern nur theoretisches Verständnis<lb break="paragraph"/>
+        <p>DIE PSYCHOANALYSE ALS THERAPEUTISCHE METHODE.<lb/> Die Psychoanalyse hat sich nie für
+          eine Panazee ausgegeben oder bean<lb break="no"/>sprucht Wunder zu tun. Auf einem der
+          schwierigsten Gebiete ärztlicher<lb/> Tätigkeit ist sie für einzelne Leiden die einzig
+          mögliche, für andere die<lb/> Methode, welche die besten oder dauerhaftesten Resultate
+          liefert, niemals<lb/> ohne entsprechenden Aufwand an Zeit und Arbeit. Dem Arzt,
+          welcher<lb/> nicht ganz in der Aufgabe der Hilfeleistung aufgeht, lohnt sie die Mühe<lb/>
+          reichlich durch ungeahnte Einsichten in die Verwicklungen des seelischen<lb/> Lebens und
+          die Zusammenhänge zwischen Seelischem und Leiblichem.<lb/> Wo sie gegenwärtig nicht
+          Abhilfe, sondern nur theoretisches Verständnis<lb break="paragraph"/>
           <pb n="16" xml:id="page__c0be05d9-85fc-43e1-80b4-b506faef8e32"/>
-          <fw type="pageNum">216</fw>bieten kann, bahnt sie vielleicht den Weg für eine spätere direktem Be<lb break="no"/>einflussung der neurotischen Störungen. Ihr Arbeitsgebiet sind vor allem<lb/> die beiden Übertragungsneurosen, Hysterie und Zwangsneurose, bei denen<lb/> sie zur Aufdeckung der inneren Struktur und der wirksamen Mechanismen<lb/> beigetragen hat, außerdem aber alle Arten von Phobien, Hemmungen,<lb/> Charakterverbildungen, sexuelle Perversionen und Schwierigkeiten des<lb/> Liebeslebens. Nach Angaben einiger Analytiker ist auch die analytische<lb/> Behandlung grober Organerkrankungen nicht aussichtslos (Jelliffe, Groddeck,<lb/> Felix Deutsch), da nicht selten ein psychischer Faktor an der Entstehung<lb/> und Erhaltung dieser Affektionen mit beteiligt ist. Da die Psychoanalyse<lb/> ein Maß von psychischer Plastizität bei ihren Patienten in Anspruch nimmt,<lb/> muß sie sich bei deren Auswahl an gewisse Altersgrenzen halten, und da<lb/> sie eine lange und intensive Beschäftigung mit dem einzelnen Kranken<lb/> bedingt, wäre es unökonomisch, solchen Aufwand an völlig wertlose In<lb break="no"/>dividuen, die nebenbei auch neurotisch sind, zu vergeuden. Welche Modi<lb break="no"/>fikationen erforderlich sind, um das psychoanalytische Heilverfahren breiteren<lb/> Volksschichten zugänglich zu machen und schwächeren lntelligenzen an<lb break="no"/>zupassen, muß erst die Erfahrung an poliklinischem Material lehren.<lb break="paragraph"/>
+          <fw type="pageNum">216</fw>bieten kann, bahnt sie vielleicht den Weg für eine spätere
+          direktem Be<lb break="no"/>einflussung der neurotischen Störungen. Ihr Arbeitsgebiet sind
+          vor allem<lb/> die beiden Übertragungsneurosen, Hysterie und Zwangsneurose, bei denen<lb/>
+          sie zur Aufdeckung der inneren Struktur und der wirksamen Mechanismen<lb/> beigetragen
+          hat, außerdem aber alle Arten von Phobien, Hemmungen,<lb/> Charakterverbildungen, sexuelle
+          Perversionen und Schwierigkeiten des<lb/> Liebeslebens. Nach Angaben einiger Analytiker
+          ist auch die analytische<lb/> Behandlung grober Organerkrankungen nicht aussichtslos
+          (Jelliffe, Groddeck,<lb/> Felix Deutsch), da nicht selten ein psychischer Faktor an der
+          Entstehung<lb/> und Erhaltung dieser Affektionen mit beteiligt ist. Da die
+          Psychoanalyse<lb/> ein Maß von psychischer Plastizität bei ihren Patienten in Anspruch
+          nimmt,<lb/> muß sie sich bei deren Auswahl an gewisse Altersgrenzen halten, und da<lb/>
+          sie eine lange und intensive Beschäftigung mit dem einzelnen Kranken<lb/> bedingt, wäre es
+          unökonomisch, solchen Aufwand an völlig wertlose In<lb break="no"/>dividuen, die nebenbei
+          auch neurotisch sind, zu vergeuden. Welche Modi<lb break="no"/>fikationen erforderlich
+          sind, um das psychoanalytische Heilverfahren breiteren<lb/> Volksschichten zugänglich zu
+          machen und schwächeren lntelligenzen an<lb break="no"/>zupassen, muß erst die Erfahrung an
+          poliklinischem Material lehren.<lb break="paragraph"/>
         </p>
-        <p>IHR VERGLEICH MIT HYPNOTISCHEN UND SUGGESTIVEN<lb/> METHODEN. Das psychoanalytische Verfahren unterscheidet sich von allen<lb/> suggestiven, persuasiven u. dgl. darin, daß es kein seelisches Phänomen beim<lb/> Patienten durch Autorität unterdrücken will. Es sucht die Verursachung<lb/> des Phänomens zu ergründen und es durch dauernde Veränderung seiner<lb/> Entstehungsbedingungen aufzuheben. Den unvermeidlichen suggestiven Ein<lb break="no"/>fluß des Arztes lenkt man in der Psychoanalyse auf die dem Kranken zu<lb break="no"/>geteilte Aufgabe, seine Widerstände zu überwinden, d. h. die Heilungsarbeit<lb/> zu leisten. Gegen die Gefahr, die Erinnerungsangaben des Kranken suggestiv<lb/> zu verfälschen, schützt man sich durch vorsichtige Handhabung der Technik.<lb/> Im allgemeinen ist man aber gerade durch die Erweckung der Widerstände<lb/> gegen irreführende Wirkungen des suggestiven Einflusses geschützt. Als das<lb/> Ziel der Behandlung kann hingestellt werden, durch die Aufhebung der<lb/> Widerstände und Nachprüfung der Verdrängungen des Kranken die weit<lb break="no"/>gehendste Vereinheitlichung und Stärkung seines Ichs herbeizuführen, ihm<lb/> den psychischen Aufwand für innere Konflikte zu ersparen, das beste aus<lb/> ihm zu gestalten, was er nach Anlagen und Fähigkeiten werden kann, und<lb/> ihn so nach Möglichkeit leistungs- und genußfähig zu machen. Die Be<lb break="no"/>seitigung der Leidenssymptome wird nicht als besonderes Ziel angestrebt,<lb break="paragraph"/>
+        <p>IHR VERGLEICH MIT HYPNOTISCHEN UND SUGGESTIVEN<lb/> METHODEN. Das psychoanalytische
+          Verfahren unterscheidet sich von allen<lb/> suggestiven, persuasiven u. dgl. darin, daß es
+          kein seelisches Phänomen beim<lb/> Patienten durch Autorität unterdrücken will. Es sucht
+          die Verursachung<lb/> des Phänomens zu ergründen und es durch dauernde Veränderung
+          seiner<lb/> Entstehungsbedingungen aufzuheben. Den unvermeidlichen suggestiven Ein<lb
+            break="no"/>fluß des Arztes lenkt man in der Psychoanalyse auf die dem Kranken zu<lb
+            break="no"/>geteilte Aufgabe, seine Widerstände zu überwinden, d. h. die
+          Heilungsarbeit<lb/> zu leisten. Gegen die Gefahr, die Erinnerungsangaben des Kranken
+          suggestiv<lb/> zu verfälschen, schützt man sich durch vorsichtige Handhabung der
+          Technik.<lb/> Im allgemeinen ist man aber gerade durch die Erweckung der Widerstände<lb/>
+          gegen irreführende Wirkungen des suggestiven Einflusses geschützt. Als das<lb/> Ziel der
+          Behandlung kann hingestellt werden, durch die Aufhebung der<lb/> Widerstände und
+          Nachprüfung der Verdrängungen des Kranken die weit<lb break="no"/>gehendste
+          Vereinheitlichung und Stärkung seines Ichs herbeizuführen, ihm<lb/> den psychischen
+          Aufwand für innere Konflikte zu ersparen, das beste aus<lb/> ihm zu gestalten, was er nach
+          Anlagen und Fähigkeiten werden kann, und<lb/> ihn so nach Möglichkeit leistungs- und
+          genußfähig zu machen. Die Be<lb break="no"/>seitigung der Leidenssymptome wird nicht als
+          besonderes Ziel angestrebt,<lb break="paragraph"/>
           <pb n="17" xml:id="page__57c9f95c-cef8-4d6c-a811-b3b3d1a39499"/>
-          <fw type="pageNum">217</fw>sondern ergibt sich bei regelrechter Ausführung der Analyse gleichsam als<lb/> Nebengewinn. Der Analytiker respektiert die Eigenart des Patienten, sucht<lb/> ihn nicht nach seinen — des Arztes — persönlichen Idealen umzumodeln<lb/> und freut sich, wenn er sich Ratschläge ersparen und dafür die Initiative<lb/> des Analysierten wecken kann.<lb break="paragraph"/>
+          <fw type="pageNum">217</fw>sondern ergibt sich bei regelrechter Ausführung der Analyse
+          gleichsam als<lb/> Nebengewinn. Der Analytiker respektiert die Eigenart des Patienten,
+          sucht<lb/> ihn nicht nach seinen — des Arztes — persönlichen Idealen umzumodeln<lb/> und
+          freut sich, wenn er sich Ratschläge ersparen und dafür die Initiative<lb/> des
+          Analysierten wecken kann.<lb break="paragraph"/>
         </p>
-        <p>IHR VERHÄLTNIS ZUR PSYCHIATRIE. Die Psychiatrie ist gegen<lb break="no"/>wärtig eine wesentlich deskriptive und klassifizierende Wissenschaft, welche<lb/> immer noch mehr somatisch als psychologisch orientiert ist, und der es<lb/> an Erklärungsmöglichkeiten für die beobachteten Phänomene fehlt. Die<lb/> Psychoanalyse steht aber nicht im Gegensatz zu ihr, wie man nach dem<lb/> nahezu einmütigen Verhalten der Psychiater glauben sollte. Sie ist vielmehr<lb/> als <hi rendition="#smallcaps">Tiefenpsychologie</hi>, Psychologie der dem Bewußtsein entzogenen Vor<lb break="no"/>gänge im Seelenleben, dazu berufen, ihr den unerläßlichen Unterbau zu<lb/> liefern und ihren heutigen Einschränkungen abzuhelfen. Die Zukunft wird<lb/> voraussichtlich eine wissenschaftliche Psychiatrie erschaffen, welcher die<lb/> Psychoanalyse als Einführung gedient hat.<lb break="paragraph"/>
+        <p>IHR VERHÄLTNIS ZUR PSYCHIATRIE. Die Psychiatrie ist gegen<lb break="no"/>wärtig eine
+          wesentlich deskriptive und klassifizierende Wissenschaft, welche<lb/> immer noch mehr
+          somatisch als psychologisch orientiert ist, und der es<lb/> an Erklärungsmöglichkeiten für
+          die beobachteten Phänomene fehlt. Die<lb/> Psychoanalyse steht aber nicht im Gegensatz zu
+          ihr, wie man nach dem<lb/> nahezu einmütigen Verhalten der Psychiater glauben sollte. Sie
+          ist vielmehr<lb/> als <hi rendition="#smallcaps">Tiefenpsychologie</hi>, Psychologie der
+          dem Bewußtsein entzogenen Vor<lb break="no"/>gänge im Seelenleben, dazu berufen, ihr den
+          unerläßlichen Unterbau zu<lb/> liefern und ihren heutigen Einschränkungen abzuhelfen. Die
+          Zukunft wird<lb/> voraussichtlich eine wissenschaftliche Psychiatrie erschaffen, welcher
+          die<lb/> Psychoanalyse als Einführung gedient hat.<lb break="paragraph"/>
         </p>
-        <p>KRITIKEN UND MISSVERSTÄNDNISSE DER PSYCHO<lb break="no"/>ANALYSE. Das meiste, was auch in wissenschaftlichen Werken gegen<lb/> die Psychoanalyse vorgebracht wird, beruht auf ungenügender Information,<lb/> die ihrerseits durch affektive Widerstände begründet scheint. So ist es irrig,<lb/> der Psychoanalyse „<hi rendition="#smallcaps">Pansexualismus</hi>“ vorzuwerfen und ihr nachzusagen,<lb/> daß sie alles seelische Geschehen von der Sexualität ableite und auf sie<lb/> zurückführe. Die Psychoanalyse hat vielmehr von allem Anfang an die<lb/> Sexualtriebe von anderen unterschieden, die sie vorläufig „Ichtriebe“ genannt<lb/> hat. Es ist ihr nie eingefallen, „Alles“ erklären zu wollen, und selbst die<lb/> Neurosen hat sie nicht aus der Sexualität allein, sondern aus dem Kon<lb break="no"/>flikt zwischen den sexuellen Strebungen und dem Ich abgeleitet. Der<lb/> Name <hi rendition="#smallcaps">Libido</hi> bedeutet in der Psychoanalyse (außer bei C. G. Jung) nicht<lb/> psychische Energie schlechtweg, sondern die Triebkraft der Sexualtriebe.<lb/> Gewisse Behauptungen, wie daß jeder Traum eine sexuelle Wunscherfüllung<lb/> sei, sind überhaupt niemals aufgestellt worden. Der Vorwurf der Einseitig<lb break="no"/>keit ist gegen die Psychoanalyse, die als <hi rendition="#smallcaps">Wissenschaft</hi>
+        <p>KRITIKEN UND MISSVERSTÄNDNISSE DER PSYCHO<lb break="no"/>ANALYSE. Das meiste, was auch in
+          wissenschaftlichen Werken gegen<lb/> die Psychoanalyse vorgebracht wird, beruht auf
+          ungenügender Information,<lb/> die ihrerseits durch affektive Widerstände begründet
+          scheint. So ist es irrig,<lb/> der Psychoanalyse „<hi rendition="#smallcaps"
+            >Pansexualismus</hi>“ vorzuwerfen und ihr nachzusagen,<lb/> daß sie alles seelische
+          Geschehen von der Sexualität ableite und auf sie<lb/> zurückführe. Die Psychoanalyse hat
+          vielmehr von allem Anfang an die<lb/> Sexualtriebe von anderen unterschieden, die sie
+          vorläufig „Ichtriebe“ genannt<lb/> hat. Es ist ihr nie eingefallen, „Alles“ erklären zu
+          wollen, und selbst die<lb/> Neurosen hat sie nicht aus der Sexualität allein, sondern aus
+          dem Kon<lb break="no"/>flikt zwischen den sexuellen Strebungen und dem Ich abgeleitet.
+          Der<lb/> Name <hi rendition="#smallcaps">Libido</hi> bedeutet in der Psychoanalyse (außer
+          bei C. G. Jung) nicht<lb/> psychische Energie schlechtweg, sondern die Triebkraft der
+          Sexualtriebe.<lb/> Gewisse Behauptungen, wie daß jeder Traum eine sexuelle
+          Wunscherfüllung<lb/> sei, sind überhaupt niemals aufgestellt worden. Der Vorwurf der
+            Einseitig<lb break="no"/>keit ist gegen die Psychoanalyse, die als <hi
+            rendition="#smallcaps">Wissenschaft</hi>
           <hi rendition="#smallcaps">vom</hi>
           <hi rendition="#smallcaps">seelisch</hi>
           <lb/>
-          <hi rendition="#smallcaps">Unbewußten</hi> ihr bestimmtes und beschränktes Arbeitsgebiet hat, ebenso<lb/> unangebracht, wie wenn man ihn gegen die Chemie erheben würde. Ein<lb/> böses und nur durch Unkenntnis gerechtfertigtes Mißverständnis ist es, wenn<lb/> man meint, die Psychoanalyse erwarte die Heilung neurotischer Beschwerden<lb/> vom „freien Ausleben“ der Sexualität. Das Bewußtmachen der verdrängten<lb break="paragraph"/>
+          <hi rendition="#smallcaps">Unbewußten</hi> ihr bestimmtes und beschränktes Arbeitsgebiet
+          hat, ebenso<lb/> unangebracht, wie wenn man ihn gegen die Chemie erheben würde. Ein<lb/>
+          böses und nur durch Unkenntnis gerechtfertigtes Mißverständnis ist es, wenn<lb/> man
+          meint, die Psychoanalyse erwarte die Heilung neurotischer Beschwerden<lb/> vom „freien
+          Ausleben“ der Sexualität. Das Bewußtmachen der verdrängten<lb break="paragraph"/>
           <pb n="18" xml:id="page__00415b46-49b1-47df-8178-18e833b0e426"/>
-          <fw type="pageNum">218</fw>Sexualgelüste in der Analyse ermöglicht vielmehr eine Beherrschung der<lb/> selben, die durch die vorgängige Verdrängung nicht zu erreichen war. Man<lb/> kann mit mehr Recht sagen, daß die Analyse den Neurotiker von den Fesseln<lb/> seiner Sexualität befreit. Es ist ferner durchaus unwissenschaftlich, die Psycho<lb break="no"/>analyse danach zu beurteilen, ob sie geeignet ist, Religion, Autorität und<lb/> Sittlichkeit zu untergraben, da sie wie alle Wissenschaft durchaus tendenz<lb break="no"/>frei ist und nur die eine Absicht kennt, ein Stück der Realität widerspruchs<lb break="no"/>frei zu erfassen. Endlich darf man es gerade als einfältig bezeichnen, wenn<lb/> man auf die Befürchtung stößt, die sogenannten höchsten Güter der Mensch<lb break="no"/>heit, Forschung, Kunst, Liebe, sittliches und soziales Empfinden, würden<lb/> ihren Wert oder ihre Würde einbüßen, weil die Psychoanalyse in der Lage<lb/> ist, deren Ankunft von elementaren, animalischen Triebregungen aufzuzeigen.<lb break="paragraph"/>
+          <fw type="pageNum">218</fw>Sexualgelüste in der Analyse ermöglicht vielmehr eine
+          Beherrschung der<lb/> selben, die durch die vorgängige Verdrängung nicht zu erreichen war.
+          Man<lb/> kann mit mehr Recht sagen, daß die Analyse den Neurotiker von den Fesseln<lb/>
+          seiner Sexualität befreit. Es ist ferner durchaus unwissenschaftlich, die Psycho<lb
+            break="no"/>analyse danach zu beurteilen, ob sie geeignet ist, Religion, Autorität
+          und<lb/> Sittlichkeit zu untergraben, da sie wie alle Wissenschaft durchaus tendenz<lb
+            break="no"/>frei ist und nur die eine Absicht kennt, ein Stück der Realität
+            widerspruchs<lb break="no"/>frei zu erfassen. Endlich darf man es gerade als einfältig
+          bezeichnen, wenn<lb/> man auf die Befürchtung stößt, die sogenannten höchsten Güter der
+            Mensch<lb break="no"/>heit, Forschung, Kunst, Liebe, sittliches und soziales Empfinden,
+          würden<lb/> ihren Wert oder ihre Würde einbüßen, weil die Psychoanalyse in der Lage<lb/>
+          ist, deren Ankunft von elementaren, animalischen Triebregungen aufzuzeigen.<lb
+            break="paragraph"/>
         </p>
-        <p>DIE NICHT MEDIZINISCHEN ANWENDUNGEN UND BE<lb break="no"/>ZIEHUNGEN DER PSYCHOANALYSE. Die Würdigung der Psycho<lb break="no"/>analyse würde unvollständig sein, wenn man versäumte mitzuteilen, daß<lb/> sie als die einzige unter den medizinischen Disziplinen die breitesten Be<lb break="no"/>ziehungen zu den Geisteswissenschaften hat und im Begriffe ist, für Reli<lb break="no"/>gions- und Kulturgeschichte, Mythologie und Literaturwissenschaft eine<lb/> ähnliche Bedeutung zu gewinnen wie für die Psychiatrie. Dies könnte<lb/> Wunder nehmen, wenn man erwägt, daß sie ursprünglich kein anderes Ziel<lb/> hatte als das Verständnis und die Beeinflussung neurotischer Symptome.<lb/> Allein es ist leicht anzugeben, an welcher Stelle die Brücke zu den Geistes<lb break="no"/>wissenschaften geschlagen wurde. Als die Analyse der Träume Einsicht in<lb/> die unbewußten seelischen Vorgänge gab und zeigte, daß die Mechanismen,<lb/> welche die pathologischen Symptome schaffen, auch im normalen Seelen<lb break="no"/>leben tätig sind, wurde die Psychoanalyse zur <hi rendition="#smallcaps">Tiefenpsychologie</hi> und<lb/> als solche der Anwendung auf die Geisteswissenschaften fähig, konnte eine<lb/> gute Anzahl von Fragen lösen, vor denen die schulgemäße Bewußtseins<lb break="no"/>psychologie ratlos Halt machen mußte. Frühzeitig schon stellten sich die<lb/> Beziehungen zur menschlichen <hi rendition="#smallcaps">Phylogenese</hi> her. Man erkannte, wie häufig<lb/> die pathologische Funktion nichts anderes ist als <hi rendition="#smallcaps">Regression</hi> zu einer<lb/> früheren Entwicklungsstufe der normalen. C. G. Jung wies zuerst nach<lb break="no"/>drücklich auf die überraschende Übereinstimmung zwischen den wüsten<lb/> Phantasien der Dementia-praecox-Kranken mit den Mythenbildungen primi<lb break="no"/>tiver Völker hin; Referent machte aufmerksam, daß die beiden Wunsch<lb break="no"/>regungen, welche den Ödipus-Komplex zusammensetzen, sich inhaltlich voll<lb/> mit den beiden Hauptverboten des <hi rendition="#smallcaps">Totemismus</hi> decken (den Ahnherrn nicht<lb break="paragraph"/>
+        <p>DIE NICHT MEDIZINISCHEN ANWENDUNGEN UND BE<lb break="no"/>ZIEHUNGEN DER PSYCHOANALYSE.
+          Die Würdigung der Psycho<lb break="no"/>analyse würde unvollständig sein, wenn man
+          versäumte mitzuteilen, daß<lb/> sie als die einzige unter den medizinischen Disziplinen
+          die breitesten Be<lb break="no"/>ziehungen zu den Geisteswissenschaften hat und im
+          Begriffe ist, für Reli<lb break="no"/>gions- und Kulturgeschichte, Mythologie und
+          Literaturwissenschaft eine<lb/> ähnliche Bedeutung zu gewinnen wie für die Psychiatrie.
+          Dies könnte<lb/> Wunder nehmen, wenn man erwägt, daß sie ursprünglich kein anderes
+          Ziel<lb/> hatte als das Verständnis und die Beeinflussung neurotischer Symptome.<lb/>
+          Allein es ist leicht anzugeben, an welcher Stelle die Brücke zu den Geistes<lb break="no"
+          />wissenschaften geschlagen wurde. Als die Analyse der Träume Einsicht in<lb/> die
+          unbewußten seelischen Vorgänge gab und zeigte, daß die Mechanismen,<lb/> welche die
+          pathologischen Symptome schaffen, auch im normalen Seelen<lb break="no"/>leben tätig sind,
+          wurde die Psychoanalyse zur <hi rendition="#smallcaps">Tiefenpsychologie</hi> und<lb/> als
+          solche der Anwendung auf die Geisteswissenschaften fähig, konnte eine<lb/> gute Anzahl von
+          Fragen lösen, vor denen die schulgemäße Bewußtseins<lb break="no"/>psychologie ratlos Halt
+          machen mußte. Frühzeitig schon stellten sich die<lb/> Beziehungen zur menschlichen <hi
+            rendition="#smallcaps">Phylogenese</hi> her. Man erkannte, wie häufig<lb/> die
+          pathologische Funktion nichts anderes ist als <hi rendition="#smallcaps">Regression</hi>
+          zu einer<lb/> früheren Entwicklungsstufe der normalen. C. G. Jung wies zuerst nach<lb
+            break="no"/>drücklich auf die überraschende Übereinstimmung zwischen den wüsten<lb/>
+          Phantasien der Dementia-praecox-Kranken mit den Mythenbildungen primi<lb break="no"/>tiver
+          Völker hin; Referent machte aufmerksam, daß die beiden Wunsch<lb break="no"/>regungen,
+          welche den Ödipus-Komplex zusammensetzen, sich inhaltlich voll<lb/> mit den beiden
+          Hauptverboten des <hi rendition="#smallcaps">Totemismus</hi> decken (den Ahnherrn nicht<lb
+            break="paragraph"/>
           <pb n="19" xml:id="page__35acbb01-e655-460d-8bf3-bbd696b7d038"/>
-          <fw type="pageNum">219</fw>zu töten und kein Weib der eigenen Sippe zu ehelichen), und zog daraus<lb/> weitgehende Schlüsse. Die Bedeutung des Ödipus-Komplexes begann zu<lb/> gigantischem Maß zu wachsen, man gewann die Ahnung, daß staatliche<lb/> Ordnung, Sittlichkeit, Recht und Religion in der Urzeit der Menschheit<lb/> miteinander als Reaktionsbildung auf den Ödipus-Komplex entstanden seien.<lb/> Otto Rank warf helle Lichter auf Mythologie und Literaturgeschichte durch<lb/> Anwendung der psychoanalytischen Einsichten, ebenso Th. Reik auf die<lb/> Geschichte der Sitten und Religionen, der Pfarrer O. Pfister (Zürich) weckte<lb/> das Interesse der Seelsorger und Lehrer und ließ den Wert psychoanaly<lb break="no"/>tischer Gesichtspunkte für die Pädagogik verstehen. Weitere Ausführungen<lb/> über diese Anwendungen der Psychoanalyse sind hier nicht am Platze; möge<lb/> die Bemerkung genügen, daß deren Ausdehnung noch nicht abzusehen ist.<lb break="paragraph"/>
+          <fw type="pageNum">219</fw>zu töten und kein Weib der eigenen Sippe zu ehelichen), und zog
+          daraus<lb/> weitgehende Schlüsse. Die Bedeutung des Ödipus-Komplexes begann zu<lb/>
+          gigantischem Maß zu wachsen, man gewann die Ahnung, daß staatliche<lb/> Ordnung,
+          Sittlichkeit, Recht und Religion in der Urzeit der Menschheit<lb/> miteinander als
+          Reaktionsbildung auf den Ödipus-Komplex entstanden seien.<lb/> Otto Rank warf helle
+          Lichter auf Mythologie und Literaturgeschichte durch<lb/> Anwendung der psychoanalytischen
+          Einsichten, ebenso Th. Reik auf die<lb/> Geschichte der Sitten und Religionen, der Pfarrer
+          O. Pfister (Zürich) weckte<lb/> das Interesse der Seelsorger und Lehrer und ließ den Wert
+            psychoanaly<lb break="no"/>tischer Gesichtspunkte für die Pädagogik verstehen. Weitere
+          Ausführungen<lb/> über diese Anwendungen der Psychoanalyse sind hier nicht am Platze;
+          möge<lb/> die Bemerkung genügen, daß deren Ausdehnung noch nicht abzusehen ist.<lb
+            break="paragraph"/>
         </p>
-        <p>CHARAKTER DER PSYCHOANALYSE ALS EMPIRISCHE<lb/> WISSENSCHAFT. Die Psychoanalyse ist kein System wie die philosophi<lb break="no"/>schen, das von einigen scharf definierten Grundbegriffen ausgeht, mit diesen<lb/> das Weltganze zu erfassen sucht, und dann, einmal fertig gemacht, keinen<lb/> Raum mehr hat für neue Funde und bessere Einsichten. Sie haftet viel<lb break="no"/>mehr an den Tatsachen ihres Arbeitsgebietes, sucht die nächsten Probleme<lb/> der Beobachtung zu lösen, testet sich an der Erfahrung weiter, ist immer<lb/> unfertig, immer bereit, ihre Lehren zurechtzurücken oder abzuändern. Sie<lb/> verträgt es so gut wie die Physik oder die Chemie, daß ihre obersten<lb/> Begriffe unklar, ihre Voraussetzungen vorläufige sind, und erwartet eine<lb/> schärfere Bestimmung derselben von zukünftiger Arbeit.<lb break="paragraph"/>
+        <p>CHARAKTER DER PSYCHOANALYSE ALS EMPIRISCHE<lb/> WISSENSCHAFT. Die Psychoanalyse ist kein
+          System wie die philosophi<lb break="no"/>schen, das von einigen scharf definierten
+          Grundbegriffen ausgeht, mit diesen<lb/> das Weltganze zu erfassen sucht, und dann, einmal
+          fertig gemacht, keinen<lb/> Raum mehr hat für neue Funde und bessere Einsichten. Sie
+          haftet viel<lb break="no"/>mehr an den Tatsachen ihres Arbeitsgebietes, sucht die nächsten
+          Probleme<lb/> der Beobachtung zu lösen, testet sich an der Erfahrung weiter, ist
+          immer<lb/> unfertig, immer bereit, ihre Lehren zurechtzurücken oder abzuändern. Sie<lb/>
+          verträgt es so gut wie die Physik oder die Chemie, daß ihre obersten<lb/> Begriffe unklar,
+          ihre Voraussetzungen vorläufige sind, und erwartet eine<lb/> schärfere Bestimmung
+          derselben von zukünftiger Arbeit.<lb break="paragraph"/>
         </p>
       </div>
     </body>
