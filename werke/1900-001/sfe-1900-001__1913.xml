@@ -2,9 +2,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+        <title type="work" level="a">Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
         <title type="manifestation" level="a">Traum ohne kenntlichen Anlaß (1900-001/1913)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
+          Gesamtausgabe</title>
         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
         <editor>
           <name>Diercks, Christine</name>
@@ -30,11 +31,13 @@
           <name>Rohrwasser, Michael</name>
         </respStmt>
         <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+            Signaturen, Referenzsystem</resp>
           <name>Diercks, Christine</name>
         </respStmt>
         <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+            Faksimile-Ausgabe, Bibliografie</resp>
           <name>Blatow, Arkadi</name>
         </respStmt>
         <respStmt>
@@ -60,21 +63,29 @@
         <date when="2022">2022</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und
+              weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+              beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+              Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+              zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+              dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass
+              der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+              besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+              technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+              Lizenz erlaubt.</p>
             <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+              Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen
+              und Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+              verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige
+              Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits-
+              undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+              beschränken.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -92,19 +103,22 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>381 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -113,14 +127,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>373 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931.2">
@@ -134,14 +150,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>377 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1910">
@@ -153,8 +171,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>45 Seiten</extent>
               <biblScope unit="volume">1/2</biblScope>
             </monogr>
@@ -170,7 +187,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -192,11 +210,11 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>385 Seiten</extent>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="year">2</biblScope>
@@ -211,8 +229,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>192 Seiten</extent>
               <biblScope unit="volume">5/6</biblScope>
               <biblScope unit="year">1</biblScope>
@@ -238,12 +255,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -288,12 +308,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -310,12 +333,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -328,7 +354,8 @@
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1925.4">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -337,7 +364,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -358,12 +386,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -390,8 +421,7 @@
               <title type="publication">Pester Lloyd. Morgenblatt</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>9</extent>
               <biblScope unit="volume">201</biblScope>
               <biblScope unit="year">72</biblScope>
@@ -403,12 +433,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -449,12 +482,14 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel.
+                Humanitätsvereine „B’nai B’rith”</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann,
+                  S.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -483,7 +518,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -503,7 +539,8 @@
               <title type="publication-short">GS 3</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                  A.J.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -526,12 +563,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -548,12 +588,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -580,12 +623,12 @@
                 </respStmt>
                 <respStmt>
                   <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
-                              Signaturen, Referenzsystem</resp>
+                    Signaturen, Referenzsystem</resp>
                   <name>Diercks, Christine</name>
                 </respStmt>
                 <respStmt>
                   <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
-                              Faksimile-Ausgabe, Bibliografie</resp>
+                    Faksimile-Ausgabe, Bibliografie</resp>
                   <name>Blatow, Arkadi</name>
                 </respStmt>
                 <respStmt>
@@ -596,13 +639,16 @@
                 </respStmt>
                 <date when="2022">2022</date>
                 <idno type="signature">1900-001/1913</idno>
-                <idno type="url">https://www.freud-edition.net/werke/traum-ohne-kenntlichen-anlass/druckversion</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/46b9a2c8-44c1-4f5a-92df-3e56cd69f502</idno>
+                <idno type="url"
+                  >https://www.freud-edition.net/werke/traum-ohne-kenntlichen-anlass/druckversion</idno>
+                <idno type="api"
+                  >https://www.freud-edition.net/jsonapi/node/manifestation/46b9a2c8-44c1-4f5a-92df-3e56cd69f502</idno>
                 <relatedItem type="work">
                   <bibl xml:id="bibl__dce0b091-7de7-4914-8401-998f575029c4">
-                    <title>Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+                    <title>Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
                     <idno type="url">https://www.freud-edition.net/traumdeutung</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
+                    <idno type="api"
+                      >https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
                   </bibl>
                 </relatedItem>
               </bibl>
@@ -611,13 +657,13 @@
               <msDesc>
                 <msIdentifier>
                   <repository>IPU</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api"
+                    >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
                     <supportDesc>
-                      <support>
-Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                      <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                     </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -635,11 +681,14 @@ Buch aus <material>Papier</material> in Druckschrift .                          
     </fileDesc>
     <encodingDesc>
       <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi"
+          >font-variant:small-caps;letter-spacing:8px;</rendition>
         <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
         <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
         <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
         <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
         <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
@@ -651,7 +700,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen
+        Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -662,21 +712,48 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>Erfahrungen und Beispiele aus der analytischen Praxis.<lb/> l.<lb break="paragraph"/>
         </p>
-        <p>Die Sammlung kleiner Beiträge, von welcher wir hier ein erstes Stuck<lb/> bringen, bedarf einiger einführender Worte: Die Krunkheitsfßlle, an denen<lb/> der Psychoanalytiker seine Beobachtungen macht, sind für die Bereicherung<lb/> seiner Kenntnis natürlich ungleichwertig. Es gibt solche. bei denen er alles<lb/> in Verwendung bringen muß, was er weiß, und nichts Neues lernt; andere,<lb/> welche ihm das bereits Bekannte in besonders deutlicher Ausprägung und<lb/> schöner Isolierung zeigen, so daß er diesen Kranken nicht nur Bestätigungen<lb/> sondern auch Erweiterungen seines Wissens verdankt. Man ist berechtigt zu<lb/> vermuten, dell die psychischen Vorgänge, die man studieren will, bei den<lb/> Fällen der ersteren Art keine anderen sind als bei denen der letzteren, aber<lb/> mm wird sie am liebsten an solchen günstigen und durchsichtigen Fällen<lb/> beschreiben. Die Entwicklungsgeschiehte nimmt in auch an, dub die Furchnng<lb/> des tierischen Eis sich bei den piglnentstnrken und in: die Untersuchung uu<lb break="no"/>günstigen Objekten nicht anders vollziehe als bei den durchsichtigen pigment<lb break="no"/>Armen, welche sie für ihre Untersuchungen suswählt.<lb break="paragraph"/>
+        <p>Die Sammlung kleiner Beiträge, von welcher wir hier ein erstes Stuck<lb/> bringen, bedarf
+          einiger einführender Worte: Die Krunkheitsfßlle, an denen<lb/> der Psychoanalytiker seine
+          Beobachtungen macht, sind für die Bereicherung<lb/> seiner Kenntnis natürlich
+          ungleichwertig. Es gibt solche. bei denen er alles<lb/> in Verwendung bringen muß, was er
+          weiß, und nichts Neues lernt; andere,<lb/> welche ihm das bereits Bekannte in besonders
+          deutlicher Ausprägung und<lb/> schöner Isolierung zeigen, so daß er diesen Kranken nicht
+          nur Bestätigungen<lb/> sondern auch Erweiterungen seines Wissens verdankt. Man ist
+          berechtigt zu<lb/> vermuten, dell die psychischen Vorgänge, die man studieren will, bei
+          den<lb/> Fällen der ersteren Art keine anderen sind als bei denen der letzteren, aber<lb/>
+          mm wird sie am liebsten an solchen günstigen und durchsichtigen Fällen<lb/> beschreiben.
+          Die Entwicklungsgeschiehte nimmt in auch an, dub die Furchnng<lb/> des tierischen Eis sich
+          bei den piglnentstnrken und in: die Untersuchung uu<lb break="no"/>günstigen Objekten
+          nicht anders vollziehe als bei den durchsichtigen pigment<lb break="no"/>Armen, welche sie
+          für ihre Untersuchungen suswählt.<lb break="paragraph"/>
         </p>
-        <p>Die zahlreichen schönen Beispiele, welche dem Anulytiker in der täg—<lb/> lichen Arbeit das ihm Bekennte bestätigen, gehen aber zumeist verloren, de<lb/> deren Einreihnng in einen Zusammenhang oft lange Zeit eufgesebobeu werden<lb/> muß. Es hat darum einen gewissen Wert, wenn man eine Form angibt, wie<lb/> solche Erfahrungen und Beispiele veröﬁ'entlieht und der n.ilgelneinen Kenntnis<lb/> zugeführt werden können, ohne eine Benbeitung von übergeordneten Gesicht?<lb/> punkten her abzuwarten.<lb break="paragraph"/>
+        <p>Die zahlreichen schönen Beispiele, welche dem Anulytiker in der täg—<lb/> lichen Arbeit
+          das ihm Bekennte bestätigen, gehen aber zumeist verloren, de<lb/> deren Einreihnng in
+          einen Zusammenhang oft lange Zeit eufgesebobeu werden<lb/> muß. Es hat darum einen
+          gewissen Wert, wenn man eine Form angibt, wie<lb/> solche Erfahrungen und Beispiele
+          veröﬁ'entlieht und der n.ilgelneinen Kenntnis<lb/> zugeführt werden können, ohne eine
+          Benbeitung von übergeordneten Gesicht?<lb/> punkten her abzuwarten.<lb break="paragraph"/>
         </p>
-        <p>Die hier eingeführte Rubrik will den Raum für eine Unterbringung<lb/> dieses Materials zur Verfügung stellen. Äußerste Knuppheit der Darstellung<lb/> erscheint geboten; die Aneinnnderreihung der Beispiele ist eine ganz zwenglose.<lb break="paragraph"/>
+        <p>Die hier eingeführte Rubrik will den Raum für eine Unterbringung<lb/> dieses Materials
+          zur Verfügung stellen. Äußerste Knuppheit der Darstellung<lb/> erscheint geboten; die
+          Aneinnnderreihung der Beispiele ist eine ganz zwenglose.<lb break="paragraph"/>
         </p>
         <p>Nr. 1. Traum ohne kenntlichen Anlaß.<lb break="paragraph"/>
         </p>
-        <p>Ein guter Schlüter erweeht eines Morgens in einem Tiroler Sommer<lb break="no"/>nufent.helt mit: dem Wissen, er hehe getruumt: Der Papst sei gestorben. Er<lb/> ﬁndet dsfiir keine Erkliimng. Am Vormittag desselben Tages fragt ihn seine<lb/> Freu: Hast du heute früh des entsetzliehe Glenkengeliiute gehört? Er hatte<lb/> es nicht gehört, aber oﬂenbar dariiber geträumt. Die Deutung, die sein Treum<lb/> dem Glockenläuten gab. war seine Ruhe an den frommen Tirolern. Der<lb/> Papst wer nach Zeitungsberichten um jene Zeit leicht erkrankt.<lb break="paragraph"/>
+        <p>Ein guter Schlüter erweeht eines Morgens in einem Tiroler Sommer<lb break="no"
+          />nufent.helt mit: dem Wissen, er hehe getruumt: Der Papst sei gestorben. Er<lb/> ﬁndet
+          dsfiir keine Erkliimng. Am Vormittag desselben Tages fragt ihn seine<lb/> Freu: Hast du
+          heute früh des entsetzliehe Glenkengeliiute gehört? Er hatte<lb/> es nicht gehört, aber
+          oﬂenbar dariiber geträumt. Die Deutung, die sein Treum<lb/> dem Glockenläuten gab. war
+          seine Ruhe an den frommen Tirolern. Der<lb/> Papst wer nach Zeitungsberichten um jene Zeit
+          leicht erkrankt.<lb break="paragraph"/>
         </p>
         <p>(Freud)<lb break="paragraph"/>
         </p>
         <p>Nr. 2. Tageszeiten im Tranminhelt.<lb break="paragraph"/>
         </p>
-        <p>Dieselben vertreten häuﬁg Lebenszeiten der Kindheit. Um 1/‘6 " früh<lb/> bedeutete in einem Traum das Alter von 5Jshren, 3 Monaten, den bedentungs<lb break="no"/>
+        <p>Dieselben vertreten häuﬁg Lebenszeiten der Kindheit. Um 1/‘6 " früh<lb/> bedeutete in
+          einem Traum das Alter von 5Jshren, 3 Monaten, den bedentungs<lb break="no"/>
         </p>
         <p>
           <lb break="paragraph"/>

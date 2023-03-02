@@ -2,9 +2,10 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+        <title type="work" level="a">Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
         <title type="manifestation" level="a">Die Grenzen der Deutbarkeit (1900-001/1925.5)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
+          Gesamtausgabe</title>
         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
         <editor>
           <name>Diercks, Christine</name>
@@ -30,11 +31,13 @@
           <name>Rohrwasser, Michael</name>
         </respStmt>
         <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+            Signaturen, Referenzsystem</resp>
           <name>Diercks, Christine</name>
         </respStmt>
         <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+            Faksimile-Ausgabe, Bibliografie</resp>
           <name>Blatow, Arkadi</name>
         </respStmt>
         <respStmt>
@@ -60,21 +63,29 @@
         <date when="2022">2022</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und
+              weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+              beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+              Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+              zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+              dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass
+              der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+              besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+              technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+              Lizenz erlaubt.</p>
             <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+              Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen
+              und Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+              verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige
+              Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits-
+              undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+              beschränken.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -92,19 +103,22 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>381 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -113,14 +127,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>373 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931.2">
@@ -134,14 +150,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>377 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1910">
@@ -153,8 +171,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>45 Seiten</extent>
               <biblScope unit="volume">1/2</biblScope>
             </monogr>
@@ -170,7 +187,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -192,11 +210,11 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>385 Seiten</extent>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="year">2</biblScope>
@@ -211,8 +229,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>192 Seiten</extent>
               <biblScope unit="volume">5/6</biblScope>
               <biblScope unit="year">1</biblScope>
@@ -238,12 +255,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -288,12 +308,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -310,12 +333,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -328,7 +354,8 @@
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1925.4">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -337,7 +364,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -358,12 +386,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -390,8 +421,7 @@
               <title type="publication">Pester Lloyd. Morgenblatt</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>9</extent>
               <biblScope unit="volume">201</biblScope>
               <biblScope unit="year">72</biblScope>
@@ -403,12 +433,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -449,12 +482,14 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel.
+                Humanitätsvereine „B’nai B’rith”</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann,
+                  S.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -483,7 +518,8 @@
               <title type="publication-short">GS 3</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                  A.J.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -506,12 +542,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -528,12 +567,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -555,7 +597,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -580,12 +623,12 @@
                 </respStmt>
                 <respStmt>
                   <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
-                              Signaturen, Referenzsystem</resp>
+                    Signaturen, Referenzsystem</resp>
                   <name>Diercks, Christine</name>
                 </respStmt>
                 <respStmt>
                   <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
-                              Faksimile-Ausgabe, Bibliografie</resp>
+                    Faksimile-Ausgabe, Bibliografie</resp>
                   <name>Blatow, Arkadi</name>
                 </respStmt>
                 <respStmt>
@@ -596,13 +639,16 @@
                 </respStmt>
                 <date when="2022">2022</date>
                 <idno type="signature">1900-001/1925.5</idno>
-                <idno type="url">https://www.freud-edition.net/werke/die-grenzen-der-deutbarkeit/druckversion-0</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/8f009039-43f0-43f2-b76f-309f2c6ad6a5</idno>
+                <idno type="url"
+                  >https://www.freud-edition.net/werke/die-grenzen-der-deutbarkeit/druckversion-0</idno>
+                <idno type="api"
+                  >https://www.freud-edition.net/jsonapi/node/manifestation/8f009039-43f0-43f2-b76f-309f2c6ad6a5</idno>
                 <relatedItem type="work">
                   <bibl xml:id="bibl__dce0b091-7de7-4914-8401-998f575029c4">
-                    <title>Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+                    <title>Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
                     <idno type="url">https://www.freud-edition.net/traumdeutung</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
+                    <idno type="api"
+                      >https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
                   </bibl>
                 </relatedItem>
               </bibl>
@@ -612,13 +658,13 @@
                 <msIdentifier>
                   <repository>IPU</repository>
                   <idno type="IPU">Freud_1925_Kleine_Beitrge_zur_Traumlehre_k</idno>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
+                  <idno type="api"
+                    >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/0fd1eab6-5292-468c-8d35-10d7345ea492</idno>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
                     <supportDesc>
-                      <support>
-Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                      <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                     </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -636,11 +682,14 @@ Buch aus <material>Papier</material> in Druckschrift .                          
     </fileDesc>
     <encodingDesc>
       <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi"
+          >font-variant:small-caps;letter-spacing:8px;</rendition>
         <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
         <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
         <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
         <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
         <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
@@ -652,7 +701,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen
+        Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -661,9 +711,25 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <pb n="1" xml:id="page__3596264b-386a-4b95-b9a3-b9f9c53a4a30"/>
         <p>DIE GRENZEN DER DEUTBARKEIT<lb break="paragraph"/>
         </p>
-        <p>Die Frage, ob man von jedem Produkt des Traumlebens eine<lb/> vollständige und gesicherte Übersetzung in die Ausdrucksweise<lb/> des Wachlebens (Deutung) geben kann, soll nicht abstrakt be—<lb/> handelt werden, sondern unter Beziehung“ auf die Verhältnisse,<lb/> unter denen man an der Traumdeutung arbeitet.<lb break="paragraph"/>
+        <p>Die Frage, ob man von jedem Produkt des Traumlebens eine<lb/> vollständige und gesicherte
+          Übersetzung in die Ausdrucksweise<lb/> des Wachlebens (Deutung) geben kann, soll nicht
+          abstrakt be—<lb/> handelt werden, sondern unter Beziehung“ auf die Verhältnisse,<lb/>
+          unter denen man an der Traumdeutung arbeitet.<lb break="paragraph"/>
         </p>
-        <p>Unsere geistigen Tätigkeiten streben entweder ein nützliches<lb/> Ziel an oder unmittelbaren Lustgewinn. Im ersteren Falle sind<lb/> es intellektuelle Entscheidungen, Vorbereitungen zu Handlungen<lb/> oder Mitteilungen an andere; im anderen Falle nennen wir sie<lb/> Spielen und Phantasieren. Bekanntlich ist auch das Nützliche nur<lb/> ein Umweg zur lustvollen Befriedigung. Das Träumen ist nun<lb/> eine Tätigkeit der zweiten Art, die ja entwicklungsgeschichtlich<lb/> die ursprünglichere ist. Es ist irreführend, zu sagen, das Träumen<lb/> bemühe sich um die bevorstehenden Aufgaben des Lebens oder<lb/> suche Probleme der Tagesarbeit zu Ende zu führen. Darum<lb/> kümmert sich das vorbewußte Denken. Dem Träumen liegt<lb/> solche nützliche Absicht ebenso ferne wie die der Vorbereitung<lb/> einer Mitteilung an einen anderen. Wenn sich der Traum mit<lb/> einer Aufgabe des Lebens beschäftigt, löst er sie so, wie es<lb/> einem irrationellen Wunsch, und nicht so, wie es einer ver<lb break="no"/>ständigen Überlegung entspricht. Nur eine nützliche Absicht,<lb/> eine Funktion, muß man dem Traum zusprechen, er soll die<lb/> Störung des Schlafes verhüten. Der Traum kann beschrieben<lb break="paragraph"/>
+        <p>Unsere geistigen Tätigkeiten streben entweder ein nützliches<lb/> Ziel an oder
+          unmittelbaren Lustgewinn. Im ersteren Falle sind<lb/> es intellektuelle Entscheidungen,
+          Vorbereitungen zu Handlungen<lb/> oder Mitteilungen an andere; im anderen Falle nennen wir
+          sie<lb/> Spielen und Phantasieren. Bekanntlich ist auch das Nützliche nur<lb/> ein Umweg
+          zur lustvollen Befriedigung. Das Träumen ist nun<lb/> eine Tätigkeit der zweiten Art, die
+          ja entwicklungsgeschichtlich<lb/> die ursprünglichere ist. Es ist irreführend, zu sagen,
+          das Träumen<lb/> bemühe sich um die bevorstehenden Aufgaben des Lebens oder<lb/> suche
+          Probleme der Tagesarbeit zu Ende zu führen. Darum<lb/> kümmert sich das vorbewußte Denken.
+          Dem Träumen liegt<lb/> solche nützliche Absicht ebenso ferne wie die der Vorbereitung<lb/>
+          einer Mitteilung an einen anderen. Wenn sich der Traum mit<lb/> einer Aufgabe des Lebens
+          beschäftigt, löst er sie so, wie es<lb/> einem irrationellen Wunsch, und nicht so, wie es
+          einer ver<lb break="no"/>ständigen Überlegung entspricht. Nur eine nützliche Absicht,<lb/>
+          eine Funktion, muß man dem Traum zusprechen, er soll die<lb/> Störung des Schlafes
+          verhüten. Der Traum kann beschrieben<lb break="paragraph"/>
         </p>
         <p>
           <lb break="paragraph"/>
@@ -671,13 +737,37 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <pb n="2" xml:id="page__1b96120d-c652-4ba1-8e1d-af594a77f3d4"/>
         <p>64. Kleine Beiträge zur Traumlehre<lb break="paragraph"/>
         </p>
-        <p>werden als ein Stück Phantasieren im Dienste der Erhaltung des<lb/> Schlafes.<lb break="paragraph"/>
+        <p>werden als ein Stück Phantasieren im Dienste der Erhaltung des<lb/> Schlafes.<lb
+            break="paragraph"/>
         </p>
         <p>Es folgt daraus, daß es dem schlafenden Ich im ganzen gleich<lb break="no"/>
         </p>
-        <p>gültig ist, wa's während der_Nacht geträumt wird, wenn der<lb/> Traum nur leistet, was ihm aufgetragen ist, und daß diejenigen<lb/> Träume ihre Funktion am besten erfüllt haben, von denen man<lb/> nach dem Erwachen nichts zu sagen weiß. Wenn es so oft<lb/> anders zugeht, wenn wir Träume erinnern, — auch über Jahre<lb/> und Jahrzehnte, —— so bedeutet dies jedesmal einen Einbruch des<lb/> verdrängten Unbewußten ins normale Ich. Öhrié solche Genug<lb break="no"/>tuung hat das ”(Tel-drängte“ seine” Hilfe zur Aufhebung der<lb/> drohenden Schlafstörung nicht leihen wollen. Wir wissen, es ist<lb/> -éie-Ieeachs,éieéssEiebreqhs. die,dem Traum seine Bedeutung<lb/> für die Psychopathologie verschafft. Wenn wir sein treibendes<lb/> Motiv aufdeckeu können, erhalten wir unvermutete Kunde von<lb/> den verdrängten Regungen im Unbewußten; anderseits, wenn<lb/> wir seine Entstellungen rückgängig machen, belauschen wir das<lb/> vorbewußte Denken in Zuständen innerer Sammlung, die tags—<lb/> über das Bewußtsein nicht auf sich gezogen hätten.<lb break="paragraph"/>
+        <p>gültig ist, wa's während der_Nacht geträumt wird, wenn der<lb/> Traum nur leistet, was
+          ihm aufgetragen ist, und daß diejenigen<lb/> Träume ihre Funktion am besten erfüllt haben,
+          von denen man<lb/> nach dem Erwachen nichts zu sagen weiß. Wenn es so oft<lb/> anders
+          zugeht, wenn wir Träume erinnern, — auch über Jahre<lb/> und Jahrzehnte, —— so bedeutet
+          dies jedesmal einen Einbruch des<lb/> verdrängten Unbewußten ins normale Ich. Öhrié solche
+            Genug<lb break="no"/>tuung hat das ”(Tel-drängte“ seine” Hilfe zur Aufhebung der<lb/>
+          drohenden Schlafstörung nicht leihen wollen. Wir wissen, es ist<lb/>
+          -éie-Ieeachs,éieéssEiebreqhs. die,dem Traum seine Bedeutung<lb/> für die Psychopathologie
+          verschafft. Wenn wir sein treibendes<lb/> Motiv aufdeckeu können, erhalten wir unvermutete
+          Kunde von<lb/> den verdrängten Regungen im Unbewußten; anderseits, wenn<lb/> wir seine
+          Entstellungen rückgängig machen, belauschen wir das<lb/> vorbewußte Denken in Zuständen
+          innerer Sammlung, die tags—<lb/> über das Bewußtsein nicht auf sich gezogen hätten.<lb
+            break="paragraph"/>
         </p>
-        <p>Niemand kann die Traumdeutung als isolierte Tätigkeit üben; sie<lb/> bleibt ein Stück der analytischen Arbeit. In dieser wenden wirje nach<lb/> Bedarf unser Interesse bald dem vorbewußten Trauminhalt, bald dem<lb/> unbewußten Beitrag zur Traumbildung zu, vernachlässigen auch oft<lb/> das eine Element zugunsten des anderen. Es nützte auch nichts, wenn<lb/> jemand sich vornehmen wollte, Träume außerhalb der Analyse<lb/> zu deuten. Er würde den Bedingungen der analytischen Situation<lb/> doch nicht entgehen, und wenn er seine eigenen Träume bear—<lb/> beitet, unternimrﬁt er seine Selbstanalyse. Diese Bemerkung gilt<lb/> nicht für den, der auf die Mitarbeit des Träumers verzichtet und<lb/> die Deutung von Träumen durch intuitives Erfassen erfahren<lb/> will. Aber solche Traumdeutung ohne Rücksicht auf die’Asso<lb break="no"/>ziationen des Träumers bleibt auch im günstigsten Falle ein<lb/> unwissenschaftliches Virtuosenstück von sehr zweifelhaftem Wert.<lb break="paragraph"/>
+        <p>Niemand kann die Traumdeutung als isolierte Tätigkeit üben; sie<lb/> bleibt ein Stück der
+          analytischen Arbeit. In dieser wenden wirje nach<lb/> Bedarf unser Interesse bald dem
+          vorbewußten Trauminhalt, bald dem<lb/> unbewußten Beitrag zur Traumbildung zu,
+          vernachlässigen auch oft<lb/> das eine Element zugunsten des anderen. Es nützte auch
+          nichts, wenn<lb/> jemand sich vornehmen wollte, Träume außerhalb der Analyse<lb/> zu
+          deuten. Er würde den Bedingungen der analytischen Situation<lb/> doch nicht entgehen, und
+          wenn er seine eigenen Träume bear—<lb/> beitet, unternimrﬁt er seine Selbstanalyse. Diese
+          Bemerkung gilt<lb/> nicht für den, der auf die Mitarbeit des Träumers verzichtet und<lb/>
+          die Deutung von Träumen durch intuitives Erfassen erfahren<lb/> will. Aber solche
+          Traumdeutung ohne Rücksicht auf die’Asso<lb break="no"/>ziationen des Träumers bleibt auch
+          im günstigsten Falle ein<lb/> unwissenschaftliches Virtuosenstück von sehr zweifelhaftem
+            Wert.<lb break="paragraph"/>
         </p>
         <p>
           <lb break="paragraph"/>
@@ -685,9 +775,34 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <pb n="3" xml:id="page__7779ba63-28c1-4d24-873c-7efe6fb84122"/>
         <p>Die Grenzen der Deutbarkeit 65<lb break="paragraph"/>
         </p>
-        <p>Übt man die Traumdeutung nach dem einzigen technischen<lb/> Verfahren, das sich rechtfertigen läßt, so merkt man .bald, daß der<lb/> Erfolg durchaus .von der Widerstandsspannung zwischen dem<lb/> erwachten Ich und dem verdrängten Unbewußten; -‘abhängig ist. '<lb/> Die Arbeit unter „hohem Widerstandsdruc “.erfordert selbst, wie<lb/> ich an anderer Stelle auseinandergesetzt habe, ein anderes Ver<lb break="no"/>halten des Analytikers als bei geringem Druck. Inwder Analyse<lb/> hat man es durch lange Zeiten mit starken Widerständen zu<lb/> tun, die noch nicht bekannt sind, die jedenfalls nicht überwunden<lb/> werden können, solange sie unbekannt bleiben. Es ist, also' nicht<lb/> zu verwundern, daß man von den Traumproduk'tionen' idee<lb/> Patienten nur einen gewissen Anteil und auch. diesen .'meist nicht<lb/> vollständig übersetzen und verwerten kann. Auch &lt;Wenn maxi;<lb/> durch die eigene Geübtheit in die Lage kommt,; viele Träume'<lb/> zu verstehen, zu deren Deutung der Träumer wenig Beiträge<lb/> geliefert hat, soll man gemahnt bleiben, daß die Sicherheit<lb/> solcher Deutung in Frage steht, und wird Bedenken tragen,<lb/> seine Vermutung dem Patienten aufzudrängen.<lb break="paragraph"/>
+        <p>Übt man die Traumdeutung nach dem einzigen technischen<lb/> Verfahren, das sich
+          rechtfertigen läßt, so merkt man .bald, daß der<lb/> Erfolg durchaus .von der
+          Widerstandsspannung zwischen dem<lb/> erwachten Ich und dem verdrängten Unbewußten;
+          -‘abhängig ist. '<lb/> Die Arbeit unter „hohem Widerstandsdruc “.erfordert selbst,
+          wie<lb/> ich an anderer Stelle auseinandergesetzt habe, ein anderes Ver<lb break="no"
+          />halten des Analytikers als bei geringem Druck. Inwder Analyse<lb/> hat man es durch
+          lange Zeiten mit starken Widerständen zu<lb/> tun, die noch nicht bekannt sind, die
+          jedenfalls nicht überwunden<lb/> werden können, solange sie unbekannt bleiben. Es ist,
+          also' nicht<lb/> zu verwundern, daß man von den Traumproduk'tionen' idee<lb/> Patienten
+          nur einen gewissen Anteil und auch. diesen .'meist nicht<lb/> vollständig übersetzen und
+          verwerten kann. Auch &lt;Wenn maxi;<lb/> durch die eigene Geübtheit in die Lage kommt,;
+          viele Träume'<lb/> zu verstehen, zu deren Deutung der Träumer wenig Beiträge<lb/>
+          geliefert hat, soll man gemahnt bleiben, daß die Sicherheit<lb/> solcher Deutung in Frage
+          steht, und wird Bedenken tragen,<lb/> seine Vermutung dem Patienten aufzudrängen.<lb
+            break="paragraph"/>
         </p>
-        <p>Kritische Einwendungen werden nun sageanenn'man nicht<lb/> alle Träume, die man bearbeitet, zur Deutung'bringt, soll man<lb/> auch nicht mehr behaupten, als man vertreten kann, und sich<lb/> mit der Aussage begnügen, einzelne Träume-seien durch Deutung<lb/> als sinnreich zu erkennen, von anderen wisse man es nicht.<lb/> Allein gerade die Abhängigkeit des Deutungserfolges vom Wider<lb break="no"/>stand enthebt den Analytiker einer solchen Bescheidenheit. Er<lb/> kann die Erfahrung machen, daß ein anfangs unverständlicher<lb/> Traum noch in derselben Stunde durchsichtig wird, nachdem es<lb/> gelungen ist, einen Widerstand des Träumers durch eine glück<lb break="no"/>liche Aussprache zu beseitigen. Plötzlich fällt ihmdann ein bisher<lb/> vergessenes Traumstück ein, das den Schlüssel zur Deutung<lb/> bringt, oder es stellt sich eine neue Assoziation ein, mit deren<lb/> Hilfe das Dunkel sich lichtet. Es kommt auch vor, daß man nach<lb/> Monaten und Jahren analytischer Bemühung auf einen Traum<lb break="paragraph"/>
+        <p>Kritische Einwendungen werden nun sageanenn'man nicht<lb/> alle Träume, die man
+          bearbeitet, zur Deutung'bringt, soll man<lb/> auch nicht mehr behaupten, als man vertreten
+          kann, und sich<lb/> mit der Aussage begnügen, einzelne Träume-seien durch Deutung<lb/> als
+          sinnreich zu erkennen, von anderen wisse man es nicht.<lb/> Allein gerade die Abhängigkeit
+          des Deutungserfolges vom Wider<lb break="no"/>stand enthebt den Analytiker einer solchen
+          Bescheidenheit. Er<lb/> kann die Erfahrung machen, daß ein anfangs unverständlicher<lb/>
+          Traum noch in derselben Stunde durchsichtig wird, nachdem es<lb/> gelungen ist, einen
+          Widerstand des Träumers durch eine glück<lb break="no"/>liche Aussprache zu beseitigen.
+          Plötzlich fällt ihmdann ein bisher<lb/> vergessenes Traumstück ein, das den Schlüssel zur
+          Deutung<lb/> bringt, oder es stellt sich eine neue Assoziation ein, mit deren<lb/> Hilfe
+          das Dunkel sich lichtet. Es kommt auch vor, daß man nach<lb/> Monaten und Jahren
+          analytischer Bemühung auf einen Traum<lb break="paragraph"/>
         </p>
         <p>Freud, Kleine Beiträge zur Tnumlehre - 5<lb break="paragraph"/>
         </p>
@@ -697,11 +812,33 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <pb n="4" xml:id="page__444df9fa-04ca-48d2-a131-1f1d311bb216"/>
         <p>66 Kleine Beiträge zur Traumlehre<lb break="paragraph"/>
         </p>
-        <p>zurückgreift, der zu Anfang der Behandlung unsinnig und un<lb break="no"/>verständlich erschien, und der nun durch die seither gewonnenen<lb/> Einsichten eine völlige Klärung erfährt. Nimmt man aus der<lb/> Theorie des Traumes das Argument hinzu, daß die vorbildlichen<lb/> Traumleistungen der Kinder durchwegs sinnvoll und leicht deut<lb break="no"/>bar sind, so wird man sich zur Behauptung berechtigt ﬁnden, der<lb/> Traum sei ganz allgemein ein deutbares psychisches Gebilde, wenn—<lb/> gleich die Situation nicht immer die Deutung zu geben gestattet.<lb break="paragraph"/>
+        <p>zurückgreift, der zu Anfang der Behandlung unsinnig und un<lb break="no"/>verständlich
+          erschien, und der nun durch die seither gewonnenen<lb/> Einsichten eine völlige Klärung
+          erfährt. Nimmt man aus der<lb/> Theorie des Traumes das Argument hinzu, daß die
+          vorbildlichen<lb/> Traumleistungen der Kinder durchwegs sinnvoll und leicht deut<lb
+            break="no"/>bar sind, so wird man sich zur Behauptung berechtigt ﬁnden, der<lb/> Traum
+          sei ganz allgemein ein deutbares psychisches Gebilde, wenn—<lb/> gleich die Situation
+          nicht immer die Deutung zu geben gestattet.<lb break="paragraph"/>
         </p>
-        <p>Wenn man die Deutung eines Traumes gefunden hat, ist es<lb/> nicht immer leicht zu entscheiden, ob sie eine „vollständige“ ist,<lb/> d. h. ob nicht auch andere vorbewußte Gedanken sich durch<lb/> denselben Traum“ Ausdruck verschafft haben. Als erwiesen hat<lb/> dann jener Sinn zu gelten, der sich auf die Einiälle des<lb/> Träumers und» die Einschätzung der Situation berufen kann,<lb/> ohne daß man darum den anderen Sinn jedesmal abweisen<lb/> dürfte. Er bleibt möglich, wenn auch unerwiesen; man muß sich<lb/> mit der Tatsache einer solchen Vieldeutigkeit der Träume<lb/> hefreunden. Diese ist übrigens nicht jedesmal einer Unvollkommen—<lb/> heit der Deutuilgsarbeit zur Last zu legen, sie kann ebensowohl<lb/> an den latenten- Traumgedanken selbst haften. Der Fall, daß wir<lb/> unsicher bleiben, ob» eine Äußerung, die wir gehört, eine Aus<lb break="no"/>kunft, die wir erhalten haben, diese oder jene Auslegung zu<lb break="no"/>lassen, außer ihrem oﬂenberen Sinn noch etwas anderes andeuten,<lb/> ereignet sich ja auch im Wachleben und außerhalb der Situation<lb/> der Traumdeutung.<lb break="paragraph"/>
+        <p>Wenn man die Deutung eines Traumes gefunden hat, ist es<lb/> nicht immer leicht zu
+          entscheiden, ob sie eine „vollständige“ ist,<lb/> d. h. ob nicht auch andere vorbewußte
+          Gedanken sich durch<lb/> denselben Traum“ Ausdruck verschafft haben. Als erwiesen hat<lb/>
+          dann jener Sinn zu gelten, der sich auf die Einiälle des<lb/> Träumers und» die
+          Einschätzung der Situation berufen kann,<lb/> ohne daß man darum den anderen Sinn jedesmal
+          abweisen<lb/> dürfte. Er bleibt möglich, wenn auch unerwiesen; man muß sich<lb/> mit der
+          Tatsache einer solchen Vieldeutigkeit der Träume<lb/> hefreunden. Diese ist übrigens nicht
+          jedesmal einer Unvollkommen—<lb/> heit der Deutuilgsarbeit zur Last zu legen, sie kann
+          ebensowohl<lb/> an den latenten- Traumgedanken selbst haften. Der Fall, daß wir<lb/>
+          unsicher bleiben, ob» eine Äußerung, die wir gehört, eine Aus<lb break="no"/>kunft, die
+          wir erhalten haben, diese oder jene Auslegung zu<lb break="no"/>lassen, außer ihrem
+          oﬂenberen Sinn noch etwas anderes andeuten,<lb/> ereignet sich ja auch im Wachleben und
+          außerhalb der Situation<lb/> der Traumdeutung.<lb break="paragraph"/>
         </p>
-        <p>Zu weniguntersucht sind die interessanten Vorkommnisse, daß<lb/> derselbe manifeste Trauminhalt gleichzeitig einer konkreten Vor—<lb/> stellungsreihe und einer abstrakten Gedankenfolge, die an erstere<lb/> angelehnt ist, Ausdruck gibt. Der Traumarbeit macht es natür—<lb/> lich Schwierigkeiten, die Vorstellungsmittel für abstrakte Gedanken<lb/> zu finden.<lb break="paragraph"/>
+        <p>Zu weniguntersucht sind die interessanten Vorkommnisse, daß<lb/> derselbe manifeste
+          Trauminhalt gleichzeitig einer konkreten Vor—<lb/> stellungsreihe und einer abstrakten
+          Gedankenfolge, die an erstere<lb/> angelehnt ist, Ausdruck gibt. Der Traumarbeit macht es
+          natür—<lb/> lich Schwierigkeiten, die Vorstellungsmittel für abstrakte Gedanken<lb/> zu
+            finden.<lb break="paragraph"/>
         </p>
         <p>
           <lb break="paragraph"/>

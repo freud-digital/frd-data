@@ -2,9 +2,11 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="work" level="a">Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
-        <title type="manifestation" level="a">Die okkulte Bedeutung des Traumes (1900-001/1925)</title>
-        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische Gesamtausgabe</title>
+        <title type="work" level="a">Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
+        <title type="manifestation" level="a">Die okkulte Bedeutung des Traumes
+          (1900-001/1925)</title>
+        <title type="series" level="s">Sigmund Freud Edition: Digitale Historisch-Kritische
+          Gesamtausgabe</title>
         <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
         <editor>
           <name>Diercks, Christine</name>
@@ -30,11 +32,13 @@
           <name>Rohrwasser, Michael</name>
         </respStmt>
         <respStmt>
-          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung, Signaturen, Referenzsystem</resp>
+          <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
+            Signaturen, Referenzsystem</resp>
           <name>Diercks, Christine</name>
         </respStmt>
         <respStmt>
-          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung, Faksimile-Ausgabe, Bibliografie</resp>
+          <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
+            Faksimile-Ausgabe, Bibliografie</resp>
           <name>Blatow, Arkadi</name>
         </respStmt>
         <respStmt>
@@ -60,21 +64,29 @@
         <date when="2022">2022</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0">
-            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten</p>
-            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.</p>
-            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
-            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
-                     Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze
-                     gerade Sie oder Ihre Nutzung besonders.</p>
-            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder technische Verfahren einsetzen,
-                     die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.</p>
+            <p>Sie dürfen: Teilen — das Material in jedwedem Format oder Medium vervielfältigen und
+              weiterverbreiten</p>
+            <p>Bearbeiten — das Material remixen, verändern und darauf aufbauen und zwar für
+              beliebige Zwecke, sogar kommerziell.</p>
+            <p>Der Lizenzgeber kann diese Freiheiten nicht widerrufen solange Sie sich an die
+              Lizenzbedingungen halten. Unter folgenden Bedingungen:</p>
+            <p>Namensnennung — Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+              zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben
+              dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass
+              der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung
+              besonders.</p>
+            <p>Keine weiteren Einschränkungen — Sie dürfen keine zusätzlichen Klauseln oder
+              technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+              Lizenz erlaubt.</p>
             <p>Hinweise:</p>
-            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen und
-                     Schranken des Urheberrechts gedeckt sind.</p>
-            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet.
-                     Die Lizenz verschafft Ihnen möglicherweise nicht alle Erlaubnisse,
-                     die Sie für die jeweilige Nutzung brauchen.
-                     Es können beispielsweise andere Rechte wie Persönlichkeits- undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend beschränken.</p>
+            <p>Sie müssen sich nicht an diese Lizenz halten hinsichtlich solcher Teile des
+              Materials, die gemeinfrei sind, oder soweit Ihre Nutzungshandlungen durch Ausnahmen
+              und Schranken des Urheberrechts gedeckt sind.</p>
+            <p>Es werden keine Garantien gegeben und auch keine Gewähr geleistet. Die Lizenz
+              verschafft Ihnen möglicherweise nicht alle Erlaubnisse, die Sie für die jeweilige
+              Nutzung brauchen. Es können beispielsweise andere Rechte wie Persönlichkeits-
+              undDatenschutzrechte zu beachten sein, die Ihre Nutzung des Materials entsprechend
+              beschränken.</p>
           </licence>
         </availability>
       </publicationStmt>
@@ -92,19 +104,22 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>381 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -113,14 +128,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>373 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1931.2">
@@ -134,14 +151,16 @@
               <title type="publication-short">Kl. 8° [4]</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
                 <date when="1931-01-02">1931-01-02</date>
               </imprint>
               <extent>377 Seiten</extent>
-              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur Traumlehre</biblScope>
+              <biblScope unit="volume">Kleine Schriften zur Sexualtheorie und zur
+                Traumlehre</biblScope>
             </monogr>
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1910">
@@ -153,8 +172,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>45 Seiten</extent>
               <biblScope unit="volume">1/2</biblScope>
             </monogr>
@@ -170,7 +188,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -192,11 +211,11 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>385 Seiten</extent>
               <biblScope unit="volume">4</biblScope>
               <biblScope unit="year">2</biblScope>
@@ -211,8 +230,7 @@
               <title type="publication">Zentralblatt für Psychoanalyse</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                        </imprint>
+              <imprint> </imprint>
               <extent>192 Seiten</extent>
               <biblScope unit="volume">5/6</biblScope>
               <biblScope unit="year">1</biblScope>
@@ -238,12 +256,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -288,12 +309,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -310,12 +334,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -328,7 +355,8 @@
           </biblStruct>
           <biblStruct xml:id="bibl-1900-001-1925.4">
             <analytic>
-              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der Träume</title>
+              <title type="manifestation">Die sittliche Verantwortung für den Inhalt der
+                Träume</title>
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
@@ -337,7 +365,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -358,12 +387,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -387,12 +419,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -433,12 +468,14 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel. Humanitätsvereine „B’nai B’rith”</title>
+              <title type="publication">Vierteljahrs-Bericht für die Mitglieder der österr. israel.
+                Humanitätsvereine „B’nai B’rith”</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann, S.</name>
+                <name type="person" ref="#p__69f9dc02-5899-4679-bd66-f618bd0741cf">Ehrmann,
+                  S.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -467,7 +504,8 @@
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -487,7 +525,8 @@
               <title type="publication-short">GS 3</title>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer, A.J.</name>
+                <name type="person" ref="#p__348d6af3-824c-4e43-bdc0-f8bca83c2819">Storfer,
+                  A.J.</name>
               </respStmt>
               <imprint>
                 <pubPlace>Zürich</pubPlace>
@@ -510,12 +549,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -532,12 +574,15 @@
               <author ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</author>
             </analytic>
             <monogr>
-              <title type="publication">Internationale Zeitschrift für ärztliche Psychoanalyse</title>
-              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen Vereinigung</title>
+              <title type="publication">Internationale Zeitschrift für ärztliche
+                Psychoanalyse</title>
+              <title type="publication-sub">Offizielles Organ der Internationalen Psychoanalytischen
+                Vereinigung</title>
               <title type="publication-short"/>
               <respStmt>
                 <resp>Herausgegeben von</resp>
-                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud, Sigmund</name>
+                <name type="person" ref="#p__80f26163-0581-4079-a0ce-4f2417f09b97">Freud,
+                  Sigmund</name>
               </respStmt>
               <imprint>
                 <pubPlace>Wien</pubPlace>
@@ -557,8 +602,7 @@
               <title type="publication">Pester Lloyd. Morgenblatt</title>
               <title type="publication-sub"/>
               <title type="publication-short"/>
-              <imprint>
-                     </imprint>
+              <imprint> </imprint>
               <extent>9</extent>
               <biblScope unit="volume">201</biblScope>
               <biblScope unit="year">72</biblScope>
@@ -580,12 +624,12 @@
                 </respStmt>
                 <respStmt>
                   <resp>Konzept für die Edition und die Datenbank, Richtlinien, Quellenforschung,
-                              Signaturen, Referenzsystem</resp>
+                    Signaturen, Referenzsystem</resp>
                   <name>Diercks, Christine</name>
                 </respStmt>
                 <respStmt>
                   <resp>Quellenforschung, Digitalisierung der Datenquellen, Bildbearbeitung,
-                              Faksimile-Ausgabe, Bibliografie</resp>
+                    Faksimile-Ausgabe, Bibliografie</resp>
                   <name>Blatow, Arkadi</name>
                 </respStmt>
                 <respStmt>
@@ -596,13 +640,16 @@
                 </respStmt>
                 <date when="2022">2022</date>
                 <idno type="signature">1900-001/1925</idno>
-                <idno type="url">https://www.freud-edition.net/werke/die-okkulte-bedeutung-des-traumes/druckversion-3</idno>
-                <idno type="api">https://www.freud-edition.net/jsonapi/node/manifestation/9f71581e-3177-4692-a2d0-92cf35ea01e1</idno>
+                <idno type="url"
+                  >https://www.freud-edition.net/werke/die-okkulte-bedeutung-des-traumes/druckversion-3</idno>
+                <idno type="api"
+                  >https://www.freud-edition.net/jsonapi/node/manifestation/9f71581e-3177-4692-a2d0-92cf35ea01e1</idno>
                 <relatedItem type="work">
                   <bibl xml:id="bibl__dce0b091-7de7-4914-8401-998f575029c4">
-                    <title>Freud, Sigmund  (1900-001; 1900a): Die Traumdeutung</title>
+                    <title>Freud, Sigmund (1900-001; 1900a): Die Traumdeutung</title>
                     <idno type="url">https://www.freud-edition.net/traumdeutung</idno>
-                    <idno type="api">https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
+                    <idno type="api"
+                      >https://www.freud-edition.net/jsonapi/node/werk/dce0b091-7de7-4914-8401-998f575029c4</idno>
                   </bibl>
                 </relatedItem>
               </bibl>
@@ -611,13 +658,13 @@
               <msDesc>
                 <msIdentifier>
                   <repository>Digiteca</repository>
-                  <idno type="api">https://www.freud-edition.net/jsonapi/taxonomy_term/archive/2efb450e-4141-4e1b-b42a-6dc88c269d2f</idno>
+                  <idno type="api"
+                    >https://www.freud-edition.net/jsonapi/taxonomy_term/archive/2efb450e-4141-4e1b-b42a-6dc88c269d2f</idno>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
                     <supportDesc>
-                      <support>
-Buch aus <material>Papier</material> in Druckschrift .                                 </support>
+                      <support> Buch aus <material>Papier</material> in Druckschrift . </support>
                     </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -635,11 +682,14 @@ Buch aus <material>Papier</material> in Druckschrift .                          
     </fileDesc>
     <encodingDesc>
       <tagsDecl>
-        <rendition xml:id="smallcaps" scheme="css" selector="hi">font-variant:small-caps;letter-spacing:8px;</rendition>
+        <rendition xml:id="smallcaps" scheme="css" selector="hi"
+          >font-variant:small-caps;letter-spacing:8px;</rendition>
         <rendition xml:id="em" scheme="css" selector="hi">font-style:italic;</rendition>
         <rendition xml:id="bold" scheme="css" selector="hi">font-weight:bold;</rendition>
-        <rendition xml:id="footnote-index" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
-        <rendition xml:id="sub" scheme="css" selector="hi">vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="footnote-index" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
+        <rendition xml:id="sub" scheme="css" selector="hi"
+          >vertical-align:sub;font-size:smaller;</rendition>
         <rendition xml:id="marginalie_place" selector="p">TBA</rendition>
         <rendition xml:id="title" selector="p[@class='title']">Haupttitle des Dokuments</rendition>
         <rendition xml:id="h1" selector="p[@class='h1']">Titel eines Paragraphen</rendition>
@@ -651,7 +701,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
       </langUsage>
     </profileDesc>
     <revisionDesc status="proposed">
-      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen Korrektur der diplomatischen Umschrift.</change>
+      <change who="#dstoxreiter" when="2022-12-29">Der Status 'proposed' entspricht einer offenen
+        Korrektur der diplomatischen Umschrift.</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -662,23 +713,75 @@ Buch aus <material>Papier</material> in Druckschrift .                          
           <lb break="paragraph"/>
         </p>
         <pb n="2" xml:id="page__3c2eb179-3468-4885-a716-fc68344cd0a5"/>
-        <p>än kompeutuiﬂinte üillrlrhmh<lb break="no"/>gehnlte.<lb/> $uﬂnveyfi, 7. &amp;»iem‘bev.<lb break="paragraph"/>
+        <p>än kompeutuiﬂinte üillrlrhmh<lb break="no"/>gehnlte.<lb/> $uﬂnveyfi, 7. &amp;»iem‘bev.<lb
+            break="paragraph"/>
         </p>
         <p>:pn_1 einer überuuh iclnonngvollui 91nipmcl)e hat im<lb break="paragraph"/>
         </p>
-        <p>. in{2e $iini1krprüiihmt $niniené heute in @eni<lb/> : hiß1ﬂhtißt tillnzeximrudm hc; ßölter-lyniiheri er<lb break="no"/>öffnet. [ﬁn ebrlid) numeinieß ﬁiulﬁoi crflmiß in ieincn<lb/> %3mten, aß er, baä Überhaupt cinee chen im kann iclnue=<lb/> ren otmrllrn Gomen heimneluchien 5.‘unhcä, fein periön=<lb/> liebe; (Ericl7einen in [he-uf aß Eiweiß fiir hn5 nmrmt Sin<lb/> terelie unh hie linden 8nlunftﬁhoﬁnungeu qeltenh inur!)tc,<lb/> hie %run!niclr htm ﬂirten hieier %nlhturiun entgegen<lb break="no"/>hritm’r. Sbiv: (Erwartungen, bir: herr ffil7renhe franßöiiiil}e<lb/> Giantßma.nn an -hnß ilEallen be} 7l?öifcrbuutfeh lnüpft,<lb/> ﬁllh merhnürbigemeiie noch immer nid)! angetränlilt<lb/> han her $l'aﬂe bei ifevtiidyen ®ebnnlens, bei; hielt iliultre<lb/> $!öfp_erirhait hißl)er alleh eher Denn und) nur hie leiiefle<lb/> Gigmnm sur: @dyliüiung böltmrennenber (hegenlüae<lb/> huré) hie moraliielrtn Win®tmittel her Mxl)eu unh @e=<lb/> ul!)tigleit an hm ‘Ing nelte hat. ﬂag css mirflnﬁ (ging<lb/> an hen aﬂerhings bobtutiamen Süden. hin rim<lb/> immenlclr'mnß quhnciit‘? mt hie Ehnrnorlyl be; 313iilter:<lb/> unhe5 in ‘l‘3ii’flidyfeit bloß auf hie '„lecren %iinfe“<lb/> eurüci5nführen, hie uhn hen ﬂ3ertreitm SDeuiivlflmvbß,<lb/> 5iuélnnh£ uni; bei: ?3ereiniglen Einnten run 9lineriln und)<lb/> immer nicht beith linh? ibm: ‘Bainlenl Rheinl in her<lb/> im lnltl)er 91niicl)t 3u icitß uni) ii*lner nuiriäytigen Eel)m<lb/> (|:ch nad“) ﬂ!öllemerlölynunu gereid;m hie manner: ‘]Bnrie<lb/> iehenfnllß gut ﬁlm, ‘n herren er Ecutldylmih in aller<lb/> 53mm einluh,‘nn &amp;] haben 3ielen bei? !}iillerbunheh<lb/> tätig mitgmnitten. .%Riliel) xvirh bet unbemnnnne %e=<lb/> nﬁnn'qm: ldmxtllrl; hen 8meiiel unierhrürfen lünncn, nl:<lb/> allein mit hem SBeilrlit SDeutidqunhß unh — lagen nur —<lb break="no"/>und; bei: übrigen heute mil; außerhalb |'teﬁenhen @taaten<lb/> ber %lleflmnh hie ?nuglinäleit enoorhen haben mir!), ﬁrl)<lb/> als hu} ' ‘ ” ' W er Seiner ‘Eyfrimmnnn nnh<lb/> ‘ .- .19'41 hätte; als _her__Gle<lb break="no"/>
+        <p>. in{2e $iini1krprüiihmt $niniené heute in @eni<lb/> : hiß1ﬂhtißt tillnzeximrudm hc;
+          ßölter-lyniiheri er<lb break="no"/>öffnet. [ﬁn ebrlid) numeinieß ﬁiulﬁoi crflmiß in
+          ieincn<lb/> %3mten, aß er, baä Überhaupt cinee chen im kann iclnue=<lb/> ren otmrllrn
+          Gomen heimneluchien 5.‘unhcä, fein periön=<lb/> liebe; (Ericl7einen in [he-uf aß Eiweiß
+          fiir hn5 nmrmt Sin<lb/> terelie unh hie linden 8nlunftﬁhoﬁnungeu qeltenh inur!)tc,<lb/>
+          hie %run!niclr htm ﬂirten hieier %nlhturiun entgegen<lb break="no"/>hritm’r. Sbiv:
+          (Erwartungen, bir: herr ffil7renhe franßöiiiil}e<lb/> Giantßma.nn an -hnß ilEallen be}
+          7l?öifcrbuutfeh lnüpft,<lb/> ﬁllh merhnürbigemeiie noch immer nid)! angetränlilt<lb/> han
+          her $l'aﬂe bei ifevtiidyen ®ebnnlens, bei; hielt iliultre<lb/> $!öfp_erirhait hißl)er
+          alleh eher Denn und) nur hie leiiefle<lb/> Gigmnm sur: @dyliüiung böltmrennenber
+          (hegenlüae<lb/> huré) hie moraliielrtn Win®tmittel her Mxl)eu unh @e=<lb/> ul!)tigleit an
+          hm ‘Ing nelte hat. ﬂag css mirflnﬁ (ging<lb/> an hen aﬂerhings bobtutiamen Süden. hin
+          rim<lb/> immenlclr'mnß quhnciit‘? mt hie Ehnrnorlyl be; 313iilter:<lb/> unhe5 in
+          ‘l‘3ii’flidyfeit bloß auf hie '„lecren %iinfe“<lb/> eurüci5nführen, hie uhn hen ﬂ3ertreitm
+          SDeuiivlflmvbß,<lb/> 5iuélnnh£ uni; bei: ?3ereiniglen Einnten run 9lineriln und)<lb/>
+          immer nicht beith linh? ibm: ‘Bainlenl Rheinl in her<lb/> im lnltl)er 91niicl)t 3u icitß
+          uni) ii*lner nuiriäytigen Eel)m<lb/> (|:ch nad“) ﬂ!öllemerlölynunu gereid;m hie manner:
+          ‘]Bnrie<lb/> iehenfnllß gut ﬁlm, ‘n herren er Ecutldylmih in aller<lb/> 53mm einluh,‘nn
+          &amp;] haben 3ielen bei? !}iillerbunheh<lb/> tätig mitgmnitten. .%Riliel) xvirh bet
+          unbemnnnne %e=<lb/> nﬁnn'qm: ldmxtllrl; hen 8meiiel unierhrürfen lünncn, nl:<lb/> allein
+          mit hem SBeilrlit SDeutidqunhß unh — lagen nur —<lb break="no"/>und; bei: übrigen heute
+          mil; außerhalb |'teﬁenhen @taaten<lb/> ber %lleflmnh hie ?nuglinäleit enoorhen haben
+          mir!), ﬁrl)<lb/> als hu} ' ‘ ” ' W er Seiner ‘Eyfrimmnnn nnh<lb/> ‘ .- .19'41 hätte; als
+            _her__Gle<lb break="no"/>
         </p>
         <p>*w<lb/> ßßi! e‘<lb break="paragraph"/>
         </p>
-        <p>' ' en.<lb/> _ . en mnieazm—nnine’m n_mrns uiib‘ im<lb/> ﬂl3l)fl)nili til nuiglrid)l unlb «hnhurcb ,hie ©einhr- huge<lb break="no"/>rilä)er ﬁmhio'lnnaen anlierni. ' ,_<lb/> lini will hehlmlcn, haft nur!) wenn hie gegeninurligen<lb/> 2üüen in im 3uicrmmeniebrmp beä $Bunbté_ﬁrh |:l)lu|3tn.<lb/> a )h @ her em hi5herigrn i£hirfm unltcte,<lb break="paragraph"/>
+        <p>' ' en.<lb/> _ . en mnieazm—nnine’m n_mrns uiib‘ im<lb/> ﬂl3l)fl)nili til nuiglrid)l unlb
+          «hnhurcb ,hie ©einhr- huge<lb break="no"/>rilä)er ﬁmhio'lnnaen anlierni. ' ,_<lb/> lini
+          will hehlmlcn, haft nur!) wenn hie gegeninurligen<lb/> 2üüen in im 3uicrmmeniebrmp beä
+          $Bunbté_ﬁrh |:l)lu|3tn.<lb/> a )h @ her em hi5herigrn i£hirfm unltcte,<lb
+            break="paragraph"/>
         </p>
         <p>;Ecuil_letou.<lb/> illuﬁhalild)et ®plimiemua.<lb break="paragraph"/>
         </p>
         <p>‘—3um Beginnher'äaiion. ——<lb/> ihm ®:. Giga !Jlnlnﬁr.<lb break="paragraph"/>
         </p>
-        <p>8er ift hu optimil“i®? ®:: -Dnernhirehlnr aber her<lb/> Ronaerlmrmnqgur, ht: SDluiiier aber gar hie Wit itl‘ßez‘l<lb/> SUI: ünh ii: momentan ineltireuhin geltunmt. link und;<lb/> mit kann um; hellen. bonn ohne @drumelycrer, ol7ne ﬂ}w<lb/> muenéleliuleii nilrbei feine (£;rnte. 9111! wenn mu ha;<lb/> ®d)iiffnl in hie Etljrunlen fnrh:rt, lunn um} unter: lim:<lb/> ila'nhen ha} ‘."rclh $ehnunlen, hen Exeg( erringen. Sim!)<lb/> item (Med)! im iheatet= unb 5innxertinnl. hem heißen<lb/> Slamvi um ein grnige5 unh anleiunqémlymß„ SBuiäilifnni<lb/> Ieiftrn i&gt;cfaitilhen leine wien ’Eienire. ißnﬁ_tenh bei<lb/> €urnmerß inlr man auf iiber ‘Si'mfe (Eumhaä ragenhhiﬁ<lb/> muhlgnnnle unh mil allen uiiiglidyen_ßqlirten anne:<lb/> ftnitete iin;mrn lragcln, gnnhrln, lclymnnmen _ imb<lb/> iori°ntlen. Eoﬂem hide €»lenhrhtn bon hen Ecchehex_m<lb/> bmn ßernmt Shetlanh unh ‘he_m ﬂügnhei'pnß '}mtl'lii)<lb/> min auf hat&amp; $;Bl7ii'be her [?remchrglcrt lichen niit her<lb/> EUiu"il 11 er ' <lb break="no"/>
+        <p>8er ift hu optimil“i®? ®:: -Dnernhirehlnr aber her<lb/> Ronaerlmrmnqgur, ht: SDluiiier
+          aber gar hie Wit itl‘ßez‘l<lb/> SUI: ünh ii: momentan ineltireuhin geltunmt. link
+          und;<lb/> mit kann um; hellen. bonn ohne @drumelycrer, ol7ne ﬂ}w<lb/> muenéleliuleii
+          nilrbei feine (£;rnte. 9111! wenn mu ha;<lb/> ®d)iiffnl in hie Etljrunlen fnrh:rt, lunn
+          um} unter: lim:<lb/> ila'nhen ha} ‘."rclh $ehnunlen, hen Exeg( erringen. Sim!)<lb/> item
+          (Med)! im iheatet= unb 5innxertinnl. hem heißen<lb/> Slamvi um ein grnige5 unh
+          anleiunqémlymß„ SBuiäilifnni<lb/> Ieiftrn i&gt;cfaitilhen leine wien ’Eienire. ißnﬁ_tenh
+          bei<lb/> €urnmerß inlr man auf iiber ‘Si'mfe (Eumhaä ragenhhiﬁ<lb/> muhlgnnnle unh mil
+          allen uiiiglidyen_ßqlirten anne:<lb/> ftnitete iin;mrn lragcln, gnnhrln, lclymnnmen _
+          imb<lb/> iori°ntlen. Eoﬂem hide €»lenhrhtn bon hen Ecchehex_m<lb/> bmn ßernmt Shetlanh unh
+          ‘he_m ﬂügnhei'pnß '}mtl'lii)<lb/> min auf hat&amp; $;Bl7ii'be her [?remchrglcrt lichen
+          niit her<lb/> EUiu"il 11 er ' <lb break="no"/>
         </p>
-        <p>1a&gt;ifgiii1ue Dvcrnhireltor mag! hub @piel. li: mü_éle<lb/> in Diele: ®:ilon ungefähr ein lyulheä ßneenh ilieul7eiien<lb/> unh hnnelrcn noch eine Reihe non 9ie_hnicn _bnngen./<lb/> Chegen hie ‘!lußmulgl her 'éi1'nlc läßt ﬁ_dlr _nn grauen imh<lb/> ,nungen nitfiliw einmcnbcn. C5ä_ il)iircﬁfltilltl) urtergﬂunt,<lb/> Dem pnpulnitltcn aller 9icutoner, agor Girnronuihp<lb/> mieher einmal im £)pern mit an begegnen, t_mn lernen<lb/> iitn;reten unh iiimgllen erlen um hit „Giee6ndytc h&amp;<lb/> Gnlhaten“. „*Bulcineliu" unh „Slienarh“ _5n hören. nher:<lb/> hie mit lturlem @rfnlg nuf_r,tftiiilyte lnmrlrlye ,ﬁlm dann<lb/> Eoli:%trmri „‘Die vier @)rohianc" tennensnlernen.<lb/> Zillein her 5iuiie imrh ill)! gut niith humy iii-ln ßuthfll,<lb/> hellen $13entimi'iinlc „332: mmherlmre ‘.lllanhnnn" enhlu_l)<lb/> muß her Emile gehoben mirh, uni) l'li_l %ufrnfi'gl ll_ﬂßi!lf<lb/> man mit hen ungarilrl)en ﬂliündyl)amen „iié.n Janus“<lb/> han Rohdln. ©ti‘itte, beten ﬂlutoren uni qn_na nahe {leben.<lb/> i'll5 weitere unqnnlrln Sliwitiir iit „'Eni'run“. ‘Dieldpim:<lb/> ßcnqi1el9 nnh Ibehhnr ©5ülrtbii ﬁlm, in !Iußi'id)t ge=<lb break="paragraph"/>
+        <p>1a&gt;ifgiii1ue Dvcrnhireltor mag! hub @piel. li: mü_éle<lb/> in Diele: ®:ilon ungefähr
+          ein lyulheä ßneenh ilieul7eiien<lb/> unh hnnelrcn noch eine Reihe non 9ie_hnicn
+          _bnngen./<lb/> Chegen hie ‘!lußmulgl her 'éi1'nlc läßt ﬁ_dlr _nn grauen imh<lb/> ,nungen
+          nitfiliw einmcnbcn. C5ä_ il)iircﬁfltilltl) urtergﬂunt,<lb/> Dem pnpulnitltcn aller
+          9icutoner, agor Girnronuihp<lb/> mieher einmal im £)pern mit an begegnen, t_mn lernen<lb/>
+          iitn;reten unh iiimgllen erlen um hit „Giee6ndytc h&amp;<lb/> Gnlhaten“. „*Bulcineliu" unh
+          „Slienarh“ _5n hören. nher:<lb/> hie mit lturlem @rfnlg nuf_r,tftiiilyte lnmrlrlye ,ﬁlm
+          dann<lb/> Eoli:%trmri „‘Die vier @)rohianc" tennensnlernen.<lb/> Zillein her 5iuiie imrh
+          ill)! gut niith humy iii-ln ßuthfll,<lb/> hellen $13entimi'iinlc „332: mmherlmre
+          ‘.lllanhnnn" enhlu_l)<lb/> muß her Emile gehoben mirh, uni) l'li_l %ufrnfi'gl
+          ll_ﬂßi!lf<lb/> man mit hen ungarilrl)en ﬂliündyl)amen „iié.n Janus“<lb/> han Rohdln.
+          ©ti‘itte, beten ﬂlutoren uni qn_na nahe {leben.<lb/> i'll5 weitere unqnnlrln Sliwitiir iit
+          „'Eni'run“. ‘Dieldpim:<lb/> ßcnqi1el9 nnh Ibehhnr ©5ülrtbii ﬁlm, in !Iußi'id)t ge=<lb
+            break="paragraph"/>
         </p>
         <p>W$._ aimﬁtßß,<lb break="paragraph"/>
         </p>
@@ -690,49 +793,164 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>KORG E NB‘LAT-T<lb break="paragraph"/>
         </p>
-        <p>M,ariinhlidy Inunheln mut, hm“; er, um itinem haben<lb/> 5?er gerecht werben au lötmen, unrerit fiel; lelhft eu<lb/> laulem l;nt'tt von einem Feelild;en i”efelt, ha} mir leihen<lb/> in html _eé auch llinpen man, als lmnfl;afizä EIRißimuen<lb/> gegen hie ﬂ_limijt her iiSn'l1rlxit imh ht! läcrecljiigl‘e'rt ht=<lb/> ßelil7nen inuli-en Um nicht hiel ﬂott: mmßru au müﬁen.<lb/> nmlien„nnr hxeé leitimne momlilil):pil)diiiclpe (Eehre®en<lb/> bei: Tvolierl7unhgä (ill einem lbnh'ehcit %ull haltudnen.<lb/> ‘Der %ull herum h_ie 9lngeleppenl7eil ber bein ungariidyen<lb/> %»olßy'tamrn angeﬁe‘nigrn 6iehler im ‘Hmmt unh Gießen—<lb/> lvnrnen. ”Enefem itßinnritiimninlitier war von hat rumä=<lb/> 7nldyen )Reqrerun_u ein oiienlmeß Llnml)i \hiberfnluen.<lb/> ein 1tnrerbt, ha2- in bimnetrairm ®egcnlaia 511 hen um<lb/> .‘Runuinien im tillinon:iilewlclrulwerirng übernommenen<lb/> lkrnil_r_d;fnnge_n [um. (€; hnnhelt lid) hier um mm 2000<lb/> ungamée &amp;Ieurgtnnhhcﬁhen Die im mehr nlä hier kabza<lb break="paragraph"/>
+        <p>M,ariinhlidy Inunheln mut, hm“; er, um itinem haben<lb/> 5?er gerecht werben au lötmen,
+          unrerit fiel; lelhft eu<lb/> laulem l;nt'tt von einem Feelild;en i”efelt, ha} mir
+          leihen<lb/> in html _eé auch llinpen man, als lmnfl;afizä EIRißimuen<lb/> gegen hie
+          ﬂ_limijt her iiSn'l1rlxit imh ht! läcrecljiigl‘e'rt ht=<lb/> ßelil7nen inuli-en Um nicht
+          hiel ﬂott: mmßru au müﬁen.<lb/> nmlien„nnr hxeé leitimne momlilil):pil)diiiclpe
+          (Eehre®en<lb/> bei: Tvolierl7unhgä (ill einem lbnh'ehcit %ull haltudnen.<lb/> ‘Der %ull
+          herum h_ie 9lngeleppenl7eil ber bein ungariidyen<lb/> %»olßy'tamrn angeﬁe‘nigrn 6iehler im
+          ‘Hmmt unh Gießen—<lb/> lvnrnen. ”Enefem itßinnritiimninlitier war von hat rumä=<lb/>
+          7nldyen )Reqrerun_u ein oiienlmeß Llnml)i \hiberfnluen.<lb/> ein 1tnrerbt, ha2- in
+          bimnetrairm ®egcnlaia 511 hen um<lb/> .‘Runuinien im tillinon:iilewlclrulwerirng
+          übernommenen<lb/> lkrnil_r_d;fnnge_n [um. (€; hnnhelt lid) hier um mm 2000<lb/> ungamée
+          &amp;Ieurgtnnhhcﬁhen Die im mehr nlä hier kabza<lb break="paragraph"/>
         </p>
-        <p>gelungen non her ungariielmn Regierung in hen<lb/> beire[[eiihtn ‘3nnbh3teäim nuf einem 9Irenl bon<lb/> ungernlyr 24.000 Sind; nnneüebelt werben fmh.<lb break="paragraph"/>
+        <p>gelungen non her ungariielmn Regierung in hen<lb/> beire[[eiihtn ‘3nnbh3teäim nuf einem
+          9Irenl bon<lb/> ungernlyr 24.000 Sind; nnneüebelt werben fmh.<lb break="paragraph"/>
         </p>
-        <p>i‘n3 rnmeiniiclye $ohenreinrmgeleis l]nt hie lEntcigmmg<lb/> bei ungnrnclxn Q$runhheiiieeh unter htm %ormnnh ange<lb break="no"/>orhnet, hai; hie grﬁﬁeren %elialnmplere 5ericl)lnnen men<lb/> hen nui[ien, um huril) eine heinnlralilnl)erc ißmeilung<lb/> unn_©rnnh unh %ohen hie Heim @1iiien5en 3u Wirt:<lb/> inl)n|iüfl)tr Eellaitiinhigfeit gelungen 5n lnﬁen. EDnS nur<lb/> hj._e gefallige 272n_éle, hinter her lid) her neuen hen unga<lb break="no"/>md7err L»runblzenta geführte ﬂiauhang nerlmm. E'lni hre<lb break="no"/>gmeiinnicnh ungarild)en Rnlonifirn, hie anlammen alles<lb/> in allem 24.000 Sail) heini;en, lonnle hielei iBrinaib<lb/> nid;t nnnctueiyhet werben; hie nmren in html von .\5au5<lb/> nuß Heine en uni: alß ihldlye hereiß mit $uhen<lb/> heieilt„ €hie= l)ltnten her %nhenteiimn hmndﬁcn «lin<lb/> auf fie nicht erit erllmn ﬁll merhm über ﬁe waren ﬁtn<lb break="no"/>gehﬁrige beß ungariichen i!!olfßitammeß. unh ul} lolcl)e<lb/> waren fie hen tunu'iniiclxn Sl)infl)tbnheni ein 911111 im<lb/> ange. 9Min galt eh, ham. ﬂächerureluungeleß eine Eici'tim<lb break="no"/>mung einaunigtn. hie ei ennöulixäle, und) hieie "einen<lb/> lägiltenaen. im auf iin-eh 6iéhlungen ieit}nal)r als nice<lb break="paragraph"/>
+        <p>i‘n3 rnmeiniiclye $ohenreinrmgeleis l]nt hie lEntcigmmg<lb/> bei ungnrnclxn
+          Q$runhheiiieeh unter htm %ormnnh ange<lb break="no"/>orhnet, hai; hie grﬁﬁeren
+          %elialnmplere 5ericl)lnnen men<lb/> hen nui[ien, um huril) eine heinnlralilnl)erc
+          ißmeilung<lb/> unn_©rnnh unh %ohen hie Heim @1iiien5en 3u Wirt:<lb/> inl)n|iüfl)tr
+          Eellaitiinhigfeit gelungen 5n lnﬁen. EDnS nur<lb/> hj._e gefallige 272n_éle, hinter her
+          lid) her neuen hen unga<lb break="no"/>md7err L»runblzenta geführte ﬂiauhang nerlmm. E'lni
+            hre<lb break="no"/>gmeiinnicnh ungarild)en Rnlonifirn, hie anlammen alles<lb/> in allem
+          24.000 Sail) heini;en, lonnle hielei iBrinaib<lb/> nid;t nnnctueiyhet werben; hie nmren in
+          html von .\5au5<lb/> nuß Heine en uni: alß ihldlye hereiß mit $uhen<lb/> heieilt„ €hie=
+          l)ltnten her %nhenteiimn hmndﬁcn «lin<lb/> auf fie nicht erit erllmn ﬁll merhm über ﬁe
+          waren ﬁtn<lb break="no"/>gehﬁrige beß ungariichen i!!olfßitammeß. unh ul} lolcl)e<lb/>
+          waren fie hen tunu'iniiclxn Sl)infl)tbnheni ein 911111 im<lb/> ange. 9Min galt eh, ham.
+          ﬂächerureluungeleß eine Eici'tim<lb break="no"/>mung einaunigtn. hie ei ennöulixäle, und)
+          hieie "einen<lb/> lägiltenaen. im auf iin-eh 6iéhlungen ieit}nal)r als nice<lb
+            break="paragraph"/>
         </p>
-        <p>er an wenig en,]<lb/> Mal-let. be: hu ‘hki'ilgf. hat; und; @ru'nbv<lb/> i-efia lold;er (%igenh'imer. he von Der unga—<lb/> riidl;en Regierung 'jeit htm Salyrr 1885<lb/> im Eliulymen het initemutiid;en €iehlnngßnltinrn<lb/> iulnni1'wrt murhen, her (Enteinnuna verinllen. Cini! eb ie<lb/> einen 5eill her $crlebung heä Winniithienidreiaeß, in) hat<lb break="paragraph"/>
+        <p>er an wenig en,]<lb/> Mal-let. be: hu ‘hki'ilgf. hat; und; @ru'nbv<lb/> i-efia lold;er
+          (%igenh'imer. he von Der unga—<lb/> riidl;en Regierung 'jeit htm Salyrr 1885<lb/> im
+          Eliulymen het initemutiid;en €iehlnngßnltinrn<lb/> iulnni1'wrt murhen, her (Enteinnuna
+          verinllen. Cini! eb ie<lb/> einen 5eill her $crlebung heä Winniithienidreiaeß, in) hat<lb
+            break="paragraph"/>
         </p>
-        <p>i‘mpm Emma ftel}enhe — u‘lio nicht [eig<lb/> nmheene —— fmnnx'ri'viöe Mut?! )d7eint une ‘Dehuﬁni<lb/> „‘Beileuä unb Slileliianhc‘ haß richtige renräientative<lb/> 233617! an iein. Dfmohl iilymi ein. ‘).äirrlelinl7rlynnhett all,<lb/> fnnn eä nminheft auf has Sintereﬁc her ücinlcﬁmeder<lb/> retbnen. it miiellMtcrm Sie iiiel nmrlchier'; non<lb/> ben E°3ri'nien, hie ber bießiäl)ri„e enter.plan anfül)rt, hie<lb/> i!ßiieniirhe £‘per „Cem delle helle" auf. ®iEie<lb/> Sienaiﬁnncmrnteéle hängt hier am in cum; mehr ulh<lb/> eine ©tunhe unh erreicht Durch hicic !l‘terhiflytung einen<lb/> ,ziemlich lebhaften €Bnlhid;lag. mm aber nieht auf bei<lb/> ®tunhlage einen madunien Elml[ipringipß. Slßir lernten<lb/> hen Sizpmponifien iimbcreo @innhonu, hellen „?lnhtt<lb/> (; inicr” imh „‘"gehnrn" auch Bei unb an: 91uiiül7mna<lb/> 9 warten mann, hnrdmuä nicht aß einen Eäyhvfer nun<lb/> außemriigle: Wﬂogtwrnie. (Er mth indie! alte und;<lb/> neue mit, hie einher: $artituren übermgen mürhe.<lb/> 81vei Dunn aué iei-ner %eber nidmx iirr uniere mail<lb break="no"/>fniiicl;e Shennlni; hin, wie nu; h'ällhevtb Mt): „iiei=<lb/> lbunrbiih” unh hie „Enten. ‘llugrn” em.; nuüfommcn genügt<lb/> en.<lb break="paragraph"/>
+        <p>i‘mpm Emma ftel}enhe — u‘lio nicht [eig<lb/> nmheene —— fmnnx'ri'viöe Mut?! )d7eint une
+          ‘Dehuﬁni<lb/> „‘Beileuä unb Slileliianhc‘ haß richtige renräientative<lb/> 233617! an
+          iein. Dfmohl iilymi ein. ‘).äirrlelinl7rlynnhett all,<lb/> fnnn eä nminheft auf has
+          Sintereﬁc her ücinlcﬁmeder<lb/> retbnen. it miiellMtcrm Sie iiiel nmrlchier'; non<lb/> ben
+          E°3ri'nien, hie ber bießiäl)ri„e enter.plan anfül)rt, hie<lb/> i!ßiieniirhe £‘per „Cem
+          delle helle" auf. ®iEie<lb/> Sienaiﬁnncmrnteéle hängt hier am in cum; mehr ulh<lb/> eine
+          ©tunhe unh erreicht Durch hicic !l‘terhiflytung einen<lb/> ,ziemlich lebhaften
+          €Bnlhid;lag. mm aber nieht auf bei<lb/> ®tunhlage einen madunien Elml[ipringipß. Slßir
+          lernten<lb/> hen Sizpmponifien iimbcreo @innhonu, hellen „?lnhtt<lb/> (; inicr” imh
+          „‘"gehnrn" auch Bei unb an: 91uiiül7mna<lb/> 9 warten mann, hnrdmuä nicht aß einen
+          Eäyhvfer nun<lb/> außemriigle: Wﬂogtwrnie. (Er mth indie! alte und;<lb/> neue mit, hie
+          einher: $artituren übermgen mürhe.<lb/> 81vei Dunn aué iei-ner %eber nidmx iirr uniere
+            mail<lb break="no"/>fniiicl;e Shennlni; hin, wie nu; h'ällhevtb Mt): „iiei=<lb/>
+          lbunrbiih” unh hie „Enten. ‘llugrn” em.; nuüfommcn genügt<lb/> en.<lb break="paragraph"/>
         </p>
-        <p>He6‘hrlmnht iii ??»niiü‘len gegeniiber ieher Slmmnlyn<lb/> am ä‘ßla9. $iihn lrunbeti thinﬁlbramen fai5t nicht eine;<lb/> Ihnml. Ssielt man ben legten ?Iumiß ber %etlmer<lb/> 5tbaiäoper, in ibirh eh flat. hai; auch hart hie Elleulwilen<lb/> ich: halb um SReperlhixe hsridpmunhen waren unh hie<lb/> meilbgelpielien Jilomponiltcn nnxföhr.hieielhe .“Reihen=<lb/> ivlqe muiivciien, wie bei uni: Siluteini mit 85 9luﬁüfymn=<lb/> gen, älßagner (80), ‘Bcrhi (70), €tmu'ia (SO) unh<lb/> Eliinam-t (40). @ iii lrlnvrr hie 31dnnfßober,‘ldmer h_ne<lb/> ﬂßunherlcmh einer nicht nur mohemen, ionhern Aughärii:<lb/> gen $irl1tung 511 mtheelcn, '))«lJcr breitet hie ililyaniuli'te<lb break="paragraph"/>
+        <p>He6‘hrlmnht iii ??»niiü‘len gegeniiber ieher Slmmnlyn<lb/> am ä‘ßla9. $iihn lrunbeti
+          thinﬁlbramen fai5t nicht eine;<lb/> Ihnml. Ssielt man ben legten ?Iumiß ber %etlmer<lb/>
+          5tbaiäoper, in ibirh eh flat. hai; auch hart hie Elleulwilen<lb/> ich: halb um SReperlhixe
+          hsridpmunhen waren unh hie<lb/> meilbgelpielien Jilomponiltcn nnxföhr.hieielhe
+          .“Reihen=<lb/> ivlqe muiivciien, wie bei uni: Siluteini mit 85 9luﬁüfymn=<lb/> gen,
+          älßagner (80), ‘Bcrhi (70), €tmu'ia (SO) unh<lb/> Eliinam-t (40). @ iii lrlnvrr hie
+          31dnnfßober,‘ldmer h_ne<lb/> ﬂßunherlcmh einer nicht nur mohemen, ionhern Aughärii:<lb/>
+          gen $irl1tung 511 mtheelcn, '))«lJcr breitet hie ililyaniuli'te<lb break="paragraph"/>
         </p>
         <p>her $Regiileure lieber ﬁlm ältere 23erle irilclyen (Sjlnng. })<lb break="paragraph"/>
         </p>
-        <p>?ie 9lcul7eit ii tout prix iii erlebigt, hie »}epriie im<lb/> Ql-ufftieg. über htm (Ewiclleiter With eh nur hmm nelinx<lb break="paragraph"/>
+        <p>?ie 9lcul7eit ii tout prix iii erlebigt, hie »}epriie im<lb/> Ql-ufftieg. über htm
+          (Ewiclleiter With eh nur hmm nelinx<lb break="paragraph"/>
         </p>
-        <p>gen. _ in hie Chem berqnngetm: 3nﬁrßelynte<lb/> uni: Sebri7unhtrte neue 2idii{hßljlﬂi au nam<lb/> fen, 'meim er niifyt Elvis hie rihﬁeben finnen<lb break="paragraph"/>
+        <p>gen. _ in hie Chem berqnngetm: 3nﬁrßelynte<lb/> uni: Sebri7unhtrte neue 2idii{hßljlﬂi au
+          nam<lb/> fen, 'meim er niifyt Elvis hie rihﬁeben finnen<lb break="paragraph"/>
         </p>
-        <p>%arhen hei 'Elnutemqen'aonenß Willem läßt, imhern<lb/> auch ginn tronmheuiet bei iliocten mirh uni) iellm ;etoire<lb/> nnh liininc Irimme hat. älics\illeut ‘!ch’rtfui [mt fiel) he;<lb/> miil)rt. (Er tritt in eng1'ie ‘Bmibrnnn mit bei ©ee.lg hei<lb/> Eli}:rl&amp; wirft fl!) Dit mliu in hen @lwin her (5erixlple,<lb break="paragraph"/>
+        <p>%arhen hei 'Elnutemqen'aonenß Willem läßt, imhern<lb/> auch ginn tronmheuiet bei iliocten
+          mirh uni) iellm ;etoire<lb/> nnh liininc Irimme hat. älics\illeut ‘!ch’rtfui [mt fiel)
+          he;<lb/> miil)rt. (Er tritt in eng1'ie ‘Bmibrnnn mit bei ©ee.lg hei<lb/> Eli}:rl&amp;
+          wirft fl!) Dit mliu in hen @lwin her (5erixlple,<lb break="paragraph"/>
         </p>
-        <p>norimien. hie, wie mir [den, nin'h in glni1rxrnrn heut<lb/> @niclnlan ongeetliehcrt—roerhm ioll. ﬁn! Die noch. im<lb break="paragraph"/>
+        <p>norimien. hie, wie mir [den, nin'h in glni1rxrnrn heut<lb/> @niclnlan
+          ongeetliehcrt—roerhm ioll. ﬁn! Die noch. im<lb break="paragraph"/>
         </p>
-        <p>„nam in „Fa.ra.ngi hkodalom". „M'n'ul” um:-im<lb/> vrften !lfl her „@nlli'in‘“ mim-, nnhii(lrline nnh Helmh<lb break="no"/>
+        <p>„nam in „Fa.ra.ngi hkodalom". „M'n'ul” um:-im<lb/> vrften !lfl her „@nlli'in‘“ mim-,
+          nnhii(lrline nnh Helmh<lb break="no"/>
         </p>
         <p>&amp; äW ' 719251 ’ "<lb break="paragraph"/>
         </p>
-        <p>um &amp; lyierymii 'eineuv lolcl7cn 3u hin. Rumänien im im<lb/> &amp;_Thnbntnien]diießherttage hie internaiinnale !3czhflicﬁlnm‘<lb/> irbetnnm._men_, hie ungnrﬁd'7: Winherl)eit auf gleidmu.<lb/> %nl3e line hie rumäniinhe €Bgrlfémelyrlyeit r.» &amp;lyanhelrr.‘<lb/> ®er_®eieyeßpwragr_opl;, her hitie ungarilclyen 99lom'ﬁbeni<lb/> um ihren %efia rum, tut hie; nfienhn'e hihi; nun bein<lb/> (itnmhc, tueil_ ﬁe her ungariid7en Wimberlyeil anaehären;<lb break="no"/>hcnn ﬁ_e ﬁnb 1a id)o_n {(eine (!;iit1enaen -unh «fie touren dünn,<lb/> im 23en15e her mr_rl|rl)aithdyen @ellyltiinbiqleii, ba; elet.<lb/> aber 1ft (len ner_d)nﬁen, um ﬁe hum'1 ﬂäcnnnl)me il)!ßi<lb/> ‘Bbi3erié hieier mxmcbnrilicﬁenErlöitiinhigleitau beruhen.<lb break="no"/>$_uß fie lnlrlm Eelpanhluug blog Wegen ihrer 8unehörig-’<lb/> lcrt nun! unanriirbcn Sl}nllältamme teilhaftig ihn-eben, kann<lb/> nnd; allem Eiél;er @einnlen leinem 3incifel unlexlicqen.‘<lb/> i&gt;cn unm-riidxn Rnlnnilten iii mithin bnrify hielt! Giefeie=,<lb/> un_nrfenlmreß “nacht ;,uuefügt morhen, unh ha hielß‘<lb/> ®!)tß' ,man hen Elliinornäteniﬂynbererirng heritäﬂt, mm:“<lb/> &amp; bon nnrnlmein null unh nichtig, hie Sultan; aber, hie<lb/> ha} reihititieehinblieﬁ au6wivrerhen l7ntie. mar chen bet<lb/> ßn'lln‘himh. <lb break="no"/>
+        <p>um &amp; lyierymii 'eineuv lolcl7cn 3u hin. Rumänien im im<lb/>
+          &amp;_Thnbntnien]diießherttage hie internaiinnale !3czhflicﬁlnm‘<lb/> irbetnnm._men_, hie
+          ungnrﬁd'7: Winherl)eit auf gleidmu.<lb/> %nl3e line hie rumäniinhe €Bgrlfémelyrlyeit r.»
+          &amp;lyanhelrr.‘<lb/> ®er_®eieyeßpwragr_opl;, her hitie ungarilclyen 99lom'ﬁbeni<lb/> um
+          ihren %efia rum, tut hie; nfienhn'e hihi; nun bein<lb/> (itnmhc, tueil_ ﬁe her ungariid7en
+          Wimberlyeil anaehären;<lb break="no"/>hcnn ﬁ_e ﬁnb 1a id)o_n {(eine (!;iit1enaen -unh «fie
+          touren dünn,<lb/> im 23en15e her mr_rl|rl)aithdyen @ellyltiinbiqleii, ba; elet.<lb/> aber
+          1ft (len ner_d)nﬁen, um ﬁe hum'1 ﬂäcnnnl)me il)!ßi<lb/> ‘Bbi3erié hieier
+          mxmcbnrilicﬁenErlöitiinhigleitau beruhen.<lb break="no"/>$_uß fie lnlrlm Eelpanhluug blog
+          Wegen ihrer 8unehörig-’<lb/> lcrt nun! unanriirbcn Sl}nllältamme teilhaftig ihn-eben,
+          kann<lb/> nnd; allem Eiél;er @einnlen leinem 3incifel unlexlicqen.‘<lb/> i&gt;cn
+          unm-riidxn Rnlnnilten iii mithin bnrify hielt! Giefeie=,<lb/> un_nrfenlmreß “nacht
+          ;,uuefügt morhen, unh ha hielß‘<lb/> ®!)tß' ,man hen Elliinornäteniﬂynbererirng heritäﬂt,
+          mm:“<lb/> &amp; bon nnrnlmein null unh nichtig, hie Sultan; aber, hie<lb/> ha}
+          reihititieehinblieﬁ au6wivrerhen l7ntie. mar chen bet<lb/> ßn'lln‘himh. <lb break="no"/>
         </p>
-        <p>!ln hieie 3nftun.a nun halten in!) hie ungariid;ew<lb/> Siblonifien mit einer <a href="mailto:M@mhe">M@mhe</a> qmnnh#. im um ilr‘:-'<lb/> .6nl) uni) ®ut geiiradyten atmen ßeule legten ilyn kann<lb/> ($ruidmr mianunen, um hie Roiten für hai» ßtrfa!)ren<lb/> nur hen! 1%ölietlaunhe anfanhrinqtn. ‘Die @nl1'dieihunm<lb/> he?» 93üllerhunheä war ihr lrhier ﬁvﬁnungäunler, ha!»<lb/> Yserrranen_in hie unnnl;lmre ßemi7tigyle‘t hieier ﬁnbm'<lb/> Ruwcqebcrn Inu: hie einäiqe 3ihheriiil7t. auf hie fie W‘<lb/> nmﬁ linken lonnten. ihn; aber geio‘paly im 93h‘lIer-=<lb/> hunhgﬂe? ‘<lb break="paragraph"/>
+        <p>!ln hieie 3nftun.a nun halten in!) hie ungariid;ew<lb/> Siblonifien mit einer <a
+            href="mailto:M@mhe">M@mhe</a> qmnnh#. im um ilr‘:-'<lb/> .6nl) uni) ®ut geiiradyten
+          atmen ßeule legten ilyn kann<lb/> ($ruidmr mianunen, um hie Roiten für hai»
+          ßtrfa!)ren<lb/> nur hen! 1%ölietlaunhe anfanhrinqtn. ‘Die @nl1'dieihunm<lb/> he?»
+          93üllerhunheä war ihr lrhier ﬁvﬁnungäunler, ha!»<lb/> Yserrranen_in hie unnnl;lmre
+          ßemi7tigyle‘t hieier ﬁnbm'<lb/> Ruwcqebcrn Inu: hie einäiqe 3ihheriiil7t. auf hie fie
+          W‘<lb/> nmﬁ linken lonnten. ihn; aber geio‘paly im 93h‘lIer-=<lb/> hunhgﬂe? ‘<lb
+            break="paragraph"/>
         </p>
-        <p>n her lungen 5Reil7e her in ’Der gegemväti‘inm<lb/> Sintitagunq au erlebiqenben 9!ngelegenlpeiten ion: hiei<lb/> 2?eidymethe her ununtiielym ‘Rbloni4'ten wma hinten army<lb/> Sept, lo hai; mit @iil)etl1eit angenmmimi When mühe.<lb/> hie3e ‘Bciitinn im'rrhe eilt ,engen (Enhe her SEMH nn hie<lb/> $exl;e limm, in einer. 3eit all», in her auch hie ßolßq<lb/> hernnmilunq he; %ölierßunhes 3nianrmengdreteu, hie<lb/> S&gt;ebathe unh läelifylu ullimq über hie Werbe heit<lb/> .ih)lonißen ulﬁl: m in wie:, hin<lb break="paragraph"/>
+        <p>n her lungen 5Reil7e her in ’Der gegemväti‘inm<lb/> Sintitagunq au erlebiqenben
+          9!ngelegenlpeiten ion: hiei<lb/> 2?eidymethe her ununtiielym ‘Rbloni4'ten wma hinten
+          army<lb/> Sept, lo hai; mit @iil)etl1eit angenmmimi When mühe.<lb/> hie3e ‘Bciitinn
+          im'rrhe eilt ,engen (Enhe her SEMH nn hie<lb/> $exl;e limm, in einer. 3eit all», in her
+          auch hie ßolßq<lb/> hernnmilunq he; %ölierßunhes 3nianrmengdreteu, hie<lb/> S&gt;ebathe
+          unh läelifylu ullimq über hie Werbe heit<lb/> .ih)lonißen ulﬁl: m in wie:, hin<lb
+            break="paragraph"/>
         </p>
-        <p>eine: Ee&amp;'entliiljltii, hie fill; ni 5 8 MI? -lbü .<lb/> vierten Mitglicber ‘heä %!"cii2'h. lmhetn ,<lb break="paragraph"/>
+        <p>eine: Ee&amp;'entliiljltii, hie fill; ni 5 8 MI? -lbü .<lb/> vierten Mitglicber ‘heä
+          %!"cii2'h. lmhetn ,<lb break="paragraph"/>
         </p>
-        <p>hie $erteelct aller Bintianen nnh und) ha:<lb/> sur äßnﬂberia.nnnlung in [naher illan hen: ‘<lb break="paragraph"/>
+        <p>hie $erteelct aller Bintianen nnh und) ha:<lb/> sur äßnﬂberia.nnnlung in [naher illan
+          hen: ‘<lb break="paragraph"/>
         </p>
-        <p>trelenen ßelthgeiic erlhecfl. in; Ihr; eh uifenhnt im<lb/> 3niereﬂe ?Rumanienﬁ h' !( ele mini! her &amp;nißni‘ltm<lb break="paragraph"/>
+        <p>trelenen ßelthgeiic erlhecfl. in; Ihr; eh uifenhnt im<lb/> 3niereﬂe ?Rumanienﬁ h' !( ele
+          mini! her &amp;nißni‘ltm<lb break="paragraph"/>
         </p>
-        <p>‘Die Gängut<lb/> ahnt mtb (am, im her ©»:cllmtimg teilnehmen<lb/> iollen, b:keien humit ein neue? @ehiei. @ie aeböteni<lb/> Lebeufuﬂß an hen gei$tig heiten Kiräficn he5 lheatctßnnß;<lb/> |rnh rn he: Bug-e, ihnen St»liegen amd; ncian,ükdmiliﬁ<lb/> mcrhmlle Einfe au gehen. ﬁe Kuiunhe het Regiﬁente,<lb/> unh her 5Dirigenien with 25 iein, hen @lnd' alle:“nmi'dß<lb break="paragraph"/>
+        <p>‘Die Gängut<lb/> ahnt mtb (am, im her ©»:cllmtimg teilnehmen<lb/> iollen, b:keien humit
+          ein neue? @ehiei. @ie aeböteni<lb/> Lebeufuﬂß an hen gei$tig heiten Kiräficn he5
+          lheatctßnnß;<lb/> |rnh rn he: Bug-e, ihnen St»liegen amd; ncian,ükdmiliﬁ<lb/> mcrhmlle
+          Einfe au gehen. ﬁe Kuiunhe het Regiﬁente,<lb/> unh her 5Dirigenien with 25 iein, hen @lnd'
+            alle:“nmi'dß<lb break="paragraph"/>
         </p>
-        <p>branmtiid)en 23'ülynen, «lin ilRosm,<lb/> unb_ ‘Eagn_cr, nnb ham: nnd; hie mmlnm‘<lb/> ?lnnnicmhern nieht nur in leihliclmn 8n-',<lb break="paragraph"/>
+        <p>branmtiid)en 23'ülynen, «lin ilRosm,<lb/> unb_ ‘Eagn_cr, nnb ham: nnd; hie mmlnm‘<lb/>
+          ?lnnnicmhern nieht nur in leihliclmn 8n-',<lb break="paragraph"/>
         </p>
-        <p>I'mnh h:m ?)iepertnite 514 erhalten, ionhern hie Etui-,<lb/> madyung her @uirfe über im; 9iiumu eineß hürqcrliäul‘<lb/> „6unähqlteé p,u bringen. _<lb/> * an {all min nach 1immimimfungcn Mm.<lb/> aber lelhfmerflz'xrülidy und; vor mithiigen ‘Renbeiien Mi!<lb/> nidn bemmmeln. ??»uitdien, himly hie ein,heiligeq<lb/> ”Emm, eine mugneiiiil}e @enmlt giebt, werben heiß mil-;<lb/> lnrmmn ie'm. ißmuuigeiekl freilich, hai; «un; fiir iolcbe,<lb/> 93erle hie geeigneten kräft: am %erfümmg lrehen. 3ehei-g<lb/> incl mué, mungen werben, bh ein Etiirf nnherivärli M)]:<lb/> circa mit .6ilic man %riönlitlyfeiien hurilmehenngeir 'ifiz..f<lb/> hcrcn @thﬁ aber Ieni.hcrmnent in hen. %iuiumianf hei;<lb/> i2ctleä geruhe hineinim'5i unh fiir hie mir feine ßuplin‘<lb/> late aufßuhringen vermögen. iind; iclhft abgelal)en um<lb/> %iilien, um einer: ﬂ?eulzeit mahlbeztvnnhte Siünltler nat.;<lb/> tun. zeigt uniere €iingergarnirur gang en;3pfinhli]$l<lb/> ﬂinfen. Mit mir nur einen ﬂüchtigen lid u '<lb/> @niemhle. $Bnr allem: wenn %rau ‘Rehef nid” _im min—,‘<lb/> ßeﬁb il)ret reichen' Qualitäten miiﬁel7rimhhie Grimme<lb/> lafinher unierer lnriichen (Erinnerinnen nidn iiberlpannt,<lb/> werben inllen„fo fel;lifirrgemiife Ipod;tmgiirlje Rollen hu<lb/> ‘E&gt;npraniilin. (Dann muß und) iii: eine 9ieil)e hun. Senna—'<lb/> urlien bei: richtige Mann geimiheu werben. unh 5uletﬁ<lb/> bemüht man hen. prnßen melnhiülen °8cn'ilbn. immun<lb/> }inh uier Dicilnrth, imh your hie 2lrheitél'ätfm ber iugenhﬂ.<lb/> idiehrumntiidxn unh Slalummridngerinncn, her ;<lb/> inurnne nnh Qic1iiften. fn|'t einmmrhfrei heißt. £:<lb/> iiieid)en. hie oft im 8uiall ldnekl ine $erinnal, ianuf<lb/> man bei Sibealerleimng nid» hie ﬂehiten leitn. ERm‘l);<lb/> miger fall man lie ham ungelneuen Overnhirefhn: hen-‘<lb/> halten. ilnh had; hurf nun einer Holm nidn hie,Elin um<lb/> Smennt, von einem Silvio nicht bei überlebäumenhe‘<lb/> an Sinn gei_unqen nahm. ‘Eem Chireftor il't_es ge<lb break="no"/>,ivii5 unmiqli3, hen Sii$iiyivein au hmnlenhnn Seil mf—<lb/> 5umirheln, ‘nvmliäx unh ll'iliiliiil1c ‘ $)lielen', al!<lb break="no"/>
+        <p>I'mnh h:m ?)iepertnite 514 erhalten, ionhern hie Etui-,<lb/> madyung her @uirfe über im;
+          9iiumu eineß hürqcrliäul‘<lb/> „6unähqlteé p,u bringen. _<lb/> * an {all min nach
+          1immimimfungcn Mm.<lb/> aber lelhfmerflz'xrülidy und; vor mithiigen ‘Renbeiien Mi!<lb/>
+          nidn bemmmeln. ??»uitdien, himly hie ein,heiligeq<lb/> ”Emm, eine mugneiiiil}e @enmlt
+          giebt, werben heiß mil-;<lb/> lnrmmn ie'm. ißmuuigeiekl freilich, hai; «un; fiir
+          iolcbe,<lb/> 93erle hie geeigneten kräft: am %erfümmg lrehen. 3ehei-g<lb/> incl mué,
+          mungen werben, bh ein Etiirf nnherivärli M)]:<lb/> circa mit .6ilic man %riönlitlyfeiien
+          hurilmehenngeir 'ifiz..f<lb/> hcrcn @thﬁ aber Ieni.hcrmnent in hen. %iuiumianf hei;<lb/>
+          i2ctleä geruhe hineinim'5i unh fiir hie mir feine ßuplin‘<lb/> late aufßuhringen vermögen.
+          iind; iclhft abgelal)en um<lb/> %iilien, um einer: ﬂ?eulzeit mahlbeztvnnhte Siünltler
+          nat.;<lb/> tun. zeigt uniere €iingergarnirur gang en;3pfinhli]$l<lb/> ﬂinfen. Mit mir nur
+          einen ﬂüchtigen lid u '<lb/> @niemhle. $Bnr allem: wenn %rau ‘Rehef nid” _im min—,‘<lb/>
+          ßeﬁb il)ret reichen' Qualitäten miiﬁel7rimhhie Grimme<lb/> lafinher unierer lnriichen
+          (Erinnerinnen nidn iiberlpannt,<lb/> werben inllen„fo fel;lifirrgemiife Ipod;tmgiirlje
+          Rollen hu<lb/> ‘E&gt;npraniilin. (Dann muß und) iii: eine 9ieil)e hun. Senna—'<lb/> urlien
+          bei: richtige Mann geimiheu werben. unh 5uletﬁ<lb/> bemüht man hen. prnßen melnhiülen
+          °8cn'ilbn. immun<lb/> }inh uier Dicilnrth, imh your hie 2lrheitél'ätfm ber iugenhﬂ.<lb/>
+          idiehrumntiidxn unh Slalummridngerinncn, her ;<lb/> inurnne nnh Qic1iiften. fn|'t
+          einmmrhfrei heißt. £:<lb/> iiieid)en. hie oft im 8uiall ldnekl ine $erinnal, ianuf<lb/>
+          man bei Sibealerleimng nid» hie ﬂehiten leitn. ERm‘l);<lb/> miger fall man lie ham
+          ungelneuen Overnhirefhn: hen-‘<lb/> halten. ilnh had; hurf nun einer Holm nidn hie,Elin
+          um<lb/> Smennt, von einem Silvio nicht bei überlebäumenhe‘<lb/> an Sinn gei_unqen nahm.
+          ‘Eem Chireftor il't_es ge<lb break="no"/>,ivii5 unmiqli3, hen Sii$iiyivein au hmnlenhnn
+          Seil mf—<lb/> 5umirheln, ‘nvmliäx unh ll'iliiliiil1c ‘ $)lielen', al!<lb break="no"/>
         </p>
         <p>
           <lb break="paragraph"/>
@@ -740,15 +958,24 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         <pb n="3" xml:id="page__7a8368e8-7b6b-4d4f-ad1e-792cb48f09f4"/>
         <p>Emm: man: ,<lb/> sm».- nut ymmtw:<lb/> um“. am<lb break="paragraph"/>
         </p>
-        <p>Schlieu.<lb/> ä.:ii.vmßal1) Mair. Eﬁuing ( 10 001 bi: 1 (Bo, “ihm 13.52“;<lb/> human, bruf{lbc 51014 16. 810 Ill! 17.010. $zrﬁn 16.910 513<lb break="paragraph"/>
+        <p>Schlieu.<lb/> ä.:ii.vmßal1) Mair. Eﬁuing ( 10 001 bi: 1 (Bo, “ihm 13.52“;<lb/> human,
+          bruf{lbc 51014 16. 810 Ill! 17.010. $zrﬁn 16.910 513<lb break="paragraph"/>
         </p>
         <p>«\\...<lb break="paragraph"/>
         </p>
-        <p>17.010.1117m... me a.: 2118,@$mg 2106 ...; 2115,<lb/> $; kill): ...; 17.745 111.1 11.505, 130.117. 425 ...; 12.505,<lb/> ..... 1 1.1 1067,15&lt;1,m 1201 ...; uns. am 510 f... s...,<lb break="paragraph"/>
+        <p>17.010.1117m... me a.: 2118,@$mg 2106 ...; 2115,<lb/> $; kill): ...; 17.745 111.1 11.505,
+          130.117. 425 ...; 12.505,<lb/> ..... 1 1.1 1067,15&lt;1,m 1201 ...; uns. am 510 f...
+            s...,<lb break="paragraph"/>
         </p>
-        <p>s.»... 511. 151 510, s... 350 bis aus. n......q. 352 ...l :.54,<lb/> am 0542 m im. 'ﬂ'7h‘ihlli 5849 l... 205 fwngäﬁéc 5mnei<lb/> am ...; am. m am ...; am, 11.19.10. am:! 3158 1...<lb/> ms. la. 11178 ...; 3198 5.5.05... « ....» mm 5.4<lb/> 10.940, g.“. @ ls.m Eli 18.310, englll .» 045.11» ...;<lb/> zum. am... 14.5.1100 bi! 817.000- in . 71.280 1.4 72.100.<lb break="paragraph"/>
+        <p>s.»... 511. 151 510, s... 350 bis aus. n......q. 352 ...l :.54,<lb/> am 0542 m im.
+          'ﬂ'7h‘ihlli 5849 l... 205 fwngäﬁéc 5mnei<lb/> am ...; am. m am ...; am, 11.19.10. am:!
+          3158 1...<lb/> ms. la. 11178 ...; 3198 5.5.05... « ....» mm 5.4<lb/> 10.940, g.“. @ ls.m
+          Eli 18.310, englll .» 045.11» ...;<lb/> zum. am... 14.5.1100 bi! 817.000- in . 71.280 1.4
+            72.100.<lb break="paragraph"/>
         </p>
-        <p>m 6 Seite! 01.0511; 71.180 zu 72.160, 911» 511 71.150 515<lb/> 71.560, ““ ®nl1un m 515 nem, €"!me 28635<lb/> bl'l lﬁ- , !Wllen 17510 bio 17.,600 &amp;)»:<lb/> 17.510 530 17.7M1150 innen 18.785 518 18935, mi<lb break="no"/>
+        <p>m 6 Seite! 01.0511; 71.180 zu 72.160, 911» 511 71.150 515<lb/> 71.560, ““ ®nl1un m 515
+          nem, €"!me 28635<lb/> bl'l lﬁ- , !Wllen 17510 bio 17.,600 &amp;)»:<lb/> 17.510 530
+          17.7M1150 innen 18.785 518 18935, mi<lb break="no"/>
         </p>
         <p>19.015 539 .,125 mmifrb: hmm! “186051515020,<lb break="paragraph"/>
         </p>
@@ -760,69 +987,121 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>um In; 5.0.0015, m...». am...! 18]. 85°bi-1 1.ss, ,claim.<lb break="paragraph"/>
         </p>
-        <p>in... man ...» 109.00. lfdyul;iidx im... zum. ...; 21.07<lb/> 17.5; bis 12.00.1em 515 G., a..» 15.48 1.4 aus, $.]...<lb/> 99.60 1.1; len. mmﬂw am...; 33.15 1710 03.45, 6<lb/> und 19m ai; m, n...; ......0 am 1... 0142 t»<lb/> %a.so &amp;. nun. ;.1“3r ...... 133 bi) man. 1:<lb/> ...en- 10.11.4111: . 11.000025 ...» o.moess, mm... 11mm 5.1<lb/> 103.00, .. 1-.7.1. ...; 104.75, qm,; usw. 511 21 um.<lb/> &amp;Lgmb 17 . ...; 1055, Gwl;in 515 ...; 5.19. mm... xml/.<lb/> In“! aaa-.., Mio.... mu ...; za..ß im»... 10090 1... 101.30.<lb/> 110155 7.3.10 &amp;; mas, mm... 11. M 111 5150. 30.11) 140.55 o.;<lb break="paragraph"/>
+        <p>in... man ...» 109.00. lfdyul;iidx im... zum. ...; 21.07<lb/> 17.5; bis 12.00.1em 515 G.,
+          a..» 15.48 1.4 aus, $.]...<lb/> 99.60 1.1; len. mmﬂw am...; 33.15 1710 03.45, 6<lb/> und
+          19m ai; m, n...; ......0 am 1... 0142 t»<lb/> %a.so &amp;. nun. ;.1“3r ...... 133 bi) man.
+          1:<lb/> ...en- 10.11.4111: . 11.000025 ...» o.moess, mm... 11mm 5.1<lb/> 103.00, ..
+          1-.7.1. ...; 104.75, qm,; usw. 511 21 um.<lb/> &amp;Lgmb 17 . ...; 1055, Gwl;in 515 ...;
+          5.19. mm... xml/.<lb/> In“! aaa-.., Mio.... mu ...; za..ß im»... 10090 1... 101.30.<lb/>
+          110155 7.3.10 &amp;; mas, mm... 11. M 111 5150. 30.11) 140.55 o.;<lb break="paragraph"/>
         </p>
-        <p>181705, ß.)an 84181m17ß555114', mm @071bil 11086. le«<lb/> 111984255155.115g3411515 176.95, Elvd<lb/> gm“189.55 6“ ".10015. 051:151.015 20.<lb break="paragraph"/>
+        <p>181705, ß.)an 84181m17ß555114', mm @071bil 11086. le«<lb/> 111984255155.115g3411515
+          176.95, Elvd<lb/> gm“189.55 6“ ".10015. 051:151.015 20.<lb break="paragraph"/>
         </p>
-        <p>. a:.zal... m...... ungonhb:9nnntn<lb/> ll o.olaw., b{lur. <a href="mailto:6@lllillg">6@lllillg</a> 47430 bi! 1$).25. 51111115!<lb break="paragraph"/>
+        <p>. a:.zal... m...... ungonhb:9nnntn<lb/> ll o.olaw., b{lur. <a href="mailto:6@lllillg"
+            >6@lllillg</a> 47430 bi! 1$).25. 51111115!<lb break="paragraph"/>
         </p>
-        <p>Mama? I.. 90111116)!» 5101 595.50 'bll SON»).<lb/> |ch 30.8’1‘l15.87‘._’4, Sm: 289"‘h<lb break="paragraph"/>
+        <p>Mama? I.. 90111116)!» 5101 595.50 'bll SON»).<lb/> |ch 30.8’1‘l15.87‘._’4, Sm: 289"‘h<lb
+            break="paragraph"/>
         </p>
         <p>„...:;<lb/> Sa 16.1) bl! 15.5).ü<lb break="paragraph"/>
         </p>
-        <p>515 D&amp;W,» ﬁn 135.97”, 1715 187 37‘1‘xf' Wläl_é( |." 052<lb/> 515 “. _WAM am 16125 515 152.75,<lb/> 149 75 5i !l |. "Eine<lb break="paragraph"/>
+        <p>515 D&amp;W,» ﬁn 135.97”, 1715 187 37‘1‘xf' Wläl_é( |." 052<lb/> 515 “. _WAM am 16125 515
+          152.75,<lb/> 149 75 5i !l |. "Eine<lb break="paragraph"/>
         </p>
-        <p>11115 15.880 615 1<lb/> uglii'ée' ......» 163m“?1°10%0. 901101 9090 1.5 8410, “cine<lb break="paragraph"/>
+        <p>11115 15.880 615 1<lb/> uglii'ée' ......» 163m“?1°10%0. 901101 9090 1.5 8410, “cine<lb
+            break="paragraph"/>
         </p>
         <p>bolan!d)v «...»... 18595051; 15551...<lb break="paragraph"/>
         </p>
-        <p>Millié! ,Mr. M,997.50 El Slll.50, fd;mtbl bt Emmen DOG M}<lb/> 908, um“ inne.. 715 hi; 719. —- {hi‘tll 191170<lb break="no"/>071 0.0 515, (DM/;, m.. 475. (N‘/. Ill! 479.01‘l., Wﬂlhl<lb/> 30135 515 8051,% 71.11.13... 005 Di! m°. ül.q1nuit 10.46 1715<lb/> 17.05, „119105 50‘l'7'h ßß 0057‘h, 'Eopl7ia .b85 H. 21. 75.<lb/> Ennhcnli_npe1 19.72‘/, hi! 20.52‘h. ‘ﬂllwn 19.00 515 MM),<lb break="paragraph"/>
+        <p>Millié! ,Mr. M,997.50 El Slll.50, fd;mtbl bt Emmen DOG M}<lb/> 908, um“ inne.. 715 hi;
+          719. —- {hi‘tll 191170<lb break="no"/>071 0.0 515, (DM/;, m.. 475. (N‘/. Ill! 479.01‘l.,
+          Wﬂlhl<lb/> 30135 515 8051,% 71.11.13... 005 Di! m°. ül.q1nuit 10.46 1715<lb/> 17.05,
+          „119105 50‘l'7'h ßß 0057‘h, 'Eopl7ia .b85 H. 21. 75.<lb/> Ennhcnli_npe1 19.72‘/, hi!
+          20.52‘h. ‘ﬂllwn 19.00 515 MM),<lb break="paragraph"/>
         </p>
-        <p>lm 7 an 17170, mu...» 15m 1.577,30<lb/> um... m‘31äflßo 50.1!ilhban 109.10 1... 17000 ......70'<lb/> m 666.3- m.“. 1-1‘..<lb break="paragraph"/>
+        <p>lm 7 an 17170, mu...» 15m 1.577,30<lb/> um... m‘31äflßo 50.1!ilhban 109.10 1... 17000
+          ......70'<lb/> m 666.3- m.“. 1-1‘..<lb break="paragraph"/>
         </p>
-        <p>51! 15987’I1. EW“?! 1502”! L 151.” 15,<lb/> ‘ Scnbnn 16.070 bi! 18,510, 0kw Q)an 3375<lb break="paragraph"/>
+        <p>51! 15987’I1. EW“?! 1502”! L 151.” 15,<lb/> ‘ Scnbnn 16.070 bi! 18,510, 0kw Q)an 3375<lb
+            break="paragraph"/>
         </p>
-        <p>bi! 3107|, ‘llailctßnlll.<lb/> 1m75 $II 1006751109... ll 810.50 515 845450,510<lb/> 906460 Ei. QMM, Duo 71.<lb break="paragraph"/>
+        <p>bi! 3107|, ‘llailctßnlll.<lb/> 1m75 $II 1006751109... ll 810.50 515 845450,510<lb/>
+          906460 Ei. QMM, Duo 71.<lb break="paragraph"/>
         </p>
-        <p>bi} 7'3‘250, $!äängfolßß 81.87"7:<lb/> Bi! 85.87'11.W1 553.50 515 655111.01m1 S. 'h 515 932 ‘,4,<lb/> Mann 88135 €3 m. 75, im be in 491 bl! 438, Blum»<lb break="paragraph"/>
+        <p>bi} 7'3‘250, $!äängfolßß 81.87"7:<lb/> Bi! 85.87'11.W1 553.50 515 655111.01m1 S. 'h 515
+          932 ‘,4,<lb/> Mann 88135 €3 m. 75, im be in 491 bl! 438, Blum»<lb break="paragraph"/>
         </p>
-        <p>Wlch 1997.50 1715 1857.50, illanm Mu 8990 M! 3870,ﬂ’31117711er1<lb/> .] 1117... mm bis 711050.<lb break="paragraph"/>
+        <p>Wlch 1997.50 1715 1857.50, illanm Mu 8990 M! 3870,ﬂ’31117711er1<lb/> .] 1117... mm bis
+            711050.<lb break="paragraph"/>
         </p>
-        <p>SMS 111; 5405;<lb/> ,in...... rang<lb/> MINI. 19.91. 518 1811, ,&amp;&amp;! bin 167 .so, Eoplﬁﬁ 41 bl!<lb/> &amp;, Wilallb mw Eli ä!llri_lu'ßahl 3270 515 2390 [80111<lb/> })w25g'l;?ß lm, Qnmbmx 11.1100 515 27.100, 91m !)"!<lb/> i!<lb/> 7ßeglegbßcr. [56711115] Bubopei. 00790 Bi;<lb break="paragraph"/>
+        <p>SMS 111; 5405;<lb/> ,in...... rang<lb/> MINI. 19.91. 518 1811, ,&amp;&amp;! bin 167 .so,
+          Eoplﬁﬁ 41 bl!<lb/> &amp;, Wilallb mw Eli ä!llri_lu'ßahl 3270 515 2390 [80111<lb/>
+          })w25g'l;?ß lm, Qnmbmx 11.1100 515 27.100, 91m !)"!<lb/> i!<lb/> 7ßeglegbßcr. [56711115]
+          Bubopei. 00790 Bi;<lb break="paragraph"/>
         </p>
-        <p>«um/., Biel. ? bit MM,OHHI1 18.90 (Ill 18.811,<lb/> 106 15 HI 106.75, 9111611112775ﬂ,91011a15 ‘)?»25 5i9 2<lb break="paragraph"/>
+        <p>«um/., Biel. ? bit MM,OHHI1 18.90 (Ill 18.811,<lb/> 106 15 HI 106.75,
+          9111611112775ﬂ,91011a15 ‘)?»25 5i9 2<lb break="paragraph"/>
         </p>
         <p>.14 5.0 m, 11me imo bis am, a...; 1im'<lb break="paragraph"/>
         </p>
         <p>1087. ”’an 27ﬁ8 515 27,913), ‘llrd Doll 5515 515 weiß<lb break="paragraph"/>
         </p>
-        <p>. ...,.33037 W.;: 511 777 „*:<lb/> in 50.00, ..... .0. ein: ,<lb/> 'R-mnen 1933 1214 72 515 H.?<lb break="paragraph"/>
+        <p>. ...,.33037 W.;: 511 777 „*:<lb/> in 50.00, ..... .0. ein: ,<lb/> 'R-mnen 1933 1214 72
+          515 H.?<lb break="paragraph"/>
         </p>
-        <p>gglllikbc_w ﬂlnll)7 ' 21m<lb/> 508 1715 8.05, Sinn! 7.11 111 3055 010 59.515,<lb/> al.. 15.95 1.5.1..,04 l.uu.öﬁld;c s......» 10.77 ...» 1987.5clg111171<lb/> ‘,}mlcb 18.58 W 18.118, -=; 5,0219" 3.7.1.1! 8090 5.5 81.130,<lb/> 111510‘1111115 2081.80 511 2011.00,711im m&amp;f£f Yimß’<lb/> ‘20 100 56 WIN,S011W 020 51111122, Helm- ‘171<lb/> Till 421.50, „Tpflänb'dglb ®llllbell 165. '».S ﬁll 150.110:$a3gn<lb/> Ülllb€llw Minh 101.11) 515 1 1,<lb break="paragraph"/>
+        <p>gglllikbc_w ﬂlnll)7 ' 21m<lb/> 508 1715 8.05, Sinn! 7.11 111 3055 010 59.515,<lb/> al..
+          15.95 1.5.1..,04 l.uu.öﬁld;c s......» 10.77 ...» 1987.5clg111171<lb/> ‘,}mlcb 18.58 W
+          18.118, -=; 5,0219" 3.7.1.1! 8090 5.5 81.130,<lb/> 111510‘1111115 2081.80 511
+          2011.00,711im m&amp;f£f Yimß’<lb/> ‘20 100 56 WIN,S011W 020 51111122, Helm- ‘171<lb/> Till
+          421.50, „Tpflänb'dglb ®llllbell 165. '».S ﬁll 150.110:$a3gn<lb/> Ülllb€llw Minh 101.11)
+          515 1 1,<lb break="paragraph"/>
         </p>
-        <p>icl;nebiI d.: Stumm 112.24 111“ 11 .80, mm.-gl gl”): num- 119.77<lb/> 511 so.,9n f...-«f...: ...-ln<lb/> 79.75 115 80561l100116e ﬂubel 1089 5.0 41131<lb/> mitwii 58 515 00. llgclllilllid).<lb/> -— Suiten: Suiupc[10<lb/> ill 59.35.<lb break="paragraph"/>
+        <p>icl;nebiI d.: Stumm 112.24 111“ 11 .80, mm.-gl gl”): num- 119.77<lb/> 511 so.,9n
+          f...-«f...: ...-ln<lb/> 79.75 115 80561l100116e ﬂubel 1089 5.0 41131<lb/> mitwii 58 515
+          00. llgclllilllid).<lb/> -— Suiten: Suiupc[10<lb/> ill 59.35.<lb break="paragraph"/>
         </p>
-        <p>dj:9'llotl 10.5170 ﬁll 10.5770, Irlbif<lb/> f.... u......<lb/> $nEill?tiela 167.20 1116 159.<lb/> 0005895; I).! 0.,w5015 {ihm 59.18<lb/> 114120 ln]; 12.,4m 1130.10... 7371 I...; um,<lb/> 9.07.11th 748 MB 7.50, Sinnlmlmwel<lb/> 6.918 515 5.26, ‘Ilhziloßb 16.81 111116.ß.<lb/> .”, Si. 1111 21.1?‘I: Brit 2117'h,115119<lb/> I 1958 hi; 18. 72, ‘]llr1é &amp;)95 510 81.15.<lb/> 39.60.9113.) 911?! 119.50 510 110.50. $‘nh<lb/> [um n.:1enß 1.5 100.39, —x....,. 30.70 ...; man, Si‘wmlm ..<lb/> 10542“ M} 106.58,5111111701111 11? 2 1115 112.70, D9lo 89.51 5<lb/> 8996, [?!léißlagitgß’ 10.5670 lvi1- 10.5070 m a mm M! 51.90.<lb/> ! 1.1280,Mm11710 11.,',29‘ .. 44.60“... Wo hc<lb/> nein 55680 1116 55.50. Bleu“ !l1ub 165.90 015 150.00. 9010<lb break="no"/>um 170.111 ...! 170.50. Nimmt 1100 ...; 4210.11mgw13<lb break="paragraph"/>
+        <p>dj:9'llotl 10.5170 ﬁll 10.5770, Irlbif<lb/> f.... u......<lb/> $nEill?tiela 167.20 1116
+          159.<lb/> 0005895; I).! 0.,w5015 {ihm 59.18<lb/> 114120 ln]; 12.,4m 1130.10... 7371 I...;
+          um,<lb/> 9.07.11th 748 MB 7.50, Sinnlmlmwel<lb/> 6.918 515 5.26, ‘Ilhziloßb 16.81
+          111116.ß.<lb/> .”, Si. 1111 21.1?‘I: Brit 2117'h,115119<lb/> I 1958 hi; 18. 72, ‘]llr1é
+          &amp;)95 510 81.15.<lb/> 39.60.9113.) 911?! 119.50 510 110.50. $‘nh<lb/> [um n.:1enß 1.5
+          100.39, —x....,. 30.70 ...; man, Si‘wmlm ..<lb/> 10542“ M} 106.58,5111111701111 11? 2 1115
+          112.70, D9lo 89.51 5<lb/> 8996, [?!léißlagitgß’ 10.5670 lvi1- 10.5070 m a mm M!
+          51.90.<lb/> ! 1.1280,Mm11710 11.,',29‘ .. 44.60“... Wo hc<lb/> nein 55680 1116 55.50.
+          Bleu“ !l1ub 165.90 015 150.00. 9010<lb break="no"/>um 170.111 ...! 170.50. Nimmt 1100 ...;
+            4210.11mgw13<lb break="paragraph"/>
         </p>
-        <p>4216 bi! mb<lb/> Still MS 5. Szplmßer. .. °Mlmll 549.50,°5&gt;017an54<lb/> H.?q,ß'7.e« mämghulcly1fßsﬂllharefl<lb/> “[in 1<lb break="paragraph"/>
+        <p>4216 bi! mb<lb/> Still MS 5. Szplmßer. .. °Mlmll 549.50,°5&gt;017an54<lb/> H.?q,ß'7.e«
+          mämghulcly1fßsﬂllharefl<lb/> “[in 1<lb break="paragraph"/>
         </p>
-        <p>0.007.91,1ﬁm 79.95,<lb/> 9750,113c1„n.1 9.86.an1;10 3.75 mm.-“ 25511115... 322;<lb/> I'm'bum<lb break="paragraph"/>
+        <p>0.007.91,1ﬁm 79.95,<lb/> 9750,113c1„n.1 9.86.an1;10 3.75 mm.-“ 25511115... 322;<lb/>
+            I'm'bum<lb break="paragraph"/>
         </p>
-        <p>.!funflanlinv1ztlß mm.. mailen am...<lb/> 24.3g,_9.nn.118, . man.»... 2513, s...-go... 51155 ,im<lb/> am .. 1.,2950 Stadlplm 13170, én. 11075<lb/> brlﬁnéim: 137.0}, Buell“ ﬂirt! aus.<lb/> 7:.öqlmlzzr ml.... 10.01), m...... 85,50.<lb break="paragraph"/>
+        <p>.!funflanlinv1ztlß mm.. mailen am...<lb/> 24.3g,_9.nn.118, . man.»... 2513, s...-go...
+          51155 ,im<lb/> am .. 1.,2950 Stadlplm 13170, én. 11075<lb/> brlﬁnéim: 137.0}, Buell“ ﬂirt!
+          aus.<lb/> 7:.öqlmlzzr ml.... 10.01), m...... 85,50.<lb break="paragraph"/>
         </p>
-        <p>8110er 104150, a...... ma. 31... 511.14an 10.45.0111.<lb/> go... man."<lb break="paragraph"/>
+        <p>8110er 104150, a...... ma. 31... 511.14an 10.45.0111.<lb/> go... man."<lb
+            break="paragraph"/>
         </p>
         <p>Wall)"<lb/> 10 741 5151974. ‘il'ln'l<lb/> sam... 5901.60 'Ull<lb break="paragraph"/>
         </p>
-        <p>am 111517 1610“)!!! 346.(D0, 991171 3I.,39<lb/> „::.... m.", lßll'tl 15&amp;, "5, 91.10.0597 0, ﬁel<lb break="no"/>
+        <p>am 111517 1610“)!!! 346.(D0, 991171 3I.,39<lb/> „::.... m.", lßll'tl 15&amp;, "5,
+          91.10.0597 0, ﬁel<lb break="no"/>
         </p>
-        <p>1.GOWAI 670 811111111111) 120. 7, . I. Multi<lb/> 58.W, “ßen! ...nur/.. 198!!! [ 109,31n1l17‘501u MPI-, Ewa.<lb break="no"/>bag... 10.45. (. 0410 21.657... ec.ﬁnghs m<lb/> ‘.‘Jlnnlml 4.85 In, 91:1:„1 .;94711 4.89]... Emmi lite! '43. 25, 9110<lb/> N €.ancitn<lb break="paragraph"/>
+        <p>1.GOWAI 670 811111111111) 120. 7, . I. Multi<lb/> 58.W, “ßen! ...nur/.. 198!!! [
+          109,31n1l17‘501u MPI-, Ewa.<lb break="no"/>bag... 10.45. (. 0410 21.657... ec.ﬁnghs m<lb/>
+          ‘.‘Jlnnlml 4.85 In, 91:1:„1 .;94711 4.89]... Emmi lite! '43. 25, 9110<lb/> N €.ancitn<lb
+            break="paragraph"/>
         </p>
         <p>!lnuﬁnbtiﬁe emmmnn...<lb break="paragraph"/>
         </p>
         <p>ßlem m:... . ,<lb break="paragraph"/>
         </p>
-        <p>„im, 7. '.Eeplmbzr 1111 ber Wellnubir{c 341 b.. '5pgfu<lb break="no"/>n...... auf Die Genfer M... mM: kann» Dﬁterul<lb/> im ma. in ihren; [eln 111110 lm lm. 3097e 1904, grün: mir<lb break="paragraph"/>
+        <p>„im, 7. '.Eeplmbzr 1111 ber Wellnubir{c 341 b.. '5pgfu<lb break="no"/>n...... auf Die
+          Genfer M... mM: kann» Dﬁterul<lb/> im ma. in ihren; [eln 111110 lm lm. 3097e 1904, grün:
+            mir<lb break="paragraph"/>
         </p>
         <p>0 MHI A.<lb break="paragraph"/>
         </p>
@@ -834,11 +1113,25 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>.. ....<lb break="paragraph"/>
         </p>
-        <p>..<lb/> W. [u 512 uz'nilzelx ﬁnale<lb/> [ithlﬁnbie uoicumllllnnm Ihnbau1üezmbe<lb/> mm.-s mgh... a...: lm! bu! ‘ßn'nutpußﬁlum ...;<lb/> er .. ...... am.... hg.»... . .. um5uudblllzll. apa...<lb/> mar {tiv nbcng [‘n-11m b1e mailen rle [.g£lcn 115011) hie<lb/> Be -.ian u.... Slz«li[nﬁmlßilnhilxit 1... mm....<lb/> m.... ei-nur, S&lt;l;lnnnhlllg m tin. in.-15 ein. ...-1 hell mm.<lb/> «...... wa... 1115.13... 3... s...»...1... ...... ...: m......g |ax,<lb/> 6r{myeu amarild):_ﬂ Nette mm. gcyudjl 71117 bull immun<lb/> 11.001an 71.717.701”.<lb break="paragraph"/>
+        <p>..<lb/> W. [u 512 uz'nilzelx ﬁnale<lb/> [ithlﬁnbie uoicumllllnnm Ihnbau1üezmbe<lb/> mm.-s
+          mgh... a...: lm! bu! ‘ßn'nutpußﬁlum ...;<lb/> er .. ...... am.... hg.»... . ..
+          um5uudblllzll. apa...<lb/> mar {tiv nbcng [‘n-11m b1e mailen rle [.g£lcn 115011) hie<lb/>
+          Be -.ian u.... Slz«li[nﬁmlßilnhilxit 1... mm....<lb/> m.... ei-nur, S&lt;l;lnnnhlllg m
+          tin. in.-15 ein. ...-1 hell mm.<lb/> «...... wa... 1115.13... 3... s...»...1... ......
+          ...: m......g |ax,<lb/> 6r{myeu amarild):_ﬂ Nette mm. gcyudjl 71117 bull immun<lb/>
+          11.001an 71.717.701”.<lb break="paragraph"/>
         </p>
-        <p>Elch, 7 h5rpiunlxel. (Bfﬁhliluxle.) ‘Bllllelbmlhunleiße 11. 700<lb/> D:ilm.$ 8500, Daft. mm....u 250011114. Enlh'xulle<lb/> —.-, ung. non-um.. .nsuly.vsul'uulan 0411.00,<lb/> lmwte:ßmm1himmm Warum -—.—— mm»:<lb/> mm»... mm.» mm.... . mama, n......wm;<lb/> nonl_ ——, WWl-lllc. Bu! .— , m.3nlhﬂlabwvl&amp;lelu<lb break="paragraph"/>
+        <p>Elch, 7 h5rpiunlxel. (Bfﬁhliluxle.) ‘Bllllelbmlhunleiße 11. 700<lb/> D:ilm.$ 8500, Daft.
+          mm....u 250011114. Enlh'xulle<lb/> —.-, ung. non-um.. .nsuly.vsul'uulan 0411.00,<lb/>
+          lmwte:ßmm1himmm Warum -—.—— mm»:<lb/> mm»... mm.» mm.... . mama, n......wm;<lb/> nonl_ ——,
+          WWl-lllc. Bu! .— , m.3nlhﬂlabwvl&amp;lelu<lb break="paragraph"/>
         </p>
-        <p>In: ungezlieu ﬂaumglnth —.—, Delta:.<lb/> 38.500. $W_let_ kubll ——.—-, lin! * In“!<lb/> 109 pllbllnl'll: XIIP'U5ÜE 151.000,le11150<lb/> «....5' .1100 u..g „...,—.1,} ca....plcbum ——, e...,b...l<lb/> -—, <a href="mailto:Dtilmel@litlye">Dtilmel@litlye</a> &amp;...»... en.bunl——, 111.3..11...»<lb/> ,!n5ﬂllﬂ 8,1500, 3ugnflnmiid}: Sun!1.80000, 2!Ällbtﬂ&gt;ﬂllll<lb/> %tklﬂlﬂll' 88,500, 1111211111111le 90.000,910ﬁmd:<lb break="paragraph"/>
+        <p>In: ungezlieu ﬂaumglnth —.—, Delta:.<lb/> 38.500. $W_let_ kubll ——.—-, lin! * In“!<lb/>
+          109 pllbllnl'll: XIIP'U5ÜE 151.000,le11150<lb/> «....5' .1100 u..g „...,—.1,} ca....plcbum
+          ——, e...,b...l<lb/> -—, <a href="mailto:Dtilmel@litlye">Dtilmel@litlye</a> &amp;...»...
+          en.bunl——, 111.3..11...»<lb/> ,!n5ﬂllﬂ 8,1500, 3ugnflnmiid}: Sun!1.80000,
+          2!Ällbtﬂ&gt;ﬂllll<lb/> %tklﬂlﬂll' 88,500, 1111211111111le 90.000,910ﬁmd:<lb
+            break="paragraph"/>
         </p>
         <p>an.! 13665.<lb break="paragraph"/>
         </p>
@@ -846,11 +1139,26 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>„...:—.<lb break="paragraph"/>
         </p>
-        <p>7;1|£50-8101i011a<lb/> 712 ”251561111! 50.501), “8111111111:nt ——.—,<lb/> . um. 00.11. 2———. 111511..- 177111QO 586.000<lb/> ‘ 6..000 ®0mvbanwiml 711111401:<lb/> 615.000, Sm:uwSawi ﬁ:llldguh ÜHIIIEW1M!<lb/> llall\cilnrhi Wshß nu! 298.000 in mDhnln'vgl:<lb/> l! 440.'a1.'m1‘a .. 450000, ein.-ä.. _u._.g.<lb/> u.ä.. — 11_1nlgll;n ._ «e...... —.—, |. |.<lb/> WWW—617.11. Enid! —.—, 9— ;.<lb/> -—-—, -e, ohillm 86.000. “the<lb/> 810.060, Dlilm. m- aus...<lb/> Self. 396.000 ?{lllnil— °“..er mu<lb/> Ruln.- (£Hl!l 880.000,71ww 217.000, 091110151111: 1,M5W,<lb/> $lngel ill]ul —.—, Mm 110M1101‘mnﬂnü9000, 511150<lb/> .-, m...... 192 ..000 n...: u.ä.. 50000 ..0 01 77.700,<lb/> ger. °Lehrigllilt 246.000, Elan"!!! 31,900 ﬁll -—.,—<lb/> 3lmulh —.—-, Waldmann 500.000, ill.-: 6015 —, llamL 6013<lb/> E.—, lenlna:ßidlln —.—, am»... 65.000,13 mm mm,<lb break="paragraph"/>
+        <p>7;1|£50-8101i011a<lb/> 712 ”251561111! 50.501), “8111111111:nt ——.—,<lb/> . um. 00.11.
+          2———. 111511..- 177111QO 586.000<lb/> ‘ 6..000 ®0mvbanwiml 711111401:<lb/> 615.000,
+          Sm:uwSawi ﬁ:llldguh ÜHIIIEW1M!<lb/> llall\cilnrhi Wshß nu! 298.000 in mDhnln'vgl:<lb/> l!
+          440.'a1.'m1‘a .. 450000, ein.-ä.. _u._.g.<lb/> u.ä.. — 11_1nlgll;n ._ «e...... —.—, |.
+          |.<lb/> WWW—617.11. Enid! —.—, 9— ;.<lb/> -—-—, -e, ohillm 86.000. “the<lb/> 810.060,
+          Dlilm. m- aus...<lb/> Self. 396.000 ?{lllnil— °“..er mu<lb/> Ruln.- (£Hl!l 880.000,71ww
+          217.000, 091110151111: 1,M5W,<lb/> $lngel ill]ul —.—, Mm 110M1101‘mnﬂnü9000, 511150<lb/>
+          .-, m...... 192 ..000 n...: u.ä.. 50000 ..0 01 77.700,<lb/> ger. °Lehrigllilt 246.000,
+          Elan"!!! 31,900 ﬁll -—.,—<lb/> 3lmulh —.—-, Waldmann 500.000, ill.-: 6015 —, llamL
+          6013<lb/> E.—, lenlna:ßidlln —.—, am»... 65.000,13 mm mm,<lb break="paragraph"/>
         </p>
-        <p>In: mu... „.1,..w000 ßf1lnem- m.... Dian<lb break="no"/>114.000, w.i„'1aa.oo_0,<lb break="paragraph"/>
+        <p>In: mu... „.1,..w000 ßf1lnem- m.... Dian<lb break="no"/>114.000, w.i„'1aa.oo_0,<lb
+            break="paragraph"/>
         </p>
-        <p>änmﬁﬁ° 554.000,<lb/> !Kä“ Slaﬁlm 8 10.000, “day: Sm<lb/> Dein.“ Mßllwu 1, 68.000, Saunllx 7850—81n1m119ﬂ_.m_0,<lb/> Mm MMI), “man. öoilpa 148.000, 91117 In" <lb break="no"/>e......inugn 211.000, ling. 1.449.000. 1141 In:<lb/> 1,050000, wem. &amp;. .. 151.330 mm.. 1,015.000, l...<lb/> 1.'." ‘M'T'mää'i“ ......“ ...... .... f"...g.‘ 0.17.0933"<lb/> 8 " :<lb/> Ellenbgilnltll:_ 181.000. 640wn11 —.—— nlcaglln "<lb/> !Xllu1—.—, Mu! Dr! —.—, Oﬁik: um». ——-——.<lb break="paragraph"/>
+        <p>änmﬁﬁ° 554.000,<lb/> !Kä“ Slaﬁlm 8 10.000, “day: Sm<lb/> Dein.“ Mßllwu 1, 68.000, Saunllx
+          7850—81n1m119ﬂ_.m_0,<lb/> Mm MMI), “man. öoilpa 148.000, 91117 In" <lb break="no"
+          />e......inugn 211.000, ling. 1.449.000. 1141 In:<lb/> 1,050000, wem. &amp;. .. 151.330
+          mm.. 1,015.000, l...<lb/> 1.'." ‘M'T'mää'i“ ......“ ...... .... f"...g.‘ 0.17.0933"<lb/> 8
+          " :<lb/> Ellenbgilnltll:_ 181.000. 640wn11 —.—— nlcaglln "<lb/> !Xllu1—.—, Mu! Dr! —.—,
+          Oﬁik: um». ——-——.<lb break="paragraph"/>
         </p>
         <p>. ......qu<lb break="paragraph"/>
         </p>
@@ -858,13 +1166,21 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>_,_,<lb break="paragraph"/>
         </p>
-        <p>r‘7'og, iellmbillic traiiﬂlk 00 N!<lb/> mm id;a Bunte. .. mbth ”‘!!o g: uud; mim M mit<lb/> ﬁlmen ﬂurlul. ßqnu :! M1 lrhilmgrmm mann ll. gr.!<lb/> 11‘ m going ($.. S1. sqligleh br?tﬁnlle M 051: nur :..- M:<lb/> 1'nlwg%l.,üiu benüﬂbzlg lgu. 3“M l“! “<lb/> sw ll. m.. 011 : hg.; :<lb/> Buhl) liluﬂllnrtu bli“£en zf;nuvl=l,ßw '<lb/> nahm 751: Al“ ßrf;ayte_y@ UM} güläi.geﬂ m...}. lzl_l he<lb/> 11"ﬂ%'"ﬁ1"“ ... Mg“?wa Ill 1“ ' ““Die?<lb/> € |“ “ 1 m 9111!' "IC (<lb break="no"/>r‘m. wm hm. nlemmn!lc hmm Bulgariirbc sum una<lb/> änpﬂe1mlt [mi 11: te- n......<lb/> %.1‘3”0‘”“5...«““112132 E.;. “"“<lb/> . 0 all . .<lb/> " Mkmlalla Shellnl°nü %,<lb break="paragraph"/>
+        <p>r‘7'og, iellmbillic traiiﬂlk 00 N!<lb/> mm id;a Bunte. .. mbth ”‘!!o g: uud; mim M
+          mit<lb/> ﬁlmen ﬂurlul. ßqnu :! M1 lrhilmgrmm mann ll. gr.!<lb/> 11‘ m going ($.. S1.
+          sqligleh br?tﬁnlle M 051: nur :..- M:<lb/> 1'nlwg%l.,üiu benüﬂbzlg lgu. 3“M l“! “<lb/> sw
+          ll. m.. 011 : hg.; :<lb/> Buhl) liluﬂllnrtu bli“£en zf;nuvl=l,ßw '<lb/> nahm 751: Al“
+          ßrf;ayte_y@ UM} güläi.geﬂ m...}. lzl_l he<lb/> 11"ﬂ%'"ﬁ1"“ ... Mg“?wa Ill 1“ ' ““Die?<lb/>
+          € |“ “ 1 m 9111!' "IC (<lb break="no"/>r‘m. wm hm. nlemmn!lc hmm Bulgariirbc sum una<lb/>
+          änpﬂe1mlt [mi 11: te- n......<lb/> %.1‘3”0‘”“5...«““112132 E.;. “"“<lb/> . 0 all . .<lb/>
+          " Mkmlalla Shellnl°nü %,<lb break="paragraph"/>
         </p>
         <p>neugch man. um ﬁel-:<lb break="paragraph"/>
         </p>
         <p>:<lb break="paragraph"/>
         </p>
-        <p>100 l“ä$ Iglu ! 878.1‘47l1701101! 568.—,6711050ll111 —.—,<lb/> Ill “110115!!!“ an, _ﬂlwlnlmc Clnnwtebunl 012<lb/> Walkinlh #34. WWW<lb break="paragraph"/>
+        <p>100 l“ä$ Iglu ! 878.1‘47l1701101! 568.—,6711050ll111 —.—,<lb/> Ill “110115!!!“ an,
+          _ﬂlwlnlmc Clnnwtebunl 012<lb/> Walkinlh #34. WWW<lb break="paragraph"/>
         </p>
         <p>mßunl 881,<lb/> 081—<lb break="paragraph"/>
         </p>
@@ -872,7 +1188,11 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>Eule”.<lb break="paragraph"/>
         </p>
-        <p>DS,<lb/> mm.: Bnnlocleln fr.—, Sep. on“ .1le<lb/> nm! 86.-—, MW MI! 18.50." ußllkallﬂc B.;-161.50.<lb/> bahn 511107! 888.— mo. ! bu. am<lb/> lllhldille 905, ﬁll!!! Mm, :;galil'haﬂß ”S.—, Rlﬂßl£qlJ<lb/> ' n — a um —.—,<lb/> @ ,50, Bmw1mﬁ, 1105110: mit Films“<lb/> m...-£ 11me zu.—, kill-n s'ymm mus , an,...«m Sala<lb/> HOH. —, lfllnl%m ﬁlm. 3nbllll:lp aaa, Üubmliu: 10171 —-—,<lb break="paragraph"/>
+        <p>DS,<lb/> mm.: Bnnlocleln fr.—, Sep. on“ .1le<lb/> nm! 86.-—, MW MI! 18.50." ußllkallﬂc
+          B.;-161.50.<lb/> bahn 511107! 888.— mo. ! bu. am<lb/> lllhldille 905, ﬁll!!! Mm,
+          :;galil'haﬂß ”S.—, Rlﬂßl£qlJ<lb/> ' n — a um —.—,<lb/> @ ,50, Bmw1mﬁ, 1105110: mit
+          Films“<lb/> m...-£ 11me zu.—, kill-n s'ymm mus , an,...«m Sala<lb/> HOH. —, lfllnl%m ﬁlm.
+          3nbllll:lp aaa, Üubmliu: 10171 —-—,<lb break="paragraph"/>
         </p>
         <p>“El<lb break="paragraph"/>
         </p>
@@ -882,23 +1202,37 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>Dlen‘eu‘g, s. Seglth 1925<lb/> .,<lb break="paragraph"/>
         </p>
-        <p>;relegnwmel. m...-u.a..<lb/> dh.<lb/> (Xbicoao, 7. 6091011150 . Sie unlerüalﬁid)... $ötlm<lb/> ﬂießen: l'yeule wegen llc5 910 wnatia'erl'ageß geiü)loﬁen.<lb/> ‘Bnainnn, 7.6.1111: Ielcgt. im} ’11eitcr 2101711.)<lb/> St.; beulige E!anll kunt » 1 11111). 55 mlietten: ,Sm<lb/> lön’niiüpa 911015en 180,1..Tänb‘ricßzt Bloggen 182.<lb/> 21ußitirlggetitc ISO, Mezlantilgerite 100;<lb/> 9Ratßptomptlälß, pro ellllßerll)0,ﬁaflrlﬂä.<lb break="paragraph"/>
+        <p>;relegnwmel. m...-u.a..<lb/> dh.<lb/> (Xbicoao, 7. 6091011150 . Sie unlerüalﬁid)...
+          $ötlm<lb/> ﬂießen: l'yeule wegen llc5 910 wnatia'erl'ageß geiü)loﬁen.<lb/> ‘Bnainnn,
+          7.6.1111: Ielcgt. im} ’11eitcr 2101711.)<lb/> St.; beulige E!anll kunt » 1 11111). 55
+          mlietten: ,Sm<lb/> lön’niiüpa 911015en 180,1..Tänb‘ricßzt Bloggen 182.<lb/>
+          21ußitirlggetitc ISO, Mezlantilgerite 100;<lb/> 9Ratßptomptlälß, pro
+            ellllßerll)0,ﬁaflrlﬂä.<lb break="paragraph"/>
         </p>
         <p>Güilhtfl%llﬂ Ill ßen.<lb break="paragraph"/>
         </p>
         <p>..<lb break="paragraph"/>
         </p>
-        <p>115 ca 0, 5. ®tp1eln‘hrﬁlc Elfwellle 1130 bl! 1310<lb/> WM! , ..... 1100 $.; 1735 am 18.12“h. am p...<lb/> .....1... 1717!,'„ pm an»... 171.11, ..... 39mm. 1<lb/> m»... pm 51-plmbz. 1730, 0 Moin 17.65 Ca. m am...<lb break="paragraph"/>
+        <p>115 ca 0, 5. ®tp1eln‘hrﬁlc Elfwellle 1130 bl! 1310<lb/> WM! , ..... 1100 $.; 1735 am
+          18.12“h. am p...<lb/> .....1... 1717!,'„ pm an»... 171.11, ..... 39mm. 1<lb/> m»... pm
+          51-plmbz. 1730, 0 Moin 17.65 Ca. m am...<lb break="paragraph"/>
         </p>
-        <p>apzudn. ...... um.. 17.171 .<lb/> pr» Df1oß . 17.17‘(„ pro 5°" al 11.97'.- Gen. pm 9-Zhn,<lb break="paragraph"/>
+        <p>apzudn. ...... um.. 17.171 .<lb/> pr» Df1oß . 17.17‘(„ pro 5°" al 11.97'.- Gen. pm
+            9-Zhn,<lb break="paragraph"/>
         </p>
-        <p>Einbau, ?. &gt;».plclllber i:hlninlmg.i m.gn 511.111: .<lb/> „A" aus m Stumm !“ r 111 %üingm m Wf „pm<lb/> swlemßer 15IW. 01,1, plc Drum. 15I£hh1<lb/> &gt;!!ll., pm Weinbau: 1518 ü„’ ! m.. pw®nmbe : 15l8'114 °‘... .<lb/> 1540}. 153, pm Ollnßnéna'mbn 1573 ®„ ﬁlm. 2!-.'<lb/> m...... 1.0 cs 151900133... f,.ßm. .:./al.... „ um 33<lb/> pm 0111... 15.17]. m., .:./711.’ ,.... Qanucr-M „war, @,<lb/> l-‘. 9.10, pm ?!llgnllt lvlllﬂe Ua<lb break="paragraph"/>
+        <p>Einbau, ?. &gt;».plclllber i:hlninlmg.i m.gn 511.111: .<lb/> „A" aus m Stumm !“ r 111
+          %üingm m Wf „pm<lb/> swlemßer 15IW. 01,1, plc Drum. 15I£hh1<lb/> &gt;!!ll., pm Weinbau:
+          1518 ü„’ ! m.. pw®nmbe : 15l8'114 °‘... .<lb/> 1540}. 153, pm Ollnßnéna'mbn 1573 ®„ ﬁlm.
+          2!-.'<lb/> m...... 1.0 cs 151900133... f,.ßm. .:./al.... „ um 33<lb/> pm 0111... 15.17].
+          m., .:./711.’ ,.... Qanucr-M „war, @,<lb/> l-‘. 9.10, pm ?!llgnllt lvlllﬂe Ua<lb
+            break="paragraph"/>
         </p>
         <p>[W]. H., pn. um.». 1WI.Q<lb break="paragraph"/>
         </p>
         <p>'Dqlalhllc.<lb break="paragraph"/>
         </p>
-        <p>£ieunol, 5. Emm-ber. ! 92 1 mal<lb/> mm.... ...... n.,ss pm es.i}ﬁä.““i‘1 00"yw ' n“"°“'°<lb break="paragraph"/>
+        <p>£ieunol, 5. Emm-ber. ! 92 1 mal<lb/> mm.... ...... n.,ss pm es.i}ﬁä.““i‘1 00"yw '
+            n“"°“'°<lb break="paragraph"/>
         </p>
         <p>pr... — .1,. '3, „pm. _Samlmbe. 11.’ 7, v_m<lb/> v.u_u'ü ...... ‘<lb break="paragraph"/>
         </p>
@@ -906,11 +1240,23 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>L'};<lb break="paragraph"/>
         </p>
-        <p>ul-l' 11'._,'81' 17m ‘Kl 1 .<lb/> $)xllg 3901! Wi ?n“fE<lb/> mm.. .. 11. P... a:: 21:40,<lb break="no"/>
+        <p>ul-l' 11'._,'81' 17m ‘Kl 1 .<lb/> $)xllg 3901! Wi ?n“fE<lb/> mm.. .. 11. P... a::
+            21:40,<lb break="no"/>
         </p>
-        <p>“mußt 71,‘».u*31030,176. Ltuf'lliällYäa . 130 12,70, ..p.<lb/> in...... m. 10 1710 11.20 201.1: mm ,<lb break="paragraph"/>
+        <p>“mußt 71,‘».u*31030,176. Ltuf'lliällYäa . 130 12,70, ..p.<lb/> in...... m. 10 1710 11.20
+          201.1: mm ,<lb break="paragraph"/>
         </p>
-        <p>u1:.baveftu EBace-nuarfr.<lb/> mm::- llli Güiehzanrll.<lb/> nem). bu ﬁlms Modul Mama l. 655“. W<lb/> ll... ...... 50.115... min.»...u 1.11.700th<lb/> 0uf 408 Süd, unb gmm:102 SIM Dülm “‘ GM<lb/> ‘» 811112 611410, 1 Mol. 70 em 8mpleö. UI «Mann:£ .<lb/> "Ilm Ni". 14.000—15.500 !. °ulnnhllmill Ilm—18.011) k,‘<lb/> mm 10. OBO—11.011) l', mlnhne 75111—85“) k. m “b!<lb/> 14. soo—1a so.) l., .....an sooo—11.000 k, ...in... slim moo—<lb/> 15.000 &amp;. mümﬁwclü 18.000 k, alum- SMD—10.000 l'._<lb/> f::ulub 1500—5500 ;;me um.... men ...... olthea<lb/> lgllllllnﬂl,nllenl nßnlnmn L'\Sllihl<lb/> Bild) uvmn&amp;lhrd MM“! "”I<lb/> !lll bull bcldigm Glinlllltullllh hllcl MDRHM<lb/> till 2888 61°C, M!!! “im um“ 400 €“ . W‘<lb/> 1... .)...mmamm ...in... nam—2411011 l.. .... usw—nm l.,‘<lb/> am...-...: prima m.uoo-m.noo l.. ......e mono-10.000 b.‘<lb/> ...: 21.500—82.000 k. ﬁll Wnu IN! WWW“.<lb break="paragraph"/>
+        <p>u1:.baveftu EBace-nuarfr.<lb/> mm::- llli Güiehzanrll.<lb/> nem). bu ﬁlms Modul Mama l.
+          655“. W<lb/> ll... ...... 50.115... min.»...u 1.11.700th<lb/> 0uf 408 Süd, unb gmm:102 SIM
+          Dülm “‘ GM<lb/> ‘» 811112 611410, 1 Mol. 70 em 8mpleö. UI «Mann:£ .<lb/> "Ilm Ni".
+          14.000—15.500 !. °ulnnhllmill Ilm—18.011) k,‘<lb/> mm 10. OBO—11.011) l', mlnhne
+          75111—85“) k. m “b!<lb/> 14. soo—1a so.) l., .....an sooo—11.000 k, ...in... slim
+          moo—<lb/> 15.000 &amp;. mümﬁwclü 18.000 k, alum- SMD—10.000 l'._<lb/> f::ulub 1500—5500
+          ;;me um.... men ...... olthea<lb/> lgllllllnﬂl,nllenl nßnlnmn L'\Sllihl<lb/> Bild)
+          uvmn&amp;lhrd MM“! "”I<lb/> !lll bull bcldigm Glinlllltullllh hllcl MDRHM<lb/> till 2888
+          61°C, M!!! “im um“ 400 €“ . W‘<lb/> 1... .)...mmamm ...in... nam—2411011 l.. .... usw—nm
+          l.,‘<lb/> am...-...: prima m.uoo-m.noo l.. ......e mono-10.000 b.‘<lb/> ...: 21.500—82.000
+          k. ﬁll Wnu IN! WWW“.<lb break="paragraph"/>
         </p>
         <p>mm nano?<lb break="paragraph"/>
         </p>
@@ -922,21 +1268,47 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>ERNST STEINITZ, V., mil-m Il.<lb break="paragraph"/>
         </p>
-        <p>1'809, n..<lb/> 1’.‘2."—‘.....1 __, “.... .'1‘."“%i.im ."1‘3'..2“‘*. -Z‘f ' .<lb/> haha—...... .. um.» mal......m m,»..gm... ses, I II"<lb/> $llllmwtlnlu100.— 11171311“th .mﬂ5 .<lb/> mm"".'."3 W':::'srgg„;: ...... .„ mm m ...... .<lb/> a: m — . angel — l<lb break="no"/>u.-, ...... x... ’ M GO<lb/> 711), mm:. an... am), 'uugn..’lﬂänlfoe Silbué«k113 mw... D=' K0Lo AN SZE<lb/> w...: Eich. ABBAZIA !<lb/> .. ”".." 7. ...:. "T.-°". “ä“ﬁ‘iä... .. ”""“ “““"<lb/> .. . .. . ... —<lb/> an;?!a‘ä?‘rim [räanld}: Ü11°ﬁllllﬂ; nugeadu‘t, Cult1’1i‘é “ﬂigungu'y A|]hﬁﬂ'll Mast- "|"! ‘<lb/> man: wanna... ... Sie mitm ültld)teul bei «eß- dlﬂtetlguhe .. ‘<lb/> ...mm 101 lei nl1£4ügßnhh 4wlrll_ 11.1mm WM"! Ilm- .... 1 n...-... nach nl...- ung—ll...<lb/> mm in _11=° m- elmßx. ...llu °‘1“'Altfllhllb und Aminnnmln .. W.: ;<lb/> %m :" em .1,. .... !!!-67116» M F!" W., l.lnl.l'num-Mpl. f. m...-nm '<lb/> euli.ilz m$rlr;:umtlgmc, “;cfl ulll_£;u?l" iidgen£lcgrßnelznﬁlglllgtll . .<lb/> $Fn:.iﬂnänlohne' ...... bﬁlﬁiﬂmgull.ﬁf |11.2131: „mim " "<lb/> „. .<lb break="paragraph"/>
+        <p>1'809, n..<lb/> 1’.‘2."—‘.....1 __, “.... .'1‘."“%i.im ."1‘3'..2“‘*. -Z‘f ' .<lb/>
+          haha—...... .. um.» mal......m m,»..gm... ses, I II"<lb/> $llllmwtlnlu100.— 11171311“th
+          .mﬂ5 .<lb/> mm"".'."3 W':::'srgg„;: ...... .„ mm m ...... .<lb/> a: m — . angel — l<lb
+            break="no"/>u.-, ...... x... ’ M GO<lb/> 711), mm:. an... am), 'uugn..’lﬂänlfoe
+          Silbué«k113 mw... D=' K0Lo AN SZE<lb/> w...: Eich. ABBAZIA !<lb/> .. ”".." 7. ...:.
+          "T.-°". “ä“ﬁ‘iä... .. ”""“ “““"<lb/> .. . .. . ... —<lb/> an;?!a‘ä?‘rim [räanld}:
+          Ü11°ﬁllllﬂ; nugeadu‘t, Cult1’1i‘é “ﬂigungu'y A|]hﬁﬂ'll Mast- "|"! ‘<lb/> man: wanna... ...
+          Sie mitm ültld)teul bei «eß- dlﬂtetlguhe .. ‘<lb/> ...mm 101 lei nl1£4ügßnhh 4wlrll_
+          11.1mm WM"! Ilm- .... 1 n...-... nach nl...- ung—ll...<lb/> mm in _11=° m- elmßx. ...llu
+          °‘1“'Altfllhllb und Aminnnmln .. W.: ;<lb/> %m :" em .1,. .... !!!-67116» M F!" W.,
+          l.lnl.l'num-Mpl. f. m...-nm '<lb/> euli.ilz m$rlr;:umtlgmc, “;cfl ulll_£;u?l"
+          iidgen£lcgrßnelznﬁlglllgtll . .<lb/> $Fn:.iﬂnänlohne' ...... bﬁlﬁiﬂmgull.ﬁf |11.2131: „mim
+          " "<lb/> „. .<lb break="paragraph"/>
         </p>
-        <p>„{:an gngm Emm; ef)nßmg<lb/> &amp;...“ ".- '7„35'1:231331:.113 £:‘..£f'"'...ﬂ<lb/> “<lb/> K...... rät-1» nim«»wm wma-m. am<lb break="paragraph"/>
+        <p>„{:an gngm Emm; ef)nßmg<lb/> &amp;...“ ".- '7„35'1:231331:.113 £:‘..£f'"'...ﬂ<lb/> “<lb/>
+          K...... rät-1» nim«»wm wma-m. am<lb break="paragraph"/>
         </p>
-        <p>ﬂullu, 1. Geple:fm. (5 d) l u k ! lllle .) Unlbﬂnl 90.26,<lb/> ,53: ﬁelxlnnmelllltupl &amp; uni [Dollar M.05, B°Io BM“!!! ! 0.59.<lb/> “H:“ “‘.083‘/:. „["/0 WM' 0.077,35 5% “WMV<lb break="paragraph"/>
+        <p>ﬂullu, 1. Geple:fm. (5 d) l u k ! lllle .) Unlbﬂnl 90.26,<lb/> ,53: ﬁelxlnnmelllltupl
+          &amp; uni [Dollar M.05, B°Io BM“!!! ! 0.59.<lb/> “H:“ “‘.083‘/:. „["/0 WM' 0.077,35 5%
+            “WMV<lb break="paragraph"/>
         </p>
-        <p>"|!er 0. 99 —1.—. (] Hlimkbllm<lb/> hmmm ——.——. '/l°/O “nun:? II.: 51:11 19131! —.—, 191491<lb/> 7.30, (% um Onlhnmu 8 un nl. hmmm“ 0.65,<lb break="paragraph"/>
+        <p>"|!er 0. 99 —1.—. (] Hlimkbllm<lb/> hmmm ——.——. '/l°/O “nun:? II.: 51:11 19131! —.—,
+          191491<lb/> 7.30, (% um Onlhnmu 8 un nl. hmmm“ 0.65,<lb break="paragraph"/>
         </p>
-        <p>go<lb/> 95111151. (dt)“ -—.,— SIM}. (MH) 10514“<lb/> 23.,— Mm!!! 85.029‘1,R21%7025, 96.815115“<lb/> 88:50 -Sllluißbltc 112.75,MM151 111375, D=flm:.m<lb/> P.ilfnbnl —.—, !1eltblanl 127.15, Elm<lb/> 5.75_, ﬁll!“ 1111147115. 7.25, HMI: 64.50, lllil'lll ua.—. '. C. 0.<lb/> ln’dlnü.ﬂ II”!!! 83.50.5111! Mü.° 711.—<lb/> St.}! 72.75.9lh115 50.—, %. llgflll. ﬁe<lb/> 92.—,'M1M= Mmiür.’ﬂﬂ 52.,25 Salami? Nu°ß’ll 78.65'h, Ellen:<lb/> mu..so .— 'n... , um......n sun/.,<lb/> ßl;l an...... 11175 ßnmmlel- 17.25, w...: ua.—, m:..me<lb/> 13161.8060, mamma Hamm 11.—<lb/> m..»lmmlm ev.—, .201nmflm 7850, muß. 4.1.— . Damm:<lb/> “mm-!: m 75.11), Mw.81.—, DﬁeriﬁL Ollm<lb/> 5.75 , Rain ll. law“ Tl.— , Müllt-lﬂml 71.50, 66014<lb/> m...-m 41.—.. man 00.00. au......mwm<lb/> “MI 82.—, mai“: Male-lm so.—, Wü 58.57'h.<lb break="paragraph"/>
+        <p>go<lb/> 95111151. (dt)“ -—.,— SIM}. (MH) 10514“<lb/> 23.,— Mm!!! 85.029‘1,R21%7025,
+          96.815115“<lb/> 88:50 -Sllluißbltc 112.75,MM151 111375, D=flm:.m<lb/> P.ilfnbnl —.—,
+          !1eltblanl 127.15, Elm<lb/> 5.75_, ﬁll!“ 1111147115. 7.25, HMI: 64.50, lllil'lll ua.—. '.
+          C. 0.<lb/> ln’dlnü.ﬂ II”!!! 83.50.5111! Mü.° 711.—<lb/> St.}! 72.75.9lh115 50.—, %.
+          llgflll. ﬁe<lb/> 92.—,'M1M= Mmiür.’ﬂﬂ 52.,25 Salami? Nu°ß’ll 78.65'h, Ellen:<lb/> mu..so
+          .— 'n... , um......n sun/.,<lb/> ßl;l an...... 11175 ßnmmlel- 17.25, w...: ua.—,
+          m:..me<lb/> 13161.8060, mamma Hamm 11.—<lb/> m..»lmmlm ev.—, .201nmflm 7850, muß. 4.1.— .
+          Damm:<lb/> “mm-!: m 75.11), Mw.81.—, DﬁeriﬁL Ollm<lb/> 5.75 , Rain ll. law“ Tl.— ,
+          Müllt-lﬂml 71.50, 66014<lb/> m...-m 41.—.. man 00.00. au......mwm<lb/> “MI 82.—, mai“:
+          Male-lm so.—, Wü 58.57'h.<lb break="paragraph"/>
         </p>
         <p>Def -uug «. en.-um..<lb break="paragraph"/>
         </p>
         <p>PEBZSASZÖNYE<lb break="paragraph"/>
         </p>
-        <p>"air!“ qW<lb/> nl6l;=crmﬂlayöi-llﬂllluatn:k mmkiniésétß_ | (.<lb/> Bin-lm. ,hat hat<lb break="paragraph"/>
+        <p>"air!“ qW<lb/> nl6l;=crmﬂlayöi-llﬂllluatn:k mmkiniésétß_ | (.<lb/> Bin-lm. ,hat hat<lb
+            break="paragraph"/>
         </p>
         <p>hmmll, ""<lb/> IV.,Vißl-llmﬂ/ll<lb break="paragraph"/>
         </p>
@@ -948,7 +1320,8 @@ Buch aus <material>Papier</material> in Druckschrift .                          
         </p>
         <p>GUT, .<lb/> VERLÄSSLI CH.<lb/> DOROTHEAGASSE<lb break="paragraph"/>
         </p>
-        <p>vun..- rnnn uam-11mm.<lb/> on.-pm. „..-.....<lb/> nudrworwpmunmm.<lb/> nannv-uev-mwonn-mMBIMGIVAMIM<lb break="paragraph"/>
+        <p>vun..- rnnn uam-11mm.<lb/> on.-pm. „..-.....<lb/> nudrworwpmunmm.<lb/>
+            nannv-uev-mwonn-mMBIMGIVAMIM<lb break="paragraph"/>
         </p>
         <p>nun:-n n. m man. nur ulw.is<lb break="paragraph"/>
         </p>
