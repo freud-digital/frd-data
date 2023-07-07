@@ -401,10 +401,10 @@
             <language ident="de">Deutsch</language>
          </langUsage>
       </profileDesc>
-      <revisionDesc status="proposed">
-         <change who="#dstoxreiter" when="2023-1-4"> Der Status 'proposed' entspricht einer nicht
+      <revisionDesc status="complete">
+         <change who="#chuber" when="2023-7-7"> Der Status 'complete' entspricht einer
             abgeschlossenen Korrektur der OCR Umschrift. </change>
-      </revisionDesc>
+       </revisionDesc>
    </teiHeader>
    <text>
       <body>
@@ -6088,908 +6088,949 @@
 
 
             <pb n="7" xml:id="page__641b0d77-8bab-4d8d-a1f9-e140aa457373"/>
-            <p>Determinilmus. —- Zufüh« und Abergl-uhen. —- Gelichtspuukte. 129<lb break="paragraph"
-               /></p>
-            <p>Ich irozzle seit ein paar Tagen meine Frau mit der Behauptung, daß sie<lb/> ein altes
-               Mütterchen von 82 Jahren sei. 82 + 35 =n7.“<lb break="paragraph"/></p>
-            <p>Der Mann, der seine eigene Zahl nicht zu determinieren wußte,<lb/> fand also sofort
-               die Auﬂösung, als seine Frau ihm eine angeblich will<lb break="no"/>kürlich gewählte
-               Zahl nannte. In Wirklichkeit hatte die Frau sehr<lb/> wohl aufgefaßt, aus welchem
-               Komplex die Zahl ihres Mannes stammte,<lb/> und wählte die eigenelahl aus dem
-               nämlichenKomplex, der gewiß beiden<lb/> Personen gemeinsam war, da es sich in ihm um
-               das Alterswrhiiltnis<lb/> der beiden handelte. Wir haben es nun leicht, den
-               Zahleneinfall des<lb/> Mannes zu übersetzen. Er spricht, wie Dr. A die r andeutet.
-               einen<lb/> unterdrückten Wunsch des Mannes aus, der voll entwickelt lauten<lb/>
-               wiirde: „Zu einem Marine von 34 Jahren, wie ich einer bin, paßt nur eine<lb/> Frau
-               von 17 Jahren.”<lb break="paragraph"/></p>
-            <p>Damit man nicht allzu geringschätzig von solchen „Spielereien“<lb/> denken möge, will
-               ich hinzufügen, was ich kürzlich von Dr. Adler<lb/> erfahren habe, daß ein Jahr nach
-               Veröffentlichung dieser Analyse der<lb/> Mann von seiner Frau geschieden war‘).<lb
-                  break="paragraph"/></p>
-            <p>Ähnliche Aufklärungen gibt Adler für die Entstehung abse<lb break="no"/>dierender
-               Zahlen. Auch die Wahl sogenannter „Lieblingszahlen“ ist<lb/> nicht ohne Beziehung auf
-               das Leben der betreffenden Person und<lb/> entbehrt nicht eines gewissen
-               psychologischen Interesses. Ein Herr,<lb/> der sich zu einer besonderen Vorliebe für
-               die Zahlen 17 und 19 bekannte,<lb/> wußte nach kurzem Besinnen anzugeben, daß er mit
-               17 Jahren in die<lb/> laugeisehnte akademische Freiheit, auf die Universität
-               gekommen,<lb/> und daß er mit 19 Jahren seine erste große Reise und bald darauf<lb/>
-               seinen ersten wissenschaftlichen Fund gemacht. Die Fixierung dieser<lb/> Vorliebe
-               erfolgte aber zwei Lustren später, als die gleichen Zahlen zur<lb/> Bedeutung für
-               sein Liebesleben gelangten. —— Ja selbst Zahlen, die<lb/> man anscheinend willkürlich
-               in gewissem Zusammenhange besonders<lb/> häufig gebraucht, lassen sich durch die
-               Analyse auf unerwarteten Sinn<lb/> zurückführen. So fiel es einem meiner Patienten
-               eines Tages auf, daß<lb/> er im Unmut besonders gerne zu sagen pﬂege: Das habe ich
-               dir schon<lb/> 17 bis 36 mal gesagt, und er fragte sich, ob es auch dafür eine
-               Motivieru'ng<lb/> gebe. Es ﬁel ihm alsbald ein, daß er an einem 27. Monatstag
-                  geboren<lb break="paragraph"/></p>
-            <p>1) Zur Aufklärung des „Macbeth" Nr, 17 der U-B. teilt mir A d l e r mit,<lb/> daß der
-               betreffende in seinem 17. Lebensjahr einer auarchistischen Gesellschaft<lb/>
-               beigetreten war, die sich den Königsmord zum Ziel gesetzt hatte. Darum verfiel<lb/>
-               wohl der Inhalt des Macbeth dem Vergessen. Zu jener Zeit erfand die nämliche<lb/>
-               Person eine Geheimschritt, in der die Buchstaben durch Zahlen ersetzt waren.<lb
-                  break="paragraph"/></p>
-            <p>Freud, Psyrbupalhologie des Alltagslebens. 9<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">129</fw><quote type="inlinequote">Ich frozzle seit ein
+                     paar Tagen meine Frau mit der Behauptung, daß sie 
+                     ein altes Mütterchen von 82 Jahren sei. 82 + 35 = 117.</quote>“</p> 
+               <p>Der Mann, der seine eigene Zahl nicht zu determinieren wußte, 
+                  fand also sofort die Auflösung, als seine Frau ihm eine angeblich willkürlich
+                  gewählte Zahl nannte. In Wirklichkeit hatte die Frau sehr 
+                  wohl aufgefaßt, aus welchem Komplex die Zahl ihres Mannes stammte, 
+                  und wählte die eigene Zahl aus dem nämlichen Komplex, der gewiß beiden 
+                  Personen gemeinsam war, da es sich in ihm um das Altersverhältnis 
+                  der beiden handelte. Wir haben es nun leicht, den Zahleneinfall des 
+                  Mannes zu übersetzen. Er spricht, wie Dr. <hi rendition="#smallcaps">Adler</hi>'
+                  andeutet, einen unterdrückten Wunsch des Mannes aus, der voll entwickelt lauten 
+                  würde: „Zu einem Manne von 34 Jahren, wie ich einer bin, paßt nur eine 
+                  Frau von 17 Jahren.“</p>
+               <p>Damit man nicht allzu geringschätzig von solchen „Spielereien“ 
+                  denken möge, will ich hinzufügen, was ich kürzlich von
+                  Dr. <hi rendition="#smallcaps">Adler</hi> erfahren habe, daß ein Jahr nach
+                  Veröffentlichung dieser Analyse der 
+                  Mann von seiner Frau geschieden war<hi rendition="#footnote-index">1)</hi>.</p> 
+               <p>Ähnliche Aufklärungen gibt <hi rendition="#smallcaps">Adler</hi>
+                  für die Entstehung obsedierender Zahlen. Auch die Wahl sogenannter „Lieblingszahlen“
+                  ist nicht ohne Beziehung auf das Leben der betreffenden Person und 
+                  entbehrt nicht eines gewissen psychologischen Interesses. Ein Herr, 
+                  der sich zu einer besonderen Vorliebe für die Zahlen 17 und 19 bekannte, 
+                  wußte nach kurzem Besinnen anzugeben, daß er mit 17 Jahren in die 
+                  langersehnte akademische Freiheit, auf die Universität gekommen, 
+                  und daß er mit 19 Jahren seine erste große Reise und bald darauf 
+                  seinen ersten wissenschaftlichen Fund gemacht. Die Fixierung dieser 
+                  Vorliebe erfolgte aber zwei Lustren später, als die gleichen Zahlen zur 
+                  Bedeutung für sein Liebesleben gelangten. — Ja selbst Zahlen, die 
+                  man anscheinend willkürlich in gewissem Zusammenhange besonders 
+                  häufig gebraucht, lassen sich durch die Analyse auf unerwarteten Sinn 
+                  zurückführen. So fiel es einem meiner Patienten eines Tages auf, daß 
+                  er im Unmut besonders gerne zu sagen pflege: Das habe ich dir schon 
+                  17 bis 36 mal gesagt, und er fragte sich, ob es auch dafür eine Motivierung 
+                  gebe. Es fiel ihm alsbald ein, daß er
+                  an einem 27. Monatstag geboren<lb break="paragraph"/>
 
 
             <pb n="8" xml:id="page__9aa994f3-4ee1-4169-b042-89feba5703e2"/>
-            <p>130 Determinismus. —Zufalle- und Abetglauben. — Gesichtepunkte.<lb break="paragraph"
-               /></p>
-            <p>sei, sein jüngerer Bruder aber an einem 26., und daß er Grund habe,<lb/> darüber zu
-               klagen, daß das Schicksal ihm soviel von den Gütern des<lb/> Lebens geraubt, um sie
-               diesem jüngeren Bruder zuzuwenden. Diese<lb/> Parteilichkeit des Schicksals stellte
-               er also dar, indem er von seinem<lb/> Geburtsdatum m abzog und diese zum Datum des
-               Bruders hinzufügte.<lb/> „Ich bin der Ältere und dennoch so verkürzt werden.“<lb
-                  break="paragraph"/></p>
-            <p>Ein hübsches Beispiel von Herleitung eines obsedierenden, d. h.<lb/> verfolgenden
-               Wortes ﬁndet sich bei Jung (Diagnost. Assoziations<lb break="no"/>Studien IV, S.
-               215). „Eine Dame erzählte mir, daß ihr seit einigen<lb/> Tagen beständig das Wort
-               „Taganrog“ im Munde liege, ohne<lb/> daß sie eine Idee habe, woher das komme. Ich
-               fragte die Dame<lb/> nach den atfektbetonten Ereignissen und verdrängten
-               Wünschen<lb/> der ]üngstvergangenheit. Nach einigem Zögern erzählte sie mir,<lb/> daß
-               sie sehr gerne einen „M orgenrock" hätte, ihr Mann aber<lb/> nicht das gewünschte
-               Interesse dafür habe. „Morgen-rock: Tag<lb break="no"/>an—rock“, man sieht die
-               partielle Sinn— und Klangverwandtschaft.<lb/> Die Determ.ination der russischen Form
-               kommt daher, daß ungefähr<lb/> zu gleicher Zeit die Dame eine Persönlichkeit aus
-               Taganrog kennen<lb/> gelernt hatte.“<lb break="paragraph"/></p>
-            <p>In eigenen Analysen dieser Art ist mir zweierlei besonders auf<lb break="no"/>fällig:
-               Erstens die geradezu somnarnbule Sicherheit, mit der ich auf<lb/> das mir unbekannte
-               Ziel losgehe, mich in einen rechnenden Gedanken<lb break="no"/>gang versenke, der
-               dann plötzlich bei der gesuchten Zahl angelangt<lb/> ist, und die Raschheit, mit der
-               sich die ganze Nacharbeit vollzieht;<lb/> zweitens aber der Umstand, daß die Zahlen
-               meinem unhewußten<lb/> Denken so bereitwillig zur Verfügung stehen, während ich ein
-               schlechter<lb/> Rechner bin und die größten Schwierigkeiten habe, mir
-               Jahreszahlen,<lb/> Hausnummern und dergleichen bewußt zu merken. Ich finde
-               übrigens<lb/> in diesen unbewußten Gedankenoperationen mit Zahlen eine Neigung<lb/>
-               zum Aberglauben, deren Herkunft mir lange Zeit fremd geblieben ist.<lb
-                  break="paragraph"/></p>
-            <p>II. Diese Einsicht in die Determinierung scheinbar willkürlich<lb/> gewählter Namen
-               und Zahlen kann vielleicht zur Klärung eines anderen<lb/> Problems beitragen. Gegen
-               die Annahme eines durchgehenden psy<lb break="no"/>chischen Detem1inismus berufen
-               sich bekanntlich viele Personen auf<lb/> ein besonderes Überzeugungsgetühl für die
-               Existenz eines freien Willens.<lb/> Dieses Überzeugungsgefühl besteht und weicht auch
-               dem Glauben<lb/> an den Determinismus nicht. Es muß wie alle normalen Gefühle<lb/>
-               durch irgend etwas berechtigt sein. Es äußert sich aber, soviel ich<lb/> beobachten
-               kann, nicht bei den großen und wichtigen Willensent<lb break="no"/>scheidungen ; bei
-               diesen Gelegenheiten hat man vielmehr die Empfindung<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">130</fw>sei, sein jüngerer Bruder aber an einem 26., und daß
+                  er Grund habe, darüber zu klagen, daß das Schicksal ihm soviel von den Gütern des 
+                  Lebens geraubt, um sie diesem jüngeren Bruder zuzuwenden. Diese 
+                  Parteilichkeit des Schicksals stellte er also dar, indem er von seinem 
+                  Geburtsdatum 10 abzog und diese zum Datum des Bruders hinzufügte. 
+                  „Ich bin der Ältere und dennoch so verkürzt worden.“</p>
+               
+               <note type="footnote"><hi rendition="#footnote-index">1)</hi> Zur Aufklärung
+                  des „Macbeth“ Nr. 17 der U-B. teilt mir <hi rendition="#smallcaps">Adler</hi> mit, 
+                  daß der betreffende in seinem 17. Lebensjahr einer anarchistischen Gesellschaft 
+                  beigetreten war, die sich den Königsmord zum Ziel gesetzt hatte. Darum verfiel 
+                  wohl der Inhalt des Macbeth dem Vergessen. Zu jener Zeit erfand die nämliche 
+                  Person eine Geheimschrift, in der die Buchstaben durch Zahlen ersetzt waren.</note> 
+               
+               <p>Ein hübsches Beispiel von Herleitung eines obsedierenden, d. h. 
+                  verfolgenden Wortes findet sich bei <hi rendition="#smallcaps">Jung</hi>
+                  (Diagnost. Assoziationsstudien IV, S. 215). „<quote type="inlinequote">Eine Dame
+                     erzählte mir, daß ihr seit einigen Tagen beständig
+                     das Wort „<hi rendition="#smallcaps">Taganrog</hi>“ im Munde liege, ohne 
+                     daß sie eine Idee habe, woher das komme. Ich fragte die Dame 
+                     nach den affektbetonten Ereignissen und verdrängten Wünschen 
+                     der Jüngstvergangenheit. Nach einigem Zögern erzählte sie mir, 
+                     daß sie sehr gerne einen „<hi rendition="#smallcaps">Morgenrock</hi>“ hätte, ihr
+                     Mann aber nicht das gewünschte Interesse dafür
+                     habe. „Morgen-rock: Tagan-rock“, man sieht die partielle Sinn- und
+                     Klangverwandtschaft. Die Determination der russischen Form kommt daher, daß ungefähr 
+                     zu gleicher Zeit die Dame eine Persönlichkeit aus Taganrog kennen 
+                     gelernt hatte.</quote>“</p>
+               <p>In eigenen Analysen dieser Art ist mir zweierlei besonders auffällig: Erstens
+                  die geradezu somnambule Sicherheit, mit der ich auf 
+                  das mir unbekannte Ziel losgehe, mich in einen rechnenden Gedankengang versenke,
+                  der dann plötzlich bei der gesuchten Zahl angelangt 
+                  ist, und die Raschheit, mit der sich die ganze Nacharbeit vollzieht; 
+                  zweitens aber der Umstand, daß die Zahlen meinem unbewußten 
+                  Denken so bereitwillig zur Verfügung stehen, während ich ein schlechter 
+                  Rechner bin und die größten Schwierigkeiten habe, mir Jahreszahlen, 
+                  Hausnummern und dergleichen bewußt zu merken. Ich finde übrigens 
+                  in diesen unbewußten Gedankenoperationen mit Zahlen eine Neigung 
+                  zum Aberglauben, deren Herkunft mir lange Zeit fremd geblieben ist.</p> 
+               <p>II. Diese Einsicht in die Determinierung scheinbar willkürlich 
+                  gewählter Namen und Zahlen kann vielleicht zur Klärung eines anderen 
+                  Problems beitragen. Gegen die Annahme eines durchgehenden psychischen
+                  Determinismus berufen sich bekanntlich viele Personen auf 
+                  ein besonderes Überzeugungsgefühl für die Existenz eines freien Willens. 
+                  Dieses Überzeugungsgefühl besteht und weicht auch dem Glauben 
+                  an den Determinismus nicht. Es muß wie alle normalen Gefühle 
+                  durch irgend etwas berechtigt sein. Es äußert sich aber, soviel ich 
+                  beobachten kann, nicht bei den großen und wichtigen Willensentscheidungen;
+                  bei diesen Gelegenheiten hat man vielmehr die Empfindung<lb break="paragraph"/>
+                  
 
 
             <pb n="9" xml:id="page__9fded43f-7670-4bff-af05-3cb76bf05fdb"/>
-            <p>Determinismus. —— Zufalls- und Aherglauben. —Gesichtspunkte. 131<lb break="paragraph"
-               /></p>
-            <p>des psychischen Zwanges und beruft sich gerne auf sie („Hier stehe<lb/> ich, ich kann
-               nicht anders”). Hingegen möchte man gerade bei den<lb/> belanglosen, indifferenten
-               Entschließungen versichern, daß man<lb/> ebensowohl anders hätte handeln können, daß
-               man aus freiem, nicht<lb/> motiviertem Willen gehandelt hat. Nach umeren Analysen
-               braucht<lb/> man nun das Recht des Überzeugungsgefiihles vom freien Willen<lb/> nicht
-               zu bestreiten. Führt man die Unterscheidung der Motivierung<lb/> aus dem Bewußten von
-               der Motivierung aus dem Unbewußten ein,<lb/> so berichtet uns das Überzeugungsgefühl,
-               daß die bewußte Motivierung<lb/> sich nicht auf alle unsere motorischen
-               Entscheidungen erstreckt.<lb/> Minima. non cura.t praetor. Was aber so von der einen
-               Seite frei ge—<lb/> lassen wird, das empiängt seine Motivierung von anderer Seite,
-               aus<lb/> dem Unbewußten, und so ist die Determinienmg im Psychischen<lb/> doch
-               lückenlos durchgeﬁihrﬂ).<lb break="paragraph"/></p>
-            <p>III. Wenngleich dem bewußten Denken die Kenntnis von der<lb/> Motivierung der
-               besprochenen Fehlleistungen nach der ganzen Sach<lb break="no"/>lage abgeben muß, so
-               wäre es doch erwünscht, einen psychologischen<lb/> Beweis für deren Existenz
-               aufzuiinden; ja es ist aus Gründen, die si&amp;<lb/> bei näherer Kenntnis des
-               Unbewußten ergeben, wahrscheinlich, daß<lb/> solche Beweise irgendwo auﬁindbar sind.
-               Es lassen sich wirklich<lb/> auf zwei Gebieten Phänomene nachweisen, welche einer
-               unbewußten<lb/> und darum verschobenen Kenntnis von dieser Motivierung zu ent<lb
-                  break="no"/>sprechen scheinen.<lb break="paragraph"/></p>
-            <p>a) Es ist ein auffälliger und allgemein bemerkter Zug im Ver.<lb/> halten der
-               Paranoiker, daß sie den kleinen, sonst von uns vernach<lb break="no"/>lässigten
-               Details im Benehmen der anderen die größte Bedeutung<lb/> beilegen, dieselben
-               ausdeuten und zur Grundlage weitgehender<lb break="paragraph"/></p>
-            <p>1) Diese Anschauungen über die strenge Determinierung anscheinend will<lb break="no"
-               />kürlicher psychischer Aktionen haben bereits reiche Früchte für die
-               Psychologie<lb/> —— vielleicht auch für die Rechtspﬂege — getragen. Blenler und
-               Jung<lb/> haben in diesem Sinne die Reaktionen beim sogenannten
-               Assoziatiomexperiment<lb/> verständlich gemacht, bei dem die untersuchte Person auf
-               ein ihr zugerufenes<lb/> Wort mit einem ihr dazu einia,llenden antwortet
-               (Reizwort-Reaktion) und die<lb/> dabei verlaufende Zeit gemessen wird
-               (Reaktionszeit). ] n n g hat in seinen „Dia<lb break="no"/>gnostischen
-               Assoziationstndien 1906" gezeigt, welch feines Reagens fiir psychische<lb/> Zustände
-               wir in dem so gedeuteten Assoziationsexperiment besitzen. Zwei Schüler<lb/> des
-               Strafrechtslehrers H. Groß in Prag, Wertheimer und Klein haben<lb/> aus diesen
-               Experimenten eine Technik zur „Tatbestands—Diagnostik" in straf<lb break="no"
-               />rechtlichen Fällen entwickelt, deren Prüiung gegenwärtig Psychologen und
-               Juristen<lb/> beschäftigt.<lb break="paragraph"/></p>
-            <p>gt<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">131</fw>des psychischen Zwanges und beruft sich gerne auf
+                  sie („Hier stehe ich, ich kann nicht anders“). Hingegen möchte man gerade bei den 
+                  belanglosen, indifferenten Entschließungen versichern, daß man 
+                  ebensowohl anders hätte handeln können, daß man aus freiem, nicht 
+                  motiviertem Willen gehandelt hat. Nach unseren Analysen braucht 
+                  man nun das Recht des Überzeugungsgefühles vom freien Willen 
+                  nicht zu bestreiten. Führt man die Unterscheidung der Motivierung 
+                  aus dem Bewußten von der Motivierung aus dem Unbewußten ein, 
+                  so berichtet uns das Überzeugungsgefühl, daß die bewußte Motivierung 
+                  sich nicht auf alle unsere motorischen Entscheidungen erstreckt. 
+                  Minima non curat praetor. Was aber so von der einen Seite frei gelassen wird,
+                  das empfängt seine Motivierung von anderer Seite, aus 
+                  dem Unbewußten, und so ist die Determinierung im Psychischen 
+                  doch lückenlos durchgeführ<hi rendition="#footnote-index">1)</hi>.</p> 
+               <p>III. Wenngleich dem bewußten Denken die Kenntnis von der 
+                  Motivierung der besprochenen Fehlleistungen nach der ganzen Sachlage abgehen muß,
+                  so wäre es doch erwünscht, einen psychologischen 
+                  Beweis für deren Existenz aufzufinden; ja es ist aus Gründen, die sich 
+                  bei näherer Kenntnis des Unbewußten ergeben, wahrscheinlich, daß 
+                  solche Beweise irgendwo auffindbar sind. Es lassen sich wirklich 
+                  auf zwei Gebieten Phänomene nachweisen, welche einer unbewußten 
+                  und darum verschobenen Kenntnis von dieser Motivierung zu entsprechen scheinen.</p> 
+               <p>a) Es ist ein auffälliger und allgemein bemerkter Zug im Verhalten der Paranoiker,
+                  daß sie den kleinen, sonst von uns vernachlässigten Details im Benehmen der
+                  anderen die größte Bedeutung beilegen, dieselben ausdeuten und zur
+                  Grundlage weitgehender<lb break="paragraph"/>
 
 
             <pb n="10" xml:id="page__a86240d1-47d0-4394-8d00-7bcea27142c3"/>
-            <p>132 Detenninisrnus. ——Zufnlls- und Aberglauben. -— Gesichtspunkte.<lb
-                  break="paragraph"/></p>
-            <p>Schlüsse machen. Der letzte Paranoiker z. B., den ich gesehen habe,<lb/> schloß auf
-               ein allgemeines Einverständnis in seiner Umgebung, weil<lb/> die Leute bei seiner
-               Abreise auf dem Bahnhof eine gewisse Bewegung<lb/> mit der einen Hand gemacht hatten.
-               Ein anderer hat die Art notiert,<lb/> wie die Leute auf der Straße gehen, mit den
-               Spazierstöcken fuchteln<lb/> und dgl.l).<lb break="paragraph"/></p>
-            <p>Die Kategorie des Zufälligen, der Motivierung nicht Bedürftigen,<lb/> welche der
-               Normale für einen Teil seiner eigenen psychischen Lei—<lb/> stungen und
-               Fehlleistungen gelten läßt, verwirft der Paranoiker also<lb/> in der Anwendung auf
-               die psychischen Äußerungen der anderen. Alles,<lb/> was er an den anderen bemerkt,
-               ist bedeutungsvoll, alles ist deutbar.<lb/> Wie kommt er nur dazu? Er projiziert
-               wahrscheinlich in das Seelen<lb break="no"/>leben der anderen, was im eigenen
-               unbewußt vorhanden ist, hier wie<lb/> in so vielen ähnlichen Fällen. In der Paranoia
-               drängt sich eben so<lb/> vielerlei zum Bewußtsein durch, was wir bei Normalen und
-               Neurotikern<lb/> erst durch die Psychoanalyse als im Unbewußten vorhanden nach«<lb/>
-               weisen2). Der Paranoiker hat also hierin in gewissem Sinne Recht,<lb/> er erkennt
-               etwas, was dem Normalen entgeht, er sieht schärfer als das,<lb/> normale
-               Denkvermögen, aber die Verschiebung des so erkannten<lb/> Sachverhaltes auf andere
-               macht seine Erkenntnis wertlos. Die Recht<lb break="no"/>fertigung der einzelnen
-               paranoischen Deutungen wird man dann<lb/> hoffentlich von mir nicht erwarten. Das
-               Stück Berechtigung aber,<lb/> welches wir der Paranoia bei dieser Auffassung der
-               Zufallshandlungen<lb/> zugßtehen, wird uns das psychologische Verständnis der
-               Überzeugung<lb/> erleichtern, welche sich beim Paranoiker an alle diese
-               Deutungen<lb/> geknüpft hat. Es ist eben etwas Wahres daran; auch<lb/> unsere nicht
-               als krankhaft zu bezeichnenden Urteilsirrtümer erwerben<lb/> das ihnen zugehörige
-               Überzeugungsgefühl auf keine andere Art. Dies<lb/> Gefühl ist für ein gewisses Stück
-               das irrtümlichen Gedankenganges<lb/> oder für die Quelle, aus der er stammt,
-               berechtigt und wird dann von<lb/> uns auf den übrigen Zusammenhang ausgedehnt.<lb
-                  break="paragraph"/></p>
-            <p>1) Von anderen Gmichtnpunkten ausgehend, hat man diese Beurteilung<lb/>
-               nnwesentlicher und Zufälliger Äußerungen bei anderen zum .,Bezlehungswahu“<lb/>
-                  gerechnet.<lb break="paragraph"/></p>
-            <p>2) Die durch Analyse bewußt zu machenden Phantasien der Hysteriker<lb/> von sexuellen
-               und grausamen Mißhandlungen decken sich z. B. gelegentlich bis<lb/> ins Einzelne mit
-               den Klagen verfolgler Paranoiker. Es ist bemerkenswert, aber<lb/> nicht
-               unverständlich, wenn der identische Inhalt uns auch als Realität in den<lb/>
-               Veranstaltungen Perverser zur Befriedigung ihrer Gelüste eutgegentritt.<lb
-                  break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">132</fw>Schlüsse machen. Der letzte Paranoiker z. B., den ich
+                  gesehen habe, schloß auf ein allgemeines Einverständnis in seiner Umgebung, weil 
+                  die Leute bei seiner Abreise auf dem Bahnhof eine gewisse Bewegung 
+                  mit der einen Hand gemacht hatten. Ein anderer hat die Art notiert, 
+                  wie die Leute auf der Straße gehen, mit den Spazierstöcken fuchteln 
+                  und dgl.<hi rendition="#footnote-index">1)</hi>. 
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Diese Anschauungen
+                     über die strenge Determinierung anscheinend willkürlicher psychischer Aktionen
+                     haben bereits reiche Früchte für die Psychologie 
+                     — vielleicht auch für die Rechtspflege — getragen. <hi rendition="#smallcaps">Bleuler</hi>
+                     und <hi rendition="#smallcaps">Jung</hi> haben in diesem Sinne die Reaktionen
+                     beim sogenannten Assoziationsexperiment verständlich gemacht, bei dem die
+                     untersuchte Person auf ein ihr zugerufenes 
+                     Wort mit einem ihr dazu einfallenden antwortet (Reizwort-Reaktion) und die 
+                     dabei verlaufende Zeit gemessen wird (Reaktionszeit). <hi rendition="#smallcaps">Jung</hi>
+                     hat in seinen „Diagnostischen Assoziationsstudien 1906“ gezeigt, welch
+                     feines Reagens für psychische 
+                     Zustände wir in dem so gedeuteten Assoziationsexperiment besitzen. Zwei Schüler 
+                     des Strafrechtslehrers H. <hi rendition="#smallcaps">Groß</hi> in Prag,
+                     <hi rendition="#smallcaps">Wertheimer</hi> und <hi rendition="#smallcaps">Klein</hi>
+                     haben aus diesen Experimenten eine Technik zur „Tatbestands-Diagnostik“ in
+                     strafrechtlichen Fällen entwickelt, deren Prüfung gegenwärtig Psychologen und Juristen 
+                     beschäftigt.</note>
+                  
+                  <p>Die Kategorie des Zufälligen, der Motivierung nicht Bedürftigen, 
+                     welche der Normale für einen Teil seiner eigenen psychischen Leistungen und
+                     Fehlleistungen gelten läßt, verwirft der Paranoiker also 
+                     in der Anwendung auf die psychischen Äußerungen der anderen. Alles, 
+                     was er an den anderen bemerkt, ist bedeutungsvoll, alles ist deutbar. 
+                     Wie kommt er nur dazu? Er projiziert wahrscheinlich in das Seelenleben
+                     der anderen, was im eigenen unbewußt vorhanden ist, hier wie 
+                     in so vielen ähnlichen Fällen. In der Paranoia drängt sich eben so 
+                     vielerlei zum Bewußtsein durch, was wir bei Normalen und Neurotikern 
+                     erst durch die Psychoanalyse als im Unbewußten vorhanden nach- 
+                     weisen<hi rendition="#footnote-index">2)</hi>. Der Paranoiker hat also hierin
+                     in gewissem Sinne Recht, 
+                     er erkennt etwas, was dem Normalen entgeht, er sieht schärfer als das 
+                     normale Denkvermögen, aber die Verschiebung des so erkannten 
+                     Sachverhaltes auf andere macht seine Erkenntnis wertlos. Die Rechtfertigung
+                     der einzelnen paranoischen Deutungen wird man dann 
+                     hoffentlich von mir nicht erwarten. Das Stück Berechtigung aber, 
+                     welches wir der Paranoia bei dieser Auffassung der Zufallshandlungen 
+                     zugestehen, wird uns das psychologische Verständnis der Überzeugung 
+                     erleichtern, welche sich beim Paranoiker an alle diese Deutungen 
+                     geknüpft hat. <hi rendition="#smallcaps">Es ist eben etwas Wahres daran</hi>; auch 
+                     unsere nicht als krankhaft zu bezeichnenden Urteilsirrtümer erwerben 
+                     das ihnen zugehörige Überzeugungsgefühl auf keine andere Art. Dies 
+                     Gefühl ist für ein gewisses Stück des irrtümlichen Gedankenganges 
+                     oder für die Quelle, aus der er stammt, berechtigt und wird dann von 
+                     uns auf den übrigen Zusammenhang ausgedehnt.</p> 
+                  
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Von anderen
+                     Gesichtspunkten ausgehend, hat man diese Beurteilung 
+                     unwesentlicher und zufälliger Äußerungen bei anderen zum „Beziehungswahn“ 
+                     gerechnet.</note> 
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">2)</hi> Die durch Analyse
+                     bewußt zu machenden Phantasien der Hysteriker 
+                     von sexuellen und grausamen Mißhandlungen decken sich z. B. gelegentlich bis 
+                     ins Einzelne mit den Klagen verfolgter Paranoiker. Es ist bemerkenswert, aber 
+                     nicht unverständlich, wenn der identische Inhalt uns auch als Realität in den 
+                     Veranstaltungen Perverser zur Befriedigung ihrer Gelüste entgegentritt.</note>
 
 
             <pb n="11" xml:id="page__7231a5eb-705d-4cf9-a15e-2a40351d1f25"/>
-            <p>Detaminismus. —Zufa.lls- und Aherghuben. —- Gesichtspunkte. 133<lb break="paragraph"
-               /></p>
-            <p>b) Ein anderer Hinweis auf die unbewußte und verschobene<lb/> Kenntnis der
-               Motivierung bei Zufalls— und Fehlleistungen findet sich<lb/> in den Phänomenen des
-               Aherglaubens. Ich will meine Meinung durch<lb/> die Diskussion des kleinen
-               Erlebnisses klar legen, welches für mich<lb/> der Ausgangspunkt dieser Überlegungen
-                  war.<lb break="paragraph"/></p>
-            <p>Von den Ferien zurückgekehrt, richten sich meine Gedanken<lb/> alsbald auf die
-               Kranken, die mich in dem neu beginnenden Arbeits—<lb/> jahre beschäftigen sollen.
-               Mein erster Weg gilt einer sehr alten Dame,<lb/> bei der ich (siehe oben) seit Jahren
-               die nämlichen ärztlichen Mani<lb break="no"/>pulationen zweimal täglich vornehme.
-               Wegen dieser Gleichförrnig<lb break="no"/>keit haben sich unbewußte Gedanken sehr
-               häufig auf dem Wege zu<lb/> der Kranken und während der Beschäftigung mit ihr
-               Ausdruck ver—<lb/> schafft. Sie ist über 90 Jahre alt; es liegt also nahe, sich bei
-               Beginn eines<lb/> jeden Jahres zu fragen, wie lange sie wohl noch zu leben hat. An
-               dem<lb/> Tage, von dem ich erzähle, habe ich Eile, nehme also einen Wagen,<lb/> der
-               mich vor ihr Haus führen soll. jeder der Kutscher auf dem Wagen<lb break="no"
-               />standplatz vor meinem Hause kennt die Adresse der alten Frau, denn<lb/> jeder hat
-               mich schon oftmals dahin geführt. Heute ereignet es sich<lb/> nun, daß der Kutscher
-               nicht vor ihrem Hause, sondern vor dem gleich<lb break="no"/>bezifferten in einer
-               nahegelegenen und wirklich ähnlich aussehenden<lb/> Parallelstraße Halt macht. Ich
-               merke den Irrtum und werte ihn dem<lb/> Kutscher vor, der sich entschuldigt. Hat das
-               nun etwas zu bedeuten,<lb/> daß ich vor ein Haus geführt werde, in dem ich die alte
-               Dame nicht<lb/> vorfinde? Für mich gewiß nicht, aber wenn ich abergläubisch<lb/>
-               wäre, würde ich in dieser Begebenheit ein Vorzeichen erblicken, einen<lb/> Fingerzeig
-               des Schicksals, daß dies Jahr das letzte für die alte Frau<lb/> sein wird. Recht
-               viele Vorzeichen, welche die Geschichte aufbewahrt<lb/> hat, sind in keiner bmseren
-               Symbolik begründet gewesen. 1 ch er<lb break="no"/>kläre allerdings den Vorfall für
-               eine Zufälligkeit ohne weiteren Sinn.<lb break="paragraph"/></p>
-            <p>Ganz anders läge der Fall, wenn ich den Weg zu Fuß gemacht<lb/> und dann in
-               „Gedanken“, in der „Zerstreutheit“ vor das Haus der<lb/> Parallelstraße anstatt vors
-               richtige gekommen wäre. Das würde<lb/> ich für keinen Zufall erklären, sondern für
-               eine der Deutung bedürftige<lb/> Handlung mit unbewußter Absicht. Diesem „V e r g e h
-               e n“ müßte<lb/> ich wahrscheinlich die Deutung geben, daß ich die alte Dame bald<lb/>
-               nicht mehr anzutreffen erwarte.<lb break="paragraph"/></p>
-            <p>Ich unterscheide mich also von einem Abergläubischen in<lb/> folgendem:<lb
-                  break="paragraph"/></p>
-            <p>Ich glaube nicht, daß ein Ereignis, an dessen Zustandekommen<lb/> mein Seelenleben
-               unbeteiligt ist, mir etwas Verborgenes über die zu<lb break="no"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">133</fw><p>b) Ein anderer Hinweis auf die unbewußte und verschobene 
+                     Kenntnis der Motivierung bei Zufalls- und Fehlleistungen findet sich 
+                     in den Phänomenen des Aberglaubens. Ich will meine Meinung durch 
+                     die Diskussion des kleinen Erlebnisses klar legen, welches für mich 
+                     der Ausgangspunkt dieser Überlegungen war.</p> 
+                  <p>Von den Ferien zurückgekehrt, richten sich meine Gedanken 
+                     alsbald auf die Kranken, die mich in dem neu beginnenden Arbeitsjahre
+                     beschäftigen sollen. Mein erster Weg gilt einer sehr alten Dame, 
+                     bei der ich (siehe oben) seit Jahren die nämlichen ärztlichen Manipulationen
+                     zweimal täglich vornehme. Wegen dieser Gleichförmigkeit haben sich unbewußte
+                     Gedanken sehr häufig auf dem Wege zu 
+                     der Kranken und während der Beschäftigung mit ihr Ausdruck verschafft. Sie ist
+                     über 90 Jahre alt; es liegt also nahe, sich bei Beginn eines 
+                     jeden Jahres zu fragen, wie lange sie wohl noch zu leben hat. An dem 
+                     Tage, von dem ich erzähle, habe ich Eile, nehme also einen Wagen, 
+                     der mich vor ihr Haus führen soll. Jeder der Kutscher auf dem Wagenstandplatz
+                     vor meinem Hause kennt die Adresse der alten Frau, denn 
+                     jeder hat mich schon oftmals dahin geführt. Heute ereignet es sich 
+                     mm, daß der Kutscher nicht vor ihrem Hause, sondern vor dem gleichbezifferten
+                     in einer nahegelegenen und wirklich ähnlich aussehenden 
+                     Parallelstraße Halt macht. Ich merke den Irrtum und werfe ihn dem 
+                     Kutscher vor, der sich entschuldigt. Hat das nun etwas zu bedeuten, 
+                     daß ich vor ein Haus geführt werde, in dem ich die alte Dame nicht 
+                     vorfinde? Für mich gewiß nicht, aber
+                     wenn ich <hi rendition="#smallcaps">abergläubisch</hi> 
+                     wäre, würde ich in dieser Begebenheit ein Vorzeichen erblicken, einen 
+                     Fingerzeig des Schicksals, daß dies Jahr das letzte für die alte Frau 
+                     sein wird. Recht viele Vorzeichen, welche die Geschichte aufbewahrt 
+                     hat, sind in keiner besseren Symbolik begründet
+                     gewesen. <hi rendition="#smallcaps">Ich</hi> erkläre
+                     allerdings den Vorfall für eine Zufälligkeit ohne weiteren Sinn.</p> 
+                  <p>Ganz anders läge der Fall, wenn ich den Weg zu Fuß gemacht 
+                     und dann in „Gedanken“, in der „Zerstreutheit“ vor das Haus der 
+                     Parallelstraße anstatt vors richtige gekommen wäre. Das würde 
+                     ich für keinen Zufall erklären, sondern für eine der Deutung bedürftige 
+                     Handlung mit unbewußter Absicht. Diesem „<hi rendition="#smallcaps">Vergehen</hi>“
+                     müßte ich wahrscheinlich die Deutung geben, daß ich die alte Dame bald 
+                     nicht mehr anzutreffen erwarte.</p> 
+                  <p>Ich unterscheide mich also von einem Abergläubischen in 
+                     folgendem:</p> 
+                  <p>Ich glaube nicht, daß ein Ereignis, an dessen Zustandekommen 
+                     mein Seelenleben unbeteiligt ist, mir etwas Verborgenes über die zu<lb break="no"/>
+                     
 
 
             <pb n="12" xml:id="page__d7b5fe6f-7e8b-492d-b3f5-bc0ab997d583"/>
-            <p>134 Determiuismus. —Zufalls- und Aber-glauben. — Gesichtspunkte.<lb break="paragraph"
-               /></p>
-            <p>künftige Gestaltung der Realität lehren kann; ich glaube aber, daß<lb/> eine
-               unbeabsichtigte Äußerung meiner eigenen Seelentätigkeit mir<lb/> allerdings etwas
-               Verborgenes enthüllt, was Wiederum nur meinem<lb/> Seelenleben angehört; ich glaube
-               zwar an äußeren (realen) Zufall,<lb/> aber nicht an innere (psychische) Zufälligkeit.
-               Der Abergläubische<lb/> umgekehrt: er weiß nichts von der Motivierung seiner
-               zufälligen Hand<lb break="no"/>lungen und Fehlleistungen, er glaubt, daß es
-               psychische Zufälligkeiten<lb/> gibt; dafür ist er geneigt, dem äußeren Zufall eine
-               Bedeutung zuzu<lb break="no"/>schreiben, die sich im realen Geschehen äußern wird, im
-               Zufall ein<lb/> Ausdrucksmittel für etwas draußen ihm Verborgenes zu sehen. Die<lb/>
-               Unterschiede zwischen mir und dem Abergläubischen sind zwei:<lb/> erstens projiziert
-               er eine Motivierung nach außen, die ich innen suche;<lb/> zweitens deutet er den
-               Zufall durch ein Geschehen, den ich auf einen<lb/> Gedanken zurückführe. Aber das
-               Verborgene bei ihm entspricht<lb/> dem Unbewußten bei mir, und der Zwang, den Zufall
-               nicht als Zufall<lb/> gelten zu lassen, sondern ihn zu deuten, ist uns beiden
-                  gemeinsam.<lb break="paragraph"/></p>
-            <p>Ich nehme nun an, daß diese bewußte Unkenntnis und unbewußte<lb/> Kenntnis von der
-               Motivierung der psychischen Zufälligkeiten eine<lb/> der psyi:hischen Wurzeln des
-               Aberglaubens ist. W e il der Aber<lb break="no"/>gläubische von der Motivierung der
-               eigenen zufälligen Handlungen<lb/> nichts weiß, und weil die Tatsache dieser
-               Motivierung nach einem<lb/> Platz in seiner Anerkennung drängt, ist er genötigt, sie
-               durch Ver<lb break="no"/>schiebung in der Außenwelt unterzubringen. Besteht ein
-               solcher Zu<lb break="no"/>sammenhang, so wird er kaum auf diesen einzelnen Fall
-               beschränkt<lb/> sein. Ich glaube in der Tat, daß ein großes Stück der
-               mythologischen<lb/> Weltauffassung, die weit bis in die modernsten Religionen hinein
-               reicht,<lb/> nichts anderes ist als in dieAußenwelt projizierte<lb/> P s y c h 010 g
-               i e. Die dunkle Erkenntnis (sozusagen: endopsychische<lb/> Wahrnehmung) psychischer
-               Faktoren und Verhältnisse 1) des Unbe<lb break="no"/>Wußten spiegelt sich — es ist
-               schwer, es anders zu sagen, die Analogie<lb/> mit der Paranoia muß hier zur Hilfe
-               genommen werden — in der Kon<lb break="no"/>struktion einer übersinnlichen Realität,
-               welche von der<lb/> Wissenschaft in Psychologie des Unbewußten zurück<lb break="no"
-               />verwandelt werden soll. Man könnte sich genauen, die Mythen vom<lb/> Paradies und
-               Sündenfall, von Gott, vom Guten und Bösen, von der<lb/> Unsterblichkeit u. dgl. in
-               solcher Weise aufzulösen, die M e t a <lb break="no"/>physik in Metapsychologie
-               umzusetzen. Die Kluft<lb/> zwischen der Verschiebung des Paranoikers und der des
-                  Abergläubischen<lb break="paragraph"/></p>
-            <p>1) Die natürlich nichts vom Charakter einer Erkenntnis hat.<lb break="paragraph"
-               /></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">134</fw>künftige Gestaltung der Realität lehren kann; ich
+                     glaube aber, daß eine unbeabsichtigte Äußerung meiner eigenen Seelentätigkeit mir 
+                     allerdings etwas Verborgenes enthüllt, was wiederum nur meinem 
+                     Seelenleben angehört; ich glaube zwar an äußeren (realen) Zufall, 
+                     aber nicht an innere (psychische) Zufälligkeit. Der Abergläubische 
+                     umgekehrt: er weiß nichts von der Motivierung seiner zufälligen Handlungen
+                     und Fehlleistungen, er glaubt, daß es psychische Zufälligkeiten 
+                     gibt; dafür ist er geneigt, dem äußeren Zufall eine Bedeutung zuzuschreiben,
+                     die sich im realen Geschehen äußern wird, im Zufall ein 
+                     Ausdrucksmittel für etwas draußen ihm Verborgenes zu sehen. Die 
+                     Unterschiede zwischen mir und dem Abergläubischen sind zwei: 
+                     erstens projiziert er eine Motivierung nach außen, die ich innen suche; 
+                     zweitens deutet er den Zufall durch ein Geschehen, den ich auf einen 
+                     Gedanken zurückführe. Aber das Verborgene bei ihm entspricht 
+                     dem Unbewußten bei mir, und der Zwang, den Zufall nicht als Zufall 
+                     gelten zu lassen, sondern ihn zu deuten, ist uns beiden gemeinsam.</p> 
+                  <p>Ich nehme nun an, daß diese bewußte Unkenntnis und unbewußte 
+                     Kenntnis von der Motivierung der psychischen Zufälligkeiten eine 
+                     der psychischen Wurzeln des Aberglaubens ist. <hi rendition="#smallcaps">Weil</hi>
+                     der Abergläubische von der Motivierung der eigenen zufälligen Handlungen 
+                     nichts weiß, und weil die Tatsache dieser Motivierung nach einem 
+                     Platz in seiner Anerkennung drängt, ist er genötigt, sie durch Verschiebung
+                     in der Außenwelt unterzubringen. Besteht ein solcher Zusammenhang, so wird er
+                     kaum auf diesen einzelnen Fall beschränkt 
+                     sein. Ich glaube in der Tat, daß ein großes Stück der mythologischen 
+                     Weltauffassung, die weit bis in die modernsten Religionen hinein reicht, 
+                     <hi rendition="#smallcaps">nichts anderes ist als in die Außenwelt projizierte 
+                        Psychologie</hi>. Die dunkle Erkenntnis (sozusagen: endopsychische 
+                     Wahrnehmung) psychischer Faktoren und
+                     Verhältnisse<hi rendition="#footnote-index">1)</hi> des Unbewußten spiegelt
+                     sich — es ist schwer, es anders zu sagen, die Analogie 
+                     mit der Paranoia muß hier zur Hilfe genommen werden — in der Konstruktion einer
+                     <hi rendition="#smallcaps">übersinnlichen Realität</hi>, welche von der 
+                     Wissenschaft in <hi rendition="#smallcaps">Psychologie des Unbewußten</hi>
+                     zurückverwandelt werden soll. Man könnte sich getrauen, die Mythen vom 
+                     Paradies und Sündenfall, von Gott, vom Guten und Bösen, von der 
+                     Unsterblichkeit u. dgl. in solcher Weise aufzulösen, die
+                     <hi rendition="#smallcaps">Metaphysik</hi> in
+                     <hi rendition="#smallcaps">Metapsychologie</hi> umzusetzen. Die Kluft 
+                     zwischen der Verschiebung des Paranoikers und der
+                     des Abergläubischen<lb break="paragraph"/>
 
 
             <pb n="13" xml:id="page__32cff48e-260f-4d93-b5a3-96fe6187e8ad"/>
-            <p>Determinismns. —analls- nnd Aberglanben. —— Gesichtspunkte. 135<lb break="paragraph"
-               /></p>
-            <p>ist minder groß, als sie auf den ersten Blick erscheint. Als die Menschen<lb/> zu
-               denken begannen, waren sie bekanntlich genötigt, die Außenwelt<lb/> anthropomorphisch
-               in eine Vielheit von Persönlichkeiten nach ihrem<lb/> Gleichnis aufzulösen; die
-               Zufälligkeiten, die sie abergläubiscl'i denteten,<lb/> waren also Handlungen,
-               Äußerungen von Personen, und sie haben sich<lb/> demnach genau so benommen wie die
-               Paranoiker, welche aus den un<lb break="no"/>scheinbaren Anzeichen, die ihnen die
-               anderen geben, Schlüsse ziehen,<lb/> und wie die Gesunden alle, welche mit Recht die
-               zufälligen und unbe<lb break="no"/>absichtigten Handlungen ihrer Nebenmenschen zur
-               Grundlage der<lb/> Schätzung ihres Charakters machen. Der Aberglaube erscheint
-               nur<lb/> so sehr deplaziert in unserer modernen, naturwissenschaftlichen, aber<lb/>
-               noch keineswegs abgerundeten Weltanschauung; in der Weltanschauung<lb/>
-               vorwissenschaitlicher Zeiten und Völker war er berechtigt und<lb/> konsequent.<lb
-                  break="paragraph"/></p>
-            <p>Der Römer, der eine wichtige Unternehmung aufgab, wenn ihm<lb/> ein widriger Vogelﬂug
-               begegnete, war also relativ im Recht; er handelte<lb/> konsequent nach seinen
-               Voraussetzungen. Wenn er aber von der Unter<lb break="no"/>nehmung abstand, weil er
-               an der Schwelle seiner Tür gestolpert war<lb/> („Un Romain retoumerai “), so war er
-               uns Ungläubigen auch absolut<lb/> überlegen, ein besserer Seelenkundiger, als wir uns
-               zu sein bemühen.<lb/> Denn dies Stolpern konnte ihm die Existenz eins Zweifels, einer
-                  Gegen<lb break="no"/>strömung in seinem Innern beweisen, deren Kraft sich im
-               Momente der<lb/> Ausführung von der Kraft seiner Intention abziehen konnte. Das<lb/>
-               vollen Erfolges ist man nämlich nur dann sicher, wenn alle Seelen<lb break="no"
-               />kräite einig dem gewünschten Ziel entgegenstreben. Wie antwortet<lb/> S c hi] le r
-               s T e 1 1 , der so lange gezaudert, den Apfel vom Haupt<lb/> seines Knaben zu
-               schießen, auf die Frage des Vogts, wozu er den zweiten<lb/> Pfeil eingesteckt?<lb
-                  break="paragraph"/></p>
-            <p>„Mit diesem zweiten Pfeil durchbohrt’ ich — Euch,<lb/> Wenn ich mein liebes Kind
-               getroffen hätte,<lb/> Und Eu er — wahrlich — hätt' ich nich t gefehlt.“<lb
-                  break="paragraph"/></p>
-            <p>IV. Wer die Gelegenheit gehabt hat, die verborgenen Seelenregungen<lb/> der Menschen
-               mit dem Mittel der Psychoanalyse zu studieren, der<lb/> kann auch über die Qualität
-               der unbewußten Motive, die sich im Aber<lb break="no"/>glauben ausdrücken, einiges
-               Neue sagen. Am deutlichsten erkennt<lb/> man bei den oft sehr intelligenten, mit
-               Zwangsdenken und Zwangs<lb break="no"/>zuständen behafteten Nervösen, daß der
-               Aberglaube aus unterdrückten<lb/> feindseh'gen und grausamen Regungen hervorgeht.
-               Aberglaube ist<lb/> zum. großen Teile Unheilserwartnng, und wer anderen häuﬁg
-                  Böses<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">135</fw>ist minder groß, als sie auf den ersten Blick erscheint.
+                     Als die Menschen zu denken begannen, waren sie bekanntlich genötigt, die Außenwelt 
+                     anthropomorphisch in eine Vielheit von Persönlichkeiten nach ihrem 
+                     Gleichnis aufzulösen; die Zufälligkeiten, die sie abergläubisch deuteten, 
+                     waren also Handlungen, Äußerungen von Personen, und sie haben sich 
+                     demnach genau so benommen wie die Paranoiker, welche aus den unscheinbaren
+                     Anzeichen, die ihnen die anderen geben, Schlüsse ziehen, 
+                     und wie die Gesunden alle, welche mit Recht die zufälligen und unbeabsichtigten
+                     Handlungen ihrer Nebenmenschen zur Grundlage der 
+                     Schätzung ihres Charakters machen. Der Aberglaube erscheint nur 
+                     so sehr deplaziert in unserer modernen, naturwissenschaftlichen, aber 
+                     noch keineswegs abgerundeten Weltanschauung; in der Weltanschauung 
+                     vorwissenschaftlicher Zeiten und Völker war er berechtigt und 
+                     konsequent.</p> 
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Die natürlich nichts
+                     vom Charakter einer Erkenntnis hat.</note>
+                  
+                  <p>Der Römer, der eine wichtige Unternehmung aufgab, wenn ihm 
+                     ein widriger Vogelflug begegnete, war also relativ im Recht; er handelte 
+                     konsequent nach seinen Voraussetzungen. Wenn er aber von der Unternehmung
+                     abstand, weil er an der Schwelle seiner Tür gestolpert war 
+                     („Un Romain retournerait“), so war er uns Ungläubigen auch absolut 
+                     überlegen, ein besserer Seelenkundiger, als wir uns zu sein bemühen. 
+                     Denn dies Stolpern konnte ihm die Existenz eines Zweifels, einer Gegenströmung
+                     in seinem Innern beweisen, deren Kraft sich im Momente der 
+                     Ausführung von der Kraft seiner Intention abziehen konnte. Des 
+                     vollen Erfolges ist man nämlich nur dann sicher, wenn alle Seelenkräfte
+                     einig dem gewünschten Ziel entgegenstreben. Wie antwortet 
+                     <hi rendition="#smallcaps">Schillers Tell</hi>, der so lange gezaudert, den
+                     Apfel vom Haupt 
+                     seines Knaben zu schießen, auf die Frage des Vogts, wozu er den zweiten 
+                     Pfeil eingesteckt?</p> 
+                  
+                  <p>„<quote type="inlinequote">Mit diesem zweiten Pfeil durchbohrt' ich — Euch,<lb/> 
+                     Wenn ich mein liebes Kind getroffen hätte,<lb/> 
+                     Und <hi rendition="#smallcaps">Euer</hi> — wahrlich — hätt'
+                     ich <hi rendition="#smallcaps">nicht</hi> gefehlt.</quote>“</p> 
+                  
+                  <p>IV. Wer die Gelegenheit gehabt hat, die verborgenen Seelenregungen 
+                     der Menschen mit dem Mittel der Psychoanalyse zu studieren, der 
+                     kann auch über die Qualität der unbewußten Motive, die sich im Aberglauben
+                     ausdrücken, einiges Neue sagen. Am deutlichsten erkennt 
+                     man bei den oft sehr intelligenten, mit Zwangsdenken und Zwangszuständen
+                     behafteten Nervösen, daß der Aberglaube aus unterdrückten 
+                     feindseligen und grausamen Regungen hervorgeht. Aberglaube ist 
+                     zum großen Teile Unheilserwartung, und wer anderen häufig Böses<lb break="paragraph"/>
 
 
             <pb n="14" xml:id="page__4f546b69-e219-4618-9e39-7e590e3d9b5f"/>
-            <p>136 Detekminismns. — Zufall»- und Aberglnnben. — Gesichtlpunkte.<lb break="paragraph"
-               /></p>
-            <p>gewünscht, aber infolge der Erziehung zur Güte solche Wünsche ins<lb/> Unbewußte
-               verdrängt hat, dem wird es besonders nahe liegen, die<lb/> Strafe für solches
-               unbewußte Böse als ein ihm druhendes Unheil von<lb/> außen zu erwarten.<lb
-                  break="paragraph"/></p>
-            <p>Wenn wir zugeben, daß wir die Psychologie des Aberglaubens<lb/> mit diesen
-               Bemerkungen keineswegs erschöpft haben, so werden wir<lb/> auf der anderen Seite die
-               Frage wenigstens streifen müssen, ob denn<lb/> reale Wurzeln des Aberglaubens
-               durchaus zu bestreiten seien, ob es<lb/> gewiß keine Ahnungen, prophetische Träume,
-               telepathische Erfahrungen,<lb/> Äußerungen übersinnlicher Kräfte u. dgl. gebe. Ich
-               bin nun weit<lb/> davon entfernt, diese Phänomene überall so kurzer Hand
-               aburteilen<lb/> zu wollen, über welche so viele eingehende Beobachtungen selbst<lb/>
-               intellektuell hervorragender Männer vorliegen, und die am besten die<lb/> Objekte
-               weiterer Untersuchungen bilden sollen. Es ist dann sogar zu<lb/> hoffen, daß ein.
-               Teil dieser Beobachtungen durch unsere beginnende<lb/> Erkenntnis der unbewußten
-               seelischen Vorgänge zur Aufklärung ge<lb break="no"/>langen wird, ohne uns zu
-               grundstürzenden Abänderungen unserer<lb/> heutigen Anschauungen zu nötigen. Wenn noch
-               andere, wie z. B. die<lb/> von den Spiritisten behaupteten Phänomene, erweisbar
-               werden sollten,<lb/> so werden wir eben die von der neuen Erfahrung geforderten
-                  Modi<lb break="no"/>fikationen unserer „Gesetze“ vornehmen, ohne an dem
-               Zusammenhang<lb/> der Dinge in der Welt irre zu werden.<lb break="paragraph"/></p>
-            <p>Im Rahmen dieser Adseinandersetzungen kann ich die nun auf<lb break="no"/>geworfenen
-               Fragen nicht anders als subjektiv, d. i. nach meiner persön<lb break="no"/>lichen
-               Erfahrung beantworten. Ich muß leider bekennen, daß ich<lb/> zu jenen unwürdigen
-               Individuen gehöre, vor denen die Geister ihre<lb/> Tätigkeit einstellen und das
-               Übersinnliche entweicht, so daß ich<lb/> niemals in die Lage gekommen bin, selbst
-               etwas zum Wunderglauben<lb/> anregendes zu erleben. Ich habe wie alle Menschen
-               Ahnungen gehabt<lb/> und Unheil erfahren, aber die beiden wichen einander aus, so
-               daß<lb/> auf die Ahnungen nichts folgte, und das Unheil unangekündigt über<lb/> mich
-               kam. Zur Zeit, als ich, ein junger Mann, allein in einer fremden<lb/> Stadt lebte,
-               habe ich oft genug meinen Namen plötzlich von einer<lb/> nnverkennbaren, teuem Stimme
-               rufen hören, und mir dann den Zeit—<lb/> momeut der Halluzination notiert, um mich
-               besorgt bei den Daheim—<lb/> gebliebenen zu erkundigen, was um jene Zeit vorgefallen.
-               Es war<lb/> nichts. Zum Ersatz dafür habe ich später ungerührt und ahnungslos<lb/>
-               mit meinen Kranken gearbeitet, während mein Kind einer Ver<lb break="no"/>blutung zu
-               erliegen drohte. Es hat auch keine der Ahnungen, von<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">136</fw>gewünscht, aber infolge der Erziehung zur Güte solche
+                     Wünsche ins Unbewußte verdrängt hat, dem wird es besonders nahe liegen, die 
+                     Strafe für solches unbewußte Böse als ein ihm drohendes Unheil von 
+                     außen zu erwarten.</p> 
+                  <p>Wenn wir zugeben, daß wir die Psychologie des Aberglaubens 
+                     mit diesen Bemerkungen keineswegs erschöpft haben, so werden wir 
+                     auf der anderen Seite die Frage wenigstens streifen müssen, ob denn 
+                     reale Wurzeln des Aberglaubens durchaus zu bestreiten seien, ob es 
+                     gewiß keine Ahnungen, prophetische Träume, telepathische Erfahrungen, 
+                     Äußerungen übersinnlicher Kräfte u. dgl. gebe. Ich bin nun weit 
+                     davon entfernt, diese Phänomene überall so kurzer Hand aburteilen 
+                     zu wollen, über welche so viele eingehende Beobachtungen selbst 
+                     intellektuell hervorragender Männer vorliegen, und die am besten die 
+                     Objekte weiterer Untersuchungen bilden sollen. Es ist dann sogar zu 
+                     hoffen, daß ein Teü dieser Beobachtungen durch unsere beginnende 
+                     Erkenntnis der unbewußten seelischen Vorgänge zur Aufklärung gelangen
+                     wird, ohne uns zu grundstürzenden Abänderungen unserer 
+                     heutigen Anschauungen zu nötigen. Wenn noch andere, wie z. B. die 
+                     von den Spiritisten behaupteten Phänomene, erweisbar werden sollten, 
+                     so werden wir eben die von der neuen Erfahrung geforderten Modifikationen
+                     unserer „Gesetze“ vornehmen, ohne an dem Zusammenhang 
+                     der Dinge in der Welt irre zu werden.</p> 
+                  <p>Im Rahmen dieser Auseinandersetzungen kann ich die nun aufgeworfenen
+                     Fragen nicht anders als subjektiv, d. i. nach meiner persönlichen
+                     Erfahrung beantworten. Ich muß leider bekennen, daß ich 
+                     zu jenen unwürdigen Individuen gehöre, vor denen die Geister ihre 
+                     Tätigkeit einstellen und das Übersinnliche entweicht, so daß ich 
+                     niemals in die Lage gekommen bin, selbst etwas zum Wunderglauben 
+                     anregendes zu erleben. Ich habe wie alle Menschen Ahnungen gehabt 
+                     und Unheil erfahren, aber die beiden wichen einander aus, so daß 
+                     auf die Ahnungen nichts folgte, und das Unheil unangekündigt über 
+                     mich kam. Zur Zeit, als ich, ein junger Mann, allein in einer fremden 
+                     Stadt lebte, habe ich oft genug meinen Namen plötzlich von einer 
+                     unverkennbaren, teuern Stimme rufen hören, und mir dann den Zeitmoment der
+                     Halluzination notiert, um mich besorgt bei den Daheimgebliebenen
+                     zu erkundigen, was um jene Zeit vorgefallen. Es war 
+                     nichts. Zum Ersatz dafür habe ich später ungerührt und ahnungslos 
+                     mit meinen Kranken gearbeitet, während mein Kind einer Verblutung zu
+                     erliegen drohte. Es hat auch keine der Ahnungen, von<lb break="paragraph"/>
 
 
             <pb n="15" xml:id="page__35520828-05f9-4d1b-aeb1-5abe36df0764"/>
-            <p>Determim'smus. — Zu£alls- und Aberglanben. — Gesichtspunkte. 137<lb break="paragraph"
-               /></p>
-            <p>denen mir Patienten berichtet haben, meine Anerkennung als reales<lb/> Phänomen
-               erwerben können.<lb break="paragraph"/></p>
-            <p>Der Glaube an prophetische Träume zählt viele Anhänger, weil<lb/> er sich darauf
-               stützen kann, daß manches sich wirklich in der Zukunft<lb/> so gestaltet, wie es der
-               Wunsch im Traume vorher konstruiert hat.<lb/> Allein daran ist wenig zu verwundern,
-               und zwischen dem Traum und<lb/> der Erfüllung lassen sich in der Regel noch
-               weitgehende Abweichungen<lb/> nachweisen, welche die Gläubigkeit der Träumer zu
-               vernachlässigen<lb/> liebt. Ein schönes Beispiel eines mit Recht prophetisch zu
-               nennenden<lb/> Traun-res bot mir einmal eine intelligente und wahrheitsliebende
-               Patientin<lb/> zur genauen Analyse. Sie erzählte, daß sie einmal geträumt, sie
-               treffe<lb/> ihren früheren Freund und Hausarzt vor einem bestimmten Laden<lb/> einer
-               gewissen Straße, und als sie am nächsten Morgen in die innere<lb/> Stadt ging, traf
-               sie ihn wirklich an der im Traum genannten Stelle.<lb/> Ich bemerke, daß dieses
-               wunderbare Zusammentreffen seine Bedeutung<lb/> durch kein nachfolgendes Ereignis
-               erwies, also nicht aus dem Zu<lb break="no"/>künftigen zu rechtfertigen war.<lb
-                  break="paragraph"/></p>
-            <p>Das sorgfältige Examen stellte fest, daß kein Beweis dafür vor<lb break="no"/>liege,
-               die Dame habe den Traum bereits am Morgen nach der Traum—<lb/> nacht, also vor dem
-               Spaziergang und der Begegnung erinnert. Sie<lb/> konnte nichts gegen eine Darstellung
-               des Sachverhaltes einwenden,<lb/> die der Begebenheit alles Wunderbare nimmt und nur
-               ein interessantes<lb/> psychologisches Problem übrig läßt. Sie ist einen Vormittags
-               durch<lb/> die gewisse Straße gegangen, hat vor dem einen Laden ihrem alten<lb/>
-               Hausarzt begegnet und nun bei seinem Anblick die Überzeugung<lb/> bekommen, daß sie
-               die letzte Nacht von diesem Zusammentreffen an<lb/> der nämlichen Stelle geträumt
-               habe. Die Analyse konnte dann mit<lb/> großer Wahrscheinlichkeit andeuten, wie sie zu
-               dieser Überzeugung<lb/> gekommen war, welcher man ja nach allgemeinen Regeln ein
-               gewisses<lb/> Anrecht auf Glaubwürdigkeit nicht versagen darf. Ein Zusammen<lb
-                  break="no"/>treffen am bestimmten Orte nach vorheriger Erwartung, das ist ja<lb/>
-               der Tatbesth eines Rendezvous. Der alte Hausarzt rief die Er<lb break="no"/>innerung
-               an alte Zeiten in ihr wach, in denen Zusammenkünfte mit<lb/> einer dritten, auch dem
-               Arzt befreundeten Person für sie bedeutungs<lb break="no"/>voll gewesen waren. Mit
-               diesem Herrn war sie seitdem in Verkehr<lb/> geblieben und hatte am Tage vor dem
-               angeblichen Traum vergeblich<lb/> auf ihn gewartet. Könnte ich die hier vorliegenden
-               Beziehungen aus<lb break="no"/>führlicher mitteilen, so wäre es mir leicht zu zeigen,
-               daß die Illusion<lb/> des prophetischen Traumes beim Anblick des Freundes aus
-               früherer<lb/> Zeit äquivalent ist etwa folgender Rede: „Ach, Herr Doktor, Sie er<lb
-                  break="no"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">137</fw>denen mir Patienten berichtet haben, meine
+                     Anerkennung als reales Phänomen erwerben können.</p> 
+                  <p>Der Glaube an prophetische Träume zählt viele Anhänger, weil 
+                     er sich darauf stützen kann, daß manches sich wirklich in der Zukunft 
+                     so gestaltet, wie es der Wunsch im Traume vorher konstruiert hat. 
+                     Allein daran ist wenig zu verwundern, und zwischen dem Traum und 
+                     der Erfüllung lassen sich in der Regel noch weitgehende Abweichungen 
+                     nachweisen, welche die Gläubigkeit der Träumer zu vernachlässigen 
+                     liebt. Ein schönes Beispiel eines mit Recht prophetisch zu nennenden 
+                     Traumes bot mir einmal eine intelligente und wahrheitsliebende Patientin 
+                     zur genauen Analyse. Sie erzählte, daß sie einmal geträumt, sie treffe 
+                     ihren früheren Freund und Hausarzt vor einem bestimmten Laden 
+                     einer gewissen Straße, und als sie am nächsten Morgen in die innere 
+                     Stadt ging, traf sie ihn wirklich an der im Traum genannten Stelle. 
+                     Ich bemerke, daß dieses wunderbare Zusammentreffen seine Bedeutung 
+                     durch kein nachfolgendes Ereignis erwies, also nicht aus dem Zukünftigen
+                     zu rechtfertigen war.</p> 
+                  <p>Das sorgfältige Examen stellte fest, daß kein Beweis dafür vorliege, die
+                     Dame habe den Traum bereits am Morgen nach der Traumnacht, also vor dem
+                     Spaziergang und der Begegnung erinnert. Sie 
+                     konnte nichts gegen eine Darstellung des Sachverhaltes einwenden, 
+                     die der Begebenheit alles Wunderbare nimmt und nur ein interessantes 
+                     psychologisches Problem übrig läßt. Sie ist eines Vormittags durch 
+                     die gewisse Straße gegangen, hat vor dem einen Laden ihrem alten 
+                     Hausarzt begegnet und nun bei seinem Anblick die Überzeugung 
+                     bekommen, daß sie die letzte Nacht von diesem Zusammentreffen an 
+                     der nämlichen Stelle geträumt habe. Die Analyse konnte dann mit 
+                     großer Wahrscheinlichkeit andeuten, wie sie zu dieser Überzeugung 
+                     gekommen war, welcher man ja nach allgemeinen Regeln ein gewisses 
+                     Anrecht auf Glaubwürdigkeit nicht versagen darf. Ein Zusammentreffen am
+                     bestimmten Orte nach vorheriger Erwartung, das ist ja 
+                     der Tatbestand eines Rendezvous. Der alte Hausarzt rief die Erinnerung
+                     an alte Zeiten in ihr wach, in denen Zusammenkünfte mit 
+                     einer <hi rendition="#smallcaps">dritten</hi>, auch dem Arzt befreundeten
+                     Person für sie bedeutungsvoll gewesen waren. Mit diesem Herrn war sie seitdem in
+                     Verkehr geblieben und hatte am Tage vor dem angeblichen Traum vergeblich 
+                     auf ihn gewartet. Könnte ich die hier vorliegenden Beziehungen ausführlicher
+                     mitteilen, so wäre es mir leicht zu zeigen, daß die Illusion 
+                     des prophetischen Traumes beim Anblick des Freundes aus früherer 
+                     Zeit äquivalent ist etwa folgender Rede: „Ach, Herr Doktor, Sie er<lb break="no"/>
 
 
             <pb n="16" xml:id="page__8da24a2d-2a44-4dc2-b679-5ad6eb9668fc"/>
-            <p>138 Detenninismus. _ Zufall» und Aberglaubeu. — Gesichtspunkte.<lb break="paragraph"
-               /></p>
-            <p>innern mich jetzt an vergangene Zeiten, in denen ich niemals vergeblich<lb/> auf N.
-               zu warten brauchte, wenn wir eine Zusammenkunft bestellt<lb/> ' hatten.“<lb
-                  break="paragraph"/></p>
-            <p>Von jenem bekannten „merkwürdigen Zusammentreffen“, daß<lb/> man einer Person
-               begegnet, mit welcher man sich gerade in Gedanken<lb/> beschäftigt hat, habe ich bei
-               mir selbst ein einfaches und leicht zu<lb/> deutendes Beispiel beobachtet, welches
-               wahrscheinlich ein gutes Vor—<lb/> bild für ähnliche Vorfälle ist. Wenige Tage,
-               nachdem mir der Titel<lb/> eines Professors verliehen werden war, der in monarchisch
-               eingerichteten<lb/> Staaten selbst viel Autorität verleiht, lenkten während eines
-               Spazier—<lb/> gangß durch die Innere Stadt meine Gedanken plötzlich in eine
-               kindische<lb/> Rachephantasie ein, die sich gegen ein gewisses Elternpaar
-               richtete.<lb/> Diese hatten mich einige Monate vorher zu ihrem Töchterchen
-               gerufen,<lb/> bei dem sich eine interessante Zwangserscheinung im Anschluß an<lb/>
-               einen Traum eingestellt hatte. Ich brachte dem Falle, dessen Genese<lb/> ich zu
-               durchschauen glaubte, ein großes Interesse entgegen; meine<lb/> Behandlung wurde aber
-               von den Eltern abgelehnt und mir zu verstehen<lb/> gegeben, daß man sich an eine
-               ausländische Autorität, {die mittels<lb/> Hypnotismus heile, zu wenden gedenke. Ich
-               phantasierte nun, daß<lb/> die Eltern nach dem völligen Mißglücken dieses Versuches
-               mich hätten,<lb/> mit meiner Behandlung einzusetzen, sie hätten jetzt volles
-               Vertrauen<lb/> zu mir usw. Ich aber antwortete: Ja, jetzt, nachdem ich auch
-               Professor<lb/> geworden bin, haben Sie Vertrauen. Der Titel hat an meinen Fähig<lb
-                  break="no"/>keiten weiter nichts geändert; wenn Sie mich als Dozenten nicht<lb/>
-               brauchen konnten, können Sie mich auch als Professor entbehren. —<lb/> An dieser
-               Stelle wurde meine Phantasie durch den lauten Gruß „Habe<lb/> die Ehre, Herr
-               Professor" unterbrochen, und als ich aufschaute, ging<lb/> das nämliche Elternpaar an
-               mir vorüber, an dem ich soeben durch<lb/> die Abweisung ihres Anerbietens Rache
-               genommen hatte. Die nächste<lb/> Überlegung zerstörte den Anschein des Wunderbaren.
-               Ich ging auf<lb/> einer geraden und breiten, fast menschenlecren Straße jenem
-               Paar<lb/> entgegen, hatte bei einem ﬂüchtigen Aufschauen, vielleicht zwanzig<lb/>
-               Schritte von ihnen entfernt, ihre stattlichen Persönlichkeiten erblickt<lb/> und
-               erkannt, diese Wahrnehmung aber — nach dem Muster einer<lb/> negativen Halluzination
-               — aus jenen Gefühlsmotiven beseitigt, die<lb/> sich dann in der anscheinend spontan
-               auftauchenden Phantasie zur<lb/> Geltung brachten.<lb break="paragraph"/></p>
-            <p>In die Kategorie des Wunderbaren und Unheimlichen gehört noch<lb/> jene
-               eigentürnliche Empfindung, die man in manchen Momenten und<lb/> Situationen verspürt,
-               als ob man genau das nämliche schon eiru'nal<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">138</fw>innern mich jetzt an vergangene Zeiten, in denen ich
+                     niemals vergeblich auf N. zu warten brauchte, wenn wir eine Zusammenkunft bestellt 
+                     hatten.“</p> 
+                  <p>Von jenem bekannten „merkwürdigen Zusammentreffen“, daß 
+                     man einer Person begegnet, mit welcher man sich gerade in Gedanken 
+                     beschäftigt hat, habe ich bei mir selbst ein einfaches und leicht zu 
+                     deutendes Beispiel beobachtet, welches wahrscheinlich ein gutes Vorbild
+                     für ähnliche Vorfälle ist. Wenige Tage, nachdem mir der Titel 
+                     eines Professors verliehen worden war, der in monarchisch eingerichteten 
+                     Staaten selbst viel Autorität verleiht, lenkten während eines Spazierganges
+                     durch die Innere Stadt meine Gedanken plötzlich in eine kindische 
+                     Rachephantasie ein, die sich gegen ein gewisses Elternpaar richtete. 
+                     Diese hatten mich einige Monate vorher zu ihrem Töchterchen gerufen, 
+                     bei dem sich eine interessante Zwangserscheinung im Anschluß an 
+                     einen Traum eingestellt hatte. Ich brachte dem Falle, dessen Genese 
+                     ich zu durchschauen glaubte, ein großes Interesse entgegen; meine 
+                     Behandlung wurde aber von den Eltern abgelehnt und mir zu verstehen 
+                     gegeben, daß man sich an eine ausländische Autorität, die mittels 
+                     Hypnotismus heile, zu wenden gedenke. Ich phantasierte nun, daß 
+                     die Eltern nach dem völligen Mißglücken dieses Versuches mich bäten, 
+                     mit meiner Behandlung einzusetzen, sie hätten jetzt volles Vertrauen 
+                     zu mir usw. Ich aber antwortete: Ja, jetzt, nachdem ich auch Professor 
+                     geworden bin, haben Sie Vertrauen. Der Titel hat an meinen Fähigkeiten weiter
+                     nichts geändert; wenn Sie mich als Dozenten nicht 
+                     brauchen konnten, können Sie mich auch als Professor entbehren. — 
+                     An dieser Stelle wurde meine Phantasie durch den lauten Gruß „Habe 
+                     die Ehre, Herr Professor“ unterbrochen, und als ich aufschaute, ging 
+                     das nämliche Elternpaar an mir vorüber, an dem ich soeben durch 
+                     die Abweisung ihres Anerbietens Rache genommen hatte. Die nächste 
+                     Überlegung zerstörte den Anschein des Wunderbaren. Ich ging auf 
+                     einer geraden und breiten, fast menschenleeren Straße jenem Paar 
+                     entgegen, hatte bei einem flüchtigen Aufschauen, vielleicht zwanzig 
+                     Schritte von ihnen entfernt, ihre stattlichen Persönlichkeiten erblickt 
+                     und erkannt, diese Wahrnehmung aber — nach dem Muster einer 
+                     negativen Halluzination — aus jenen Gefühlsmotiven beseitigt, die 
+                     sich dann in der anscheinend spontan auftauchenden Phantasie zur 
+                     Geltung brachten.</p> 
+                  <p>In die Kategorie des Wunderbaren und Unheimlichen gehört noch 
+                     jene eigentümliche Empfindung, die man in manchen Momenten und 
+                     Situationen verspürt, als ob man genau das nämliche
+                     schon einmal<lb break="paragraph"/>
 
 
             <pb n="17" xml:id="page__534f5031-16d4-4ead-96d2-046a1ffc20bc"/>
-            <p>Determinismns. — Zufalls- und Aberglau'ben. — Gesichtspunkte. 139<lb
-                  break="paragraph"/></p>
-            <p>erlebt hätte, sich in derselben Lage schon einmal befunden hätte, <lb break="no"
-               />ohne daß es je dem Bemühen gelingt, das frühere, das sich so anzeigt,<lb/> deutlich
-               zu erinnern. Ich weiß, daß ich bloß dem lockeren Sprach<lb break="no"/>gebrauch
-               folge, wenn ich das, was sich in solchen Momenten in einem<lb/> regt, eine Empfindung
-               heiße; es handelt sich wohl um ein Urteil, und<lb/> 'zwar ein Erkennungsurteil, aber
-               diese Fälle haben doch einen ganz<lb/> eigentiimlichen Charakter, und daß man sich
-               niemals an das Gesuchte<lb/> erinnert, darf nicht beiseite gelassen werden. Ich weiß
-               nicht, ob dies _<lb/> Phänomen des „Déj ä vu" im Ernst zum Erweis einer
-               friiheren<lb/> psychischen Existenz des Einzelwesens herangezogen worden ist;
-               wohl<lb/> aber haben die Psychologen ihm ihr Interesse,zugewendet und die<lb/> Lösung
-               des Rätsels auf den mannigfaltigsten spekulativen Wegen an<lb break="no"/>gestrebt.
-               Keiner der beigehi'achten Erklämngsversuche scheint mir<lb/> richtig zu sein, weil in
-               keinem etwas anderes als die Begleiterscheinungen<lb/> und begünstigenden Bedingungen
-               des Phänomens in Betracht gezogen<lb/> wird. Jene psychischen Vorgänge, welche nach
-               meinen Beobachtungen<lb/> allein für die Erklärung des „Déjä vu“ verantwortlich sind,
-               die un<lb break="no"/>bewußten Phantasien nämlich, werden ja heute noch von den
-                  Psycho<lb break="no"/>logen allgemein vernachlässigt.<lb break="paragraph"/></p>
-            <p>Ich meine, man tut Unrecht, die Empﬁndung das schon einmal<lb/> Erlebthabens als eine
-               Illusion zu bezeichnen. Es wird vielmehr in<lb/> solchen Momenten wirklich an etwas
-               gerührt, was man bereits einmal<lb/> erlebt hat, nur kann dies letztere nicht bewußt
-               erinnert werden, weil<lb/> es niemals bewußt war. Die Empﬁndung des „Déjä vu“
-               entspricht,<lb/> kurz gesagt, der Erinnerung an eine unbewußte Phantasie. Es
-               gibt<lb/> unbewußte Phantasien (oder Tagträume), wie es bewußte solche<lb/>
-               Schöpfungen gibt, die ein jeder aus seiner eigenen Erfahrung kennt.<lb
-                  break="paragraph"/></p>
-            <p>Ich weiß, daß der Gegenstand der eingehendsten Behandlung<lb/> würdig wäre, will aber
-               hier nur die Analyse eines einzigen Falles von<lb/> „Déjä vu“ anfüh.ren, in dem sich
-               die Empfindung durch besondere<lb/> Intensität und Ausdauer auszeichnete. Eine jetzt
-               37jährige Dame<lb/> behauptet, daß sie sich aufs schärfste erinnere, im Alter von 12%
-               Jahren<lb/> habe sie einen ersten Besuch bei Schulfreundinnen auf dem Lande<lb/>
-               gemacht, und als sie in den Garten eintrat, sofort die Empﬁndung<lb/> gehabt, hier
-               sei sie schon einmal gewesen; diese Empfindung habe<lb/> sich, als sie die Wohnräume
-               betrat, wiederholt, so daß sie vorher zu<lb/> wissen glaubte, welcher Raum der
-               nächste sein würde, welche Aus<lb break="no"/>sicht man von ihm aus haben werde usw.
-               Es ist aber ganz aus<lb break="no"/>geschlossen und durch ihre Erkundigung bei den
-               Eltern widerlegt,<lb/> daß dieses Bekanntheitsgefühl in einem früheren Besuch des
-                  Hauses<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">139</fw>erlebt hätte, sich in derselben Lage schon einmal
+                     befunden hätte, 
+                     ohne daß es je dem Bemühen gelingt, das frühere, das sich so anzeigt, 
+                     deutlich zu erinnern. Ich weiß, daß ich bloß dem lockeren Sprachgebrauch
+                     folge, wenn ich das, was sich in solchen Momenten in einem 
+                     regt, eine Empfindung heiße; es handelt sich wohl um ein Urteil, und 
+                     zwar ein Erkennungsurteil, aber diese Fälle haben doch einen ganz 
+                     eigentümlichen Charakter, und daß man sich niemals an das Gesuchte 
+                     erinnert, darf nicht beiseite gelassen werden. Ich weiß nicht, ob dies 
+                     Phänomen des „<hi rendition="#smallcaps">Déjà vu</hi>“ im Ernst zum Erweis
+                     einer früheren psychischen Existenz des Einzelwesens herangezogen worden ist; wohl 
+                     aber haben die Psychologen ihm ihr Interesse zugewendet und die 
+                     Lösung des Rätsels auf den mannigfaltigsten spekulativen Wegen angestrebt.
+                     Keiner der beigebrachten Erklärungsversuche scheint mir 
+                     richtig zu sein, weil in keinem etwas anderes als die Begleiterscheinungen 
+                     und begünstigenden Bedingungen des Phänomens in Betracht gezogen 
+                     wird. Jene psychischen Vorgänge, welche nach meinen Beobachtungen 
+                     allein für die Erklärung des „Déjà vu“ verantwortlich sind, die unbewußten
+                     Phantasien nämlich, werden ja heute noch von den Psychologen allgemein
+                     vernachlässigt.</p> 
+                  <p>Ich meine, man tut Unrecht, die Empfindung des schon einmal 
+                     Erlebthabens als eine Illusion zu bezeichnen. Es wird vielmehr in 
+                     solchen Momenten wirklich an etwas gerührt, was man bereits einmal 
+                     erlebt hat, nur kann dies letztere nicht bewußt erinnert werden, weil 
+                     es niemals bewußt war. Die Empfindung des „Déjà vu“ entspricht, 
+                     kurz gesagt, der Erinnerung an eine unbewußte Phantasie. Es gibt 
+                     unbewußte Phantasien (oder Tagträume), wie es bewußte solche 
+                     Schöpfungen gibt, die ein jeder aus seiner eigenen Erfahrung kennt.</p> 
+                  <p>Ich weiß, daß der Gegenstand der eingehendsten Behandlung 
+                     würdig wäre, will aber hier nur die Analyse eines einzigen Falles von 
+                     „Déjà vu“ anführen, in dem sich die Empfindung durch besondere 
+                     Intensität und Ausdauer auszeichnete. Eine jetzt 37jährige Dame 
+                     behauptet, daß sie sich aufs schärfste erinnere, im Alter von 12½ Jahren 
+                     habe sie einen ersten Besuch bei Schulfreundinnen auf dem Lande 
+                     gemacht, und als sie in den Garten eintrat, sofort die Empfindung 
+                     gehabt, hier sei sie schon einmal gewesen; diese Empfindung habe 
+                     sich, als sie die Wohnräume betrat, wiederholt, so daß sie vorher zu 
+                     wissen glaubte, welcher Raum der nächste sein würde, welche Aussicht man
+                     von ihm aus haben werde usw. Es ist aber ganz ausgeschlossen und durch
+                     ihre Erkundigung bei den Eltern widerlegt, 
+                     daß dieses Bekanntheitsgefühl in einem früheren
+                     Besuch des Hauses<lb break="paragraph"/>
 
 
             <pb n="18" xml:id="page__1388b72a-12f6-446b-963b-cab0bb715699"/>
-            <p>140 De'erminismux. —— Zufalls- und Aberglauben. —— Gesichtspunkte.<lb
-                  break="paragraph"/></p>
-            <p>und Gartens, etwa in ihrer ersten Kindheit, seine Quelle haben könne.<lb/> Die Dame,
-               die das berichtete, suchte nach keiner psychologischen<lb/> Erklärung, sondern sah in
-               dem Auftreten dieser Empfindung einen<lb/> prophetischen Hinweis auf die Bedeutung,
-               welche eben diese Freun<lb break="no"/>dinnen später für ihr Geiühlsleben gewannen.
-               Die Erwägung der<lb/> Umstände, unter denen das Phänomen bei ihr auftrat, zeigt uns
-               aber<lb/> den Weg zu einer anderen Auffassung. Als sie den Besuch unternahm,<lb/>
-               wußte sie, daß diese Mädchen einen einzigen schwerkranken Bruder<lb/> hatten. Sie
-               bekam ihn bei dem Besuch auch zu Gesichte, fand ihn<lb/> sehr schlecht aussehend und
-               dachte sich, daß er bald sterben werde.<lb/> Nun war ihr eigener einziger Bruder
-               einige Monate vorher an Diphtherie<lb/> gefährlich erkrankt gewesen; während seiner
-               Krankheit hatte sie vom<lb/> Elternhause entfernt wochenlang bei einer Verwandten
-               gewohnt. Sie<lb/> glaubt, daß der Bruder diesen Landbesuch mitmachte, meint
-               sogar,<lb/> es sei sein erster größerer Ausﬂug nach der Krankheit gewesen; doch<lb/>
-               ist ihre Erinnerung in diesen Punkten merkwürdig unbestimmt, während<lb/> alle
-               anderen Details, und besonders das Kleid, das sie an jenem Tage<lb/> trug, ihr
-               überdeutlich vor Augen stehen. Dem Kundigen wird es nicht<lb/> schwer fallen, aus
-               diesen Anzeichen zu schließen, daß die Erwartung,<lb/> ihr Bruder werde sterben, bei
-               dem Mädchen damals eine große Rolle<lb/> gäpielt hatte und entweder nie bewußt
-               geworden oder nach dem<lb/> glücklichen Ausgang der Krankheit energischer Verdrängung
-               verfallen<lb/> war. Im anderen Falle hätte sie ein anderes Kleid, nämlich Trauer<lb
-                  break="no"/>kleidung, tragen müssen. Bei den Freundinnen fand sie nun die
-               analoge<lb/> Situation vor, den einzigen Bruder in Gefahr, bald zu sterben, wie
-               es<lb/> auch kurz darauf wirklich eintraf. Sie hätte bewußt erinnern sollen,<lb/> daß
-               sie diese Situation vor wenigen Meinten selbst durchlebt hatte;<lb/> anstatt dies zu
-               erinnern, was durch die Verdrängung verhindert war,<lb/> übertrug sie des
-               Erinnerungsgefühl auf die Lokalitäten, Garten und<lb/> Haus und verfiel der „fausse
-               reconnaissance“, daß sie das alles genau<lb/> ebenso schon einmal gesehen habe. Aus
-               der Tatsache der Verdrängung<lb/> dürfen wir schließen, daß die seinerzeitige
-               Erwartung, ihr Bruder<lb/> werde sterben, nicht weit entiemt vom Charakter einer
-                  Wunsch<lb break="no"/>pl1antasie gewesen war. Sie Wäre dann das einzige Kind
-               geblieben.<lb/> In ihrer späteren Neurose litt sie in intensivster Weise unter der
-               Angst,<lb/> ihre Eltern zu verlieren, hinter welcher die Analyse wie gewöhnlich<lb/>
-               den unbewußten Wunsch des gleichen Inhalts aufdecken konnte.<lb/> Meine eigenen
-               ﬂüchtigen Erlebnisse von „déjä vu“ habe ich mir<lb/> in ähnlicher Weise aus der
-               Gefühlskonstellation des Moments ableiten<lb/> können. „Das wäre wieder ein Anlaß,
-               jene (unbewußte und unbekannte)<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">140</fw>und Gartens, etwa in ihrer ersten Kindheit, seine
+                     Quelle haben könne. Die Dame, die dies berichtete, suchte nach keiner psychologischen 
+                     Erklärung, sondern sah in dem Auftreten dieser Empfindung einen 
+                     prophetischen Hinweis auf die Bedeutung, welche eben diese Freundinnen
+                     später für ihr Gefühlsleben gewannen. Die Erwägung der 
+                     Umstände, unter denen das Phänomen bei ihr auftrat, zeigt uns aber 
+                     den Weg zu einer anderen Auffassung. Als sie den Besuch unternahm, 
+                     wußte sie, daß diese Mädchen einen einzigen schwerkranken Bruder 
+                     hatten. Sie bekam ihn bei dem Besuch auch zu Gesichte, fand ihn 
+                     sehr schlecht aussehend und dachte sich, daß er bald sterben werde. 
+                     Nun war ihr eigener einziger Bruder einige Monate vorher an Diphtherie 
+                     gefährlich erkrankt gewesen; während seiner Krankheit hatte sie vom 
+                     Elternhause entfernt wochenlang bei einer Verwandten gewohnt. Sie 
+                     glaubt, daß der Bruder diesen Landbesuch mitmachte, meint sogar, 
+                     es sei sein erster größerer Ausflug nach der Krankheit gewesen; doch 
+                     ist ihre Erinnerung in diesen Punkten merkwürdig unbestimmt, während 
+                     alle anderen Details, und besonders das Kleid, das sie an jenem Tage 
+                     trug, ihr überdeutlich vor Augen stehen. Dem Kundigen wird es nicht 
+                     schwer fallen, aus diesen Anzeichen zu schließen, daß die Erwartung, 
+                     ihr Bruder werde sterben, bei dem Mädchen damals eine große Rolle 
+                     gespielt hatte und entweder nie bewußt geworden oder nach dem 
+                     glücklichen Ausgang der Krankheit energischer Verdrängung verfallen 
+                     war. Im anderen Falle hätte sie ein anderes Kleid, nämlich Trauerkleidung,
+                     tragen müssen. Bei den Freundinnen fand sie nun die analoge 
+                     Situation vor, den einzigen Bruder in Gefahr, bald zu sterben, wie es 
+                     auch kurz darauf wirklich eintraf. Sie hätte bewußt erinnern sollen, 
+                     daß sie diese Situation vor wenigen Monaten selbst durchlebt hatte; 
+                     anstatt dies zu erinnern, was durch die Verdrängung verhindert war, 
+                     übertrug sie das Erinnerungsgefühl auf die Lokalitäten, Garten und 
+                     Haus und verfiel der „fausse reconnaissance“, daß sie das alles genau 
+                     ebenso schon einmal gesehen habe. Aus der Tatsache der Verdrängung 
+                     dürfen wir schließen, daß die seinerzeitige Erwartung, ihr Bruder 
+                     werde sterben, nicht weit entfernt vom Charakter einer Wunschphantasie
+                     gewesen war. Sie wäre dann das einzige Kind geblieben. 
+                     In ihrer späteren Neurose litt sie in intensivster Weise unter der Angst, 
+                     ihre Eltern zu verlieren, hinter welcher die Analyse wie gewöhnlich 
+                     den unbewußten Wunsch des gleichen Inhalts aufdecken konnte.</p> 
+                  <p>Meine eigenen flüchtigen Erlebnisse von „déjà vu“ habe ich mir 
+                     in ähnlicher Weise aus der Gefühlskonstellation des Moments ableiten 
+                     können. „Das wäre wieder ein Anlaß, jene
+                     (unbewußte und unbekannte)<lb break="paragraph"/>
 
 
             <pb n="19" xml:id="page__2aab7bfa-5645-4cb8-8d7e-c0f52603bc8c"/>
-            <p>Determinisrnns. —- Znßlls- und Aberglnuben. —— Gesichtspunkte. 141<lb
-                  break="paragraph"/></p>
-            <p>Phantasie zu wecken, die sich damals und damals als Wunsch zur Ver<lb break="no"
-               />besserung der Situation in mir gebildet hat“).<lb break="paragraph"/></p>
-            <p>V. Als ich unlängst Gelegenheit hatte, einem philosoph'ßch gebildeten<lb/> Kollegen
-               einige Beispiele von Namenvergessen mit Analyse vorzutragen,<lb/> beeilte er sich zu
-               erwidern: Das ist sehr schön, aber bei mir geht das<lb/> Nameuvergessen anders zu. So
-               leicht darf man es sich offenbar nicht<lb/> machen; ich glaube nicht, daß mein
-               Kollege je vorher an eine Analyse<lb/> bei Namenvergessen gedacht hatte; er konnte
-               auch nicht sagen, wie<lb/> es bei ihm anders zugehe. Aber seine Bemerkung berührt
-               doch ein Pro<lb break="no"/>blem, welches viele in den Vordergrund zu stellen geneigt
-               sein werden.<lb/> Trifft die hier gegebene Auﬂösung der Fehl- und
-               Zutallshandlungen<lb/> allgemein zu oder nur vereinzelt, und wenn letzteres, welches
-               sind die<lb/> Bedingungen, unter denen sie zur Erklärung der auch anderswie er<lb
-                  break="no"/>möglichten Phänomene herangezogen werden darf? Bei der Beant<lb
-                  break="no"/>wortung dieser Frage lassen mich meine Erfahrungen im Stiche. Ich<lb/>
-               kann nur davon abmahnen, den aufgezeigten Zusammenhang für<lb/> selten zu halten,
-               denn so oft ich bei mir selbst und bei meinen Patienten<lb/> die Probe angestellt,
-               hat er sich wie in den mitgeteilten Beispielen sicher<lb/> nachweisen lassen, oder
-               haben sich wenigstens gute Gründe, ihn zu<lb/> vermuten, ergeben. Es ist nicht zu
-               verwundern, wenn es nicht alle<lb/> Male gelingt, den verborgenen Sinn der
-               Symptomhandlung zu ﬁnden,<lb/> da die Größe der inneren Widerstände, die sich der
-               Lösung widersetzen,<lb/> als entscheidender Faktor in Betracht kommt. Man ist auch
-               nicht<lb/> imstande, bei sich selbst oder bei den Patienten jeden einzelnen
-               Traum<lb/> zu deuten; es genügt, um die Allgemeingültigkeit der Theorie zu be<lb
-                  break="no"/>stätigen, wenn man nur ein Stück weit in den verdeckten Zusammen<lb
-                  break="no"/>hang einzudringen vermag. Der Traum, der sich beim Versuche,<lb/> ihn
-               am Tage nachher zu lösen, refraktä.r zeigt, läßt sich oft eine Woche<lb/> oder einen
-               Monat später sein Geheimnis entreißen, wenn eine unterdes<lb break="paragraph"/></p>
-            <p>1) Diese Erklärung des „Déja vu" ist bisher nur von einem einzigen Beob<lb break="no"
-               />achter gewürdigt werden. Dr. Ferenczi, dem die dritte Auﬂage dieses Buches<lb/>
-               soviel wertvolle Beiträge verdankt, schreibt mir hierüber: „Ich habe mich sowohl<lb/>
-               bei mir als auch bei anderen dnvon überzeugt, daß das unerklärliche
-               Bekanntheits—<lb/> geiTihl au! unbewußte Phantasien zurückzuführen ist. an die man in
-               einer aktuellen<lb/> Situation nnhewnßt erinnert wird. Bei einem meiner Patienten
-               ging es anscheinend<lb/> anders, in Wirklichkeit aber ganz analog zu. Dies Geﬁth
-               kehrte bei ihm sehr oft<lb/> wieder, erwies sich aber regelmäßig als von einem
-               vergessenen (verdringten)<lb/> Tranmstück der vergangenen Nacht herrührend. Es
-               scheint also, daß du „Déjh<lb break="paragraph"/></p>
-            <p>vu“ nicht nur von Taguäumen, sondern auch von nächtlichen Träumen abstamrneu<lb/>
-                  kann."<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
-
+                     <fw type="pageNum">141</fw>Phantasie zu wecken, die sich damals und damals als
+                     Wunsch zur Verbesserung der Situation in mir gebildet
+                     hat“<hi rendition="#footnote-index">1)</hi>.</p>
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Diese Erklärung
+                     des „Déjà vu“ ist bisher nur von einem einzigen Beobachter gewürdigt worden. Dr.
+                     <hi rendition="#smallcaps">Ferenczi</hi>, dem die dritte Auflage dieses Buches 
+                     soviel wertvolle Beiträge verdankt, schreibt mir hierüber: „Ich habe mich sowohl 
+                     bei mir als auch bei anderen davon überzeugt, daß das unerklärliche
+                     Bekanntheitsgefühl auf unbewußte Phantasien zurückzuführen ist, an die man in einer
+                     aktuellen Situation unbewußt erinnert wird. Bei einem meiner Patienten ging es
+                     anscheinend anders, in Wirklichkeit aber ganz analog zu. Dies Gefühl kehrte bei ihm
+                     sehr oft wieder, erwies sich aber regelmäßig <hi rendition="#smallcaps">als von
+                        einem vergessenen (verdrängten) Traumstück</hi> der vergangenen Nacht herrührend.
+                     Es scheint also, daß das „Déjà vu“ nicht nur von Tagträumen, sondern auch von
+                     nächtlichen Träumen abstammen kann.“</note>
+                  
+                  <p>V. Als ich unlängst Gelegenheit hatte, einem philosophisch gebildeten 
+                     Kollegen einige Beispiele von Namenvergessen mit Analyse vorzutragen, 
+                     beeilte er sich zu erwidern: Das ist sehr schön, aber bei mir geht das 
+                     Namenvergessen anders zu. So leicht darf man es sich offenbar nicht 
+                     machen; ich glaube nicht, daß mein Kollege je vorher an eine Analyse 
+                     bei Namenvergessen gedacht hatte; er konnte auch nicht sagen, wie 
+                     es bei ihm anders zugehe. Aber seine Bemerkung berührt doch ein Problem,
+                     welches viele in den Vordergrund zu stellen geneigt sein werden. 
+                     Trifft die hier gegebene Auflösung der Fehl- und Zufallshandlungen 
+                     allgemein zu oder nur vereinzelt, und wenn letzteres, welches sind die 
+                     Bedingungen, unter denen sie zur Erklärung der auch anderswie ermöglichten
+                     Phänomene herangezogen werden darf? Bei der Beantwortung dieser Frage lassen
+                     mich meine Erfahrungen im Stiche. Ich 
+                     kann nur davon abmahnen, den aufgezeigten Zusammenhang für 
+                     selten zu halten, denn so oft ich bei mir selbst und bei meinen Patienten 
+                     die Probe angestellt, hat er sich wie in den mitgeteilten Beispielen sicher 
+                     nachweisen lassen, oder haben sich wenigstens gute Gründe, ihn zu 
+                     vermuten, ergeben. Es ist nicht zu verwundern, wenn es nicht alle 
+                     Male gelingt, den verborgenen Sinn der Symptomhandlung zu finden, 
+                     da die Größe der inneren Widerstände, die sich der Lösung widersetzen, 
+                     als entscheidender Faktor in Betracht kommt. Man ist auch nicht 
+                     imstande, bei sich selbst oder bei den Patienten jeden einzelnen Traum 
+                     zu deuten; es genügt, um die Allgemeingültigkeit der Theorie zu bestätigen,
+                     wenn man nur ein Stück weit in den verdeckten Zusammenhang einzudringen vermag.
+                     Der Traum, der sich beim Versuche, 
+                     ihn am Tage nachher zu lösen, refraktär zeigt, läßt sich oft eine Woche 
+                     oder einen Monat später sein Geheimnis entreißen, wenn
+                     eine unterdes<lb break="paragraph"/>
 
             <pb n="20" xml:id="page__d2c77e9e-a338-4586-a08d-4e5a169569ec"/>
-            <p>142 Determinismus. —Zufal.ls- und Aberglauben. — Gesichtspunkte.<lb break="paragraph"
-               /></p>
-            <p>erfolgte reale Veränderung die miteinander streitenden psychischen<lb/> Wertigkeiten
-               herabgesetzt hat. Das nämliche gilt für die Lösung der<lb/> Fehl- und
-               Symptomhandlungen; das Beispiel von Verlesen „Im Faß<lb/> durch Europa“ auf Seite 61
-               hat mir die Gelegenheit gegeben zu zeigen,<lb/> ‘ wie ein anfänglich unlösbarcs
-               Symptom der Analyse zugänglich wird,<lb/> wenn das reale Interesse an den verdrängten
-               Gedanken nach—<lb/> gelassen hat. Solange die Möglichkeit bestand, daß mein Bruder
-               den<lb/> beneideten Titel vor mir erhalte, Widerstand das genannte Verlesen<lb/>
-               allen wiederholten Bemühungen der Analyse; nachdem es sich heraus<lb break="no"
-               />gestellt hatte, daß diese Bevorzugung unwahrscheinlich sei, klärte<lb/> sich mir
-               plötzlich der Weg, der zur Auﬂösung desselben führte, Es<lb/> , wäre also unrichtig,
-               von all den Fällen, welche der Analyse widerstehen,<lb/> zu behaupten, sie seien
-               durch einen anderen als den hier aufgedeckten<lb/> psychischen Mechanismus
-               entstanden; es brauchte für diese Annahme<lb/> noch andere als negative Beweise. Auch
-               die bei Gesunden wahrschein<lb break="no"/>lich allgemein vorhandene
-               Bereitwilligkeit, an eine andere Erklärung<lb/> der Fehl— und Symptomhandlungen zu
-               glauben, ist jeder Beweiskraft<lb/> bar; sie ist, wie selbstverständlich, eine
-               Äußerung derselben seelischen<lb/> Kräfte, die das Geheimnis hergestth haben, und die
-               sich darum auch<lb/> für dessen Bewahrung einsetzen, gegen dessen Aufheng aber
-               sträuben.<lb/> Auf der anderen Seite dürfen wir nicht übersehen, daß die ver<lb
-                  break="no"/>drängten Gedanken und Regungen sich den Ausdruck in Symptom<lb
-                  break="no"/>und Fehlhandlungen ja nicht selbständig schaffen. Die technische<lb
-                  break="no"/>Möglichkeit für solches Ausgleichen der Innervationen muß unab<lb
-                  break="no"/>hängig von ihnen gegeben sein; diese wird dann von der Absicht
-               des<lb/> Verdrängten, zur bewußten Geltung zu kommen, gerne ausgenützt.<lb/> Welche
-               Struktur- und Funktionsrelationen es sind, die sich solcher<lb/> Absicht zur
-               Verfügung stellen, das haben für den Fall der sprachlichen<lb/> Fehlleistung (vgl.
-               Seite 37) eingehende Untersuchungen der Philosophen<lb/> und Philologen festzustellen
-               sich bemüht. Unterscheiden wir so an<lb/> den Bedingungen der Fehl- und
-               Symptomhandlung das unbewußte<lb/> Motiv von den ihm entgegenkomrnenden
-               physiologischen und psycho<lb break="no"/>physischen Relationen, so bleibt die Frage
-               offen, ob es innerhalb der<lb/> Breite der Gesundheit noch andere Momente gibt,
-               welche, wie das<lb/> unbewußte Motiv und an Stelle desselben, auf dem Wege dieser
-                  Re<lb break="no"/>lationen die Fehl- und Symptomhandlungen zu erzeugen
-               vermögen.<lb/> Es ist nicht meine Aufgabe, diese Frage zu beantworten.<lb/> VI. Seit
-               den Erörtemngen über das Versprechen haben wir<lb/> uns begnügt zu beweisen, daß die
-               Fehlleistungen eine verborgene<lb/> Motivierung haben, und uns mit dem Hilfsmittel
-               der Psychoanalyse<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">142</fw>erfolgte reale Veränderung die miteinander streitenden
+                     psychischen Wertigkeiten herabgesetzt hat. Das nämliche gilt für die Lösung der 
+                     Fehl- und Symptomhandlungen; das Beispiel von Verlesen „Im Faß 
+                     durch Europa“ auf Seite 6i hat mir die Gelegenheit gegeben zu zeigen, 
+                     wie ein anfänglich unlösbares Symptom der Analyse zugänglich wird, 
+                     wenn das <hi rendition="#smallcaps">reale Interesse</hi> an den verdrängten
+                     Gedanken nachgelassen hat. Solange die Möglichkeit bestand, daß mein Bruder den 
+                     beneideten Titel vor mir erhalte, widerstand das genannte Verlesen 
+                     allen wiederholten Bemühungen der Analyse; nachdem es sich herausgestellt
+                     hatte, daß diese Bevorzugung unwahrscheinlich sei, klärte 
+                     sich mir plötzlich der Weg, der zur Auflösung desselben führte. Es 
+                     wäre also unrichtig, von all den Fällen, welche der Analyse widerstehen, 
+                     zu behaupten, sie seien durch einen anderen als den hier aufgedeckten 
+                     psychischen Mechanismus entstanden; es brauchte für diese Annahme 
+                     noch andere als negative Beweise. Auch die bei Gesunden wahrscheinlich
+                     allgemein vorhandene Bereitwilligkeit, an eine andere Erklärung 
+                     der Fehl- und Symptomhandlungen zu glauben, ist jeder Beweiskraft 
+                     bar; sie ist, wie selbstverständlich, eine Äußerung derselben seelischen 
+                     Kräfte, die das Geheimnis hergestellt haben, und die sich darum auch 
+                     für dessen Bewahrung einsetzen, gegen dessen Aufhellung aber sträuben.</p> 
+                  <p>Auf der anderen Seite dürfen wir nicht übersehen, daß die verdrängten
+                     Gedanken und Regungen sich den Ausdruck in Symptom- und Fehlhandlungen ja
+                     nicht selbständig schaffen. Die technische 
+                     Möglichkeit für solches Ausgleichen der Innervationen muß unabhängig von
+                     ihnen gegeben sein; diese wird dann von der Absicht des 
+                     Verdrängten, zur bewußten Geltung zu kommen, gerne ausgenützt. 
+                     Welche Struktur- und Funktionsrelationen es sind, die sich solcher 
+                     Absicht zur Verfügung stellen, das haben für den Fall der sprachlichen 
+                     Fehlleistung (vgl. Seite 37) eingehende Untersuchungen der Philosophen 
+                     und Philologen festzustellen sich bemüht. Unterscheiden wir so an 
+                     den Bedingungen der Fehl- und Symptomhandlung das unbewußte 
+                     Motiv von den ihm entgegenkommenden physiologischen und psychophysischen
+                     Relationen, so bleibt die Frage offen, ob es innerhalb der 
+                     Breite der Gesundheit noch andere Momente gibt, welche, wie das 
+                     unbewußte Motiv und an Stelle desselben, auf dem Wege dieser Relationen
+                     die Fehl- und Symptomhandlungen zu erzeugen vermögen. 
+                     Es ist nicht meine Aufgabe, diese Frage zu beantworten.</p> 
+                  <p>VI. Seit den Erörterungen über das Versprechen haben wir 
+                     uns begnügt zu beweisen, daß die Fehlleistungen eine verborgene 
+                     Motivierung haben, und uns
+                     mit dem Hilfsmittel der Psychoanalyse<lb break="paragraph"/>
 
 
             <pb n="21" xml:id="page__f0f6cf69-9816-4c56-93b4-afd102db0c76"/>
-            <p>Determinismus. —Zufalls- und Aberglanben. -— Geniethunlrle. 1:43<lb break="paragraph"
-               /></p>
-            <p>den Weg zur Kenntnis dieser Motivierung gebahnt. Die allgemeine<lb/> Natur und die
-               Besonderheiten der in den Fehlleistungen zum Ausdruck<lb/> gebrachten psychischen
-               Faktoren haben wir bisher fast ohne Be<lb break="no"/>riicksichtigung gelassen,
-               jedenfalls noch nicht versucht, dieselben<lb/> näher zu bestimmen und auf ihre
-               Gesetzmäßigkeit zu prüfen. Wir<lb/> werden auch jetzt keine gründliche Erledigung des
-               Gegenstandes<lb/> versuchen, denn die ersten Schritte werden uns bald belehrt
-               haben,<lb/> daß man in dies Gebiet besser von anderer Seite einzudringen vermag.<lb/>
-               Man kann sich hier mehrere Fragen vorlegen, die ich wenigstens an—<lb/> iühren und in
-               ihrem Umfang umschreiben will. I. Welches Inhalts<lb/> und welcher Herkunft sind die
-               Gedanken und Regungen, die sich<lb/> durch die Fehl- und Zufallshandlungen andeuten?
-               2. Welches sind<lb/> ,die Bedingungen dafür, daß ein Gedanke oder eine Regung
-               genötigt<lb/> und in den Stand gesetzt werde, sich dieser Vorfälle als
-               Ausdrucks—<lb/> mittel zu bedienen? 3. Lassen sich konstante und eindeutige Be<lb
-                  break="no"/>ziehungen zwischen der Art der Fehlhandlung’ und den Qualitäten
-               des<lb/> durch sie zum Ausdruck Gebrachten nachweisen?<lb break="paragraph"/></p>
-            <p>Ich beginne damit, einiges Material zur Beantwortung der letzten<lb/> Frage
-               zusammenzutragen. Bei der Erörtenmg der Beispiele von<lb/> Versprechen haben wir es
-               für nötig gefunden, über den Inhalt der<lb/> intendierten Rede hinauszugehen, und
-               haben die Ursache der Rede<lb break="no"/>störung außerhalb der Intention suchen
-               müssen. Dieselbe lag dann in<lb/> einer Reihe von Fällen nahe und war dem Bewußtsein
-               des Sprechenden<lb/> bekannt. In den scheinbar einfachsten und durchsichtigsten
-                  Bei<lb break="no"/>spielen war es eine gleichberechtigt klingende, andere Fassung
-               desselben<lb/> Gedankens, die dessen Ausdruck störte, ohne daß man hätte angeben<lb/>
-               können, warum die eine unterlegen, die andere durchgedrungen war<lb/>
-               (Kontaminationen von M e r in g e r und M a y e r). In einer zweiten<lb/> Gruppe von
-               Fällen war das Unterhegen der einen Fassung motiviert<lb/> durch eine Rücksicht, die
-               sich aber nicht stark genug zur völligen<lb/> Zurückhaltung erwies („zum Vorschwein
-               gekommen“). Auch die<lb/> zurückgehaltene Fassung war klar bewußt. Von der dritten
-               Gruppe erst<lb/> kann man ohne Einschränkung behaupten, daß hier der störende Ge<lb
-                  break="no"/>danke von dem intendierten verschieden war, und kann hier eine,
-               wie<lb/> es scheint, wesentliche Unterscheidung aufstehen. Der störende Ge<lb
-                  break="no"/>danke ist entweder mit dem gestörten durch Gedankenassoziation<lb/>
-               verbunden (Störung durch inneren Widerspruch), oder er ist ihm wesens—<lb/> fremd,
-               und durch eine befremdende ä u B e r 1 ic h e Assoziation ist<lb/> gerade das
-               gestörte Wort mit dem störenden Gedanken, der o i t un<lb break="no"/>bewußt ist,
-               verknüpft. In den Beispielen, die ich aus meinen Psycho—<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">143</fw>den Weg zur Kenntnis dieser Motivierung gebahnt. Die
+                     allgemeine Natur und die Besonderheiten der in den Fehlleistimgen zum Ausdruck 
+                     gebrachten psychischen Faktoren haben wir bisher fast ohne Berücksichtigung
+                     gelassen, jedenfalls noch nicht versucht, dieselben 
+                     näher zu bestimmen und auf ihre Gesetzmäßigkeit zu prüfen. Wir 
+                     werden auch jetzt keine gründliche Erledigung des Gegenstandes 
+                     versuchen, denn die ersten Schritte werden uns bald belehrt haben, 
+                     daß man in dies Gebiet besser von anderer Seite einzudringen vermag. 
+                     Man kann sich hier mehrere Fragen vorlegen, die ich wenigstens anführen und
+                     in ihrem Umfang umschreiben will. 1. Welches Inhalts 
+                     und welcher Herkunft sind die Gedanken und Regungen, die sich 
+                     durch die Fehl- und Zufallshandlungen andeuten? 2. Welches sind 
+                     die Bedingungen dafür, daß ein Gedanke oder eine Regung genötigt 
+                     und in den Stand gesetzt werde, sich dieser Vorfälle als Ausdrucksmittel
+                     zu bedienen? 3. Lassen sich konstante und eindeutige Beziehungen zwischen der
+                     Art der Fehlhandlung und den Qualitäten des 
+                     durch sie zum Ausdruck Gebrachten nachweisen?</p> 
+                  <p>Ich beginne damit, einiges Material zur Beantwortung der letzten 
+                     Frage zusammenzutragen. Bei der Erörterung der Beispiele von 
+                     Versprechen haben wir es für nötig gefunden, über den Inhalt der 
+                     intendierten Rede hinauszugehen, und haben die Ursache der Redestörung
+                     außerhalb der Intention suchen müssen. Dieselbe lag dann in 
+                     einer Reihe von Fällen nahe und war dem Bewußtsein des Sprechenden 
+                     bekannt. In den scheinbar einfachsten und durchsichtigsten Beispielen war es
+                     eine gleichberechtigt klingende, andere Fassung desselben 
+                     Gedankens, die dessen Ausdruck störte, ohne daß man hätte angeben 
+                     können, warum die eine unterlegen, die andere durchgedrungen war 
+                     (Kontaminationen von <hi rendition="#smallcaps">Meringer</hi> und
+                     <hi rendition="#smallcaps">Mayer</hi>). In einer zweiten 
+                     Gruppe von Fällen war das Unterliegen der einen Fassung motiviert 
+                     durch eine Rücksicht, die sich aber nicht stark genug zur völligen 
+                     Zurückhaltung erwies („zum Vorschwein gekommen“). Auch die 
+                     zurückgehaltene Fassung war klar bewußt. Von der dritten Gruppe erst 
+                     kann man ohne Einschränkung behaupten, daß hier der störende Gedanke von
+                     dem intendierten verschieden war, und kann hier eine, wie 
+                     es scheint, wesentliche Unterscheidung aufstellen. Der störende Gedanke ist
+                     entweder mit dem gestörten durch Gedankenassoziation 
+                     verbunden (Störung durch inneren Widerspruch), oder er ist ihm wesensfremd, und
+                     durch eine befremdende <hi rendition="#smallcaps">äußerliche</hi> Assoziation ist 
+                     gerade das gestörte Wort mit dem störenden Gedanken, der
+                     <hi rendition="#smallcaps">oft</hi> unbewußt ist, verknüpft. In den Beispielen,
+                     die ich aus meinen Psycho<lb break="no"/>
 
 
             <pb n="22" xml:id="page__da3d601a-e5e6-45c4-a5a9-f28b5db51032"/>
-            <p>144 Determinismns. —- Zufalls- und Aherglaubeu. — Gesichtspunkte.<lb
-                  break="paragraph"/></p>
-            <p>analysen gebracht habe, steht die ganze Rede unter dem Einﬂuß gleich<lb break="no"
-               />zeitig aktiv gewordener, aber völlig unbewußter Gedanken, die sich<lb/> entweder
-               durch die Störung selbst verraten (K l a p p e r schlange —<lb/> K 1 e o p at r a)
-               oder einen indirekten Einﬂuß äußern, indem sie er—<lb/> möglichen, daß die einzelnen
-               Teile der bewußt intendierten Rede<lb/> einander stören (As e n a t m e in wo H as e
-               n a u erstraße, Remi<lb break="no"/>niszenzen an eine Französin dahinter stehen). Die
-               zurückgehaltenen<lb/> oder unbewußten Gedanken, von denen die Sprechstörung ausgeht,
-               sind<lb/> von der mannigfaltigsten Herkunft. Eine Allgemeinheit enthüllt uns<lb/>
-               diese Überschau also nach keiner Richtung.<lb break="paragraph"/></p>
-            <p>Die vergleichende Prüfung der Beispiele von Verlesen und Ver<lb break="no"/>schreiben
-               führt zu den nämlichen Ergebnissen. Einzelne Fälle scheinen<lb/> wie beim Versprechen
-               einer weiter nicht motivierten Verdichtungs—<lb/> arbeit ihr Entstehen zu danken (z.
-               B.: der A p i e). Man möchte aber<lb/> gern erfahren, ob nicht doch besondere
-               Bedingungen erfüllt sein müssen,<lb/> damit eine solche Verdichtung, die in der
-               Traumarbeit regelrecht, in<lb/> unserem wachen Denken fehlerhaft ist, Platz greife,
-               und bekommt<lb/> hierüber aus den Beispielen selbst keinen Aufschluß. Ich würde
-               es<lb/> aber ablehnen, hieraus den Schluß zu ziehen, 45 gebe keine solchen
-               Bedin—<lb/> gungen als etwa den Nachlaß der bewußten Aufmerksamkeit, da ich von<lb/>
-               anderswoher weiß, daß sich gerade automatische Verrichtungen durch<lb/> Korrektheit
-               und Verläßlichkeit auszeichnen. Ich möchte eher betonen,<lb/> daß hier, wie so häuﬁg
-               in der Biologie, die normalen oder dem Normalcn<lb/> angenäherten Verhältnisse
-               ungünstigere Objekte der Forschung sind<lb/> als die pathologischen; Was bei der
-               Erklärung dieser leichtesten<lb/> Störungen dunkel bleibt, wird nach meiner Erwartung
-               durch die Auf—<lb/> klänmg schwererer Störungen Licht empfangen.<lb break="paragraph"
-               /></p>
-            <p>Auch beim Verlesen und Verschreiben fehlt es nicht an Beispielen,<lb/> welche eine
-               entferntere und kompliziertere Motivierung erkennen<lb/> lassen. „Im Fa.ß durch
-               Europa" ist eine Lesestörung, die sich durch<lb/> den Einﬂuß eines entlegenen,
-               wesensfremden Gedankens aufklärt,<lb/> welcher einer verdrängten Regung von
-               Eifersucht und Ehrgeiz ent<lb break="no"/>springt, und den „Wechsel“ des Wortes
-               „Beiörderung“ zur<lb/> Verknüpfung mit dem gleichgültigen und harmlosen Thema, das
-                  ge<lb break="no"/>lesen wurde, benützt. Im Falle B u r c k h a r d ist der Name
-               selbst<lb/> ein solcher „Wechsel“.<lb break="paragraph"/></p>
-            <p>Es ist unverkennbar, daß die Störungen der Sprechfunktionen ‘<lb/> ?eichter zustande
-               kommen und weniger Anforderungen an die störenden<lb/> Kräfte stellen als die anderer
-               psychischer Leistungen.<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">144</fw>analysen gebracht habe, steht die ganze Rede unter
+                     dem Einfluß gleichzeitig aktiv gewordener, aber völlig unbewußter Gedanken, die sich 
+                     entweder durch die Störung selbst verraten
+                     (<hi rendition="#smallcaps">Klapper</hi>schlange — 
+                     <hi rendition="#smallcaps">Kleopatra</hi>) oder einen indirekten Einfluß äußern,
+                     indem sie ermöglichen, daß die einzelnen Teile der bewußt intendierten Rede 
+                     einander stören (<hi rendition="#smallcaps">Ase natmen</hi>: wo
+                     <hi rendition="#smallcaps">Hasenauer</hi>straße, Reminiszenzen an eine
+                     Französin dahinter stehen). Die zurückgehaltenen 
+                     oder unbewußten Gedanken, von denen die Sprechstörung ausgeht, sind 
+                     von der mannigfaltigsten Herkunft. Eine Allgemeinheit enthüllt uns 
+                     diese Überschau also nach keiner Richtung.</p> 
+                  <p>Die vergleichende Prüfung der Beispiele von Verlesen und Verschreiben
+                     führt zu den nämlichen Ergebnissen. Einzelne Fälle scheinen 
+                     wie beim Versprechen einer weiter nicht motivierten Verdichtungsarbeit ihr
+                     Entstehen zu danken (z. B.: der <hi rendition="#smallcaps">Apfe</hi>). Man möchte
+                     aber gern erfahren, ob nicht doch besondere Bedingungen erfüllt sein müssen, 
+                     damit eine solche Verdichtung, die in der Traumarbeit regelrecht, in 
+                     unserem wachen Denken fehlerhaft ist, Platz greife, und bekommt 
+                     hierüber aus den Beispielen selbst keinen Aufschluß. Ich würde es 
+                     aber ablehnen, hieraus den Schluß zu ziehen, es gebe keine solchen Bedingungen
+                     als etwa den Nachlaß der bewußten Aufmerksamkeit, da ich von 
+                     anderswoher weiß, daß sich gerade automatische Verrichtungen durch 
+                     Korrektheit und Verläßlichkeit auszeichnen. Ich möchte eher betonen, 
+                     daß hier, wie so häufig in der Biologie, die normalen oder dem Normalen 
+                     angenäherten Verhältnisse ungünstigere Objekte der Forschung sind 
+                     als die pathologischen. Was bei der Erklärung dieser leichtesten 
+                     Störungen dunkel bleibt, wird nach meiner Erwartung durch die Aufklärung
+                     schwererer Störungen Licht empfangen.</p> 
+                  <p>Auch beim Verlesen und Verschreiben fehlt es nicht an Beispielen, 
+                     welche eine entferntere und kompliziertere Motivierung erkennen 
+                     lassen. „Im Faß durch Europa“ ist eine Lesestörung, die sich durch 
+                     den Einfluß eines entlegenen, wesensfremden Gedankens aufklärt, 
+                     welcher einer verdrängten Regung von Eifersucht und Ehrgeiz entspringt, und
+                     den „Wechsel“ des Wortes „<hi rendition="#smallcaps">Beförderung</hi>“ zur 
+                     Verknüpfung mit dem gleichgültigen und harmlosen Thema, das gelesen wurde, benützt.
+                     Im Falle <hi rendition="#smallcaps">Burckhard</hi> ist der Name selbst 
+                     ein solcher „Wechsel“.</p> 
+                  <p>Es ist unverkennbar, daß die Störungen der Sprechfunktionen 
+                     leichter zustande kommen und weniger Anforderungen an die störenden 
+                     Kräfte stellen als die anderer psychischer Leistungen.</p>
 
 
             <pb n="23" xml:id="page__853ed008-283c-42db-b519-d9fdcfc30cd6"/>
-            <p>Detmninismus. — Zufall» und Aberglanben. — Gesichßpuukte. 145<lb break="paragraph"
-               /></p>
-            <p>Auf anderem Boden steht man bei der Priifung des Vergessens<lb/> im eigentlichen
-               Sinne, d. h. des Vergessens von vergangenen Erleb<lb break="no"/>nissen (das
-               Vergessen von Eigennamen und Fremdworten, wie in den<lb/> Abschnitten. I und II
-               könnte man als „Entfallen“, das von Vorsätzen<lb/> als „Unterlassen“ von diesem
-               Vergessen sensu strictiori absondern).<lb/> Die Grundheding-ungen des normalen
-               Vorgangs beim Vergessen sind<lb/> unbekannt 1). Man wird auch daran gemahnt, daß
-               nicht alles ver<lb break="no"/>gessen ist, was man dafür hält. Unsere Erklärung hat
-               es hier nur mit<lb/> jenen Fällen zu tun, in denen das Vergessen bei uns ein
-               Befremden er<lb break="no"/>weckt, insofern es die Regel verletzt, daß Unwichtiges
-               vergessen,<lb/> Wichtiges aber vom Gedächtnis bewahrt wird. Die Analyse der
-               Beispiele<lb/> von Vergessen, die uns nach einer besonderen Aufklärung zu
-               verlangen<lb/> scheinen, ergibt als Motiv des Vergessens jedesmal eine Urdust,
-               etwas<lb/> zu erinnern, was peinliche Empﬁndungen erwecken kann. Wir gelangen<lb/>
-               zur Vermutung, daB diese; Motiv im psychischen Leben sich ganz all<lb break="no"
-               />gemein zu äußern strebt, aber durch andere gegenwirkende Kräfte ver<lb break="no"
-               />hindert wird, sich irgendwie regelmäßig durchzusetzen. Umfang und<lb
-                  break="paragraph"/></p>
-            <p>1) Uber den Mechanismus dee eigentlichen Vergessens kann ich etwa folgende<lb/>
-               Andeutungen geben. Das Erinnerungsmaterial unterliegt im allgemeinen zwei<lb/>
-               Einﬂüssen. der Verdichtung und der Entstellung. Die Entstehung ist das Werk<lb/> der
-               im Seelenlehen herrschenden Tendenzen und wendet sich vor allem gegen<lb/> die
-               aifektw-irksam gebliebenen Edunerungsspuren, die sich gegen die Verdich<lb break="no"
-               />tung resistenter verhalten. Die indifierent gewordenen Spuren verfallen dem<lb/>
-               Verdichtungsvorgang ohne Gegenwehr. doch kann man beobachten, daß über<lb break="no"
-               />dies Entstellungstendenzen sich an dem indiiierenten Material sättigen, welche<lb/>
-               dort, wo sie sich äußern wollten. unbefriedigt geblieben sind. Da diese Prozesse
-               der<lb/> Verdichtung und Entstellung sich über lange Zeiten hinziehen. während
-               welcher<lb/> alle frischen Erlebnisse auf die Umgestaltung des Gedächtnisinhaltee
-               einwirken.<lb/> meinen wir, es sei die Zeit. welche die Erinnerungen unsicher und
-               undentlich macht.<lb/> Sehr wahrscheinlich ist beim Vergessen von einer direkten
-               Funktion der Zeit<lb/> überhaupt nicht die Rede. — An den verdrängten
-               Erinnerungsepnren kann man<lb/> konstatjeren, daß sie durch die längste Zeitdauer
-               keine Veränderung eria.hren<lb/> haben. Das Unbewußte ist überhaupt. zeitlos. Der
-               wichtigste und auch betrau<lb break="no"/>dendste Charakter der psychischen Fixierung
-               ist der, daß alle Eindrücke einer—<lb/> seits in der nämlichen Art erhalten sind. wie
-               sie aufgenommen wurden, und über<lb break="no"/>dies noch in all den Formen, die sie.
-               bei den weiteren Entwicklungen angenommen<lb/> haben. ein Verhältnis. welches sich
-               durch keinen Vergleich aus einer anderen<lb/> Sphäre erläutern läßt. Der Theorie
-               zufolge ließe sich also jeder frühere Zustand<lb/> des Gedächtnisinhaltes wieder für
-               die Erinnerung herstellen, auch wenn dessen<lb/> Eleniente alle ursprünglichen
-               Beziehungen längst gegen neuere eingetauscht<lb/> haben.<lb break="paragraph"/></p>
-            <p>Freud, Psychoparhologie des Alltagslebens. lU<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                  <fw type="pageNum">145</fw><p>Auf anderem Boden steht man bei der Prüfung
+                     des Vergessens im eigentlichen Sinne, d. h. des Vergessens von vergangenen
+                     Erlebnissen (das Vergessen von Eigennamen und Fremdworten, wie in den 
+                     Abschnitten I und II könnte man als „Entfallen“, das von Vorsätzen 
+                     als „Unterlassen“ von diesem Vergessen sensu strictiori absondern). 
+                     Die Grundbedingungen des normalen Vorgangs beim Vergessen sind 
+                     unbekannt<hi rendition="#footnote-index">1)</hi>. Man wird auch daran gemahnt,
+                     daß nicht alles vergessen ist, was man dafür hält. Unsere Erklärung hat es hier
+                     nur mit jenen Fällen zu tun, in denen das Vergessen bei uns ein Befremden
+                     erweckt, insofern es die Regel verletzt, daß Unwichtiges vergessen, 
+                     Wichtiges aber vom Gedächtnis bewahrt wird. Die Analyse der Beispiele 
+                     von Vergessen, die uns nach einer besonderen Aufklärung zu verlangen 
+                     scheinen, ergibt als Motiv des Vergessens jedesmal eine Unlust, etwas 
+                     zu erinnern, was peinliche Empfindungen erwecken kann. Wir gelangen 
+                     zur Vermutung, daß dieses Motiv im psychischen Leben sich ganz allgemein
+                     zu äußern strebt, aber durch andere gegenwirkende Kräfte verhindert wird, sich
+                     irgendwie regelmäßig durchzusetzen. Umfang und<lb break="paragraph"/>
 
 
             <pb n="24" xml:id="page__4b3ef3b7-e403-4b07-849c-e7623551ca9f"/>
-            <p>146 Determinismus. — Zufalla- und Aberglnuben. — Gesichtspunkte.<lb break="paragraph"
-               /></p>
-            <p>Bedeutung dieser Erinnerungsunlust gegen peinliche Eindrücke scheinen<lb/> der
-               sorgfältigsten psychologischen Prüfung wert zu sein; auch die Frage,<lb/> welche
-               besonderen Bedingungen das allgemein angestrebte Vergessen<lb/> in einzelnen Fä]len
-               ermöglichen, ist aus diesem weiteren Zusammen<lb break="no"/>hange nicht zu lösen.<lb
-                  break="paragraph"/></p>
-            <p>Beim Vergessen von Vorsä.tzen tritt ein anderes Moment in den<lb/> Vordergrund; der
-               beim Verdrängen des peinlich zu Erinnernden nur ver<lb break="no"/>mutete Konflikt
-               wird hier greifbar, und man erkennt bei der Analyse<lb/> der Beispiele regelmäßig
-               einen Gegenwillen, der sich dem Vorsatze<lb/> widersetzt, ohne ihn aufzuheben. Wie
-               bei früher besprochenen Fehl<lb break="no"/>1eistungen erkennt man auch hier zwei
-               Typen des psychischen Vorgangs:<lb/> der Gegeane kehrt sich entweder direkt gegen den
-               Vorsatz (bei Ab—<lb/> sichten von einigem Belang), oder er ist dem Vorsatz selbst
-                  wesens<lb break="no"/>fremd und stellt seine Verbindung mit ihm durch eine ä u B e
-               rl i c h e<lb/> Assoziation her (bei fast indifjerenten Vorsätzen).<lb
-                  break="paragraph"/></p>
-            <p>Derselbe Konﬂikt beherrscht die Phänomene des Vergreifens.<lb/> Der Impuls, der sich
-               in der Störung der Handlung äußert, ist häufig<lb/> ein Gegenimpuls, doch noch öfter
-               ein überhaupt fremder, der nur die<lb/> Gelegenheit benützt, sich bei der Ausführung
-               der Handlung durch eine<lb/> Störung derselben zum Ausdruck zu bringen. Die Fälle, in
-               denen die<lb/> Störung durch einen inneren Widerspruch erfolgt, sind die bedeut<lb
-                  break="no"/>sameren und betreffen auch die wichtigeren Verrichtungen.<lb
-                  break="paragraph"/></p>
-            <p>Der innere Konﬂikt tritt dann bei den Zufalls- oder Symptom<lb break="no"/>handlnngen
-               immer mehr zurück. Diese vom Bewußtsein gering ge<lb break="no"/>schätzten oder ganz
-               übersehenen motorischen Äußerungen dienen so<lb/> mannigfachen unbewußten oder
-               zurückgehaltenen Regungen zum Aus<lb break="no"/>druck; sie stellen meist Phantasien
-               oder WünSche symbolisch der. —<lb break="paragraph"/></p>
-            <p>Zur ersten Frage, welcher Herkunft die Gedanken und Regungen<lb/> seien, die sich in
-               den Fehlleistungen zum Ausdruck bringen, läßt sich<lb/> sagen, daß in einer Reihe von
-               Fällen die Herkunft der störenden Ge<lb break="no"/>danken von unterdrückten Regungen
-               des Seelenlebens leicht nach<lb break="no"/>zuweisen ist. Egoistische, eifersüchtige,
-               feindselige Ge ühle und Im—<lb/> pulse, auf denen der Druck der moralischen Erziehung
-               lastet, bedienen<lb/> sich bei Gesunden nicht selten des Weges der Fehlleistungen, um
-               ihre<lb/> unleugbar vorhandene, aber von höheren seelischen Instanzen nicht<lb/>
-               anerkannte Macht irgendwie zu äußern. Das Gewährenlassen dieser<lb/> F ehl- und
-               Zufallshandlungen entspricht zum guten Teil einer bequemen<lb/> Duldung des
-               Unmoralischen. Unter diesen unterdrückten Regungen<lb/> spielen die mannigfa.chen
-               sexuellen Strömungen keine geringfügige<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">146</fw>Bedeutung dieser Erinnerungsunlust gegen peinliche
+                     Eindrücke scheinen der sorgfältigsten psychologischen Prüfung wert zu sein; auch
+                     die Frage, welche besonderen Bedingungen das allgemein angestrebte Vergessen 
+                     in einzelnen Fällen ermöglichen, ist aus diesem weiteren Zusammenhange nicht zu
+                     lösen.</p>
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Über den Mechanismus
+                     des eigentlichen Vergessens kann ich etwa folgende 
+                     Andeutungen geben. Das Erinnerungsmaterial unterliegt im allgemeinen zwei 
+                     Einflüssen, der Verdichtung und der Entstellung. Die Entstellung ist das Werk 
+                     der im Seelenleben herrschenden Tendenzen und wendet sich vor allem gegen 
+                     die affektwirksam gebliebenen Erinnerungsspuren, die sich gegen die Verdichtung
+                     resistenter verhalten. Die indifferent gewordenen Spuren verfallen dem 
+                     Verdichtungsvorgang ohne Gegenwehr, doch kann man beobachten, daß überdies
+                     Entstellungstendenzen sich an dem indifferenten Material sättigen, welche 
+                     dort, wo sie sich äußern wollten, unbefriedigt geblieben sind. Da diese Prozesse
+                     der Verdichtung und Entstellung sich über lange Zeiten hinziehen, während welcher 
+                     alle frischen Erlebnisse auf die Umgestaltung des Gedächtnisinhaltes einwirken, 
+                     meinen wir, es sei die Zeit, welche die Erinnerungen unsicher und undeutlich macht. 
+                     Sehr wahrscheinlich ist beim Vergessen von einer direkten Funktion der Zeit 
+                     überhaupt nicht die Rede. — An den verdrängten Erinnerungsspuren kann man 
+                     konstatieren, daß sie durch die längste Zeitdauer keine Veränderung erfahren 
+                     haben. Das Unbewußte ist überhaupt zeitlos. Der wichtigste und auch befremdendste
+                     Charakter der psychischen Fixierung ist der, daß alle Eindrücke einerseits in der
+                     nämlichen Art erhalten sind, wie sie aufgenommen wurden, und überdies noch in all
+                     den Formen, die sie bei den weiteren Entwicklungen angenommen 
+                     haben, ein Verhältnis, welches sich durch keinen Vergleich aus einer anderen 
+                     Sphäre erläutern läßt. Der Theorie zufolge ließe sich also jeder frühere Zustand 
+                     des Gedächtnisinhaltes wieder für die Erinnerung herstellen, auch wenn dessen 
+                     Elemente alle ursprünglichen Beziehungen längst gegen neuere eingetauscht 
+                     haben.</note>  
+                  
+                  <p>Beim Vergessen von Vorsätzen tritt ein anderes Moment in den 
+                     Vordergrund; der beim Verdrängen des peinlich zu Erinnernden nur vermutete
+                     Konflikt wird hier greifbar, und man erkennt bei der Analyse 
+                     der Beispiele regelmäßig einen Gegenwillen, der sich dem Vorsatze 
+                     widersetzt, ohne ihn aufzuheben. Wie bei früher besprochenen Fehlleistungen
+                     erkennt man auch hier zwei Typen des psychischen Vorgangs: 
+                     der Gegenwille kehrt sich entweder direkt gegen den Vorsatz (bei Absichten von
+                     einigem Belang), oder er ist dem Vorsatz selbst wesensfremd und stellt seine
+                     Verbindimg mit ihm durch eine <hi rendition="#smallcaps">äußerliche</hi> 
+                     Assoziation her (bei fast indifferenten Vorsätzen).</p> 
+                  <p>Derselbe Konflikt beherrscht die Phänomene des Vergreifens. 
+                     Der Impuls, der sich in der Störung der Handlung äußert, ist häufig 
+                     ein Gegenimpuls, doch noch öfter ein überhaupt fremder, der nur die 
+                     Gelegenheit benützt, sich bei der Ausführung der Handlung durch eine 
+                     Störung derselben zum Ausdruck zu bringen. Die Fälle, in denen die 
+                     Störung durch einen inneren Widerspruch erfolgt, sind die bedeutsameren und
+                     betreffen auch die wichtigeren Verrichtungen.</p> 
+                  <p>Der innere Konflikt tritt dann bei den Zufalls- oder Symptomhandlungen
+                     immer mehr zurück. Diese vom Bewußtsein gering geschätzten oder ganz übersehenen
+                     motorischen Äußerungen dienen so 
+                     mannigfachen unbewußten oder zurückgehaltenen Regungen zum Ausdruck; sie stellen
+                     meist Phantasien oder Wünsche symbolisch dar. —</p> 
+                  <p>Zur ersten Frage, welcher Herkunft die Gedanken und Regungen 
+                     seien, die sich in den Fehlleistungen zum Ausdruck bringen, läßt sich 
+                     sagen, daß in einer Reihe von Fällen die Herkunft der störenden Gedanken von
+                     unterdrückten Regungen des Seelenlebens leicht nachzuweisen ist. Egoistische,
+                     eifersüchtige, feindselige Gefühle und Impulse, auf denen der Druck der
+                     moralischen Erziehung lastet, bedienen 
+                     sich bei Gesunden nicht selten des Weges der Fehlleistungen, um ihre 
+                     unleugbar vorhandene, aber von höheren seelischen Instanzen nicht 
+                     anerkannte Macht irgendwie zu äußern. Das Gewährenlassen dieser 
+                     Fehl- und Zufallshandlungen entspricht zum guten Teil einer bequemen 
+                     Duldung des Unmoralischen. Unter diesen unterdrückten Regungen 
+                     spielen die mannigfachen sexuellen
+                     Strömungen keine geringfügige<lb break="paragraph"/>
 
 
             <pb n="25" xml:id="page__12268765-353e-4a34-9d34-df0d522db6d2"/>
-            <p>Deteminismus. —— Zufalls— und Aberglauhen. — Gesichtspunkte. 147<lb break="paragraph"
-               /></p>
-            <p>Rolle. Es ist ein Zufall des Materials, wenn gerade sie so selten unter<lb/> den
-               durch die Analyse aufgedeckten Gedanken in meinen Beispielen<lb/> erscheinen. Da ich
-               vorwiegend Beispiele aus meinem eigenen Seelen<lb break="no"/>leben der Analyse
-               unterzogen habe, so war die Auswahl von vornherein<lb/> parteiisch und auf den
-               Ausschluß des Sexuellen gerichtet. Andere<lb/> Male scheinen es höchst harmlose
-               Einwendungen und Rücksichten<lb/> zu sein, aus denen die störenden Gedanken
-                  entspringen.<lb break="paragraph"/></p>
-            <p>Wir stehen nun vor der Beantwong der zweiten Frage, welche<lb/> psychologischen
-               Bedingungen dafür gelten, daß ein Gedanke seinen<lb/> Ausdruck nicht in voller Form,
-               sondern in gleichsam parasitärer, als<lb/> Modifikation und Störung eines anderen
-               suchen müsse. Es liegt nach<lb/> den auffälligsten Beispielen von Fehlhandlung nahe,
-               diese Bedingung<lb/> in einer Beziehung zur Bewußtseinsiälügkeit zu suchen, in dem
-               mehr<lb/> oder minder entschieden ausgeprägten Charakter des „Verdrängten“.<lb/> Aber
-               die Verfolgung durch die Reihe der Beispiele löst diesen Charakter<lb/> in immer mehr
-               verschwommene Andeutungen auL Die Neigung,<lb/> über etwas als zeitraubend
-               hinwegzukommen, — die Erwägung, daß<lb/> der betreffende Gedanke nicht eigentlich zur
-               intendierten Sache gehört,<lb/> —— scheinen als Motive für die Zurückdrängung eines
-               Gedankens, der<lb/> dann auf den Ausdruck durch Störung eines anderen angewiesen
-               ist,<lb/> dieselbe Rolle zu spielen wie die moralische Verurteilung einer unbot<lb
-                  break="no"/>mäßigen Geiühlsregung oder die Abkunit von völlig unbewußten Ge<lb
-                  break="no"/>dankenziigen. Eine Einsicht in die allgemeine Natur der Bedingt<lb
-                  break="no"/>heit von Fehl- und Zufallsleistnngen läßt sich auf diese Weise
-               nicht<lb/> gewinnen. Einer einzigen bedeutsamen Tatsache wird man bei diesen<lb/>
-               Untersuchungen habha.ft; je hamnloser die Motivierung der Fehl<lb break="no"
-               />leistung ist, je weniger anstößig und darum weniger bewußtseins<lb break="no"
-               />unfähig der Gedanke ist, der sich in ihr zum Ausdruck bringt, desto<lb/> leichter
-               wird auch die Auﬂösung des Phänomens, wenn man ihm seine<lb/> Aufmerlßamkeit
-               zugewendet hat; die leichtesten Fälle des Versprechens<lb/> werden sofort bemerkt und
-               spontan korrigiert, Wo es sich um Moti<lb break="no"/>vierung durch wirklich
-               verdrängte Regungen handelt, da bedarf<lb/> es zur Lösung einer sorgfältigen Analyse,
-               die selbst zeitweise auf<lb/> Schwierigkeiten stoßen oder mißlingen kann.<lb
-                  break="paragraph"/></p>
-            <p>Es ist also wohl berechtigt, das Ergebnis dieser letzten Unter<lb break="no"/>suchung
-               als einen Hinweis darauf zu nehmen, daß die befriedigende<lb/> Aufklärung für die
-               psychologischen Bedingungen der Fehl— und Zu<lb break="no"/>fallshandlungen auf einem
-               anderen Wege und von anderer Seite her<lb/> zu gewinnen ist. Der nachsichtige Leser
-               möge daher in diesen Aus<lb break="no"/>einandersetzungen den Nachweis der
-               Bruchﬂächen sehen, an denen<lb break="paragraph"/></p>
-            <p>ro*<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">147</fw>Rolle. Es ist ein Zufall des Materials, wenn gerade
+                     sie so selten unter den durch die Analyse aufgedeckten Gedanken in meinen Beispielen 
+                     erscheinen. Da ich vorwiegend Beispiele aus meinem eigenen Seelenleben der
+                     Analyse unterzogen habe, so war die Auswahl von vornherein 
+                     parteiisch und auf den Ausschluß des Sexuellen gerichtet. Andere 
+                     Male scheinen es höchst harmlose Einwendungen und Rücksichten 
+                     zu sein, aus denen die störenden Gedanken entspringen.</p> 
+                  <p>Wir stehen nun vor der Beantwortung der zweiten Frage, welche 
+                     psychologischen Bedingungen dafür gelten, daß ein Gedanke seinen 
+                     Ausdruck nicht in voller Form, sondern in gleichsam parasitärer, als 
+                     Modifikation und Störung eines anderen suchen müsse. Es liegt nach 
+                     den auffälligsten Beispielen von Fehlhandlung nahe, diese Bedingung 
+                     in einer Beziehung zur Bewußtseinsfähigkeit zu suchen, in dem mehr 
+                     oder minder entschieden ausgeprägten Charakter des „Verdrängten“. 
+                     Aber die Verfolgung durch die Reihe der Beispiele löst diesen Charakter 
+                     in immer mehr verschwommene Andeutungen auf. Die Neigung, 
+                     über etwas als zeitraubend hinwegzukommen, — die Erwägung, daß 
+                     der betreffende Gedanke nicht eigentlich zur intendierten Sache gehört, 
+                     — scheinen als Motive für die Zurückdrängung eines Gedankens, der 
+                     dann auf den Ausdruck durch Störung eines anderen angewiesen ist, 
+                     dieselbe Rolle zu spielen wie die moralische Verurteilung einer unbotmäßigen
+                     Gefühlsregung oder die Abkunft von völlig unbewußten Gedankenzügen. Eine
+                     Einsicht in die allgemeine Natur der Bedingtheit von Fehl- und Zufallsleistungen
+                     läßt sich auf diese Weise nicht 
+                     gewinnen. Einer einzigen bedeutsamen Tatsache wird man bei diesen 
+                     Untersuchungen habhaft; je harmloser die Motivienmg der Fehlleistung ist, je
+                     weniger anstößig und darum weniger bewußtseinsunfähig der Gedanke ist, der sich
+                     in ihr zum Ausdruck bringt, desto 
+                     leichter wird auch die Auflösung des Phänomens, wenn man ihm seine 
+                     Aufmerksamkeit zugewendet hat; die leichtesten Fälle des Versprechens 
+                     werden sofort bemerkt und spontan korrigiert. Wo es sich um Motivierung durch
+                     wirklich verdrängte Regungen handelt, da bedarf 
+                     es zur Lösung einer sorgfältigen Analyse, die selbst zeitweise auf 
+                     Schwierigkeiten stoßen oder mißlingen kann.</p> 
+                  <p>Es ist also wohl berechtigt, das Ergebnis dieser letzten Untersuchung als
+                     einen Hinweis darauf zu nehmen, daß die befriedigende 
+                     Aufklärung für die psychologischen Bedingungen der Fehl- und Zufallshandlungen
+                     auf einem anderen Wege und von anderer Seite her 
+                     zu gewinnen ist. Der nachsichtige Leser möge daher in diesen Auseinandersetzungen
+                     den Nachweis der Bruchflächen sehen, an denen<lb break="paragraph"/>
 
 
             <pb n="26" xml:id="page__5e2670fd-d391-45fb-970f-1671f5301f7d"/>
-            <p>148 Determinismus, —— Zufalls- und Aherglnuhen. — Gesichtspunkte.<lb
-                  break="paragraph"/></p>
-            <p>dieses Thema ziemlich künstlich aus einem größeren Zusammenhange<lb/> herausgelöst
-                  wurde.<lb break="paragraph"/></p>
-            <p>VII. Einige Worte sollen'zumjmindesten die Richtung nach diesem<lb/> weiteren
-               Zusammenhange andeuten. Der Mechanismus der Fehl— und<lb/> Zufallshandlungen, wie wir
-               ihn durch die Anwendung der Analyse<lb/> kennen gelernt haben, zeigt in den
-               wesentlichsten Punkten eine Über<lb break="no"/>einstimmung mit dem Mechanismus der
-               Traumbildung, den ich in<lb/> dem Abschnitt „Traumarbeit“ meines Buches über die
-                  Traum<lb break="no"/>deutung ausei.nandergasetzt habe. Die Verdichtungen und
-               Korn.<lb/> promißbildungen (Kontaminationen) findet man hier wie dort; die<lb/>
-               Situation ist die nämliche, daß unbewußte Gedanken sich auf un—<lb/> gewöhnlichen
-               Wegen, über äußere Assoziationen, als Modiﬁkation von<lb/> anderen Gedanken zum
-               Ausdruck bringen. Die Ungereimtheiten,<lb/> Absurditäten und Irrtümer des
-               Trauminhaltes, denen zufolge der<lb/> Traum kaum als Produkt psychischer Leistung
-               anerkannt wird, ent—<lb/> stehen a.ui dieselbe Weise, freilich mit freierer Benützung
-               der vor<lb break="no"/>handenen Mittel, wie die gemeinen Fehler unseres
-               Alltagslebens;<lb/> hier wie dort löst sich der Anschein inkorrekter<lb/> Funktion
-               durch die eigentümliche Interferenz<lb/> zweier oder mehrerer korrekter Leistungen.
-               Aus<lb/> diesem Zusammentreffen ist ein wichtiger Schluß zu ziehen: Die eigen<lb
-                  break="no"/>tümliche Arbeitsweise, deren auffälligste Leistung wir im
-               Trauminhalt<lb/> erkennen, darf nicht auf den Schla.tzustand des Seelenlebens
-                  zurück<lb break="no"/>geführt werden, wenn wir in den Fehlhandlungen so reichliche
-                  Zeug<lb break="no"/>nisse fiir die Wirksamkeit während des wachen Lebens besitzen.
-                  Der<lb break="no"/>selbe Zusammenhang verbietet uns auch, tiefgreifenden Zerfall
-               der<lb/> Seelentätigkeit, krankheite Zustände der Funktion als die Bedingung<lb/>
-               dieser uns abnorm und fremdartig erscheinenden psychischen Vor<lb break="no"/>gänge
-                  anzusehen.“<lb break="paragraph"/></p>
-            <p>Die richtige Beurteilung der sonderbaren psychischen Arbeit,<lb/> welche die
-               Fehlhandlungen wie die Traumbilder entstehen läßt'), wird<lb break="paragraph"/></p>
-            <p>1) Vgl. hierzu „Traumdeutung“ p. 362.<lb break="paragraph"/></p>
-            <p>’) Die psychologischen Beziehungen der Fehlhandlungen zum Traume würden ,<lb/> einer
-               Untersuchung reiche Ausbeute versprechen Ich räumte einmal in einem<lb/> längeren
-               Zusammenhange, daß ich mein Portemonnnie verloren. Am Morgen ver<lb break="no"/>mißte
-               ich es wirklich beim Ankleiden; ich hatte vergessen es beim Auskleiden vor<lb/> der
-               Trnumnacht aus der Hosentasche zu nehmen und an seinen gewohnten Platz zu<lb/> legen.
-               Dieses Vergessen war mir also nicht unbekannt, es |ollte wahrscheinlich<lb/> einem
-               unbewußten Gedanken Ausdruck geben. der ﬁir das Auftreten im Trium—<lb/> Inhalt
-               vorbereitet war.<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">148</fw>dieses Thema ziemlich künstlich aus einem größeren
+                     Zusammenhange herausgelöst wurde.</p> 
+                  <p>VII. Einige Worte sollen zum mindesten die Richtung nach diesem 
+                     weiteren Zusammenhange andeuten. Der Mechanismus der Fehl- und 
+                     Zufallshandlungen, wie wir ihn durch die Anwendung der Analyse 
+                     kennen gelernt haben, zeigt in den wesentlichsten Punkten eine Übereinstimmung
+                     mit dem Mechanismus der Traumbildung, den ich in 
+                     dem Abschnitt „Traumarbeit“ meines Buches über die Traumdeutung auseinandergesetzt
+                     habe. Die Verdichtungen und Kompromißbildungen (Kontaminationen) findet man hier wie
+                     dort; die Situation ist die nämliche, daß unbewußte Gedanken sich auf ungewöhnlichen
+                     Wegen, über äußere Assoziationen, als Modifikation von 
+                     anderen Gedanken zum Ausdruck bringen. Die Ungereimtheiten, 
+                     Absurditäten und Irrtümer des Trauminhaltes, denen zufolge der 
+                     Traum kaum als Produkt psychischer Leistung anerkannt wdrd, entstehen
+                     auf dieselbe Weise, freilich mit freierer Benützung der vorhandenen Mittel, wie
+                     die gemeinen Fehler unseres Alltagslebens; 
+                     <hi rendition="#smallcaps">hier wie dort löst sich der Anschein inkorrekter 
+                        Funktion durch die eigentümliche Interferenz 
+                        zweier oder mehrerer korrekter Leistungen</hi>. Aus 
+                     diesem Zusammentreffen ist ein wichtiger Schluß zu ziehen: Die eigentümliche
+                     Arbeitsweise, deren auffälligste Leistung wir im Trauminhalt 
+                     erkennen, darf nicht auf den Schlafzustand des Seelenlebens zurückgeführt
+                     werden, wenn wir in den Fehlhandlungen so reichliche Zeugnisse für die
+                     Wirksamkeit während des wachen Lebens besitzen. Derselbe Zusammenhang verbietet
+                     uns auch, tiefgreifenden Zerfall der 
+                     Seelentätigkeit, krankhafte Zustände der Funktion als die Bedingung 
+                     dieser uns abnorm und fremdartig erscheinenden psychischen Vorgänge
+                     anzusehen.<hi rendition="#footnote-index">1)</hi></p> 
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">1)</hi> Vgl. hierzu
+                     „Traumdeutung“ p. 362.</note> 
+                  
+                  <p>Die richtige Beurteilung der sonderbaren psychischen Arbeit, 
+                     welche die Fehlhandlungen wie die Traumbilder entstehen
+                     läßt<hi rendition="#footnote-index">2)</hi>, wird<lb break="paragraph"/>
 
 
             <pb n="27" xml:id="page__a361c842-8e84-4751-84c2-f97d597373c9"/>
-            <p>Determinismus. — analls— und Aberglaubeu. — Gesichtspunkte. 149<lb/> uns erst
-               ermöglicht, wenn wir erfahren haben, daß die psychoneu—<lb/> rotischen Symptome,
-               speziell die psychischen Bildungen der Hysterie<lb/> und der Zwangsneurose, in ihrem
-               Mechanismus alle wesentlichen<lb/> Züge dieser Arbeitsweise wiederholen. An dieser
-               Stelle schlüsse sich<lb/> also die Fortsetzung unserer Untersuchungen an. Für uns hat
-               es<lb/> aber noch ein besonderes Interesse, die Fehl-, Zufalls— und Symptom<lb
-                  break="no"/>handlungen in dem Lichte dieser letzten Analogie zu betrachten.
-               Wenn<lb/> wir sie den Leistungen der Psychoneurosen, den neurotischen Synp<lb/>
-               ptomen, gleichstellen, gewinnen zwei oft wiederkehrende Behaup<lb break="no"/>tungen,
-               daß die Grenze zwischen nervöser Norm und Abnormität<lb/> eine ﬂießende, und daß wir
-               alle ein wenig nervös seien, Sinn und Unter<lb break="no"/>lage. Man kann sich vor
-               aller ärztlicher Erfahrung verschiedene Typen<lb/> von solcher bloß angedeuteten
-               Nervosität — von formes frustes der<lb/> Neurosen — konstruieren: Fälle, in denen nur
-               wenige Symptome,<lb/> oder diese selten oder nicht heftig auftreten, die Abschwächung
-               also<lb/> in die Zahl, in die Intensität, in die zeitliche Ausbreitung der krank<lb
-                  break="no"/>haften Erscheinungen verlegen; vielleicht würde man aber gerade<lb/>
-               den Typus nicht erraten, welcher als der häufigste den Übergang zwischen<lb/>
-               Gesundheit und Krankheit zu vermitteln scheint. Der uns vorliegende<lb/> Typus,
-               dessen Krankheitsäußerungen die Fehl- und Symptomhand<lb break="no"/>lungen sind,
-               zeichnet sich nämlich dadurch aus, daß die Symptome<lb/> in die mindost wichtigen
-               psychischen Leistungen verlegt sind, während<lb/> alles, was höheren psychischen Wert
-               beanspruchen kann, frei von<lb/> Störung vor “sich geht. Die gegenteilige
-               Unterbringung der Symptome,<lb/> ihr Hervortreten an den wichtigsten individuellen
-               und sozialen Lei<lb break="no"/>stungen, so daß sie Nahrungsaufnahme und
-               Sexualverkehr, Berufs<lb break="no"/>arbeit und Geselligkeit zu stören vermögen,
-               kommt den schweren<lb/> Fällen von Neurose zu und charakterisiert diese besser als
-               etwa die<lb/> Mannigfaltigkeit oder die Lebhaftigkeit der Krankheitsäußerungen.<lb
-                  break="paragraph"/></p>
-            <p>Der gemeinsame Charakter aber der leichtesten wie der schwersten<lb/> Fälle, an dem
-               auch die Fehl- und Zufallshandlungen Anteil haben,<lb/> liegt in der Rückführbarkeit
-               der Phänomene auf<lb/> unvollkommen unterdrücktes psychisches Ma<lb break="no"
-               />terial, das, vom Bewußtsein abgedrängt, doch<lb/> nicht jeder Fähigkeit, sich zu
-               äußern, beraubt<lb/> w o r d e 11 is t.<lb break="paragraph"/></p>
-            <p><lb break="paragraph"/></p>
+                     <fw type="pageNum">149</fw>uns erst ermöglicht, wenn wir erfahren haben, daß
+                     die psychoneurotischen Symptome, speziell die psychischen Bildungen der Hysterie 
+                     und der Zwangsneurose, in ihrem Mechanismus alle wesentlichen 
+                     Züge dieser Arbeitsweise wiederholen. An dieser Stelle schlösse sich 
+                     also die Fortsetzung unserer Untersuchungen an. Für uns hat es 
+                     aber noch ein besonderes Interesse, die Fehl-, Zufalls- und Symptomhandlungen
+                     in dem Lichte dieser letzten Analogie zu betrachten. Wenn 
+                     wir sie den Leistungen der Psychoneurosen, den neurotischen Symptomen, gleichstellen,
+                     gewinnen zwei oft wiederkehrende Behauptungen, daß die Grenze zwischen nervöser
+                     Norm und Abnormität eine fließende, und daß wir alle ein wenig nervös seien, Sinn
+                     und Unterlage. Man kann sich vor aller ärztlicher Erfahrung verschiedene Typen 
+                     von solcher bloß angedeuteten Nervosität — von formes frustes der 
+                     Neurosen — konstruieren: Fälle, in denen nur wenige Symptome, 
+                     oder diese selten oder nicht heftig auftreten, die Abschwächung also 
+                     in die Zahl, in die Intensität, in die zeitliche Ausbreitung der krankhaften
+                     Erscheinungen verlegen; vielleicht würde man aber gerade 
+                     den Typus nicht erraten, welcher als der häufigste den Übergang zwischen 
+                     Gesundheit und Krankheit zu vermitteln scheint. Der uns vorliegende 
+                     Typus, dessen Krankheitsäußerungen die Fehl- und Symptomhandlungen sind, zeichnet
+                     sich nämlich dadurch aus, daß die Symptome 
+                     in die mindest wichtigen psychischen Leistungen verlegt sind, während 
+                     alles, was höheren psychischen Wert beanspruchen kann, frei von 
+                     Störung vor sich geht. Die gegenteilige Unterbringung der Symptome, 
+                     ihr Hervortreten an den wichtigsten individuellen und sozialen Leistungen, so daß
+                     sie Nahrungsaufnahme und Sexualverkehr, Berufsarbeit und Geselligkeit zu stören
+                     vermögen, kommt den schweren 
+                     Fällen von Neurose zu und charakterisiert diese besser als etwa die 
+                     Mannigfaltigkeit oder die Lebhaftigkeit der Krankheitsäußerungen.</p> 
+                  
+                  <note type="footnote"><hi rendition="#footnote-index">2)</hi> Die psychologischen
+                     Beziehungen der Fehlhandlungen zum Traume würden 
+                     einer Untersuchung reiche Ausbeute versprechen. Ich träumte einmal in einem 
+                     längeren Zusammenhange, daß ich mein Portemonnaie verloren. Am Morgen vermißte
+                     ich es wirklich beim Ankleiden; ich hatte vergessen es beim Auskleiden vor 
+                     der Traumnacht aus der Hosentasche zu nehmen und an seinen gewohnten Platz zu 
+                     legen. Dieses Vergessen war mir also nicht unbekannt, es sollte wahrscheinlich 
+                     einem unbewußten Gedanken Ausdruck geben, der für das Auftreten im Trauminhalt
+                     vorbereitet war.</note>
+                  
+                  <p>Der gemeinsame Charakter aber der leichtesten wie der schwersten 
+                     Fälle, an dem auch die Fehl- und Zufallshandlungen Anteil haben, 
+                     liegt in der <hi rendition="#smallcaps">Rückführbarkeit der Phänomene auf 
+                        unvollkommen unterdrücktes psychisches Material, das, vom Bewußtsein
+                        abgedrängt, doch nicht jeder Fähigkeit, sich zu äußern, beraubt 
+                        worden ist</hi>.</p>
 
          </div>
       </body>
